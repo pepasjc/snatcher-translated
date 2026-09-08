@@ -36,9 +36,6 @@ it has been playable in English.
 - In the culture room the dialogue panel sits about 20 px below the text.
 - One subtitle in the final act (B250) is clipped on a cold open.
 
-Not bugs: shootouts need **SELECT** to draw the Blaster — this is the
-game's own control scheme.
-
 ## How to apply
 
 You need your own dump of *Snatcher (Japan)* in BIN/CUE form, matching the
