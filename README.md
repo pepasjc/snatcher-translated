@@ -89,9 +89,12 @@ game are compatible.
 
 ## Reporting bugs
 
+Open an issue at <https://github.com/pepasjc/snatcher-translated/issues>.
 Please include the scene or location, what was on screen (a screenshot
 helps), and a memory card save if you can. Text that overflows its box,
 a subtitle that lags or leads its voice, or any freeze — all wanted.
+
+Downloads: <https://github.com/pepasjc/snatcher-translated/releases>.
 
 ## Credits
 
