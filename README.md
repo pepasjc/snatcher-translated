@@ -1,6 +1,6 @@
 # Snatcher (PlayStation) — English Translation Patch
 
-**Version 0.5** — 2026-09-07 — by pepa
+**Version 0.5.2** — 2026-09-08 — by pepa
 
 Snatcher was released for the PlayStation in Japan only (SLPS-00154, Konami,
 1996). This patch translates it into English. The PS1 port carries the
@@ -52,7 +52,7 @@ Apply the `.xdelta` with xdelta3, Delta Patcher (Windows), MultiPatch
 (macOS) or any xdelta front-end:
 
 ```
-xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v0.5].xdelta" "Snatcher (Japan) [T-En by pepa v0.5].bin"
+xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v0.5.2].xdelta" "Snatcher (Japan) [T-En by pepa v0.5.2].bin"
 ```
 
 Put the included `.cue` next to the output `.bin`. The patched image is
