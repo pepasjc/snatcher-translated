@@ -1,6 +1,6 @@
 # Snatcher (PlayStation) — English Translation Patch
 
-**Version 0.6** — 2026-09-08 — by pepa
+**Version 0.7** — 2026-09-08 — by pepa
 
 Snatcher was released for the PlayStation in Japan only (SLPS-00154, Konami,
 1996). This patch translates it into English. The PS1 port carries the
@@ -33,7 +33,7 @@ it has been playable in English.
   assets that were already existing in the disc but unused, Lisa's body
   that was manually repainted based on the PC Engine.
 
-## Known issues (v0.6)
+## Known issues
 
 - The videophone's NOT IN SERVICE card and the dossier panels are still
   Japanese (baked images, later release).
@@ -66,10 +66,10 @@ larger than the original (relocated data is appended past the original
 end); that is expected. Expected result:
 
 ```
-Size   574094976
-CRC32  d8c20a02
-MD5    7a9623fd4f37a3ef0884c576a1ec887a
-SHA1   c0f98008118e54530e8d84ade149a1bdd140c082
+Size   573702192
+CRC32  d5475fac
+MD5    b6b825a8c91fd9879553c8a4e6e791c8
+SHA1   e6cd330feb594b3951089da866db1a400f0173f6
 ```
 
 Do not apply the patch to a `.iso` (2048-byte sectors) or a `.chd`;
