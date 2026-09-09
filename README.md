@@ -66,10 +66,10 @@ larger than the original (relocated data is appended past the original
 end); that is expected. Expected result:
 
 ```
-Size   573702192
-CRC32  d5475fac
-MD5    b6b825a8c91fd9879553c8a4e6e791c8
-SHA1   e6cd330feb594b3951089da866db1a400f0173f6
+Size   574701792
+CRC32  df11ab2b
+MD5    cc5a432d00c4b19e9eb6f446e9cac03e
+SHA1   40a1c617c2b88ba728a1d1fe6c2ddd2230b0738a
 ```
 
 Do not apply the patch to a `.iso` (2048-byte sectors) or a `.chd`;
