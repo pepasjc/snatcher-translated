@@ -1,6 +1,6 @@
 # Snatcher (PlayStation) — English Translation Patch
 
-**Version 0.5.2** — 2026-09-08 — by pepa
+**Version 0.6** — 2026-09-08 — by pepa
 
 Snatcher was released for the PlayStation in Japan only (SLPS-00154, Konami,
 1996). This patch translates it into English. The PS1 port carries the
@@ -21,13 +21,19 @@ it has been playable in English.
   the opening's title cards and the Snatcher diagram, the intro movie's
   burned-in captions and credits, and a translation card in the Konami
   boot movie.
-- **Names** follow the Sega CD localization (Random Hajile, Benson
-  Cunningham, Chin Shu Ho, Oleen Hospital, Freddy and Lisa Nielsen).
-  The Sega CD script was used as terminology and tone guidance; the PS1
-  text has extra scenes and different line breaks, so it was translated
-  fresh rather than copied.
+- **Names** follow the Japanese original, so the subtitles match what
+  the voice actors say: Randam Hajile, Dr. Madnar, Catherine Gibson,
+  Gaudi. The Sega CD script was used as terminology and tone guidance;
+  the PS1 text has extra scenes and different line breaks, so it was
+  translated fresh rather than copied.
+- **Uncensored** Konami shipped this port with pictures toned down:
+  Gibson's body at the factory ruins, the maggot-covered skull under
+  Queen Hospital, and Lisa's body at Freddy's flat.
+  This patch removes the the censorship in those scenes using original
+  assets that were already existing in the disc but unused, Lisa's body
+  that was manually repainted based on the PC Engine.
 
-## Known issues (v0.5)
+## Known issues (v0.6)
 
 - The videophone's NOT IN SERVICE card and the dossier panels are still
   Japanese (baked images, later release).
@@ -52,7 +58,7 @@ Apply the `.xdelta` with xdelta3, Delta Patcher (Windows), MultiPatch
 (macOS) or any xdelta front-end:
 
 ```
-xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v0.5.2].xdelta" "Snatcher (Japan) [T-En by pepa v0.5.2].bin"
+xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v0.6].xdelta" "Snatcher (Japan) [T-En by pepa v0.6].bin"
 ```
 
 Put the included `.cue` next to the output `.bin`. The patched image is
@@ -60,10 +66,10 @@ larger than the original (relocated data is appended past the original
 end); that is expected. Expected result:
 
 ```
-Size   574064400
-CRC32  348456d0
-MD5    71194710a45ea58e4bdeaf747ceca973
-SHA1   1ab3d4819e22419b6f2783e9b6de6a0345f00517
+Size   574094976
+CRC32  d8c20a02
+MD5    7a9623fd4f37a3ef0884c576a1ec887a
+SHA1   c0f98008118e54530e8d84ade149a1bdd140c082
 ```
 
 Do not apply the patch to a `.iso` (2048-byte sectors) or a `.chd`;
