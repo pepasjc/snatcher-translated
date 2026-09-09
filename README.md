@@ -1,6 +1,6 @@
 # Snatcher (PlayStation) — English Translation Patch
 
-**Version 0.7** — 2026-09-08 — by pepa
+**Version 0.7.1** — 2026-09-09 — by pepa
 
 Snatcher was released for the PlayStation in Japan only (SLPS-00154, Konami,
 1996). This patch translates it into English. The PS1 port carries the
@@ -58,7 +58,7 @@ Apply the `.xdelta` with xdelta3, Delta Patcher (Windows), MultiPatch
 (macOS) or any xdelta front-end:
 
 ```
-xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v0.6].xdelta" "Snatcher (Japan) [T-En by pepa v0.6].bin"
+xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v0.7.1].xdelta" "Snatcher (Japan) [T-En by pepa v0.7.1].bin"
 ```
 
 Put the included `.cue` next to the output `.bin`. The patched image is
@@ -66,10 +66,10 @@ larger than the original (relocated data is appended past the original
 end); that is expected. Expected result:
 
 ```
-Size   574701792
-CRC32  df11ab2b
-MD5    cc5a432d00c4b19e9eb6f446e9cac03e
-SHA1   40a1c617c2b88ba728a1d1fe6c2ddd2230b0738a
+Size   575054592
+CRC32  37188822
+MD5    3271ca87f06884ee135e5d9dcb0188f3
+SHA1   307713d4c999deed9ca4012858390ba5ceae5102
 ```
 
 Do not apply the patch to a `.iso` (2048-byte sectors) or a `.chd`;
@@ -78,9 +78,9 @@ movie's frames were re-encoded.
 
 ## Compatibility
 
-Tested on DuckStation and Beetle PSX (RetroArch). The image is a plain
-Mode 2 BIN/CUE and converts to CHD with `chdman createcd`. Real hardware
-via an ODE should work; reports welcome. Save files from the Japanese
+Tested on real hardware, PS3, MiSTer, DuckStation and Beetle PSX /
+Beetle PSX HW (RetroArch). The image is a plain Mode 2 BIN/CUE and
+converts to CHD with `chdman createcd`. Save files from the Japanese
 game are compatible.
 
 ## Reporting bugs
