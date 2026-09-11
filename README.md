@@ -27,6 +27,21 @@ it has been playable in English.
   the PS1 text has extra scenes and different line breaks, so it was
   translated fresh rather than copied.
 
+## How it was translated
+
+This is an AI-assisted translation, and an ongoing one. The first pass was
+machine-translated from the **Japanese PS1 script** and 
+every line is then gone over by hand: refitted to the game's byte budgets,
+re-broken for the dialogue box, and corrected where the machine pass got it
+wrong. That review continues from release to release. The voice subtitles are
+timed from a speech-recognition pass over the extracted Japanese audio and
+translated the same way.
+
+The 1994 Sega CD localization is a reference for terminology and tone where
+the scenes overlap, not a source — see **Names** above.
+
+Corrections are welcome: open an issue with the line and the scene.
+
 ## Changelog
 
 ### 0.8 — 2026-09-10
