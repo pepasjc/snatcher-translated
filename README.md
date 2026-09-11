@@ -27,13 +27,6 @@ it has been playable in English.
   the PS1 text has extra scenes and different line breaks, so it was
   translated fresh rather than copied.
 
-## Play-test status
-
-Act 1 and the start of Act 2 are fully play-tested by hand. Acts 2 and 3
-are complete and were verified by automated playthroughs of every scene,
-but have not yet had a full human play-test. Bug reports from those acts
-are especially welcome.
-
 ## Changelog
 
 ### 0.8 — 2026-09-10
