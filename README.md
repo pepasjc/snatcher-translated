@@ -30,17 +30,78 @@ it has been playable in English.
 ## How it was translated
 
 This is an AI-assisted translation, and an ongoing one. The first pass was
-machine-translated from the **Japanese PS1 script** and 
+machine-translated from the **Japanese PS1 script** — not the Sega CD — and
 every line is then gone over by hand: refitted to the game's byte budgets,
 re-broken for the dialogue box, and corrected where the machine pass got it
-wrong. That review continues from release to release. The voice subtitles are
-timed from a speech-recognition pass over the extracted Japanese audio and
-translated the same way.
+wrong. The voice subtitles are timed from a speech-recognition pass over
+the extracted Japanese audio and translated the same way.
 
-The 1994 Sega CD localization is a reference for terminology and tone where
-the scenes overlap, not a source — see **Names** above.
+I know what an AI-slop patch looks like, and I don't want this to be one.
+A lot of the effort here has gone into making sure the result is not a
+soulless machine translation: the English is read against the Japanese
+scene by scene and rewritten wherever the first pass reads like a machine
+wrote it. The Sega CD localization is a reference for terminology and tone
+where the scenes overlap, not a source — see **Names** above.
+
+This will evolve slowly. The tooling is built so that reviewing is cheap:
+every scene has the Japanese text, the byte budget and the current English
+side by side, a report lists every line that does not fit, a headless
+harness plays a scene and photographs every subtitle, and every bug has a
+save attached so it can be reached again. Reviewing a scene means sitting
+down with it, not rebuilding the pipeline. Releases will keep coming as
+scenes get their second and third pass.
 
 Corrections are welcome: open an issue with the line and the scene.
+
+## Technical Details
+
+Most of the work in this project is not translation. It is reverse
+engineering: the game's text encoding, font, dialogue box, CD streaming and
+graphics containers all had to be taken apart before a single English line
+could go in. That work is done, and it is what makes the game fully
+playable in English for everyone.
+
+**Text.** The script is not Shift-JIS. Each character is a two-byte index
+into the game's font, and every string is referenced by its byte offset,
+so a translation has to fit inside the space the Japanese line took.
+Japanese is dense — one kanji carries what takes several English letters —
+so unused kanji slots in the font are redrawn to hold two Latin letters
+each. Two letters then cost the same two bytes as one kanji, and English
+fits at Japanese density. Menu labels too short for any English word are
+appended to the end of their scene file and redirected at runtime by a
+small patch in the executable.
+
+**Extraction.** A tool walks the disc image, pulls the 39 scene files,
+decodes every string with its byte budget, and writes them out as JSON.
+The English goes back the same way: encoded with the new font, checked
+against the budget, and patched in place. A build verifies every string,
+every name and every redrawn glyph before it writes a disc.
+
+**Subtitles.** The PS1 voices were never subtitled; the game just plays the
+audio. This patch adds a small subtitle payload per scene, loaded into
+spare RAM after the scene file. Every frame it reads where the CD drive is
+in the voice stream, and when a known line starts it hands the English to
+the game's own dialogue box — the same routine that draws the script — so
+subtitles look and behave like the rest of the game's text. Cue timings
+come from speech recognition over the extracted Japanese audio, then
+checked by hand.
+
+**Graphics.** The memo pages, the New Game disclaimer, the credit roll, the
+keyboard, the opening's title cards and the intro movie's burned-in text
+are all baked images. Each lives in Konami's own compression format, which
+was decoded and re-encoded so the pictures could be redrawn in English and
+put back at the same size.
+
+**Disc.** The patched files are written back at their original positions;
+anything that grew is appended past the end of the original image, with
+fresh sector headers and error correction, so the result is a valid disc
+that boots on real hardware.
+
+## About me
+
+I'm an aerospace software engineer. I lived in Japan for four years and in
+Germany for five, and I'm now based in Brazil. This is a hobby project and
+is still a work in progress.
 
 ## Changelog
 
