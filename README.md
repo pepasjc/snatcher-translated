@@ -176,8 +176,7 @@ movie's frames were re-encoded.
 ## Compatibility
 
 Tested on real hardware, PS3, MiSTer, DuckStation and Beetle PSX /
-Beetle PSX HW (RetroArch); players report it working on PSP and PS Vita
-(Adrenaline) and on PSIO. The image is a plain Mode 2 BIN/CUE and
+Beetle PSX HW (RetroArch) and PSP. The image is a plain Mode 2 BIN/CUE and
 converts to CHD with `chdman createcd`. Save files from the Japanese
 game are compatible.
 
