@@ -1,6 +1,6 @@
 # Snatcher (PlayStation) — English Translation Patch
 
-**Version 0.8.1** — 2026-09-10 — by pepa
+**Version 0.9** — 2026-09-13 — by pepa
 
 Snatcher was released for the PlayStation in Japan only (SLPS-00154, Konami,
 1996). This patch translates it into English. The PS1 port carries the
@@ -11,10 +11,10 @@ it has been playable in English.
 
 - **The complete script** — all 39 scene banks, New Game to the ending
   (12,004 strings). Every menu, verb, item and location label.
-- **Voice subtitles** — 1,047 of the 1,130 spoken lines are subtitled,
-  drawn in the game's own dialogue box, timed to the voice. The remainder
-  are jingles, sound effects and duplicated lines. The opening narration
-  and newsreel are subtitled too.
+- **Voice subtitles** — 1,118 of the 1,130 spoken lines are subtitled,
+  drawn in the game's own dialogue box beside the speaker's portrait,
+  timed to the voice, from the opening narration to the ending. The
+  remainder are jingles, sound effects and duplicated lines.
 - **The keyboard and every typed puzzle** — Latin key faces, Latin input;
   the name search, the passwords and the videophone all work in English.
 - **Graphics** — the memo pages, the New Game disclaimer, the credit roll,
@@ -89,9 +89,11 @@ audio. This patch adds a small subtitle payload per scene, loaded into
 spare RAM after the scene file. Every frame it reads where the CD drive is
 in the voice stream, and when a known line starts it hands the English to
 the game's own dialogue box — the same routine that draws the script — so
-subtitles look and behave like the rest of the game's text. Cue timings
-come from speech recognition over the extracted Japanese audio, then
-checked by hand.
+subtitles look and behave like the rest of the game's text. In voiced
+scenes the game draws the characters' portraits in that same box, so the
+payload also moves them: only the speaker's portrait stays, at the left,
+and the subtitle sits beside it. Cue timings come from speech recognition
+over the extracted Japanese audio, then checked by hand.
 
 **Graphics.** The memo pages, the New Game disclaimer, the credit roll, the
 keyboard, the opening's title cards and the intro movie's burned-in text
@@ -129,22 +131,22 @@ SHA1   e6cd330feb594b3951089da866db1a400f0173f6
 
 Two patches are in the zip. Pick one:
 
-- `Snatcher (Japan) [T-En by pepa v0.8.1].xdelta` — the translation, with
+- `Snatcher (Japan) [T-En by pepa v0.9].xdelta` — the translation, with
   the game's artwork untouched.
-- `Snatcher (Japan) [T-En by pepa v0.8.1] (Uncensored).xdelta` — the same
+- `Snatcher (Japan) [T-En by pepa v0.9] (Uncensored).xdelta` — the same
   translation, with the PlayStation-only censorship undone.
 
 Apply it with xdelta3, Delta Patcher (Windows), MultiPatch (macOS) or any
 xdelta front-end:
 
 ```
-xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v0.8.1].xdelta" "Snatcher (Japan) [T-En by pepa v0.8.1].bin"
+xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v0.9].xdelta" "Snatcher (Japan) [T-En by pepa v0.9].bin"
 ```
 
 or
 
 ```
-xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v0.8.1] (Uncensored).xdelta" "Snatcher (Japan) [T-En by pepa v0.8.1] (Uncensored).bin"
+xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v0.9] (Uncensored).xdelta" "Snatcher (Japan) [T-En by pepa v0.9] (Uncensored).bin"
 ```
 
 Put the `.cue` of the same name next to the output `.bin`. The patched
@@ -152,19 +154,19 @@ image is larger than the original (relocated data is appended past the
 original end); that is expected. Expected results:
 
 ```
-Snatcher (Japan) [T-En by pepa v0.8.1].bin
-Size   575127504
-CRC32  1bcdba5e
-MD5    8006b69296c9594592882b926d0f3aa9
-SHA1   80a9c7af004c1442bd8371641ac516a41d5e3f92
+Snatcher (Japan) [T-En by pepa v0.9].bin
+Size   575350944
+CRC32  b12f708b
+MD5    1099b63549855d32af83ac4058f9acc1
+SHA1   496d3f7dbf9b48e457015a132df026dc60a2f08c
 ```
 
 ```
-Snatcher (Japan) [T-En by pepa v0.8.1] (Uncensored).bin
-Size   575127504
-CRC32  a7da4cad
-MD5    0f624a86587e9752e01c8b042486b37b
-SHA1   3c056d7ade1e10cdadd95524c7ac0caad74f2c57
+Snatcher (Japan) [T-En by pepa v0.9] (Uncensored).bin
+Size   575350944
+CRC32  8553deed
+MD5    6b526a447bd59d5d6a18eb184678894e
+SHA1   a617f5753a6c20e51172a716798dae9843361620
 ```
 
 Do not apply the patch to a `.iso` (2048-byte sectors) or a `.chd`;
@@ -174,7 +176,8 @@ movie's frames were re-encoded.
 ## Compatibility
 
 Tested on real hardware, PS3, MiSTer, DuckStation and Beetle PSX /
-Beetle PSX HW (RetroArch). The image is a plain Mode 2 BIN/CUE and
+Beetle PSX HW (RetroArch); players report it working on PSP and PS Vita
+(Adrenaline) and on PSIO. The image is a plain Mode 2 BIN/CUE and
 converts to CHD with `chdman createcd`. Save files from the Japanese
 game are compatible.
 
@@ -183,7 +186,10 @@ game are compatible.
 Open an issue at <https://github.com/pepasjc/snatcher-translated/issues>.
 Please include the scene or location, what was on screen (a screenshot
 helps), and a memory card save if you can. Text that overflows its box,
-a subtitle that lags or leads its voice, or any freeze — all wanted.
+a subtitle that lags or leads its voice or names the wrong speaker, or
+any freeze — all wanted. Load the game from a memory card save, not a
+save state made on an earlier version: a save state carries the old
+version's text and glyphs and shows the old bugs.
 
 Downloads: <https://github.com/pepasjc/snatcher-translated/releases>.
 

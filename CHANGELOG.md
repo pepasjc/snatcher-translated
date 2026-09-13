@@ -1,5 +1,206 @@
 # Changelog
 
+## 0.9 — 2026-09-13
+
+Entries that quote or describe later parts of the story are folded away
+under **Story spoilers** in each section - click to open them.
+
+### Script fixes
+
+- The tricycle's destination list says "Factory ruins" (was "Ruins").
+- The tricycle's destination list says "Gillian's home" (was "Home") in
+  every act.
+- Gillian's home: the Look target is "Building" (was "Home" - the
+  Japanese is the building, not the home).
+- The phone book's answer is "Homemade" (was "Home" - a
+  mistranslation).
+- The verb "Do something" everywhere the menu had "Do" or "Act".
+- "A still photo hidden in the Chief's room" (was "the Chief's rm") in
+  the five places the item is described.
+- "Gibson's living room" in Act 3 (was "Gibson's living rm.").
+- "Imagine" (was "Muse") on Randam's motorcycle.
+- "Forward" in the tube liner (was "Fwd.").
+- The Act 3 debrief's answers read "UV rays", "Gamma rays", "Life line",
+  "Loop line" and "Pollen" (were "UV ray", "Gamma", "Life", "Loop",
+  "Poln").
+- "Snatch process" in the culture room (was "Snatch proc").
+- "Disaster" (was "Ruin") in Gaudi's database and the phone book.
+- Gaudi's database: the entry header "Uncontrolled Zones" is
+  "Uncensored areas", matching the menu label that opens it.
+- The subtitles name the robot "Metal Gear", as the game's own nameplate
+  does (was "Metal").
+- Several subtitles in Act 2 and Act 3 re-read from the audio and
+  reworded, and three cards that the voice does not say removed - the
+  lines are quoted below.
+
+<details>
+<summary><b>Story spoilers</b> (Act 2 and Act 3) - 10 entries</summary>
+
+- Harry's death, re-read from the audio: "Ah... Gillian, is it. I've
+  grown old, too. What a state I'm in!" (was "I've gone and got old.
+  Look at the state of me!").
+- Harry's death: Gillian's "Old man..." is its own line before Harry's
+  "I like you. I can't put it well, but..." (the two were one card
+  under Harry's name).
+- Harry's death: "Let's have a drink of Napoleon together again" (was
+  "Let's play Napoleon again together" - Napoleon is the brandy the
+  game's own text names, not a game).
+- Harry's death: "Now... you're the last JUNKER..." (was "So... the last
+  round...").
+- Harry's death: Mika's "Harry! Harry!" (was "Rock... paper..." - a
+  transcription artefact; there is no rock-paper-scissors in the scene).
+- Harry's death: the unintelligible fragment carded as "Napoleon..."
+  before "Gillian." is gone; the card reads "Gillian...".
+- Mika at the sealed HQ: "No! Don't come! It's a trap, Gillian!" (the
+  card had only "Gillian!").
+- The morgue: "The Snatchers pick out the originals they'll snatch at
+  places like Outer Heaven, and kill them" (was "The Snatchers play the
+  part of the originals they target, in places like Outer Heaven",
+  shown three times over).
+- The basement: "Go! Die!" is one two-second card (was "Go!" for a
+  fifth of a second and "Die." held over eleven seconds of music).
+- The sealed HQ: two cards that read "I swore it to Randam. There are
+  still Snatchers in this city." are gone - the transcription had looped
+  back over earlier speech; the voice does not say them.
+
+</details>
+
+### Bug fixes
+
+- **The last scenes of the game had no subtitles.** From the door of the
+  last room of Act 3 to the escape, nothing was subtitled: the cards
+  existed but were filed under the scene before it, which had already
+  ended.
+- **The ending had never been subtitled**: the scene after the escape,
+  28 lines, written for this release.
+- **The hospital basement had no subtitles from the face reconstruction
+  on** - Metal Gear rebuilding the four faces and everything after it
+  played without text.
+- The basement: Metal's "We did it! Door 3 has opened!" after the two
+  switches are pressed together had no subtitle (#25).
+- The morgue: Gillian's "Good God..." at the sight of the bodies had no
+  subtitle (#28).
+- The news bulletin under the Act 3 title card (the Kyoto summit twelve
+  hours away, the calls to quarantine Neo Kobe) had no subtitle (#16).
+- The tube liner: Metal's explanation of the abandoned subway lines
+  ("Ah, why didn't I realise it sooner?...") had no subtitle (#16).
+- The ride on Randam's motorcycle after the sabotaged tricycle had no
+  subtitles (#21).
+- Oleen Hospital: the woman behind the blind glass ("Eeek! Pervert!",
+  "Get out of here, now!") had no subtitles.
+- The factory ruins: Metal's "Jean!!" after the scream had no subtitle.
+- **Gaudi's topic lists no longer break their entries across rows**
+  (#31): "Uncensored areas", "Back to menu", "Scanning warrant" and
+  every other right-column entry with a space had their last word pushed
+  onto the next row, in front of that row's entry.
+- **No more gaps inside words** ("hand ke rchief", "cros sr oad", "need
+  s"): every letter pair the text uses now has its own glyph; the 241
+  rarest pairs were drawn as two wide letters.
+- **Subtitles no longer end a row on a detached letter** ("So Queen
+  Hospital an d the tube liner wer e connected"): a letter left alone at
+  the end of a row was drawn as a wide, centred glyph.
+- A subtitle whose row filled the box exactly left an empty row under
+  it, pushing the rest of the text down or out of the box.
+- JUNKER HQ, Act 1: "There's a call from Jean Jack Gibson. Putting him
+  through" is Metal Gear's, not Mika's, and "Gillian! We have a case!
+  Get to the scene!" is Harry's, not the Chief's.
+- **The wrong character was named on some thirty more subtitles** in
+  the morgue, the basement, the Act 3 debrief and the last scenes - each
+  is listed below.
+- **Subtitles that came up before the voice, or flashed by unreadably**:
+  one in the sealed HQ came up four seconds early, one of Metal's
+  sentences in the morgue was carded three times in a row, a 0.7-s
+  repeat in the Act 3 debrief - listed below.
+- **A long subtitle near the end was clipped to a few characters per
+  row** for its whole duration (#4). A card that started during the
+  switch from the portrait layout to the plain box inherited a cropped
+  text area; it is redrawn in full now.
+- **A dropped instruction-cache flush after every scene load.** The
+  subtitle code is loaded fresh with each scene and the processor could
+  keep running the previous scene's copy; on real hardware that is a
+  possible cause of the rare freezes and of the bare menu after the
+  two-switch conversation (#20, #26). The PSIO freeze in Gibson's house
+  happens on the unpatched game too and is not the patch's.
+
+<details>
+<summary><b>Story spoilers</b> (Act 2 and Act 3) - 20 entries</summary>
+
+- The last room of Act 3: from the church door - Gillian finds Jamie -
+  through Jamie's memory, Madnar's confession, Metal Gear's countdown and
+  the escape from the Kremlin, none of it was subtitled (the entry
+  above).
+- The ending: the airport farewell - the flight announcement, Jamie and
+  Gillian's goodbye, Metal Gear's stopgap body, "Get aboard, quick,
+  partner" - had never been written.
+- The basement: the Chief's arrival, Chin Shu Ho's reveal and the fight
+  had no subtitles (the face-reconstruction entry above).
+- The basement: Gillian's "Th-the Chief!" had no subtitle.
+- The morgue: the taxi-driver deduction ("And the one who linked Outer
+  Heaven to the Snatchers was the taxi driver, Freddy..."), "to hide a
+  needle, a pincushion; to hide a body, a morgue" and "if we identify
+  these four bodies..." are Randam's, not Gillian's - ten cards named
+  the wrong speaker (#28).
+- The basement: "The buttons are so far apart that one person can't
+  press both at once" is Gillian's, not Metal's.
+- The basement: "By the look of it, this seems to be a very important
+  room" is Randam's, not Metal's.
+- The basement: "This is the director of this very hospital, Queen
+  Hospital" is Randam's, not Metal's.
+- The basement: "That's the freshest one. There's still skin on it" is
+  Gillian's, not Randam's.
+- The basement: "Wh-what?!" at the reveal is Randam's, not Gillian's.
+- The basement: "That's far enough, JUNKER! Let's put an end to the
+  detective games!" is Chin Shu Ho's, not the Chief's - and Chin now has
+  his portrait on his lines.
+- The Act 3 debrief: "You two are the only witnesses" is Mika's, not
+  Metal's.
+- The Act 3 debrief: "We have to find the Snatchers' hideout, fast!" is
+  Metal's, not Gillian's.
+- The Act 3 debrief: "The time limit is twelve hours" is Gillian's, not
+  Metal's.
+- The Kremlin: "That was the Snatcher Project. Secretly replace enemy
+  VIPs with puppets of the Kremlin..." is Gillian's, not Jamie's.
+- The Kremlin: "Elijah Madnar - that man in the ruined chapel, the one
+  who looked like Randam" is Gillian's, not Jamie's.
+- The Kremlin: "What a terrible thing to do..." is Gillian's, not
+  Jamie's.
+- Mika's "Harry! Why?..." at the sealed HQ came up four seconds before
+  she spoke, as a plain card, and was redrawn with her face when the
+  voice started. It comes up on the voice.
+- The morgue: one of Metal's sentences was carded three times in a row,
+  the repeats a fraction of a second long and unreadable; the Act 3
+  debrief had a 0.7-s repeat of the card before it, now merged into it.
+- The Kremlin: the clipped card was Metal's "For a radius of several
+  kilometres around me, nothing will remain" (#4).
+
+</details>
+
+### Game changes
+
+- **The speaker's portrait stays on screen, and the subtitle sits beside
+  it.** In voiced scenes the game draws the characters' portraits inside
+  the dialogue box - the same place the subtitles have to go - so earlier
+  releases hid the portraits (GitHub #8, #23). Now only the person
+  speaking is shown, at the left of the box, with the subtitle beside
+  them.
+- The speaker's name is dropped from a card that shows the speaker's
+  face, since the face says who talks. Where the speaker has no portrait
+  in that room the card keeps the name and the full width of the box.
+- The portrait leaves with its line, and the text goes with it: a card
+  no longer stays behind alone after its speaker's face slides away.
+- Portraits now cover every character the game has one for.
+- **Longer subtitle cards.** A spoken line now shares one card wherever
+  it fits the box, and a line too long for one card is cut at the end of
+  a sentence or a clause, never after the last word that happened to fit
+  ("For that too, we mustn't let the Chief reach the summit" / "venue."
+  was the kind of cut it replaces). Each card still comes up on its own
+  part of the voice.
+- **The opening narration is easier to read** (#19): the band under the
+  text is darker, so the diagram boards no longer show through it, and
+  the text no longer sits across their scrolling readouts.
+- The opening: the card that straddles the Snatcher diagram is split in
+  two, so the band no longer covers the diagram's own caption.
+
 ## 0.8.1 — 2026-09-10
 
 - **Re-issue of 0.8; the game is unchanged.** The 0.8 `(Uncensored)` image
