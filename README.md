@@ -51,6 +51,13 @@ save attached so it can be reached again. Reviewing a scene means sitting
 down with it, not rebuilding the pipeline. Releases will keep coming as
 scenes get their second and third pass.
 
+The second pass is done in a review tool built for it: every line of a
+scene on one row — speaker, the Japanese with furigana, the English, a
+button that plays the voice line straight off the disc — and a correction
+typed into the row wherever the machine pass got a line wrong or left it
+sounding like a machine. See **[The review tool](docs/review-tool.md)**
+for what it looks like and what it checks.
+
 Corrections are welcome: open an issue with the line and the scene.
 
 ## Technical Details
