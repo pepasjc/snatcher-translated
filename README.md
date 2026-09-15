@@ -1,6 +1,6 @@
 # Snatcher (PlayStation) — English Translation Patch
 
-**Version 0.9** — 2026-09-13 — by pepa
+**Version 0.9.1** — 2026-09-15 — by pepa
 
 Snatcher was released for the PlayStation in Japan only (SLPS-00154, Konami,
 1996). This patch translates it into English. The PS1 port carries the
@@ -11,7 +11,7 @@ it has been playable in English.
 
 - **The complete script** — all 39 scene banks, New Game to the ending
   (12,004 strings). Every menu, verb, item and location label.
-- **Voice subtitles** — 1,118 of the 1,130 spoken lines are subtitled,
+- **Voice subtitles** — 1,121 of the 1,130 spoken lines are subtitled,
   drawn in the game's own dialogue box beside the speaker's portrait,
   timed to the voice, from the opening narration to the ending. The
   remainder are jingles, sound effects and duplicated lines.
@@ -131,22 +131,22 @@ SHA1   e6cd330feb594b3951089da866db1a400f0173f6
 
 Two patches are in the zip. Pick one:
 
-- `Snatcher (Japan) [T-En by pepa v0.9].xdelta` — the translation, with
+- `Snatcher (Japan) [T-En by pepa v0.9.1].xdelta` — the translation, with
   the game's artwork untouched.
-- `Snatcher (Japan) [T-En by pepa v0.9] (Uncensored).xdelta` — the same
+- `Snatcher (Japan) [T-En by pepa v0.9.1] (Uncensored).xdelta` — the same
   translation, with the PlayStation-only censorship undone.
 
 Apply it with xdelta3, Delta Patcher (Windows), MultiPatch (macOS) or any
 xdelta front-end:
 
 ```
-xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v0.9].xdelta" "Snatcher (Japan) [T-En by pepa v0.9].bin"
+xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v0.9.1].xdelta" "Snatcher (Japan) [T-En by pepa v0.9.1].bin"
 ```
 
 or
 
 ```
-xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v0.9] (Uncensored).xdelta" "Snatcher (Japan) [T-En by pepa v0.9] (Uncensored).bin"
+xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v0.9.1] (Uncensored).xdelta" "Snatcher (Japan) [T-En by pepa v0.9.1] (Uncensored).bin"
 ```
 
 Put the `.cue` of the same name next to the output `.bin`. The patched
@@ -154,19 +154,19 @@ image is larger than the original (relocated data is appended past the
 original end); that is expected. Expected results:
 
 ```
-Snatcher (Japan) [T-En by pepa v0.9].bin
-Size   575350944
-CRC32  b12f708b
-MD5    1099b63549855d32af83ac4058f9acc1
-SHA1   496d3f7dbf9b48e457015a132df026dc60a2f08c
+Snatcher (Japan) [T-En by pepa v0.9.1].bin
+Size   575437968
+CRC32  a94bf39d
+MD5    1871c87c72b2b850c53db0dd50c89320
+SHA1   5c0e388eec10ae19ddc8f8b2f62154653fd7a79a
 ```
 
 ```
-Snatcher (Japan) [T-En by pepa v0.9] (Uncensored).bin
-Size   575350944
-CRC32  8553deed
-MD5    6b526a447bd59d5d6a18eb184678894e
-SHA1   a617f5753a6c20e51172a716798dae9843361620
+Snatcher (Japan) [T-En by pepa v0.9.1] (Uncensored).bin
+Size   575437968
+CRC32  64cf57d9
+MD5    3c6814cd8ba7aa6f1dddfd152169bb7b
+SHA1   00d49267030c2ea45cd03e6d26b920cf87357ec1
 ```
 
 Do not apply the patch to a `.iso` (2048-byte sectors) or a `.chd`;

@@ -1,5 +1,76 @@
 # Changelog
 
+## 0.9.1 — 2026-09-15
+
+### Game changes
+
+- The OPTION MENU has a fifth item, SPECIAL OPTIONS, that opens the
+  hidden SPECIAL MENU (wall paper per act, cursor colour, target pointer)
+  - the Konami code is no longer needed (#30); START on the OPTION MENU
+  opens it too. The Sega CD's plain black background is WALL PAPER ->
+  POE BLACK.
+- The tricycle's verbs read "Board Tricycle" and "Exit Tricycle" (were
+  "Get in" / "Get out"), after the Sega CD's ENTER/EXIT TURBOCYCLE (#34);
+  "Board" so that the door beside it, "Go inside" (was "Enter"), reads
+  apart from it.
+- The "Check" verb is "Investigate", the Sega CD's name for it.
+- A sweep over every menu label (verbs, Look and Investigate targets,
+  Ask topics, the videophone lists): some 400 labels that had been cut
+  short to fit the Japanese footprint are spelled out (Receptionist,
+  Right hand, Time bomb, Shooting range, Practice booth, Under near
+  desk / Under far desk / Behind terminal where a list showed "Under"
+  and "Behind" twice, Outline 1-6 in the montage, About Alice / About
+  Ivan for every "On X", Harry's location for a topic that read as his
+  name, Continue / Quit game after a save), and a few were wrong: the
+  pet shop's "Oume" is a parrot, Jamie's date list has the VR Aquarium,
+  her "Mind" topic is Memory, the "Chessmen" are a chessboard, the
+  JUNKER files' "City founding" is the unit's founding history, the
+  ruins' "People" is the man on the ground, and a lone "Back" that meant
+  the far desk or the back of the room says so.
+
+### Script fixes
+
+- The dash the English leaned on ("Oh, right - that's what you're here
+  for", "Plain paper--Jean's handwriting") is gone: 162 subtitle cards
+  and 259 bank strings re-punctuated with commas and full stops, where
+  the Japanese has a pause or a new sentence. A card that continues on
+  the next one no longer ends in a dash.
+- A plain-English pass over every scene (some 840 bank strings and 76
+  subtitle cards): stiff or bookish lines now read the way people talk
+  ("Hence the marksmanship" is "So you need good aim", "Function has
+  wholly ceased" is "Completely shut down", "your file says you're an
+  amnesiac" is "your file says you suffer from amnesia"), with the
+  Japanese meaning kept as it was. Gaudi's database entries and the
+  person file keep their reference tone.
+- The Chief on the Snatchers: "Nobody knows where they're from or what
+  they want" (was a fragment, "Where they come from, what they want:
+  unknown").
+
+### Bug fixes
+
+- Two of Metal Gear's replies at the Neo Kobe-yaki stand (the street
+  after meeting Napoleon) had no subtitle: his portrait sat alone in the
+  box with no text. Both are carded now, and Gillian's reply to the
+  cook (#39).
+- The fortune teller's portrait shows beside her lines, at Altamira and
+  on the Christmas visit (#36).
+- Metal Gear's portrait animates again beside his lines: the light, the
+  head turns. A still of him was being drawn over the animation (#37).
+- Gillian's sneeze in the factory ruins no longer blinks: a face the
+  game shows on its own, with no subtitle up, stays where the game puts
+  it (#38).
+- A subtitle whose speaker's portrait was a few frames from appearing
+  was drawn first in the old layout (nameplate, full-width text) and
+  redrawn beside the portrait when it came - a brief flash of the old
+  look, seen in several places on real hardware. The card now waits for
+  the portrait (#40).
+- The typed-answer field on the videophone (Napoleon's password) sits
+  inside the TV picture again: the English field has eight letter boxes
+  where the Japanese had four, and it grew to the right over the keypad.
+  It now keeps the original's centre, with the boxes a little closer
+  together; the hospital-list and cipher fields are centred the same way
+  (#35).
+
 ## 0.9 — 2026-09-13
 
 Entries that quote or describe later parts of the story are folded away
