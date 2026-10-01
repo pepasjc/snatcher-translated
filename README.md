@@ -12,15 +12,19 @@ each console.
 
 ## Which version?
 
-**The Saturn version is the definitive edition.** It has no censorship,
-and its scene pictures are at their full width, 240 pixels, the way Konami
-drew them. The PlayStation port greys out or mosaics several scenes and
-narrows every scene picture to 192 pixels by dropping columns. Play the
-Saturn version if you can.
+**The Saturn version is the definitive edition.** It shows the pictures
+the PlayStation port greys out or mosaics, and its scene pictures are at
+their full width, 240 pixels, the way Konami drew them; the PlayStation
+narrows every scene picture to 192 pixels by dropping columns. It is not
+entirely uncut: like the PlayStation, it reworks the scene of the dog
+falling from the window so the body lands with its back to the camera,
+where the PC Engine version shows its wounds. Play the Saturn version if
+you can.
 
 The PlayStation patch comes in two variants: translation only, with the
 PlayStation's art as shipped, and uncensored, which restores the pictures
-the PlayStation port censored.
+the PlayStation port greys out or mosaics. The dog scene stays as the
+PlayStation has it.
 
 | | Download | Patches |
 |---|---|---|
