@@ -1,6 +1,6 @@
 # Snatcher: English Translation (Sega Saturn and PlayStation)
 
-**Version 1.0**, 2026-09-30, by pepa
+**Version 1.0.1** (Sega Saturn, 2026-10-01) and **1.0** (PlayStation, 2026-09-30), by pepa
 
 Snatcher is Hideo Kojima's cyberpunk adventure: in Neo Kobe City, Gillian
 Seed, a detective with no memory of his past, joins the JUNKER unit to hunt
@@ -28,10 +28,15 @@ PlayStation has it.
 
 | | Download | Patches |
 |---|---|---|
-| Sega Saturn | `Snatcher-Saturn-English-v1.0.zip` | track 1 + track 2 |
+| Sega Saturn | `Snatcher-Saturn-English-v1.0.1.zip` | track 1 + track 2 |
 | PlayStation | `Snatcher-PS1-English-v1.0.zip` | translation only, or uncensored |
 
 Downloads: <https://github.com/pepasjc/snatcher-translated/releases>.
+
+Saturn 1.0.1 fixes a softlock in 1.0: after Metal Gear's introduction at
+JUNKER HQ, Harry's last subtitle stayed on screen over the menu. If you are
+playing 1.0, patch your original tracks again with 1.0.1; your saves carry
+over.
 
 ## The Saturn version
 
@@ -83,8 +88,8 @@ SHA1   a3ebab5b07a2b9a17aa68554072585be8839aba3
 (README.txt in the zip lists all three tracks.) Two patches are in the zip,
 one for track 1 and one for track 2; track 3 (the CD audio) is not changed.
 
-- `Snatcher (Japan) (Track 1) [T-En by pepa v1.0].xdelta`
-- `Snatcher (Japan) (Track 2) [T-En by pepa v1.0].xdelta`
+- `Snatcher (Japan) (Track 1) [T-En by pepa v1.0.1].xdelta`
+- `Snatcher (Japan) (Track 2) [T-En by pepa v1.0.1].xdelta`
 
 The easy way: put your three original track files in the folder you
 unzipped and run `apply.bat` (Windows, double-click) or `apply.sh` (Linux
@@ -96,24 +101,24 @@ is missing; on Linux and macOS install it first (`apt install xdelta3`,
 By hand:
 
 ```
-xdelta3 -d -s "Snatcher (Japan) (Track 1).bin" "Snatcher (Japan) (Track 1) [T-En by pepa v1.0].xdelta" "Snatcher (Japan) [T-En by pepa v1.0] (Track 1).bin"
-xdelta3 -d -s "Snatcher (Japan) (Track 2).bin" "Snatcher (Japan) (Track 2) [T-En by pepa v1.0].xdelta" "Snatcher (Japan) [T-En by pepa v1.0] (Track 2).bin"
+xdelta3 -d -s "Snatcher (Japan) (Track 1).bin" "Snatcher (Japan) (Track 1) [T-En by pepa v1.0.1].xdelta" "Snatcher (Japan) [T-En by pepa v1.0.1] (Track 1).bin"
+xdelta3 -d -s "Snatcher (Japan) (Track 2).bin" "Snatcher (Japan) (Track 2) [T-En by pepa v1.0.1].xdelta" "Snatcher (Japan) [T-En by pepa v1.0.1] (Track 2).bin"
 ```
 
 Delta Patcher (Windows) or MultiPatch (macOS) do the same with a window.
-Put `Snatcher (Japan) [T-En by pepa v1.0].cue` from the zip next to the two
+Put `Snatcher (Japan) [T-En by pepa v1.0.1].cue` from the zip next to the two
 new files and your original `Snatcher (Japan) (Track 3).bin`, and load the
 .cue. The new track 1 is larger than the original; that is expected. The
 results should hash:
 
 ```
-Snatcher (Japan) [T-En by pepa v1.0] (Track 1).bin
+Snatcher (Japan) [T-En by pepa v1.0.1] (Track 1).bin
 Size   479711568
-CRC32  df3a43b4
-MD5    72fa66b2752f61f0f204ca090d279bc2
-SHA1   7cab0b37ada98be69bf669d1c26a88d2534c0e0e
+CRC32  3c4bfeac
+MD5    f0885e32a22448f1301e69ed4b4ac522
+SHA1   68813581415ad00ea7acb99d3bc7c5fa6deaa0a3
 
-Snatcher (Japan) [T-En by pepa v1.0] (Track 2).bin
+Snatcher (Japan) [T-En by pepa v1.0.1] (Track 2).bin
 Size   58576560
 CRC32  eb6d51c3
 MD5    0eb71c69d0236e6b872905d008f6e087
@@ -122,8 +127,29 @@ SHA1   1d73a5b5f83eb455562c5bec9dba791d593fd57d
 
 ### Compatibility
 
-Tested on a MiSTer and in Beetle Saturn (RetroArch / Mednafen). The patched
-image is plain BIN/CUE and converts to CHD with `chdman createcd`.
+Tested on a MiSTer, in Beetle Saturn (RetroArch / Mednafen) and on a
+Saturn from a burned CD-R. The patched image is plain BIN/CUE and converts
+to CHD with `chdman createcd`.
+
+To burn a disc, burn from the BIN/CUE, not from a CHD. Some burning tools,
+cdrdao and the MiSTer's Disc Tools among them, refuse the cue because it
+mixes a Mode 1 and a Mode 2 data track ("Invalid combination of track
+modes"). For those, join the three tracks into one file (Windows:
+`copy /b "track1.bin" + "track2.bin" + "track3.bin" "Snatcher.bin"`,
+Linux and macOS: `cat`) and burn this cue, with the FILE line naming your
+joined file:
+
+```
+FILE "Snatcher.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+  TRACK 02 MODE2/2352
+    INDEX 00 45:19:34
+    INDEX 01 45:22:34
+  TRACK 03 AUDIO
+    INDEX 00 50:51:39
+    INDEX 01 50:53:39
+```
 
 ## The PlayStation version
 

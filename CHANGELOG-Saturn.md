@@ -1,5 +1,14 @@
 # Changelog (Sega Saturn)
 
+## 1.0.1 (2026-10-01)
+
+- Fixed a softlock after Metal Gear's introduction at JUNKER HQ. Harry's
+  last subtitle ("But this one was developed for peaceful use.") stayed
+  on screen over the verb menu, so the game looked stuck on that line
+  while it went on underneath. When the game writes its own text into an
+  open subtitle box, the subtitle code now gives the box back to it.
+  Saves from 1.0 work in 1.0.1.
+
 ## 1.0 (2026-09-30)
 
 First release.
@@ -21,3 +30,5 @@ First release.
 - Added a WALLPAPERS item to the OPTION MENU: ten backgrounds (ACT 1,
   ACT 2, ACT 3, TWINBEE, KONAMI, TOKIMEKI, ENDING, GRADIUS, TURBOCAR,
   BLACK) with a live preview, kept for the whole game.
+- Added boot screens: a translation card and a disclaimer before the
+  Konami logo.
