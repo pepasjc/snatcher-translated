@@ -1,14 +1,76 @@
 # Changelog
 
-## 0.9.1 — 2026-09-15
+## 1.0 (2026-09-30)
+
+### Game changes
+
+- Modified the text engine to read long lines from a per-scene file
+  (LONGS_<scene>.BIN) loaded into free RAM by a second CD read, through a
+  pointer table that remaps each line. Line length is no longer limited
+  by the scene's text budget.
+- Retranslated the script at full length with the new engine support.
+- Modified the dialogue paging to keep the speaker's name plate on a
+  line's continuation pages.
+- Reviewed the whole script by hand: 10,970 lines changed in the review.
+- Changed Gaudi's J.U.N.K.E.R pages to spell out the six words, two per
+  page.
+- Changed the English font to X11 "fixed" 6x13 (was MS Gothic) in
+  dialogue, subtitles, names, memo pages, the disclaimer, the credit roll
+  and the intro movie's credits.
+- Redrew the KONAMI OMNI BLDG / JUNKER HQ caption at the end of the
+  opening.
+- Moved the opening's narration subtitles below the picture, per card.
+- Uncensored patch: replaced the locker room picture with Konami's
+  uncensored art from the Saturn version.
+
+### Bug fixes
+
+- Subtitle name plates now use each speaker's own colour.
+- Fixed empty name plates for Konami, the parrot, the customer,
+  Petrovich, Randam and the driver (#66, #73).
+- Fixed EXIT on the OPTION MENU not reachable with the mouse (#77).
+- Fixed a portrait flashing at its old position mid-line (#44).
+- Fixed Napoleon's portrait flickering with text over it (#69).
+- Shortened the morgue's "Estimated time of death" label to "Time of
+  death" (#74).
+
+<details>
+<summary><b>Story spoilers</b> (Act 1, 1 entry)</summary>
+
+- Removed the misheard "Harry!" from Harry's "What good was the backup?"
+
+</details>
+
+<details>
+<summary><b>Story spoilers</b> (Act 2, 2 entries)</summary>
+
+- Fixed the speaker of "We need proof of which one is a Snatcher, as soon
+  as possible" (Metal Gear, was Gillian).
+- Re-timed the subtitles on Randam's bike after the tricycle jump and
+  fixed their speakers.
+
+</details>
+
+<details>
+<summary><b>Story spoilers</b> (Act 3, 2 entries)</summary>
+
+- Fixed the speaker of "I'm sorry I couldn't be more help, Gillian" in
+  the culture room (Metal Gear, was Mika).
+- Fixed the church's dynamite drawing over the subtitle box (#80);
+  removed the subtitles for Madnar's spelled-out names, which the game
+  shows itself (#79).
+
+</details>
+
+## 0.9.1 (2026-09-15)
 
 ### Game changes
 
 - The OPTION MENU has a fifth item, SPECIAL OPTIONS, that opens the
-  hidden SPECIAL MENU (wall paper per act, cursor colour, target pointer)
-  - the Konami code is no longer needed (#30); START on the OPTION MENU
-  opens it too. The Sega CD's plain black background is WALL PAPER ->
-  POE BLACK.
+  hidden SPECIAL MENU (wall paper per act, cursor colour, target
+  pointer); the Konami code is no longer needed (#30). START on the
+  OPTION MENU opens it too. The Sega CD's plain black background is
+  WALL PAPER -> POE BLACK.
 - The tricycle's verbs read "Board Tricycle" and "Exit Tricycle" (were
   "Get in" / "Get out"), after the Sega CD's ENTER/EXIT TURBOCYCLE (#34);
   "Board" so that the door beside it, "Go inside" (was "Enter"), reads
@@ -61,7 +123,7 @@
   it (#38).
 - A subtitle whose speaker's portrait was a few frames from appearing
   was drawn first in the old layout (nameplate, full-width text) and
-  redrawn beside the portrait when it came - a brief flash of the old
+  redrawn beside the portrait when it came: a brief flash of the old
   look, seen in several places on real hardware. The card now waits for
   the portrait (#40).
 - The typed-answer field on the videophone (Napoleon's password) sits
@@ -71,19 +133,19 @@
   together; the hospital-list and cipher fields are centred the same way
   (#35).
 
-## 0.9 — 2026-09-13
+## 0.9 (2026-09-13)
 
 Entries that quote or describe later parts of the story are folded away
-under **Story spoilers** in each section - click to open them.
+under **Story spoilers** in each section. Click to open them.
 
 ### Script fixes
 
 - The tricycle's destination list says "Factory ruins" (was "Ruins").
 - The tricycle's destination list says "Gillian's home" (was "Home") in
   every act.
-- Gillian's home: the Look target is "Building" (was "Home" - the
+- Gillian's home: the Look target is "Building" (was "Home"; the
   Japanese is the building, not the home).
-- The phone book's answer is "Homemade" (was "Home" - a
+- The phone book's answer is "Homemade" (was "Home", a
   mistranslation).
 - The verb "Do something" everywhere the menu had "Do" or "Act".
 - "A still photo hidden in the Chief's room" (was "the Chief's rm") in
@@ -101,11 +163,11 @@ under **Story spoilers** in each section - click to open them.
 - The subtitles name the robot "Metal Gear", as the game's own nameplate
   does (was "Metal").
 - Several subtitles in Act 2 and Act 3 re-read from the audio and
-  reworded, and three cards that the voice does not say removed - the
+  reworded, and three cards that the voice does not say removed; the
   lines are quoted below.
 
 <details>
-<summary><b>Story spoilers</b> (Act 2 and Act 3) - 10 entries</summary>
+<summary><b>Story spoilers</b> (Act 2 and Act 3, 10 entries)</summary>
 
 - Harry's death, re-read from the audio: "Ah... Gillian, is it. I've
   grown old, too. What a state I'm in!" (was "I've gone and got old.
@@ -114,11 +176,11 @@ under **Story spoilers** in each section - click to open them.
   "I like you. I can't put it well, but..." (the two were one card
   under Harry's name).
 - Harry's death: "Let's have a drink of Napoleon together again" (was
-  "Let's play Napoleon again together" - Napoleon is the brandy the
+  "Let's play Napoleon again together"; Napoleon is the brandy the
   game's own text names, not a game).
 - Harry's death: "Now... you're the last JUNKER..." (was "So... the last
   round...").
-- Harry's death: Mika's "Harry! Harry!" (was "Rock... paper..." - a
+- Harry's death: Mika's "Harry! Harry!" (was "Rock... paper...", a
   transcription artefact; there is no rock-paper-scissors in the scene).
 - Harry's death: the unintelligible fragment carded as "Napoleon..."
   before "Gillian." is gone; the card reads "Gillian...".
@@ -131,7 +193,7 @@ under **Story spoilers** in each section - click to open them.
 - The basement: "Go! Die!" is one two-second card (was "Go!" for a
   fifth of a second and "Die." held over eleven seconds of music).
 - The sealed HQ: two cards that read "I swore it to Randam. There are
-  still Snatchers in this city." are gone - the transcription had looped
+  still Snatchers in this city." are gone: the transcription had looped
   back over earlier speech; the voice does not say them.
 
 </details>
@@ -145,7 +207,7 @@ under **Story spoilers** in each section - click to open them.
 - **The ending had never been subtitled**: the scene after the escape,
   28 lines, written for this release.
 - **The hospital basement had no subtitles from the face reconstruction
-  on** - Metal Gear rebuilding the four faces and everything after it
+  on**: Metal Gear rebuilding the four faces and everything after it
   played without text.
 - The basement: Metal's "We did it! Door 3 has opened!" after the two
   switches are pressed together had no subtitle (#25).
@@ -176,12 +238,12 @@ under **Story spoilers** in each section - click to open them.
   through" is Metal Gear's, not Mika's, and "Gillian! We have a case!
   Get to the scene!" is Harry's, not the Chief's.
 - **The wrong character was named on some thirty more subtitles** in
-  the morgue, the basement, the Act 3 debrief and the last scenes - each
+  the morgue, the basement, the Act 3 debrief and the last scenes; each
   is listed below.
 - **Subtitles that came up before the voice, or flashed by unreadably**:
   one in the sealed HQ came up four seconds early, one of Metal's
   sentences in the morgue was carded three times in a row, a 0.7-s
-  repeat in the Act 3 debrief - listed below.
+  repeat in the Act 3 debrief. Each is listed below.
 - **A long subtitle near the end was clipped to a few characters per
   row** for its whole duration (#4). A card that started during the
   switch from the portrait layout to the plain box inherited a cropped
@@ -194,22 +256,22 @@ under **Story spoilers** in each section - click to open them.
   happens on the unpatched game too and is not the patch's.
 
 <details>
-<summary><b>Story spoilers</b> (Act 2 and Act 3) - 20 entries</summary>
+<summary><b>Story spoilers</b> (Act 2 and Act 3, 20 entries)</summary>
 
-- The last room of Act 3: from the church door - Gillian finds Jamie -
+- The last room of Act 3: from the church door (Gillian finds Jamie)
   through Jamie's memory, Madnar's confession, Metal Gear's countdown and
   the escape from the Kremlin, none of it was subtitled (the entry
   above).
-- The ending: the airport farewell - the flight announcement, Jamie and
+- The ending: the airport farewell (the flight announcement, Jamie and
   Gillian's goodbye, Metal Gear's stopgap body, "Get aboard, quick,
-  partner" - had never been written.
+  partner") had never been written.
 - The basement: the Chief's arrival, Chin Shu Ho's reveal and the fight
   had no subtitles (the face-reconstruction entry above).
 - The basement: Gillian's "Th-the Chief!" had no subtitle.
 - The morgue: the taxi-driver deduction ("And the one who linked Outer
   Heaven to the Snatchers was the taxi driver, Freddy..."), "to hide a
   needle, a pincushion; to hide a body, a morgue" and "if we identify
-  these four bodies..." are Randam's, not Gillian's - ten cards named
+  these four bodies..." are Randam's, not Gillian's; ten cards named
   the wrong speaker (#28).
 - The basement: "The buttons are so far apart that one person can't
   press both at once" is Gillian's, not Metal's.
@@ -221,7 +283,7 @@ under **Story spoilers** in each section - click to open them.
   Gillian's, not Randam's.
 - The basement: "Wh-what?!" at the reveal is Randam's, not Gillian's.
 - The basement: "That's far enough, JUNKER! Let's put an end to the
-  detective games!" is Chin Shu Ho's, not the Chief's - and Chin now has
+  detective games!" is Chin Shu Ho's, not the Chief's, and Chin now has
   his portrait on his lines.
 - The Act 3 debrief: "You two are the only witnesses" is Mika's, not
   Metal's.
@@ -250,7 +312,7 @@ under **Story spoilers** in each section - click to open them.
 
 - **The speaker's portrait stays on screen, and the subtitle sits beside
   it.** In voiced scenes the game draws the characters' portraits inside
-  the dialogue box - the same place the subtitles have to go - so earlier
+  the dialogue box (the same place the subtitles have to go), so earlier
   releases hid the portraits (GitHub #8, #23). Now only the person
   speaking is shown, at the left of the box, with the subtitle beside
   them.
@@ -272,7 +334,7 @@ under **Story spoilers** in each section - click to open them.
 - The opening: the card that straddles the Snatcher diagram is split in
   two, so the band no longer covers the diagram's own caption.
 
-## 0.8.1 — 2026-09-10
+## 0.8.1 (2026-09-10)
 
 - **Re-issue of 0.8; the game is unchanged.** The 0.8 `(Uncensored)` image
   was built over a leftover image instead of a fresh copy of the original,
@@ -284,14 +346,14 @@ under **Story spoilers** in each section - click to open them.
   both patches come from fresh, identical builds. If you already applied
   0.8, there is nothing you need to do; 0.8.1 is the one to download.
 
-## 0.8 — 2026-09-10
+## 0.8 (2026-09-10)
 
 - **Two patches: translation only, or translation plus uncensored art.**
   The plain patch leaves Konami's artwork exactly as it shipped on the
   Japanese PlayStation disc. The `(Uncensored)` patch is the one earlier
   releases were: the PlayStation port greys out the corpse in the factory
   ruins and puts a mosaic over the maggot-covered body in the hospital,
-  where the Saturn and PC Engine versions do neither — and both uncensored
+  where the Saturn and PC Engine versions do neither. Both uncensored
   pictures were left on the PS1 disc, unused. That patch loads those
   instead, and restores the female Snatcher's body. Nothing is redrawn or
   added, and the translation is identical in both. Saves work across the
@@ -299,7 +361,7 @@ under **Story spoilers** in each section - click to open them.
 - **The Act 2 videophone had no subtitles at all** (GitHub issues #17,
   #16). Calling Jamie when she is not home plays her recorded message;
   calling the Kobe Pharmaceuticals lab, Napoleon, the Chief or a wrong
-  number all answer with a voice. None of it was subtitled - the Act 2
+  number all answer with a voice. None of it was subtitled: the Act 2
   videophone scene carried no subtitle data whatsoever. Every call there
   is now carded, including the lab's greeting after Jamie's tape.
 - **The dialogue frame vanished after the emergency call from HQ**
@@ -312,8 +374,8 @@ under **Story spoilers** in each section - click to open them.
   Lisa fight, the verb menu drew over "Is it really dead?", and in the Act 2
   debrief a panel edge sat across the text.
 - **The first two and a half minutes of Act 2 had no subtitles.** Arriving
-  at HQ, Metal replays his Act 1 report to the Chief - the montage, the two
-  suspects, Lisa, Gibson's ulcer - and none of it was subtitled; text only
+  at HQ, Metal replays his Act 1 report to the Chief (the montage, the two
+  suspects, Lisa, Gibson's ulcer), and none of it was subtitled; text only
   appeared once the new montage began. The game replays a recording it also
   uses in Act 1, and the subtitles for it only existed in the Act 1 scene.
 - **Text no longer breaks in the middle of a word** (GitHub issue #14).
@@ -323,8 +385,8 @@ under **Story spoilers** in each section - click to open them.
   now breaks rows at a space, and every line of Gaudi's database and
   person files was re-broken for that terminal's narrower window.
 - **Ivan Rodriguez's door: five spoken lines had no subtitles.** After the
-  disarming shot, Gillian and Metal's exchange over the unconscious Ivan —
-  and Ivan's own plea — played over an empty box.
+  disarming shot, Gillian and Metal's exchange over the unconscious Ivan,
+  and Ivan's own plea, played over an empty box.
 - **The dialogue frame could stay stuck 80 px low** for the rest of a
   scene (GitHub issue #15). Re-entering Freddy Nielsen's room, the game's
   own text arrived while a subtitle was still closing, and the box never
@@ -332,16 +394,16 @@ under **Story spoilers** in each section - click to open them.
 - One subtitle in Freddy's apartment was spoken by Metal but labelled
   Gillian.
 
-## 0.7.1 — 2026-09-09
+## 0.7.1 (2026-09-09)
 
-- **PS3: 0.7 froze on the Sony logo - fixed** (GitHub issue #13). 0.7
+- **PS3: 0.7 froze on the Sony logo (fixed)** (GitHub issue #13). 0.7
   moved the game executable to the very last sector of the image, and the
   PS3's PlayStation emulator hangs when the drive reads ahead past the end
   of the disc; real hardware, MiSTer and the PC emulators tolerate it.
   The image now ends with the same 2-second run of empty sectors the
   original disc has after its last file.
 
-## 0.7 — 2026-09-09
+## 0.7 (2026-09-09)
 
 - **Nothing is abbreviated for space any more.** Earlier releases
   shortened labels to fit the original byte budgets; the remap that
@@ -353,9 +415,9 @@ under **Story spoilers** in each section - click to open them.
   "Volleyball", the phone book's prefectures, and every topic in Gaudi's
   database ("City founding", "Siberian Territory", "Nuclear Abolition",
   "Witch hunts", "Scanning warrant", "Nanomachines", "Retina Reading",
-  "Mars Chronicles"...) - about eighty labels in all, each checked
-  against the Japanese. Initials the Japanese script itself uses stay
-  (the dossiers' "S. Glazer", the "JK card").
+  "Mars Chronicles"...). That is about eighty labels in all, each
+  checked against the Japanese. Initials the Japanese script itself
+  uses stay (the dossiers' "S. Glazer", the "JK card").
 - **Gibson's body at the factory ruins is the disc's own uncensored
   picture and nothing more.** 0.6 also pasted his severed head into the
   shot the way the PC Engine frames it; that edit is gone. Only the
@@ -364,25 +426,25 @@ under **Story spoilers** in each section - click to open them.
   the JUNKER ID is shown inside (and the shooting that can follow). The
   lines had been filed under the entrance scene and never drew.
 - **RetroArch (Beetle PSX / Beetle PSX HW): black screen after the Konami
-  boot movie - fixed.** The translation card baked into the boot movie
+  boot movie (fixed).** The translation card baked into the boot movie
   hung the BIOS memory-card check whenever a second memory card was
   present, which every RetroArch setup has; DuckStation and hardware were
   unaffected. The boot movie is now untouched: the translation card is
   drawn by code before the game starts instead of being baked into the
   movie.
-- Gaudi's name search drew only the highlighted key - no keyboard, no
-  input box - in any game started from New Game (GitHub issue #12). The
+- Gaudi's name search drew only the highlighted key (no keyboard, no
+  input box) in any game started from New Game (GitHub issue #12). The
   opening's subtitles left part of the dialogue sprite set in a state the
   game's own start-up then skipped over. Present since 0.5; fixed.
 - Outer Heaven's interior said "Use Metal" where every other place says
   "Use Metal Gear" (GitHub issue #10).
 
-## 0.6 — 2026-09-08
+## 0.6 (2026-09-08)
 
 - Character names now follow the Japanese original instead of the Sega CD
-  localization (GitHub issue #1): **Randam Hajile** (not Random - the name
+  localization (GitHub issue #1): **Randam Hajile** (not Random; the name
   is Madnar spelled backwards), **Dr. Madnar** (not Modnar), **Catherine
-  Gibson** (not Katrina - カトリーヌ), **Gaudi** (the JUNKER computer).
+  Gibson** (カトリーヌ, not Katrina), **Gaudi** (the JUNKER computer).
   Applied everywhere: dialogue, voice subtitles, menus, the Gaudi name
   search, the memo pages, the credit rolls.
 - Menu labels that never fit their slots now have room: the label
@@ -404,10 +466,10 @@ under **Story spoilers** in each section - click to open them.
   maggot-covered body and its insects, on the torn collar at Gibson's
   house, and Gillian on the rows of pods.
 - A few voice lines showed a short card where a longer, complete one had
-  been written (GitHub issue #9) - Ivan's scanning-warrant speech, Harry
+  been written (GitHub issue #9): Ivan's scanning-warrant speech, Harry
   calling Metal Gear in. The complete cards show now.
 
-## 0.5.2 — 2026-09-08
+## 0.5.2 (2026-09-08)
 
 First round of play-test reports from the v0.5.1 build, all in Act 1:
 
@@ -421,14 +483,14 @@ First round of play-test reports from the v0.5.1 build, all in Act 1:
   "Revolt?"; his first greeting is "Yeah? Who is it?" (was a
   mis-transcription); Jamie's date menu says "Sea" instead of "Se".
 - The picture item label reads "Pic" in three rooms (B060, B080, Gillian's
-  flat) — the space went to the fixes above.
+  flat); the space went to the fixes above.
 
-## 0.5.1 — 2026-09-07
+## 0.5.1 (2026-09-07)
 
 - The flight to the factory ruins (the narration over Gillian in the
   cockpit) is subtitled.
 
-## 0.5 — 2026-09-07
+## 0.5 (2026-09-07)
 
 - First public release.
 
