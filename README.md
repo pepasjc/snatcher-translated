@@ -1,6 +1,6 @@
 # Snatcher: English Translation (Sega Saturn and PlayStation)
 
-**Version 1.0.1** (Sega Saturn, 2026-10-01) and **1.0** (PlayStation, 2026-09-30), by pepa
+**Version 1.0.1**, 2026-10-01, by pepa
 
 Snatcher is Hideo Kojima's cyberpunk adventure: in Neo Kobe City, Gillian
 Seed, a detective with no memory of his past, joins the JUNKER unit to hunt
