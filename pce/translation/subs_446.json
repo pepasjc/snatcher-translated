@@ -1,0 +1,397 @@
+{
+ "86": {
+  "speaker": "Metal Gear",
+  "en": "Promise you'll come back.",
+  "ps1": [
+   "B250_c10f52"
+  ],
+  "cards": [
+   "Promise you'll come|back."
+  ],
+  "layout": "plain"
+ },
+ "b2": {
+  "speaker": "Gillian",
+  "en": "Is he dead?",
+  "ps1": [
+   "B100_004"
+  ],
+  "cards": [
+   "Is he dead?"
+  ]
+ },
+ "b3": {
+  "speaker": "Metal Gear",
+  "en": "He's just unconscious. Nice shot, right in the hand.",
+  "ps1": [
+   "B100_005"
+  ],
+  "cards": [
+   "He's just|unconscious. Nice|shot, right in the|hand."
+  ]
+ },
+ "b4": {
+  "speaker": "Gillian",
+  "en": "That's not where I was aiming.",
+  "ps1": [
+   "B100_006"
+  ],
+  "cards": [
+   "That's not where I|was aiming."
+  ]
+ },
+ "b5": {
+  "speaker": "Gillian",
+  "en": "Hey! How long are you going to lie there?",
+  "ps1": [
+   "B100_007"
+  ],
+  "cards": [
+   "Hey! How long are you|going to lie there?"
+  ],
+  "layout": "plain"
+ },
+ "b6": {
+  "speaker": "Thug",
+  "en": "Aagh! H-help me!",
+  "ps1": [
+   "B100_008"
+  ],
+  "cards": [
+   "Aagh! H-help me!"
+  ],
+  "layout": "plain"
+ },
+ "b7": {
+  "speaker": "Metal Gear",
+  "en": "Gillian, you mustn't kill him. That violates the second of JUNKER's five rules. We need evidence that Ivan is a Snatcher. The shooting just now counts as self-defense, but...",
+  "ps1": [
+   "B110_000",
+   "B110_000b",
+   "B110_000c",
+   "B110_000d"
+  ],
+  "cards": [
+   "Gillian, you|mustn't kill him.",
+   "That violates the|second of JUNKER's|five rules.",
+   "We need evidence|that Ivan is a|Snatcher.",
+   "The shooting just|now counts as|self-defense, but..."
+  ],
+  "turns": [
+   3.0,
+   5.62,
+   7.62
+  ]
+ },
+ "b8": {
+  "speaker": "Gillian",
+  "en": "Damn it!",
+  "ps1": [
+   "B110_001"
+  ],
+  "cards": [
+   "Damn it!"
+  ],
+  "layout": "plain"
+ },
+ "b9": {
+  "speaker": "Metal Gear",
+  "en": "Let's check the bathroom. We might find that sunscreen.",
+  "ps1": [
+   "B110_002",
+   "B110_002b"
+  ],
+  "cards": [
+   "Let's check the|bathroom. We might|find that sunscreen."
+  ]
+ },
+ "ba": {
+  "speaker": "Gillian",
+  "en": "Good idea.",
+  "ps1": [
+   "B110_003"
+  ],
+  "cards": [
+   "Good idea."
+  ],
+  "layout": "plain"
+ },
+ "bb": {
+  "speaker": "Metal Gear",
+  "en": "Let's go to the bathroom, then.",
+  "ps1": [
+   "B110_004"
+  ],
+  "cards": [
+   "Let's go to the|bathroom, then."
+  ]
+ },
+ "bc": {
+  "speaker": "Gillian",
+  "en": "That's what it looks like.",
+  "ps1": [
+   "B110_f1_0"
+  ],
+  "cards": [
+   "That's what it|looks like."
+  ]
+ },
+ "bd": {
+  "speaker": "Metal Gear",
+  "en": "So Ivan's just a drug dealer. That's what he was hiding.",
+  "ps1": [
+   "B110_f2_0"
+  ],
+  "cards": [
+   "So Ivan's just a|drug dealer. That's|what he was hiding."
+  ]
+ },
+ "be": {
+  "speaker": "Gillian",
+  "en": "Ivan was using tanning oil, not sunscreen, when he went aero-surfing.",
+  "ps1": [
+   "B110_f3_0",
+   "B110_f3_0b"
+  ],
+  "cards": [
+   "Ivan was using|tanning oil, not|sunscreen, when he|went aero-surfing."
+  ]
+ },
+ "bf": {
+  "speaker": "Metal Gear",
+  "en": "He got that deep tan from ultraviolet rays, the very thing Snatchers fear most.",
+  "ps1": [
+   "B110_f4_0",
+   "B110_f4_0b"
+  ],
+  "cards": [
+   "He got that deep|tan from|ultraviolet rays,",
+   "the very thing|Snatchers fear most."
+  ],
+  "turns": [
+   3.36
+  ]
+ },
+ "c0": {
+  "speaker": "Gillian",
+  "en": "Yet there was nothing wrong with his skin. I can't believe it's artificial.",
+  "ps1": [
+   "B110_f5_0",
+   "B110_f5_0b"
+  ],
+  "cards": [
+   "Yet there was|nothing wrong with|his skin.",
+   "I can't believe|it's artificial."
+  ],
+  "turns": [
+   2.88
+  ]
+ },
+ "c1": {
+  "speaker": "Metal Gear",
+  "en": "It seems Ivan isn't a Snatcher.",
+  "ps1": [
+   "B110_f6_0"
+  ],
+  "cards": [
+   "It seems Ivan isn't|a Snatcher."
+  ]
+ },
+ "c2": {
+  "speaker": "Gillian",
+  "en": "Hey! Wake up!",
+  "ps1": [
+   "B110_f7_0"
+  ],
+  "cards": [
+   "Hey! Wake up!"
+  ],
+  "layout": "plain"
+ },
+ "c3": {
+  "speaker": "Ivan",
+  "en": "I'm just a dealer. I only handle Liquid Sky. Give me a break. Hurry and call an ambulance!",
+  "ps1": [
+   "B110_f8_0",
+   "B110_f8_0b"
+  ],
+  "cards": [
+   "I'm just a dealer. I only|handle Liquid Sky. Give me a break.",
+   "Hurry and call an|ambulance!"
+  ],
+  "layout": "plain",
+  "turns": [
+   6.0
+  ]
+ },
+ "c4": {
+  "speaker": "Gillian",
+  "en": "I'm not a cop. I'm a JUNKER! I don't care if you're a dealer! I want to know if you're human or a Snatcher!",
+  "ps1": [
+   "B110_f9_0",
+   "B110_f9_0b",
+   "B110_f9_0c"
+  ],
+  "cards": [
+   "I'm not a cop. I'm a|JUNKER!",
+   "I don't care if|you're a dealer!",
+   "I want to know if|you're human or a Snatcher!"
+  ],
+  "layout": "plain",
+  "turns": [
+   2.76,
+   5.58
+  ]
+ },
+ "c5": {
+  "speaker": "Metal Gear",
+  "en": "Gillian, Ivan's skin is normal. With that tan and no melanoma, he's in the clear.",
+  "ps1": [
+   "B110_f10_0",
+   "B110_f10_0b"
+  ],
+  "cards": [
+   "Gillian, Ivan's|skin is normal.",
+   "With that tan and|no melanoma, he's|in the clear."
+  ],
+  "turns": [
+   3.48
+  ]
+ },
+ "c6": {
+  "speaker": "Metal Gear",
+  "en": "HQ just sent us a scanning warrant. Under Article 18 of the Civil Code, the Human Rights Protection Ordinance on Snatchers, I will now scan Ivan.",
+  "ps1": [
+   "B110_f11_0",
+   "B110_f11_0b",
+   "B110_f11_0c",
+   "B110_f11_0d"
+  ],
+  "cards": [
+   "HQ just sent us a|scanning warrant.",
+   "Under Article 18 of|the Civil Code, the|Human Rights",
+   "Protection|Ordinance on|Snatchers, I will|now scan Ivan."
+  ],
+  "turns": [
+   4.48,
+   7.28
+  ]
+ },
+ "c7": {
+  "speaker": "Metal Gear",
+  "en": "The scan is complete. Ivan Rodriguez is entirely Homo sapiens.",
+  "ps1": [
+   "B110_f12_0"
+  ],
+  "cards": [
+   "The scan is|complete.",
+   "Ivan Rodriguez is|entirely Homo|sapiens."
+  ],
+  "turns": [
+   2.66
+  ]
+ },
+ "c8": {
+  "speaker": "Ivan",
+  "en": "That's what I've been telling you! I'm no Snatcher! Get me a doctor, quick!",
+  "ps1": [
+   "B110_f13_0",
+   "B110_f13_0b"
+  ],
+  "cards": [
+   "That's what I've|been telling you!|I'm no Snatcher!",
+   "Get me a doctor,|quick!"
+  ],
+  "turns": [
+   4.32
+  ]
+ },
+ "c9": {
+  "speaker": "Gillian",
+  "en": "Try packing the wound with your drugs.",
+  "ps1": [
+   "B110_f14_0"
+  ],
+  "cards": [
+   "Try packing the|wound with your|drugs."
+  ]
+ },
+ "ca": {
+  "speaker": "Ivan",
+  "en": "What did I ever do to you?",
+  "ps1": [
+   "B110_f15_0"
+  ],
+  "cards": [
+   "What did I ever do|to you?"
+  ]
+ },
+ "cb": {
+  "speaker": "Gillian",
+  "en": "The nice men from Narcotics are coming. They will be here soon. Go cry to them.",
+  "ps1": [
+   "B110_f16_0",
+   "B110_f16_0b"
+  ],
+  "cards": [
+   "The nice men from|Narcotics are|coming. They will|be here soon.",
+   "Go cry to them."
+  ],
+  "turns": [
+   2.94
+  ]
+ },
+ "cc": {
+  "speaker": "Ivan",
+  "en": "Hey! Help me! What did I do? I just love aero-surfing! I only wanted to win the championship! I needed money!",
+  "ps1": [
+   "B110_f17_0",
+   "B110_f17_0b"
+  ],
+  "cards": [
+   "Hey! Help me! What|did I do? I just|love aero-surfing!",
+   "I only wanted to|win the|championship! I|needed money!"
+  ],
+  "turns": [
+   5.36
+  ]
+ },
+ "cd": {
+  "speaker": "Ivan",
+  "en": "They're only drugs! Even kids have them!",
+  "ps1": [
+   "B110_f18_0"
+  ],
+  "cards": [
+   "They're only drugs!|Even kids have them!"
+  ]
+ },
+ "ce": {
+  "speaker": "Metal Gear",
+  "en": "So Ivan Rodriguez wasn't a Snatcher at all.",
+  "ps1": [
+   "B110_f19_0"
+  ],
+  "cards": [
+   "So Ivan Rodriguez|wasn't a Snatcher|at all."
+  ]
+ },
+ "cf": {
+  "speaker": "Gillian",
+  "en": "Unlucky for him. His face just happened to match. That leaves Freddy Nielsen.",
+  "ps1": [
+   "B110_f20_0",
+   "B110_f20_0b"
+  ],
+  "cards": [
+   "Unlucky for him.|His face just|happened to match.",
+   "That leaves Freddy|Nielsen."
+  ],
+  "turns": [
+   5.18
+  ]
+ },
+ "_unmatched": {
+  "19": "0.12 XAS_S000.XA[77]"
+ }
+}

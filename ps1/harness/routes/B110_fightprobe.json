@@ -1,0 +1,18 @@
+{
+ "scene": "B110",
+ "fight": "cell4",
+ "note": "fight probe",
+ "actions": [
+  {
+   "path": [
+    "Talk"
+   ],
+   "reps": 3,
+   "optional": true,
+   "patience": 6000
+  },
+  {
+   "idle": 1500
+  }
+ ]
+}

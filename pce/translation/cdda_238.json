@@ -1,0 +1,689 @@
+[
+ {
+  "track": 5,
+  "start": 5.2,
+  "end": 11.88,
+  "speaker": "Chief",
+  "en": "Let's go over your report again. Metal Gear, if you would.",
+  "ps1": "B080_2_00",
+  "ps1_more": [
+   "B080_2_00b"
+  ],
+  "cards": [
+   "Let's go over your|report again. Metal|Gear, if you would."
+  ],
+  "layout": "face",
+  "reveal_end": 11.48
+ },
+ {
+  "track": 5,
+  "start": 11.88,
+  "end": 20.08,
+  "speaker": "Metal Gear",
+  "en": "Yes. I'll play back the footage I recorded.",
+  "ps1": "B080_2_01",
+  "cards": [
+   "Yes. I'll play back|the footage I|recorded."
+  ],
+  "layout": "face",
+  "reveal_end": 16.58
+ },
+ {
+  "track": 5,
+  "start": 20.08,
+  "end": 26.68,
+  "speaker": "Chief",
+  "en": "After Gibson contacted you, you went straight to the factory ruins in the M district.",
+  "ps1": "B080_2_01b",
+  "ps1_more": [
+   "B080_2_01c"
+  ],
+  "layout": "face",
+  "cards": [
+   "After Gibson|contacted you,",
+   "you went straight|to the factory|ruins in the M|district."
+  ],
+  "reveal_end": 26.1
+ },
+ {
+  "track": 5,
+  "start": 26.68,
+  "end": 33.02,
+  "speaker": "Chief",
+  "en": "Someone had murdered Gibson inside the factory ruins.",
+  "ps1": "B080_2_01d",
+  "layout": "face",
+  "cards": [
+   "Someone had|murdered Gibson|inside the factory|ruins."
+  ],
+  "reveal_end": 31.6
+ },
+ {
+  "track": 5,
+  "start": 33.02,
+  "end": 41.88,
+  "speaker": "Chief",
+  "en": "Hair and skin found on his body suggest two Snatchers killed him, one male and one female.",
+  "ps1": "B080_2_01e",
+  "ps1_more": [
+   "B080_2_01f"
+  ],
+  "layout": "face",
+  "cards": [
+   "Hair and skin found|on his body suggest|two Snatchers|killed him,",
+   "one male and one|female."
+  ],
+  "reveal_end": 40.8
+ },
+ {
+  "track": 5,
+  "start": 41.88,
+  "end": 49.96,
+  "speaker": "Chief",
+  "en": "Gibson's investigation records on the floppy disk revealed a serious weakness in the Snatchers.",
+  "ps1": "B080_2_01g",
+  "layout": "face",
+  "cards": [
+   "Gibson's|investigation|records",
+   "on the floppy disk|revealed a serious|weakness in the|Snatchers."
+  ],
+  "reveal_end": 49.32
+ },
+ {
+  "track": 5,
+  "start": 49.96,
+  "end": 56.72,
+  "speaker": "Chief",
+  "en": "It seems the Snatchers killed Gibson because he discovered it.",
+  "ps1": "B080_2_01j",
+  "layout": "plain",
+  "cards": [
+   "It seems the Snatchers|killed Gibson",
+   "because he discovered|it."
+  ],
+  "reveal_end": 55.0
+ },
+ {
+  "track": 5,
+  "start": 56.72,
+  "end": 64.0,
+  "speaker": "Chief",
+  "en": "Their weakness lies in how they differ from real humans.",
+  "ps1": "B080_2_01l",
+  "ps1_more": [
+   "B080_2_01m"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Their weakness lies in|how they differ from real humans."
+  ],
+  "reveal_end": 63.5
+ },
+ {
+  "track": 5,
+  "start": 64.0,
+  "end": 70.16,
+  "speaker": "Chief",
+  "en": "Prolonged UV exposure makes their artificial skin cancerous.",
+  "ps1": "B080_2_01n",
+  "layout": "plain",
+  "cards": [
+   "Prolonged UV exposure|makes",
+   "their artificial skin|cancerous."
+  ],
+  "reveal_end": 69.62
+ },
+ {
+  "track": 5,
+  "start": 70.16,
+  "end": 75.2,
+  "speaker": "Chief",
+  "en": "It develops a form of malignant melanoma.",
+  "ps1": "B080_2_01o",
+  "layout": "plain",
+  "cards": [
+   "It develops a form of|malignant melanoma."
+  ],
+  "reveal_end": 74.0
+ },
+ {
+  "track": 5,
+  "start": 75.2,
+  "end": 80.08,
+  "speaker": "Chief",
+  "en": "This limits where and when they can operate.",
+  "ps1": "B080_2_01p",
+  "layout": "plain",
+  "cards": [
+   "This limits where and|when they can operate."
+  ],
+  "reveal_end": 79.68
+ },
+ {
+  "track": 5,
+  "start": 80.08,
+  "end": 86.6,
+  "speaker": "Chief",
+  "en": "Only at night, in midwinter when the days are short.",
+  "ps1": "B080_2_01q",
+  "layout": "plain",
+  "cards": [
+   "Only at night, in|midwinter when the days are short."
+  ],
+  "reveal_end": 85.86
+ },
+ {
+  "track": 5,
+  "start": 86.6,
+  "end": 93.98,
+  "speaker": "Chief",
+  "en": "Their artificial skin needs at least six months to stabilize.",
+  "ps1": "B080_2_01r",
+  "layout": "plain",
+  "cards": [
+   "Their artificial skin|needs",
+   "at least six months to|stabilize."
+  ],
+  "reveal_end": 92.6
+ },
+ {
+  "track": 5,
+  "start": 93.98,
+  "end": 103.04,
+  "speaker": "Chief",
+  "en": "Those six months are their weakness. They must stay out of UV light for that entire time.",
+  "ps1": "B080_2_01t",
+  "ps1_more": [
+   "B080_2_01u"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Those six months are|their weakness.",
+   "They must stay out of|UV light for that entire time."
+  ],
+  "reveal_end": 101.88
+ },
+ {
+  "track": 5,
+  "start": 103.04,
+  "end": 111.52,
+  "speaker": "Chief",
+  "en": "Gibson must have uncovered this using his skills as a former Science Cop.",
+  "ps1": "B080_2_01v",
+  "layout": "plain",
+  "cards": [
+   "Gibson must have|uncovered this using his skills",
+   "as a former Science Cop."
+  ],
+  "reveal_end": 109.74
+ },
+ {
+  "track": 5,
+  "start": 111.52,
+  "end": 118.02,
+  "speaker": "Chief",
+  "en": "That's why they wore sunscreen, even in midwinter.",
+  "ps1": "B080_2_01x",
+  "layout": "face",
+  "cards": [
+   "That's why they|wore sunscreen,|even in midwinter."
+  ],
+  "reveal_end": 117.94
+ },
+ {
+  "track": 5,
+  "start": 118.02,
+  "end": 126.02,
+  "speaker": "Chief",
+  "en": "All this means they need one thing to survive.",
+  "ps1": "B080_2_01y",
+  "layout": "face",
+  "cards": [
+   "All this means they|need one thing to|survive."
+  ],
+  "reveal_end": 123.84
+ },
+ {
+  "track": 5,
+  "start": 126.02,
+  "end": 132.76,
+  "speaker": "Chief",
+  "en": "A hospital that can maintain their cancerous artificial skin.",
+  "ps1": "B080_2_01z",
+  "ps1_more": [
+   "B080_2_01x26"
+  ],
+  "layout": "face",
+  "cards": [
+   "A hospital that can|maintain their|cancerous|artificial skin."
+  ],
+  "reveal_end": 132.48
+ },
+ {
+  "track": 5,
+  "start": 132.76,
+  "end": 139.92,
+  "speaker": "Chief",
+  "en": "Gibson may have found the hospital doing that maintenance.",
+  "ps1": "B080_2_01x27",
+  "layout": "face",
+  "cards": [
+   "Gibson may have|found the hospital|doing that|maintenance."
+  ],
+  "reveal_end": 138.4
+ },
+ {
+  "track": 5,
+  "start": 139.92,
+  "end": 152.7,
+  "speaker": "Chief",
+  "en": "To retrace Gibson's steps, you followed the whale meat in his stomach to Outer Heaven, the only restaurant that serves it.",
+  "ps1": "B080_2_01x29",
+  "layout": "face",
+  "cards": [
+   "To retrace Gibson's|steps, you followed|the whale meat",
+   "in his stomach to|Outer Heaven, the|only restaurant|that serves it."
+  ],
+  "reveal_end": 151.7
+ },
+ {
+  "track": 6,
+  "start": 2.88,
+  "end": 7.34,
+  "speaker": "Chief",
+  "en": "Dancer Isabella Velvet's account was used to make a composite",
+  "layout": "face",
+  "reveal_end": 7.34,
+  "ps1": "B140_f3_00",
+  "cards": [
+   "Dancer Isabella|Velvet's account|was used to make a|composite"
+  ]
+ },
+ {
+  "track": 6,
+  "start": 7.34,
+  "end": 14.34,
+  "speaker": "Chief",
+  "en": "of the man Gibson had been following.",
+  "layout": "face",
+  "reveal_end": 12.0,
+  "ps1": "B140_f3_00b",
+  "cards": [
+   "of the man Gibson|had been following."
+  ]
+ },
+ {
+  "track": 6,
+  "start": 14.34,
+  "end": 21.84,
+  "speaker": "Chief",
+  "en": "HQ's main computer, Gaudi, checked the composite. Two men matched and became suspects:",
+  "ps1": "B140_f3_00c",
+  "ps1_more": [
+   "B140_f3_00d"
+  ],
+  "layout": "face",
+  "cards": [
+   "HQ's main computer,|Gaudi, checked the|composite.",
+   "Two men matched and|became suspects:"
+  ],
+  "reveal_end": 21.68
+ },
+ {
+  "track": 6,
+  "start": 21.84,
+  "end": 30.8,
+  "speaker": "Chief",
+  "en": "Ivan Rodriguez and Freddy Nielsen. Ivan was cleared.",
+  "ps1": "B140_f3_00e",
+  "ps1_more": [
+   "B140_f3_00f"
+  ],
+  "layout": "face",
+  "cards": [
+   "Ivan Rodriguez and|Freddy Nielsen.|Ivan was cleared."
+  ],
+  "reveal_end": 30.8
+ },
+ {
+  "track": 6,
+  "start": 30.8,
+  "end": 39.44,
+  "speaker": "Chief",
+  "en": "Despite his tan, there was no malignant melanoma on his skin.",
+  "ps1": "B140_f3_00g",
+  "layout": "face",
+  "cards": [
+   "Despite his tan,|there was no|malignant melanoma|on his skin."
+  ],
+  "reveal_end": 38.44
+ },
+ {
+  "track": 6,
+  "start": 39.44,
+  "end": 45.16,
+  "speaker": "Chief",
+  "en": "His Liquid Sky case was handed over to the Narcotics Enforcement Special Investigation Division.",
+  "ps1": "B140_f3_00h",
+  "ps1_more": [
+   "B140_f3_00i"
+  ],
+  "layout": "face",
+  "cards": [
+   "His Liquid Sky case|was handed over",
+   "to the Narcotics|Enforcement Special|Investigation|Division."
+  ],
+  "reveal_end": 43.74
+ },
+ {
+  "track": 6,
+  "start": 45.16,
+  "end": 51.42,
+  "speaker": "Chief",
+  "en": "A search of Freddy Nielsen's home found large amounts of sunscreen.",
+  "ps1": "B140_f3_00j",
+  "layout": "face",
+  "cards": [
+   "A search of Freddy|Nielsen's home|found large amounts|of sunscreen."
+  ],
+  "reveal_end": 51.06
+ },
+ {
+  "track": 6,
+  "start": 51.42,
+  "end": 56.76,
+  "speaker": "Chief",
+  "en": "His wife, Lisa Nielsen, was exposed as a Snatcher and eliminated.",
+  "ps1": "B140_f3_00l",
+  "ps1_more": [
+   "B140_f3_00m"
+  ],
+  "layout": "face",
+  "cards": [
+   "His wife, Lisa|Nielsen,",
+   "was exposed as a|Snatcher and|eliminated."
+  ],
+  "reveal_end": 56.1
+ },
+ {
+  "track": 6,
+  "start": 56.76,
+  "end": 64.18,
+  "speaker": "Chief",
+  "en": "The skin cells under Gibson's nails were identified as Lisa's.",
+  "ps1": "B140_f3_00n",
+  "layout": "face",
+  "cards": [
+   "The skin cells",
+   "under Gibson's|nails were|identified as|Lisa's."
+  ],
+  "reveal_end": 62.18
+ },
+ {
+  "track": 6,
+  "start": 64.18,
+  "end": 68.66,
+  "speaker": "Chief",
+  "en": "Freddy Nielsen was also exposed as a Snatcher and eliminated.",
+  "ps1": "B140_f3_00p",
+  "layout": "face",
+  "cards": [
+   "Freddy Nielsen was|also exposed as a|Snatcher and|eliminated."
+  ],
+  "reveal_end": 68.6
+ },
+ {
+  "track": 6,
+  "start": 68.66,
+  "end": 73.42,
+  "speaker": "Chief",
+  "en": "The hair in Gibson's hand was identified as Freddy's.",
+  "ps1": "B140_f3_00q",
+  "layout": "face",
+  "cards": [
+   "The hair in|Gibson's hand was|identified as|Freddy's."
+  ],
+  "reveal_end": 73.22
+ },
+ {
+  "track": 6,
+  "start": 73.42,
+  "end": 79.7,
+  "speaker": "Chief",
+  "en": "So Lisa and Freddy were the two Snatchers who killed Gibson.",
+  "ps1": "B140_f3_00r",
+  "layout": "face",
+  "cards": [
+   "So Lisa and Freddy|were the two|Snatchers who|killed Gibson."
+  ],
+  "reveal_end": 79.16
+ },
+ {
+  "track": 6,
+  "start": 79.7,
+  "end": 85.2,
+  "speaker": "Chief",
+  "en": "What of Randam Hajile, the bounty hunter who saved Gillian?",
+  "ps1": "B140_f3_07",
+  "layout": "face",
+  "cards": [
+   "What of Randam|Hajile, the bounty|hunter who saved|Gillian?"
+  ],
+  "reveal_end": 85.2
+ },
+ {
+  "track": 6,
+  "start": 85.2,
+  "end": 91.58,
+  "speaker": "Chief",
+  "en": "All the data on his bounty hunter registration turned out to be false.",
+  "ps1": "B140_f3_08",
+  "layout": "face",
+  "cards": [
+   "All the data on his|bounty hunter|registration turned|out to be false."
+  ],
+  "reveal_end": 91.58
+ },
+ {
+  "track": 6,
+  "start": 91.58,
+  "end": 94.74,
+  "speaker": "Chief",
+  "en": "None of it was real.",
+  "ps1": "B140_f3_08b",
+  "layout": "face",
+  "cards": [
+   "None of it was real."
+  ],
+  "reveal_end": 93.3
+ },
+ {
+  "track": 6,
+  "start": 94.74,
+  "end": 102.02,
+  "speaker": "Chief",
+  "en": "Friend or foe? What about the account for his bounty payments?",
+  "ps1": "B140_f3_09",
+  "layout": "face",
+  "cards": [
+   "Friend or foe? What|about the account|for his bounty|payments?"
+  ],
+  "reveal_end": 101.4
+ },
+ {
+  "track": 6,
+  "start": 102.02,
+  "end": 107.18,
+  "speaker": "Chief",
+  "en": "It's a shared bounty account. The money was moved elsewhere.",
+  "ps1": "B140_f3_11",
+  "layout": "face",
+  "cards": [
+   "It's a shared|bounty account. The|money was moved|elsewhere."
+  ],
+  "reveal_end": 106.88
+ },
+ {
+  "track": 6,
+  "start": 107.18,
+  "end": 109.42,
+  "speaker": "Chief",
+  "en": "There's no lead there.",
+  "ps1": "B140_f3_11b",
+  "layout": "plain",
+  "cards": [
+   "There's no lead there."
+  ],
+  "reveal_end": 108.26
+ },
+ {
+  "track": 6,
+  "start": 109.42,
+  "end": 116.36,
+  "speaker": "Chief",
+  "en": "Thank you, Metal Gear. Now the real work begins.",
+  "ps1": "B140_f3_12",
+  "cards": [
+   "Thank you, Metal|Gear. Now the real|work begins."
+  ],
+  "layout": "face",
+  "reveal_end": 116.28
+ },
+ {
+  "track": 6,
+  "start": 116.36,
+  "end": 120.38,
+  "speaker": "Chief",
+  "en": "If we hit the Snatcher hospital Gibson was after,",
+  "ps1": "B140_f3_12b",
+  "cards": [
+   "If we hit the|Snatcher hospital|Gibson was after,"
+  ],
+  "layout": "face",
+  "reveal_end": 120.38
+ },
+ {
+  "track": 6,
+  "start": 120.38,
+  "end": 131.74,
+  "speaker": "Chief",
+  "en": "we may be able to stop them snatching more people. And if we find something like patient records, we won't have to hunt for each Snatcher.",
+  "ps1": "B140_f3_12c",
+  "cards": [
+   "we may be able to|stop them snatching|more people.",
+   "And if we find|something like|patient records,",
+   "we won't have to|hunt for each|Snatcher."
+  ],
+  "layout": "face",
+  "seams": [
+   [
+    10,
+    124.36
+   ],
+   [
+    18,
+    127.66
+   ]
+  ],
+  "ps1_more": [
+   "B140_f3_12d",
+   "B140_f3_12e"
+  ],
+  "reveal_end": 130.36
+ },
+ {
+  "track": 6,
+  "start": 131.74,
+  "end": 135.3,
+  "speaker": "Gillian",
+  "en": "Our lead is Little John's memory?",
+  "ps1": "B140_f3_15",
+  "cards": [
+   "Our lead is Little|John's memory?"
+  ],
+  "layout": "face",
+  "reveal_end": 134.1
+ },
+ {
+  "track": 6,
+  "start": 135.3,
+  "end": 140.82,
+  "speaker": "Chief",
+  "en": "Yes. With luck, there may be something left in Little John's memory.",
+  "ps1": "B140_f3_16",
+  "ps1_more": [
+   "B140_f3_16b"
+  ],
+  "cards": [
+   "Yes.",
+   "With luck, there|may be something|left in Little|John's memory."
+  ],
+  "layout": "face",
+  "reveal_end": 140.16
+ },
+ {
+  "track": 6,
+  "start": 140.82,
+  "end": 145.86,
+  "speaker": "Chief",
+  "en": "Navigators record everything they do with their JUNKER,",
+  "layout": "face",
+  "reveal_end": 145.86,
+  "ps1": "B140_f3_17",
+  "cards": [
+   "Navigators record|everything they do|with their JUNKER,"
+  ]
+ },
+ {
+  "track": 6,
+  "start": 145.86,
+  "end": 147.7,
+  "speaker": "Chief",
+  "en": "in case something goes wrong.",
+  "layout": "face",
+  "reveal_end": 147.02,
+  "ps1": "B140_f3_17b",
+  "cards": [
+   "in case something|goes wrong."
+  ]
+ },
+ {
+  "track": 6,
+  "start": 147.7,
+  "end": 152.58,
+  "speaker": "Gillian",
+  "en": "In case something goes wrong. And it did.",
+  "ps1": "B140_f3_18",
+  "cards": [
+   "In case something|goes wrong. And it|did."
+  ],
+  "layout": "face",
+  "reveal_end": 151.46
+ },
+ {
+  "track": 6,
+  "start": 152.58,
+  "end": 158.04,
+  "speaker": "Chief",
+  "en": "It should be restored by now. Go see Harry.",
+  "ps1": "B140_f3_19",
+  "cards": [
+   "It should be|restored by now. Go|see Harry."
+  ],
+  "layout": "face",
+  "reveal_end": 156.42
+ },
+ {
+  "track": 6,
+  "start": 158.04,
+  "end": 163.56,
+  "speaker": "Chief",
+  "en": "Gillian, start investigating that hospital.",
+  "ps1": "B140_f3_20",
+  "cards": [
+   "Gillian, start|investigating that|hospital."
+  ],
+  "layout": "face",
+  "reveal_end": 162.56
+ }
+]

@@ -1,5 +1,60 @@
 # Changelog
 
+## 1.5 (unreleased)
+
+Released together with the first PC Engine CD patch; all three ports now
+share one version number and one source tree.
+
+### Game changes
+
+- Redrew in English the Japanese left in small pictures: the
+  videophone's NOT IN SERVICE and NO VIDEO cards (Konami's "AVALABLE"
+  spelling fixed), Gibson's note (Konami's ! mark kept as it is, since
+  it is a clue), the JUNKER poster at the reception and the joke
+  phone-book pictures.
+
+### Bug fixes
+
+- Fixed a freeze (on Beetle, an empty line) on the Tube Liner in Act 3
+  (#95). The tunnel's picture loaded over the memory that held the
+  scene's long lines; they live elsewhere now.
+- Fixed the subtitle panel dropping off the screen at Door 3 (#65).
+- Fixed Gaudi's database pages for Gibson, Deckard and Isabella drawing
+  stray letters from the previous page (#99).
+- Fixed short voice subtitles that vanished before they could be read
+  when the scene cut away from the speaker's face mid-line ("What?!" and
+  "Who the hell are you?" in Chin's lair, "I know! And a good one!"): the
+  line now comes back as a plain subtitle with the speaker's name until
+  the voice ends.
+- Fixed a subtitle row at Catherine's that ran into the box's wait cursor.
+- Added the missing subtitles of the Chief's scolding about the expenses
+  after the Outer Heaven dinner, and of Gillian's "A time bomb!" in the
+  factory ruins.
+
+### Script fixes
+
+- Re-cut the voice subtitles so each card holds whole sentences: a card no
+  longer ends with the first words of the next sentence, and a sentence too
+  long for one card breaks at a comma or a phrase, never leaving one word
+  alone on a card.
+- Catherine is fourteen, not "turning fourteen this year" (#100).
+- Metal Gear's hair and skin analyses, Jamie's call about Queen Hospital and
+  the opening's profile of Gillian read as sentences ("2. The hair is brown,
+  with a hair index of 65.", "Gillian Seed. He's estimated to be 31.")
+  instead of form labels ("Hair color: brown.").
+- Gibson's memo page and its voiced line describe the Snatchers'
+  vampire-like habits (was "every Dracula habit").
+- The caption at Jean's house reads "This is Jean's house." ("Jean's
+  home." read as if he were home).
+
+<details>
+<summary><b>Story spoilers</b> (Act 1, 1 entry)</summary>
+
+- The bounty hunter passage of the recap is the report's narration
+  throughout (its cards alternated the Chief and Metal Gear).
+
+</details>
+
 ## 1.0 (2026-09-30)
 
 ### Game changes

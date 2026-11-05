@@ -1,0 +1,16 @@
+{"scene":"B0E0","note":"Joy Division for coverage, from the B0E0_auto card (the street's first verb menu): the food stand's Kobe-yaki (smell, investigate the stand, eat), then the shop - every wall and shelf, the videotape Metal plays (Investigate > Videotape, three times), buying, the mask - without leaving for Outer Heaven.",
+ "actions":[
+  {"sweep":["Sniff","Investigate","Sniff","Eat","Look","Listen","Talk","Ask","Buy"],"rounds":3},
+  {"path":["Move","Enter shop"]},
+  {"sweep":["Look","Investigate","Ask","Buy something"],"rounds":2},
+  {"path":["Investigate","Videotape"],"reps":3,"optional":true},
+  {"path":["Look","Videotape"],"reps":2,"optional":true},
+  {"path":["Buy something","Videotape"],"optional":true},
+  {"path":["Item","Investigate","Videotape"],"optional":true},
+  {"path":["Item","Use","Videotape"],"optional":true},
+  {"sweep":["Investigate","Look","Ask"],"rounds":2},
+  {"path":["Buy something","Mask","Moai"],"optional":true},
+  {"path":["Ask","About Gibson"],"optional":true},
+  {"path":["Item","Show","Photo"],"optional":true},
+  {"sweep":["Look","Investigate","Ask","Buy something"],"rounds":1}
+ ]}

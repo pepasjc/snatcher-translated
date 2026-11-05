@@ -1,0 +1,132 @@
+{
+ "scene": "B150",
+ "note": "v0.7 check: open every Gaudi database category so the long topic labels show in the list menu.",
+ "actions": [
+  {
+   "path": [
+    "Move",
+    "Computer room"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Use Gaudi",
+    "Use card"
+   ],
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Load fact file",
+    "History"
+   ],
+   "patience": 2000
+  },
+  {
+   "idle": 90
+  },
+  {
+   "path": [
+    "Back to menu"
+   ],
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Load fact file",
+    "JUNKER files"
+   ],
+   "patience": 2000
+  },
+  {
+   "idle": 90
+  },
+  {
+   "path": [
+    "Back to menu"
+   ],
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Load fact file",
+    "Snatcher files"
+   ],
+   "patience": 2000
+  },
+  {
+   "idle": 90
+  },
+  {
+   "path": [
+    "Back to menu"
+   ],
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Load fact file",
+    "Neo Kobe files"
+   ],
+   "patience": 2000
+  },
+  {
+   "idle": 90
+  },
+  {
+   "path": [
+    "Back to menu"
+   ],
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Load fact file",
+    "Transport"
+   ],
+   "patience": 2000
+  },
+  {
+   "idle": 90
+  },
+  {
+   "path": [
+    "Back to menu"
+   ],
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Load fact file",
+    "Culture"
+   ],
+   "patience": 2000
+  },
+  {
+   "idle": 90
+  },
+  {
+   "path": [
+    "Back to menu"
+   ],
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Load fact file",
+    "Politics"
+   ],
+   "patience": 2000
+  },
+  {
+   "idle": 90
+  },
+  {
+   "path": [
+    "Back to menu"
+   ],
+   "patience": 1500
+  }
+ ]
+}

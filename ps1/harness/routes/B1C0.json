@@ -1,0 +1,124 @@
+{
+ "scene": "B170",
+ "note": "Gibson's house ransacked (guides/ps1.txt Act 2 GIBSON'S HOUSE): Knock, Check the door, Move > Enter; Check the window and shelf, Look/Check the model ('Mod.'); Move > Yard: Look area/darkness/ground/collar, Check area/darkness/collar; Move > Study: Look/Check around, computer, sofa, one more look for the sneeze; Call Catherine and Alice from a room other than the study; Move > Study - the window breaks and Gillian leaves.",
+ "source": "guides/ps1.txt Act 2 GIBSON'S HOUSE",
+ "actions": [
+  {
+   "path": [
+    "Move",
+    "Board Tricycle"
+   ],
+   "optional": true,
+   "patience": 600,
+   "why": "from the flat's doorstep (bookmark B1C0_summons)"
+  },
+  {
+   "path": [
+    "Gibson hm|Gibson's"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B1C0_arrive"
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "optional": true,
+   "reps": 2
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Move",
+    "Go inside"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B1C0_inside"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "sweep": [
+    "Move"
+   ],
+   "each": [
+    "Look",
+    "Investigate"
+   ],
+   "each_rounds": 2,
+   "rounds": 2,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Living room|Go back inside"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Call",
+    "Catherine"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Call",
+    "Alice"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Call"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Move",
+    "Study|Back to study"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B1C0_window"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Call"
+   ],
+   "rounds": 2
+  }
+ ]
+}

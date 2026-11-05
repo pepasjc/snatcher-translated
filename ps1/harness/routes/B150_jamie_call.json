@@ -1,0 +1,74 @@
+{
+ "scene": "B150",
+ "note": "BUG-039/#17 and BUG-041: HQ after the Act 2 debrief (B150_debrief_end): Use Metal Gear > Videophone > 39-3444 (Jamie's tape, M000 ch15 f65/f67), then 39-1009 (the lab, f68) - both under B070",
+ "actions": [
+  {
+   "path": [
+    "Use Metal Gear",
+    "Videophone"
+   ]
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "dial": "393444"
+  },
+  {
+   "idle": 600
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 600
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 3000
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 300
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 300
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "dial": "391009"
+  },
+  {
+   "idle": 600
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 600
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 3000
+  }
+ ]
+}

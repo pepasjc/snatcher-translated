@@ -1,0 +1,16 @@
+{"scene":"B0D0","note":"Altamira's fortune teller for coverage, from the B0D0_auto card: Napoleon first (found, questioned, let go - whole_game.route.json 97-110), then Look and Investigate everything many times over until the teller's labels show.",
+ "actions":[
+  {"path":["Look","Passersby"],"reps":3,"optional":true},
+  {"path":["Item","Show","JUNKER ID"],"optional":true},
+  {"path":["Talk","About Gibson"],"optional":true},
+  {"path":["Ask","Whale restaurant"],"optional":true},
+  {"path":["Item","Use","Funds"],"optional":true},
+  {"path":["Ask","Outer Heaven"],"optional":true},
+  {"path":["Ask","Joy Division"],"optional":true},
+  {"sweep":["Ask","Talk"],"rounds":1,"avoid":["About the arrest","Let him go"]},
+  {"path":["Let him go"],"optional":true},
+  {"sweep":["Look","Investigate"],"rounds":15,"avoid":["Board Tricycle"]},
+  {"sweep":["Get fortune told","Hit on her","Look","Investigate","Talk","Ask"],"rounds":3},
+  {"path":["Get fortune told"],"optional":true,"reps":3},
+  {"path":["Hit on her"],"optional":true,"reps":4}
+ ]}

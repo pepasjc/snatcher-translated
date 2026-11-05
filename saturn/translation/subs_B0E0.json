@@ -1,0 +1,1212 @@
+{
+ "scene": "B0E0",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B0E0_000",
+   "line": 1039,
+   "act": 3,
+   "sector": 11304,
+   "offset": 1824,
+   "size": 103234,
+   "b0": 0,
+   "b1": 103234,
+   "speaker": "Clerk",
+   "colour": 7,
+   "en": "Thank you for shopping with us. Joy Division, the store that has everything.",
+   "rows": [
+    "Thank you for shopping with",
+    "us. Joy Division, the store",
+    "that has everything."
+   ],
+   "rows_plain": [
+    "Thank you for shopping with us. Joy",
+    "Division, the store that has",
+    "everything."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0E0_001",
+   "line": 112,
+   "act": 1,
+   "sector": 2187,
+   "offset": 1570,
+   "size": 36420,
+   "b0": 0,
+   "b1": 36420,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "All right, I'll take this video.",
+   "rows": [
+    "All right, I'll take this",
+    "video."
+   ],
+   "rows_plain": [
+    "All right, I'll take this video."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_002",
+   "line": 113,
+   "act": 1,
+   "sector": 2203,
+   "offset": 806,
+   "size": 32944,
+   "b0": 0,
+   "b1": 32944,
+   "speaker": "Clerk",
+   "colour": 7,
+   "en": "You certainly like your entertainment, sir. Thank you!",
+   "rows": [
+    "You certainly like your",
+    "entertainment, sir. Thank",
+    "you!"
+   ],
+   "rows_plain": [
+    "You certainly like your",
+    "entertainment, sir. Thank you!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0E0_003",
+   "line": 114,
+   "act": 1,
+   "sector": 2217,
+   "offset": 1214,
+   "size": 51373,
+   "b0": 0,
+   "b1": 51373,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I bought it, Metal! Now what? Is there a machine that can play this tape?",
+   "rows": [
+    "I bought it, Metal! Now",
+    "what? Is there a machine",
+    "that can play this tape?"
+   ],
+   "rows_plain": [
+    "I bought it, Metal! Now what? Is",
+    "there a machine that can play this",
+    "tape?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0E0_004",
+   "line": 115,
+   "act": 1,
+   "sector": 2239,
+   "offset": 1459,
+   "size": 36747,
+   "b0": 0,
+   "b1": 36747,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "That could be difficult. There may be none left.",
+   "rows": [
+    "That could be difficult.",
+    "There may be none left."
+   ],
+   "rows_plain": [
+    "That could be difficult. There may",
+    "be none left."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_005",
+   "line": 116,
+   "act": 1,
+   "sector": 2255,
+   "offset": 1022,
+   "size": 35264,
+   "b0": 0,
+   "b1": 35264,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Wh-what? Then it's useless!",
+   "rows": [
+    "Wh-what? Then it's useless!"
+   ],
+   "rows_plain": [
+    "Wh-what? Then it's useless!"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_006",
+   "line": 117,
+   "act": 1,
+   "sector": 2270,
+   "offset": 1426,
+   "size": 40878,
+   "b0": 0,
+   "b1": 40878,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Wait, there's a way. I'll play it myself.",
+   "rows": [
+    "Wait, there's a way. I'll",
+    "play it myself."
+   ],
+   "rows_plain": [
+    "Wait, there's a way. I'll play it",
+    "myself."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_007",
+   "line": 118,
+   "act": 1,
+   "sector": 2288,
+   "offset": 472,
+   "size": 7169,
+   "b0": 0,
+   "b1": 7169,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Can you do that?",
+   "rows": [
+    "Can you do that?"
+   ],
+   "rows_plain": [
+    "Can you do that?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0E0_008",
+   "line": 119,
+   "act": 1,
+   "sector": 2291,
+   "offset": 669,
+   "size": 15672,
+   "b0": 0,
+   "b1": 15672,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll try to make it work.",
+   "rows": [
+    "I'll try to make it work."
+   ],
+   "rows_plain": [
+    "I'll try to make it work."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_009",
+   "line": 120,
+   "act": 1,
+   "sector": 2298,
+   "offset": 73,
+   "size": 29341,
+   "b0": 0,
+   "b1": 29341,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I'm counting on you. You know what to do. Here.",
+   "rows": [
+    "I'm counting on you. You",
+    "know what to do. Here."
+   ],
+   "rows_plain": [
+    "I'm counting on you. You know what",
+    "to do. Here."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_010",
+   "line": 121,
+   "act": 1,
+   "sector": 2310,
+   "offset": 1526,
+   "size": 84741,
+   "b0": 0,
+   "b1": 84741,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll play it internally first. Then I'll store the images in my memory.",
+   "rows": [
+    "I'll play it internally",
+    "first. Then I'll store the",
+    "images in my memory."
+   ],
+   "rows_plain": [
+    "I'll play it internally first. Then",
+    "I'll store the images in my memory."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_011",
+   "line": 123,
+   "act": 1,
+   "sector": 2390,
+   "offset": 293,
+   "size": 56483,
+   "b0": 0,
+   "b1": 56483,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What's wrong, Metal?",
+   "rows": [
+    "What's wrong, Metal?"
+   ],
+   "rows_plain": [
+    "What's wrong, Metal?"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_012",
+   "line": 125,
+   "act": 1,
+   "sector": 2436,
+   "offset": 2086,
+   "size": 20118,
+   "b0": 0,
+   "b1": 20118,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal!",
+   "rows": [
+    "Metal!"
+   ],
+   "rows_plain": [
+    "Metal!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0E0_013",
+   "line": 127,
+   "act": 1,
+   "sector": 2456,
+   "offset": 993,
+   "size": 26181,
+   "b0": 0,
+   "b1": 26181,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Hey, Metal! What's wrong?",
+   "rows": [
+    "Hey, Metal! What's wrong?"
+   ],
+   "rows_plain": [
+    "Hey, Metal! What's wrong?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0E0_014",
+   "line": 129,
+   "act": 1,
+   "sector": 2504,
+   "offset": 218,
+   "size": 24667,
+   "b0": 0,
+   "b1": 24667,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Let me see too, Metal!",
+   "rows": [
+    "Let me see too, Metal!"
+   ],
+   "rows_plain": [
+    "Let me see too, Metal!"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_015",
+   "line": 130,
+   "act": 1,
+   "sector": 2514,
+   "offset": 1645,
+   "size": 67452,
+   "b0": 0,
+   "b1": 67452,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Well, it was so intense that it wiped out the data.",
+   "rows": [
+    "Well, it was so intense that",
+    "it wiped out the data."
+   ],
+   "rows_plain": [
+    "Well, it was so intense that it",
+    "wiped out the data."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_016",
+   "line": 131,
+   "act": 1,
+   "sector": 2543,
+   "offset": 1701,
+   "size": 9254,
+   "b0": 0,
+   "b1": 9254,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Wiped it out?",
+   "rows": [
+    "Wiped it out?"
+   ],
+   "rows_plain": [
+    "Wiped it out?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0E0_017",
+   "line": 132,
+   "act": 1,
+   "sector": 2547,
+   "offset": 1659,
+   "size": 30046,
+   "b0": 0,
+   "b1": 30046,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Yes. The images are gone.",
+   "rows": [
+    "Yes. The images are gone."
+   ],
+   "rows_plain": [
+    "Yes. The images are gone."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_018",
+   "line": 133,
+   "act": 1,
+   "sector": 2560,
+   "offset": 1493,
+   "size": 39634,
+   "b0": 0,
+   "b1": 39634,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Gone? Just my luck.",
+   "rows": [
+    "Gone? Just my luck."
+   ],
+   "rows_plain": [
+    "Gone? Just my luck."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_019",
+   "line": 134,
+   "act": 1,
+   "sector": 2577,
+   "offset": 1619,
+   "size": 21400,
+   "b0": 0,
+   "b1": 21400,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Would you like me to describe it?",
+   "rows": [
+    "Would you like me to",
+    "describe it?"
+   ],
+   "rows_plain": [
+    "Would you like me to describe it?"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_020",
+   "line": 135,
+   "act": 1,
+   "sector": 2586,
+   "offset": 2103,
+   "size": 30617,
+   "b0": 0,
+   "b1": 30617,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Forget it. No dirty stories from you.",
+   "rows": [
+    "Forget it. No dirty stories",
+    "from you."
+   ],
+   "rows_plain": [
+    "Forget it. No dirty stories from",
+    "you."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_104",
+   "line": 88,
+   "act": 1,
+   "sector": 1833,
+   "offset": 1760,
+   "size": 27099,
+   "b0": 0,
+   "b1": 27099,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "All right, let's try some. For research.",
+   "rows": [
+    "All right, let's try some.",
+    "For research."
+   ],
+   "rows_plain": [
+    "All right, let's try some. For",
+    "research."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_105",
+   "line": 89,
+   "act": 1,
+   "sector": 1845,
+   "offset": 971,
+   "size": 13332,
+   "b0": 0,
+   "b1": 13332,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's!",
+   "rows": [
+    "Let's!"
+   ],
+   "rows_plain": [
+    "Let's!"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_106",
+   "line": 90,
+   "act": 1,
+   "sector": 1851,
+   "offset": 359,
+   "size": 23440,
+   "b0": 0,
+   "b1": 23440,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Two Neo Kobe-yaki, please.",
+   "rows": [
+    "Two Neo Kobe-yaki, please."
+   ],
+   "rows_plain": [
+    "Two Neo Kobe-yaki, please."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0E0_107",
+   "line": 91,
+   "act": 1,
+   "sector": 1861,
+   "offset": 559,
+   "size": 56220,
+   "b0": 0,
+   "b1": 56220,
+   "speaker": "Cook",
+   "colour": 7,
+   "en": "Here are the ingredients. Make it yourself.",
+   "rows": [
+    "Here are the ingredients.",
+    "Make it yourself."
+   ],
+   "rows_plain": [
+    "Here are the ingredients. Make it",
+    "yourself."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_108",
+   "line": 92,
+   "act": 1,
+   "sector": 1885,
+   "offset": 1003,
+   "size": 31678,
+   "b0": 0,
+   "b1": 31678,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Here, Metal. This one's yours.",
+   "rows": [
+    "Here, Metal. This one's",
+    "yours."
+   ],
+   "rows_plain": [
+    "Here, Metal. This one's yours."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0E0_109",
+   "line": 93,
+   "act": 1,
+   "sector": 1899,
+   "offset": 145,
+   "size": 46901,
+   "b0": 0,
+   "b1": 46901,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We'll drop them in the broth together. Do it right or they won't set.",
+   "rows": [
+    "We'll drop them in the broth",
+    "together. Do it right or",
+    "they won't set."
+   ],
+   "rows_plain": [
+    "We'll drop them in the broth",
+    "together. Do it right or they won't",
+    "set."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_110",
+   "line": 94,
+   "act": 1,
+   "sector": 1919,
+   "offset": 566,
+   "size": 26867,
+   "b0": 0,
+   "b1": 26867,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Got it. Ready, go!",
+   "rows": [
+    "Got it. Ready, go!"
+   ],
+   "rows_plain": [
+    "Got it. Ready, go!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_111",
+   "line": 95,
+   "act": 1,
+   "sector": 1930,
+   "offset": 1869,
+   "size": 80649,
+   "b0": 0,
+   "b1": 72544,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "They're in. They'll float up soon. When they do, scoop them onto a plate.",
+   "rows": [
+    "They're in. They'll float up",
+    "soon. When they do, scoop",
+    "them onto a plate."
+   ],
+   "rows_plain": [
+    "They're in. They'll float up soon.",
+    "When they do, scoop them onto a",
+    "plate."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_111b",
+   "line": 95,
+   "act": 1,
+   "sector": 1930,
+   "offset": 1869,
+   "size": 80649,
+   "b0": 72544,
+   "b1": 80649,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Be careful.",
+   "rows": [
+    "Be careful."
+   ],
+   "rows_plain": [
+    "Be careful."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_112",
+   "line": 96,
+   "act": 1,
+   "sector": 1965,
+   "offset": 1178,
+   "size": 25296,
+   "b0": 0,
+   "b1": 25296,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "All right, I'm ready!",
+   "rows": [
+    "All right, I'm ready!"
+   ],
+   "rows_plain": [
+    "All right, I'm ready!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_112m",
+   "line": 97,
+   "act": 1,
+   "sector": 1976,
+   "offset": 910,
+   "size": 82443,
+   "b0": 35922,
+   "b1": 82443,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Here it comes. That's mine.",
+   "rows": [
+    "Here it comes. That's mine."
+   ],
+   "rows_plain": [
+    "Here it comes. That's mine."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_113",
+   "line": 98,
+   "act": 1,
+   "sector": 2011,
+   "offset": 2013,
+   "size": 36038,
+   "b0": 0,
+   "b1": 36038,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Nice catch! Where's mine?",
+   "rows": [
+    "Nice catch! Where's mine?"
+   ],
+   "rows_plain": [
+    "Nice catch! Where's mine?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_113m",
+   "line": 99,
+   "act": 1,
+   "sector": 2027,
+   "offset": 867,
+   "size": 21994,
+   "b0": 0,
+   "b1": 21994,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Huh? Huh? Huh?",
+   "rows": [
+    "Huh? Huh? Huh?"
+   ],
+   "rows_plain": [
+    "Huh? Huh? Huh?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0E0_114",
+   "line": 100,
+   "act": 1,
+   "sector": 2036,
+   "offset": 1945,
+   "size": 11150,
+   "b0": 0,
+   "b1": 11150,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "What's happened to it?",
+   "rows": [
+    "What's happened to it?"
+   ],
+   "rows_plain": [
+    "What's happened to it?"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_115",
+   "line": 101,
+   "act": 1,
+   "sector": 2041,
+   "offset": 1475,
+   "size": 45689,
+   "b0": 0,
+   "b1": 10971,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Huh?",
+   "rows": [
+    "Huh?"
+   ],
+   "rows_plain": [
+    "Huh?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0E0_115b",
+   "line": 101,
+   "act": 1,
+   "sector": 2041,
+   "offset": 1475,
+   "size": 45689,
+   "b0": 32914,
+   "b1": 45689,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Where's mine?",
+   "rows": [
+    "Where's mine?"
+   ],
+   "rows_plain": [
+    "Where's mine?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0E0_116",
+   "line": 102,
+   "act": 1,
+   "sector": 2061,
+   "offset": 684,
+   "size": 23744,
+   "b0": 0,
+   "b1": 23744,
+   "speaker": "Cook",
+   "colour": 7,
+   "en": "Oh, yours isn't floating up?",
+   "rows": [
+    "Oh, yours isn't floating up?"
+   ],
+   "rows_plain": [
+    "Oh, yours isn't floating up?"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_116g",
+   "line": 103,
+   "act": 1,
+   "sector": 2071,
+   "offset": 1188,
+   "size": 6794,
+   "b0": 0,
+   "b1": 6794,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Ugh...",
+   "rows": [
+    "Ugh..."
+   ],
+   "rows_plain": [
+    "Ugh..."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_117",
+   "line": 104,
+   "act": 1,
+   "sector": 2074,
+   "offset": 1010,
+   "size": 82612,
+   "b0": 0,
+   "b1": 82612,
+   "speaker": "Cook",
+   "colour": 7,
+   "en": "Sorry about that. It happens sometimes. Hope you don't mind, pal.",
+   "rows": [
+    "Sorry about that. It happens",
+    "sometimes. Hope you don't",
+    "mind, pal."
+   ],
+   "rows_plain": [
+    "Sorry about that. It happens",
+    "sometimes. Hope you don't mind, pal."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_118",
+   "line": 105,
+   "act": 1,
+   "sector": 2109,
+   "offset": 2282,
+   "size": 9172,
+   "b0": 0,
+   "b1": 9172,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What?",
+   "rows": [
+    "What?"
+   ],
+   "rows_plain": [
+    "What?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_119",
+   "line": 106,
+   "act": 1,
+   "sector": 2113,
+   "offset": 2158,
+   "size": 14403,
+   "b0": 0,
+   "b1": 14403,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's go, Gillian!",
+   "rows": [
+    "Let's go, Gillian!"
+   ],
+   "rows_plain": [
+    "Let's go, Gillian!"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_120",
+   "line": 107,
+   "act": 1,
+   "sector": 2120,
+   "offset": 293,
+   "size": 48615,
+   "b0": 0,
+   "b1": 48615,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "But my Kobe-yaki! Neo Kobe is sinking!",
+   "rows": [
+    "But my Kobe-yaki! Neo Kobe",
+    "is sinking!"
+   ],
+   "rows_plain": [
+    "But my Kobe-yaki! Neo Kobe is",
+    "sinking!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_121",
+   "line": 108,
+   "act": 1,
+   "sector": 2141,
+   "offset": 104,
+   "size": 14653,
+   "b0": 0,
+   "b1": 14653,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Come on, let's go!",
+   "rows": [
+    "Come on, let's go!"
+   ],
+   "rows_plain": [
+    "Come on, let's go!"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_122",
+   "line": 109,
+   "act": 1,
+   "sector": 2147,
+   "offset": 813,
+   "size": 34682,
+   "b0": 0,
+   "b1": 34682,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Ugh, I'm never eating there again. What a letdown.",
+   "rows": [
+    "Ugh, I'm never eating there",
+    "again. What a letdown."
+   ],
+   "rows_plain": [
+    "Ugh, I'm never eating there again.",
+    "What a letdown."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_123",
+   "line": 110,
+   "act": 1,
+   "sector": 2162,
+   "offset": 635,
+   "size": 33169,
+   "b0": 0,
+   "b1": 33169,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Don't send this record to HQ, Metal.",
+   "rows": [
+    "Don't send this record to",
+    "HQ, Metal."
+   ],
+   "rows_plain": [
+    "Don't send this record to HQ, Metal."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_124",
+   "line": 111,
+   "act": 1,
+   "sector": 2176,
+   "offset": 1268,
+   "size": 25866,
+   "b0": 0,
+   "b1": 25866,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I know. We're in this together.",
+   "rows": [
+    "I know. We're in this",
+    "together."
+   ],
+   "rows_plain": [
+    "I know. We're in this together."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "file": "ISZ_B260.BIN",
+ "text_base": 6183,
+ "strings": [
+  {
+   "off": 6185,
+   "budget": 3,
+   "en": ""
+  },
+  {
+   "off": 6190,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

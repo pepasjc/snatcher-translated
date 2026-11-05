@@ -1,0 +1,19 @@
+{"scene":"B1A0","note":"After QUEEN: Search list > Queens, > Hospital's address; then out to the tricycle for Queen Hospital (B1E0).",
+ "actions":[
+  {"sweep":["Check the list"],"rounds":2},
+  {"sweep":["Investigate","Look","Ask","Talk","Check the list"],"rounds":2,"avoid":["Go out"]},
+  {"save":"B1A0_post"},
+  {"path":["Go out"],"optional":true,"patience":600},
+  {"path":["Move","Go out"],"optional":true,"patience":600},
+  {"path":["Move","Board Tricycle"],"optional":true,"patience":600},
+  {"path":["Board Tricycle"],"optional":true,"patience":600},
+  {"path":["Queen Hosp.|Queen Hospital|Queen"],"patience":6000},
+  {"path":["Exit Tricycle"],"optional":true},
+  {"save":"B1E0_arrive"},
+  {"sweep":["Look","Investigate"],"rounds":2},
+  {"path":["Move","Go inside"],"optional":true},
+  {"path":["Go inside"],"optional":true},
+  {"save":"B1E0_inside"},
+  {"sweep":["Look","Investigate","Use","Use switches"],"rounds":2,"avoid":["Go out"]},
+  {"save":"B1E0_swept"}
+ ]}

@@ -1,0 +1,243 @@
+{
+ "scene": "B150",
+ "options": {
+  "menu_word": 1296,
+  "rows": 3,
+  "faceleft": true,
+  "cols": 12
+ },
+ "cues": [
+  {
+   "id": "B150_f23_0",
+   "file": 23,
+   "chan": 4,
+   "start": 15148,
+   "end": 15442,
+   "dur": 2.0,
+   "speaker": "Harry",
+   "en": "There you are, Gillian.",
+   "enabled": true
+  },
+  {
+   "id": "B150_f23_0b",
+   "file": 23,
+   "chan": 4,
+   "start": 15560,
+   "end": 15980,
+   "dur": 2.8,
+   "speaker": "Harry",
+   "en": "I've restored Little John's memory chip.",
+   "enabled": true
+  },
+  {
+   "id": "B150_f24_0",
+   "file": 24,
+   "chan": 4,
+   "start": 15996,
+   "end": 16332,
+   "dur": 2.2,
+   "speaker": "Gillian",
+   "en": "Was there anything on it?",
+   "enabled": true
+  },
+  {
+   "id": "B150_f25_0",
+   "file": 25,
+   "chan": 4,
+   "start": 16348,
+   "end": 16988,
+   "dur": 4.3,
+   "speaker": "Harry",
+   "en": "Hold your horses. I'll play it now. Watch the monitor.",
+   "enabled": true
+  },
+  {
+   "id": "B150_f26_0",
+   "file": 26,
+   "chan": 4,
+   "start": 17004,
+   "end": 17487,
+   "dur": 3.2,
+   "speaker": "Harry",
+   "en": "His memory was damaged almost beyond repair.",
+   "enabled": true
+  },
+  {
+   "id": "B150_f26_0b",
+   "file": 26,
+   "chan": 4,
+   "start": 17487,
+   "end": 18060,
+   "dur": 3.8,
+   "speaker": "Harry",
+   "en": "Those Snatchers knew what they were doing.",
+   "enabled": true
+  },
+  {
+   "id": "B150_f27_0",
+   "file": 27,
+   "chan": 4,
+   "start": 18076,
+   "end": 18492,
+   "dur": 2.8,
+   "speaker": "Gillian",
+   "en": "So there was nothing left?",
+   "enabled": true
+  },
+  {
+   "id": "B150_f28_0",
+   "file": 28,
+   "chan": 4,
+   "start": 18508,
+   "end": 19764,
+   "dur": 8.1,
+   "speaker": "Harry",
+   "en": "Wait, don't rush me. I managed to restore one scene. Just the picture.",
+   "enabled": true
+  },
+  {
+   "id": "B150_f28_0b",
+   "file": 28,
+   "chan": 4,
+   "start": 19764,
+   "end": 20199,
+   "dur": 3.1,
+   "speaker": "Harry",
+   "en": "I don't know what it means,",
+   "enabled": true
+  },
+  {
+   "id": "B150_f28_0c",
+   "file": 28,
+   "chan": 4,
+   "start": 20199,
+   "end": 20988,
+   "dur": 5.2,
+   "speaker": "Harry",
+   "en": "but it's definitely something Jean witnessed.",
+   "enabled": true
+  },
+  {
+   "id": "B150_f29_0",
+   "file": 29,
+   "chan": 4,
+   "start": 21004,
+   "end": 21340,
+   "dur": 2.2,
+   "speaker": "Harry",
+   "en": "Ready? Here it is!",
+   "enabled": true
+  },
+  {
+   "id": "B150_f30_0",
+   "file": 30,
+   "chan": 4,
+   "start": 21356,
+   "end": 21660,
+   "dur": 2.0,
+   "speaker": "Harry",
+   "en": "Know what that is, Gillian?",
+   "enabled": true
+  },
+  {
+   "id": "B150_f31_0",
+   "file": 31,
+   "chan": 4,
+   "start": 21676,
+   "end": 22524,
+   "dur": 5.7,
+   "speaker": "Gillian",
+   "en": "Hospital OLEEN. Oleen Hospital?",
+   "enabled": true
+  },
+  {
+   "id": "B150_f31_0b",
+   "file": 31,
+   "chan": 4,
+   "start": 22762,
+   "end": 23193,
+   "dur": 2.9,
+   "speaker": "Gillian",
+   "en": "Could this be the hospital Gibson found?",
+   "enabled": true
+  },
+  {
+   "id": "B150_f31_0c",
+   "file": 31,
+   "chan": 4,
+   "start": 23312,
+   "end": 23580,
+   "dur": 1.8,
+   "speaker": "Gillian",
+   "en": "The one occupied by the Snatchers?",
+   "enabled": true
+  },
+  {
+   "id": "B150_f32_0",
+   "file": 32,
+   "chan": 4,
+   "start": 23596,
+   "end": 23989,
+   "dur": 3.4,
+   "speaker": "Harry",
+   "en": "Try looking it up in Gaudi.",
+   "enabled": true
+  },
+  {
+   "id": "B150_f32_0b",
+   "file": 32,
+   "chan": 4,
+   "start": 23989,
+   "end": 24801,
+   "dur": 7.2,
+   "speaker": "Harry",
+   "en": "But if it's unlicensed, you can't count on the records.",
+   "enabled": true
+  },
+  {
+   "id": "B150_f32_0c",
+   "file": 32,
+   "chan": 4,
+   "start": 24801,
+   "end": 25500,
+   "dur": 7.5,
+   "speaker": "Harry",
+   "en": "Neo Kobe is full of underground hospitals.",
+   "enabled": true
+  },
+  {
+   "id": "B150_f33_0",
+   "file": 33,
+   "chan": 4,
+   "start": 25516,
+   "end": 26316,
+   "dur": 5.3,
+   "speaker": "Gillian",
+   "en": "Maybe the sign curves around and there's more after OLEEN.",
+   "enabled": true
+  },
+  {
+   "id": "B150_f34_0",
+   "file": 34,
+   "chan": 4,
+   "start": 26332,
+   "end": 26774,
+   "dur": 2.9,
+   "speaker": "Metal Gear",
+   "en": "I've saved the image. You can view it anytime.",
+   "enabled": true
+  },
+  {
+   "id": "B150_f34_0b",
+   "file": 34,
+   "chan": 4,
+   "start": 26774,
+   "end": 27228,
+   "dur": 3.0,
+   "speaker": "Metal Gear",
+   "en": "Select Video memory from your inventory.",
+   "enabled": true,
+   "last": true
+  }
+ ]
+}

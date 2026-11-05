@@ -1,0 +1,2366 @@
+{
+ "file": "ISZ_B040.BIN",
+ "text_base": 3418,
+ "strings": [
+  {
+   "off": 3418,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 3423,
+   "budget": 13,
+   "en": "Search name"
+  },
+  {
+   "off": 3436,
+   "budget": 3,
+   "en": ""
+  },
+  {
+   "off": 3439,
+   "budget": 17,
+   "en": "NO SUCH PERSON"
+  },
+  {
+   "off": 3456,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 3463,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 3478,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 3487,
+   "budget": 17,
+   "en": ""
+  },
+  {
+   "off": 3504,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 3511,
+   "budget": 31,
+   "en": "＠緑It's Asada, not Asata."
+  },
+  {
+   "off": 3542,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 3557,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 3564,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 3579,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 3586,
+   "budget": 13,
+   "en": ""
+  },
+  {
+   "off": 3599,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 3614,
+   "budget": 33,
+   "en": "＠緑It's Kazuki, not Kazunori."
+  },
+  {
+   "off": 3647,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 3654,
+   "budget": 13,
+   "en": ""
+  },
+  {
+   "off": 3667,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 3676,
+   "budget": 17,
+   "en": ""
+  },
+  {
+   "off": 3693,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 3700,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 3709,
+   "budget": 19,
+   "en": ""
+  },
+  {
+   "off": 3728,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 3737,
+   "budget": 17,
+   "en": ""
+  },
+  {
+   "off": 3754,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 3761,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 3772,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 3781,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 3796,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 3805,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 3820,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 3829,
+   "budget": 17,
+   "en": ""
+  },
+  {
+   "off": 3846,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 3853,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 3862,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 3871,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 3882,
+   "budget": 19,
+   "en": ""
+  },
+  {
+   "off": 3901,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 3912,
+   "budget": 19,
+   "en": ""
+  },
+  {
+   "off": 3931,
+   "budget": 13,
+   "en": ""
+  },
+  {
+   "off": 3944,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 3951,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 3962,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 3971,
+   "budget": 17,
+   "en": ""
+  },
+  {
+   "off": 3988,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 3995,
+   "budget": 13,
+   "en": ""
+  },
+  {
+   "off": 4008,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 4015,
+   "budget": 13,
+   "en": ""
+  },
+  {
+   "off": 4028,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4039,
+   "budget": 17,
+   "en": ""
+  },
+  {
+   "off": 4056,
+   "budget": 5,
+   "en": ""
+  },
+  {
+   "off": 4061,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4070,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4079,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4090,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 4097,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4108,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4119,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 4134,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4143,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4152,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4161,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4172,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4181,
+   "budget": 13,
+   "en": "＠緑Me.",
+   "long": "＠緑That's me."
+  },
+  {
+   "off": 4194,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4205,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4214,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4223,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 4238,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4247,
+   "budget": 17,
+   "en": ""
+  },
+  {
+   "off": 4264,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4275,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4284,
+   "budget": 33,
+   "en": "＠緑It's Toyama, not Sotoyama."
+  },
+  {
+   "off": 4317,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 4332,
+   "budget": 13,
+   "en": ""
+  },
+  {
+   "off": 4345,
+   "budget": 53,
+   "en": "＠緑It's Makoto Toyama, not Shin￥Sotoyama."
+  },
+  {
+   "off": 4398,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 4413,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4422,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4431,
+   "budget": 17,
+   "en": ""
+  },
+  {
+   "off": 4448,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 4455,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 4462,
+   "budget": 17,
+   "en": ""
+  },
+  {
+   "off": 4479,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 4486,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4497,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 4504,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 4519,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4528,
+   "budget": 23,
+   "en": ""
+  },
+  {
+   "off": 4551,
+   "budget": 23,
+   "en": ""
+  },
+  {
+   "off": 4574,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 4589,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4598,
+   "budget": 17,
+   "en": ""
+  },
+  {
+   "off": 4615,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4626,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4637,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 4652,
+   "budget": 5,
+   "en": ""
+  },
+  {
+   "off": 4657,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4666,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 4681,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4692,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4701,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 4716,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4727,
+   "budget": 29,
+   "en": "＠緑It's Makoto, not Shin."
+  },
+  {
+   "off": 4756,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 4763,
+   "budget": 13,
+   "en": ""
+  },
+  {
+   "off": 4776,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4785,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4794,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 4801,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4810,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4819,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 4826,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4837,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 4846,
+   "budget": 17,
+   "en": ""
+  },
+  {
+   "off": 4863,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4874,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4885,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4896,
+   "budget": 21,
+   "en": ""
+  },
+  {
+   "off": 4917,
+   "budget": 5,
+   "en": ""
+  },
+  {
+   "off": 4922,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4933,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 4940,
+   "budget": 13,
+   "en": ""
+  },
+  {
+   "off": 4953,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4964,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 4975,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 4990,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 4997,
+   "budget": 21,
+   "en": ""
+  },
+  {
+   "off": 5018,
+   "budget": 19,
+   "en": ""
+  },
+  {
+   "off": 5037,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 5048,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 5057,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 5064,
+   "budget": 13,
+   "en": ""
+  },
+  {
+   "off": 5077,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 5086,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 5101,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 5108,
+   "budget": 17,
+   "en": ""
+  },
+  {
+   "off": 5125,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 5134,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 5141,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 5152,
+   "budget": 19,
+   "en": ""
+  },
+  {
+   "off": 5171,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 5180,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 5187,
+   "budget": 5,
+   "en": ""
+  },
+  {
+   "off": 5192,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 5203,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 5214,
+   "budget": 19,
+   "en": ""
+  },
+  {
+   "off": 5233,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 5244,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 5255,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 5270,
+   "budget": 5,
+   "en": ""
+  },
+  {
+   "off": 5275,
+   "budget": 11,
+   "en": "METAL GEAR"
+  },
+  {
+   "off": 5286,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 5293,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 5302,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 5317,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 5326,
+   "budget": 19,
+   "en": ""
+  },
+  {
+   "off": 5345,
+   "budget": 19,
+   "en": ""
+  },
+  {
+   "off": 5364,
+   "budget": 35,
+   "en": "＠緑It's Mizukami, not Mizugami."
+  },
+  {
+   "off": 5399,
+   "budget": 19,
+   "en": ""
+  },
+  {
+   "off": 5418,
+   "budget": 35,
+   "en": "＠緑It's Mizukami, not Minakami."
+  },
+  {
+   "off": 5453,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 5462,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 5471,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 5480,
+   "budget": 17,
+   "en": ""
+  },
+  {
+   "off": 5497,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 5504,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 5519,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 5530,
+   "budget": 13,
+   "en": ""
+  },
+  {
+   "off": 5543,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 5550,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 5565,
+   "budget": 5,
+   "en": ""
+  },
+  {
+   "off": 5570,
+   "budget": 5,
+   "en": ""
+  },
+  {
+   "off": 5575,
+   "budget": 15,
+   "en": ""
+  },
+  {
+   "off": 5590,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 5599,
+   "budget": 7,
+   "en": ""
+  },
+  {
+   "off": 5606,
+   "budget": 15,
+   "en": "Lewis Gilmore"
+  },
+  {
+   "off": 5621,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 5632,
+   "budget": 11,
+   "en": ""
+  },
+  {
+   "off": 5643,
+   "budget": 5,
+   "en": ""
+  },
+  {
+   "off": 5648,
+   "budget": 13,
+   "en": ""
+  },
+  {
+   "off": 5661,
+   "budget": 9,
+   "en": ""
+  },
+  {
+   "off": 5670,
+   "budget": 17,
+   "en": ""
+  },
+  {
+   "off": 5687,
+   "budget": 15,
+   "en": "Stop search"
+  },
+  {
+   "off": 5702,
+   "budget": 41,
+   "en": "＠赤Unregistered term.￥Access denied!",
+   "long": "＠赤That term is prohibited. No results￥can be displayed!"
+  },
+  {
+   "off": 5743,
+   "budget": 33,
+   "en": "Gillian, you're a grown man!"
+  },
+  {
+   "off": 5776,
+   "budget": 37,
+   "en": "I was just testing Gaudi."
+  },
+  {
+   "off": 5813,
+   "budget": 57,
+   "en": "Gillian!￥Too old to enjoy searching￥for that, surely?",
+   "long": "Gillian! Aren't you too old to get a￥kick out of looking that up?"
+  },
+  {
+   "off": 5870,
+   "budget": 45,
+   "en": "I've lost those memories too. That's￥why."
+  },
+  {
+   "off": 5915,
+   "budget": 13,
+   "en": "Honestly..."
+  },
+  {
+   "off": 5928,
+   "budget": 45,
+   "en": "Gillian, so that's what you're￥searching!!",
+   "long": "Gillian! So that's what you were￥looking up!"
+  },
+  {
+   "off": 5973,
+   "budget": 57,
+   "en": "All right, sorry. I just wanted to￥test Gaudi."
+  },
+  {
+   "off": 6030,
+   "budget": 43,
+   "en": "Gillian! Don't look up things like￥that!"
+  },
+  {
+   "off": 6073,
+   "budget": 47,
+   "en": "(...She's blushing.￥An innocent side.)",
+   "long": "(She's embarrassed. I guess she has￥an innocent side.)"
+  },
+  {
+   "off": 6120,
+   "budget": 27,
+   "en": "The Chief will scold you!",
+   "long": "The Chief will tell you off again!"
+  },
+  {
+   "off": 6147,
+   "budget": 77,
+   "en": "＠緑Masayuki Aizawa. Born August￥17, 1967. Leo. Blood type￥O."
+  },
+  {
+   "off": 6224,
+   "budget": 83,
+   "en": "＠緑▽Character: missile strikes￥ for the careless￥▽Role: husband and dad",
+   "long": "＠緑Personality: Bombards￥careless people with￥missiles. Role: Husband and￥dad."
+  },
+  {
+   "off": 6307,
+   "budget": 81,
+   "en": "＠緑Message: I could only finish￥Snatcher thanks to my loving￥wife's support."
+  },
+  {
+   "off": 6388,
+   "budget": 43,
+   "en": "＠緑Videophone: 00966."
+  },
+  {
+   "off": 6431,
+   "budget": 77,
+   "en": "＠緑Masaya Shiraishi. Born May￥23, 1968. Gemini. Blood type￥A."
+  },
+  {
+   "off": 6508,
+   "budget": 53,
+   "en": "＠緑▽Character￥ nervous, rash￥▽Role￥ demo CG",
+   "long": "＠緑Personality: High-strung and￥out of control. Role:￥Cutscene CG."
+  },
+  {
+   "off": 6561,
+   "budget": 47,
+   "en": "＠緑Message: Now this is￥cyberpunk!"
+  },
+  {
+   "off": 6608,
+   "budget": 81,
+   "en": "＠緑Hiroyuki Asada. Born￥December 4, 1971.￥Sagittarius. 46XY."
+  },
+  {
+   "off": 6689,
+   "budget": 49,
+   "en": "＠緑Personality: Hypocrite.￥Role: Madoka."
+  },
+  {
+   "off": 6738,
+   "budget": 69,
+   "en": "＠緑▽Message￥If you have time to read￥this, play the game.",
+   "long": "＠緑Message: If you've got time￥to read this, you should get￥on with the game."
+  },
+  {
+   "off": 6807,
+   "budget": 47,
+   "en": "＠緑Videophone: 25-0717."
+  },
+  {
+   "off": 6854,
+   "budget": 75,
+   "en": "＠緑Jun Asami. Born September 5,￥1971. Virgo. Blood type A."
+  },
+  {
+   "off": 6929,
+   "budget": 57,
+   "en": "＠緑Personality: Stubborn and￥naive. Role: Design."
+  },
+  {
+   "off": 6986,
+   "budget": 103,
+   "en": "＠緑▽Message￥A full game in my second￥year.￥Hardship and setbacks, but a￥great education.",
+   "long": "＠緑Message: My first full game￥project, in my second year￥at the company. It was one￥hardship after another, but￥I learned a lot."
+  },
+  {
+   "off": 7089,
+   "budget": 47,
+   "en": "＠緑Videophone: 58-2809."
+  },
+  {
+   "off": 7136,
+   "budget": 75,
+   "en": "＠緑Tacchan. Born July 4, 1972.￥Cancer. Blood type B."
+  },
+  {
+   "off": 7211,
+   "budget": 49,
+   "en": "＠緑Personality: Short and￥stout. Role: 3D CG."
+  },
+  {
+   "off": 7260,
+   "budget": 65,
+   "en": "＠緑▽Message￥Lucky to join such a title￥in my first year.",
+   "long": "＠緑Message: I'm happy I could￥work on such a great game in￥my first year."
+  },
+  {
+   "off": 7325,
+   "budget": 47,
+   "en": "＠緑Videophone: 59-7274."
+  },
+  {
+   "off": 7372,
+   "budget": 77,
+   "en": "＠緑Huggy. Born April 11, 1970.￥Aries. Blood type O."
+  },
+  {
+   "off": 7449,
+   "budget": 67,
+   "en": "＠緑Personality: Loyal as a dog.￥Role: Looping intro demo."
+  },
+  {
+   "off": 7516,
+   "budget": 71,
+   "en": "＠緑Message: This gave me even￥more gray hairs. Oh, well."
+  },
+  {
+   "off": 7587,
+   "budget": 77,
+   "en": "＠緑Kazuki Araki. Born March 14,￥1973. Pisces. Blood type AB."
+  },
+  {
+   "off": 7664,
+   "budget": 59,
+   "en": "＠緑▽Role￥ some program or other￥▽Character￥ tail",
+   "long": "＠緑Role: Probably some of the￥programming. Personality:￥Tails."
+  },
+  {
+   "off": 7723,
+   "budget": 101,
+   "en": "＠緑Message: Everything in this￥world is tails. If only￥Snatchers had tails, too!"
+  },
+  {
+   "off": 7824,
+   "budget": 47,
+   "en": "＠緑Videophone: 77-5014."
+  },
+  {
+   "off": 7871,
+   "budget": 77,
+   "en": "＠緑Takayuki Ando. Born August￥21, 1973. Leo. Blood type B."
+  },
+  {
+   "off": 7948,
+   "budget": 65,
+   "en": "＠緑Role: I drew pixel art.￥Personality: Restless."
+  },
+  {
+   "off": 8013,
+   "budget": 83,
+   "en": "＠緑Message: Thank you for￥buying the PlayStation￥version of Snatcher."
+  },
+  {
+   "off": 8096,
+   "budget": 47,
+   "en": "＠緑Videophone: 74-8500."
+  },
+  {
+   "off": 8143,
+   "budget": 77,
+   "en": "＠緑Kazuhiro Iwasaki. Born￥January 5, 1971. Capricorn.￥Blood type A."
+  },
+  {
+   "off": 8220,
+   "budget": 53,
+   "en": "＠緑Role: Package design.￥Personality: Simple."
+  },
+  {
+   "off": 8273,
+   "budget": 69,
+   "en": "＠緑▽Message￥Can't imagine it being cold￥by release day.",
+   "long": "＠緑Message: It's hard to￥imagine it'll be cold by the￥time this comes out."
+  },
+  {
+   "off": 8342,
+   "budget": 77,
+   "en": "＠緑Yohei Kiyohara. Born October￥9, 1971. Libra. Blood type￥O."
+  },
+  {
+   "off": 8419,
+   "budget": 63,
+   "en": "＠緑▽Character: not normal￥▽Role: I drew the pixel￥art.",
+   "long": "＠緑Personality: Anything but￥ordinary. Role: I drew pixel￥art."
+  },
+  {
+   "off": 8482,
+   "budget": 75,
+   "en": "＠緑Message: Tell everyone how￥great Snatcher is!"
+  },
+  {
+   "off": 8557,
+   "budget": 47,
+   "en": "＠緑Videophone: 96-7715."
+  },
+  {
+   "off": 8604,
+   "budget": 83,
+   "en": "＠緑Hideo Kojima. Born August￥24, 1963. Virgo. Pure Aa￥blood type."
+  },
+  {
+   "off": 8687,
+   "budget": 51,
+   "en": "＠緑Personality: Still stubborn￥and lonely."
+  },
+  {
+   "off": 8738,
+   "budget": 73,
+   "en": "＠緑▽Message￥ In these seven years I￥married and became a father.",
+   "long": "＠緑Message: In these past seven￥years, I've married and￥become a father."
+  },
+  {
+   "off": 8811,
+   "budget": 89,
+   "en": "＠緑Times have changed, but￥Snatcher still holds a￥special place in my heart."
+  },
+  {
+   "off": 8900,
+   "budget": 99,
+   "en": "＠緑I hope playing this game￥will stay with you too, as a￥cherished memory of your￥youth."
+  },
+  {
+   "off": 8999,
+   "budget": 79,
+   "en": "＠緑Rieko Komatsubara. Born￥March 12, 1974. Pisces.￥Blood type A."
+  },
+  {
+   "off": 9078,
+   "budget": 71,
+   "en": "＠緑Role: I drew pixel art.￥Personality: Pachislot￥gambler."
+  },
+  {
+   "off": 9149,
+   "budget": 91,
+   "en": "＠緑▽Message￥Summer, and hot. No cooler￥at home. Ahh... the office￥is heaven.",
+   "long": "＠緑Message: It's summer, and￥it's hot! But I don't have￥air conditioning at home.￥The office is paradise."
+  },
+  {
+   "off": 9240,
+   "budget": 47,
+   "en": "＠緑Videophone: 97-3312."
+  },
+  {
+   "off": 9287,
+   "budget": 83,
+   "en": "＠緑Yumiko Takahashi. Born￥January 26, 1975. Aquarius.￥Blood type A."
+  },
+  {
+   "off": 9370,
+   "budget": 55,
+   "en": "＠緑▽Character￥ messy, pushy, smug￥▽Role￥ art",
+   "long": "＠緑Personality: Messy, pushy,￥and full of herself. Role:￥Pixel art."
+  },
+  {
+   "off": 9425,
+   "budget": 103,
+   "en": "＠緑▽Message￥I'm new. ...Don't mention￥the famous namesake (sob).￥Someone bring me new music.",
+   "long": "＠緑Message: I'm new here.￥Please don't bring up the￥other person with my name.￥(Sob.) Someone give me some￥fresh music."
+  },
+  {
+   "off": 9528,
+   "budget": 47,
+   "en": "＠緑Videophone: 97-5126."
+  },
+  {
+   "off": 9575,
+   "budget": 79,
+   "en": "＠緑Makoto Toyama. Born￥September 27, 1970. Libra.￥Blood type O."
+  },
+  {
+   "off": 9654,
+   "budget": 67,
+   "en": "＠緑▽Character￥ exhausted￥▽Role￥ storyboards, art, pixels",
+   "long": "＠緑Personality: Tired. Role:￥Storyboards, original￥artwork, pixel art."
+  },
+  {
+   "off": 9721,
+   "budget": 77,
+   "en": "＠緑▽Message￥I'd like an original next.￥But it'll be another port...",
+   "long": "＠緑Message: I'd like to work on￥an original game next. But￥it might be another port."
+  },
+  {
+   "off": 9798,
+   "budget": 47,
+   "en": "＠緑Videophone: 573-013."
+  },
+  {
+   "off": 9845,
+   "budget": 81,
+   "en": "＠緑Naoya Hatsumi. Born April 7,￥1969. Aries. Blood type O."
+  },
+  {
+   "off": 9926,
+   "budget": 49,
+   "en": "＠緑Personality: Wild and fun.￥Role: Design."
+  },
+  {
+   "off": 9975,
+   "budget": 55,
+   "en": "＠緑Message: Please keep￥supporting Konami."
+  },
+  {
+   "off": 10030,
+   "budget": 47,
+   "en": "＠緑Videophone: 29-6947."
+  },
+  {
+   "off": 10077,
+   "budget": 77,
+   "en": "＠緑Taeko Hayasaka. Born￥December 15, 19??.￥Sagittarius. Blood type O."
+  },
+  {
+   "off": 10154,
+   "budget": 117,
+   "en": "＠緑▽Character: frank and open.￥ Endless curiosity, sometimes￥ a fault. Charming too, moved￥ by film and anime",
+   "long": "＠緑Personality: Easygoing,￥though sometimes too curious￥for her own good. She also￥has a charming side: anime￥and movies move her easily."
+  },
+  {
+   "off": 10271,
+   "budget": 53,
+   "en": "＠緑Bodyboards in summer,￥snowboards in winter.",
+   "long": "＠緑She keeps fit by￥bodyboarding in summer and￥snowboarding in winter."
+  },
+  {
+   "off": 10324,
+   "budget": 33,
+   "en": "＠緑▽Nickname￥ crafty Hayasaka",
+   "long": "＠緑Nickname: Hayasaka, the girl￥who knows how to get what￥she wants."
+  },
+  {
+   "off": 10357,
+   "budget": 75,
+   "en": "＠緑Atsushi Mizutani. Born￥December 10, 1971.￥Sagittarius. Blood type A."
+  },
+  {
+   "off": 10432,
+   "budget": 73,
+   "en": "＠緑▽Character￥pretty cool!￥▽Message￥To make me happy,",
+   "long": "＠緑Personality: Pretty cool!￥Message: If you'd like to￥make me happy,"
+  },
+  {
+   "off": 10505,
+   "budget": 89,
+   "en": "＠緑write to Konami support,￥'make Mizutani happy' desk￥(ladies only, reply-paid).",
+   "long": "＠緑write to Konami Customer￥Service, \"Make Mizutani￥Happy\" desk. Women only.￥Please use a reply-paid￥postcard."
+  },
+  {
+   "off": 10594,
+   "budget": 47,
+   "en": "＠緑Videophone: 71-1220."
+  },
+  {
+   "off": 10641,
+   "budget": 83,
+   "en": "＠緑Gentaro Mizukami. Born￥October 21, 1966. Libra.￥Blood type A."
+  },
+  {
+   "off": 10724,
+   "budget": 59,
+   "en": "＠緑▽Character￥ unconventional￥▽Role￥ opening demo",
+   "long": "＠緑Personality: Unconventional.￥Role: Looping intro demo."
+  },
+  {
+   "off": 10783,
+   "budget": 53,
+   "en": "＠緑Message: Let's meet again￥someday."
+  },
+  {
+   "off": 10836,
+   "budget": 75,
+   "en": "＠緑Kensuke Yoshitomi. Born June￥29, 1972. Cancer. Blood type￥O."
+  },
+  {
+   "off": 10911,
+   "budget": 59,
+   "en": "＠緑Personality: Depends on the￥day. Role: Scenario."
+  },
+  {
+   "off": 10970,
+   "budget": 95,
+   "en": "＠緑▽Message￥Poking into every corner￥like this is one proper way￥to play this game.",
+   "long": "＠緑Message: Poking into every￥little corner like this is￥one perfectly good way to￥play this game."
+  },
+  {
+   "off": 11065,
+   "budget": 47,
+   "en": "＠緑Videophone: 52-7619."
+  },
+  {
+   "off": 11112,
+   "budget": 87,
+   "en": "＠緑God Adachi. Born 2500 BC.￥Blood type: 20,000 yen per￥bottle."
+  },
+  {
+   "off": 11199,
+   "budget": 73,
+   "en": "＠緑▽Sign  Gemini￥▽Role￥ sheets, mixing,￥ lookout, menace, prayer",
+   "long": "＠緑Gemini. Roles: Spreadsheets,￥music mixing, lookout,￥intimidation, prayer."
+  },
+  {
+   "off": 11272,
+   "budget": 77,
+   "en": "＠緑Personality: A calm heart, a￥piercing stare, a filthy￥desk."
+  },
+  {
+   "off": 11349,
+   "budget": 47,
+   "en": "＠緑Message: I mixed most of the￥music."
+  },
+  {
+   "off": 11396,
+   "budget": 115,
+   "en": "＠緑Lately I've been riding a￥Cub. My cool helmet gets￥everyone's attention. I get￥attention without it, too."
+  },
+  {
+   "off": 11511,
+   "budget": 47,
+   "en": "＠緑Videophone: 51-0606."
+  },
+  {
+   "off": 11558,
+   "budget": 89,
+   "en": "＠緑Sun Kida. Born April 1,￥1990. Starting first grade￥soon."
+  },
+  {
+   "off": 11647,
+   "budget": 95,
+   "en": "＠緑▽Aquarius, type B￥▽Role  dishwashing￥▽Character  pudding and￥ bananas make me glad",
+   "long": "＠緑Aquarius. Blood type B.￥Role: Washing dishes.￥Personality: Pudding and￥bananas keep me happy."
+  },
+  {
+   "off": 11742,
+   "budget": 71,
+   "en": "＠緑▽Message￥I changed the music style￥from past SNATCHERs-sun.",
+   "long": "＠緑Message: I tried giving the￥music a different feel from￥earlier Snatcher games."
+  },
+  {
+   "off": 11813,
+   "budget": 93,
+   "en": "＠緑I'd love to hear what you￥think. Thanks! Videophone:￥49-1941."
+  },
+  {
+   "off": 11906,
+   "budget": 81,
+   "en": "＠緑Hiroe Noguchi. Born October￥12, 1972. Libra. Blood type￥O."
+  },
+  {
+   "off": 11987,
+   "budget": 49,
+   "en": "＠緑▽Role￥ sound FX￥▽Character￥ big sis",
+   "long": "＠緑Role: Sound effects.￥Personality: Big sister."
+  },
+  {
+   "off": 12036,
+   "budget": 95,
+   "en": "＠緑▽Message￥I only joined this year, and￥at first I knew nothing at￥all.",
+   "long": "＠緑Message: I only joined the￥company this year. When I￥arrived, I didn't know the￥first thing about anything."
+  },
+  {
+   "off": 12131,
+   "budget": 77,
+   "en": "＠緑But lately I've started￥figuring things out. And now￥I'm worried."
+  },
+  {
+   "off": 12208,
+   "budget": 47,
+   "en": "＠緑Videophone: 72-1012."
+  },
+  {
+   "off": 12255,
+   "budget": 89,
+   "en": "＠緑Noritada \"NOR\" Matsukawa.￥Born September 20, 1969.￥Virgo. Blood type B."
+  },
+  {
+   "off": 12344,
+   "budget": 73,
+   "en": "＠緑Role: Sound programming.￥Personality: Greasy and￥loves work."
+  },
+  {
+   "off": 12417,
+   "budget": 65,
+   "en": "＠緑▽Message￥No time to play games all￥day, you lot.",
+   "long": "＠緑Message: You guys can't just￥sit around playing games all￥day!"
+  },
+  {
+   "off": 12482,
+   "budget": 47,
+   "en": "＠緑Videophone: 56-9926."
+  },
+  {
+   "off": 12529,
+   "budget": 77,
+   "en": "＠緑Kazuhisa Hashimoto. Born￥November 16, 1958.￥Scorpio. Blood type B."
+  },
+  {
+   "off": 12606,
+   "budget": 47,
+   "en": "＠緑Role: Janitor. Personality:￥Harmless."
+  },
+  {
+   "off": 12653,
+   "budget": 47,
+   "en": "＠緑Message: Keep showing Konami￥some love!"
+  },
+  {
+   "off": 12700,
+   "budget": 23,
+   "en": "    ＠緑'Madoka'"
+  },
+  {
+   "off": 12723,
+   "budget": 75,
+   "en": "＠緑▽Age unknown Schoolgirl￥Granddaughter of Dr Murdock￥ of Donburi",
+   "long": "＠緑Age unknown. Middle school￥student. Granddaughter of￥Dr. Murdock, a scientist on￥Donburi Island."
+  },
+  {
+   "off": 12798,
+   "budget": 103,
+   "en": "＠緑Her hobby is baking cookies.￥But chasing new recipes so hard, she has yet to make a normal one.",
+   "long": "＠緑She enjoys making cookies,￥but her obsession with new￥recipes means she's never￥made a normal batch."
+  },
+  {
+   "off": 12901,
+   "budget": 67,
+   "en": "＠緑Reports say they wiped out￥poison gas on the island.",
+   "long": "＠緑Reports say her cookies are￥powerful enough to eliminate￥the poison gas that attacked￥the island."
+  },
+  {
+   "off": 12968,
+   "budget": 59,
+   "en": "＠緑An ordinary girl, yet￥trouble follows her around.",
+   "long": "＠緑She ought to be an ordinary￥girl, but somehow she keeps￥getting caught up in￥trouble."
+  },
+  {
+   "off": 13027,
+   "budget": 31,
+   "en": "＠緑Best work 'Squid Cookie'",
+   "long": "＠緑Signature creation: Squid￥Ink Cookies."
+  },
+  {
+   "off": 13058,
+   "budget": 31,
+   "en": "＠緑Isabella Velvet"
+  },
+  {
+   "off": 13089,
+   "budget": 51,
+   "en": "＠緑Age: 24. Popular Hologram￥Vision actress."
+  },
+  {
+   "off": 13140,
+   "budget": 105,
+   "en": "＠緑▽Discovered dancing at￥Outer Heaven by director￥Ridley Scotty, who gave her￥her debut.",
+   "long": "＠緑Director Ridley Scotty￥discovered her while she was￥working as a dancer at Outer￥Heaven, launching her acting￥career."
+  },
+  {
+   "off": 13245,
+   "budget": 91,
+   "en": "＠緑Best Actress, Kobe International Film Festival '40.￥Special Jury Prize, Cannes '41.",
+   "long": "＠緑Best Actress, 2040 Kobe￥International Film Festival.￥Special Jury Prize, 2041￥Cannes Film Festival."
+  },
+  {
+   "off": 13336,
+   "budget": 55,
+   "en": "＠緑Oscar nominee two years￥running, '41 and '42.",
+   "long": "＠緑Oscar nominee for two￥consecutive years, 2041 and￥2042."
+  },
+  {
+   "off": 13391,
+   "budget": 107,
+   "en": "＠緑Notable holograms 'Bolero of￥Dangerous Love (39)' 'Kiss￥of the Bees (41)' 'Beyond￥Sorrow (41)",
+   "long": "＠緑Notable holographic films:￥Bolero of Dangerous Love￥(2039), Kiss of the Honeybee￥(2041), Beyond Sorrow￥(2041)."
+  },
+  {
+   "off": 13498,
+   "budget": 43,
+   "en": "＠緑▽Height 175cm ▽Blood type￥O",
+   "long": "＠緑Height: 175 centimeters.￥Blood type O."
+  },
+  {
+   "off": 13541,
+   "budget": 57,
+   "en": "＠緑▽B 87cm W 59cm H 88cm",
+   "long": "＠緑Bust: 87 centimeters. Waist:￥59 centimeters. Hips: 88￥centimeters."
+  },
+  {
+   "off": 13598,
+   "budget": 29,
+   "en": "＠緑Ivan Rodriguez"
+  },
+  {
+   "off": 13627,
+   "budget": 85,
+   "en": "＠緑Age: 27. Unmarried. Amateur￥air surfer. Family: none."
+  },
+  {
+   "off": 13712,
+   "budget": 99,
+   "en": "＠緑▽Address SN district, South￥ Itayado 5-22￥ (outside data control)￥▽Family: none",
+   "long": "＠緑Address: 5-22 South Itayado,￥SN District. Note: outside￥the information network.￥Family: none."
+  },
+  {
+   "off": 13811,
+   "budget": 57,
+   "en": "＠緑Home searched as a Snatcher￥suspect; held on drug.",
+   "long": "＠緑His home was searched on￥suspicion of being a￥Snatcher. Arrested for￥illegal drug possession."
+  },
+  {
+   "off": 13868,
+   "budget": 85,
+   "en": "＠緑Age: 27. Unmarried. Amateur￥air surfer. Family: none."
+  },
+  {
+   "off": 13953,
+   "budget": 91,
+   "en": "＠緑▽Address SN district, South￥Itayado 5-22￥ (outside data control)￥▽Family: none",
+   "long": "＠緑Address: 5-22 South Itayado,￥SN District. Note: outside￥the information network.￥Family: none."
+  },
+  {
+   "off": 14044,
+   "budget": 25,
+   "en": "＠緑Data search failed."
+  },
+  {
+   "off": 14069,
+   "budget": 67,
+   "en": "＠緑Your ID cannot clear the￥security level on this data.",
+   "long": "＠緑Your ID does not have the￥security clearance needed to￥access this data."
+  },
+  {
+   "off": 14136,
+   "budget": 69,
+   "en": "＠緑An ID with level 7 clearance￥is required to unlock￥access."
+  },
+  {
+   "off": 14205,
+   "budget": 43,
+   "en": "Why can't I access my own data?"
+  },
+  {
+   "off": 14248,
+   "budget": 29,
+   "en": "＠緑Data search failed."
+  },
+  {
+   "off": 14277,
+   "budget": 65,
+   "en": "＠緑Your ID cannot clear the￥security level on this data",
+   "long": "＠緑Your ID does not have the￥security clearance needed to￥access this data."
+  },
+  {
+   "off": 14342,
+   "budget": 49,
+   "en": "Why can't I access Jamie's data?"
+  },
+  {
+   "off": 14391,
+   "budget": 23,
+   "en": "   ＠緑'Chin Shu Ho'"
+  },
+  {
+   "off": 14414,
+   "budget": 21,
+   "en": "＠緑Jobless Age 41"
+  },
+  {
+   "off": 14435,
+   "budget": 85,
+   "en": "＠緑▽Record￥Mar 2038: charged over illegal host-mother work; senior licence cut.",
+   "long": "＠緑Record: March 2038. Referred￥for prosecution for illegal￥Host Mother operations.￥Advanced medical license￥revoked."
+  },
+  {
+   "off": 14520,
+   "budget": 81,
+   "en": "＠緑Sep 2040: arrested for an￥unlicensed clinic￥(Queen); licence gone.",
+   "long": "＠緑September 2040. Arrested for￥operating an unlicensed￥clinic, Queen Hospital.￥Intermediate medical license￥suspended."
+  },
+  {
+   "off": 14601,
+   "budget": 107,
+   "en": "＠緑May 2041. Permanently barred￥from operating for violating￥physical containment safety￥standards."
+  },
+  {
+   "off": 14708,
+   "budget": 47,
+   "en": "＠緑Family: none. No updated￥data for 2042."
+  },
+  {
+   "off": 14755,
+   "budget": 33,
+   "en": "￥ ＠緑Level class ID confirmed",
+   "long": "＠緑ID clearance level￥confirmed."
+  },
+  {
+   "off": 14788,
+   "budget": 87,
+   "en": "＠赤Classified to protect the￥subject and their kin.￥Disclosure is forbidden.",
+   "long": "＠赤This data is strictly confidential￥to protect the subject and their￥relatives. Disclosure is prohibited."
+  },
+  {
+   "off": 14875,
+   "budget": 29,
+   "en": "＠緑Harry Benson"
+  },
+  {
+   "off": 14904,
+   "budget": 93,
+   "en": "＠緑Age: 55. Unmarried. JUNKER￥Mechanic. Former scientific￥staff member of RUG HUNT."
+  },
+  {
+   "off": 14997,
+   "budget": 89,
+   "en": "＠緑▽Lost his parents in the￥Catastrophe, raised by the￥state.￥Doctorate at 14.",
+   "long": "＠緑Orphaned by the Catastrophe,￥he entered government care￥as a young child. He earned￥his doctorate at just￥fourteen."
+  },
+  {
+   "off": 15086,
+   "budget": 85,
+   "en": "＠緑In World War III he devised￥many new weapons on￥development staff, drawing",
+   "long": "＠緑During World War III, he￥attracted attention by￥designing numerous new￥weapons as a military￥weapons developer."
+  },
+  {
+   "off": 15171,
+   "budget": 67,
+   "en": "＠緑After the war he moved to￥NASA and worked on ramjets.",
+   "long": "＠緑After the war, he moved to￥NASA and worked on ramjet￥engine development."
+  },
+  {
+   "off": 15238,
+   "budget": 53,
+   "en": "＠緑Three Nobel prizes and one￥Fields Medal.",
+   "long": "＠緑He has received three Nobel￥Prizes and one Fields Medal."
+  },
+  {
+   "off": 15291,
+   "budget": 63,
+   "en": "＠緑▽Height 168cm ▽Weight￥65kg ▽Blood type O",
+   "long": "＠緑Height: 168 centimeters.￥Weight: 65 kilograms. Blood￥type O."
+  },
+  {
+   "off": 15354,
+   "budget": 31,
+   "en": "＠緑Freddy Nielsen"
+  },
+  {
+   "off": 15385,
+   "budget": 87,
+   "en": "＠緑Age: 29. Independent taxi￥driver. Wife: Lisa, age 25."
+  },
+  {
+   "off": 15472,
+   "budget": 79,
+   "en": "＠緑Address: Doktor Okamoto,￥Apartment 202, 3-8 New￥Okamoto, MR District."
+  },
+  {
+   "off": 15551,
+   "budget": 89,
+   "en": "＠緑Identified as a Snatcher and￥disposed of by bounty hunter￥Randam Hajile.",
+   "long": "＠緑Identified as a Snatcher￥during an investigation and￥eliminated by bounty hunter￥Randam Hajile."
+  },
+  {
+   "off": 15640,
+   "budget": 43,
+   "en": "＠緑His own body has not been￥found.",
+   "long": "＠緑The real Freddy's body has￥not yet been found."
+  },
+  {
+   "off": 15683,
+   "budget": 37,
+   "en": "￥＠緑 ＠緑Level class ID confirmed",
+   "long": "＠緑＠緑ID clearance level￥confirmed."
+  },
+  {
+   "off": 15720,
+   "budget": 31,
+   "en": "＠緑Benson Cunningham"
+  },
+  {
+   "off": 15751,
+   "budget": 33,
+   "en": "＠緑Age: 46. Chief of JUNKER."
+  },
+  {
+   "off": 15784,
+   "budget": 113,
+   "en": "＠緑▽Snatcher countermeasure￥head in FOX HOUND, then￥anti-Snatcher squad leader,￥before JUNKER Chief.",
+   "long": "＠緑Appointed Chief of JUNKER￥after heading FOXHOUND's￥anti-Snatcher headquarters￥and the special￥anti-Snatcher unit."
+  },
+  {
+   "off": 15897,
+   "budget": 89,
+   "en": "＠緑In his twenties he taught￥strategy with the high-tech￥special force FOX HOUND.",
+   "long": "＠緑In his twenties, he served￥as a strategy instructor in￥the high-tech special forces￥unit FOXHOUND."
+  },
+  {
+   "off": 15986,
+   "budget": 57,
+   "en": "＠緑Competed in judo at the 2028￥Wellington Olympics."
+  },
+  {
+   "off": 16043,
+   "budget": 63,
+   "en": "＠緑▽Height 180cm ▽Weight￥75kg ▽Blood type B",
+   "long": "＠緑Height: 180 centimeters.￥Weight: 75 kilograms. Blood￥type B."
+  },
+  {
+   "off": 16106,
+   "budget": 29,
+   "en": "＠緑Mika Slayton"
+  },
+  {
+   "off": 16135,
+   "budget": 63,
+   "en": "＠緑▽23, unmarried￥ JUNKER HQ receptionist￥ and operator.",
+   "long": "＠緑Age: 23. Unmarried.￥Receptionist and Operator at￥JUNKER headquarters."
+  },
+  {
+   "off": 16198,
+   "budget": 117,
+   "en": "＠緑▽Studied criminal￥psychology and data￥processing at Kobe Gakuen.￥Joined JUNKER via the Kobe￥crime lab.",
+   "long": "＠緑Studied criminal psychology￥and social information￥processing at Kobe Gakuen￥City University. After￥graduation, she worked at￥the Kobe Special Crime￥Research Institute before￥joining JUNKER."
+  },
+  {
+   "off": 16315,
+   "budget": 101,
+   "en": "＠緑At the institute she handled many bizarre cases, using the risky 'element of crime' method.",
+   "long": "＠緑At the institute, she￥handled numerous bizarre￥crimes using the dangerous￥Element of Crime method."
+  },
+  {
+   "off": 16416,
+   "budget": 113,
+   "en": "＠緑Every case was solved, but the mental strain led her to resign. The Chief recommended her to JUNKER HQ.",
+   "long": "＠緑She solved every case, but￥the mental strain led her to￥resign. The Chief's￥recommendation brought her￥to JUNKER headquarters."
+  },
+  {
+   "off": 16529,
+   "budget": 43,
+   "en": "＠緑▽Height 167cm ▽Blood type￥A",
+   "long": "＠緑Height: 167 centimeters.￥Blood type A."
+  },
+  {
+   "off": 16572,
+   "budget": 27,
+   "en": "＠緑Metal Gear"
+  },
+  {
+   "off": 16599,
+   "budget": 45,
+   "en": "＠緑Manufactured September 13,￥2042."
+  },
+  {
+   "off": 16644,
+   "budget": 89,
+   "en": "＠緑Official designation: NAVI￥Metal Gear Mk. II. Designer:￥Harry Benson."
+  },
+  {
+   "off": 16733,
+   "budget": 89,
+   "en": "＠緑Height: 980 mm. Length: 310￥mm. Width: 530 mm, including￥monitor."
+  },
+  {
+   "off": 16822,
+   "budget": 47,
+   "en": "＠緑▽Weight 50kg ▽Load￥capacity 40 liters",
+   "long": "＠緑Weight: 50 kilograms.￥Storage capacity: 40 liters."
+  },
+  {
+   "off": 16869,
+   "budget": 27,
+   "en": "＠緑Little John"
+  },
+  {
+   "off": 16896,
+   "budget": 43,
+   "en": "＠緑Manufactured July 8, 2038."
+  },
+  {
+   "off": 16939,
+   "budget": 99,
+   "en": "＠緑Official designation: NAVI￥Little John MSX011.￥Designer: Harry Benson."
+  },
+  {
+   "off": 17038,
+   "budget": 83,
+   "en": "＠緑Height: 720 mm. Length: 420￥mm. Width: 520 mm, including￥monitor."
+  },
+  {
+   "off": 17121,
+   "budget": 21,
+   "en": "＠緑▽Weight 38kg"
+  },
+  {
+   "off": 17142,
+   "budget": 49,
+   "en": "＠緑Dec 2042 Destroyed in M￥district ruin",
+   "long": "＠緑December 2042: Destroyed at￥the factory ruins in M￥District."
+  },
+  {
+   "off": 17191,
+   "budget": 29,
+   "en": "＠緑Lisa Nielsen"
+  },
+  {
+   "off": 17220,
+   "budget": 45,
+   "en": "＠緑25 years old Housewife￥Husband Freddy",
+   "long": "＠緑Age: 25. Homemaker. Husband:￥Freddy, age 29."
+  },
+  {
+   "off": 17265,
+   "budget": 81,
+   "en": "＠緑Identified as a Snatcher and￥disposed of by JUNKER￥Gillian Seed.",
+   "long": "＠緑Identified as a Snatcher￥during an investigation and￥eliminated by JUNKER Gillian￥Seed."
+  },
+  {
+   "off": 17346,
+   "budget": 47,
+   "en": "Not registered in Alphaville either?",
+   "long": "So he's not registered with￥Alphaville after all?"
+  },
+  {
+   "off": 17393,
+   "budget": 91,
+   "en": "If that's a real name and it's not￥in Alphaville... a drifter or￥illegal immigrant.",
+   "long": "If that's his real name and he's not￥registered with Alphaville, he's￥probably a drifter or an illegal￥immigrant."
+  },
+  {
+   "off": 17484,
+   "budget": 55,
+   "en": "This Randam isn't registered with￥Alphaville?"
+  },
+  {
+   "off": 17539,
+   "budget": 15,
+   "en": "Strange..."
+  },
+  {
+   "off": 17554,
+   "budget": 11,
+   "en": "Odd..."
+  },
+  {
+   "off": 17565,
+   "budget": 31,
+   "en": "＠緑Catherine Gibson"
+  },
+  {
+   "off": 17596,
+   "budget": 55,
+   "en": "＠緑Age: 14. Jean Jack Gibson's￥only daughter."
+  },
+  {
+   "off": 17651,
+   "budget": 97,
+   "en": "＠緑▽'41: won the Miss Thirteen￥contest.￥Now a popular hologram-sign￥commercial model.",
+   "long": "＠緑Won the Miss Thirteen￥contest in 2041. Now a￥popular model for￥holographic advertisements."
+  },
+  {
+   "off": 17748,
+   "budget": 43,
+   "en": "＠緑▽Height 160cm ▽Blood type￥B",
+   "long": "＠緑Height: 160 centimeters.￥Blood type B."
+  },
+  {
+   "off": 17791,
+   "budget": 57,
+   "en": "＠赤▽B 81cm W 58cm H 83cm",
+   "long": "＠赤Bust: 81 centimeters. Waist: 58￥centimeters. Hips: 83 centimeters."
+  },
+  {
+   "off": 17848,
+   "budget": 43,
+   "en": "A model, huh? She must be cute."
+  },
+  {
+   "off": 17891,
+   "budget": 55,
+   "en": "＠緑Jean Jack Gibson"
+  },
+  {
+   "off": 17946,
+   "budget": 103,
+   "en": "＠緑Age: ＠赤55＠緑. JUNKER Runner.￥Wife: Alice, deceased.￥Eldest daughter: Catherine,￥age 14."
+  },
+  {
+   "off": 18049,
+   "budget": 117,
+   "en": "＠緑▽A science officer since￥2010.￥After Snatchers killed his￥wife in the '41 panic, he￥moved to JUNKER.",
+   "long": "＠緑A forensic police officer￥since 2010. After a Snatcher￥killed his wife during the￥2041 Bioroid Panic, he￥requested a transfer to￥JUNKER."
+  },
+  {
+   "off": 18166,
+   "budget": 63,
+   "en": "＠緑▽Height 185cm ▽Weight￥78kg ▽Blood type O",
+   "long": "＠緑Height: 185 centimeters.￥Weight: 78 kilograms. Blood￥type O."
+  },
+  {
+   "off": 18229,
+   "budget": 51,
+   "en": "＠緑Dec 2042 Killed on duty￥chasing a Snatcher",
+   "long": "＠緑December 2042: Killed in the￥line of duty while pursuing￥a Snatcher."
+  },
+  {
+   "off": 18280,
+   "budget": 29,
+   "en": "＠緑Alice Gibson"
+  },
+  {
+   "off": 18309,
+   "budget": 69,
+   "en": "＠緑▽Wife of Jean Jack Gibson.￥Eldest daughter Catherine,￥14.",
+   "long": "＠緑Wife of Jean Jack Gibson.￥Eldest daughter: Catherine,￥age 14."
+  },
+  {
+   "off": 18378,
+   "budget": 79,
+   "en": "＠緑Killed by a Snatcher during￥the 2041 Bioroid Panic. She￥was forty."
+  },
+  {
+   "off": 18457,
+   "budget": 43,
+   "en": "＠緑▽Height 165cm ▽Blood type￥B",
+   "long": "＠緑Height: 165 centimeters.￥Blood type B."
+  },
+  {
+   "off": 18500,
+   "budget": 49,
+   "en": "＠緑Mr. Big. Real name unknown."
+  },
+  {
+   "off": 18549,
+   "budget": 35,
+   "en": "＠緑▽Age unknown ▽Race unknown",
+   "long": "＠緑Age: unknown. Ethnicity:￥unknown."
+  },
+  {
+   "off": 18584,
+   "budget": 95,
+   "en": "＠緑▽Rose from a small southern￥gang to the top of the￥underworld through Liquid￥Sky.",
+   "long": "＠緑Rose from a small southern￥gang to the top of the￥underworld by trafficking￥the hallucinogen Liquid Sky."
+  },
+  {
+   "off": 18679,
+   "budget": 97,
+   "en": "＠緑Said to control Neo Kobe's￥black money, with rumoured￥ties to politics and￥business.",
+   "long": "＠緑He is said to control Neo￥Kobe's illicit money and is￥rumored to have corrupt ties￥to political and business￥leaders."
+  },
+  {
+   "off": 18776,
+   "budget": 99,
+   "en": "＠緑Some say he is a fiction built by the syndicate to confuse police.￥His identity is unknown.",
+   "long": "＠緑His true identity remains a￥mystery. Some believe the￥organization invented him to￥confuse police￥investigations."
+  },
+  {
+   "off": 18875,
+   "budget": 29,
+   "en": "＠緑Lewis Gilmore"
+  },
+  {
+   "off": 18904,
+   "budget": 77,
+   "en": "＠緑▽Served in special force￥FOX HOUND, then volunteered￥for JUNKER.",
+   "long": "＠緑Served in the special forces￥unit FOXHOUND before￥volunteering to join JUNKER."
+  },
+  {
+   "off": 18981,
+   "budget": 83,
+   "en": "＠緑▽October 13, 2042: killed￥by an Insector while￥investigating.￥He was 28.",
+   "long": "＠緑October 13, 2042: Killed by￥an Insector during an￥investigation. He was￥twenty-eight."
+  },
+  {
+   "off": 19064,
+   "budget": 31,
+   "en": "＠緑David Johnson"
+  },
+  {
+   "off": 19095,
+   "budget": 77,
+   "en": "＠緑▽Served in FOX HOUND,￥joined JUNKER on the Chief's￥recommendation.",
+   "long": "＠緑Served in FOXHOUND before￥joining JUNKER on the￥Chief's recommendation."
+  },
+  {
+   "off": 19172,
+   "budget": 123,
+   "en": "＠緑▽October 19, 2042: on a￥case with colleague S.￥Glazer, took a Snatcher￥cannon to the head.￥Left a vegetable.",
+   "long": "＠緑October 19, 2042: Critically￥wounded by a Snatcher's￥cannon blast to the head￥while investigating with￥colleague S. Glazer. Left in￥a vegetative state."
+  },
+  {
+   "off": 19295,
+   "budget": 49,
+   "en": "＠緑Still hospitalized at Neo￥Kobe Central.",
+   "long": "＠緑He remains hospitalized at￥Neo Kobe Central Hospital."
+  },
+  {
+   "off": 19344,
+   "budget": 31,
+   "en": "＠緑Schultz Deckard"
+  },
+  {
+   "off": 19375,
+   "budget": 67,
+   "en": "＠緑▽Transferred to JUNKER from the Neo Kobe homicide division.",
+   "long": "＠緑Requested a transfer to￥JUNKER from Neo Kobe￥Police's homicide division."
+  },
+  {
+   "off": 19442,
+   "budget": 115,
+   "en": "＠緑▽October 22, 2042: killed￥coming home from a case,￥attacked by a Snatcher lying￥in wait.￥He was 47.",
+   "long": "＠緑October 22, 2042: Killed by￥a Snatcher hiding in his￥home when he returned from￥an investigation. He was￥forty-seven."
+  },
+  {
+   "off": 19557,
+   "budget": 111,
+   "en": "＠緑His wife Shinobu (45),￥daughter Rika (17) and son￥Show (13) had already been￥murdered that morning.",
+   "long": "＠緑His wife Shinobu, 45, eldest￥daughter Rika, 17, and￥eldest son Show, 13, had￥already been brutally￥murdered that morning."
+  },
+  {
+   "off": 19668,
+   "budget": 99,
+   "en": "＠緑▽Deckard's resignation was accepted; he was to leave Oct 25 and move to Hawaii with kin.",
+   "long": "＠緑His resignation had been￥accepted. He was due to￥retire on October 25 and￥move to Hawaii with his￥family."
+  },
+  {
+   "off": 19767,
+   "budget": 31,
+   "en": "＠緑Shinobu Deckard"
+  },
+  {
+   "off": 19798,
+   "budget": 115,
+   "en": "＠緑Wife of Schultz Deckard.￥October 22, 2042: Attacked￥and killed by a Snatcher at￥home. She was forty-five."
+  },
+  {
+   "off": 19913,
+   "budget": 113,
+   "en": "＠緑With Rika (17) and Show￥(13), she is thought to have￥been caught up in her JUNKER￥husband's murder.",
+   "long": "＠緑She and her children, Rika,￥17, and Show, 13, are￥believed to have been killed￥as part of the attack on her￥husband, JUNKER Schultz￥Deckard."
+  },
+  {
+   "off": 20026,
+   "budget": 29,
+   "en": "＠緑Rika Deckard"
+  },
+  {
+   "off": 20055,
+   "budget": 71,
+   "en": "＠緑▽Elder daughter of Schultz￥Deckard￥▽Second year, Neo Kobe.",
+   "long": "＠緑Schultz Deckard's eldest￥daughter. Second-year￥student at Neo Kobe High￥School."
+  },
+  {
+   "off": 20126,
+   "budget": 87,
+   "en": "＠緑October 22, 2042: Attacked￥and killed by a Snatcher at￥home. She was seventeen."
+  },
+  {
+   "off": 20213,
+   "budget": 75,
+   "en": "＠緑Thought to have been caught￥up in the murder of her￥JUNKER father.",
+   "long": "＠緑Believed to have been caught￥in the attack targeting her￥father, JUNKER Schultz￥Deckard."
+  },
+  {
+   "off": 20288,
+   "budget": 29,
+   "en": "＠緑Show Deckard"
+  },
+  {
+   "off": 20317,
+   "budget": 81,
+   "en": "＠緑▽Son of Schultz Deckard￥▽First year, Neo Kobe￥ Junior High School.",
+   "long": "＠緑Schultz Deckard's eldest￥son. First-year student at￥Neo Kobe Junior High School."
+  },
+  {
+   "off": 20398,
+   "budget": 87,
+   "en": "＠緑October 22, 2042: Attacked￥and killed by a Snatcher at￥home. He was thirteen."
+  },
+  {
+   "off": 20485,
+   "budget": 31,
+   "en": "＠緑Sergio Glazer"
+  },
+  {
+   "off": 20516,
+   "budget": 85,
+   "en": "＠緑Former Secret Service agent￥assigned to Neo Kobe mayor￥Brian O'Connor."
+  },
+  {
+   "off": 20601,
+   "budget": 115,
+   "en": "＠緑but feeling to blame for O'Connor being snatched, he joined the police anti-Snatcher squad, then JUNKER.",
+   "long": "＠緑Feeling responsible for￥O'Connor's replacement by a￥Snatcher, he volunteered for￥the Metropolitan Police's￥special anti-Snatcher unit￥and later joined JUNKER."
+  },
+  {
+   "off": 20716,
+   "budget": 111,
+   "en": "＠緑▽October 19, 2042: killed￥by a Snatcher cannon on a￥case with colleague D.￥Johnson. He was 33.",
+   "long": "＠緑October 19, 2042: Killed by￥a Snatcher's cannon while￥investigating with colleague￥D. Johnson. He was￥thirty-three."
+  },
+  {
+   "off": 20827,
+   "budget": 31,
+   "en": "＠緑Brian O'Connor"
+  },
+  {
+   "off": 20858,
+   "budget": 83,
+   "en": "＠緑Mayor of Neo Kobe City from￥2038 to February 2040."
+  },
+  {
+   "off": 20941,
+   "budget": 67,
+   "en": "＠緑▽Took office at 38, the￥youngest mayor in city￥history.",
+   "long": "＠緑Took office at thirty-eight,￥attracting attention as the￥youngest mayor in the city's￥history."
+  },
+  {
+   "off": 21008,
+   "budget": 117,
+   "en": "＠緑▽He worked hard on the￥untouched North-South￥divide, but in February 2040￥he was murdered by a￥Snatcher.",
+   "long": "＠緑He focused on resolving the￥largely neglected￥North-South divide, but was￥brutally murdered by a￥Snatcher in February 2040."
+  },
+  {
+   "off": 21125,
+   "budget": 95,
+   "en": "＠緑▽His body was found at the￥Ina River mouth; autopsy￥showed twelve days dead.",
+   "long": "＠緑His body was found at the￥mouth of the Ina River. The￥autopsy showed he had been￥dead for about twelve days."
+  },
+  {
+   "off": 21220,
+   "budget": 115,
+   "en": "＠緑▽The Snatcher replacing￥O'Connor was arrested after￥the body was found, but￥self-destructed.￥No sample.",
+   "long": "＠緑The Snatcher impersonating￥him was arrested after his￥body was found, but￥self-destructed without￥leaving a specimen."
+  },
+  {
+   "off": 21335,
+   "budget": 61,
+   "en": "＠緑Napoleon Bonaparte￥(1769-1821)"
+  },
+  {
+   "off": 21396,
+   "budget": 57,
+   "en": "＠緑▽Emperor of the First￥French Empire (1804-14, 15)",
+   "long": "＠緑Emperor of the First French￥Empire, 1804-1814 and 1815."
+  },
+  {
+   "off": 21453,
+   "budget": 97,
+   "en": "＠緑▽Born August 15, 1769,￥second son of minor nobility￥at Ajaccio, west coast of￥Corsica.",
+   "long": "＠緑Born August 15, 1769, in￥Ajaccio on the west coast of￥Genoese Corsica, the second￥son of a minor noble family."
+  },
+  {
+   "off": 21550,
+   "budget": 71,
+   "en": "＠緑After Brienne and Paris,￥sent to a provincial￥artillery unit.",
+   "long": "＠緑Attended military school at￥Brienne, then graduated from￥the Paris military academy￥and was assigned to a￥provincial artillery￥regiment."
+  },
+  {
+   "off": 21621,
+   "budget": 53,
+   "en": "＠緑▽'93: artillery commander￥of the Italy army.",
+   "long": "＠緑1793: Appointed artillery￥commander of the army￥campaigning in Italy."
+  },
+  {
+   "off": 21674,
+   "budget": 65,
+   "en": "＠緑▽November '99: forms the Consulate by the Brumaire coup.",
+   "long": "＠緑November 1799: Established￥the Consulate through the￥coup of Brumaire."
+  },
+  {
+   "off": 21739,
+   "budget": 79,
+   "en": "＠緑The '99 constitution came￥with the words ＠赤'the￥revolution is over'.",
+   "long": "＠緑The 1799 constitution was￥published with the￥proclamation ＠赤\"The￥Revolution is over.\"＠緑"
+  },
+  {
+   "off": 21818,
+   "budget": 55,
+   "en": "＠緑▽March 1815: lands in￥France and enters Paris.",
+   "long": "＠緑March 1815: Landed on the￥French mainland and entered￥Paris."
+  },
+  {
+   "off": 21873,
+   "budget": 117,
+   "en": "＠緑June 18: broken by Blucher￥and Wellington at Waterloo.￥This is called the ＠赤Hundred￥Days＠緑.",
+   "long": "＠緑On June 18, Blucher and￥Wellington defeated him at￥Waterloo. This period is￥known as the ＠赤Hundred Days＠緑."
+  },
+  {
+   "off": 21990,
+   "budget": 43,
+   "en": "Now we understand Napoleon's code."
+  },
+  {
+   "off": 22033,
+   "budget": 41,
+   "en": "I see. \"Napoleon\" fits him￥perfectly."
+  },
+  {
+   "off": 22074,
+   "budget": 31,
+   "en": "＠緑No matching person found."
+  },
+  {
+   "off": 22105,
+   "budget": 65,
+   "en": "My data and Jamie's are locked away￥somehow.",
+   "long": "For some reason, access to my data￥and Jamie's has been blocked."
+  },
+  {
+   "off": 22170,
+   "budget": 55,
+   "en": "Metal, who can access level 7￥information?"
+  },
+  {
+   "off": 22225,
+   "budget": 41,
+   "en": "No one at JUNKER HQ can get near it.",
+   "long": "No one at JUNKER headquarters has￥that clearance."
+  },
+  {
+   "off": 22266,
+   "budget": 13,
+   "en": "The Chief?",
+   "long": "Not even the Chief?"
+  },
+  {
+   "off": 22279,
+   "budget": 17,
+   "en": "That's right...."
+  },
+  {
+   "off": 22296,
+   "budget": 17,
+   "en": "Metal, and you?",
+   "long": "What about you, Metal?"
+  },
+  {
+   "off": 22313,
+   "budget": 13,
+   "en": "......"
+  },
+  {
+   "off": 22326,
+   "budget": 17,
+   "en": "Don't you know?",
+   "long": "Do you know anything?"
+  },
+  {
+   "off": 22343,
+   "budget": 29,
+   "en": "I don't know anything."
+  },
+  {
+   "off": 22372,
+   "budget": 33,
+   "en": "Mika, what is level 7 data?",
+   "long": "Mika, what's level 7 information?"
+  },
+  {
+   "off": 22405,
+   "budget": 51,
+   "en": "Level 7? Even the Chief can't access￥that."
+  },
+  {
+   "off": 22456,
+   "budget": 17,
+   "en": "That's strange."
+  },
+  {
+   "off": 22475,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

@@ -1,0 +1,564 @@
+{
+ "86": {
+  "speaker": "Metal Gear",
+  "en": "Promise you'll come back.",
+  "ps1": [
+   "B250_c10f52"
+  ],
+  "cards": [
+   "Promise you'll come|back."
+  ],
+  "layout": "plain"
+ },
+ "cd": {
+  "speaker": "Metal Gear",
+  "en": "I'll open it. Be careful. We don't know what's inside.",
+  "ps1": [
+   "B230_f20"
+  ],
+  "cards": [
+   "I'll open it. Be|careful. We don't|know what's inside."
+  ]
+ },
+ "ce": {
+  "speaker": "Gillian",
+  "en": "Mika!",
+  "ps1": [
+   "B230_f67"
+  ],
+  "cards": [
+   "Mika!"
+  ],
+  "layout": "plain"
+ },
+ "cf": {
+  "speaker": "Gillian",
+  "en": "Mika, are you all right?",
+  "ps1": [
+   "B230_a_01"
+  ],
+  "cards": [
+   "Mika, are you all|right?"
+  ],
+  "layout": "plain"
+ },
+ "d0": {
+  "speaker": "Gillian",
+  "en": "Metal, how is she?",
+  "ps1": [
+   "B230_f23"
+  ],
+  "cards": [
+   "Metal, how is she?"
+  ],
+  "layout": "plain"
+ },
+ "d1": {
+  "speaker": "Metal Gear",
+  "en": "Her pulse is normal. Only her forehead is injured. The blood loss isn't serious.",
+  "ps1": [
+   "B230_f24",
+   "B230_f24b"
+  ],
+  "cards": [
+   "Her pulse is|normal. Only her|forehead is|injured.",
+   "The blood loss|isn't serious."
+  ],
+  "turns": [
+   3.08
+  ]
+ },
+ "d3": {
+  "speaker": "Gillian",
+  "en": "Hang on, Mika! It's me, Gillian!",
+  "ps1": [
+   "B230_f26"
+  ],
+  "cards": [
+   "Hang on, Mika! It's|me, Gillian!"
+  ],
+  "layout": "plain"
+ },
+ "d4": {
+  "speaker": "Harry",
+  "en": "Gil... Gillian...",
+  "ps1": [
+   "B230_h_16"
+  ],
+  "cards": [
+   "Gil... Gillian..."
+  ],
+  "layout": "plain"
+ },
+ "d5": {
+  "speaker": "Gillian",
+  "en": "Mika, what happened?",
+  "ps1": [
+   "B230_f28"
+  ],
+  "cards": [
+   "Mika, what happened?"
+  ],
+  "layout": "plain"
+ },
+ "d6": {
+  "speaker": "Mika",
+  "en": "The chief. The chief was a Snatcher!",
+  "ps1": [
+   "B230_f29"
+  ],
+  "cards": [
+   "The chief. The chief was|a Snatcher!"
+  ],
+  "layout": "plain"
+ },
+ "d7": {
+  "speaker": "Metal Gear",
+  "en": "He finally showed his true colors!",
+  "ps1": [
+   "B230_f30"
+  ],
+  "cards": [
+   "He finally showed|his true colors!"
+  ]
+ },
+ "d8": {
+  "speaker": "Mika",
+  "en": "Harry... Harry...",
+  "ps1": [
+   "B230_f31"
+  ],
+  "cards": [
+   "Harry... Harry..."
+  ],
+  "layout": "plain"
+ },
+ "d9": {
+  "speaker": "Gillian",
+  "en": "Harry? What?",
+  "ps1": [
+   "B230_f32"
+  ],
+  "cards": [
+   "Harry? What?"
+  ],
+  "layout": "plain"
+ },
+ "da": {
+  "speaker": "Mika",
+  "en": "Harry put me in this booth and shut the main door, trapping the Snatcher inside headquarters.",
+  "ps1": [
+   "B230_f33",
+   "B230_f33b"
+  ],
+  "cards": [
+   "Harry put me in this|booth and shut the main door,",
+   "trapping the Snatcher|inside headquarters."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.68
+  ]
+ },
+ "db": {
+  "speaker": "Metal Gear",
+  "en": "Even a Snatcher can't break through the shields here.",
+  "ps1": [
+   "B230_f34",
+   "B230_f34b"
+  ],
+  "cards": [
+   "Even a Snatcher|can't break through|the shields here."
+  ]
+ },
+ "dc": {
+  "speaker": "Gillian",
+  "en": "The old man...?",
+  "ps1": [
+   "B230_h_42",
+   "B230_h_43"
+  ],
+  "cards": [
+   "The old man...?"
+  ],
+  "layout": "plain"
+ },
+ "dd": {
+  "speaker": "Mika",
+  "en": "Harry told me not to open the door, no matter what. Then he went inside.",
+  "ps1": [
+   "B230_f36",
+   "B230_f36b"
+  ],
+  "cards": [
+   "Harry told me not to open|the door, no matter what.",
+   "Then he went inside."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.72
+  ]
+ },
+ "de": {
+  "speaker": "Mika",
+  "en": "Gillian, save Harry!",
+  "ps1": [
+   "B230_f37"
+  ],
+  "cards": [
+   "Gillian, save Harry!"
+  ],
+  "layout": "plain"
+ },
+ "df": {
+  "speaker": "Gillian",
+  "en": "Harry! Mika, open the shield. I'm going in.",
+  "ps1": [
+   "B230_f38"
+  ],
+  "cards": [
+   "Harry! Mika, open the|shield. I'm going in."
+  ],
+  "layout": "plain"
+ },
+ "e0": {
+  "speaker": "Gillian",
+  "en": "Metal! We're going in! Stay alert! The Snatcher could be hiding anywhere!",
+  "ps1": [
+   "B230_f39",
+   "B230_f39b"
+  ],
+  "cards": [
+   "Metal! We're going|in! Stay alert!",
+   "The Snatcher could be|hiding anywhere!"
+  ],
+  "layout": "plain",
+  "turns": [
+   2.86
+  ]
+ },
+ "e1": {
+  "speaker": "Metal Gear",
+  "en": "Right.",
+  "ps1": [
+   "B230_f40"
+  ],
+  "cards": [
+   "Right."
+  ]
+ },
+ "e2": {
+  "speaker": "Mika",
+  "en": "Be careful, Gillian. The chief knows you inside out. Don't let your guard down.",
+  "ps1": [
+   "B230_f41",
+   "B230_f41b"
+  ],
+  "cards": [
+   "Be careful, Gillian. The|chief knows you inside out.",
+   "Don't let your guard down."
+  ],
+  "layout": "plain",
+  "turns": [
+   6.32
+  ]
+ },
+ "e3": {
+  "speaker": "Gillian",
+  "en": "I understand.",
+  "ps1": [
+   "B230_h_47"
+  ],
+  "cards": [
+   "I understand."
+  ],
+  "layout": "plain"
+ },
+ "e4": {
+  "speaker": "Metal Gear",
+  "en": "The lights have been destroyed.",
+  "ps1": [
+   "B230_f43"
+  ],
+  "cards": [
+   "The lights have|been destroyed."
+  ]
+ },
+ "e5": {
+  "speaker": "Metal Gear",
+  "en": "The movement is heading away from us.",
+  "ps1": [
+   "B230_f44"
+  ],
+  "cards": [
+   "The movement is|heading away from|us."
+  ]
+ },
+ "e6": {
+  "speaker": "Gillian",
+  "en": "Running away?",
+  "ps1": [
+   "B230_f45"
+  ],
+  "cards": [
+   "Running away?"
+  ]
+ },
+ "e7": {
+  "speaker": "Metal Gear",
+  "en": "I've lost the movement reading.",
+  "ps1": [
+   "B230_f46"
+  ],
+  "cards": [
+   "I've lost the|movement reading."
+  ]
+ },
+ "e8": {
+  "speaker": "Gillian",
+  "en": "The Snatcher got away!",
+  "ps1": [
+   "B230_f47"
+  ],
+  "cards": [
+   "The Snatcher got|away!"
+  ]
+ },
+ "e9": {
+  "speaker": "Metal Gear",
+  "en": "Emergency lights on.",
+  "ps1": [
+   "B230_f48"
+  ],
+  "cards": [
+   "Emergency lights on."
+  ]
+ },
+ "ea": {
+  "speaker": "Gillian",
+  "en": "Did he get away?",
+  "ps1": [
+   "B230_f49"
+  ],
+  "cards": [
+   "Did he get away?"
+  ]
+ },
+ "eb": {
+  "speaker": "Metal Gear",
+  "en": "Let's go after him!",
+  "ps1": [
+   "B230_f50"
+  ],
+  "cards": [
+   "Let's go after him!"
+  ]
+ },
+ "ec": {
+  "speaker": "Gillian",
+  "en": "He's not getting away! He can't leave headquarters!",
+  "ps1": [
+   "B230_f51"
+  ],
+  "cards": [
+   "He's not getting|away! He can't|leave headquarters!"
+  ]
+ },
+ "ed": {
+  "speaker": "Metal Gear",
+  "en": "The Snatcher is wounded. Let's follow the blood.",
+  "ps1": [
+   "B230_f52"
+  ],
+  "cards": [
+   "The Snatcher is|wounded. Let's|follow the blood."
+  ]
+ },
+ "ee": {
+  "speaker": "Metal Gear",
+  "en": "The shield was open. Did Mika open it?",
+  "ps1": [
+   "B230_f53"
+  ],
+  "cards": [
+   "The shield was|open. Did Mika open|it?"
+  ]
+ },
+ "ef": {
+  "speaker": "Gillian",
+  "en": "Huh? Mika's gone!",
+  "ps1": [
+   "B230_f54"
+  ],
+  "cards": [
+   "Huh? Mika's gone!"
+  ]
+ },
+ "f0": {
+  "speaker": "Gillian",
+  "en": "What happened?",
+  "ps1": [
+   "B230_f55"
+  ],
+  "cards": [
+   "What happened?"
+  ]
+ },
+ "f1": {
+  "speaker": "Metal Gear",
+  "en": "The power went out.",
+  "ps1": [
+   "B230_f56"
+  ],
+  "cards": [
+   "The power went out."
+  ]
+ },
+ "f2": {
+  "speaker": "Chief",
+  "en": "Don't move, Gillian Seed.",
+  "ps1": [
+   "B230_f57"
+  ],
+  "cards": [
+   "Don't move, Gillian|Seed."
+  ],
+  "layout": "plain"
+ },
+ "f3": {
+  "speaker": "Gillian",
+  "en": "Cunningham! It's you!",
+  "ps1": [
+   "B230_f58"
+  ],
+  "cards": [
+   "Cunningham! It's|you!"
+  ]
+ },
+ "f4": {
+  "speaker": "Metal Gear",
+  "en": "Movement detected. He's in here.",
+  "ps1": [
+   "B230_f59"
+  ],
+  "cards": [
+   "Movement detected.|He's in here."
+  ]
+ },
+ "f5": {
+  "speaker": "Gillian",
+  "en": "Where are you? Show yourself!",
+  "ps1": [
+   "B230_f60"
+  ],
+  "cards": [
+   "Where are you? Show|yourself!"
+  ]
+ },
+ "f6": {
+  "speaker": "Chief",
+  "en": "Ha ha ha! I'm right here. I'm not running or hiding.",
+  "ps1": [
+   "B230_f61",
+   "B230_f61b"
+  ],
+  "cards": [
+   "Ha ha ha! I'm right|here. I'm not running or hiding."
+  ],
+  "layout": "plain"
+ },
+ "f7": {
+  "speaker": "Gillian",
+  "en": "Mika!",
+  "ps1": [
+   "B230_a_18",
+   "B230_a_19"
+  ],
+  "cards": [
+   "Mika!"
+  ]
+ },
+ "f8": {
+  "speaker": "Mika",
+  "en": "No! Stay back, Gillian! It's a trap!",
+  "ps1": [
+   "B230_f63"
+  ],
+  "cards": [
+   "No! Stay back, Gillian!|It's a trap!"
+  ],
+  "layout": "plain"
+ },
+ "f9": {
+  "speaker": "Gillian",
+  "en": "You coward! A hostage?",
+  "ps1": [
+   "B230_f64"
+  ],
+  "cards": [
+   "You coward! A|hostage?"
+  ]
+ },
+ "fa": {
+  "speaker": "Chief",
+  "en": "Go ahead, Gillian! Shoot if you dare! But if your hand slips, I can't promise she'll live!",
+  "ps1": [
+   "B230_f65",
+   "B230_f65b"
+  ],
+  "cards": [
+   "Go ahead, Gillian!|Shoot if you dare!",
+   "But if your hand slips,|I can't promise she'll live!"
+  ],
+  "layout": "plain",
+  "turns": [
+   4.02
+  ]
+ },
+ "fb": {
+  "speaker": "Mika",
+  "en": "Gillian, shoot! Kill the Snatcher! Don't worry about me!",
+  "ps1": [
+   "B230_f66"
+  ],
+  "cards": [
+   "Gillian, shoot! Kill the|Snatcher! Don't worry about me!"
+  ],
+  "layout": "plain"
+ },
+ "fc": {
+  "speaker": "Gillian",
+  "en": "Mika!",
+  "ps1": [
+   "B230_f67"
+  ],
+  "cards": [
+   "Mika!"
+  ]
+ },
+ "fd": {
+  "speaker": "Metal Gear",
+  "en": "What do we do?",
+  "ps1": [
+   "B230_f68"
+  ],
+  "cards": [
+   "What do we do?"
+  ]
+ },
+ "fe": {
+  "speaker": "Chief",
+  "en": "Here I come, JUNKER!",
+  "ps1": [
+   "B230_f69"
+  ],
+  "cards": [
+   "Here I come, JUNKER!"
+  ],
+  "layout": "plain"
+ },
+ "_unmatched": {
+  "d2": "0.18 XAS_M000.XA[914]",
+  "19": "0.12 XAS_S000.XA[77]"
+ }
+}

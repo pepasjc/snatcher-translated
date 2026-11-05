@@ -1,0 +1,547 @@
+{
+ "scene": "B060",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B060_f1_0",
+   "line": 0,
+   "act": 1,
+   "sector": 0,
+   "offset": 0,
+   "size": 36838,
+   "b0": 0,
+   "b1": 36838,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Hey! No eating and drinking binges on expenses!",
+   "rows": [
+    "Hey! No eating and drinking",
+    "binges on expenses!"
+   ],
+   "rows_plain": [
+    "Hey! No eating and drinking binges",
+    "on expenses!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_f2_0",
+   "line": 1,
+   "act": 1,
+   "sector": 15,
+   "offset": 1978,
+   "size": 31417,
+   "b0": 0,
+   "b1": 31417,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "W-what are you talking about?",
+   "rows": [
+    "W-what are you talking",
+    "about?"
+   ],
+   "rows_plain": [
+    "W-what are you talking about?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_f3_0",
+   "line": 2,
+   "act": 1,
+   "sector": 29,
+   "offset": 859,
+   "size": 46010,
+   "b0": 0,
+   "b1": 46010,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Don't play dumb. Metal Gear sends me all the data.",
+   "rows": [
+    "Don't play dumb. Metal Gear",
+    "sends me all the data."
+   ],
+   "rows_plain": [
+    "Don't play dumb. Metal Gear sends me",
+    "all the data."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_f4_0",
+   "line": 3,
+   "act": 1,
+   "sector": 49,
+   "offset": 389,
+   "size": 6277,
+   "b0": 0,
+   "b1": 6277,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal?",
+   "rows": [
+    "Metal?"
+   ],
+   "rows_plain": [
+    "Metal?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_f5_0",
+   "line": 4,
+   "act": 1,
+   "sector": 51,
+   "offset": 2018,
+   "size": 33834,
+   "b0": 0,
+   "b1": 33834,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Th-that's why I warned you.",
+   "rows": [
+    "Th-that's why I warned you."
+   ],
+   "rows_plain": [
+    "Th-that's why I warned you."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_f6_0",
+   "line": 5,
+   "act": 1,
+   "sector": 66,
+   "offset": 992,
+   "size": 20299,
+   "b0": 0,
+   "b1": 20299,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Don't let it happen again.",
+   "rows": [
+    "Don't let it happen again."
+   ],
+   "rows_plain": [
+    "Don't let it happen again."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_008",
+   "line": 10,
+   "act": 1,
+   "sector": 174,
+   "offset": 2018,
+   "size": 16102,
+   "b0": 0,
+   "b1": 16102,
+   "speaker": "Voice",
+   "colour": 7,
+   "en": "Who are you?",
+   "rows": [
+    "Who are you?"
+   ],
+   "rows_plain": [
+    "Who are you?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_009",
+   "line": 11,
+   "act": 1,
+   "sector": 181,
+   "offset": 1852,
+   "size": 27940,
+   "b0": 0,
+   "b1": 27940,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I know Gibson. I need information.",
+   "rows": [
+    "I know Gibson. I need",
+    "information."
+   ],
+   "rows_plain": [
+    "I know Gibson. I need information."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_010",
+   "line": 12,
+   "act": 1,
+   "sector": 193,
+   "offset": 1904,
+   "size": 91167,
+   "b0": 0,
+   "b1": 32856,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "You a cop too? I don't trust you.",
+   "rows": [
+    "You a cop too? I don't trust",
+    "you."
+   ],
+   "rows_plain": [
+    "You a cop too? I don't trust you."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_010b",
+   "line": 12,
+   "act": 1,
+   "sector": 193,
+   "offset": 1904,
+   "size": 91167,
+   "b0": 54759,
+   "b1": 91167,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "All right, let's try the password.",
+   "rows": [
+    "All right, let's try the",
+    "password."
+   ],
+   "rows_plain": [
+    "All right, let's try the password."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_011",
+   "line": 13,
+   "act": 1,
+   "sector": 233,
+   "offset": 111,
+   "size": 8019,
+   "b0": 0,
+   "b1": 8019,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Password?",
+   "rows": [
+    "Password?"
+   ],
+   "rows_plain": [
+    "Password?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_000",
+   "line": 1030,
+   "act": 3,
+   "sector": 11021,
+   "offset": 1897,
+   "size": 38229,
+   "b0": 0,
+   "b1": 38229,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Oh, Gillian. I was asleep.",
+   "rows": [
+    "Oh, Gillian. I was asleep."
+   ],
+   "rows_plain": [
+    "Oh, Gillian. I was asleep."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_001",
+   "line": 1031,
+   "act": 3,
+   "sector": 11038,
+   "offset": 618,
+   "size": 44906,
+   "b0": 0,
+   "b1": 44906,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Hello, Jamie here. Oh, Gillian. How are you?",
+   "rows": [
+    "Hello, Jamie here. Oh,",
+    "Gillian. How are you?"
+   ],
+   "rows_plain": [
+    "Hello, Jamie here. Oh, Gillian. How",
+    "are you?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_002",
+   "line": 1032,
+   "act": 3,
+   "sector": 11057,
+   "offset": 1368,
+   "size": 39324,
+   "b0": 0,
+   "b1": 39324,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Surprised? This is a recording.",
+   "rows": [
+    "Surprised? This is a",
+    "recording."
+   ],
+   "rows_plain": [
+    "Surprised? This is a recording."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_003",
+   "line": 1034,
+   "act": 3,
+   "sector": 11118,
+   "offset": 1334,
+   "size": 148920,
+   "b0": 0,
+   "b1": 117600,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "I'm out at the moment. You can reach me at Neo Kobe Pharmaceutical Lab, 39-1009.",
+   "rows": [
+    "I'm out at the moment. You",
+    "can reach me at Neo Kobe",
+    "Pharmaceutical Lab, 39-1009."
+   ],
+   "rows_plain": [
+    "I'm out at the moment. You can reach",
+    "me at Neo Kobe Pharmaceutical Lab,",
+    "39-1009."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_003b",
+   "line": 1034,
+   "act": 3,
+   "sector": 11118,
+   "offset": 1334,
+   "size": 148920,
+   "b0": 117600,
+   "b1": 148920,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Sorry for the surprise. Bye!",
+   "rows": [
+    "Sorry for the surprise. Bye!"
+   ],
+   "rows_plain": [
+    "Sorry for the surprise. Bye!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_004",
+   "line": 1035,
+   "act": 3,
+   "sector": 11182,
+   "offset": 1518,
+   "size": 51667,
+   "b0": 0,
+   "b1": 51667,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Hello, Neo Kobe Pharma- Oh, Gillian! What's wrong?",
+   "rows": [
+    "Hello, Neo Kobe Pharma- Oh,",
+    "Gillian! What's wrong?"
+   ],
+   "rows_plain": [
+    "Hello, Neo Kobe Pharma- Oh, Gillian!",
+    "What's wrong?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_005",
+   "line": 1036,
+   "act": 3,
+   "sector": 11204,
+   "offset": 2057,
+   "size": 59166,
+   "b0": 0,
+   "b1": 59166,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Hello, Neo Kobe Pharmaceutical Lab. Oh, it's you, Gillian.",
+   "rows": [
+    "Hello, Neo Kobe",
+    "Pharmaceutical Lab. Oh, it's",
+    "you, Gillian."
+   ],
+   "rows_plain": [
+    "Hello, Neo Kobe Pharmaceutical Lab.",
+    "Oh, it's you, Gillian."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_006",
+   "line": 1037,
+   "act": 3,
+   "sector": 11230,
+   "offset": 799,
+   "size": 89203,
+   "b0": 0,
+   "b1": 44602,
+   "speaker": "Voice",
+   "colour": 7,
+   "en": "That number is not in service at this time.",
+   "rows": [
+    "That number is not in",
+    "service at this time."
+   ],
+   "rows_plain": [
+    "That number is not in service at",
+    "this time."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_006b",
+   "line": 1037,
+   "act": 3,
+   "sector": 11230,
+   "offset": 799,
+   "size": 89203,
+   "b0": 44602,
+   "b1": 89203,
+   "speaker": "Voice",
+   "colour": 7,
+   "en": "Please check the number and dial again.",
+   "rows": [
+    "Please check the number and",
+    "dial again."
+   ],
+   "rows_plain": [
+    "Please check the number and dial",
+    "again."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_007",
+   "line": 1038,
+   "act": 3,
+   "sector": 11268,
+   "offset": 1690,
+   "size": 83798,
+   "b0": 0,
+   "b1": 54587,
+   "speaker": "Voice",
+   "colour": 7,
+   "en": "The number you have dialed is not in service.",
+   "rows": [
+    "The number you have dialed",
+    "is not in service."
+   ],
+   "rows_plain": [
+    "The number you have dialed is not in",
+    "service."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_007b",
+   "line": 1038,
+   "act": 3,
+   "sector": 11268,
+   "offset": 1690,
+   "size": 83798,
+   "b0": 54587,
+   "b1": 83798,
+   "speaker": "Voice",
+   "colour": 7,
+   "en": "Please check the number and try again.",
+   "rows": [
+    "Please check the number and",
+    "try again."
+   ],
+   "rows_plain": [
+    "Please check the number and try",
+    "again."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_012",
+   "line": 1039,
+   "act": 3,
+   "sector": 11304,
+   "offset": 1824,
+   "size": 103234,
+   "b0": 0,
+   "b1": 103234,
+   "speaker": "Clerk",
+   "colour": 7,
+   "en": "Thank you for calling Joy Division, the store that has everything.",
+   "rows": [
+    "Thank you for calling Joy",
+    "Division, the store that has",
+    "everything."
+   ],
+   "rows_plain": [
+    "Thank you for calling Joy Division,",
+    "the store that has everything."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_jcall_00",
+   "line": 1033,
+   "act": 3,
+   "sector": 11074,
+   "offset": 1184,
+   "size": 102406,
+   "b0": 0,
+   "b1": 65475,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian, an urgent call from Jamie. I'll connect you.",
+   "rows": [
+    "Gillian, an urgent call from",
+    "Jamie. I'll connect you."
+   ],
+   "rows_plain": [
+    "Gillian, an urgent call from Jamie.",
+    "I'll connect you."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B060_jcall_01",
+   "line": 1033,
+   "act": 3,
+   "sector": 11074,
+   "offset": 1184,
+   "size": 102406,
+   "b0": 65475,
+   "b1": 102406,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Gillian, my memory's back!",
+   "rows": [
+    "Gillian, my memory's back!"
+   ],
+   "rows_plain": [
+    "Gillian, my memory's back!"
+   ],
+   "enabled": true
+  }
+ ]
+}

@@ -1,0 +1,593 @@
+[
+ {
+  "choose": "Look"
+ },
+ {
+  "choose": "Receptionist"
+ },
+ {
+  "read": 2000
+ },
+ {
+  "choose": "Talk"
+ },
+ {
+  "read": 4000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 1
+ },
+ {
+  "read": 2000
+ },
+ {
+  "choose": "Go inside"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Chief's room"
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 4000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 1
+ },
+ {
+  "save": "chief_done"
+ },
+ {
+  "choose": "Go out"
+ },
+ {
+  "read": 2000
+ },
+ {
+  "choose": "Squad room"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 1
+ },
+ {
+  "sweep": "Look",
+  "rounds": 1
+ },
+ {
+  "read": 2000
+ },
+ {
+  "choose": "Go out"
+ },
+ {
+  "read": 2000
+ },
+ {
+  "choose": "Computer room"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 1
+ },
+ {
+  "sweep": "Look",
+  "rounds": 1
+ },
+ {
+  "read": 2000
+ },
+ {
+  "choose": "Go out"
+ },
+ {
+  "read": 2000
+ },
+ {
+  "choose": "Shooting range"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 1
+ },
+ {
+  "sweep": "Look",
+  "rounds": 1
+ },
+ {
+  "read": 2000
+ },
+ {
+  "choose": "Go out"
+ },
+ {
+  "read": 2000
+ },
+ {
+  "choose": "Mechanic room"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "sweep": "Look",
+  "rounds": 1
+ },
+ {
+  "read": 4000
+ },
+ {
+  "save": "tour_done"
+ },
+ {
+  "choose": "Go out"
+ },
+ {
+  "read": 2000
+ },
+ {
+  "choose": "Chief's room"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 1
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Go out"
+ },
+ {
+  "read": 2000
+ },
+ {
+  "choose": "Mechanic room"
+ },
+ {
+  "read": 1400
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 6000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 1
+ },
+ {
+  "read": 6000
+ },
+ {
+  "maybe": "Board Tricycle"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "maybe": "Factory ruins"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "maybe": "Exit Tricycle"
+ },
+ {
+  "read": 4000
+ },
+ {
+  "save": "factory"
+ },
+ {
+  "sweep": "Look",
+  "rounds": 3
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "items": true
+ },
+ {
+  "save": "factory_outside"
+ },
+ {
+  "choose": [
+   "Go inside",
+   "Move"
+  ]
+ },
+ {
+  "maybe": "Forward"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "repeat": [
+   {
+    "sweep": "Look",
+    "rounds": 2
+   },
+   {
+    "read": 3000
+   },
+   {
+    "sweep": "Investigate",
+    "rounds": 4
+   },
+   {
+    "read": 3000
+   },
+   {
+    "sweep": "Listen",
+    "rounds": 1
+   },
+   {
+    "read": 6000
+   },
+   {
+    "maybe": "Move"
+   },
+   {
+    "maybe": "Forward"
+   },
+   {
+    "read": 6000
+   }
+  ],
+  "until": "Back",
+  "max": 5
+ },
+ {
+  "choose": "Use Metal Gear"
+ },
+ {
+  "choose": "Analysis"
+ },
+ {
+  "choose": "L. John's memory"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "choose": "Use Metal Gear"
+ },
+ {
+  "choose": "Analysis"
+ },
+ {
+  "choose": "Hair"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "choose": "Use Metal Gear"
+ },
+ {
+  "choose": "Analysis"
+ },
+ {
+  "choose": "Skin tissue"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "choose": "Use Metal Gear"
+ },
+ {
+  "choose": "Analysis"
+ },
+ {
+  "choose": "Residue"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "maybe": "Back"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 1
+ },
+ {
+  "read": 3000
+ },
+ {
+  "maybe": "Move"
+ },
+ {
+  "maybe": "Forward"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "save": "fac_front"
+ },
+ {
+  "sweep": "Look",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Listen"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "choose": "Back"
+ },
+ {
+  "read": 4000
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "choose": "Back"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "choose": "Back"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Look"
+ },
+ {
+  "choose": "Little John"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "choose": "Back"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "save": "fac_won"
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "choose": "Go out"
+ },
+ {
+  "read": 12000
+ },
+ {
+  "save": "hq2"
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 1
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "choose": "Mechanic room"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "save": "hq2c"
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "choose": "Squad room"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 3
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Item"
+ },
+ {
+  "choose": "Use"
+ },
+ {
+  "choose": "Key"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 1
+ },
+ {
+  "read": 3000
+ },
+ {
+  "save": "hq2e"
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "choose": "Front desk"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "save": "hq2f"
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "choose": "Mechanic room"
+ },
+ {
+  "read": 4000
+ },
+ {
+  "choose": "Investigate"
+ },
+ {
+  "choose": "Brandy bottle"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Look"
+ },
+ {
+  "choose": "Brandy bottle"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "save": "hq2g"
+ },
+ {
+  "choose": "Use Metal Gear"
+ },
+ {
+  "choose": "Videophone"
+ },
+ {
+  "press": "a",
+  "n": 1,
+  "gap": 40
+ },
+ {
+  "choose": "Call"
+ },
+ {
+  "dial": "395644"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "items": 1
+ },
+ {
+  "save": "napcall"
+ }
+]

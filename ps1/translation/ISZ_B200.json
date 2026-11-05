@@ -1,0 +1,1519 @@
+{
+ "file": "ISZ_B200.BIN",
+ "text_base": 4888,
+ "strings": [
+  {
+   "off": 4889,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 4893,
+   "budget": 23,
+   "en": "Out into the corridor.",
+   "long": "We're in the hospital corridor."
+  },
+  {
+   "off": 4916,
+   "budget": 33,
+   "en": "They're surprisingly tidy."
+  },
+  {
+   "off": 4949,
+   "budget": 35,
+   "en": "Nothing like the floor above.",
+   "long": "They clearly take better care of￥this floor than the one above."
+  },
+  {
+   "off": 4984,
+   "budget": 5,
+   "en": "Move"
+  },
+  {
+   "off": 4989,
+   "budget": 5,
+   "en": "Dr 1",
+   "long": "Door 1"
+  },
+  {
+   "off": 4994,
+   "budget": 33,
+   "en": "All right, let's try Room 1."
+  },
+  {
+   "off": 5027,
+   "budget": 5,
+   "en": "Dr 2",
+   "long": "Door 2"
+  },
+  {
+   "off": 5032,
+   "budget": 35,
+   "en": "Let's try Room 2, then."
+  },
+  {
+   "off": 5067,
+   "budget": 5,
+   "en": "Dr 3",
+   "long": "Door 3"
+  },
+  {
+   "off": 5072,
+   "budget": 55,
+   "en": "Ready, Randam? Let's enter the last￥room."
+  },
+  {
+   "off": 5127,
+   "budget": 29,
+   "en": "Take another room first.",
+   "long": "Let's try another room first."
+  },
+  {
+   "off": 5156,
+   "budget": 29,
+   "en": "Gillian, take another room.",
+   "long": "Let's try another room, Gillian."
+  },
+  {
+   "off": 5185,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 5190,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 5197,
+   "budget": 81,
+   "en": "As above, a booth at the centre.￥Three doors beyond.",
+   "long": "Just like upstairs, there's a￥reception booth in the center and￥three doors at the back."
+  },
+  {
+   "off": 5278,
+   "budget": 23,
+   "en": "All the same..."
+  },
+  {
+   "off": 5301,
+   "budget": 33,
+   "en": "Feels like a trip through time.",
+   "long": "Feels like we've traveled through￥time."
+  },
+  {
+   "off": 5334,
+   "budget": 3,
+   "en": "Fl",
+   "long": "Floor"
+  },
+  {
+   "off": 5337,
+   "budget": 57,
+   "en": "Polished bright.￥Nothing like the corridor above.",
+   "long": "It's polished clean. Quite a￥difference from the corridor￥upstairs."
+  },
+  {
+   "off": 5394,
+   "budget": 43,
+   "en": "So the floor was linoleum."
+  },
+  {
+   "off": 5437,
+   "budget": 5,
+   "en": "Desk",
+   "long": "Reception"
+  },
+  {
+   "off": 5442,
+   "budget": 47,
+   "en": "Monitors and consoles kept up.",
+   "long": "The monitors and consoles are well￥maintained."
+  },
+  {
+   "off": 5489,
+   "budget": 59,
+   "en": "Which means their security is too.￥Let's be careful."
+  },
+  {
+   "off": 5548,
+   "budget": 9,
+   "en": "Monitor"
+  },
+  {
+   "off": 5557,
+   "budget": 59,
+   "en": "The monitor is off, but the main￥power light is on."
+  },
+  {
+   "off": 5616,
+   "budget": 9,
+   "en": "Switches"
+  },
+  {
+   "off": 5625,
+   "budget": 41,
+   "en": "There are two buttons."
+  },
+  {
+   "off": 5666,
+   "budget": 37,
+   "en": "The same switches as above.",
+   "long": "The buttons are the same as￥upstairs."
+  },
+  {
+   "off": 5703,
+   "budget": 41,
+   "en": "Then￥it should open as above.",
+   "long": "Then we should be able to open the￥doors the same way."
+  },
+  {
+   "off": 5744,
+   "budget": 3,
+   "en": "Dr",
+   "long": "Door"
+  },
+  {
+   "off": 5747,
+   "budget": 31,
+   "en": "Door 3 is like the others.",
+   "long": "Door 3 is the same as the other￥doors."
+  },
+  {
+   "off": 5778,
+   "budget": 31,
+   "en": "The same as the doors above.",
+   "long": "It's the same as the doors upstairs￥too."
+  },
+  {
+   "off": 5809,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 5816,
+   "budget": 53,
+   "en": "Corridor and rooms match the￥floor above exactly.",
+   "long": "The corridor and rooms are built￥exactly like the floor above."
+  },
+  {
+   "off": 5869,
+   "budget": 51,
+   "en": "No motion detected. We're the only￥ones here."
+  },
+  {
+   "off": 5920,
+   "budget": 43,
+   "en": "They've even waxed the floor."
+  },
+  {
+   "off": 5963,
+   "budget": 55,
+   "en": "I can't picture them waxing floors."
+  },
+  {
+   "off": 6018,
+   "budget": 41,
+   "en": "There are door switches here too."
+  },
+  {
+   "off": 6059,
+   "budget": 33,
+   "en": "The booth matches too.",
+   "long": "The reception desk has the same￥design and controls as upstairs."
+  },
+  {
+   "off": 6092,
+   "budget": 63,
+   "en": "It seems to have been used just now.￥The monitor is warm."
+  },
+  {
+   "off": 6155,
+   "budget": 59,
+   "en": "Wait! There are only two buttons,￥unlike upstairs."
+  },
+  {
+   "off": 6214,
+   "budget": 35,
+   "en": "Yes, there are only two buttons."
+  },
+  {
+   "off": 6249,
+   "budget": 25,
+   "en": "It says \"Morgue.\""
+  },
+  {
+   "off": 6274,
+   "budget": 27,
+   "en": "Morgue?... A body store?",
+   "long": "Morgue? Where they keep bodies?"
+  },
+  {
+   "off": 6301,
+   "budget": 53,
+   "en": "There's no doorknob. It can't be￥opened by hand."
+  },
+  {
+   "off": 6354,
+   "budget": 49,
+   "en": "A heavy door.￥Force alone won't open it.",
+   "long": "It's a heavy door. I don't think we￥can force it open."
+  },
+  {
+   "off": 6403,
+   "budget": 5,
+   "en": "Talk"
+  },
+  {
+   "off": 6408,
+   "budget": 53,
+   "en": "One was in the theatre. Are￥there others?",
+   "long": "If there was one in the operating￥room, could there be others?"
+  },
+  {
+   "off": 6461,
+   "budget": 47,
+   "en": "Who knows? They could be hiding￥somewhere."
+  },
+  {
+   "off": 6508,
+   "budget": 33,
+   "en": "Few for a hideout....",
+   "long": "There aren't many of them for a￥hideout."
+  },
+  {
+   "off": 6541,
+   "budget": 13,
+   "en": "Press switch"
+  },
+  {
+   "off": 6554,
+   "budget": 9,
+   "en": "Button 1"
+  },
+  {
+   "off": 6563,
+   "budget": 25,
+   "en": "I'll press number 1."
+  },
+  {
+   "off": 6588,
+   "budget": 29,
+   "en": "Door 1 has opened."
+  },
+  {
+   "off": 6617,
+   "budget": 9,
+   "en": "Button 2"
+  },
+  {
+   "off": 6626,
+   "budget": 25,
+   "en": "I'll press number 2."
+  },
+  {
+   "off": 6651,
+   "budget": 31,
+   "en": "Door 2 has closed."
+  },
+  {
+   "off": 6682,
+   "budget": 29,
+   "en": "Door 2 has opened."
+  },
+  {
+   "off": 6711,
+   "budget": 13,
+   "en": "1 and 2",
+   "long": "1 and 2 together"
+  },
+  {
+   "off": 6724,
+   "budget": 31,
+   "en": "Door 3 has closed."
+  },
+  {
+   "off": 6755,
+   "budget": 29,
+   "en": "Door 3 has opened."
+  },
+  {
+   "off": 6784,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 6799,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 6810,
+   "budget": 37,
+   "en": "I'll save your progress now."
+  },
+  {
+   "off": 6847,
+   "budget": 55,
+   "en": "Could there be a switch somewhere,￥like upstairs?"
+  },
+  {
+   "off": 6902,
+   "budget": 31,
+   "en": "Find the switch, Gillian."
+  },
+  {
+   "off": 6933,
+   "budget": 77,
+   "en": "If there are only two buttons, maybe￥we can use both to open it."
+  },
+  {
+   "off": 7010,
+   "budget": 43,
+   "en": "How do we open the third door?"
+  },
+  {
+   "off": 7053,
+   "budget": 51,
+   "en": "There must be a trick.￥Only two buttons.",
+   "long": "There must be a trick to it. There￥are only two buttons."
+  },
+  {
+   "off": 7104,
+   "budget": 53,
+   "en": "Take the other rooms until￥door 3 is clear.",
+   "long": "Let's search the other rooms until￥we figure out how to open the third￥door."
+  },
+  {
+   "off": 7157,
+   "budget": 85,
+   "en": "There has to be a way to open the￥third door. Let's search this floor￥some more."
+  },
+  {
+   "off": 7242,
+   "budget": 23,
+   "en": "That door is open."
+  },
+  {
+   "off": 7265,
+   "budget": 25,
+   "en": "That door is closed."
+  },
+  {
+   "off": 7290,
+   "budget": 21,
+   "en": "We're in Room 1."
+  },
+  {
+   "off": 7311,
+   "budget": 31,
+   "en": "Unlike above, lights are on.",
+   "long": "The lights are on, unlike upstairs."
+  },
+  {
+   "off": 7342,
+   "budget": 9,
+   "en": "Go out"
+  },
+  {
+   "off": 7351,
+   "budget": 21,
+   "en": "...To the corridor.",
+   "long": "Let's go into the corridor."
+  },
+  {
+   "off": 7372,
+   "budget": 47,
+   "en": "Others could be lurking￥like that one...",
+   "long": "They could be hiding anywhere, like￥that last one."
+  },
+  {
+   "off": 7419,
+   "budget": 49,
+   "en": "Be ready to draw your Blaster."
+  },
+  {
+   "off": 7468,
+   "budget": 5,
+   "en": "Room",
+   "long": "Inside"
+  },
+  {
+   "off": 7473,
+   "budget": 59,
+   "en": "A table at the centre.￥The true consulting room.",
+   "long": "There's an operating table in the￥center. This seems to be the real￥examination room."
+  },
+  {
+   "off": 7532,
+   "budget": 33,
+   "en": "With lights it looks a hospital.",
+   "long": "With the lights on, it looks like a￥hospital."
+  },
+  {
+   "off": 7565,
+   "budget": 5,
+   "en": "Roof"
+  },
+  {
+   "off": 7570,
+   "budget": 43,
+   "en": "A radiation set in the ceiling.",
+   "long": "There's a radiation device built￥into the ceiling."
+  },
+  {
+   "off": 7613,
+   "budget": 41,
+   "en": "Medical monitors, still new.",
+   "long": "These are various medical monitors,￥all still brand-new."
+  },
+  {
+   "off": 7654,
+   "budget": 7,
+   "en": "Table",
+   "long": "Operating table"
+  },
+  {
+   "off": 7661,
+   "budget": 73,
+   "en": "A quite ordinary table.￥Cables run to the gear around.",
+   "long": "It's an ordinary operating table.￥Cables connect it to the equipment￥around it."
+  },
+  {
+   "off": 7734,
+   "budget": 5,
+   "en": "Bone",
+   "long": "Skeleton"
+  },
+  {
+   "off": 7739,
+   "budget": 29,
+   "en": "A medical skeleton model.",
+   "long": "It's a model human skeleton for￥medical use."
+  },
+  {
+   "off": 7768,
+   "budget": 13,
+   "en": "Snatchers"
+  },
+  {
+   "off": 7781,
+   "budget": 25,
+   "en": "The wreck lies there.",
+   "long": "Its remains are lying on the floor."
+  },
+  {
+   "off": 7806,
+   "budget": 41,
+   "en": "Nothing odd but medical gear.",
+   "long": "There's nothing suspicious besides￥the medical equipment."
+  },
+  {
+   "off": 7847,
+   "budget": 57,
+   "en": "It's a big room. Hard to take it all￥in. Look around."
+  },
+  {
+   "off": 7904,
+   "budget": 63,
+   "en": "X-ray and gamma, and neutron and￥proton beams besides.",
+   "long": "It can emit X-rays and gamma rays,￥as well as neutron and proton beams."
+  },
+  {
+   "off": 7967,
+   "budget": 57,
+   "en": "It's probably used to treat cancer￥with radiation."
+  },
+  {
+   "off": 8024,
+   "budget": 35,
+   "en": "The lens is carefully polished.",
+   "long": "The lenses have been carefully￥polished too."
+  },
+  {
+   "off": 8059,
+   "budget": 83,
+   "en": "Monitors for ultrasound and￥electronic endoscopes.￥Already wired to the gear.",
+   "long": "These monitors are for ultrasound￥and electronic endoscopes. They're￥already connected to the equipment."
+  },
+  {
+   "off": 8142,
+   "budget": 51,
+   "en": "The internal power is on. It's in￥standby mode."
+  },
+  {
+   "off": 8193,
+   "budget": 33,
+   "en": "There's nothing unusual."
+  },
+  {
+   "off": 8226,
+   "budget": 77,
+   "en": "The bed's surface is warm. Was￥someone lying here just now?"
+  },
+  {
+   "off": 8303,
+   "budget": 9,
+   "en": "Motion",
+   "long": "Motion detector"
+  },
+  {
+   "off": 8312,
+   "budget": 57,
+   "en": "No motion readings now.￥...Nothing here.",
+   "long": "No more motion readings. There￥doesn't seem to be anything here."
+  },
+  {
+   "off": 8369,
+   "budget": 77,
+   "en": "No motion detected. Wait, I picked￥something up, but it's gone."
+  },
+  {
+   "off": 8446,
+   "budget": 91,
+   "en": "Something is odd...￥The reading comes and goes.￥A sensor fault, likely.",
+   "long": "Something's wrong. The reading keeps￥appearing and disappearing. Probably￥a faulty sensor."
+  },
+  {
+   "off": 8537,
+   "budget": 87,
+   "en": "Unpleasant. A bit misshapen.￥Not accurate for a skeleton model.",
+   "long": "It's creepy. The shape is a little￥distorted. Not very accurate for a￥skeleton model."
+  },
+  {
+   "off": 8624,
+   "budget": 61,
+   "en": "Humans and Snatchers don't look very￥different like this."
+  },
+  {
+   "off": 8685,
+   "budget": 51,
+   "en": "It's completely shut down. It won't￥move again."
+  },
+  {
+   "off": 8736,
+   "budget": 7,
+   "en": "Survey",
+   "long": "Look around"
+  },
+  {
+   "off": 8743,
+   "budget": 27,
+   "en": "I'll look around the room."
+  },
+  {
+   "off": 8770,
+   "budget": 35,
+   "en": "Huh? The skeleton's gone!"
+  },
+  {
+   "off": 8805,
+   "budget": 25,
+   "en": "It was definitely there."
+  },
+  {
+   "off": 8830,
+   "budget": 45,
+   "en": "Motion detected! It's in this room!＠Ｃ"
+  },
+  {
+   "off": 8875,
+   "budget": 27,
+   "en": "Gillian, it's coming!!＠Ｃ",
+   "long": "Here it comes, Gillian!＠Ｃ"
+  },
+  {
+   "off": 8902,
+   "budget": 33,
+   "en": "There's a skeleton model."
+  },
+  {
+   "off": 8935,
+   "budget": 19,
+   "en": "It's a Snatcher!"
+  },
+  {
+   "off": 8954,
+   "budget": 37,
+   "en": "Don't scare me! It's just a model!"
+  },
+  {
+   "off": 8991,
+   "budget": 23,
+   "en": "It's a skeleton model."
+  },
+  {
+   "off": 9014,
+   "budget": 43,
+   "en": "So this is where they get treated."
+  },
+  {
+   "off": 9057,
+   "budget": 31,
+   "en": "The proof's lying right there."
+  },
+  {
+   "off": 9088,
+   "budget": 47,
+   "en": "Stay alert. There could be more of￥them."
+  },
+  {
+   "off": 9135,
+   "budget": 35,
+   "en": "Do they get treated here?"
+  },
+  {
+   "off": 9170,
+   "budget": 33,
+   "en": "Looks that way."
+  },
+  {
+   "off": 9203,
+   "budget": 31,
+   "en": "Decided.￥Finish this place.",
+   "long": "That settles it. Let's destroy this￥place."
+  },
+  {
+   "off": 9234,
+   "budget": 47,
+   "en": "No mistake.￥Their nest.￥Finish it.",
+   "long": "No doubt about it. This is their￥nest. Let's destroy it."
+  },
+  {
+   "off": 9281,
+   "budget": 55,
+   "en": "Don't rush...￥Let's search the other rooms.",
+   "long": "Don't rush. Let's check the other￥rooms a little more."
+  },
+  {
+   "off": 9336,
+   "budget": 57,
+   "en": "What's the hurry? This is fun. Let's￥try the next room."
+  },
+  {
+   "off": 9393,
+   "budget": 11,
+   "en": "Smell"
+  },
+  {
+   "off": 9404,
+   "budget": 31,
+   "en": "Smells like burned machinery."
+  },
+  {
+   "off": 9435,
+   "budget": 41,
+   "en": "The Snatcher wreck still reeks.",
+   "long": "The smell of the Snatcher's remains￥is still hanging in the air."
+  },
+  {
+   "off": 9476,
+   "budget": 35,
+   "en": "Ugh! The drug smell is fierce...",
+   "long": "Ugh! The chemical smell is￥overpowering."
+  },
+  {
+   "off": 9511,
+   "budget": 55,
+   "en": "Definitely smells like a hospital. A￥working one."
+  },
+  {
+   "off": 9566,
+   "budget": 61,
+   "en": "No sign of moving since.￥It's fine. Really dead.",
+   "long": "It hasn't moved since. It's all￥right. It really seems dead."
+  },
+  {
+   "off": 9627,
+   "budget": 29,
+   "en": "Shoot! Aim for the head!＠Ｃ"
+  },
+  {
+   "off": 9656,
+   "budget": 39,
+   "en": "The forehead! Aim for the center!＠Ｃ"
+  },
+  {
+   "off": 9695,
+   "budget": 45,
+   "en": "Really dead this time...￥or just stopped?",
+   "long": "Is it really dead this time? I mean,￥shut down?"
+  },
+  {
+   "off": 9740,
+   "budget": 69,
+   "en": "Yes. It's completely shut down. No￥energy readings."
+  },
+  {
+   "off": 9809,
+   "budget": 31,
+   "en": "That was too close, Gillian."
+  },
+  {
+   "off": 9840,
+   "budget": 47,
+   "en": "Five hits. One more would've done￥it."
+  },
+  {
+   "off": 9887,
+   "budget": 25,
+   "en": "That was close, Gillian."
+  },
+  {
+   "off": 9912,
+   "budget": 53,
+   "en": "Four hits. I nearly died."
+  },
+  {
+   "off": 9965,
+   "budget": 25,
+   "en": "That was close, Gillian."
+  },
+  {
+   "off": 9990,
+   "budget": 27,
+   "en": "Yeah. Three hits."
+  },
+  {
+   "off": 10017,
+   "budget": 21,
+   "en": "Gillian, all well?",
+   "long": "Are you all right, Gillian?"
+  },
+  {
+   "off": 10038,
+   "budget": 37,
+   "en": "Barely. Only two hits."
+  },
+  {
+   "off": 10075,
+   "budget": 25,
+   "en": "Were you hit, Gillian?"
+  },
+  {
+   "off": 10100,
+   "budget": 27,
+   "en": "Yeah. Just once."
+  },
+  {
+   "off": 10127,
+   "budget": 25,
+   "en": "We finally won."
+  },
+  {
+   "off": 10152,
+   "budget": 29,
+   "en": "Nearly died again."
+  },
+  {
+   "off": 10181,
+   "budget": 37,
+   "en": "First aid.￥Stopping the bleeding.",
+   "long": "I'll give you first aid and stop the￥bleeding, Gillian."
+  },
+  {
+   "off": 10218,
+   "budget": 21,
+   "en": "Please, Metal."
+  },
+  {
+   "off": 10239,
+   "budget": 31,
+   "en": "...Bleeding stopped.￥Clean.",
+   "long": "Bleeding stopped. Wounds￥disinfected."
+  },
+  {
+   "off": 10270,
+   "budget": 33,
+   "en": "J Blood and a painkiller."
+  },
+  {
+   "off": 10303,
+   "budget": 45,
+   "en": "Now I'll inject medical￥nanomachines."
+  },
+  {
+   "off": 10348,
+   "budget": 17,
+   "en": "Ugh!"
+  },
+  {
+   "off": 10365,
+   "budget": 15,
+   "en": "Whew."
+  },
+  {
+   "off": 10380,
+   "budget": 29,
+   "en": "That will hold for a while.",
+   "long": "You'll be all right for a while."
+  },
+  {
+   "off": 10409,
+   "budget": 39,
+   "en": "That was close. Better be careful."
+  },
+  {
+   "off": 10448,
+   "budget": 77,
+   "en": "A stubborn one.￥Tens of thousands of these￥and the Earth is finished.",
+   "long": "That thing was tough. If there were￥tens of thousands of them, Earth￥would be finished."
+  },
+  {
+   "off": 10525,
+   "budget": 41,
+   "en": "Gillian,￥let's press on.",
+   "long": "Let's continue the investigation,￥Gillian."
+  },
+  {
+   "off": 10566,
+   "budget": 31,
+   "en": "Whew. This is a tough job."
+  },
+  {
+   "off": 10597,
+   "budget": 21,
+   "en": "We're in Room 2."
+  },
+  {
+   "off": 10618,
+   "budget": 37,
+   "en": "Hey! The lab equipment is running."
+  },
+  {
+   "off": 10655,
+   "budget": 31,
+   "en": "That noise gets on my nerves."
+  },
+  {
+   "off": 10686,
+   "budget": 19,
+   "en": "...Let's go out.",
+   "long": "Let's get out of here."
+  },
+  {
+   "off": 10705,
+   "budget": 27,
+   "en": "Ugh. I feel sick."
+  },
+  {
+   "off": 10732,
+   "budget": 37,
+   "en": "This is the real biology lab."
+  },
+  {
+   "off": 10769,
+   "budget": 41,
+   "en": "As if Frankenstein might appear.",
+   "long": "Looks like Frankenstein could show￥up any minute."
+  },
+  {
+   "off": 10810,
+   "budget": 59,
+   "en": "There are micromanipulators and￥various laser devices."
+  },
+  {
+   "off": 10869,
+   "budget": 45,
+   "en": "A microsurgery system and such.",
+   "long": "And microsurgery systems, among￥other things."
+  },
+  {
+   "off": 10914,
+   "budget": 37,
+   "en": "No cobwebs this time."
+  },
+  {
+   "off": 10951,
+   "budget": 3,
+   "en": "Sh",
+   "long": "Shelf"
+  },
+  {
+   "off": 10954,
+   "budget": 55,
+   "en": "Formalin jars and other drugs￥stand in a row.",
+   "long": "There are jars of specimens in￥formalin and other chemicals."
+  },
+  {
+   "off": 11009,
+   "budget": 29,
+   "en": "This many is like a museum.",
+   "long": "There are enough to fill a museum."
+  },
+  {
+   "off": 11038,
+   "budget": 7,
+   "en": "Desk"
+  },
+  {
+   "off": 11045,
+   "budget": 67,
+   "en": "Biotech gear of every sort.￥Quite the real thing.",
+   "long": "There's all kinds of biotechnology￥equipment. This is a serious￥operation."
+  },
+  {
+   "off": 11112,
+   "budget": 43,
+   "en": "Proper, costly scopes￥and monitors.",
+   "long": "These are all expensive,￥professional microscopes and￥monitors."
+  },
+  {
+   "off": 11155,
+   "budget": 5,
+   "en": "Jar",
+   "long": "Containers"
+  },
+  {
+   "off": 11160,
+   "budget": 45,
+   "en": "Are they growing skin tissue?"
+  },
+  {
+   "off": 11205,
+   "budget": 47,
+   "en": "Mutated tissue and organs.￥I can't look.",
+   "long": "Mutated tissues and organs. I can￥barely look."
+  },
+  {
+   "off": 11252,
+   "budget": 69,
+   "en": "The room is lit with red lights.￥It's creepy."
+  },
+  {
+   "off": 11321,
+   "budget": 99,
+   "en": "What do they do here...?￥This gear and these samples are￥far beyond treating skin cancer.",
+   "long": "What are they doing here? All this￥equipment and these samples can't￥just be for treating skin cancer."
+  },
+  {
+   "off": 11420,
+   "budget": 51,
+   "en": "Argon lasers and argon dye lasers."
+  },
+  {
+   "off": 11471,
+   "budget": 95,
+   "en": "Surgical gear to kill only certain￥tumours. And a gene gun of the￥newest kind besides.",
+   "long": "Surgical equipment to remove cancer￥cells by targeting specific tumors.￥They even have the latest gene gun."
+  },
+  {
+   "off": 11566,
+   "budget": 33,
+   "en": "Neatly sorted and ordered.",
+   "long": "Everything is neatly sorted and￥organized."
+  },
+  {
+   "off": 11599,
+   "budget": 31,
+   "en": "Monoclonal antibodies.",
+   "long": "There are monoclonal antibodies."
+  },
+  {
+   "off": 11630,
+   "budget": 21,
+   "en": "What are those?"
+  },
+  {
+   "off": 11651,
+   "budget": 37,
+   "en": "Said to work on￥melanoma.",
+   "long": "Antibodies said to work against￥malignant melanoma."
+  },
+  {
+   "off": 11688,
+   "budget": 67,
+   "en": "Then there's no doubt. This is their￥maintenance hospital!"
+  },
+  {
+   "off": 11755,
+   "budget": 95,
+   "en": "Nucleic acid extractor,￥chromatography, DNA synthesiser,￥DNA sequencer, auto dispenser...",
+   "long": "Nucleic acid extractors,￥chromatography equipment, DNA￥synthesizers, DNA sequencers,￥automatic dispensers."
+  },
+  {
+   "off": 11850,
+   "budget": 71,
+   "en": "And a heavy-ion accelerator.￥All on standby.",
+   "long": "And a heavy-ion accelerator to￥produce heavy-ion beams. Everything￥is on standby."
+  },
+  {
+   "off": 11921,
+   "budget": 81,
+   "en": "So Snatchers not only strip cancer￥cells but regrow artificial skin...",
+   "long": "So they don't just remove cancer￥cells. They also regenerate their￥artificial skin."
+  },
+  {
+   "off": 12002,
+   "budget": 55,
+   "en": "Fine gear. Better stocked than￥some university labs.",
+   "long": "Impressive equipment. Better than￥some university research labs."
+  },
+  {
+   "off": 12057,
+   "budget": 129,
+   "en": "NMR, magnetic resonance scope,￥scanning tunnelling scope,￥high-voltage electron scope,￥holography, streak camera...",
+   "long": "Nuclear magnetic resonance￥microscopes (NMR), scanning￥tunneling microscopes (STM),￥ultrahigh-voltage electron￥microscopes, electron holography,￥streak cameras."
+  },
+  {
+   "off": 12186,
+   "budget": 63,
+   "en": "The Snatchers seem to know more than￥we thought, Gillian."
+  },
+  {
+   "off": 12249,
+   "budget": 45,
+   "en": "But some of the technology seems￥dated."
+  },
+  {
+   "off": 12294,
+   "budget": 31,
+   "en": "Dated? What do you mean?"
+  },
+  {
+   "off": 12325,
+   "budget": 131,
+   "en": "Some of the equipment and techniques￥are no longer used at all. This￥research doesn't follow current￥international practice."
+  },
+  {
+   "off": 12456,
+   "budget": 51,
+   "en": "Roughly 20 to 30 years behind.",
+   "long": "At a glance, their methods are￥twenty to thirty years behind."
+  },
+  {
+   "off": 12507,
+   "budget": 63,
+   "en": "And going by the patchy data,￥research on a personal level.",
+   "long": "The gaps in their research knowledge￥also suggest an individual's work."
+  },
+  {
+   "off": 12570,
+   "budget": 121,
+   "en": "So at least their artificial skin￥was developed by an individual,￥rather than a state research￥institute?"
+  },
+  {
+   "off": 12691,
+   "budget": 193,
+   "en": "The lab's design ignores biosafety￥standards. It has a safety cabinet,￥but no autoclave for steam￥sterilization or gas sterilizer."
+  },
+  {
+   "off": 12884,
+   "budget": 95,
+   "en": "Far from 'P4' level.￥Hardly a state or big organisation's.",
+   "long": "It's nowhere near P4 level. I doubt￥this belongs to a government or a￥large research organization."
+  },
+  {
+   "off": 12979,
+   "budget": 61,
+   "en": "Samples of many creatures and￥tissues... unpleasant.",
+   "long": "There are samples of various￥organisms and tissues. It's creepy."
+  },
+  {
+   "off": 13040,
+   "budget": 47,
+   "en": "By the dates the samples are new.",
+   "long": "Judging by the dates, the samples￥are recent."
+  },
+  {
+   "off": 13087,
+   "budget": 49,
+   "en": "Was that skeleton skinned here?",
+   "long": "Is this where they put skin on￥skeletons like that one?"
+  },
+  {
+   "off": 13136,
+   "budget": 37,
+   "en": "Only skin treatment here, I'd say?",
+   "long": "I think they only treat the skin￥here."
+  },
+  {
+   "off": 13173,
+   "budget": 45,
+   "en": "Well? No doubt this is their base.",
+   "long": "Well? This is definitely their￥hideout, right?"
+  },
+  {
+   "off": 13218,
+   "budget": 25,
+   "en": "Let's see the next room.",
+   "long": "Let's check the next room."
+  },
+  {
+   "off": 13243,
+   "budget": 21,
+   "en": "Their laboratory?",
+   "long": "Is this their laboratory?"
+  },
+  {
+   "off": 13264,
+   "budget": 49,
+   "en": "These samples are their failed￥skins, then.",
+   "long": "These samples must be failed￥attempts at their skin."
+  },
+  {
+   "off": 13313,
+   "budget": 25,
+   "en": "So this is their base...",
+   "long": "So this is their hideout."
+  },
+  {
+   "off": 13338,
+   "budget": 37,
+   "en": "Gillian, check for￥anything missed.",
+   "long": "Let's check that we haven't missed￥anything, Gillian."
+  },
+  {
+   "off": 13375,
+   "budget": 31,
+   "en": "Ugh! What a stench!"
+  },
+  {
+   "off": 13406,
+   "budget": 25,
+   "en": "Smells like rotten fish."
+  },
+  {
+   "off": 13431,
+   "budget": 35,
+   "en": "Probably decomposing protein."
+  },
+  {
+   "off": 13466,
+   "budget": 53,
+   "en": "The smell of their cancer cells,￥as Gibson wrote?",
+   "long": "The smell of their cancerous cells￥that Gibson wrote about?"
+  },
+  {
+   "off": 13519,
+   "budget": 29,
+   "en": "I can't stand this smell."
+  },
+  {
+   "off": 13548,
+   "budget": 29,
+   "en": "Ugh. I feel sick."
+  },
+  {
+   "off": 13577,
+   "budget": 57,
+   "en": "A mortuary once, it seems,￥but now a store room.",
+   "long": "It seems to have been a morgue, but￥now it's a storeroom."
+  },
+  {
+   "off": 13634,
+   "budget": 37,
+   "en": "A room only for hiding bodies.",
+   "long": "It seems to be used only to hide￥bodies."
+  },
+  {
+   "off": 13671,
+   "budget": 3,
+   "en": "Wl",
+   "long": "Wall"
+  },
+  {
+   "off": 13674,
+   "budget": 33,
+   "en": "An air duct for ventilation.",
+   "long": "There's an air duct for ventilation."
+  },
+  {
+   "off": 13707,
+   "budget": 43,
+   "en": "Nothing but the air duct.",
+   "long": "I don't see anything besides the air￥duct."
+  },
+  {
+   "off": 13750,
+   "budget": 5,
+   "en": "Body",
+   "long": "Corpse"
+  },
+  {
+   "off": 13755,
+   "budget": 51,
+   "en": "One is rotting, three are￥nearly skeletons.",
+   "long": "One body is decomposing. The other￥three are almost skeletons."
+  },
+  {
+   "off": 13806,
+   "budget": 49,
+   "en": "From how they lie, they￥were thrown in.",
+   "long": "From their positions, the bodies￥seem to have been dumped here."
+  },
+  {
+   "off": 13855,
+   "budget": 7,
+   "en": "Duct"
+  },
+  {
+   "off": 13862,
+   "budget": 43,
+   "en": "There's a lid, but rust has￥weakened it.",
+   "long": "There's a cover, but oxidation has￥weakened it."
+  },
+  {
+   "off": 13905,
+   "budget": 53,
+   "en": "The cover is rusted brittle.￥It would come away.",
+   "long": "The cover is brittle with rust. It￥should come off easily."
+  },
+  {
+   "off": 13958,
+   "budget": 53,
+   "en": "Apart from bodies, just rubbish,￥dust and insects.",
+   "long": "Apart from the bodies, there's only￥garbage, dust, and insects feeding￥on the remains."
+  },
+  {
+   "off": 14011,
+   "budget": 41,
+   "en": "Rat droppings lie heaped.",
+   "long": "There are piles of droppings from￥rats feeding on the bodies."
+  },
+  {
+   "off": 14052,
+   "budget": 67,
+   "en": "Several kinds of insect swarm it.￥Preserved as badly as can be.",
+   "long": "Several kinds of insects are￥swarming everywhere. The bodies are￥in terrible condition."
+  },
+  {
+   "off": 14119,
+   "budget": 37,
+   "en": "But human remains, certainly.",
+   "long": "But they're definitely human￥remains."
+  },
+  {
+   "off": 14156,
+   "budget": 13,
+   "en": "Time of dth",
+   "long": "Time of death"
+  },
+  {
+   "off": 14169,
+   "budget": 57,
+   "en": "Insects on a rotting body fall￥into eight broad groups.",
+   "long": "Insects that infest decomposing￥bodies fall into eight broad groups."
+  },
+  {
+   "off": 14226,
+   "budget": 95,
+   "en": "Each takes 15 days over the body,￥so '15 x 8', four months to￥a cycle.",
+   "long": "Each group feeds on the body for￥fifteen days. Fifteen times eight￥makes a four-month cycle, which then￥repeats."
+  },
+  {
+   "off": 14321,
+   "budget": 79,
+   "en": "We can identify the group from the￥insects' species, numbers, and size."
+  },
+  {
+   "off": 14400,
+   "budget": 81,
+   "en": "So the time of death can be told￥without analysing the body itself.￥And?",
+   "long": "So you can estimate when they died￥without analyzing the bodies￥themselves. Well?"
+  },
+  {
+   "off": 14481,
+   "budget": 193,
+   "en": "As for this one, the rotting body,￥flies have laid and maggots hatched,￥so within a month...￥The other three have run a cycle,￥so over four months have passed.",
+   "long": "Flies laid eggs on this decomposing￥body, and the maggots have developed￥into adult flies, so death was less￥than a month ago. The other three￥have gone through a full cycle, so￥at least four months have passed."
+  },
+  {
+   "off": 14674,
+   "budget": 5,
+   "en": "Why",
+   "long": "Cause of death"
+  },
+  {
+   "off": 14679,
+   "budget": 21,
+   "en": "The cause of death?",
+   "long": "Can you tell what killed them?"
+  },
+  {
+   "off": 14700,
+   "budget": 47,
+   "en": "The damage is too severe￥to judge here.",
+   "long": "The bodies are too badly damaged to￥determine that here."
+  },
+  {
+   "off": 14747,
+   "budget": 5,
+   "en": "Who",
+   "long": "Identity"
+  },
+  {
+   "off": 14752,
+   "budget": 15,
+   "en": "Who were they?",
+   "long": "Can you identify the victims?"
+  },
+  {
+   "off": 14767,
+   "budget": 73,
+   "en": "There's nothing to identify them by.￥No hair, clothing, or even teeth."
+  },
+  {
+   "off": 14840,
+   "budget": 29,
+   "en": "Let's restore them, Gillian.",
+   "long": "Let's reconstruct them, Gillian."
+  },
+  {
+   "off": 14869,
+   "budget": 91,
+   "en": "Damn Snatchers.￥Afraid of identification. With the￥teeth we might have matched them.",
+   "long": "Damn Snatchers. They didn't want the￥bodies identified. With dental￥records, we might have found a￥match."
+  },
+  {
+   "off": 14960,
+   "budget": 13,
+   "en": "These teeth?",
+   "long": "What about these teeth?"
+  },
+  {
+   "off": 14973,
+   "budget": 43,
+   "en": "Worked on so the teeth can't￥be read.",
+   "long": "They've been tampered with to￥prevent identification."
+  },
+  {
+   "off": 15016,
+   "budget": 17,
+   "en": "All is lost..."
+  },
+  {
+   "off": 15033,
+   "budget": 17,
+   "en": "There is a way."
+  },
+  {
+   "off": 15050,
+   "budget": 9,
+   "en": "Such as?",
+   "long": "What is it?"
+  },
+  {
+   "off": 15059,
+   "budget": 67,
+   "en": "＠赤Reconstruction＠白. Fortunately, the￥heads are still intact."
+  },
+  {
+   "off": 15126,
+   "budget": 23,
+   "en": "Restoration, I see..."
+  },
+  {
+   "off": 15149,
+   "budget": 13,
+   "en": "Good idea!"
+  },
+  {
+   "off": 15162,
+   "budget": 61,
+   "en": "Damp air comes from beyond.￥Quite a large vent, it seems.",
+   "long": "Damp air is coming from the other￥side. It seems to be a large￥ventilation duct."
+  },
+  {
+   "off": 15223,
+   "budget": 89,
+   "en": "It joins the underground air.￥It may join the tube liner too.",
+   "long": "It probably connects to the￥underground ventilation system. It￥may reach the Tube Liner too."
+  },
+  {
+   "off": 15312,
+   "budget": 29,
+   "en": "Ugh! The stench of death."
+  },
+  {
+   "off": 15341,
+   "budget": 55,
+   "en": "It's unbearable! Decomposing￥protein."
+  },
+  {
+   "off": 15396,
+   "budget": 33,
+   "en": "Decomposition is releasing gas."
+  },
+  {
+   "off": 15429,
+   "budget": 13,
+   "en": "Reconstruct"
+  },
+  {
+   "off": 15442,
+   "budget": 31,
+   "en": "Metal, reconstruct the bodies."
+  },
+  {
+   "off": 15473,
+   "budget": 41,
+   "en": "Only Room 3 is left, Gillian."
+  },
+  {
+   "off": 15514,
+   "budget": 25,
+   "en": "Room 3 is the last one."
+  },
+  {
+   "off": 15539,
+   "budget": 51,
+   "en": "Shh! Gillian, a noise and they hear!",
+   "long": "Shh! They'll hear you if you make￥noise, Gillian!"
+  },
+  {
+   "off": 15590,
+   "budget": 63,
+   "en": "Foes may lurk anywhere.￥Keep talk to the least.",
+   "long": "They could be hiding anywhere. Let's￥keep the talking to a minimum."
+  },
+  {
+   "off": 15653,
+   "budget": 55,
+   "en": "Quiet, Gillian! Someone will find￥us."
+  },
+  {
+   "off": 15708,
+   "budget": 35,
+   "en": "Sniff, sniff. Chemicals."
+  },
+  {
+   "off": 15743,
+   "budget": 51,
+   "en": "Sniff... drugs, is it,￥and oddly nostalgic...",
+   "long": "Chemicals? That smell seems familiar￥for some reason."
+  },
+  {
+   "off": 15794,
+   "budget": 45,
+   "en": "I like the smell of chemicals."
+  },
+  {
+   "off": 15839,
+   "budget": 13,
+   "en": "Continue"
+  },
+  {
+   "off": 15852,
+   "budget": 31,
+   "en": "Then... we continue the case.",
+   "long": "Let's continue the investigation."
+  },
+  {
+   "off": 15883,
+   "budget": 13,
+   "en": "Quit game"
+  },
+  {
+   "off": 15896,
+   "budget": 33,
+   "en": "Let's end the investigation."
+  },
+  {
+   "off": 15931,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

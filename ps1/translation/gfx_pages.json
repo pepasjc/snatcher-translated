@@ -1,0 +1,98 @@
+{
+  "_comment": "English text for the baked full-page memo images (CPC_*.BIN, one page per Act 1 scene bank). Rendered by tools/gfxpages.py. Lines are laid out as written; the tool reports any line that overruns its page.",
+  "CPC_B000": [
+    "[NOTES ON THE SNATCHERS]",
+    "",
+    "Why do they only show up",
+    "once winter sets in?",
+    "Why do they move at night?",
+    "I have the answer now."
+  ],
+  "CPC_B010": [
+    "Their vampire-like habits",
+    "all serve one purpose:",
+    "keeping out of sunlight.",
+    "They shun it because",
+    "their artificial skin is",
+    "flawed."
+  ],
+  "CPC_B020": [
+    "Hold that artificial skin",
+    "under ultraviolet long",
+    "enough and the melanocytes",
+    "in its base layer multiply",
+    "out of control, into what",
+    "amounts to a skin cancer."
+  ],
+  "CPC_B030": [
+    "What we would call a",
+    "suntan kills them."
+  ],
+  "CPC_B040": [
+    "That is the hold we have",
+    "on them: ultraviolet",
+    "against artificial skin.",
+    "A graft needs six months",
+    "at the very least before",
+    "it settles for good."
+  ],
+  "CPC_B050": [
+    "So there are ways to tell",
+    "a Snatcher from a man.",
+    "",
+    "(1) Look at the skin.",
+    "    Check it for the",
+    "    melanoma."
+  ],
+  "CPC_B060": [
+    "(2) Use your nose.",
+    "    Skin that",
+    "    has turned",
+    "    gives off a",
+    "    stench of",
+    "    its own."
+  ],
+  "CPC_B070": [
+    "(3) Look for pollen.",
+    "    They hole up",
+    "    where Snow",
+    "    Cedar grows",
+    "    so it shows",
+    "    up wherever",
+    "    they do."
+  ],
+  "CPC_B080": [
+    "Snow Cedar is an allergen.",
+    "It brings on sore throats",
+    "and sneezing fits."
+  ],
+  "CPC_B090": [
+    "(4) Sun screen.",
+    "    A Snatcher wears it in",
+    "    the dead of winter to",
+    "    keep the ultraviolet",
+    "    off its skin."
+  ],
+  "CPC_B0A0": [
+    "Sun screen stops the rays",
+    "that burn and the rays",
+    "that tan, and those are",
+    "the ones doing the damage."
+  ],
+  "CPC_B0B0": [
+    "Of the four, the skin and",
+    "the sun screen are the",
+    "leads worth following.",
+    "And prevention is not the",
+    "whole of it: skin that has",
+    "turned has to be treated."
+  ],
+  "CPC_B0C0": [
+    "...and I have found the",
+    "hospital that treats it.",
+    "",
+    "PS.",
+    "Watch out for a bounty",
+    "hunter, Randam Hajile."
+  ]
+}

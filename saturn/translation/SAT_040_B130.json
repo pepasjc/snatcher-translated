@@ -1,0 +1,105 @@
+{
+ "file": "DATA.BIN[40]",
+ "entry": 40,
+ "text_base": 589,
+ "twins": [
+  "B130"
+ ],
+ "strings": [
+  {
+   "off": 590,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 594,
+   "budget": 57,
+   "en": "Gillian! Use the mirror's reflection￥to shoot Freddy!＠Ｃ",
+   "src": "B130:577",
+   "carry": "candidate_edit",
+   "en_candidate": "Gillian! Use the mirror's reflection￥to shoot Freddy!＠Ｃ",
+   "sim": 0.67,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 651,
+   "budget": 21,
+   "en": "I'm done for...＠Ｃ",
+   "src": "B130:686",
+   "carry": "exact"
+  },
+  {
+   "off": 672,
+   "budget": 23,
+   "en": "Gillian!＠Ｃ",
+   "src": "B130:707",
+   "carry": "exact"
+  },
+  {
+   "off": 695,
+   "budget": 35,
+   "en": "Record the case so far?",
+   "src": "B130:730",
+   "carry": "exact",
+   "long": "Would you like to save your￥progress?"
+  },
+  {
+   "off": 730,
+   "budget": 11,
+   "en": "Save",
+   "src": "B130:765",
+   "carry": "exact"
+  },
+  {
+   "off": 741,
+   "budget": 41,
+   "en": "I'll save your progress now.",
+   "src": "B130:776",
+   "carry": "exact"
+  },
+  {
+   "off": 782,
+   "budget": 13,
+   "en": "Don't save",
+   "src": "B130:817",
+   "carry": "exact"
+  },
+  {
+   "off": 795,
+   "budget": 13,
+   "en": "Continue",
+   "src": "B130:830",
+   "carry": "exact"
+  },
+  {
+   "off": 808,
+   "budget": 31,
+   "en": "Then... we continue the case.",
+   "src": "B130:843",
+   "carry": "exact",
+   "long": "Let's continue the investigation."
+  },
+  {
+   "off": 839,
+   "budget": 13,
+   "en": "Quit game",
+   "src": "B130:874",
+   "carry": "exact"
+  },
+  {
+   "off": 852,
+   "budget": 33,
+   "en": "Then... we end the case here.",
+   "src": "B130:887",
+   "carry": "exact",
+   "long": "We'll end the investigation here."
+  },
+  {
+   "off": 887,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

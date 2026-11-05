@@ -1,0 +1,10 @@
+{"scene":"B0D0","note":"Altamira's fortune teller for coverage, from the B0D0_auto card: Look at the passersby many times over (the teller and the woman to hit on show up after ~30 looks), never Investigate first (that finds Napoleon and moves the scene on), then every new label.",
+ "actions":[
+  {"path":["Look","Passersby"],"reps":40,"optional":true},
+  {"sweep":["Look"],"rounds":2},
+  {"path":["Look","Fortune teller"],"optional":true},
+  {"path":["Get fortune told"],"optional":true,"reps":3},
+  {"sweep":["Get fortune told","Hit on her","Look","Talk","Ask"],"rounds":3},
+  {"path":["Hit on her"],"optional":true,"reps":4},
+  {"sweep":["Look","Investigate","Talk","Ask","Get fortune told","Hit on her"],"rounds":2}
+ ]}

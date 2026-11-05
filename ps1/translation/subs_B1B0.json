@@ -1,0 +1,90 @@
+{
+ "scene": "B1B0",
+ "options": {
+  "menu_word": 784,
+  "rows": 3,
+  "faceleft": true,
+  "cols": 12
+ },
+ "cues": [
+  {
+   "id": "B1B0_f8_0",
+   "file": 8,
+   "chan": 5,
+   "start": 6285,
+   "end": 7293,
+   "dur": 6.7,
+   "speaker": "Metal Gear",
+   "en": "Snatchers hate dogs. This can't be their maintenance hospital.",
+   "enabled": true
+  },
+  {
+   "id": "B1B0_f9_0",
+   "file": 9,
+   "chan": 5,
+   "start": 7309,
+   "end": 7997,
+   "dur": 4.6,
+   "speaker": "Gillian",
+   "en": "Looks like we got the wrong place. So we're back to square one.",
+   "enabled": true
+  },
+  {
+   "id": "B1B0_f10_0",
+   "file": 10,
+   "chan": 5,
+   "start": 8013,
+   "end": 8572,
+   "dur": 3.7,
+   "speaker": "Metal Gear",
+   "en": "Don't lose hope. We're just getting started.",
+   "enabled": true
+  },
+  {
+   "id": "B1B0_f10_0b",
+   "file": 10,
+   "chan": 5,
+   "start": 8572,
+   "end": 8797,
+   "dur": 1.5,
+   "speaker": "Metal Gear",
+   "en": "Let's return to the Tricycle.",
+   "enabled": true,
+   "last": true
+  },
+  {
+   "id": "B1B0_f11_0",
+   "file": 11,
+   "chan": 5,
+   "start": 8813,
+   "end": 9053,
+   "dur": 1.6,
+   "speaker": "Gillian",
+   "en": "Oleen Hospital, huh?",
+   "enabled": true
+  },
+  {
+   "id": "B1B0_f12_0",
+   "file": 12,
+   "chan": 5,
+   "start": 9069,
+   "end": 9405,
+   "dur": 2.2,
+   "speaker": "Metal Gear",
+   "en": "Unfortunately, it seems we were on the wrong track.",
+   "enabled": true
+  },
+  {
+   "id": "B1B0_f13_0",
+   "file": 13,
+   "chan": 5,
+   "start": 9421,
+   "end": 9709,
+   "dur": 1.9,
+   "speaker": "Gillian",
+   "en": "Yeah. Let's go, Metal.",
+   "enabled": true,
+   "last": true
+  }
+ ]
+}

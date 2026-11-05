@@ -1,0 +1,10 @@
+{
+ "scene": "B220",
+ "note": "from B220_auto (the dark service way after the escape): Metal's light, then the tube-liner dialogue f67-f74 and 'That's it! The figure that vanished'",
+ "actions": [
+  {"sweep": ["Use Metal Gear"], "rounds": 1},
+  {"idle": 2500},
+  {"sweep": ["Look", "Investigate"], "rounds": 1},
+  {"idle": 2500}
+ ]
+}

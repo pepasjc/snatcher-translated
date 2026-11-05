@@ -1,0 +1,570 @@
+{
+ "26": {
+  "speaker": "Gillian",
+  "en": "Ah, you!",
+  "ps1": [],
+  "cards": [
+   "Ah, you!"
+  ]
+ },
+ "27": {
+  "speaker": "Napoleon",
+  "en": "You recognized me, huh?",
+  "ps1": [
+   "B190_f36_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "You recognized me,|huh?"
+  ]
+ },
+ "28": {
+  "speaker": "Gillian",
+  "en": "Napoleon, what's with that outfit?",
+  "ps1": [
+   "B190_f37_0"
+  ],
+  "cards": [
+   "Napoleon, what's|with that outfit?"
+  ]
+ },
+ "29": {
+  "speaker": "Napoleon",
+  "en": "What do you mean, what's with it? I'm quitting. This work's too dangerous. I think someone's after me. I'll be killed just like Gibson.",
+  "ps1": [
+   "B190_f38_0",
+   "B190_f38_0b",
+   "B190_f38_0c",
+   "B190_f38_0d"
+  ],
+  "layout": "plain",
+  "cards": [
+   "What do you mean,|what's with it? I'm quitting.",
+   "This work's too|dangerous.",
+   "I think someone's|after me.",
+   "I'll be killed just|like Gibson."
+  ],
+  "turns": [
+   4.1,
+   6.9,
+   10.3
+  ],
+  "turns_by": "hand"
+ },
+ "2a": {
+  "speaker": "Napoleon",
+  "en": "I've had enough. Let's call it quits.",
+  "ps1": [
+   "B190_f39_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I've had enough.|Let's call it quits."
+  ]
+ },
+ "2b": {
+  "speaker": "Gillian",
+  "en": "Wait, Napoleon. I'll protect you from the Snatchers.",
+  "ps1": [
+   "B190_f40_0"
+  ],
+  "cards": [
+   "Wait, Napoleon.|I'll protect you|from the Snatchers."
+  ]
+ },
+ "2c": {
+  "speaker": "Napoleon",
+  "en": "We're both targets. Watch out for the Snatchers.",
+  "ps1": [
+   "B190_f41_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "We're both targets.|Watch out for the Snatchers."
+  ]
+ },
+ "2d": {
+  "speaker": "Napoleon",
+  "en": "Here, take this. A Christmas present.",
+  "ps1": [
+   "B190_f42_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Here, take this. A|Christmas present."
+  ]
+ },
+ "2e": {
+  "speaker": "Gillian",
+  "en": "What? Tissues?",
+  "ps1": [
+   "B190_f43_0"
+  ],
+  "cards": [
+   "What? Tissues?"
+  ]
+ },
+ "2f": {
+  "speaker": "Napoleon",
+  "en": "Well then, Merry Christmas!",
+  "ps1": [
+   "B240_m_30"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Well then, Merry|Christmas!"
+  ]
+ },
+ "30": {
+  "speaker": "Metal Gear",
+  "en": "Napoleon has gone home.",
+  "ps1": [
+   "B190_f45_0"
+  ],
+  "cards": [
+   "Napoleon has gone|home."
+  ]
+ },
+ "31": {
+  "speaker": "Gillian",
+  "en": "Can't blame him for being scared. We got the answers we needed, anyway.",
+  "ps1": [
+   "B190_c4f46_0",
+   "B190_c4f46_0b"
+  ],
+  "cards": [
+   "Can't blame him for|being scared. We|got the answers we|needed, anyway."
+  ]
+ },
+ "32": {
+  "speaker": "Metal Gear",
+  "en": "There's an ad on the back of the tissues.",
+  "ps1": [
+   "B190_c4f47_0"
+  ],
+  "cards": [
+   "There's an ad on|the back of the|tissues."
+  ]
+ },
+ "33": {
+  "speaker": "Gillian",
+  "en": "An ad for Outer Heaven! He does this too?",
+  "ps1": [
+   "B190_c4f48_0"
+  ],
+  "cards": [
+   "An ad for Outer|Heaven! He does|this too?"
+  ]
+ },
+ "34": {
+  "speaker": "Metal Gear",
+  "en": "Oh, there's an udon stand!",
+  "ps1": [
+   "B190_c4f49_0"
+  ],
+  "cards": [
+   "Oh, there's an udon|stand!"
+  ]
+ },
+ "35": {
+  "speaker": "Gillian",
+  "en": "Let's get something to eat.",
+  "ps1": [
+   "B190_c4f50_0"
+  ],
+  "cards": [
+   "Let's get something|to eat."
+  ]
+ },
+ "36": {
+  "speaker": "Metal Gear",
+  "en": "No seats free. We'll have to wait a little.",
+  "ps1": [
+   "B190_c4f51_0"
+  ],
+  "cards": [
+   "No seats free.|We'll have to wait|a little."
+  ]
+ },
+ "37": {
+  "speaker": "Cook",
+  "en": "Seats open! Come on in! Welcome!",
+  "ps1": [
+   "B190_c4f52_0"
+  ],
+  "cards": [
+   "Seats open! Come on|in! Welcome!"
+  ]
+ },
+ "38": {
+  "speaker": "Metal Gear",
+  "en": "Looks like a seat opened up. Let's go.",
+  "ps1": [
+   "B190_c4f53_0"
+  ],
+  "cards": [
+   "Looks like a seat|opened up. Let's go."
+  ]
+ },
+ "39": {
+  "speaker": "Cook",
+  "en": "Come on, what'll you have?",
+  "ps1": [
+   "B190_c4f54_0"
+  ],
+  "cards": [
+   "Come on, what'll|you have?"
+  ]
+ },
+ "3a": {
+  "speaker": "Gillian",
+  "en": "Give me four of these.",
+  "ps1": [],
+  "cards": [
+   "Give me four of|these."
+  ]
+ },
+ "3b": {
+  "speaker": "Cook",
+  "en": "Two is plenty!",
+  "ps1": [
+   "B190_c4f58_0"
+  ],
+  "cards": [
+   "Two is plenty!"
+  ]
+ },
+ "3c": {
+  "speaker": "Gillian",
+  "en": "No, four.",
+  "ps1": [
+   "B190_c4f57_0"
+  ],
+  "cards": [
+   "No, four."
+  ]
+ },
+ "3d": {
+  "speaker": "Cook",
+  "en": "Two is plenty!",
+  "ps1": [
+   "B190_c4f58_0"
+  ],
+  "cards": [
+   "Two is plenty!"
+  ]
+ },
+ "3e": {
+  "speaker": "Gillian",
+  "en": "And udon!",
+  "ps1": [
+   "B190_c4f59_0"
+  ],
+  "cards": [
+   "And udon!"
+  ]
+ },
+ "3f": {
+  "speaker": "Cook",
+  "en": "Come on, be reasonable!",
+  "ps1": [
+   "B190_c4f60_0"
+  ],
+  "cards": [
+   "Come on, be|reasonable!"
+  ]
+ },
+ "40": {
+  "speaker": "Gillian",
+  "en": "My wife used to say I ate a lot.",
+  "ps1": [
+   "B190_c4f61_0"
+  ],
+  "cards": [
+   "My wife used to say|I ate a lot."
+  ]
+ },
+ "41": {
+  "speaker": "Metal Gear",
+  "en": "Gillian, hurry up and eat. We should go.",
+  "ps1": [
+   "B190_c4f62_0"
+  ],
+  "cards": [
+   "Gillian, hurry up|and eat. We should|go."
+  ]
+ },
+ "42": {
+  "speaker": "Gillian",
+  "en": "Come on, hurry. Come on. Ah, that was good. All right. Let's go.",
+  "ps1": [
+   "B190_c4f62_0b",
+   "B190_c4f63_0"
+  ],
+  "cards": [
+   "Come on, hurry.|Come on. Ah, that|was good. All|right. Let's go."
+  ]
+ },
+ "43": {
+  "speaker": "Teller",
+  "en": "You again! I knew you'd come back.",
+  "ps1": [
+   "B190_c4f64_0"
+  ],
+  "cards": [
+   "You again! I knew|you'd come back."
+  ]
+ },
+ "44": {
+  "speaker": "Gillian",
+  "en": "Not because I wanted to.",
+  "ps1": [
+   "B190_c4f65_0"
+  ],
+  "cards": [
+   "Not because I|wanted to."
+  ]
+ },
+ "45": {
+  "speaker": "Teller",
+  "en": "Coming back proves you believe me. What is it today?",
+  "ps1": [
+   "B190_c4f66_0"
+  ],
+  "cards": [
+   "Coming back proves|you believe me.|What is it today?"
+  ]
+ },
+ "46": {
+  "speaker": "Gillian",
+  "en": "A missing person.",
+  "ps1": [
+   "B190_c4f67_0"
+  ],
+  "cards": [
+   "A missing person."
+  ]
+ },
+ "47": {
+  "speaker": "Teller",
+  "en": "Who? Do you have a photo, a retinal pattern, an ID, anything?",
+  "ps1": [
+   "B190_c4f68_0",
+   "B190_c4f68_0b"
+  ],
+  "cards": [
+   "Who? Do you have a|photo, a retinal|pattern, an ID,|anything?"
+  ]
+ },
+ "48": {
+  "speaker": "Metal Gear",
+  "en": "I have her data. I'll transfer it to your terminal.",
+  "ps1": [
+   "B190_c4f69_0"
+  ],
+  "cards": [
+   "I have her data.|I'll transfer it to|your terminal."
+  ]
+ },
+ "49": {
+  "speaker": "Gillian",
+  "en": "Just a little.",
+  "ps1": [
+   "B190_c4f70_0"
+  ],
+  "cards": [
+   "Just a little."
+  ]
+ },
+ "4a": {
+  "speaker": "Teller",
+  "en": "Got it. Catherine, is it? Let me read her fortune.",
+  "ps1": [
+   "B190_c4f71_0"
+  ],
+  "cards": [
+   "Got it. Catherine,|is it? Let me read|her fortune."
+  ]
+ },
+ "4b": {
+  "speaker": "Gillian",
+  "en": "Metal, let's just leave!",
+  "ps1": [
+   "B190_c4f72_0"
+  ],
+  "cards": [
+   "Metal, let's just|leave!"
+  ]
+ },
+ "4c": {
+  "speaker": "Teller",
+  "en": "Quiet! Hnnnnngh! I have it.",
+  "ps1": [
+   "B190_c4f73_0",
+   "B190_c4f73_0b",
+   "B190_c4f73_0c"
+  ],
+  "cards": [
+   "Quiet! Hnnnnngh! I|have it."
+  ]
+ },
+ "4d": {
+  "speaker": "Gillian",
+  "en": "Where is she?",
+  "ps1": [
+   "B190_c4f74_0"
+  ],
+  "cards": [
+   "Where is she?"
+  ]
+ },
+ "4e": {
+  "speaker": "Teller",
+  "en": "Right near you. She's very close.",
+  "ps1": [
+   "B190_c4f75_0"
+  ],
+  "cards": [
+   "Right near you.|She's very close."
+  ]
+ },
+ "4f": {
+  "speaker": "Gillian",
+  "en": "Don't talk nonsense!",
+  "ps1": [
+   "B190_c4f76_0"
+  ],
+  "cards": [
+   "Don't talk nonsense!"
+  ]
+ },
+ "50": {
+  "speaker": "Teller",
+  "en": "I'm not lying!",
+  "ps1": [
+   "B190_c4f77_0"
+  ],
+  "cards": [
+   "I'm not lying!"
+  ]
+ },
+ "51": {
+  "speaker": "Gillian",
+  "en": "What proof?",
+  "ps1": [
+   "B190_c4f78_0"
+  ],
+  "cards": [
+   "What proof?"
+  ]
+ },
+ "52": {
+  "speaker": "Teller",
+  "en": "Would you believe me if I put it this way? A few hours ago, this girl used a public terminal near your apartment. There's a record of it.",
+  "ps1": [
+   "B190_c4f79_0",
+   "B190_c4f79_0b",
+   "B190_c4f79_0bb"
+  ],
+  "cards": [
+   "Would you believe|me if I put it this|way?",
+   "A few hours ago,",
+   "this girl used a|public terminal|near your|apartment.",
+   "There's a record of|it."
+  ],
+  "turns": [
+   4.5,
+   6.3,
+   10.54
+  ]
+ },
+ "53": {
+  "speaker": "Metal Gear",
+  "en": "Could that be when Catherine called headquarters?",
+  "ps1": [
+   "B190_c5f1"
+  ],
+  "cards": [
+   "Could that be when|Catherine called|headquarters?"
+  ]
+ },
+ "54": {
+  "speaker": "Gillian",
+  "en": "Where did you get that information?",
+  "ps1": [
+   "B190_c5f2"
+  ],
+  "cards": [
+   "Where did you get|that information?"
+  ]
+ },
+ "55": {
+  "speaker": "Teller",
+  "en": "The phone company. Satisfied?",
+  "ps1": [
+   "B190_c5f3"
+  ],
+  "cards": [
+   "The phone company.|Satisfied?"
+  ]
+ },
+ "56": {
+  "speaker": "Gillian",
+  "en": "I'm impressed. Better informed than headquarters!",
+  "ps1": [
+   "B190_c5f4"
+  ],
+  "cards": [
+   "I'm impressed.|Better informed|than headquarters!"
+  ]
+ },
+ "57": {
+  "speaker": "Teller",
+  "en": "Fortune telling is all in the mind! Hmph! Come again!",
+  "ps1": [
+   "B190_c5f5",
+   "B190_c5f5b",
+   "B190_c5f5c"
+  ],
+  "cards": [
+   "Fortune telling is|all in the mind!|Hmph! Come again!"
+  ]
+ },
+ "58": {
+  "speaker": "Gillian",
+  "en": "Some fortune teller. She's a hacker selling information!",
+  "ps1": [
+   "B190_c5f6"
+  ],
+  "cards": [
+   "Some fortune|teller. She's a|hacker selling|information!"
+  ]
+ },
+ "59": {
+  "speaker": "Metal Gear",
+  "en": "She may be more reliable than Napoleon.",
+  "ps1": [
+   "B190_c5f7"
+  ],
+  "cards": [
+   "She may be more|reliable than|Napoleon."
+  ]
+ },
+ "d4": {
+  "speaker": "Napoleon",
+  "en": "Ah, hey, now! Excuse me! Heh heh heh...",
+  "layout": "plain",
+  "cards": [
+   "Ah, hey, now! Excuse|me! Heh heh heh..."
+  ]
+ },
+ "d5": {
+  "speaker": "Napoleon",
+  "en": "Heh heh heh heh heh!",
+  "layout": "plain",
+  "cards": [
+   "Heh heh heh heh heh!"
+  ]
+ },
+ "_unmatched": {}
+}

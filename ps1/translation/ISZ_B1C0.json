@@ -1,0 +1,1131 @@
+{
+ "file": "ISZ_B1C0.BIN",
+ "text_base": 3255,
+ "strings": [
+  {
+   "off": 3256,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 3260,
+   "budget": 35,
+   "en": "Leave the study, then go back in."
+  },
+  {
+   "off": 3295,
+   "budget": 21,
+   "en": "Command x4 please."
+  },
+  {
+   "off": 3316,
+   "budget": 59,
+   "en": "You reach Jean Jack Gibson's￥home. What will you do?",
+   "long": "We've arrived at Jean Jack Gibson's￥house. What will you do?"
+  },
+  {
+   "off": 3375,
+   "budget": 25,
+   "en": "We're outside the house."
+  },
+  {
+   "off": 3400,
+   "budget": 5,
+   "en": "Move"
+  },
+  {
+   "off": 3405,
+   "budget": 9,
+   "en": "Go in",
+   "long": "Go inside"
+  },
+  {
+   "off": 3414,
+   "budget": 23,
+   "en": "To the living room.",
+   "long": "Let's enter the living room."
+  },
+  {
+   "off": 3437,
+   "budget": 35,
+   "en": "I'll open the door. Ready?"
+  },
+  {
+   "off": 3472,
+   "budget": 21,
+   "en": "Go ahead. Open it!"
+  },
+  {
+   "off": 3493,
+   "budget": 9,
+   "en": "Get in",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 3502,
+   "budget": 45,
+   "en": "Gillian! Every second counts. Be￥brave!"
+  },
+  {
+   "off": 3547,
+   "budget": 65,
+   "en": "Let's find Catherine before it's too￥late, Gillian!"
+  },
+  {
+   "off": 3612,
+   "budget": 57,
+   "en": "I'm worried about Catherine. Let's￥search the house."
+  },
+  {
+   "off": 3669,
+   "budget": 11,
+   "en": "Knock"
+  },
+  {
+   "off": 3680,
+   "budget": 23,
+   "en": "Catherine! Are you in?",
+   "long": "Catherine! Are you there?"
+  },
+  {
+   "off": 3703,
+   "budget": 25,
+   "en": "Catherine! Catherine!"
+  },
+  {
+   "off": 3728,
+   "budget": 25,
+   "en": "There's no answer."
+  },
+  {
+   "off": 3753,
+   "budget": 39,
+   "en": "There's no answer. Let's go inside."
+  },
+  {
+   "off": 3792,
+   "budget": 45,
+   "en": "There's no answer. Let's check the￥door."
+  },
+  {
+   "off": 3837,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 3842,
+   "budget": 5,
+   "en": "Bldg",
+   "long": "Building"
+  },
+  {
+   "off": 3847,
+   "budget": 71,
+   "en": "The lights are on, but no one's￥here. Something must have happened."
+  },
+  {
+   "off": 3918,
+   "budget": 45,
+   "en": "Feels lived in...￥but something is odd.",
+   "long": "It looks as though someone's home,￥but something's wrong."
+  },
+  {
+   "off": 3963,
+   "budget": 55,
+   "en": "The street lamp hums.￥Somehow too quiet...",
+   "long": "All I can hear is the hum of the￥streetlights. It's too quiet."
+  },
+  {
+   "off": 4018,
+   "budget": 3,
+   "en": "Wn",
+   "long": "Window"
+  },
+  {
+   "off": 4021,
+   "budget": 35,
+   "en": "Nothing amiss from outside.",
+   "long": "Nothing looks unusual from outside."
+  },
+  {
+   "off": 4056,
+   "budget": 51,
+   "en": "The lights are on. Is Catherine￥here?"
+  },
+  {
+   "off": 4107,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 4114,
+   "budget": 33,
+   "en": "Nothing outside after all.",
+   "long": "There's nothing outside after all."
+  },
+  {
+   "off": 4147,
+   "budget": 55,
+   "en": "Everything looks normal at first￥glance."
+  },
+  {
+   "off": 4202,
+   "budget": 5,
+   "en": "Door"
+  },
+  {
+   "off": 4207,
+   "budget": 25,
+   "en": "Light from inside.",
+   "long": "Light is coming from inside."
+  },
+  {
+   "off": 4232,
+   "budget": 49,
+   "en": "Faintly, a sound like voices￥too.",
+   "long": "I can also faintly hear what sounds￥like people talking."
+  },
+  {
+   "off": 4281,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 4288,
+   "budget": 49,
+   "en": "Something's wrong. We'd better be￥careful."
+  },
+  {
+   "off": 4337,
+   "budget": 53,
+   "en": "It looks normal. There's no sign of￥damage."
+  },
+  {
+   "off": 4390,
+   "budget": 35,
+   "en": "The window is securely locked."
+  },
+  {
+   "off": 4425,
+   "budget": 45,
+   "en": "Oh?￥Fresh footprints by the door.",
+   "long": "What's this? There are fresh￥footprints near the front door."
+  },
+  {
+   "off": 4470,
+   "budget": 29,
+   "en": "A street lamp is broken.",
+   "long": "A nearby streetlight has been￥smashed."
+  },
+  {
+   "off": 4499,
+   "budget": 45,
+   "en": "A quiet, rich street.￥Nobody in sight.",
+   "long": "It's a quiet, wealthy neighborhood.￥There's no one around."
+  },
+  {
+   "off": 4544,
+   "budget": 29,
+   "en": "There's no one here at all."
+  },
+  {
+   "off": 4573,
+   "budget": 31,
+   "en": "Wait! It's unlocked!"
+  },
+  {
+   "off": 4604,
+   "budget": 59,
+   "en": "Catherine's careful. Leaving it￥unlocked isn't like her!",
+   "long": "Catherine's always so careful. Why￥would she leave it unlocked?"
+  },
+  {
+   "off": 4663,
+   "budget": 5,
+   "en": "Step",
+   "long": "Footprints"
+  },
+  {
+   "off": 4668,
+   "budget": 61,
+   "en": "Small.￥22.5cm... a woman's print,￥I'd say.",
+   "long": "They're small. Just 22.5￥centimeters. They seem to be a￥woman's footprints."
+  },
+  {
+   "off": 4729,
+   "budget": 35,
+   "en": "They might be Catherine's."
+  },
+  {
+   "off": 4764,
+   "budget": 69,
+   "en": "Catherine's prints, I'd say.￥She ran towards the outside.",
+   "long": "They appear to be Catherine's￥footprints. It looks like she ran￥outside."
+  },
+  {
+   "off": 4833,
+   "budget": 5,
+   "en": "Call"
+  },
+  {
+   "off": 4838,
+   "budget": 11,
+   "en": "Catherine"
+  },
+  {
+   "off": 4849,
+   "budget": 7,
+   "en": "Alice"
+  },
+  {
+   "off": 4856,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 4861,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 4876,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 4887,
+   "budget": 37,
+   "en": "I'll save your progress now."
+  },
+  {
+   "off": 4924,
+   "budget": 29,
+   "en": "Into Gibson's living room.",
+   "long": "We're in Gibson's living room."
+  },
+  {
+   "off": 4953,
+   "budget": 21,
+   "en": "Gibson's living rm.",
+   "long": "This is Gibson's living room."
+  },
+  {
+   "off": 4974,
+   "budget": 33,
+   "en": "Where's Catherine?"
+  },
+  {
+   "off": 5007,
+   "budget": 41,
+   "en": "Not here.￥I'm getting worried.",
+   "long": "She's nowhere in sight. I'm getting￥worried."
+  },
+  {
+   "off": 5048,
+   "budget": 9,
+   "en": "Go out"
+  },
+  {
+   "off": 5057,
+   "budget": 25,
+   "en": "Let's check outside.",
+   "long": "Let's check outside after all."
+  },
+  {
+   "off": 5082,
+   "budget": 5,
+   "en": "Desk",
+   "long": "Study"
+  },
+  {
+   "off": 5087,
+   "budget": 19,
+   "en": "Check the study.",
+   "long": "Let's take a look in the study."
+  },
+  {
+   "off": 5106,
+   "budget": 5,
+   "en": "Room",
+   "long": "Inside"
+  },
+  {
+   "off": 5111,
+   "budget": 53,
+   "en": "There's no one here but us. Where￥did she go?"
+  },
+  {
+   "off": 5164,
+   "budget": 43,
+   "en": "Nobody here.￥Spirited away, it seems.",
+   "long": "No one's here. It's as if she￥vanished into thin air."
+  },
+  {
+   "off": 5207,
+   "budget": 9,
+   "en": "Monitor"
+  },
+  {
+   "off": 5216,
+   "budget": 37,
+   "en": "TV and terminal left on...",
+   "long": "The TV and information terminal are￥still on."
+  },
+  {
+   "off": 5253,
+   "budget": 53,
+   "en": "Satellite and info channels￥still running.",
+   "long": "The satellite broadcasts and￥information channels are still￥running."
+  },
+  {
+   "off": 5306,
+   "budget": 5,
+   "en": "Mod.",
+   "long": "Model"
+  },
+  {
+   "off": 5311,
+   "budget": 73,
+   "en": "A complete miniature of the￥Gibson house. Cast, but well made.",
+   "long": "It's an exact miniature of Gibson's￥house. It's cast, but very well￥made."
+  },
+  {
+   "off": 5384,
+   "budget": 59,
+   "en": "Even the lights are still on. What￥happened to Catherine?"
+  },
+  {
+   "off": 5443,
+   "budget": 37,
+   "en": "As if only the people vanished.",
+   "long": "It's as if only the people have￥disappeared."
+  },
+  {
+   "off": 5480,
+   "budget": 57,
+   "en": "The monitor is hot. It must have￥been left on."
+  },
+  {
+   "off": 5537,
+   "budget": 45,
+   "en": "The info charges have run up￥quite a bill.",
+   "long": "The information service charges have￥added up to quite a sum, too."
+  },
+  {
+   "off": 5582,
+   "budget": 9,
+   "en": "Hey!"
+  },
+  {
+   "off": 5591,
+   "budget": 87,
+   "en": "I thought it was a window, but￥there's a shelf here. How did I miss￥that?"
+  },
+  {
+   "off": 5678,
+   "budget": 79,
+   "en": "Less a window than a shelf set￥with glass blocks.￥...Garden trees show.",
+   "long": "It's more of a shelf with glass￥blocks than a window. I can see the￥trees in the garden."
+  },
+  {
+   "off": 5757,
+   "budget": 3,
+   "en": "Sh",
+   "long": "Shelf"
+  },
+  {
+   "off": 5760,
+   "budget": 29,
+   "en": "A house model sits on it.",
+   "long": "There's a model house on the shelf."
+  },
+  {
+   "off": 5789,
+   "budget": 65,
+   "en": "There's only the model house. It￥fits perfectly."
+  },
+  {
+   "off": 5854,
+   "budget": 29,
+   "en": "It's a music box."
+  },
+  {
+   "off": 5883,
+   "budget": 45,
+   "en": "I never knew of this model...",
+   "long": "I didn't know there was a model of￥Gibson's house."
+  },
+  {
+   "off": 5928,
+   "budget": 31,
+   "en": "Something was inside it.",
+   "long": "It looks like there was something￥inside."
+  },
+  {
+   "off": 5959,
+   "budget": 45,
+   "en": "This miniature might mean something."
+  },
+  {
+   "off": 6004,
+   "budget": 45,
+   "en": "Jean did write, \"Search the house.\""
+  },
+  {
+   "off": 6049,
+   "budget": 59,
+   "en": "Maybe he meant this. But let's find￥Catherine first!"
+  },
+  {
+   "off": 6108,
+   "budget": 23,
+   "en": "Oh! What's this?＠Ｃ"
+  },
+  {
+   "off": 6131,
+   "budget": 47,
+   "en": "Terribly ransacked.￥Who on earth...?",
+   "long": "It's been completely torn apart. Who￥could have done this?"
+  },
+  {
+   "off": 6178,
+   "budget": 75,
+   "en": "Snatchers! Damn it! How did they￥find this place?"
+  },
+  {
+   "off": 6253,
+   "budget": 103,
+   "en": "You need a level 5 ID or higher to￥access this address. ＠赤Could they￥have followed us?!"
+  },
+  {
+   "off": 6356,
+   "budget": 39,
+   "en": "No way! Damn it! Where's Catherine?"
+  },
+  {
+   "off": 6395,
+   "budget": 85,
+   "en": "They've really torn this place￥apart. Could they have been looking￥for something?"
+  },
+  {
+   "off": 6480,
+   "budget": 61,
+   "en": "Searching?￥Did Gibson leave some strong￥clue yet?",
+   "long": "Looking for something? Did Gibson￥leave another important clue?"
+  },
+  {
+   "off": 6541,
+   "budget": 21,
+   "en": "Gibson's study.",
+   "long": "This is Gibson's study."
+  },
+  {
+   "off": 6562,
+   "budget": 27,
+   "en": "Gillian? That sneeze?",
+   "long": "Gillian? What made you sneeze?"
+  },
+  {
+   "off": 6589,
+   "budget": 15,
+   "en": "Snow Cedar?"
+  },
+  {
+   "off": 6604,
+   "budget": 55,
+   "en": "Wait. I'll analyze the air in this￥room."
+  },
+  {
+   "off": 6659,
+   "budget": 67,
+   "en": "Analysis complete. There's a trace￥of Snow Cedar pollen."
+  },
+  {
+   "off": 6726,
+   "budget": 51,
+   "en": "There's no doubt a Snatcher was￥here."
+  },
+  {
+   "off": 6777,
+   "budget": 17,
+   "en": "Comms harmed?",
+   "long": "Will it interfere with￥communications?"
+  },
+  {
+   "off": 6794,
+   "budget": 57,
+   "en": "No. The concentration isn't high￥enough to interfere."
+  },
+  {
+   "off": 6851,
+   "budget": 53,
+   "en": "They're afraid we'll find the￥hospital!",
+   "long": "They're afraid we'll find out where￥the hospital is!"
+  },
+  {
+   "off": 6904,
+   "budget": 45,
+   "en": "So Catherine found that clue.",
+   "long": "And Catherine found a clue to its￥location."
+  },
+  {
+   "off": 6949,
+   "budget": 19,
+   "en": "Probably."
+  },
+  {
+   "off": 6968,
+   "budget": 5,
+   "en": "Yard",
+   "long": "Backyard"
+  },
+  {
+   "off": 6973,
+   "budget": 41,
+   "en": "To the back garden.￥Alice is there.",
+   "long": "Let's go into the backyard. Alice￥should be there."
+  },
+  {
+   "off": 7014,
+   "budget": 5,
+   "en": "Room",
+   "long": "Living room"
+  },
+  {
+   "off": 7019,
+   "budget": 21,
+   "en": "Back to the room.",
+   "long": "Let's go back to the living room."
+  },
+  {
+   "off": 7040,
+   "budget": 35,
+   "en": "It's been completely wrecked.",
+   "long": "The place has been completely￥trashed."
+  },
+  {
+   "off": 7075,
+   "budget": 9,
+   "en": "Computer"
+  },
+  {
+   "off": 7084,
+   "budget": 31,
+   "en": "The display has been smashed."
+  },
+  {
+   "off": 7115,
+   "budget": 55,
+   "en": "It must have shorted out. There are￥scorch marks."
+  },
+  {
+   "off": 7170,
+   "budget": 7,
+   "en": "Sofa"
+  },
+  {
+   "off": 7177,
+   "budget": 37,
+   "en": "The hard leather is in shreds.",
+   "long": "The tough leather has been torn to￥shreds."
+  },
+  {
+   "off": 7214,
+   "budget": 35,
+   "en": "The down stuffing is spilling out.",
+   "long": "The feather stuffing is spilling￥out."
+  },
+  {
+   "off": 7249,
+   "budget": 27,
+   "en": "Everything is destroyed.",
+   "long": "Everything's been destroyed."
+  },
+  {
+   "off": 7276,
+   "budget": 79,
+   "en": "It's completely dead. It's a good￥thing we checked the disk Gibson￥left us."
+  },
+  {
+   "off": 7355,
+   "budget": 69,
+   "en": "I don't think it can be repaired.￥Jean treasured it."
+  },
+  {
+   "off": 7424,
+   "budget": 41,
+   "en": "Torn by something like sharp￥claws.",
+   "long": "Something like sharp claws tore it￥apart."
+  },
+  {
+   "off": 7465,
+   "budget": 97,
+   "en": "The cuts run parallel, so it appears￥to have been torn by claws, not a￥knife."
+  },
+  {
+   "off": 7562,
+   "budget": 45,
+   "en": "Looks like they were￥after something.",
+   "long": "Judging by this room, they were￥looking for something."
+  },
+  {
+   "off": 7607,
+   "budget": 13,
+   "en": "What is it?",
+   "long": "What could it be?"
+  },
+  {
+   "off": 7620,
+   "budget": 49,
+   "en": "I don't know, but perhaps what￥we seek.",
+   "long": "I don't know, but it might be the￥same thing we're looking for."
+  },
+  {
+   "off": 7669,
+   "budget": 29,
+   "en": "They'd hide the data...?",
+   "long": "Were they trying to hide the data?"
+  },
+  {
+   "off": 7698,
+   "budget": 79,
+   "en": "The disk can't be read, but it's￥recorded in my memory, so all is￥well.",
+   "long": "We can't read it from the disk, but￥don't worry. I've stored it in my￥memory."
+  },
+  {
+   "off": 7777,
+   "budget": 11,
+   "en": "Garden.",
+   "long": "This is the backyard."
+  },
+  {
+   "off": 7788,
+   "budget": 27,
+   "en": "Hey! Alice isn't here."
+  },
+  {
+   "off": 7815,
+   "budget": 29,
+   "en": "Alice is missing too?"
+  },
+  {
+   "off": 7844,
+   "budget": 11,
+   "en": "To study",
+   "long": "Back to study"
+  },
+  {
+   "off": 7855,
+   "budget": 21,
+   "en": "Back to the study.",
+   "long": "Let's go back to the study."
+  },
+  {
+   "off": 7876,
+   "budget": 31,
+   "en": "Nobody about, it seems.",
+   "long": "There doesn't seem to be anyone￥around."
+  },
+  {
+   "off": 7907,
+   "budget": 5,
+   "en": "Dark",
+   "long": "Darkness"
+  },
+  {
+   "off": 7912,
+   "budget": 45,
+   "en": "Nothing unusual. Nothing here."
+  },
+  {
+   "off": 7957,
+   "budget": 55,
+   "en": "Nothing shows in the dark.￥Nor on the night sensor.",
+   "long": "I can't see anything in the dark.￥Nothing shows up on my night vision￥sensor either."
+  },
+  {
+   "off": 8012,
+   "budget": 5,
+   "en": "Grnd",
+   "long": "Ground"
+  },
+  {
+   "off": 8017,
+   "budget": 27,
+   "en": "Ah! There's a collar.",
+   "long": "Oh! There's a collar on the ground."
+  },
+  {
+   "off": 8044,
+   "budget": 37,
+   "en": "Drag marks too.",
+   "long": "There are also marks where something￥was dragged."
+  },
+  {
+   "off": 8081,
+   "budget": 5,
+   "en": "Coll",
+   "long": "Collar"
+  },
+  {
+   "off": 8086,
+   "budget": 43,
+   "en": "It's the magnetic ring Alice wore."
+  },
+  {
+   "off": 8129,
+   "budget": 65,
+   "en": "A collar using a magnetic field￥to keep her in the house.",
+   "long": "This collar uses a magnetic field to￥keep her on Gibson's property."
+  },
+  {
+   "off": 8194,
+   "budget": 53,
+   "en": "A registration number is cut in.￥This is Alice's.",
+   "long": "There's a registration number￥engraved on it. This is Alice's."
+  },
+  {
+   "off": 8247,
+   "budget": 53,
+   "en": "Nothing unusual, though it's a￥little too quiet."
+  },
+  {
+   "off": 8300,
+   "budget": 29,
+   "en": "...Looks like nobody's here.",
+   "long": "There doesn't seem to be anyone￥here."
+  },
+  {
+   "off": 8329,
+   "budget": 49,
+   "en": "Feels like something's here... my￥imagination?",
+   "long": "I feel like something's here. Am I￥imagining it?"
+  },
+  {
+   "off": 8378,
+   "budget": 45,
+   "en": "No motion or infrared readings."
+  },
+  {
+   "off": 8423,
+   "budget": 35,
+   "en": "It looks torn off.",
+   "long": "It looks like it's been torn apart."
+  },
+  {
+   "off": 8458,
+   "budget": 57,
+   "en": "This cut isn't normal.￥Not Alice's strength.",
+   "long": "These torn edges are unusual. Alice￥isn't strong enough to do this."
+  },
+  {
+   "off": 8515,
+   "budget": 59,
+   "en": "Alice is a Dobermann.￥Not a dog that goes down easy.",
+   "long": "Alice is a Doberman. She's not a dog￥you could take down easily."
+  },
+  {
+   "off": 8574,
+   "budget": 35,
+   "en": "If you're human, that is."
+  },
+  {
+   "off": 8609,
+   "budget": 71,
+   "en": "This yard doesn't lead anywhere.￥Alice was trapped here."
+  },
+  {
+   "off": 8680,
+   "budget": 83,
+   "en": "A person, maybe. But Alice￥leaving without going through￥the study? Hardly.",
+   "long": "A person might manage it, but Alice￥could hardly have gotten outside￥without going through the study."
+  },
+  {
+   "off": 8763,
+   "budget": 37,
+   "en": "I'm worried. Call Catherine?",
+   "long": "I'm worried about Catherine. Should￥we call for her?"
+  },
+  {
+   "off": 8800,
+   "budget": 13,
+   "en": "Yes, let's."
+  },
+  {
+   "off": 8813,
+   "budget": 61,
+   "en": "Catherine! Catherine! Answer me if￥you're there!"
+  },
+  {
+   "off": 8874,
+   "budget": 61,
+   "en": "Catherine! Catherine! Are you there?￥It's me, Gillian!"
+  },
+  {
+   "off": 8935,
+   "budget": 49,
+   "en": "There's no answer. Can she hear us?"
+  },
+  {
+   "off": 8984,
+   "budget": 53,
+   "en": "There's no answer. Has something￥happened to her?"
+  },
+  {
+   "off": 9037,
+   "budget": 31,
+   "en": "Alice might hear.",
+   "long": "Alice might be able to hear us."
+  },
+  {
+   "off": 9068,
+   "budget": 19,
+   "en": "Try calling her."
+  },
+  {
+   "off": 9087,
+   "budget": 33,
+   "en": "Alice? Alice! Come here!"
+  },
+  {
+   "off": 9120,
+   "budget": 35,
+   "en": "Alice! Where are you? Come on out!"
+  },
+  {
+   "off": 9155,
+   "budget": 81,
+   "en": "No sign of her.￥She's a friendly dog. If she￥were here she'd come out.",
+   "long": "There's no sign of her. She's￥surprisingly friendly, so she'd come￥out if she were here."
+  },
+  {
+   "off": 9236,
+   "budget": 55,
+   "en": "She's not coming. Has something￥really happened?"
+  },
+  {
+   "off": 9291,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 9306,
+   "budget": 69,
+   "en": "This ID card proves your authority￥as a JUNKER. Keep it safe."
+  },
+  {
+   "off": 9375,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 9382,
+   "budget": 35,
+   "en": "This is the money JUNKER gave you."
+  },
+  {
+   "off": 9417,
+   "budget": 5,
+   "en": "Drop",
+   "long": "Candy"
+  },
+  {
+   "off": 9422,
+   "budget": 35,
+   "en": "This candy was in Jean's pocket."
+  },
+  {
+   "off": 9457,
+   "budget": 7,
+   "en": "Proof",
+   "long": "Evidence"
+  },
+  {
+   "off": 9464,
+   "budget": 3,
+   "en": "Pc",
+   "long": "Chess piece"
+  },
+  {
+   "off": 9467,
+   "budget": 61,
+   "en": "Gibson's chess piece, hinting at￥Queen Hospital.",
+   "long": "Gibson carried this chess piece as a￥clue to Queen Hospital."
+  },
+  {
+   "off": 9528,
+   "budget": 37,
+   "en": "This is the chess piece Gibson had."
+  },
+  {
+   "off": 9565,
+   "budget": 7,
+   "en": "Chart",
+   "long": "Medical chart"
+  },
+  {
+   "off": 9572,
+   "budget": 41,
+   "en": "A chart with a Snatcher's￥name on it.",
+   "long": "This medical record gives a￥Snatcher's name."
+  },
+  {
+   "off": 9613,
+   "budget": 37,
+   "en": "Found on a desk at￥Queen Hospital.",
+   "long": "We found this in a desk at Queen￥Hospital."
+  },
+  {
+   "off": 9650,
+   "budget": 7,
+   "en": "Match",
+   "long": "Matches"
+  },
+  {
+   "off": 9657,
+   "budget": 43,
+   "en": "Old-fashioned matches from￥Queen Hosp.",
+   "long": "These old-fashioned matches were at￥Queen Hospital."
+  },
+  {
+   "off": 9700,
+   "budget": 9,
+   "en": "Memo"
+  },
+  {
+   "off": 9709,
+   "budget": 31,
+   "en": "A memo in Harry's hand.",
+   "long": "Harry seems to have written this￥note."
+  },
+  {
+   "off": 9740,
+   "budget": 43,
+   "en": "This note was in the Mechanic room."
+  },
+  {
+   "off": 9783,
+   "budget": 13,
+   "en": "Video memory"
+  },
+  {
+   "off": 9796,
+   "budget": 13,
+   "en": "Little John"
+  },
+  {
+   "off": 9809,
+   "budget": 47,
+   "en": "Footage left in Little John's￥memory.",
+   "long": "This image was stored in Little￥John's memory."
+  },
+  {
+   "off": 9856,
+   "budget": 9,
+   "en": "Red Sq.",
+   "long": "Red Square"
+  },
+  {
+   "off": 9865,
+   "budget": 39,
+   "en": "A photo hidden in the￥Chief's room.",
+   "long": "This photograph was hidden in the￥Chief's office."
+  },
+  {
+   "off": 9904,
+   "budget": 5,
+   "en": "Hall",
+   "long": "Temple"
+  },
+  {
+   "off": 9909,
+   "budget": 47,
+   "en": "Temple painting from a￥Queen Hospital room.",
+   "long": "This picture of a cathedral hung in￥a room at Queen Hospital."
+  },
+  {
+   "off": 9956,
+   "budget": 67,
+   "en": "It has an integrated circuit￥containing all your data, Gillian."
+  },
+  {
+   "off": 10023,
+   "budget": 49,
+   "en": "Case expenses are covered￥as work requires.",
+   "long": "In principle, there's no limit on￥necessary investigation expenses."
+  },
+  {
+   "off": 10072,
+   "budget": 45,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "long": "Jean gave this candy to the children￥at the orphanage."
+  },
+  {
+   "off": 10117,
+   "budget": 57,
+   "en": "So the piece pointed to the name￥of Queen Hospital.",
+   "long": "It seems this piece was meant to￥tell us the name of Queen Hospital."
+  },
+  {
+   "off": 10174,
+   "budget": 57,
+   "en": "It's a wooden chess piece. The￥queen."
+  },
+  {
+   "off": 10231,
+   "budget": 83,
+   "en": "A cipher written in Chinese element￥symbols. Decoded, it reads BENSON.",
+   "long": "It's a code written using Chinese￥symbols for chemical elements. It￥decodes to BENSON."
+  },
+  {
+   "off": 10314,
+   "budget": 65,
+   "en": "It seems to be part of a medical￥record. What does it say?"
+  },
+  {
+   "off": 10379,
+   "budget": 71,
+   "en": "Matches from 'Outer Heaven'.￥A trifle given to regulars,￥surely.",
+   "long": "These are Outer Heaven matches. They￥probably give them to regular￥customers."
+  },
+  {
+   "off": 10450,
+   "budget": 63,
+   "en": "'face to face'.￥A memo telling the secret￥of the illusion.",
+   "long": "\"Face to face.\" This note explains￥the secret of the optical illusion."
+  },
+  {
+   "off": 10513,
+   "budget": 75,
+   "en": "\"Face to face.\" It's Harry's￥handwriting, but what does it mean?"
+  },
+  {
+   "off": 10588,
+   "budget": 53,
+   "en": "This image shows the QUEEN Hospital￥neon sign."
+  },
+  {
+   "off": 10641,
+   "budget": 67,
+   "en": "It reads \"OLEEN Hospital.\" It must￥be a hospital's neon sign."
+  },
+  {
+   "off": 10708,
+   "budget": 65,
+   "en": "A still photo of Red Square￥in Moscow, before the Catastrophe.",
+   "long": "This is a photograph of Red Square￥in Moscow before the Catastrophe."
+  },
+  {
+   "off": 10773,
+   "budget": 67,
+   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "long": "It's St. Basil's Cathedral, a famous￥cathedral in Moscow before the￥Catastrophe."
+  },
+  {
+   "off": 10842,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

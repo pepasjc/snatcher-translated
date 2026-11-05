@@ -1,0 +1,122 @@
+{
+ "scene": "B100",
+ "cues": [
+  {
+   "id": "B100_000",
+   "file": 68,
+   "chan": 1,
+   "start": 38953,
+   "end": 39449,
+   "dur": 3.3,
+   "speaker": "Waiter",
+   "en": "Welcome. Table for one?",
+   "enabled": true
+  },
+  {
+   "id": "B100_002",
+   "file": 71,
+   "chan": 1,
+   "start": 41369,
+   "end": 42430,
+   "dur": 5.9,
+   "speaker": "Thug",
+   "en": "What the hell? They're JUNKERs! JUNKERs? Get lost, cops!",
+   "enabled": true
+  },
+  {
+   "id": "B100_002b",
+   "file": 71,
+   "chan": 1,
+   "start": 42430,
+   "end": 42665,
+   "dur": 2.8,
+   "speaker": "Thug",
+   "en": "You don't belong here!",
+   "enabled": true
+  },
+  {
+   "id": "B100_003",
+   "file": 72,
+   "chan": 1,
+   "start": 42681,
+   "end": 43041,
+   "dur": 4.8,
+   "speaker": "Master",
+   "en": "Looks like you've come to the wrong place.",
+   "enabled": true,
+   "last": true
+  },
+  {
+   "id": "B100_003b",
+   "file": 72,
+   "chan": 1,
+   "start": 43041,
+   "end": 43401,
+   "dur": 4.8,
+   "speaker": "Master",
+   "en": "Forget the bill. Just get out.",
+   "enabled": true,
+   "last": true
+  },
+  {
+   "id": "B100_004",
+   "file": 73,
+   "chan": 1,
+   "start": 43417,
+   "end": 43497,
+   "dur": 0.5,
+   "speaker": "Gillian",
+   "en": "Is he dead?",
+   "enabled": true
+  },
+  {
+   "id": "B100_005",
+   "file": 74,
+   "chan": 1,
+   "start": 43513,
+   "end": 44297,
+   "dur": 5.2,
+   "speaker": "Metal Gear",
+   "en": "He's just unconscious. Nice shot, right in the hand.",
+   "enabled": true
+  },
+  {
+   "id": "B100_006",
+   "file": 75,
+   "chan": 1,
+   "start": 44313,
+   "end": 44617,
+   "dur": 2.0,
+   "speaker": "Gillian",
+   "en": "That's not where I was aiming.",
+   "enabled": true
+  },
+  {
+   "id": "B100_007",
+   "file": 76,
+   "chan": 1,
+   "start": 44633,
+   "end": 45001,
+   "dur": 2.5,
+   "speaker": "Gillian",
+   "en": "Hey! How long are you going to lie there?",
+   "enabled": true
+  },
+  {
+   "id": "B100_008",
+   "file": 77,
+   "chan": 1,
+   "start": 45017,
+   "end": 45273,
+   "dur": 1.7,
+   "speaker": "Thug",
+   "en": "Aagh! H-help me!",
+   "enabled": true,
+   "last": true
+  }
+ ],
+ "options": {
+  "faceleft": true,
+  "cols": 12
+ }
+}

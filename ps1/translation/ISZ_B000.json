@@ -1,0 +1,1214 @@
+{
+ "file": "ISZ_B000.BIN",
+ "text_base": 3732,
+ "strings": [
+  {
+   "off": 3733,
+   "budget": 2,
+   "en": ""
+  },
+  {
+   "off": 3735,
+   "budget": 2,
+   "en": ""
+  },
+  {
+   "off": 3737,
+   "budget": 61,
+   "en": "Command debug file. Select a￥destination."
+  },
+  {
+   "off": 3798,
+   "budget": 75,
+   "en": "Colors:￥＠白Wht＠赤Red＠青Blu＠水Cyn＠緑Grn＠黄Ylw＠紫Prp＠桃Pnk",
+   "long": "Text color test: ＠白White ＠赤Red ＠青Blue￥＠水Cyan ＠緑Green ＠黄Yellow ＠紫Purple ＠桃Pink."
+  },
+  {
+   "off": 3873,
+   "budget": 9,
+   "en": "ACT 1"
+  },
+  {
+   "off": 3882,
+   "budget": 9,
+   "en": "ACT 2"
+  },
+  {
+   "off": 3891,
+   "budget": 9,
+   "en": "ACT 3"
+  },
+  {
+   "off": 3900,
+   "budget": 7,
+   "en": "Others"
+  },
+  {
+   "off": 3907,
+   "budget": 11,
+   "en": "Answer Qs"
+  },
+  {
+   "off": 3918,
+   "budget": 11,
+   "en": "Catherine"
+  },
+  {
+   "off": 3929,
+   "budget": 17,
+   "en": "Gibson's door"
+  },
+  {
+   "off": 3946,
+   "budget": 15,
+   "en": "After shower"
+  },
+  {
+   "off": 3961,
+   "budget": 11,
+   "en": "Napoleon"
+  },
+  {
+   "off": 3972,
+   "budget": 5,
+   "en": "Tel."
+  },
+  {
+   "off": 3977,
+   "budget": 11,
+   "en": "In Outer"
+  },
+  {
+   "off": 3988,
+   "budget": 7,
+   "en": "BGM"
+  },
+  {
+   "off": 3995,
+   "budget": 11,
+   "en": "MG appears"
+  },
+  {
+   "off": 4006,
+   "budget": 13,
+   "en": "Car to plant"
+  },
+  {
+   "off": 4019,
+   "budget": 13,
+   "en": "Plant return"
+  },
+  {
+   "off": 4032,
+   "budget": 11,
+   "en": "Drunk H."
+  },
+  {
+   "off": 4043,
+   "budget": 13,
+   "en": "Randam shows"
+  },
+  {
+   "off": 4056,
+   "budget": 9,
+   "en": "Rampage"
+  },
+  {
+   "off": 4065,
+   "budget": 11,
+   "en": "Chief 1"
+  },
+  {
+   "off": 4076,
+   "budget": 11,
+   "en": "Chief 2"
+  },
+  {
+   "off": 4087,
+   "budget": 15,
+   "en": "Jamie TEL"
+  },
+  {
+   "off": 4102,
+   "budget": 5,
+   "en": "Riot"
+  },
+  {
+   "off": 4107,
+   "budget": 7,
+   "en": "Riot2"
+  },
+  {
+   "off": 4114,
+   "budget": 7,
+   "en": "Morgue"
+  },
+  {
+   "off": 4121,
+   "budget": 5,
+   "en": "Chin"
+  },
+  {
+   "off": 4126,
+   "budget": 11,
+   "en": "Harry dies"
+  },
+  {
+   "off": 4137,
+   "budget": 9,
+   "en": "ChiefDie"
+  },
+  {
+   "off": 4146,
+   "budget": 17,
+   "en": "Jamie kidnap TEL"
+  },
+  {
+   "off": 4163,
+   "budget": 13,
+   "en": "Mika joins"
+  },
+  {
+   "off": 4176,
+   "budget": 7,
+   "en": "Beam"
+  },
+  {
+   "off": 4183,
+   "budget": 5,
+   "en": "Port",
+   "long": "Airport"
+  },
+  {
+   "off": 4188,
+   "budget": 13,
+   "en": "Araki sneeze"
+  },
+  {
+   "off": 4201,
+   "budget": 5,
+   "en": "Fact",
+   "long": "Factory"
+  },
+  {
+   "off": 4206,
+   "budget": 7,
+   "en": "Fact 1"
+  },
+  {
+   "off": 4213,
+   "budget": 7,
+   "en": "Fact 2"
+  },
+  {
+   "off": 4220,
+   "budget": 7,
+   "en": "Fact 3"
+  },
+  {
+   "off": 4227,
+   "budget": 11,
+   "en": "Freddy hm"
+  },
+  {
+   "off": 4238,
+   "budget": 11,
+   "en": "Gibson hm"
+  },
+  {
+   "off": 4249,
+   "budget": 9,
+   "en": "Tunnel 1"
+  },
+  {
+   "off": 4258,
+   "budget": 9,
+   "en": "Tunnel 2"
+  },
+  {
+   "off": 4267,
+   "budget": 9,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 4276,
+   "budget": 9,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 4285,
+   "budget": 5,
+   "en": "Back"
+  },
+  {
+   "off": 4290,
+   "budget": 15,
+   "en": "ACT 1 ends"
+  },
+  {
+   "off": 4305,
+   "budget": 15,
+   "en": "ACT 2 ends"
+  },
+  {
+   "off": 4320,
+   "budget": 13,
+   "en": "ACT1 half1"
+  },
+  {
+   "off": 4333,
+   "budget": 5,
+   "en": "HQ"
+  },
+  {
+   "off": 4338,
+   "budget": 9,
+   "en": "From top"
+  },
+  {
+   "off": 4347,
+   "budget": 17,
+   "en": "Chief talk ends"
+  },
+  {
+   "off": 4364,
+   "budget": 9,
+   "en": "Shooting"
+  },
+  {
+   "off": 4373,
+   "budget": 15,
+   "en": "Call from Jean"
+  },
+  {
+   "off": 4388,
+   "budget": 9,
+   "en": "A case!"
+  },
+  {
+   "off": 4397,
+   "budget": 15,
+   "en": "Tricycle"
+  },
+  {
+   "off": 4412,
+   "budget": 9,
+   "en": "At plant"
+  },
+  {
+   "off": 4421,
+   "budget": 13,
+   "en": "Get memory"
+  },
+  {
+   "off": 4434,
+   "budget": 13,
+   "en": "Find Gibson"
+  },
+  {
+   "off": 4447,
+   "budget": 9,
+   "en": "Motion",
+   "long": "Motion detector"
+  },
+  {
+   "off": 4456,
+   "budget": 9,
+   "en": "Sneeze"
+  },
+  {
+   "off": 4465,
+   "budget": 9,
+   "en": "Gunfire"
+  },
+  {
+   "off": 4474,
+   "budget": 7,
+   "en": "Yard 1"
+  },
+  {
+   "off": 4481,
+   "budget": 7,
+   "en": "Yard 2"
+  },
+  {
+   "off": 4488,
+   "budget": 9,
+   "en": "NDE"
+  },
+  {
+   "off": 4497,
+   "budget": 7,
+   "en": "PreBmb"
+  },
+  {
+   "off": 4504,
+   "budget": 7,
+   "en": "HQ 2"
+  },
+  {
+   "off": 4511,
+   "budget": 9,
+   "en": "DetRoom"
+  },
+  {
+   "off": 4520,
+   "budget": 11,
+   "en": "Proof done"
+  },
+  {
+   "off": 4531,
+   "budget": 21,
+   "en": "Proof OK, mech room"
+  },
+  {
+   "off": 4552,
+   "budget": 17,
+   "en": "Chief mad-costs"
+  },
+  {
+   "off": 4569,
+   "budget": 13,
+   "en": "ACT1 half2"
+  },
+  {
+   "off": 4582,
+   "budget": 7,
+   "en": "AtHome"
+  },
+  {
+   "off": 4589,
+   "budget": 9,
+   "en": "PostQs"
+  },
+  {
+   "off": 4598,
+   "budget": 11,
+   "en": "At PC"
+  },
+  {
+   "off": 4609,
+   "budget": 9,
+   "en": "Doggy"
+  },
+  {
+   "off": 4618,
+   "budget": 5,
+   "en": "Car"
+  },
+  {
+   "off": 4623,
+   "budget": 13,
+   "en": "Gillian home"
+  },
+  {
+   "off": 4636,
+   "budget": 11,
+   "en": "Altamira"
+  },
+  {
+   "off": 4647,
+   "budget": 11,
+   "en": "At Alta"
+  },
+  {
+   "off": 4658,
+   "budget": 11,
+   "en": "Meet Napo"
+  },
+  {
+   "off": 4669,
+   "budget": 9,
+   "en": "Diviner"
+  },
+  {
+   "off": 4678,
+   "budget": 15,
+   "en": "Can flirt"
+  },
+  {
+   "off": 4693,
+   "budget": 19,
+   "en": "Joy Division"
+  },
+  {
+   "off": 4712,
+   "budget": 11,
+   "en": "At Joy"
+  },
+  {
+   "off": 4723,
+   "budget": 15,
+   "en": "NeoKobe-yaki"
+  },
+  {
+   "off": 4738,
+   "budget": 15,
+   "en": "Buy adult vid"
+  },
+  {
+   "off": 4753,
+   "budget": 15,
+   "en": "Outer Heaven"
+  },
+  {
+   "off": 4768,
+   "budget": 11,
+   "en": "Ivan case"
+  },
+  {
+   "off": 4779,
+   "budget": 13,
+   "en": "At Ivan home"
+  },
+  {
+   "off": 4792,
+   "budget": 13,
+   "en": "Ivan's door"
+  },
+  {
+   "off": 4805,
+   "budget": 7,
+   "en": "PreGun"
+  },
+  {
+   "off": 4812,
+   "budget": 11,
+   "en": "PostGun LR"
+  },
+  {
+   "off": 4823,
+   "budget": 13,
+   "en": "LR pre-bath"
+  },
+  {
+   "off": 4836,
+   "budget": 13,
+   "en": "Bath checked"
+  },
+  {
+   "off": 4849,
+   "budget": 15,
+   "en": "Post scan"
+  },
+  {
+   "off": 4864,
+   "budget": 13,
+   "en": "Freddy case"
+  },
+  {
+   "off": 4877,
+   "budget": 15,
+   "en": "At Freddy hm"
+  },
+  {
+   "off": 4892,
+   "budget": 15,
+   "en": "Let inside"
+  },
+  {
+   "off": 4907,
+   "budget": 11,
+   "en": "Qs done"
+  },
+  {
+   "off": 4918,
+   "budget": 9,
+   "en": "In bath"
+  },
+  {
+   "off": 4927,
+   "budget": 9,
+   "en": "Lisa gun"
+  },
+  {
+   "off": 4936,
+   "budget": 11,
+   "en": "PostLisa"
+  },
+  {
+   "off": 4947,
+   "budget": 7,
+   "en": "GoOut"
+  },
+  {
+   "off": 4954,
+   "budget": 7,
+   "en": "GoIn"
+  },
+  {
+   "off": 4961,
+   "budget": 9,
+   "en": "Bath 2"
+  },
+  {
+   "off": 4970,
+   "budget": 9,
+   "en": "Restore"
+  },
+  {
+   "off": 4979,
+   "budget": 13,
+   "en": "ACT2 half1"
+  },
+  {
+   "off": 4992,
+   "budget": 13,
+   "en": "ACT 2 start"
+  },
+  {
+   "off": 5005,
+   "budget": 13,
+   "en": "Chief talked"
+  },
+  {
+   "off": 5018,
+   "budget": 9,
+   "en": "Diviner2"
+  },
+  {
+   "off": 5027,
+   "budget": 9,
+   "en": "Udon"
+  },
+  {
+   "off": 5036,
+   "budget": 15,
+   "en": "Santa Napo"
+  },
+  {
+   "off": 5051,
+   "budget": 17,
+   "en": "Napo parts ways"
+  },
+  {
+   "off": 5068,
+   "budget": 13,
+   "en": "Oleen Hosp."
+  },
+  {
+   "off": 5081,
+   "budget": 5,
+   "en": "Here"
+  },
+  {
+   "off": 5086,
+   "budget": 7,
+   "en": "PreTlk"
+  },
+  {
+   "off": 5093,
+   "budget": 11,
+   "en": "Gibson hse"
+  },
+  {
+   "off": 5104,
+   "budget": 15,
+   "en": "Twitchy Alice"
+  },
+  {
+   "off": 5119,
+   "budget": 55,
+   "en": "Petrovich here!￥Let's be friends!"
+  },
+  {
+   "off": 5174,
+   "budget": 5,
+   "en": "Home"
+  },
+  {
+   "off": 5179,
+   "budget": 9,
+   "en": "At home"
+  },
+  {
+   "off": 5188,
+   "budget": 17,
+   "en": "Shower booth opn"
+  },
+  {
+   "off": 5205,
+   "budget": 17,
+   "en": "Catherine search"
+  },
+  {
+   "off": 5222,
+   "budget": 11,
+   "en": "PostSearch"
+  },
+  {
+   "off": 5233,
+   "budget": 15,
+   "en": "Queen Hosp 1",
+   "long": "Queen Hospital 1"
+  },
+  {
+   "off": 5248,
+   "budget": 9,
+   "en": "At hosp"
+  },
+  {
+   "off": 5257,
+   "budget": 11,
+   "en": "Pre-Light"
+  },
+  {
+   "off": 5268,
+   "budget": 13,
+   "en": "ACT2 half2"
+  },
+  {
+   "off": 5281,
+   "budget": 17,
+   "en": "Outer Heaven 2"
+  },
+  {
+   "off": 5298,
+   "budget": 5,
+   "en": "Shop"
+  },
+  {
+   "off": 5303,
+   "budget": 17,
+   "en": "Pre-Benson guess"
+  },
+  {
+   "off": 5320,
+   "budget": 15,
+   "en": "HQ empty"
+  },
+  {
+   "off": 5335,
+   "budget": 25,
+   "en": "Queen w/ Randam"
+  },
+  {
+   "off": 5360,
+   "budget": 11,
+   "en": "Janken"
+  },
+  {
+   "off": 5371,
+   "budget": 13,
+   "en": "OR gun 1"
+  },
+  {
+   "off": 5384,
+   "budget": 13,
+   "en": "OR gun 2"
+  },
+  {
+   "off": 5397,
+   "budget": 17,
+   "en": "Queen basement"
+  },
+  {
+   "off": 5414,
+   "budget": 11,
+   "en": "B1 hallway"
+  },
+  {
+   "off": 5425,
+   "budget": 11,
+   "en": "B1 morgue"
+  },
+  {
+   "off": 5436,
+   "budget": 9,
+   "en": "Rebuild"
+  },
+  {
+   "off": 5445,
+   "budget": 17,
+   "en": "What a shock!"
+  },
+  {
+   "off": 5462,
+   "budget": 7,
+   "en": "Chin 1"
+  },
+  {
+   "off": 5469,
+   "budget": 7,
+   "en": "Chin 2"
+  },
+  {
+   "off": 5476,
+   "budget": 17,
+   "en": "Tunnel and taxi"
+  },
+  {
+   "off": 5493,
+   "budget": 5,
+   "en": "Maze"
+  },
+  {
+   "off": 5498,
+   "budget": 7,
+   "en": "Subway"
+  },
+  {
+   "off": 5505,
+   "budget": 15,
+   "en": "Freddy's bath"
+  },
+  {
+   "off": 5520,
+   "budget": 9,
+   "en": "Taxi"
+  },
+  {
+   "off": 5529,
+   "budget": 11,
+   "en": "Last HQ"
+  },
+  {
+   "off": 5540,
+   "budget": 9,
+   "en": "At HQ"
+  },
+  {
+   "off": 5549,
+   "budget": 11,
+   "en": "BoothOpen"
+  },
+  {
+   "off": 5560,
+   "budget": 11,
+   "en": "Harry dead"
+  },
+  {
+   "off": 5571,
+   "budget": 9,
+   "en": "Ceiling"
+  },
+  {
+   "off": 5580,
+   "budget": 3,
+   "en": "1",
+   "long": "Before"
+  },
+  {
+   "off": 5583,
+   "budget": 3,
+   "en": "2",
+   "long": "After"
+  },
+  {
+   "off": 5586,
+   "budget": 13,
+   "en": "Front Chief"
+  },
+  {
+   "off": 5599,
+   "budget": 13,
+   "en": "At front"
+  },
+  {
+   "off": 5612,
+   "budget": 13,
+   "en": "Chief death"
+  },
+  {
+   "off": 5625,
+   "budget": 9,
+   "en": "KidnpTEL"
+  },
+  {
+   "off": 5634,
+   "budget": 13,
+   "en": "ACT 3 start"
+  },
+  {
+   "off": 5647,
+   "budget": 13,
+   "en": "Old man!"
+  },
+  {
+   "off": 5660,
+   "budget": 11,
+   "en": "Solved it!"
+  },
+  {
+   "off": 5671,
+   "budget": 5,
+   "en": "Chur",
+   "long": "Church"
+  },
+  {
+   "off": 5676,
+   "budget": 9,
+   "en": "ToChurch"
+  },
+  {
+   "off": 5685,
+   "budget": 9,
+   "en": "AtChurch"
+  },
+  {
+   "off": 5694,
+   "budget": 7,
+   "en": "Chapel"
+  },
+  {
+   "off": 5701,
+   "budget": 7,
+   "en": "Vault"
+  },
+  {
+   "off": 5708,
+   "budget": 11,
+   "en": "Culture rm",
+   "long": "Culture room"
+  },
+  {
+   "off": 5719,
+   "budget": 15,
+   "en": "At culture rm",
+   "long": "At the culture room"
+  },
+  {
+   "off": 5734,
+   "budget": 13,
+   "en": "Snatch proc"
+  },
+  {
+   "off": 5747,
+   "budget": 17,
+   "en": "Boss Snatcher"
+  },
+  {
+   "off": 5764,
+   "budget": 11,
+   "en": "Church bug"
+  },
+  {
+   "off": 5775,
+   "budget": 13,
+   "en": "Church-Sna"
+  },
+  {
+   "off": 5788,
+   "budget": 15,
+   "en": "Jamie reunion2"
+  },
+  {
+   "off": 5803,
+   "budget": 13,
+   "en": "Randam jar 1"
+  },
+  {
+   "off": 5816,
+   "budget": 15,
+   "en": "Jamie reunion"
+  },
+  {
+   "off": 5831,
+   "budget": 9,
+   "en": "Army art"
+  },
+  {
+   "off": 5840,
+   "budget": 15,
+   "en": "You're CIA"
+  },
+  {
+   "off": 5855,
+   "budget": 11,
+   "en": "Elijah 1"
+  },
+  {
+   "off": 5866,
+   "budget": 13,
+   "en": "Elijah 2"
+  },
+  {
+   "off": 5879,
+   "budget": 7,
+   "en": "Politi"
+  },
+  {
+   "off": 5886,
+   "budget": 17,
+   "en": "What's this?!"
+  },
+  {
+   "off": 5903,
+   "budget": 13,
+   "en": "Randam jar 2"
+  },
+  {
+   "off": 5916,
+   "budget": 15,
+   "en": "Randam jarred"
+  },
+  {
+   "off": 5931,
+   "budget": 17,
+   "en": "Silly scene 71"
+  },
+  {
+   "off": 5948,
+   "budget": 11,
+   "en": "Scene 76"
+  },
+  {
+   "off": 5959,
+   "budget": 13,
+   "en": "Bra shot"
+  },
+  {
+   "off": 5972,
+   "budget": 13,
+   "en": "Randam runs"
+  },
+  {
+   "off": 5985,
+   "budget": 9,
+   "en": "Sorry"
+  },
+  {
+   "off": 5994,
+   "budget": 9,
+   "en": "For Asa."
+  },
+  {
+   "off": 6003,
+   "budget": 7,
+   "en": "RnFace"
+  },
+  {
+   "off": 6010,
+   "budget": 11,
+   "en": "As thought"
+  },
+  {
+   "off": 6021,
+   "budget": 9,
+   "en": "Backward"
+  },
+  {
+   "off": 6030,
+   "budget": 13,
+   "en": "Is he dead?"
+  },
+  {
+   "off": 6043,
+   "budget": 15,
+   "en": "Summit over?"
+  },
+  {
+   "off": 6058,
+   "budget": 19,
+   "en": "What of summit"
+  },
+  {
+   "off": 6077,
+   "budget": 11,
+   "en": "Last 2"
+  },
+  {
+   "off": 6088,
+   "budget": 7,
+   "en": "End"
+  },
+  {
+   "off": 6095,
+   "budget": 13,
+   "en": "ACT1 range"
+  },
+  {
+   "off": 6108,
+   "budget": 11,
+   "en": "HQ drill 1"
+  },
+  {
+   "off": 6119,
+   "budget": 9,
+   "en": "PlantGun"
+  },
+  {
+   "off": 6128,
+   "budget": 11,
+   "en": "HQ drill 2"
+  },
+  {
+   "off": 6139,
+   "budget": 7,
+   "en": "Ivan"
+  },
+  {
+   "off": 6146,
+   "budget": 7,
+   "en": "PostGn"
+  },
+  {
+   "off": 6153,
+   "budget": 5,
+   "en": "Lisa"
+  },
+  {
+   "off": 6158,
+   "budget": 9,
+   "en": "Freddy"
+  },
+  {
+   "off": 6167,
+   "budget": 13,
+   "en": "ACT2 range"
+  },
+  {
+   "off": 6180,
+   "budget": 9,
+   "en": "HQ drill"
+  },
+  {
+   "off": 6189,
+   "budget": 13,
+   "en": "Queen Hosp",
+   "long": "Queen Hospital"
+  },
+  {
+   "off": 6202,
+   "budget": 17,
+   "en": "Queen OR 1"
+  },
+  {
+   "off": 6219,
+   "budget": 17,
+   "en": "Queen OR 2"
+  },
+  {
+   "off": 6236,
+   "budget": 9,
+   "en": "MazeBugW"
+  },
+  {
+   "off": 6245,
+   "budget": 9,
+   "en": "MazeBugS"
+  },
+  {
+   "off": 6254,
+   "budget": 17,
+   "en": "Taxi man Chin"
+  },
+  {
+   "off": 6271,
+   "budget": 13,
+   "en": "ACT3 range"
+  },
+  {
+   "off": 6284,
+   "budget": 7,
+   "en": "ChBug"
+  },
+  {
+   "off": 6291,
+   "budget": 9,
+   "en": "ChSnatch"
+  },
+  {
+   "off": 6300,
+   "budget": 53,
+   "en": "Hey! Petrovich here!￥Let's be friends!"
+  },
+  {
+   "off": 6353,
+   "budget": 47,
+   "en": "From here you can call almost￥anywhere."
+  },
+  {
+   "off": 6400,
+   "budget": 63,
+   "en": "But choosing 'hang up' once may stop￥it, so beware!"
+  },
+  {
+   "off": 6463,
+   "budget": 79,
+   "en": "EroJemi and OutJamie are for Araki,￥so everyone else please ignore them!"
+  },
+  {
+   "off": 6542,
+   "budget": 31,
+   "en": "Whew, I'm bushed. Night!"
+  },
+  {
+   "off": 6573,
+   "budget": 11,
+   "en": "For ACT1"
+  },
+  {
+   "off": 6584,
+   "budget": 11,
+   "en": "For ACT2"
+  },
+  {
+   "off": 6595,
+   "budget": 11,
+   "en": "EroJemi"
+  },
+  {
+   "off": 6606,
+   "budget": 17,
+   "en": "OutJamie"
+  },
+  {
+   "off": 6623,
+   "budget": 15,
+   "en": "VRAM anim"
+  },
+  {
+   "off": 6638,
+   "budget": 9,
+   "en": "To plant"
+  },
+  {
+   "off": 6647,
+   "budget": 9,
+   "en": "Normal"
+  },
+  {
+   "off": 6656,
+   "budget": 67,
+   "en": "I'll drop you at Gillian's place;￥choose 'get in car' there!"
+  },
+  {
+   "off": 6723,
+   "budget": 9,
+   "en": "Fr. Mika"
+  },
+  {
+   "off": 6732,
+   "budget": 9,
+   "en": "From TEL"
+  },
+  {
+   "off": 6741,
+   "budget": 7,
+   "en": "PstTEL"
+  },
+  {
+   "off": 6748,
+   "budget": 9,
+   "en": "HotHot"
+  },
+  {
+   "off": 6757,
+   "budget": 5,
+   "en": "Boom"
+  },
+  {
+   "off": 6762,
+   "budget": 13,
+   "en": "Montage"
+  },
+  {
+   "off": 6777,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

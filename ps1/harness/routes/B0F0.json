@@ -1,0 +1,19 @@
+{"scene":"B0D0","note":"Outer Heaven from the mask card (guides/ps1.txt OUTER HEAVEN): ride there, Item > Use > Mask, Move > Enter; inside (B100): Look at the dancer, call Isabella, ask about Gibson, show the photo x2, ask about the man and his description (face, eyes, nose, mouth, hair, age), then the cosplay crowd and the master.",
+ "actions":[
+  {"path":["Board Tricycle"],"patience":6000},
+  {"path":["Outer Heaven"],"patience":6000},
+  {"path":["Exit Tricycle"],"optional":true},
+  {"save":"B0F0_arrive"},
+  {"sweep":["Look","Investigate","Ask"],"rounds":2},
+  {"path":["Item","Use","Mask"],"optional":true},
+  {"path":["Item","Use","Mask","Stay dressed"],"optional":true},
+  {"path":["Move","Go inside"]},
+  {"save":"B100_arrive"},
+  {"sweep":["Look","Investigate","Ask","Talk","Call","Listen"],"rounds":2,"avoid":["Go out"]},
+  {"path":["Call","Dancer|Isabella"],"optional":true},
+  {"path":["Ask","About Gibson"],"optional":true},
+  {"path":["Item","Show","Photo","Gibson's photo"],"optional":true,"reps":2},
+  {"path":["Ask","About Gibson"],"optional":true},
+  {"sweep":["Ask","Talk","Look","Investigate"],"rounds":3,"avoid":["Go out"]},
+  {"save":"B100_done"}
+ ]}

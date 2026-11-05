@@ -1,0 +1,3266 @@
+{
+ "1a": {
+  "speaker": "Jamie",
+  "en": "Then, on June 6, 1991, the accident happened.",
+  "ps1": [
+   "B260_c11f22"
+  ],
+  "cards": [
+   "Then, on June 6, 1991,|the accident happened."
+  ],
+  "layout": "plain"
+ },
+ "1b": {
+  "speaker": "Jamie",
+  "en": "A huge explosion struck Chernoton Laboratory. The cause was unknown. A germ weapon under development escaped into the air. It destroyed the nation and the project.",
+  "ps1": [
+   "B260_c11f13",
+   "B260_c11f13b",
+   "B260_c11f13c",
+   "B260_c11f13d"
+  ],
+  "cards": [
+   "A huge explosion struck|Chernoton Laboratory.",
+   "The cause was unknown.",
+   "A germ weapon under|development escaped into the air.",
+   "It destroyed the nation|and the project."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.7,
+   4.4,
+   7.54
+  ]
+ },
+ "1c": {
+  "speaker": "Jamie",
+  "en": "Gillian, was that your doing?",
+  "ps1": [
+   "B250_c11f44"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Gillian, was that your|doing?"
+  ]
+ },
+ "1d": {
+  "speaker": "Gillian",
+  "en": "That's impossible! I caused the Catastrophe?",
+  "ps1": [
+   "B260_c11f45"
+  ],
+  "layout": "plain",
+  "cards": [
+   "That's impossible! I|caused the Catastrophe?"
+  ]
+ },
+ "1e": {
+  "speaker": "Jamie",
+  "en": "During the chaos of the Catastrophe, the American government miraculously rescued Dr. Petrovich and our son Harry.",
+  "ps1": [
+   "B260_c11f19",
+   "B260_c11f19b",
+   "B260_c11f19c"
+  ],
+  "cards": [
+   "During the chaos of the|Catastrophe,",
+   "the American government|miraculously rescued Dr. Petrovich",
+   "and our son Harry."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.44,
+   6.32
+  ]
+ },
+ "1f": {
+  "speaker": "Jamie",
+  "en": "The three of us failed to escape: you, me and Elijah.",
+  "ps1": [
+   "B260_c11f30",
+   "B260_c11f30b"
+  ],
+  "cards": [
+   "The three of us failed|to escape: you, me and Elijah."
+  ],
+  "layout": "plain"
+ },
+ "20": {
+  "speaker": "Jamie",
+  "en": "We entered cold sleep in a shelter beneath the Kremlin, until the bacteria would become harmless.",
+  "ps1": [
+   "B260_c11f16",
+   "B260_c11f16b"
+  ],
+  "cards": [
+   "We entered cold sleep|in a shelter beneath the Kremlin,",
+   "until the bacteria|would become harmless."
+  ],
+  "layout": "plain",
+  "turns": [
+   5.36
+  ]
+ },
+ "21": {
+  "speaker": "Gillian",
+  "en": "Fifty years later, three years ago, the 17th expedition found us.",
+  "ps1": [
+   "B260_c11f23",
+   "B260_c11f23b"
+  ],
+  "cards": [
+   "Fifty years later,|three years ago,",
+   "the 17th expedition|found us."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.34
+  ]
+ },
+ "22": {
+  "speaker": "Jamie",
+  "en": "Elijah's pod was already empty when we were rescued.",
+  "ps1": [
+   "B260_c11f31"
+  ],
+  "cards": [
+   "Elijah's pod was|already empty when we were rescued."
+  ],
+  "layout": "plain"
+ },
+ "23": {
+  "speaker": "Gillian",
+  "en": "Elijah Madnar? The man in the chapel? The one who looked like Randam?",
+  "ps1": [
+   "B260_c11f33",
+   "B260_c11f33b"
+  ],
+  "cards": [
+   "Elijah Madnar? The|man in the chapel?",
+   "The one who looked|like Randam?"
+  ],
+  "layout": "plain",
+  "turns": [
+   2.7
+  ]
+ },
+ "24": {
+  "speaker": "Jamie",
+  "en": "Yes, Elijah is alive!",
+  "ps1": [
+   "B260_c11f46"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Yes, Elijah is alive!"
+  ]
+ },
+ "25": {
+  "speaker": "Jamie",
+  "en": "Elijah Madnar is here, with the Snatchers...",
+  "ps1": [
+   "B260_c11f38"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Elijah Madnar is here,|with the Snatchers..."
+  ]
+ },
+ "26": {
+  "speaker": "Madnar",
+  "en": "I'll tell you the rest.",
+  "ps1": [
+   "B260_c11f39"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I'll tell you the rest."
+  ]
+ },
+ "27": {
+  "speaker": "Gillian",
+  "en": "Who?!",
+  "ps1": [
+   "B260_c11f51"
+  ],
+  "cards": [
+   "Who?!"
+  ],
+  "layout": "plain"
+ },
+ "28": {
+  "speaker": "Madnar",
+  "en": "It's been a long time, Jamie. And you, Gillian.",
+  "ps1": [
+   "B250_c11f26"
+  ],
+  "layout": "plain",
+  "cards": [
+   "It's been a long time,|Jamie. And you, Gillian."
+  ]
+ },
+ "29": {
+  "speaker": "Madnar",
+  "en": "It's me, Jamie.",
+  "ps1": [
+   "B250_c11f48"
+  ],
+  "layout": "plain",
+  "cards": [
+   "It's me, Jamie."
+  ]
+ },
+ "2a": {
+  "speaker": "Jamie",
+  "en": "Elijah? Is that you?",
+  "ps1": [
+   "B260_c11f40"
+  ],
+  "cards": [
+   "Elijah? Is that you?"
+  ],
+  "layout": "plain"
+ },
+ "2b": {
+  "speaker": "Gillian",
+  "en": "Randam? No, that's not him.",
+  "ps1": [
+   "B260_c11f34",
+   "B260_c11f34b"
+  ],
+  "cards": [
+   "Randam? No, that's|not him."
+  ],
+  "layout": "plain"
+ },
+ "2c": {
+  "speaker": "Madnar",
+  "en": "You remember me? I am Elijah Madnar, Petrovich Madnar's only son. Elijah himself. Though I've grown old and frail.",
+  "ps1": [
+   "B260_c11f2",
+   "B260_c11f2b",
+   "B260_c11f2c"
+  ],
+  "layout": "plain",
+  "cards": [
+   "You remember me?",
+   "I am Elijah Madnar,|Petrovich Madnar's only son.",
+   "Elijah himself. Though|I've grown old and frail."
+  ],
+  "turns": [
+   3.62,
+   11.5
+  ]
+ },
+ "2d": {
+  "speaker": "Jamie",
+  "en": "Elijah, why would you do this? Dr. Petrovich just died.",
+  "ps1": [
+   "B260_c11f17",
+   "B260_c11f17b"
+  ],
+  "cards": [
+   "Elijah, why would you|do this? Dr. Petrovich just died."
+  ],
+  "layout": "plain"
+ },
+ "2e": {
+  "speaker": "Madnar",
+  "en": "What? My father? I see. My father is dead.",
+  "ps1": [
+   "B260_c11f18",
+   "B260_c11f18b"
+  ],
+  "cards": [
+   "What? My father? I see.|My father is dead."
+  ],
+  "layout": "plain"
+ },
+ "2f": {
+  "speaker": "Jamie",
+  "en": "Elijah, what happened to you? You were never capable of anything like this.",
+  "ps1": [
+   "B260_c12f24",
+   "B260_c12f24b"
+  ],
+  "cards": [
+   "Elijah, what happened|to you?",
+   "You were never capable|of anything like this."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.44
+  ]
+ },
+ "30": {
+  "speaker": "Madnar",
+  "en": "Forty years have changed me, too.",
+  "ps1": [
+   "B260_c12f26"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Forty years have|changed me, too."
+  ]
+ },
+ "31": {
+  "speaker": "Jamie",
+  "en": "I can't believe it. Why?",
+  "ps1": [
+   "B250_c12f29",
+   "B250_c12f29b"
+  ],
+  "cards": [
+   "I can't believe it. Why?"
+  ],
+  "layout": "plain"
+ },
+ "32": {
+  "speaker": "Madnar",
+  "en": "Why make me say it, Jamie?",
+  "ps1": [
+   "B260_c12f21"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Why make me say it,|Jamie?"
+  ]
+ },
+ "33": {
+  "speaker": "Madnar",
+  "en": "It was all because of you, Jamie. Your beauty.",
+  "ps1": [
+   "B260_c12f22"
+  ],
+  "layout": "plain",
+  "cards": [
+   "It was all because of|you, Jamie. Your beauty."
+  ]
+ },
+ "34": {
+  "speaker": "Madnar",
+  "en": "Fifty years ago in Moscow, I was obsessed. With my research, and with you, Jamie.",
+  "ps1": [
+   "B260_c12f8",
+   "B260_c12f8b"
+  ],
+  "cards": [
+   "Fifty years ago in|Moscow, I was obsessed.",
+   "With my research, and|with you, Jamie."
+  ],
+  "layout": "plain",
+  "turns": [
+   7.74
+  ]
+ },
+ "35": {
+  "speaker": "Madnar",
+  "en": "I was still young, an electronics research student just starting out. My father's connections got me into the Snatcher Project. That's where I met you, Jamie. You were my father Petrovich's assistant.",
+  "ps1": [
+   "B260_c12f2",
+   "B260_c12f2b",
+   "B260_c12f2c",
+   "B260_c12f2d",
+   "B260_c12f2e"
+  ],
+  "cards": [
+   "I was still young,",
+   "an electronics research|student just starting out.",
+   "My father's connections|got me into the Snatcher Project.",
+   "That's where I met you,|Jamie.",
+   "You were my father|Petrovich's assistant."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.9,
+   10.02,
+   13.22,
+   16.96
+  ]
+ },
+ "36": {
+  "speaker": "Madnar",
+  "en": "Your beauty captivated me, Jamie. Your smile filled my heart. You had something the women of the East didn't.",
+  "ps1": [
+   "B260_c12f10",
+   "B260_c12f10b"
+  ],
+  "cards": [
+   "Your beauty captivated|me, Jamie.",
+   "Your smile filled my|heart.",
+   "You had something the|women of the East didn't."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.3,
+   8.68
+  ]
+ },
+ "37": {
+  "speaker": "Madnar",
+  "en": "I was young and withdrawn, but you slowly opened my heart. I couldn't stop my feelings.",
+  "ps1": [
+   "B260_c12f11",
+   "B260_c12f11b"
+  ],
+  "cards": [
+   "I was young and|withdrawn,",
+   "but you slowly opened|my heart.",
+   "I couldn't stop my|feelings."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.4,
+   9.16
+  ]
+ },
+ "38": {
+  "speaker": "Jamie",
+  "en": "Gillian...",
+  "ps1": [
+   "B250_c12f32"
+  ],
+  "cards": [
+   "Gillian..."
+  ],
+  "layout": "plain"
+ },
+ "39": {
+  "speaker": "Madnar",
+  "en": "I was happy. Despite all the political turmoil, every day was fulfilling. My father trusted me. Jamie watched over me. I worked desperately to complete my research.",
+  "ps1": [
+   "B260_c12f1",
+   "B260_c12f1b",
+   "B260_c12f1c",
+   "B260_c12f1cb"
+  ],
+  "cards": [
+   "I was happy.",
+   "Despite all the|political turmoil,",
+   "every day was|fulfilling. My father trusted me.",
+   "Jamie watched over me.",
+   "I worked desperately to|complete my research."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.86,
+   8.9,
+   16.12,
+   20.52
+  ]
+ },
+ "3a": {
+  "speaker": "Madnar",
+  "en": "But even that small happiness didn't last.",
+  "ps1": [
+   "B260_c12f18"
+  ],
+  "layout": "plain",
+  "cards": [
+   "But even that small|happiness didn't last."
+  ]
+ },
+ "3b": {
+  "speaker": "Madnar",
+  "en": "You appeared, Gillian. You came into our lives. And everything fell apart.",
+  "ps1": [
+   "B260_c12f14",
+   "B260_c12f14b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "You appeared, Gillian.|You came into our lives.",
+   "And everything fell|apart."
+  ],
+  "turns": [
+   8.84
+  ]
+ },
+ "3c": {
+  "speaker": "Madnar",
+  "en": "You joined our project, Gillian.",
+  "ps1": [
+   "B260_c12f27"
+  ],
+  "cards": [
+   "You joined our project,|Gillian."
+  ],
+  "layout": "plain"
+ },
+ "3d": {
+  "speaker": "Madnar",
+  "en": "Far from home, Jamie quickly grew close to Gillian, her fellow countryman.",
+  "ps1": [
+   "B260_c12f19",
+   "B260_c12f19b"
+  ],
+  "cards": [
+   "Far from home, Jamie|quickly grew close to Gillian,",
+   "her fellow countryman."
+  ],
+  "layout": "plain",
+  "turns": [
+   6.76
+  ]
+ },
+ "3e": {
+  "speaker": "Madnar",
+  "en": "All I could do was watch from the shadows as you two grew closer.",
+  "ps1": [
+   "B260_c12f23",
+   "B260_c12f23b"
+  ],
+  "cards": [
+   "All I could do was|watch",
+   "from the shadows as you|two grew closer."
+  ],
+  "layout": "plain",
+  "turns": [
+   5.14
+  ]
+ },
+ "3f": {
+  "speaker": "Madnar",
+  "en": "You and Jamie fell in love, married and had a child.",
+  "ps1": [
+   "B260_c12f15"
+  ],
+  "cards": [
+   "You and Jamie fell in|love, married and had a child."
+  ],
+  "layout": "plain"
+ },
+ "40": {
+  "speaker": "Jamie",
+  "en": "Harry.",
+  "ps1": [
+   "B260_c12f30"
+  ],
+  "cards": [
+   "Harry."
+  ],
+  "layout": "plain"
+ },
+ "41": {
+  "speaker": "Madnar",
+  "en": "Even so, my feelings only grew stronger. My father worried about me. He tried to take me off the project, but I wouldn't let go.",
+  "ps1": [
+   "B260_c12f9",
+   "B260_c12f9b",
+   "B260_c12f9bb"
+  ],
+  "cards": [
+   "Even so, my feelings|only grew stronger.",
+   "My father worried about|me.",
+   "He tried to take me off|the project, but I wouldn't let go."
+  ],
+  "layout": "plain",
+  "turns": [
+   6.22,
+   8.5
+  ]
+ },
+ "42": {
+  "speaker": "Madnar",
+  "en": "I wanted to be near you, Jamie.",
+  "ps1": [
+   "B260_c12f28"
+  ],
+  "cards": [
+   "I wanted to be near|you, Jamie."
+  ],
+  "layout": "plain"
+ },
+ "43": {
+  "speaker": "Madnar",
+  "en": "That year, the wave of democracy that swept Eastern Europe spread throughout our country.",
+  "ps1": [
+   "B260_c12f17",
+   "B260_c12f17b",
+   "B260_c12f17bb"
+  ],
+  "cards": [
+   "That year, the wave of|democracy that swept",
+   "Eastern Europe spread|throughout our country."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.42
+  ]
+ },
+ "44": {
+  "speaker": "Madnar",
+  "en": "The Cold War between East and West ended. The conservatives behind the project lost power. The Frankenstein Project was canceled.",
+  "ps1": [
+   "B260_c12f12",
+   "B260_c12f12b",
+   "B260_c12f12bb"
+  ],
+  "cards": [
+   "The Cold War between|East and West ended.",
+   "The conservatives|behind the project lost power.",
+   "The Frankenstein|Project was canceled."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.88,
+   9.04
+  ]
+ },
+ "45": {
+  "speaker": "Madnar",
+  "en": "The reformist leaders wanted to hide this insane project. They ordered us to dispose of all our research materials. Then they planned to put us on trial.",
+  "ps1": [
+   "B260_c12f5",
+   "B260_c12f5b",
+   "B260_c12f5bc",
+   "B260_c12f5c"
+  ],
+  "cards": [
+   "The reformist leaders|wanted to hide this insane project.",
+   "They ordered us to|dispose",
+   "of all our research|materials.",
+   "Then they planned to|put us on trial."
+  ],
+  "layout": "plain",
+  "turns": [
+   6.2,
+   9.32,
+   12.22
+  ]
+ },
+ "46": {
+  "speaker": "Madnar",
+  "en": "You and Gillian were to be sent back to your country.",
+  "ps1": [
+   "B260_c12f25"
+  ],
+  "layout": "plain",
+  "cards": [
+   "You and Gillian were to|be sent back to your country."
+  ]
+ },
+ "47": {
+  "speaker": "Madnar",
+  "en": "That's when I learned you were a CIA agent, Gillian. And you, Gillian, were planning to secretly hand our research over to your country's military. It was a cash deal with your government.",
+  "ps1": [
+   "B260_c12f3",
+   "B260_c12f3c",
+   "B260_c12f3cb",
+   "B260_c12f3cbb",
+   "B260_c12f3f"
+  ],
+  "layout": "plain",
+  "cards": [
+   "That's when I learned|you were a CIA agent, Gillian.",
+   "And you, Gillian, were|planning to secretly hand",
+   "our research over to|your country's military.",
+   "It was a cash deal with|your government."
+  ],
+  "turns": [
+   4.6,
+   9.96,
+   19.06
+  ]
+ },
+ "48": {
+  "speaker": "Madnar",
+  "en": "I wasn't a politician. I didn't care what happened to the state. My research and Jamie were my whole world.",
+  "ps1": [
+   "B260_c12f13",
+   "B260_c12f13b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I wasn't a politician.",
+   "I didn't care what|happened to the state.",
+   "My research and Jamie|were my whole world."
+  ],
+  "turns": [
+   3.34,
+   6.6
+  ]
+ },
+ "49": {
+  "speaker": "Madnar",
+  "en": "I was about to lose it all. You can't imagine the shock that was to a young man.",
+  "ps1": [
+   "B260_c12f16",
+   "B260_c12f16b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I was about to lose it|all.",
+   "You can't imagine the|shock that was to a young man."
+  ],
+  "turns": [
+   5.22
+  ]
+ },
+ "4a": {
+  "speaker": "Jamie",
+  "en": "Gillian...",
+  "ps1": [
+   "B250_c12f32"
+  ],
+  "cards": [
+   "Gillian..."
+  ],
+  "layout": "plain"
+ },
+ "4b": {
+  "speaker": "Madnar",
+  "en": "That's when I decided to carry out the insane plan I'd been developing in secret.",
+  "ps1": [
+   "B260_c12f20",
+   "B260_c12f20b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "That's when I decided",
+   "to carry out the insane|plan I'd been developing in secret."
+  ],
+  "turns": [
+   3.28
+  ]
+ },
+ "4c": {
+  "speaker": "Madnar",
+  "en": "The bioroids were 80 percent complete. The core endoskeleton was nearly finished. but the artificial skin was not. That was my work, and Jamie's.",
+  "ps1": [
+   "B260_c12f6",
+   "B260_c12f6b",
+   "B260_c12f6bb",
+   "B260_c12f6e"
+  ],
+  "cards": [
+   "The bioroids were 80|percent complete.",
+   "The core endoskeleton|was nearly finished.",
+   "but the artificial skin|was not.",
+   "That was my work, and|Jamie's."
+  ],
+  "layout": "plain",
+  "turns": [
+   5.54,
+   10.28,
+   14.62
+  ]
+ },
+ "4d": {
+  "speaker": "Madnar",
+  "en": "Artificial skin didn't need T lymphocytes, Langerhans cells or endocrine cells. We needed keratinocytes and pigment cells: melanocytes.",
+  "ps1": [
+   "B260_c12f4",
+   "B260_c12f4b",
+   "B260_c12f4c",
+   "B260_c12f4cb"
+  ],
+  "cards": [
+   "Artificial skin didn't|need T lymphocytes,",
+   "Langerhans cells or|endocrine cells.",
+   "We needed keratinocytes|and pigment cells: melanocytes."
+  ],
+  "layout": "plain",
+  "turns": [
+   7.62,
+   12.6
+  ]
+ },
+ "4e": {
+  "speaker": "Madnar",
+  "en": "Artificial protein technology was too limited back then. Synthesizing real cells was extremely difficult. Research like that took years.",
+  "ps1": [
+   "B260_c12f7",
+   "B260_c12f7b",
+   "B260_c12f7d"
+  ],
+  "cards": [
+   "Artificial protein|technology",
+   "was too limited back|then.",
+   "Synthesizing real cells|was extremely difficult.",
+   "Research like that took|years."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.08,
+   6.08,
+   12.08
+  ]
+ },
+ "4f": {
+  "speaker": "Madnar",
+  "en": "The original plan was to Snatch an entire country at once. We had to replace a whole nation or city in a single night.",
+  "ps1": [
+   "B260_c13f1",
+   "B260_c13f1b",
+   "B260_c13f1d",
+   "B260_c13f1e"
+  ],
+  "cards": [
+   "The original plan was",
+   "to Snatch an entire|country at once.",
+   "We had to replace a|whole nation",
+   "or city in a single|night."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.58,
+   9.48,
+   14.78
+  ]
+ },
+ "50": {
+  "speaker": "Madnar",
+  "en": "So another team was developing a germ weapon alongside the Snatchers. Reliable and fast-acting, able to kill an entire population in an instant.",
+  "ps1": [
+   "B260_c13f10",
+   "B260_c13f10b",
+   "B260_c13f10bb",
+   "B260_c13f10bc"
+  ],
+  "cards": [
+   "So another team was|developing a",
+   "germ weapon alongside|the Snatchers.",
+   "Reliable and|fast-acting,",
+   "able to kill an entire|population in an instant."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.14,
+   6.94,
+   9.02
+  ]
+ },
+ "51": {
+  "speaker": "Gillian",
+  "en": "Lucifer Alpha.",
+  "ps1": [
+   "B260_c13f34"
+  ],
+  "cards": [
+   "Lucifer Alpha."
+  ],
+  "layout": "plain"
+ },
+ "52": {
+  "speaker": "Madnar",
+  "en": "Exactly. The RA011 virus, developed by another team.",
+  "ps1": [
+   "B260_c13f12"
+  ],
+  "cards": [
+   "Exactly. The RA011|virus, developed by another team."
+  ],
+  "layout": "plain"
+ },
+ "53": {
+  "speaker": "Madnar",
+  "en": "As an insider, I could easily blow up the laboratory.",
+  "ps1": [
+   "B260_c13f19"
+  ],
+  "cards": [
+   "As an insider, I could|easily blow up the laboratory."
+  ],
+  "layout": "plain"
+ },
+ "54": {
+  "speaker": "Jamie",
+  "en": "How could you? Half the world died because of you!",
+  "ps1": [
+   "B260_c13f23"
+  ],
+  "cards": [
+   "How could you? Half the|world died because of you!"
+  ],
+  "layout": "plain"
+ },
+ "55": {
+  "speaker": "Madnar",
+  "en": "On June 6, I acted, after moving the bioroid research materials and records into the shelter.",
+  "ps1": [
+   "B260_c13f9",
+   "B260_c13f9b",
+   "B260_c13f9bb"
+  ],
+  "cards": [
+   "On June 6, I acted,|after moving the bioroid",
+   "research materials and|records into the shelter."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.68
+  ]
+ },
+ "56": {
+  "speaker": "Madnar",
+  "en": "After I sealed off the institute, I entered cold sleep in an underground shelter with you two, who had failed to escape. I left a satellite to monitor the atmosphere. We would wake automatically when Lucifer Alpha became harmless.",
+  "ps1": [
+   "B260_c13f3",
+   "B260_c13f3b",
+   "B260_c13f3c",
+   "B260_c13f3d",
+   "B260_c13f3g",
+   "B260_c13f3gb"
+  ],
+  "cards": [
+   "After I sealed off the|institute,",
+   "I entered cold sleep in|an underground shelter",
+   "with you two, who had|failed to escape.",
+   "I left a satellite to|monitor the atmosphere.",
+   "We would wake|automatically",
+   "when Lucifer Alpha|became harmless."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.32,
+   9.2,
+   9.9,
+   13.32,
+   16.56
+  ]
+ },
+ "57": {
+  "speaker": "Madnar",
+  "en": "After ten years, Lucifer mutated naturally.",
+  "ps1": [
+   "B260_c13f25"
+  ],
+  "cards": [
+   "After ten years,|Lucifer mutated naturally."
+  ],
+  "layout": "plain"
+ },
+ "58": {
+  "speaker": "Jamie",
+  "en": "But the automatic revival system didn't work.",
+  "ps1": [
+   "B260_c13f29"
+  ],
+  "cards": [
+   "But the automatic|revival system didn't work."
+  ],
+  "layout": "plain"
+ },
+ "59": {
+  "speaker": "Madnar",
+  "en": "No, it worked. I woke exactly ten years later. Before you two, Gillian.",
+  "ps1": [
+   "B260_c13f7",
+   "B260_c13f7b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "No, it worked. I woke|exactly ten years later.",
+   "Before you two, Gillian."
+  ],
+  "turns": [
+   10.82
+  ]
+ },
+ "5a": {
+  "speaker": "Gillian",
+  "en": "Even sealed off, how did you avoid infection?",
+  "ps1": [
+   "B260_c13f30"
+  ],
+  "cards": [
+   "Even sealed off, how|did you avoid infection?"
+  ],
+  "layout": "plain"
+ },
+ "5b": {
+  "speaker": "Madnar",
+  "en": "The vaccine, L-Angels, was already complete.",
+  "ps1": [
+   "B250_c13f26"
+  ],
+  "cards": [
+   "The vaccine, L-Angels,|was already complete."
+  ],
+  "layout": "plain"
+ },
+ "5c": {
+  "speaker": "Gillian",
+  "en": "Then all of it...",
+  "ps1": [
+   "B260_c13f35"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Then all of it..."
+  ]
+ },
+ "5d": {
+  "speaker": "Madnar",
+  "en": "Everything went according to plan. My real struggle began afterward.",
+  "ps1": [
+   "B260_c13f20",
+   "B260_c13f20b"
+  ],
+  "cards": [
+   "Everything went|according to plan.",
+   "My real struggle began|afterward."
+  ],
+  "layout": "plain",
+  "turns": [
+   5.32
+  ]
+ },
+ "5e": {
+  "speaker": "Madnar",
+  "en": "I planned to wake only Jamie, so we could finish the bioroids together. You would sleep forever, Gillian.",
+  "ps1": [
+   "B260_c13f8",
+   "B260_c13f8b",
+   "B260_c13f8d"
+  ],
+  "cards": [
+   "I planned to wake only|Jamie,",
+   "so we could finish the|bioroids together.",
+   "You would sleep|forever, Gillian."
+  ],
+  "layout": "plain",
+  "turns": [
+   5.38,
+   10.4
+  ]
+ },
+ "5f": {
+  "speaker": "Madnar",
+  "en": "But I couldn't do it. Not with Jamie sleeping so peacefully.",
+  "ps1": [
+   "B260_c13f14",
+   "B260_c13f14b"
+  ],
+  "cards": [
+   "But I couldn't do it.",
+   "Not with Jamie sleeping|so peacefully."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.0
+  ]
+ },
+ "60": {
+  "speaker": "Madnar",
+  "en": "And back then, I couldn't have persuaded Jamie. It wasn't time yet. I reset your timers to infinity.",
+  "ps1": [
+   "B260_c13f4",
+   "B260_c13f4b"
+  ],
+  "cards": [
+   "And back then, I|couldn't have persuaded Jamie.",
+   "It wasn't time yet. I|reset your timers to infinity."
+  ],
+  "layout": "plain",
+  "turns": [
+   9.32
+  ]
+ },
+ "61": {
+  "speaker": "Gillian",
+  "en": "How could you?",
+  "ps1": [
+   "B260_c13f36"
+  ],
+  "cards": [
+   "How could you?"
+  ],
+  "layout": "plain"
+ },
+ "62": {
+  "speaker": "Madnar",
+  "en": "For forty years, I worked alone in the darkness beneath the Kremlin, developing the bioroids' artificial skin.",
+  "ps1": [
+   "B260_c13f6",
+   "B260_c13f6b",
+   "B260_c13f6c"
+  ],
+  "cards": [
+   "For forty years,",
+   "I worked alone in the|darkness beneath the Kremlin,",
+   "developing the|bioroids' artificial skin."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.46,
+   12.18
+  ]
+ },
+ "63": {
+  "speaker": "Madnar",
+  "en": "Day after day, no visitors. No sunlight. No changing colors of the seasons.",
+  "ps1": [
+   "B260_c13f11",
+   "B260_c13f11b"
+  ],
+  "cards": [
+   "Day after day, no|visitors. No sunlight.",
+   "No changing colors of|the seasons."
+  ],
+  "layout": "plain",
+  "turns": [
+   6.72
+  ]
+ },
+ "64": {
+  "speaker": "Madnar",
+  "en": "But Jamie was always sleeping beside me. I spoke to you for forty years, in that dark underground shelter.",
+  "ps1": [
+   "B260_c13f5",
+   "B260_c13f5b",
+   "B260_c13f5c"
+  ],
+  "cards": [
+   "But Jamie was always|sleeping beside me.",
+   "I spoke to you for|forty years,",
+   "in that dark|underground shelter."
+  ],
+  "layout": "plain",
+  "turns": [
+   8.02,
+   13.64
+  ]
+ },
+ "65": {
+  "speaker": "Jamie",
+  "en": "That's so sad.",
+  "ps1": [
+   "B260_c13f27"
+  ],
+  "cards": [
+   "That's so sad."
+  ],
+  "layout": "plain"
+ },
+ "66": {
+  "speaker": "Madnar",
+  "en": "Three years ago, I finally completed my research.",
+  "ps1": [
+   "B260_c13f24"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Three years ago, I|finally completed my research."
+  ]
+ },
+ "67": {
+  "speaker": "Madnar",
+  "en": "First, I Snatched the Siberian search team to secure a route for transporting the bioroids.",
+  "ps1": [
+   "B260_c13f16",
+   "B260_c13f16b",
+   "B260_c13f16bb"
+  ],
+  "layout": "plain",
+  "cards": [
+   "First, I Snatched the|Siberian search team",
+   "to secure a route for|transporting the bioroids."
+  ],
+  "turns": [
+   5.18
+  ]
+ },
+ "68": {
+  "speaker": "Madnar",
+  "en": "I chose Neo Kobe City as my first test of the Snatchers.",
+  "ps1": [
+   "B260_c13f13"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I chose Neo Kobe City|as my first test of the Snatchers."
+  ]
+ },
+ "69": {
+  "speaker": "Madnar",
+  "en": "Neo Kobe was cut off from the outside world. Ideal for simulating a miniature nation. Its mix of ethnic groups also made it ideal for gathering a wide range of data on Snatching.",
+  "ps1": [
+   "B260_c13f2",
+   "B260_c13f2b",
+   "B260_c13f2c",
+   "B260_c13f2cb"
+  ],
+  "cards": [
+   "Neo Kobe was cut off|from the outside world.",
+   "Ideal for simulating a|miniature nation.",
+   "Its mix of ethnic|groups also made it ideal",
+   "for gathering a wide|range of data on Snatching."
+  ],
+  "layout": "plain",
+  "turns": [
+   5.02,
+   11.16,
+   14.72
+  ]
+ },
+ "6a": {
+  "speaker": "Madnar",
+  "en": "Another reason was Japanese culture itself, with its deep suspicion of others.",
+  "ps1": [
+   "B260_c13f17",
+   "B260_c13f17b"
+  ],
+  "cards": [
+   "Another reason was|Japanese culture itself,",
+   "with its deep suspicion|of others."
+  ],
+  "layout": "plain",
+  "turns": [
+   6.48
+  ]
+ },
+ "6b": {
+  "speaker": "Madnar",
+  "en": "But the test exposed a flaw in the artificial skin.",
+  "ps1": [
+   "B260_c13f31"
+  ],
+  "layout": "plain",
+  "cards": [
+   "But the test exposed a|flaw in the artificial skin."
+  ]
+ },
+ "6c": {
+  "speaker": "Madnar",
+  "en": "It was completely unexpected. I'd spent forty years on that research.",
+  "ps1": [
+   "B260_c13f21",
+   "B260_c13f21b"
+  ],
+  "cards": [
+   "It was completely|unexpected.",
+   "I'd spent forty years|on that research."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.72
+  ]
+ },
+ "6d": {
+  "speaker": "Madnar",
+  "en": "I gathered data and tried to find a solution. But nothing worked.",
+  "ps1": [
+   "B260_c13f18",
+   "B260_c13f18b"
+  ],
+  "cards": [
+   "I gathered data and|tried to find a solution.",
+   "But nothing worked."
+  ],
+  "layout": "plain",
+  "turns": [
+   6.9
+  ]
+ },
+ "6e": {
+  "speaker": "Jamie",
+  "en": "So that's why you brought Dr. Petrovich here.",
+  "ps1": [
+   "B250_c13f32"
+  ],
+  "cards": [
+   "So that's why you|brought Dr. Petrovich here."
+  ],
+  "layout": "plain"
+ },
+ "6f": {
+  "speaker": "Madnar",
+  "en": "Yes. I found my father in a state hospital. He was old, but his mind was sharp.",
+  "ps1": [
+   "B260_c13f15",
+   "B260_c13f15b"
+  ],
+  "cards": [
+   "Yes. I found my father|in a state hospital.",
+   "He was old, but his|mind was sharp."
+  ],
+  "layout": "plain",
+  "turns": [
+   6.04
+  ]
+ },
+ "70": {
+  "speaker": "Madnar",
+  "en": "Of course, my father refused to help.",
+  "ps1": [
+   "B260_c13f28"
+  ],
+  "cards": [
+   "Of course, my father|refused to help."
+  ],
+  "layout": "plain"
+ },
+ "71": {
+  "speaker": "Jamie",
+  "en": "Of course he refused. The doctor would never...",
+  "ps1": [
+   "B260_c13f33"
+  ],
+  "cards": [
+   "Of course he refused.|The doctor would never..."
+  ],
+  "layout": "plain"
+ },
+ "72": {
+  "speaker": "Madnar",
+  "en": "Without my father's help, I decided to wake you.",
+  "ps1": [
+   "B260_c13f22"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Without my father's|help, I decided to wake you."
+  ]
+ },
+ "73": {
+  "speaker": "Madnar",
+  "en": "But a mistake put both you and Gillian in the government's hands.",
+  "ps1": [
+   "B260_c14f1",
+   "B260_c14f1b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "But a mistake put both|you",
+   "and Gillian in the|government's hands."
+  ],
+  "turns": [
+   3.84
+  ]
+ },
+ "74": {
+  "speaker": "Gillian",
+  "en": "What are you planning? This won't bring Jamie back!",
+  "ps1": [
+   "B260_c14f2"
+  ],
+  "layout": "plain",
+  "cards": [
+   "What are you|planning?",
+   "This won't bring|Jamie back!"
+  ],
+  "turns": [
+   2.46
+  ]
+ },
+ "75": {
+  "speaker": "Madnar",
+  "en": "I'm simply exploring what it means to be human. Jamie may have inspired me once, but not anymore.",
+  "ps1": [
+   "B260_c14f3",
+   "B260_c14f3b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I'm simply exploring|what it means to be human.",
+   "Jamie may have inspired|me once, but not anymore."
+  ],
+  "turns": [
+   7.06
+  ]
+ },
+ "76": {
+  "speaker": "Gillian",
+  "en": "Isn't that just a scientist's arrogance?",
+  "ps1": [
+   "B260_c14f4"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Isn't that just a|scientist's arrogance?"
+  ]
+ },
+ "77": {
+  "speaker": "Madnar",
+  "en": "Humans are fragile. Even the strongest trust crumbles under the slightest doubt.",
+  "ps1": [
+   "B260_c14f5",
+   "B260_c14f5b",
+   "B260_c14f5c"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Humans are fragile.",
+   "Even the strongest|trust crumbles",
+   "under the slightest|doubt."
+  ],
+  "turns": [
+   4.06,
+   9.52
+  ]
+ },
+ "78": {
+  "speaker": "Madnar",
+  "en": "Look how the Snatchers have shaken humanity. For all our scientific progress and lofty ideals, we still doubt, hate and kill each other.",
+  "ps1": [
+   "B260_c14f6",
+   "B260_c14f6b",
+   "B260_c14f6d"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Look how the Snatchers|have shaken humanity.",
+   "For all our scientific|progress and lofty ideals,",
+   "we still doubt, hate|and kill each other."
+  ],
+  "turns": [
+   5.54,
+   11.48
+  ]
+ },
+ "79": {
+  "speaker": "Madnar",
+  "en": "Snatchers are merely tools that bring that out.",
+  "ps1": [
+   "B260_c14f7"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Snatchers are merely|tools that bring that out."
+  ]
+ },
+ "7a": {
+  "speaker": "Madnar",
+  "en": "Through them, I simply reveal what lies within us.",
+  "ps1": [
+   "B260_c14f8"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Through them, I simply|reveal what lies within us."
+  ]
+ },
+ "7b": {
+  "speaker": "Madnar",
+  "en": "I think this experiment has shown me humanity's limits. Perhaps they can advance no further on their own.",
+  "ps1": [
+   "B260_c14f9",
+   "B260_c14f9b"
+  ],
+  "cards": [
+   "I think this experiment|has shown me humanity's limits.",
+   "Perhaps they can|advance no further on their own."
+  ],
+  "layout": "plain",
+  "turns": [
+   7.58
+  ]
+ },
+ "7c": {
+  "speaker": "Madnar",
+  "en": "To evolve further, humanity needs a perfect leader. A resolute leader, unmoved by petty doubts.",
+  "ps1": [
+   "B260_c14f10",
+   "B260_c14f10b"
+  ],
+  "cards": [
+   "To evolve further,|humanity needs a perfect leader.",
+   "A resolute leader,|unmoved by petty doubts."
+  ],
+  "layout": "plain",
+  "turns": [
+   9.58
+  ]
+ },
+ "7d": {
+  "speaker": "Gillian",
+  "en": "People will never follow Snatchers!",
+  "ps1": [
+   "B260_c14f11"
+  ],
+  "cards": [
+   "People will never|follow Snatchers!"
+  ],
+  "layout": "plain"
+ },
+ "7e": {
+  "speaker": "Madnar",
+  "en": "They will if they don't know what their leaders are. People have always sought an absolute god.",
+  "ps1": [
+   "B260_c14f12",
+   "B260_c14f12b"
+  ],
+  "cards": [
+   "They will if they don't|know what their leaders are.",
+   "People have always|sought an absolute god."
+  ],
+  "layout": "plain",
+  "turns": [
+   5.02
+  ]
+ },
+ "7f": {
+  "speaker": "Madnar",
+  "en": "Remove all doubt, and Snatchers can be their gods. A superior humanity made flesh.",
+  "ps1": [
+   "B260_c14f13",
+   "B260_c14f13b"
+  ],
+  "cards": [
+   "Remove all doubt, and|Snatchers can be their gods.",
+   "A superior humanity|made flesh."
+  ],
+  "layout": "plain",
+  "turns": [
+   9.54
+  ]
+ },
+ "80": {
+  "speaker": "Madnar",
+  "en": "I'm so close. Once the artificial skin is complete, Snatchers will surpass humanity and become true human beings.",
+  "ps1": [
+   "B260_c14f14",
+   "B260_c14f14b",
+   "B260_c14f14c",
+   "B260_c14f14cb"
+  ],
+  "cards": [
+   "I'm so close.",
+   "Once the artificial|skin is complete, Snatchers",
+   "will surpass humanity|and become true human beings."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.0,
+   8.38
+  ]
+ },
+ "81": {
+  "speaker": "Jamie",
+  "en": "Perfect artificial skin is impossible. Dr. Petrovich is dead.",
+  "ps1": [
+   "B260_c14f15"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Perfect artificial skin|is impossible.",
+   "Dr. Petrovich is dead."
+  ],
+  "turns": [
+   3.8
+  ]
+ },
+ "82": {
+  "speaker": "Madnar",
+  "en": "I no longer need my father. I have a sample he made. Once I've analyzed it, I can mass-produce perfect artificial skin in any quantity I need.",
+  "ps1": [
+   "B260_c14f16",
+   "B260_c14f16b",
+   "B260_c14f16c",
+   "B260_c14f16cb"
+  ],
+  "cards": [
+   "I no longer need my|father. I have a sample he made.",
+   "Once I've analyzed it,|I can mass-produce",
+   "perfect artificial skin|in any quantity I need."
+  ],
+  "layout": "plain",
+  "turns": [
+   6.86,
+   10.08
+  ]
+ },
+ "83": {
+  "speaker": "Madnar",
+  "en": "Or I can simply culture the necessary cells: keratinocytes, epithelial cells and pigment cells, then multiply them.",
+  "ps1": [
+   "B260_c14f17",
+   "B260_c14f17b",
+   "B260_c14f17bb"
+  ],
+  "cards": [
+   "Or I can simply culture|the necessary cells: keratinocytes,",
+   "epithelial cells and|pigment cells, then multiply them."
+  ],
+  "layout": "plain",
+  "turns": [
+   6.68
+  ]
+ },
+ "84": {
+  "speaker": "Gillian",
+  "en": "What are you talking about? Where's this perfect skin?",
+  "ps1": [
+   "B260_c14f18"
+  ],
+  "cards": [
+   "What are you talking|about? Where's this perfect skin?"
+  ],
+  "layout": "plain"
+ },
+ "85": {
+  "speaker": "Madnar",
+  "en": "Look at this.",
+  "ps1": [
+   "B250_c14f19"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Look at this."
+  ]
+ },
+ "86": {
+  "speaker": "Madnar",
+  "en": "It was found in the ruins of Queen Hospital.",
+  "ps1": [
+   "B260_c14f20"
+  ],
+  "cards": [
+   "It was found in the|ruins of Queen Hospital."
+  ],
+  "layout": "plain"
+ },
+ "87": {
+  "speaker": "Gillian",
+  "en": "Randam!",
+  "ps1": [
+   "B1F0_r_12"
+  ],
+  "cards": [
+   "Randam!"
+  ],
+  "layout": "plain"
+ },
+ "88": {
+  "speaker": "Madnar",
+  "en": "Ah, so you do know him.",
+  "ps1": [
+   "B260_c14f22"
+  ],
+  "cards": [
+   "Ah, so you do know him."
+  ],
+  "layout": "plain"
+ },
+ "89": {
+  "speaker": "Gillian",
+  "en": "He's a Snatcher?!",
+  "ps1": [
+   "B260_c14f23"
+  ],
+  "cards": [
+   "He's a Snatcher?!"
+  ],
+  "layout": "plain"
+ },
+ "8a": {
+  "speaker": "Madnar",
+  "en": "That's not quite accurate. My father secretly built that bioroid in the likeness of his son. Me.",
+  "ps1": [
+   "B260_c14f24",
+   "B260_c14f24b",
+   "B260_c14f24bb"
+  ],
+  "cards": [
+   "That's not quite|accurate.",
+   "My father secretly|built that bioroid",
+   "in the likeness of his|son. Me."
+  ],
+  "layout": "plain",
+  "turns": [
+   5.24,
+   10.98
+  ]
+ },
+ "8b": {
+  "speaker": "Madnar",
+  "en": "Here in this factory. He programmed it to destroy Snatchers.",
+  "ps1": [
+   "B260_c14f25"
+  ],
+  "cards": [
+   "Here in this factory.",
+   "He programmed it to|destroy Snatchers."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.98
+  ]
+ },
+ "8c": {
+  "speaker": "Madnar",
+  "en": "That bioroid gave me no end of trouble. It's far superior to my Snatchers.",
+  "ps1": [
+   "B260_c14f26",
+   "B260_c14f26b"
+  ],
+  "cards": [
+   "That bioroid gave me no|end of trouble.",
+   "It's far superior to my|Snatchers."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.32
+  ]
+ },
+ "8d": {
+  "speaker": "Madnar",
+  "en": "It believes it's human. He even gave it childhood memories. Ha! Copies of my memories, of course.",
+  "ps1": [
+   "B260_c14f27",
+   "B260_c14f27b",
+   "B260_c14f27c"
+  ],
+  "cards": [
+   "It believes it's human.|He even gave it childhood memories.",
+   "Ha! Copies of my|memories, of course."
+  ],
+  "layout": "plain",
+  "turns": [
+   9.2
+  ]
+ },
+ "8e": {
+  "speaker": "Madnar",
+  "en": "",
+  "ps1": [
+   "B260_c14f28",
+   "B260_c14f28b"
+  ]
+ },
+ "8f": {
+  "speaker": "Madnar",
+  "en": "Just like my father. That old fool easily made the skin I couldn't perfect in forty years. And a perfect bioroid that doesn't even know what it is.",
+  "ps1": [
+   "B260_c14f29",
+   "B260_c14f29b",
+   "B260_c14f29bb",
+   "B260_c14f29d"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Just like my father.",
+   "That old fool easily|made the skin",
+   "I couldn't perfect in|forty years.",
+   "And a perfect bioroid|that doesn't even know what it is."
+  ],
+  "turns": [
+   4.54,
+   6.36,
+   10.04
+  ]
+ },
+ "90": {
+  "speaker": "Madnar",
+  "en": "What's more, these cells regenerate themselves. Supply them once, and there's no need for further grafts of their own skin, or cultures.",
+  "ps1": [
+   "B260_c14f30",
+   "B260_c14f30b",
+   "B260_c14f30bb"
+  ],
+  "layout": "plain",
+  "cards": [
+   "What's more, these|cells regenerate themselves.",
+   "Supply them once, and|there's no need",
+   "for further grafts of|their own skin, or cultures."
+  ],
+  "turns": [
+   6.72,
+   9.2
+  ]
+ },
+ "91": {
+  "speaker": "Gillian",
+  "en": "Is he dead?",
+  "ps1": [
+   "B250_c14f31"
+  ],
+  "cards": [
+   "Is he dead?"
+  ],
+  "layout": "plain"
+ },
+ "92": {
+  "speaker": "Madnar",
+  "en": "Its power and main systems have shut down. It's just scrap. But I've kept the precious artificial skin alive.",
+  "ps1": [
+   "B260_c14f32",
+   "B260_c14f32b",
+   "B260_c14f32c"
+  ],
+  "cards": [
+   "Its power and main|systems have shut down.",
+   "It's just scrap.",
+   "But I've kept the|precious artificial skin alive."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.86,
+   7.6
+  ]
+ },
+ "93": {
+  "speaker": "Madnar",
+  "en": "Now I can begin phase two of the Snatch Project: full-scale infiltration of the world.",
+  "ps1": [
+   "B260_c14f33",
+   "B260_c14f33b"
+  ],
+  "cards": [
+   "Now I can begin phase|two of the Snatch Project:",
+   "full-scale infiltration|of the world."
+  ],
+  "layout": "plain",
+  "turns": [
+   7.34
+  ]
+ },
+ "94": {
+  "speaker": "Gillian",
+  "en": "The summit's over. You won't get away with it.",
+  "ps1": [
+   "B260_c14f34"
+  ],
+  "layout": "plain",
+  "cards": [
+   "The summit's over.|You won't get away with it."
+  ]
+ },
+ "95": {
+  "speaker": "Madnar",
+  "en": "What does the summit matter? With perfect skin, nothing will hold us back. We can go anywhere, and no one will know.",
+  "ps1": [
+   "B260_c14f35",
+   "B260_c14f35b",
+   "B260_c14f35c"
+  ],
+  "layout": "plain",
+  "cards": [
+   "What does the summit|matter?",
+   "With perfect skin,|nothing will hold us back.",
+   "We can go anywhere, and|no one will know."
+  ],
+  "turns": [
+   3.22,
+   9.82
+  ]
+ },
+ "96": {
+  "speaker": "Madnar",
+  "en": "The world will obey me. No one can stop me now.",
+  "ps1": [
+   "B260_f1_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "The world will obey me.|No one can stop me now."
+  ]
+ },
+ "97": {
+  "speaker": "Madnar",
+  "en": "Politics and ideology mean nothing. My will alone shall decide humanity's future.",
+  "ps1": [
+   "B260_f2_0",
+   "B260_f2_0b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Politics and ideology|mean nothing.",
+   "My will alone shall|decide humanity's future."
+  ],
+  "turns": [
+   3.9
+  ]
+ },
+ "98": {
+  "speaker": "Gillian",
+  "en": "You're insane! You can't Snatch all of humanity!",
+  "ps1": [
+   "B260_f3_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "You're insane! You|can't Snatch all of humanity!"
+  ]
+ },
+ "99": {
+  "speaker": "Madnar",
+  "en": "There's an automated Snatcher factory beneath the Kremlin. It's still producing new Snatchers.",
+  "ps1": [
+   "B260_f4_0",
+   "B260_f4_0b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "There's an automated|Snatcher",
+   "factory beneath the|Kremlin.",
+   "It's still producing|new Snatchers."
+  ],
+  "turns": [
+   2.92,
+   5.08
+  ]
+ },
+ "9a": {
+  "speaker": "Jamie",
+  "en": "No matter what you do, you can't Snatch a human heart. What would any of this achieve?",
+  "ps1": [
+   "B260_f5_0",
+   "B260_f5_0b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "No matter what you do,|you can't Snatch a human heart.",
+   "What would any of this|achieve?"
+  ],
+  "turns": [
+   4.52
+  ]
+ },
+ "9b": {
+  "speaker": "Madnar",
+  "en": "Humanity is foolish, Jamie. But I'm different. I'm the savior of humanity. No, of all life on Earth!",
+  "ps1": [
+   "B260_f6_0",
+   "B260_f6_0b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Humanity is foolish,|Jamie. But I'm different.",
+   "I'm the savior of|humanity. No, of all life on Earth!"
+  ],
+  "turns": [
+   10.4
+  ]
+ },
+ "9c": {
+  "speaker": "Metal Gear",
+  "en": "I'm afraid that won't happen.",
+  "ps1": [
+   "B260_f7_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I'm afraid that|won't happen."
+  ]
+ },
+ "9d": {
+  "speaker": "Gillian",
+  "en": "Metal!",
+  "ps1": [
+   "B230_h_08"
+  ],
+  "cards": [
+   "Metal!"
+  ],
+  "layout": "plain"
+ },
+ "9e": {
+  "speaker": "Metal Gear",
+  "en": "In ten minutes, a particle beam will strike this church.",
+  "ps1": [
+   "B260_f9_0",
+   "B260_f9_0b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "In ten minutes,",
+   "a particle beam|will strike this church."
+  ],
+  "turns": [
+   1.56
+  ]
+ },
+ "9f": {
+  "speaker": "Metal Gear",
+  "en": "I'm guiding a killer satellite's beam here with GPS and fifteen satellites. It won't miss.",
+  "ps1": [
+   "B260_f10_0",
+   "B260_f10_0b"
+  ],
+  "cards": [
+   "I'm guiding a|killer satellite's beam here",
+   "with GPS and|fifteen satellites. It won't miss."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.46
+  ]
+ },
+ "a0": {
+  "speaker": "Metal Gear",
+  "en": "Everything within several kilometers of me will be destroyed.",
+  "ps1": [
+   "B260_f11_0"
+  ],
+  "cards": [
+   "Everything within|several kilometers",
+   "of me will be|destroyed."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.38
+  ]
+ },
+ "a1": {
+  "speaker": "Madnar",
+  "en": "Stop this madness! You'll destroy my research! You inferior analyzer!",
+  "ps1": [
+   "B260_f12_0",
+   "B260_f12_0b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Stop this madness!|You'll destroy my research!",
+   "You inferior analyzer!"
+  ],
+  "turns": [
+   4.66
+  ]
+ },
+ "a2": {
+  "speaker": "Gillian",
+  "en": "Metal, what did the summit decide?",
+  "ps1": [
+   "B260_f13_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Metal, what did the|summit decide?"
+  ]
+ },
+ "a3": {
+  "speaker": "Metal Gear",
+  "en": "Fearing the spread of Snatchers, every nation's delegates unanimously authorized the use of nuclear weapons. The military is sealing off the city.",
+  "ps1": [
+   "B260_f14_0",
+   "B260_f14_0b",
+   "B260_f14_0bb",
+   "B260_f14_0d"
+  ],
+  "cards": [
+   "Fearing the spread|of Snatchers,",
+   "every nation's|delegates unanimously",
+   "authorized the use|of nuclear weapons.",
+   "The military is|sealing off the city."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.14,
+   4.96,
+   6.9
+  ]
+ },
+ "a4": {
+  "speaker": "Jamie",
+  "en": "They're going to let the citizens die?",
+  "ps1": [
+   "B260_f15_0"
+  ],
+  "cards": [
+   "They're going to let|the citizens die?"
+  ],
+  "layout": "plain"
+ },
+ "a5": {
+  "speaker": "Metal Gear",
+  "en": "The citizens are panicking. But if the beam destroys this place, the blockade will be lifted. This is our last chance.",
+  "ps1": [
+   "B260_f16_0",
+   "B260_f16_0b",
+   "B260_f16_0c"
+  ],
+  "layout": "plain",
+  "cards": [
+   "The citizens are|panicking.",
+   "But if the beam|destroys this place,",
+   "the blockade will|be lifted. This is our last chance."
+  ],
+  "turns": [
+   2.46,
+   5.14
+  ]
+ },
+ "a6": {
+  "speaker": "Metal Gear",
+  "en": "I'll handle things here. Gillian, take Jamie and go.",
+  "ps1": [
+   "B260_f17_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I'll handle things|here. Gillian, take Jamie and go."
+  ]
+ },
+ "a7": {
+  "speaker": "Madnar",
+  "en": "You insolent robot!",
+  "ps1": [
+   "B260_f18_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "You insolent robot!"
+  ]
+ },
+ "a8": {
+  "speaker": "Metal Gear",
+  "en": "Move and I'll detonate! Hurry, Gillian!",
+  "ps1": [
+   "B260_f19_0"
+  ],
+  "cards": [
+   "Move and I'll|detonate! Hurry, Gillian!"
+  ],
+  "layout": "plain"
+ },
+ "a9": {
+  "speaker": "Gillian",
+  "en": "Metal, don't!",
+  "ps1": [
+   "B260_f20_0"
+  ],
+  "cards": [
+   "Metal, don't!"
+  ],
+  "layout": "plain"
+ },
+ "aa": {
+  "speaker": "Metal Gear",
+  "en": "I won't let a single Snatcher escape! I'll destroy this artificial skin, too!",
+  "ps1": [
+   "B260_f21_0",
+   "B260_f21_0b"
+  ],
+  "cards": [
+   "I won't let a|single Snatcher escape!",
+   "I'll destroy this|artificial skin, too!"
+  ],
+  "layout": "plain",
+  "turns": [
+   3.02
+  ]
+ },
+ "ab": {
+  "speaker": "Madnar",
+  "en": "A piece of junk like you? If you're the beam's target, we'll just carry you outside!",
+  "ps1": [
+   "B260_f22_0",
+   "B260_f22_0b",
+   "B260_f22_0c"
+  ],
+  "cards": [
+   "A piece of junk like|you?",
+   "If you're the beam's|target,",
+   "we'll just carry you|outside!"
+  ],
+  "layout": "plain",
+  "turns": [
+   2.76,
+   4.96
+  ]
+ },
+ "ac": {
+  "speaker": "Madnar",
+  "en": "Get this runt out of here!",
+  "ps1": [
+   "B260_f23_0"
+  ],
+  "cards": [
+   "Get this runt out of|here!"
+  ],
+  "layout": "plain"
+ },
+ "ae": {
+  "speaker": "Gillian",
+  "en": "Metal!",
+  "ps1": [
+   "B230_h_08"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Metal!"
+  ]
+ },
+ "af": {
+  "speaker": "Madnar",
+  "en": "Stupid robot!",
+  "ps1": [
+   "B260_f26_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Stupid robot!"
+  ]
+ },
+ "b0": {
+  "speaker": "Madnar",
+  "en": "What a nuisance!",
+  "ps1": [
+   "B260_f27_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "What a nuisance!"
+  ]
+ },
+ "b1": {
+  "speaker": "Jamie",
+  "en": "What's happening?",
+  "ps1": [
+   "B250_f28_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "What's happening?"
+  ]
+ },
+ "b2": {
+  "speaker": "Madnar",
+  "en": "How? You shouldn't be able to move!",
+  "ps1": [
+   "B260_f29_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "How? You shouldn't be|able to move!"
+  ]
+ },
+ "b3": {
+  "speaker": "Randam",
+  "en": "I don't know when to quit.",
+  "ps1": [
+   "B260_f30_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I don't know when to|quit."
+  ]
+ },
+ "b4": {
+  "speaker": "Madnar",
+  "en": "Impossible!",
+  "ps1": [
+   "B250_f31_0"
+  ],
+  "cards": [
+   "Impossible!"
+  ],
+  "layout": "plain"
+ },
+ "b5": {
+  "speaker": "Randam",
+  "en": "You're dying with me. Don't fight it. Hey, Snatchers! Keep your hands off the little guy, or I'll snap his neck!",
+  "ps1": [
+   "B260_f32_0",
+   "B260_f32_0b",
+   "B260_f32_0c"
+  ],
+  "cards": [
+   "You're dying with me.|Don't fight it. Hey, Snatchers!",
+   "Keep your hands off the|little guy, or I'll snap his neck!"
+  ],
+  "layout": "plain",
+  "turns": [
+   4.2
+  ]
+ },
+ "b6": {
+  "speaker": "Gillian",
+  "en": "Randam!",
+  "ps1": [
+   "B1F0_r_12"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Randam!"
+  ]
+ },
+ "b7": {
+  "speaker": "Randam",
+  "en": "I don't like being used. You and I will see the end together.",
+  "ps1": [
+   "B260_f34_0",
+   "B260_f34_0b"
+  ],
+  "cards": [
+   "I don't like being|used.",
+   "You and I will see the|end together."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.62
+  ]
+ },
+ "b8": {
+  "speaker": "Metal Gear",
+  "en": "Five minutes, Gillian. The Tricycle's waiting outside. Get in it.",
+  "ps1": [
+   "B260_f35_0",
+   "B260_f35_0b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Five minutes,|Gillian.",
+   "The Tricycle's|waiting outside. Get in it."
+  ],
+  "turns": [
+   2.18
+  ]
+ },
+ "b9": {
+  "speaker": "Madnar",
+  "en": "Let go! I'm Elijah Madnar! You're a copy of me!",
+  "ps1": [
+   "B260_f36_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Let go! I'm Elijah|Madnar! You're a copy of me!"
+  ]
+ },
+ "ba": {
+  "speaker": "Randam",
+  "en": "Real or fake, we're both going to die here. Once we're both dead, there won't be a fake anymore.",
+  "ps1": [
+   "B260_f37_0",
+   "B260_f37_0b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Real or fake, we're|both going to die here.",
+   "Once we're both dead,|there won't be a fake anymore."
+  ],
+  "turns": [
+   4.6
+  ]
+ },
+ "bb": {
+  "speaker": "Madnar",
+  "en": "Just logic! A machine's programming!",
+  "ps1": [
+   "B260_f38_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Just logic! A machine's|programming!"
+  ]
+ },
+ "bc": {
+  "speaker": "Randam",
+  "en": "This is my choice!",
+  "ps1": [
+   "B260_f39_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "This is my choice!"
+  ]
+ },
+ "bd": {
+  "speaker": "Madnar",
+  "en": "Machines have no will! They can't sacrifice themselves!",
+  "ps1": [
+   "B260_f40_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Machines have no will!|They can't sacrifice themselves!"
+  ]
+ },
+ "be": {
+  "speaker": "Randam",
+  "en": "You sure about that?",
+  "ps1": [
+   "B260_f41_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "You sure about that?"
+  ]
+ },
+ "bf": {
+  "speaker": "Metal Gear",
+  "en": "Four minutes. Get out, now! Destroy the automated factory beneath the Kremlin.",
+  "ps1": [
+   "B260_f42_0",
+   "B260_f42_0b"
+  ],
+  "cards": [
+   "Four minutes. Get|out, now!",
+   "Destroy the|automated",
+   "factory beneath the|Kremlin."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.42,
+   3.24
+  ]
+ },
+ "c0": {
+  "speaker": "Gillian",
+  "en": "Stop!",
+  "ps1": [
+   "B260_f43_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Stop!"
+  ]
+ },
+ "c1": {
+  "speaker": "Randam",
+  "en": "Gillian! Even if the memories in my head were made up...",
+  "ps1": [
+   "B260_f44_0",
+   "B260_f44_0b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Gillian! Even if the|memories in my head were made up..."
+  ]
+ },
+ "c2": {
+  "speaker": "Gillian",
+  "en": "I know! Our memories of fighting together are real! There's no doubt about that!",
+  "ps1": [
+   "B260_f45_0",
+   "B260_f45_0b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I know! Our memories|of fighting together are real!",
+   "There's no doubt|about that!"
+  ],
+  "turns": [
+   3.42
+  ]
+ },
+ "c3": {
+  "speaker": "Randam",
+  "en": "You've become a fine JUNKER, Gillian.",
+  "ps1": [
+   "B260_f46_0"
+  ],
+  "cards": [
+   "You've become a fine|JUNKER, Gillian."
+  ],
+  "layout": "plain"
+ },
+ "c4": {
+  "speaker": "Metal Gear",
+  "en": "I enjoyed working with you, Gillian.",
+  "ps1": [
+   "B260_f47_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I enjoyed working|with you, Gillian."
+  ]
+ },
+ "c5": {
+  "speaker": "Gillian",
+  "en": "Metal!",
+  "ps1": [
+   "B230_h_08"
+  ],
+  "cards": [
+   "Metal!"
+  ],
+  "layout": "plain"
+ },
+ "c6": {
+  "speaker": "Metal Gear",
+  "en": "If you can, recover my remains, like Little John's.",
+  "ps1": [
+   "B260_f49_0"
+  ],
+  "cards": [
+   "If you can, recover|my remains, like Little John's."
+  ],
+  "layout": "plain"
+ },
+ "c7": {
+  "speaker": "Gillian",
+  "en": "Little John? I understand!",
+  "ps1": [
+   "B260_f50_0"
+  ],
+  "cards": [
+   "Little John? I|understand!"
+  ],
+  "layout": "plain"
+ },
+ "c8.4": {
+  "speaker": "Gillian",
+  "en": "Jamie, are you all right?",
+  "ps1": [
+   "B250_c10f60"
+  ],
+  "cards": [
+   "Jamie, are you all|right?"
+  ],
+  "layout": "plain"
+ },
+ "c8.5": {
+  "speaker": "Metal Gear",
+  "en": "Hurry! Three minutes!",
+  "ps1": [
+   "B260_f51_0"
+  ],
+  "cards": [
+   "Hurry! Three|minutes!"
+  ],
+  "layout": "plain"
+ },
+ "c9.4": {
+  "speaker": "Jamie",
+  "en": "Gillian! You came for me.",
+  "ps1": [
+   "B260_c10f61"
+  ],
+  "cards": [
+   "Gillian! You came for|me."
+  ],
+  "layout": "plain"
+ },
+ "c9.5": {
+  "speaker": "Gillian",
+  "en": "I'm sorry. Both of you! Let's go, Jamie!",
+  "ps1": [
+   "B260_f52_0",
+   "B260_f52_0b"
+  ],
+  "cards": [
+   "I'm sorry. Both of|you! Let's go, Jamie!"
+  ],
+  "layout": "plain"
+ },
+ "ca.4": {
+  "speaker": "Gillian",
+  "en": "Are you hurt?",
+  "ps1": [
+   "B250_c10f62"
+  ],
+  "cards": [
+   "Are you hurt?"
+  ],
+  "layout": "plain"
+ },
+ "ca.5": {
+  "speaker": "Madnar",
+  "en": "No! Don't let her go! Jamie!",
+  "ps1": [
+   "B260_f53_0"
+  ],
+  "cards": [
+   "No! Don't let her go!|Jamie!"
+  ],
+  "layout": "plain"
+ },
+ "cb.4": {
+  "speaker": "Jamie",
+  "en": "I'm all right. They won't hurt me. At least, not until their work on perfect artificial skin is complete.",
+  "ps1": [
+   "B260_c10f63",
+   "B260_c10f63b",
+   "B260_c10f63c",
+   "B260_c10f63cb"
+  ],
+  "cards": [
+   "I'm all right. They|won't hurt me.",
+   "At least, not until|their work",
+   "on perfect artificial|skin is complete."
+  ],
+  "layout": "plain",
+  "turns": [
+   5.08,
+   6.96
+  ]
+ },
+ "cb.5": {
+  "speaker": "Randam",
+  "en": "Pathetic. You don't even know how to love someone.",
+  "ps1": [
+   "B260_f54_0"
+  ],
+  "cards": [
+   "Pathetic. You don't|even know how to love someone."
+  ],
+  "layout": "plain"
+ },
+ "cc.4": {
+  "speaker": "Gillian",
+  "en": "You're researching artificial skin?",
+  "ps1": [
+   "B260_c10f64"
+  ],
+  "cards": [
+   "You're researching|artificial skin?"
+  ],
+  "layout": "plain"
+ },
+ "cc.5": {
+  "speaker": "Madnar",
+  "en": "What are you laughing at, machine?!",
+  "ps1": [
+   "B260_f55_0"
+  ],
+  "cards": [
+   "What are you laughing|at, machine?!"
+  ],
+  "layout": "plain"
+ },
+ "cd.4": {
+  "speaker": "Jamie",
+  "en": "My memory's back. All of it.",
+  "ps1": [
+   "B260_c10f65"
+  ],
+  "cards": [
+   "My memory's back. All|of it."
+  ],
+  "layout": "plain"
+ },
+ "cd.5": {
+  "speaker": "Randam",
+  "en": "By Snatching you, I'll take myself back.",
+  "ps1": [
+   "B260_f56_0"
+  ],
+  "cards": [
+   "By Snatching you, I'll|take myself back."
+  ],
+  "layout": "plain"
+ },
+ "ce.4": {
+  "speaker": "Gillian",
+  "en": "What happened, Jamie?",
+  "ps1": [
+   "B250_c10f66"
+  ],
+  "cards": [
+   "What happened, Jamie?"
+  ],
+  "layout": "plain"
+ },
+ "ce.5": {
+  "speaker": "Metal Gear",
+  "en": "Under a minute, Randam. It's all right now. Thank you.",
+  "ps1": [
+   "B260_f57_0"
+  ],
+  "cards": [
+   "Under a minute,|Randam. It's all right now.",
+   "Thank you."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.54
+  ]
+ },
+ "cf.4": {
+  "speaker": "Jamie",
+  "en": "They threatened to kill him. To kill Harry. They forced me to help develop artificial skin.",
+  "ps1": [
+   "B260_c10f67",
+   "B260_c10f67b"
+  ],
+  "cards": [
+   "They threatened to kill|him. To kill Harry.",
+   "They forced me to help|develop artificial skin."
+  ],
+  "layout": "plain",
+  "turns": [
+   5.12
+  ]
+ },
+ "cf.5": {
+  "speaker": "Randam",
+  "en": "Don't thank me. Sorry I dragged you into such a big job.",
+  "ps1": [
+   "B260_f58_0"
+  ],
+  "cards": [
+   "Don't thank me. Sorry I|dragged you into such a big job."
+  ],
+  "layout": "plain"
+ },
+ "d0.4": {
+  "speaker": "Jamie",
+  "en": "The doctor's condition was getting worse, so they brought me here to take his place.",
+  "ps1": [
+   "B260_c10f68",
+   "B260_c10f68b"
+  ],
+  "cards": [
+   "The doctor's condition|was getting worse,",
+   "so they brought me here|to take his place."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.06
+  ]
+ },
+ "d0.5": {
+  "speaker": "Randam",
+  "en": "Well done. You're a fine JUNKER.",
+  "ps1": [
+   "B250_f59_0"
+  ],
+  "cards": [
+   "Well done. You're a|fine JUNKER."
+  ],
+  "layout": "plain"
+ },
+ "d1.4": {
+  "speaker": "Jamie",
+  "en": "Gillian, Harry the mechanic is our son. He's lived alone for fifty years.",
+  "ps1": [
+   "B260_c10f69",
+   "B260_c10f69b"
+  ],
+  "cards": [
+   "Gillian, Harry the|mechanic is our son.",
+   "He's lived alone for|fifty years."
+  ],
+  "layout": "plain",
+  "turns": [
+   5.42
+  ]
+ },
+ "d1.5": {
+  "speaker": "Metal Gear",
+  "en": "Three, two, one. Here it comes!",
+  "ps1": [
+   "B260_f60_0"
+  ],
+  "cards": [
+   "Three, two, one.|Here it comes!"
+  ],
+  "layout": "plain"
+ },
+ "d2.4": {
+  "speaker": "Gillian",
+  "en": "Jamie, Harry's already...",
+  "ps1": [
+   "B260_c10f70"
+  ],
+  "cards": [
+   "Jamie, Harry's|already..."
+  ],
+  "layout": "plain"
+ },
+ "d2.5": {
+  "speaker": "Randam",
+  "en": "So long!",
+  "ps1": [
+   "B250_f61_0"
+  ],
+  "cards": [
+   "So long!"
+  ],
+  "layout": "plain"
+ },
+ "d3.4": {
+  "speaker": "Jamie",
+  "en": "I had no choice. They threatened me. But I can't go on.",
+  "ps1": [
+   "B260_c10f71"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I had no choice. They|threatened me. But I can't go on."
+  ]
+ },
+ "d4.4": {
+  "speaker": "Gillian",
+  "en": "Jamie!",
+  "ps1": [
+   "B250_c10f72"
+  ],
+  "cards": [
+   "Jamie!"
+  ],
+  "layout": "plain"
+ },
+ "d5.4": {
+  "speaker": "Jamie",
+  "en": "The doctor just died. He was over a hundred.",
+  "ps1": [
+   "B260_c10f73"
+  ],
+  "layout": "plain",
+  "cards": [
+   "The doctor just died.|He was over a hundred."
+  ]
+ },
+ "d6.4": {
+  "speaker": "Gillian",
+  "en": "The doctor? That old man?",
+  "ps1": [
+   "B260_c11f35"
+  ],
+  "cards": [
+   "The doctor? That old|man?"
+  ],
+  "layout": "plain"
+ },
+ "d7.4": {
+  "speaker": "Jamie",
+  "en": "Don't you remember Dr. Petrovich? Dr. Petrovich Madnar.",
+  "ps1": [
+   "B260_c11f20"
+  ],
+  "cards": [
+   "Don't you remember Dr.|Petrovich? Dr. Petrovich Madnar."
+  ],
+  "layout": "plain"
+ },
+ "d8.4": {
+  "speaker": "Gillian",
+  "en": "Madnar? This old man?",
+  "ps1": [
+   "B250_c11f41"
+  ],
+  "cards": [
+   "Madnar? This old man?"
+  ],
+  "layout": "plain"
+ },
+ "d9": {
+  "speaker": "Jamie",
+  "en": "They'd apparently been held here for three years to develop artificial skin for the Snatchers. One was his own father.",
+  "ps1": [
+   "B260_c11f8",
+   "B260_c11f8b",
+   "B260_c11f8c"
+  ],
+  "cards": [
+   "They'd apparently been|held here for three years",
+   "to develop artificial|skin for the Snatchers.",
+   "One was his own father."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.94,
+   9.02
+  ]
+ },
+ "da": {
+  "speaker": "Gillian",
+  "en": "Whose father? I don't understand. Jamie, you've lost me.",
+  "ps1": [
+   "B260_c11f32",
+   "B260_c11f32b"
+  ],
+  "cards": [
+   "Whose father? I don't|understand. Jamie, you've lost me."
+  ],
+  "layout": "plain"
+ },
+ "db": {
+  "speaker": "Jamie",
+  "en": "You really can't remember anything?",
+  "ps1": [
+   "B250_c11f42"
+  ],
+  "cards": [
+   "You really can't|remember anything?"
+  ],
+  "layout": "plain"
+ },
+ "dc": {
+  "speaker": "Gillian",
+  "en": "Tell me, Jamie. Who am I? What were we doing in the Kremlin?",
+  "ps1": [
+   "B260_c11f27"
+  ],
+  "cards": [
+   "Tell me, Jamie.",
+   "Who am I? What were|we doing in the Kremlin?"
+  ],
+  "layout": "plain",
+  "turns": [
+   1.58
+  ]
+ },
+ "dd": {
+  "speaker": "Jamie",
+  "en": "All right, Gillian. I'll tell you about that terrible past.",
+  "ps1": [
+   "B260_c11f24"
+  ],
+  "layout": "plain",
+  "cards": [
+   "All right, Gillian.",
+   "I'll tell you about|that terrible past."
+  ],
+  "turns": [
+   2.66
+  ]
+ },
+ "de": {
+  "speaker": "Jamie",
+  "en": "All right? Stay calm and listen.",
+  "ps1": [
+   "B260_c11f36"
+  ],
+  "layout": "plain",
+  "cards": [
+   "All right? Stay calm|and listen."
+  ]
+ },
+ "df": {
+  "speaker": "Jamie",
+  "en": "Fifty years ago, we worked on a top-secret project in the Soviet Union. The Cold War still divided East and West. Everyone lived in fear of nuclear war.",
+  "ps1": [
+   "B260_c11f3",
+   "B260_c11f3b",
+   "B260_c11f3d",
+   "B260_c11f3db"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Fifty years ago, we|worked",
+   "on a top-secret project|in the Soviet Union.",
+   "The Cold War still|divided East and West.",
+   "Everyone lived in fear|of nuclear war."
+  ],
+  "turns": [
+   2.54,
+   8.06,
+   12.0
+  ]
+ },
+ "e0": {
+  "speaker": "Jamie",
+  "en": "The world's military balance had reached its limit. It was a naive age. The great powers' leaders believed military force alone could make their nations stronger.",
+  "ps1": [
+   "B260_c11f6",
+   "B260_c11f6c",
+   "B260_c11f6cb",
+   "B260_c11f6cbb"
+  ],
+  "cards": [
+   "The world's military|balance had reached its limit.",
+   "It was a naive age.",
+   "The great powers'|leaders believed military",
+   "force alone could make|their nations stronger."
+  ],
+  "layout": "plain",
+  "turns": [
+   5.24,
+   5.88,
+   8.72
+  ]
+ },
+ "e1": {
+  "speaker": "Jamie",
+  "en": "A treaty to halt nuclear arms production was expected soon. Meanwhile, America and the other military powers were entering an arms race in space.",
+  "ps1": [
+   "B260_c11f5",
+   "B260_c11f5c",
+   "B260_c11f5cb"
+  ],
+  "cards": [
+   "A treaty to halt|nuclear arms",
+   "production was expected|soon.",
+   "Meanwhile, America and|the other military",
+   "powers were entering an|arms race in space."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.7,
+   5.68,
+   9.36
+  ]
+ },
+ "e2": {
+  "speaker": "Jamie",
+  "en": "But the Kremlin's conservative tyrants thought differently. They sought military supremacy through a completely different approach.",
+  "ps1": [
+   "B260_c11f14",
+   "B260_c11f14b",
+   "B260_c11f14bb"
+  ],
+  "cards": [
+   "But the Kremlin's|conservative",
+   "tyrants thought|differently.",
+   "They sought military|supremacy",
+   "through a completely|different approach."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.04,
+   4.44,
+   6.3
+  ]
+ },
+ "e3": {
+  "speaker": "Jamie",
+  "en": "A plan more horrifying than anyone could imagine.",
+  "ps1": [
+   "B260_c11f37"
+  ],
+  "cards": [
+   "A plan more horrifying|than anyone could imagine."
+  ],
+  "layout": "plain"
+ },
+ "e4": {
+  "speaker": "Jamie",
+  "en": "The communist bloc was facing an economic crisis. Democratic and nationalist movements were rising. The survival of socialism was at stake.",
+  "ps1": [
+   "B260_c11f4",
+   "B260_c11f4b",
+   "B260_c11f4c",
+   "B260_c11f4cb"
+  ],
+  "cards": [
+   "The communist bloc was|facing an economic crisis.",
+   "Democratic and|nationalist movements were rising.",
+   "The survival of|socialism was at stake."
+  ],
+  "layout": "plain",
+  "turns": [
+   6.0,
+   9.96
+  ]
+ },
+ "e5": {
+  "speaker": "Jamie",
+  "en": "The reformers were gaining ground. The Kremlin conservatives were desperate. So they launched that childish scheme.",
+  "ps1": [
+   "B260_c11f15",
+   "B260_c11f15b",
+   "B260_c11f15c"
+  ],
+  "cards": [
+   "The reformers were|gaining ground.",
+   "The Kremlin|conservatives were desperate.",
+   "So they launched that|childish scheme."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.62,
+   6.56
+  ]
+ },
+ "e6": {
+  "speaker": "Gillian",
+  "en": "The Snatcher Project. Secretly replace enemy VIPs with Kremlin puppets. Control their politics and economies, and spread communism and socialism from within.",
+  "ps1": [
+   "B260_c11f7",
+   "B260_c11f7b",
+   "B260_c11f7bb",
+   "B260_c11f7bc"
+  ],
+  "cards": [
+   "The Snatcher Project.",
+   "Secretly replace|enemy VIPs with Kremlin puppets.",
+   "Control their|politics and economies,",
+   "and spread communism|and socialism from within."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.92,
+   5.76,
+   9.0
+  ]
+ },
+ "e7": {
+  "speaker": "Jamie",
+  "en": "That's right, Gillian.",
+  "ps1": [
+   "B250_c11f49"
+  ],
+  "cards": [
+   "That's right, Gillian."
+  ],
+  "layout": "plain"
+ },
+ "e8": {
+  "speaker": "Jamie",
+  "en": "They gathered brilliant scientists from around the world to develop the Snatchers. Some were brought there by force.",
+  "ps1": [
+   "B260_c11f9",
+   "B260_c11f9b",
+   "B260_c11f9c"
+  ],
+  "cards": [
+   "They gathered brilliant|scientists",
+   "from around the world|to develop the Snatchers.",
+   "Some were brought there|by force."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.58,
+   6.0
+  ]
+ },
+ "e9": {
+  "speaker": "Jamie",
+  "en": "At the top was our team: the Frankenstein Project team.",
+  "ps1": [
+   "B260_c11f21",
+   "B260_c11f21b"
+  ],
+  "cards": [
+   "At the top was our|team: the Frankenstein Project team."
+  ],
+  "layout": "plain"
+ },
+ "ea": {
+  "speaker": "Jamie",
+  "en": "Four scientists led by Dr. Petrovich Madnar, who lies here now.",
+  "ps1": [
+   "B260_c11f28",
+   "B260_c11f28b"
+  ],
+  "cards": [
+   "Four scientists led by|Dr. Petrovich Madnar,",
+   "who lies here now."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.96
+  ]
+ },
+ "eb": {
+  "speaker": "Jamie",
+  "en": "Dr. Petrovich Madnar, a robotics specialist. His son Elijah Madnar, genetic engineering and microbiology. My fields were nanobiology and picobiology. Gillian, behavioral physiology and psychopathology.",
+  "ps1": [
+   "B260_c11f1",
+   "B260_c11f1b",
+   "B260_c11f1c",
+   "B260_c11f1d"
+  ],
+  "cards": [
+   "Dr. Petrovich Madnar, a|robotics specialist.",
+   "His son Elijah Madnar,",
+   "genetic engineering and|microbiology.",
+   "My fields were|nanobiology and picobiology.",
+   "Gillian, behavioral|physiology and psychopathology."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.24,
+   5.5,
+   10.12,
+   14.22
+  ]
+ },
+ "ec": {
+  "speaker": "Jamie",
+  "en": "Development began in Neo Akademgorodok, in Novosibirsk. Then it moved beneath the Kremlin.",
+  "ps1": [
+   "B260_c11f10",
+   "B260_c11f10b",
+   "B260_c11f10c"
+  ],
+  "cards": [
+   "Development began in|Neo Akademgorodok, in Novosibirsk.",
+   "Then it moved beneath|the Kremlin."
+  ],
+  "layout": "plain",
+  "turns": [
+   5.8
+  ]
+ },
+ "ed": {
+  "speaker": "Jamie",
+  "en": "Perestroika and glasnost were fueling calls for democracy. So the conservatives hid us underground.",
+  "ps1": [
+   "B260_c11f11",
+   "B260_c11f11b",
+   "B260_c11f11c"
+  ],
+  "cards": [
+   "Perestroika and|glasnost were fueling calls",
+   "for democracy. So the|conservatives hid us underground."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.3
+  ]
+ },
+ "ee": {
+  "speaker": "Jamie",
+  "en": "The reformers joined forces with America to stop the project.",
+  "ps1": [
+   "B260_c11f25"
+  ],
+  "cards": [
+   "The reformers joined|forces",
+   "with America to stop|the project."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.5
+  ]
+ },
+ "ef": {
+  "speaker": "Jamie",
+  "en": "You were an intelligence agent sent by the CIA, Gillian. Your mission was to sabotage the project.",
+  "ps1": [
+   "B260_c11f12",
+   "B260_c11f12b"
+  ],
+  "cards": [
+   "You were an|intelligence agent sent",
+   "by the CIA, Gillian.",
+   "Your mission was to|sabotage the project."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.58,
+   7.26
+  ]
+ },
+ "f0": {
+  "speaker": "Gillian",
+  "en": "I was in the CIA?",
+  "ps1": [
+   "B260_c11f50"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I was in the CIA?"
+  ]
+ },
+ "f1": {
+  "speaker": "Jamie",
+  "en": "Our government must know about that. That's why they assigned you to JUNKER.",
+  "ps1": [
+   "B260_c11f29",
+   "B260_c11f29b"
+  ],
+  "cards": [
+   "Our government must|know about that.",
+   "That's why they|assigned you to JUNKER."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.16
+  ]
+ },
+ "f2": {
+  "speaker": "Gillian",
+  "en": "Who the hell am I?",
+  "ps1": [
+   "B260_c11f43"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Who the hell am I?"
+  ]
+ },
+ "f3": {
+  "speaker": "Jamie",
+  "en": "The project was going well.",
+  "ps1": [
+   "B260_c11f47"
+  ],
+  "cards": [
+   "The project was going|well."
+  ],
+  "layout": "plain"
+ },
+ "_unmatched": {
+  "ad": "0.09 XAS_S000.XA[23]",
+  "d6.5": "0.36 XAS_M000.XA[731]"
+ }
+}

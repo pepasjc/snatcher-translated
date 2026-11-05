@@ -1,0 +1,2937 @@
+{
+ "scene": "B230",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B230_f20",
+   "line": 574,
+   "act": 2,
+   "sector": 7750,
+   "offset": 1920,
+   "size": 48286,
+   "b0": 0,
+   "b1": 48286,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll open it. Be careful. We don't know what's inside.",
+   "rows": [
+    "I'll open it. Be careful. We",
+    "don't know what's inside."
+   ],
+   "rows_plain": [
+    "I'll open it. Be careful. We don't",
+    "know what's inside."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B230_f21",
+   "line": 575,
+   "act": 2,
+   "sector": 7771,
+   "offset": 1402,
+   "size": 3879,
+   "b0": 0,
+   "b1": 3879,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Mika!",
+   "rows": [
+    "Mika!"
+   ],
+   "rows_plain": [
+    "Mika!"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B230_f22",
+   "line": 576,
+   "act": 2,
+   "sector": 7773,
+   "offset": 633,
+   "size": 7373,
+   "b0": 0,
+   "b1": 7373,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Mika! You OK?",
+   "rows": [
+    "Mika! You OK?"
+   ],
+   "rows_plain": [
+    "Mika! You OK?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f23",
+   "line": 577,
+   "act": 2,
+   "sector": 7776,
+   "offset": 1034,
+   "size": 13002,
+   "b0": 0,
+   "b1": 13002,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal, how is she?",
+   "rows": [
+    "Metal, how is she?"
+   ],
+   "rows_plain": [
+    "Metal, how is she?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f24",
+   "line": 578,
+   "act": 2,
+   "sector": 7782,
+   "offset": 92,
+   "size": 48481,
+   "b0": 0,
+   "b1": 48481,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Her pulse is normal. Only her forehead is injured. The blood loss isn't serious.",
+   "rows": [
+    "Her pulse is normal. Only",
+    "her forehead is injured. The",
+    "blood loss isn't serious."
+   ],
+   "rows_plain": [
+    "Her pulse is normal. Only her",
+    "forehead is injured. The blood loss",
+    "isn't serious."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f25",
+   "line": 579,
+   "act": 2,
+   "sector": 7802,
+   "offset": 2093,
+   "size": 11153,
+   "b0": 0,
+   "b1": 11153,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Huh? Oh...",
+   "rows": [
+    "Huh? Oh..."
+   ],
+   "rows_plain": [
+    "Huh? Oh..."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f26",
+   "line": 580,
+   "act": 2,
+   "sector": 7807,
+   "offset": 1626,
+   "size": 25025,
+   "b0": 0,
+   "b1": 25025,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Hang on, Mika! It's me, Gillian!",
+   "rows": [
+    "Hang on, Mika! It's me,",
+    "Gillian!"
+   ],
+   "rows_plain": [
+    "Hang on, Mika! It's me, Gillian!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f27",
+   "line": 581,
+   "act": 2,
+   "sector": 7818,
+   "offset": 1087,
+   "size": 47524,
+   "b0": 0,
+   "b1": 47524,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Gillian... Gillian...",
+   "rows": [
+    "Gillian... Gillian..."
+   ],
+   "rows_plain": [
+    "Gillian... Gillian..."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f28",
+   "line": 582,
+   "act": 2,
+   "sector": 7838,
+   "offset": 2131,
+   "size": 15516,
+   "b0": 0,
+   "b1": 15516,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Mika, what happened?",
+   "rows": [
+    "Mika, what happened?"
+   ],
+   "rows_plain": [
+    "Mika, what happened?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f29",
+   "line": 583,
+   "act": 2,
+   "sector": 7845,
+   "offset": 1379,
+   "size": 51686,
+   "b0": 0,
+   "b1": 51686,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "The chief. The chief was a Snatcher!",
+   "rows": [
+    "The chief. The chief was a",
+    "Snatcher!"
+   ],
+   "rows_plain": [
+    "The chief. The chief was a Snatcher!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f30",
+   "line": 584,
+   "act": 2,
+   "sector": 7867,
+   "offset": 1937,
+   "size": 27924,
+   "b0": 0,
+   "b1": 27924,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "He finally showed his true colors!",
+   "rows": [
+    "He finally showed his true",
+    "colors!"
+   ],
+   "rows_plain": [
+    "He finally showed his true colors!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f31",
+   "line": 585,
+   "act": 2,
+   "sector": 7879,
+   "offset": 1973,
+   "size": 22479,
+   "b0": 0,
+   "b1": 22479,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Harry... Harry...",
+   "rows": [
+    "Harry... Harry..."
+   ],
+   "rows_plain": [
+    "Harry... Harry..."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f32",
+   "line": 586,
+   "act": 2,
+   "sector": 7889,
+   "offset": 1212,
+   "size": 7415,
+   "b0": 0,
+   "b1": 7415,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Harry? What?",
+   "rows": [
+    "Harry? What?"
+   ],
+   "rows_plain": [
+    "Harry? What?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f33",
+   "line": 587,
+   "act": 2,
+   "sector": 7892,
+   "offset": 1655,
+   "size": 62936,
+   "b0": 0,
+   "b1": 25308,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Harry put me in this booth and shut the main door,",
+   "rows": [
+    "Harry put me in this booth",
+    "and shut the main door,"
+   ],
+   "rows_plain": [
+    "Harry put me in this booth and shut",
+    "the main door,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f33b",
+   "line": 587,
+   "act": 2,
+   "sector": 7892,
+   "offset": 1655,
+   "size": 62936,
+   "b0": 25308,
+   "b1": 62936,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "trapping the Snatcher inside headquarters.",
+   "rows": [
+    "trapping the Snatcher inside",
+    "headquarters."
+   ],
+   "rows_plain": [
+    "trapping the Snatcher inside",
+    "headquarters."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f34",
+   "line": 588,
+   "act": 2,
+   "sector": 7919,
+   "offset": 1843,
+   "size": 37811,
+   "b0": 0,
+   "b1": 37811,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Even a Snatcher can't break through the shields here.",
+   "rows": [
+    "Even a Snatcher can't break",
+    "through the shields here."
+   ],
+   "rows_plain": [
+    "Even a Snatcher can't break through",
+    "the shields here."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f35",
+   "line": 589,
+   "act": 2,
+   "sector": 7936,
+   "offset": 146,
+   "size": 5508,
+   "b0": 0,
+   "b1": 5508,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Harry?",
+   "rows": [
+    "Harry?"
+   ],
+   "rows_plain": [
+    "Harry?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f36",
+   "line": 590,
+   "act": 2,
+   "sector": 7938,
+   "offset": 1006,
+   "size": 58942,
+   "b0": 0,
+   "b1": 58942,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Harry told me not to open the door, no matter what. Then he went inside.",
+   "rows": [
+    "Harry told me not to open",
+    "the door, no matter what.",
+    "Then he went inside."
+   ],
+   "rows_plain": [
+    "Harry told me not to open the door,",
+    "no matter what. Then he went inside."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f37",
+   "line": 591,
+   "act": 2,
+   "sector": 7963,
+   "offset": 1848,
+   "size": 23815,
+   "b0": 0,
+   "b1": 23815,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Gillian, save Harry!",
+   "rows": [
+    "Gillian, save Harry!"
+   ],
+   "rows_plain": [
+    "Gillian, save Harry!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f38",
+   "line": 592,
+   "act": 2,
+   "sector": 7974,
+   "offset": 99,
+   "size": 45610,
+   "b0": 0,
+   "b1": 45610,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Harry! Mika, open the shield. I'm going in.",
+   "rows": [
+    "Harry! Mika, open the",
+    "shield. I'm going in."
+   ],
+   "rows_plain": [
+    "Harry! Mika, open the shield. I'm",
+    "going in."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f39",
+   "line": 593,
+   "act": 2,
+   "sector": 7993,
+   "offset": 1553,
+   "size": 46965,
+   "b0": 0,
+   "b1": 46965,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal! We're going in! Stay alert! The Snatcher could be hiding anywhere!",
+   "rows": [
+    "Metal! We're going in! Stay",
+    "alert! The Snatcher could be",
+    "hiding anywhere!"
+   ],
+   "rows_plain": [
+    "Metal! We're going in! Stay alert!",
+    "The Snatcher could be hiding",
+    "anywhere!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f40",
+   "line": 594,
+   "act": 2,
+   "sector": 8013,
+   "offset": 2038,
+   "size": 4002,
+   "b0": 0,
+   "b1": 4002,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Right.",
+   "rows": [
+    "Right."
+   ],
+   "rows_plain": [
+    "Right."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f41",
+   "line": 595,
+   "act": 2,
+   "sector": 8015,
+   "offset": 1392,
+   "size": 77791,
+   "b0": 0,
+   "b1": 77791,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Be careful, Gillian. The chief knows you inside out. Don't let your guard down.",
+   "rows": [
+    "Be careful, Gillian. The",
+    "chief knows you inside out.",
+    "Don't let your guard down."
+   ],
+   "rows_plain": [
+    "Be careful, Gillian. The chief knows",
+    "you inside out. Don't let your guard",
+    "down."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f42",
+   "line": 596,
+   "act": 2,
+   "sector": 8049,
+   "offset": 167,
+   "size": 5395,
+   "b0": 0,
+   "b1": 5395,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Gillian!",
+   "rows": [
+    "Gillian!"
+   ],
+   "rows_plain": [
+    "Gillian!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f43",
+   "line": 597,
+   "act": 2,
+   "sector": 8051,
+   "offset": 914,
+   "size": 16797,
+   "b0": 0,
+   "b1": 16797,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The lights have been destroyed.",
+   "rows": [
+    "The lights have been",
+    "destroyed."
+   ],
+   "rows_plain": [
+    "The lights have been destroyed."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f44",
+   "line": 598,
+   "act": 2,
+   "sector": 8058,
+   "offset": 1443,
+   "size": 20249,
+   "b0": 0,
+   "b1": 20249,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The movement is heading away from us.",
+   "rows": [
+    "The movement is heading away",
+    "from us."
+   ],
+   "rows_plain": [
+    "The movement is heading away from",
+    "us."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f45",
+   "line": 599,
+   "act": 2,
+   "sector": 8067,
+   "offset": 776,
+   "size": 6606,
+   "b0": 0,
+   "b1": 6606,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Running away?",
+   "rows": [
+    "Running away?"
+   ],
+   "rows_plain": [
+    "Running away?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f46",
+   "line": 600,
+   "act": 2,
+   "sector": 8070,
+   "offset": 410,
+   "size": 19795,
+   "b0": 0,
+   "b1": 19795,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I've lost the movement reading.",
+   "rows": [
+    "I've lost the movement",
+    "reading."
+   ],
+   "rows_plain": [
+    "I've lost the movement reading."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f47",
+   "line": 601,
+   "act": 2,
+   "sector": 8078,
+   "offset": 1613,
+   "size": 12951,
+   "b0": 0,
+   "b1": 12951,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The Snatcher got away!",
+   "rows": [
+    "The Snatcher got away!"
+   ],
+   "rows_plain": [
+    "The Snatcher got away!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f48",
+   "line": 602,
+   "act": 2,
+   "sector": 8084,
+   "offset": 620,
+   "size": 12246,
+   "b0": 0,
+   "b1": 12246,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Emergency lights on.",
+   "rows": [
+    "Emergency lights on."
+   ],
+   "rows_plain": [
+    "Emergency lights on."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f49",
+   "line": 603,
+   "act": 2,
+   "sector": 8089,
+   "offset": 1246,
+   "size": 8613,
+   "b0": 0,
+   "b1": 8613,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Did he get away?",
+   "rows": [
+    "Did he get away?"
+   ],
+   "rows_plain": [
+    "Did he get away?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f50",
+   "line": 604,
+   "act": 2,
+   "sector": 8093,
+   "offset": 563,
+   "size": 10975,
+   "b0": 0,
+   "b1": 10975,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's go after him!",
+   "rows": [
+    "Let's go after him!"
+   ],
+   "rows_plain": [
+    "Let's go after him!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f51",
+   "line": 605,
+   "act": 2,
+   "sector": 8097,
+   "offset": 2242,
+   "size": 34826,
+   "b0": 0,
+   "b1": 34826,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "He's not getting away! He can't leave headquarters!",
+   "rows": [
+    "He's not getting away! He",
+    "can't leave headquarters!"
+   ],
+   "rows_plain": [
+    "He's not getting away! He can't",
+    "leave headquarters!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f52",
+   "line": 606,
+   "act": 2,
+   "sector": 8112,
+   "offset": 2208,
+   "size": 31769,
+   "b0": 0,
+   "b1": 31769,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The Snatcher is wounded. Let's follow the blood.",
+   "rows": [
+    "The Snatcher is wounded.",
+    "Let's follow the blood."
+   ],
+   "rows_plain": [
+    "The Snatcher is wounded. Let's",
+    "follow the blood."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f53",
+   "line": 607,
+   "act": 2,
+   "sector": 8126,
+   "offset": 1441,
+   "size": 40304,
+   "b0": 0,
+   "b1": 40304,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The shield was open. Did Mika open it?",
+   "rows": [
+    "The shield was open. Did",
+    "Mika open it?"
+   ],
+   "rows_plain": [
+    "The shield was open. Did Mika open",
+    "it?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f54",
+   "line": 608,
+   "act": 2,
+   "sector": 8143,
+   "offset": 2237,
+   "size": 24028,
+   "b0": 0,
+   "b1": 24028,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Huh? Mika's gone!",
+   "rows": [
+    "Huh? Mika's gone!"
+   ],
+   "rows_plain": [
+    "Huh? Mika's gone!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f55",
+   "line": 609,
+   "act": 2,
+   "sector": 8154,
+   "offset": 701,
+   "size": 4492,
+   "b0": 0,
+   "b1": 4492,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What happened?",
+   "rows": [
+    "What happened?"
+   ],
+   "rows_plain": [
+    "What happened?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f56",
+   "line": 610,
+   "act": 2,
+   "sector": 8156,
+   "offset": 545,
+   "size": 11344,
+   "b0": 0,
+   "b1": 11344,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The power went out.",
+   "rows": [
+    "The power went out."
+   ],
+   "rows_plain": [
+    "The power went out."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f57",
+   "line": 611,
+   "act": 2,
+   "sector": 8161,
+   "offset": 269,
+   "size": 21403,
+   "b0": 0,
+   "b1": 21403,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Don't move, Gillian Seed.",
+   "rows": [
+    "Don't move, Gillian Seed."
+   ],
+   "rows_plain": [
+    "Don't move, Gillian Seed."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f58",
+   "line": 612,
+   "act": 2,
+   "sector": 8170,
+   "offset": 756,
+   "size": 14823,
+   "b0": 0,
+   "b1": 14823,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Cunningham! It's you!",
+   "rows": [
+    "Cunningham! It's you!"
+   ],
+   "rows_plain": [
+    "Cunningham! It's you!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f59",
+   "line": 613,
+   "act": 2,
+   "sector": 8176,
+   "offset": 1635,
+   "size": 22732,
+   "b0": 0,
+   "b1": 22732,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Movement detected. He's in here.",
+   "rows": [
+    "Movement detected. He's in",
+    "here."
+   ],
+   "rows_plain": [
+    "Movement detected. He's in here."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f60",
+   "line": 614,
+   "act": 2,
+   "sector": 8186,
+   "offset": 1127,
+   "size": 16257,
+   "b0": 0,
+   "b1": 16257,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Where are you? Show yourself!",
+   "rows": [
+    "Where are you? Show",
+    "yourself!"
+   ],
+   "rows_plain": [
+    "Where are you? Show yourself!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f61",
+   "line": 615,
+   "act": 2,
+   "sector": 8193,
+   "offset": 1116,
+   "size": 60377,
+   "b0": 0,
+   "b1": 60377,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Ha ha ha! I'm right here. I'm not running or hiding.",
+   "rows": [
+    "Ha ha ha! I'm right here.",
+    "I'm not running or hiding."
+   ],
+   "rows_plain": [
+    "Ha ha ha! I'm right here. I'm not",
+    "running or hiding."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B230_f62",
+   "line": 616,
+   "act": 2,
+   "sector": 8219,
+   "offset": 1069,
+   "size": 5278,
+   "b0": 0,
+   "b1": 5278,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Mika!",
+   "rows": [
+    "Mika!"
+   ],
+   "rows_plain": [
+    "Mika!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f63",
+   "line": 617,
+   "act": 2,
+   "sector": 8221,
+   "offset": 1699,
+   "size": 37495,
+   "b0": 0,
+   "b1": 37495,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "No! Stay back, Gillian! It's a trap!",
+   "rows": [
+    "No! Stay back, Gillian! It's",
+    "a trap!"
+   ],
+   "rows_plain": [
+    "No! Stay back, Gillian! It's a trap!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f64",
+   "line": 618,
+   "act": 2,
+   "sector": 8237,
+   "offset": 2010,
+   "size": 17464,
+   "b0": 0,
+   "b1": 17464,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "You coward! A hostage?",
+   "rows": [
+    "You coward! A hostage?"
+   ],
+   "rows_plain": [
+    "You coward! A hostage?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f65",
+   "line": 619,
+   "act": 2,
+   "sector": 8245,
+   "offset": 882,
+   "size": 84602,
+   "b0": 0,
+   "b1": 28151,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Go ahead, Gillian! Shoot if you dare!",
+   "rows": [
+    "Go ahead, Gillian! Shoot if",
+    "you dare!"
+   ],
+   "rows_plain": [
+    "Go ahead, Gillian! Shoot if you",
+    "dare!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f65b",
+   "line": 619,
+   "act": 2,
+   "sector": 8245,
+   "offset": 882,
+   "size": 84602,
+   "b0": 28151,
+   "b1": 84602,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "But if your hand slips, I can't promise she'll live!",
+   "rows": [
+    "But if your hand slips, I",
+    "can't promise she'll live!"
+   ],
+   "rows_plain": [
+    "But if your hand slips, I can't",
+    "promise she'll live!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f66",
+   "line": 620,
+   "act": 2,
+   "sector": 8281,
+   "offset": 1820,
+   "size": 62163,
+   "b0": 0,
+   "b1": 62163,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Gillian, shoot! Kill the Snatcher! Don't worry about me!",
+   "rows": [
+    "Gillian, shoot! Kill the",
+    "Snatcher! Don't worry about",
+    "me!"
+   ],
+   "rows_plain": [
+    "Gillian, shoot! Kill the Snatcher!",
+    "Don't worry about me!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f67",
+   "line": 621,
+   "act": 2,
+   "sector": 8308,
+   "offset": 1235,
+   "size": 6294,
+   "b0": 0,
+   "b1": 6294,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Mika!",
+   "rows": [
+    "Mika!"
+   ],
+   "rows_plain": [
+    "Mika!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f68",
+   "line": 622,
+   "act": 2,
+   "sector": 8311,
+   "offset": 557,
+   "size": 7049,
+   "b0": 0,
+   "b1": 7049,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "What do we do?",
+   "rows": [
+    "What do we do?"
+   ],
+   "rows_plain": [
+    "What do we do?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f69",
+   "line": 623,
+   "act": 2,
+   "sector": 8314,
+   "offset": 634,
+   "size": 25096,
+   "b0": 0,
+   "b1": 25096,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Here I come, JUNKER!",
+   "rows": [
+    "Here I come, JUNKER!"
+   ],
+   "rows_plain": [
+    "Here I come, JUNKER!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f70",
+   "line": 626,
+   "act": 3,
+   "sector": 0,
+   "offset": 0,
+   "size": 69248,
+   "b0": 0,
+   "b1": 25893,
+   "speaker": "TV",
+   "colour": 7,
+   "en": "With twelve hours until the Kyoto Summit,",
+   "rows": [
+    "With twelve hours until the",
+    "Kyoto Summit,"
+   ],
+   "rows_plain": [
+    "With twelve hours until the Kyoto",
+    "Summit,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f70b",
+   "line": 626,
+   "act": 3,
+   "sector": 0,
+   "offset": 0,
+   "size": 69248,
+   "b0": 25893,
+   "b1": 69248,
+   "speaker": "TV",
+   "colour": 7,
+   "en": "delegates from around the world are arriving in Kyoto.",
+   "rows": [
+    "delegates from around the",
+    "world are arriving in Kyoto."
+   ],
+   "rows_plain": [
+    "delegates from around the world are",
+    "arriving in Kyoto."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f71",
+   "line": 627,
+   "act": 3,
+   "sector": 29,
+   "offset": 1852,
+   "size": 114502,
+   "b0": 0,
+   "b1": 72899,
+   "speaker": "TV",
+   "colour": 7,
+   "en": "Recent polls at home and abroad show growing support for a complete quarantine",
+   "rows": [
+    "Recent polls at home and",
+    "abroad show growing support",
+    "for a complete quarantine"
+   ],
+   "rows_plain": [
+    "Recent polls at home and abroad show",
+    "growing support for a complete",
+    "quarantine"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_f71b",
+   "line": 627,
+   "act": 3,
+   "sector": 29,
+   "offset": 1852,
+   "size": 114502,
+   "b0": 72899,
+   "b1": 114502,
+   "speaker": "TV",
+   "colour": 7,
+   "en": "of Neo Kobe, apparently driven by fears of Snatcher infiltration.",
+   "rows": [
+    "of Neo Kobe, apparently",
+    "driven by fears of Snatcher",
+    "infiltration."
+   ],
+   "rows_plain": [
+    "of Neo Kobe, apparently driven by",
+    "fears of Snatcher infiltration."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B230_h_00",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 54,
+   "b1": 274840,
+   "size": 17102138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Old man!",
+   "rows": [
+    "Old man!"
+   ],
+   "rows_plain": [
+    "Old man!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_h_01",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 274840,
+   "b1": 861612,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Oh, Gillian. I've gotten old. Look at me.",
+   "rows": [
+    "Oh, Gillian. I've gotten",
+    "old. Look at me."
+   ],
+   "rows_plain": [
+    "Oh, Gillian. I've gotten old. Look",
+    "at me."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_04",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 861612,
+   "b1": 1018806,
+   "size": 17102138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What happened?",
+   "rows": [
+    "What happened?"
+   ],
+   "rows_plain": [
+    "What happened?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_h_05",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 1018806,
+   "b1": 1457584,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "I saw the chief tampering with your car.",
+   "rows": [
+    "I saw the chief tampering",
+    "with your car."
+   ],
+   "rows_plain": [
+    "I saw the chief tampering with your",
+    "car."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_05b",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 1457584,
+   "b1": 1792370,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "And that strange picture in his office.",
+   "rows": [
+    "And that strange picture in",
+    "his office."
+   ],
+   "rows_plain": [
+    "And that strange picture in his",
+    "office."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_07",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 1792370,
+   "b1": 2199150,
+   "size": 17102138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal, how is he? Metal!",
+   "rows": [
+    "Metal, how is he? Metal!"
+   ],
+   "rows_plain": [
+    "Metal, how is he? Metal!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_h_09",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 2199150,
+   "b1": 2428340,
+   "size": 17102138,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I can't tell you.",
+   "rows": [
+    "I can't tell you."
+   ],
+   "rows_plain": [
+    "I can't tell you."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B230_h_10",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 2428340,
+   "b1": 2595132,
+   "size": 17102138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That bad?",
+   "rows": [
+    "That bad?"
+   ],
+   "rows_plain": [
+    "That bad?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_h_11",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 2595132,
+   "b1": 3159506,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Gillian, when I confronted him, he showed his true form.",
+   "rows": [
+    "Gillian, when I confronted",
+    "him, he showed his true",
+    "form."
+   ],
+   "rows_plain": [
+    "Gillian, when I confronted him, he",
+    "showed his true form."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_11b",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 3159506,
+   "b1": 3513888,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "All I could do was wound him.",
+   "rows": [
+    "All I could do was wound",
+    "him."
+   ],
+   "rows_plain": [
+    "All I could do was wound him."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_13",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 3513888,
+   "b1": 3953068,
+   "size": 17102138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I understand, old man. Don't talk. Metal, can't you do something?",
+   "rows": [
+    "I understand, old man. Don't",
+    "talk. Metal, can't you do",
+    "something?"
+   ],
+   "rows_plain": [
+    "I understand, old man. Don't talk.",
+    "Metal, can't you do something?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_h_16",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 3953068,
+   "b1": 4184658,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Gillian.",
+   "rows": [
+    "Gillian."
+   ],
+   "rows_plain": [
+    "Gillian."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_17",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 4184658,
+   "b1": 4581838,
+   "size": 17102138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "You'll be fine. He says it's just a scratch. Good timing.",
+   "rows": [
+    "You'll be fine. He says it's",
+    "just a scratch. Good timing."
+   ],
+   "rows_plain": [
+    "You'll be fine. He says it's just a",
+    "scratch. Good timing."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_h_17b",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 4581838,
+   "b1": 5057016,
+   "size": 17102138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Why not take some time off and relax? You've been working too hard.",
+   "rows": [
+    "Why not take some time off",
+    "and relax? You've been",
+    "working too hard."
+   ],
+   "rows_plain": [
+    "Why not take some time off and",
+    "relax? You've been working too hard."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_h_22",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 5057016,
+   "b1": 5682988,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "It's all right. I know my own body. You're a good man.",
+   "rows": [
+    "It's all right. I know my",
+    "own body. You're a good man."
+   ],
+   "rows_plain": [
+    "It's all right. I know my own body.",
+    "You're a good man."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_25a",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 5682988,
+   "b1": 5742984,
+   "size": 17102138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Old man...",
+   "rows": [
+    "Old man..."
+   ],
+   "rows_plain": [
+    "Old man..."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_h_25",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 5742984,
+   "b1": 6132966,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "I like you. I can't quite explain it.",
+   "rows": [
+    "I like you. I can't quite",
+    "explain it."
+   ],
+   "rows_plain": [
+    "I like you. I can't quite explain",
+    "it."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_25b",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 6132966,
+   "b1": 6521411,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "I've never been good at telling people how I feel. That's it.",
+   "rows": [
+    "I've never been good at",
+    "telling people how I feel.",
+    "That's it."
+   ],
+   "rows_plain": [
+    "I've never been good at telling",
+    "people how I feel. That's it."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_25c",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 6521411,
+   "b1": 6891330,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "You remind me of what I remember of my father.",
+   "rows": [
+    "You remind me of what I",
+    "remember of my father."
+   ],
+   "rows_plain": [
+    "You remind me of what I remember of",
+    "my father."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_29",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 6891330,
+   "b1": 7066522,
+   "size": 17102138,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Pulse and blood pressure dropping.",
+   "rows": [
+    "Pulse and blood pressure",
+    "dropping."
+   ],
+   "rows_plain": [
+    "Pulse and blood pressure dropping."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B230_h_30",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 7066522,
+   "b1": 7570098,
+   "size": 17102138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Hang on, old man. We can share some Napoleon again.",
+   "rows": [
+    "Hang on, old man. We can",
+    "share some Napoleon again."
+   ],
+   "rows_plain": [
+    "Hang on, old man. We can share some",
+    "Napoleon again."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_h_32",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 7570098,
+   "b1": 8161672,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "That sounds good. You, Jean and me. Metal, it's all right. It's all right.",
+   "rows": [
+    "That sounds good. You, Jean",
+    "and me. Metal, it's all",
+    "right. It's all right."
+   ],
+   "rows_plain": [
+    "That sounds good. You, Jean and me.",
+    "Metal, it's all right. It's all",
+    "right."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_32b",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 8161672,
+   "b1": 8720846,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "I've always been alone, Gillian. I never knew my parents or siblings.",
+   "rows": [
+    "I've always been alone,",
+    "Gillian. I never knew my",
+    "parents or siblings."
+   ],
+   "rows_plain": [
+    "I've always been alone, Gillian. I",
+    "never knew my parents or siblings."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_32c",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 8720846,
+   "b1": 9448010,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "So I stubbornly went through life alone. Putting on a brave face. Trusting no one.",
+   "rows": [
+    "So I stubbornly went through",
+    "life alone. Putting on a",
+    "brave face. Trusting no one."
+   ],
+   "rows_plain": [
+    "So I stubbornly went through life",
+    "alone. Putting on a brave face.",
+    "Trusting no one."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_32d",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 9448010,
+   "b1": 9624002,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "But I was wrong.",
+   "rows": [
+    "But I was wrong."
+   ],
+   "rows_plain": [
+    "But I was wrong."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_41",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 9624002,
+   "b1": 9761996,
+   "size": 17102138,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Blood pressure still falling.",
+   "rows": [
+    "Blood pressure still",
+    "falling."
+   ],
+   "rows_plain": [
+    "Blood pressure still falling."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B230_h_42",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 9761996,
+   "b1": 9946788,
+   "size": 17102138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Old man...",
+   "rows": [
+    "Old man..."
+   ],
+   "rows_plain": [
+    "Old man..."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_h_43",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 9946788,
+   "b1": 10627156,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "When Jean died, and now, I've felt human warmth. The human heart.",
+   "rows": [
+    "When Jean died, and now,",
+    "I've felt human warmth. The",
+    "human heart."
+   ],
+   "rows_plain": [
+    "When Jean died, and now, I've felt",
+    "human warmth. The human heart."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_47",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 10627156,
+   "b1": 10768750,
+   "size": 17102138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I understand.",
+   "rows": [
+    "I understand."
+   ],
+   "rows_plain": [
+    "I understand."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_h_48",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 10768750,
+   "b1": 11234328,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Gillian. I wanted to live happily with everyone.",
+   "rows": [
+    "Gillian. I wanted to live",
+    "happily with everyone."
+   ],
+   "rows_plain": [
+    "Gillian. I wanted to live happily",
+    "with everyone."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_48b",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 11234328,
+   "b1": 12052290,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "For fifty years, I've wanted kindness. People who could trust each other.",
+   "rows": [
+    "For fifty years, I've wanted",
+    "kindness. People who could",
+    "trust each other."
+   ],
+   "rows_plain": [
+    "For fifty years, I've wanted",
+    "kindness. People who could trust",
+    "each other."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_56",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 12052290,
+   "b1": 12389474,
+   "size": 17102138,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "He's in danger, Gillian.",
+   "rows": [
+    "He's in danger, Gillian."
+   ],
+   "rows_plain": [
+    "He's in danger, Gillian."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B230_h_57",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 12389474,
+   "b1": 12768656,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "I've talked too much. I'm counting on you, Gillian.",
+   "rows": [
+    "I've talked too much. I'm",
+    "counting on you, Gillian."
+   ],
+   "rows_plain": [
+    "I've talked too much. I'm counting",
+    "on you, Gillian."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_57b",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 12768656,
+   "b1": 13102240,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Looks like they've come for me.",
+   "rows": [
+    "Looks like they've come for",
+    "me."
+   ],
+   "rows_plain": [
+    "Looks like they've come for me."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_57c",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 13102240,
+   "b1": 13385426,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Even a lonely old man gets someone to take him home.",
+   "rows": [
+    "Even a lonely old man gets",
+    "someone to take him home."
+   ],
+   "rows_plain": [
+    "Even a lonely old man gets someone",
+    "to take him home."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_61",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 13385426,
+   "b1": 13624216,
+   "size": 17102138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Old man!",
+   "rows": [
+    "Old man!"
+   ],
+   "rows_plain": [
+    "Old man!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_h_62",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 13624216,
+   "b1": 14403780,
+   "size": 17102138,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Gillian, you have to trust. The last JUNKER...",
+   "rows": [
+    "Gillian, you have to trust.",
+    "The last JUNKER..."
+   ],
+   "rows_plain": [
+    "Gillian, you have to trust. The last",
+    "JUNKER..."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B230_h_64",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 14403780,
+   "b1": 14626968,
+   "size": 17102138,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Harry! Harry!",
+   "rows": [
+    "Harry! Harry!"
+   ],
+   "rows_plain": [
+    "Harry! Harry!"
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B230_h_65",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 14626968,
+   "b1": 15199342,
+   "size": 17102138,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "His pulse has stopped. His pupils are dilated.",
+   "rows": [
+    "His pulse has stopped. His",
+    "pupils are dilated."
+   ],
+   "rows_plain": [
+    "His pulse has stopped. His pupils",
+    "are dilated."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B230_h_67",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 15199342,
+   "b1": 15537726,
+   "size": 17102138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Cunningham! No, Snatcher! You'll pay for this!",
+   "rows": [
+    "Cunningham! No, Snatcher!",
+    "You'll pay for this!"
+   ],
+   "rows_plain": [
+    "Cunningham! No, Snatcher! You'll pay",
+    "for this!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_h_69",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 15537726,
+   "b1": 15892910,
+   "size": 17102138,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "There's no time to grieve. The Snatcher is still hiding inside headquarters.",
+   "rows": [
+    "There's no time to grieve.",
+    "The Snatcher is still hiding",
+    "inside headquarters."
+   ],
+   "rows_plain": [
+    "There's no time to grieve. The",
+    "Snatcher is still hiding inside",
+    "headquarters."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B230_h_71",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 15892910,
+   "b1": 16509281,
+   "size": 17102138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Listen, Metal. If I die, take Mika and get out. Blow up JUNKER headquarters.",
+   "rows": [
+    "Listen, Metal. If I die,",
+    "take Mika and get out. Blow",
+    "up JUNKER headquarters."
+   ],
+   "rows_plain": [
+    "Listen, Metal. If I die, take Mika",
+    "and get out. Blow up JUNKER",
+    "headquarters."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_h_71b",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 16509281,
+   "b1": 16562078,
+   "size": 17102138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Understand?",
+   "rows": [
+    "Understand?"
+   ],
+   "rows_plain": [
+    "Understand?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_h_75",
+   "reel": 101,
+   "sdaif": "SDAIF_A1.AIF",
+   "rate": 30000,
+   "frames": 8551042,
+   "b0": 16562078,
+   "b1": 17100054,
+   "size": 17102138,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Understood. I hope it won't come to that. Where should we start looking?",
+   "rows": [
+    "Understood. I hope it won't",
+    "come to that. Where should",
+    "we start looking?"
+   ],
+   "rows_plain": [
+    "Understood. I hope it won't come to",
+    "that. Where should we start looking?"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B230_a_00",
+   "reel": 128,
+   "sdaif": "SDAIF_C8.AIF",
+   "rate": 30000,
+   "frames": 3722287,
+   "b0": 54,
+   "b1": 246146,
+   "size": 7444628,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The Snatcher has stopped functioning.",
+   "rows": [
+    "The Snatcher has stopped",
+    "functioning."
+   ],
+   "rows_plain": [
+    "The Snatcher has stopped",
+    "functioning."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B230_a_01",
+   "reel": 128,
+   "sdaif": "SDAIF_C8.AIF",
+   "rate": 30000,
+   "frames": 3722287,
+   "b0": 246146,
+   "b1": 475032,
+   "size": 7444628,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Mika, are you all right?",
+   "rows": [
+    "Mika, are you all right?"
+   ],
+   "rows_plain": [
+    "Mika, are you all right?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_a_02",
+   "reel": 128,
+   "sdaif": "SDAIF_C8.AIF",
+   "rate": 30000,
+   "frames": 3722287,
+   "b0": 475032,
+   "b1": 598678,
+   "size": 7444628,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Yes. Thank you.",
+   "rows": [
+    "Yes. Thank you."
+   ],
+   "rows_plain": [
+    "Yes. Thank you."
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B230_a_03",
+   "reel": 128,
+   "sdaif": "SDAIF_C8.AIF",
+   "rate": 30000,
+   "frames": 3722287,
+   "b0": 598678,
+   "b1": 1214510,
+   "size": 7444628,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "We got him, Randam. It took a while, but I paid you back.",
+   "rows": [
+    "We got him, Randam. It took",
+    "a while, but I paid you",
+    "back."
+   ],
+   "rows_plain": [
+    "We got him, Randam. It took a while,",
+    "but I paid you back."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_a_04",
+   "reel": 128,
+   "sdaif": "SDAIF_C8.AIF",
+   "rate": 30000,
+   "frames": 3722287,
+   "b0": 1214510,
+   "b1": 1513022,
+   "size": 7444628,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "JUNKER! Don't think this is over!",
+   "rows": [
+    "JUNKER! Don't think this is",
+    "over!"
+   ],
+   "rows_plain": [
+    "JUNKER! Don't think this is over!"
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B230_a_05",
+   "reel": 128,
+   "sdaif": "SDAIF_C8.AIF",
+   "rate": 30000,
+   "frames": 3722287,
+   "b0": 1513022,
+   "b1": 1826340,
+   "size": 7444628,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "His last words. The Snatcher's energy is fading.",
+   "rows": [
+    "His last words. The",
+    "Snatcher's energy is fading."
+   ],
+   "rows_plain": [
+    "His last words. The Snatcher's",
+    "energy is fading."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B230_a_06",
+   "reel": 128,
+   "sdaif": "SDAIF_C8.AIF",
+   "rate": 30000,
+   "frames": 3722287,
+   "b0": 1826340,
+   "b1": 2370944,
+   "size": 7444628,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Queen Hospital was merely a facility for maintaining our artificial skin.",
+   "rows": [
+    "Queen Hospital was merely a",
+    "facility for maintaining our",
+    "artificial skin."
+   ],
+   "rows_plain": [
+    "Queen Hospital was merely a facility",
+    "for maintaining our artificial skin."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B230_a_06b",
+   "reel": 128,
+   "sdaif": "SDAIF_C8.AIF",
+   "rate": 30000,
+   "frames": 3722287,
+   "b0": 2370944,
+   "b1": 2909146,
+   "size": 7444628,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "There are still more of our comrades in this city than you can possibly imagine.",
+   "rows": [
+    "There are still more of our",
+    "comrades in this city than",
+    "you can possibly imagine."
+   ],
+   "rows_plain": [
+    "There are still more of our comrades",
+    "in this city than you can possibly",
+    "imagine."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B230_a_06c",
+   "reel": 128,
+   "sdaif": "SDAIF_C8.AIF",
+   "rate": 30000,
+   "frames": 3722287,
+   "b0": 2909146,
+   "b1": 3707848,
+   "size": 7444628,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Now we will begin the second phase. For that, we need Dr. Lorraine's help.",
+   "rows": [
+    "Now we will begin the second",
+    "phase. For that, we need Dr.",
+    "Lorraine's help."
+   ],
+   "rows_plain": [
+    "Now we will begin the second phase.",
+    "For that, we need Dr. Lorraine's",
+    "help."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B230_a_06cb",
+   "reel": 128,
+   "sdaif": "SDAIF_C8.AIF",
+   "rate": 30000,
+   "frames": 3722287,
+   "b0": 3707848,
+   "b1": 4729032,
+   "size": 7444628,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "You are insignificant, as long as your memory stays lost. Bad luck, JUNKER!",
+   "rows": [
+    "You are insignificant, as",
+    "long as your memory stays",
+    "lost. Bad luck, JUNKER!"
+   ],
+   "rows_plain": [
+    "You are insignificant, as long as",
+    "your memory stays lost. Bad luck,",
+    "JUNKER!"
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B230_a_13",
+   "reel": 128,
+   "sdaif": "SDAIF_C8.AIF",
+   "rate": 30000,
+   "frames": 3722287,
+   "b0": 4729032,
+   "b1": 5075962,
+   "size": 7444628,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "My memory. Snatchers. Dr. Lorraine.",
+   "rows": [
+    "My memory. Snatchers. Dr.",
+    "Lorraine."
+   ],
+   "rows_plain": [
+    "My memory. Snatchers. Dr. Lorraine."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_a_14",
+   "reel": 128,
+   "sdaif": "SDAIF_C8.AIF",
+   "rate": 30000,
+   "frames": 3722287,
+   "b0": 5327656,
+   "b1": 6032322,
+   "size": 7444628,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Harry! Why? Why does it have to be the good people who die?",
+   "rows": [
+    "Harry! Why? Why does it have",
+    "to be the good people who",
+    "die?"
+   ],
+   "rows_plain": [
+    "Harry! Why? Why does it have to be",
+    "the good people who die?"
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B230_a_18",
+   "reel": 128,
+   "sdaif": "SDAIF_C8.AIF",
+   "rate": 30000,
+   "frames": 3722287,
+   "b0": 6032322,
+   "b1": 6108750,
+   "size": 7444628,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Mika.",
+   "rows": [
+    "Mika."
+   ],
+   "rows_plain": [
+    "Mika."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_a_19",
+   "reel": 128,
+   "sdaif": "SDAIF_C8.AIF",
+   "rate": 30000,
+   "frames": 3722287,
+   "b0": 6108750,
+   "b1": 6244000,
+   "size": 7444628,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "This isn't right!",
+   "rows": [
+    "This isn't right!"
+   ],
+   "rows_plain": [
+    "This isn't right!"
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B230_a_20",
+   "reel": 128,
+   "sdaif": "SDAIF_C8.AIF",
+   "rate": 30000,
+   "frames": 3722287,
+   "b0": 6244000,
+   "b1": 6711376,
+   "size": 7444628,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Mika, I won't let anyone else die. I swore to Harry and Randam.",
+   "rows": [
+    "Mika, I won't let anyone",
+    "else die. I swore to Harry",
+    "and Randam."
+   ],
+   "rows_plain": [
+    "Mika, I won't let anyone else die. I",
+    "swore to Harry and Randam."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_a_21",
+   "reel": 128,
+   "sdaif": "SDAIF_C8.AIF",
+   "rate": 30000,
+   "frames": 3722287,
+   "b0": 6711376,
+   "b1": 7444628,
+   "size": 7444628,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "There are still Snatchers in this city. Our fight against them has only just begun.",
+   "rows": [
+    "There are still Snatchers in",
+    "this city. Our fight against",
+    "them has only just begun."
+   ],
+   "rows_plain": [
+    "There are still Snatchers in this",
+    "city. Our fight against them has",
+    "only just begun."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_j_00",
+   "reel": 129,
+   "sdaif": "SDAIF_C9.AIF",
+   "rate": 30000,
+   "frames": 2377212,
+   "b0": 54,
+   "b1": 667940,
+   "size": 4754478,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian, an urgent call from Jamie. I'll connect you.",
+   "rows": [
+    "Gillian, an urgent call from",
+    "Jamie. I'll connect you."
+   ],
+   "rows_plain": [
+    "Gillian, an urgent call from Jamie.",
+    "I'll connect you."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B230_j_01",
+   "reel": 129,
+   "sdaif": "SDAIF_C9.AIF",
+   "rate": 30000,
+   "frames": 2377212,
+   "b0": 667940,
+   "b1": 851510,
+   "size": 4754478,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Gillian, my memory's back!",
+   "rows": [
+    "Gillian, my memory's back!"
+   ],
+   "rows_plain": [
+    "Gillian, my memory's back!"
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B230_j_02",
+   "reel": 129,
+   "sdaif": "SDAIF_C9.AIF",
+   "rate": 30000,
+   "frames": 2377212,
+   "b0": 851510,
+   "b1": 1190654,
+   "size": 4754478,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Your memory's back? Who are we?",
+   "rows": [
+    "Your memory's back? Who are",
+    "we?"
+   ],
+   "rows_plain": [
+    "Your memory's back? Who are we?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_j_04",
+   "reel": 129,
+   "sdaif": "SDAIF_C9.AIF",
+   "rate": 30000,
+   "frames": 2377212,
+   "b0": 1190654,
+   "b1": 1365824,
+   "size": 4754478,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "We did something terrible.",
+   "rows": [
+    "We did something terrible."
+   ],
+   "rows_plain": [
+    "We did something terrible."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B230_j_05",
+   "reel": 129,
+   "sdaif": "SDAIF_C9.AIF",
+   "rate": 30000,
+   "frames": 2377212,
+   "b0": 1365824,
+   "b1": 1463008,
+   "size": 4754478,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Jamie, what's wrong?",
+   "rows": [
+    "Jamie, what's wrong?"
+   ],
+   "rows_plain": [
+    "Jamie, what's wrong?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_j_06",
+   "reel": 129,
+   "sdaif": "SDAIF_C9.AIF",
+   "rate": 30000,
+   "frames": 2377212,
+   "b0": 1463008,
+   "b1": 1955724,
+   "size": 4754478,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "I can't say it over the videophone! I'd rather my memory had never come back!",
+   "rows": [
+    "I can't say it over the",
+    "videophone! I'd rather my",
+    "memory had never come back!"
+   ],
+   "rows_plain": [
+    "I can't say it over the videophone!",
+    "I'd rather my memory had never come",
+    "back!"
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B230_j_09",
+   "reel": 129,
+   "sdaif": "SDAIF_C9.AIF",
+   "rate": 30000,
+   "frames": 2377212,
+   "b0": 1955724,
+   "b1": 2195284,
+   "size": 4754478,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "All right, Jamie. I'll be right there! Where are you?",
+   "rows": [
+    "All right, Jamie. I'll be",
+    "right there! Where are you?"
+   ],
+   "rows_plain": [
+    "All right, Jamie. I'll be right",
+    "there! Where are you?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_j_11",
+   "reel": 129,
+   "sdaif": "SDAIF_C9.AIF",
+   "rate": 30000,
+   "frames": 2377212,
+   "b0": 2195284,
+   "b1": 2459240,
+   "size": 4754478,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "I never should have woken... Gillian, I'm sorry. I can't tell you.",
+   "rows": [
+    "I never should have woken...",
+    "Gillian, I'm sorry. I can't",
+    "tell you."
+   ],
+   "rows_plain": [
+    "I never should have woken...",
+    "Gillian, I'm sorry. I can't tell",
+    "you."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B230_j_11b",
+   "reel": 129,
+   "sdaif": "SDAIF_C9.AIF",
+   "rate": 30000,
+   "frames": 2377212,
+   "b0": 2459240,
+   "b1": 2576820,
+   "size": 4754478,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "They're holding the child hostage.",
+   "rows": [
+    "They're holding the child",
+    "hostage."
+   ],
+   "rows_plain": [
+    "They're holding the child hostage."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B230_j_14",
+   "reel": 129,
+   "sdaif": "SDAIF_C9.AIF",
+   "rate": 30000,
+   "frames": 2377212,
+   "b0": 2576820,
+   "b1": 2650008,
+   "size": 4754478,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The child?",
+   "rows": [
+    "The child?"
+   ],
+   "rows_plain": [
+    "The child?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_j_15",
+   "reel": 129,
+   "sdaif": "SDAIF_C9.AIF",
+   "rate": 30000,
+   "frames": 2377212,
+   "b0": 2650008,
+   "b1": 2767188,
+   "size": 4754478,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Dr. Madnar is here, too.",
+   "rows": [
+    "Dr. Madnar is here, too."
+   ],
+   "rows_plain": [
+    "Dr. Madnar is here, too."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B230_j_16",
+   "reel": 129,
+   "sdaif": "SDAIF_C9.AIF",
+   "rate": 30000,
+   "frames": 2377212,
+   "b0": 2767188,
+   "b1": 2851174,
+   "size": 4754478,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What are you talking about, Jamie?",
+   "rows": [
+    "What are you talking about,",
+    "Jamie?"
+   ],
+   "rows_plain": [
+    "What are you talking about, Jamie?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_j_17",
+   "reel": 129,
+   "sdaif": "SDAIF_C9.AIF",
+   "rate": 30000,
+   "frames": 2377212,
+   "b0": 2851174,
+   "b1": 3271174,
+   "size": 4754478,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "I'm sorry. Snatchers! Gillian!",
+   "rows": [
+    "I'm sorry. Snatchers!",
+    "Gillian!"
+   ],
+   "rows_plain": [
+    "I'm sorry. Snatchers! Gillian!"
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B230_j_20",
+   "reel": 129,
+   "sdaif": "SDAIF_C9.AIF",
+   "rate": 30000,
+   "frames": 2377212,
+   "b0": 3271174,
+   "b1": 3333574,
+   "size": 4754478,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Jamie! Jamie!",
+   "rows": [
+    "Jamie! Jamie!"
+   ],
+   "rows_plain": [
+    "Jamie! Jamie!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B230_j_23",
+   "reel": 129,
+   "sdaif": "SDAIF_C9.AIF",
+   "rate": 30000,
+   "frames": 2377212,
+   "b0": 3333574,
+   "b1": 3715830,
+   "size": 4754478,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Gillian. We have Dr. Lorraine. We just need her to help us a little.",
+   "rows": [
+    "Gillian. We have Dr.",
+    "Lorraine. We just need her",
+    "to help us a little."
+   ],
+   "rows_plain": [
+    "Gillian. We have Dr. Lorraine. We",
+    "just need her to help us a little."
+   ],
+   "enabled": true,
+   "face_char": 9
+  },
+  {
+   "id": "B230_j_23b",
+   "reel": 129,
+   "sdaif": "SDAIF_C9.AIF",
+   "rate": 30000,
+   "frames": 2377212,
+   "b0": 3715830,
+   "b1": 4754478,
+   "size": 4754478,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "At our Kremlin. Until then, behave yourself, Dr. Seed.",
+   "rows": [
+    "At our Kremlin. Until then,",
+    "behave yourself, Dr. Seed."
+   ],
+   "rows_plain": [
+    "At our Kremlin. Until then, behave",
+    "yourself, Dr. Seed."
+   ],
+   "enabled": true,
+   "face_char": 9
+  }
+ ]
+}

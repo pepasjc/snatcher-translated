@@ -1,0 +1,7 @@
+{"scene": "B060", "note": "Act 1 HQ (B080_start): call Jamie 39-3444 - B060's tape cards after gen_b060's Joy Division/speaker change",
+ "actions": [
+  {"path": ["Use Metal Gear", "Videophone"]},
+  {"path": ["Call"], "optional": true, "patience": 1500},
+  {"dial": "393444"},
+  {"idle": 600}, {"press": "circle"}, {"idle": 600}, {"press": "circle"}, {"idle": 3000}
+ ]}

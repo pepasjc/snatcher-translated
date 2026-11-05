@@ -1,0 +1,37 @@
+{
+ "file": "DATA.BIN[30]",
+ "entry": 30,
+ "text_base": 15,
+ "twins": [
+  "B090"
+ ],
+ "strings": [
+  {
+   "off": 15,
+   "budget": 3,
+   "en": "",
+   "src": "B090:15",
+   "carry": "exact"
+  },
+  {
+   "off": 18,
+   "budget": 2,
+   "en": "",
+   "src": "B090:18",
+   "carry": "exact"
+  },
+  {
+   "off": 20,
+   "budget": 31,
+   "en": "I'm a dummy file. Oh, my!",
+   "src": "B090:20",
+   "carry": "exact"
+  },
+  {
+   "off": 53,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

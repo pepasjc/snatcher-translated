@@ -1,0 +1,187 @@
+{
+ "scene": "B100",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B100_000",
+   "line": 136,
+   "act": 1,
+   "sector": 2600,
+   "offset": 184,
+   "size": 36709,
+   "b0": 0,
+   "b1": 36709,
+   "speaker": "Waiter",
+   "colour": 7,
+   "en": "Welcome. Table for one?",
+   "rows": [
+    "Welcome. Table for one?"
+   ],
+   "rows_plain": [
+    "Welcome. Table for one?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B100_002",
+   "line": 139,
+   "act": 1,
+   "sector": 2675,
+   "offset": 553,
+   "size": 96136,
+   "b0": 0,
+   "b1": 96136,
+   "speaker": "Thug",
+   "colour": 7,
+   "en": "What the hell? They're JUNKERs! JUNKERs? Get lost, cops! You don't belong here!",
+   "rows": [
+    "What the hell? They're",
+    "JUNKERs! JUNKERs? Get lost,",
+    "cops! You don't belong here!"
+   ],
+   "rows_plain": [
+    "What the hell? They're JUNKERs!",
+    "JUNKERs? Get lost, cops! You don't",
+    "belong here!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B100_003",
+   "line": 140,
+   "act": 1,
+   "sector": 2716,
+   "offset": 1405,
+   "size": 54024,
+   "b0": 0,
+   "b1": 54024,
+   "speaker": "Master",
+   "colour": 7,
+   "en": "Looks like you've come to the wrong place. Forget the bill. Just get out.",
+   "rows": [
+    "Looks like you've come to",
+    "the wrong place. Forget the",
+    "bill. Just get out."
+   ],
+   "rows_plain": [
+    "Looks like you've come to the wrong",
+    "place. Forget the bill. Just get",
+    "out."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B100_004",
+   "line": 141,
+   "act": 1,
+   "sector": 2739,
+   "offset": 1977,
+   "size": 6988,
+   "b0": 0,
+   "b1": 6988,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Is he dead?",
+   "rows": [
+    "Is he dead?"
+   ],
+   "rows_plain": [
+    "Is he dead?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B100_005",
+   "line": 142,
+   "act": 1,
+   "sector": 2742,
+   "offset": 1993,
+   "size": 58761,
+   "b0": 0,
+   "b1": 58761,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "He's just unconscious. Nice shot, right in the hand.",
+   "rows": [
+    "He's just unconscious. Nice",
+    "shot, right in the hand."
+   ],
+   "rows_plain": [
+    "He's just unconscious. Nice shot,",
+    "right in the hand."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B100_006",
+   "line": 143,
+   "act": 1,
+   "sector": 2768,
+   "offset": 330,
+   "size": 23365,
+   "b0": 0,
+   "b1": 23365,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That's not where I was aiming.",
+   "rows": [
+    "That's not where I was",
+    "aiming."
+   ],
+   "rows_plain": [
+    "That's not where I was aiming."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B100_007",
+   "line": 144,
+   "act": 1,
+   "sector": 2778,
+   "offset": 455,
+   "size": 27451,
+   "b0": 0,
+   "b1": 27451,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Hey! How long are you going to lie there?",
+   "rows": [
+    "Hey! How long are you going",
+    "to lie there?"
+   ],
+   "rows_plain": [
+    "Hey! How long are you going to lie",
+    "there?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B100_008",
+   "line": 145,
+   "act": 1,
+   "sector": 2790,
+   "offset": 18,
+   "size": 19565,
+   "b0": 0,
+   "b1": 19565,
+   "speaker": "Thug",
+   "colour": 7,
+   "en": "Aagh! H-help me!",
+   "rows": [
+    "Aagh! H-help me!"
+   ],
+   "rows_plain": [
+    "Aagh! H-help me!"
+   ],
+   "enabled": true
+  }
+ ]
+}

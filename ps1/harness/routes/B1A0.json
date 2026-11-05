@@ -1,0 +1,183 @@
+{
+ "scene": "B150",
+ "note": "Gillian's apartment in Act 2 (guides/ps1.txt Act 2 GILLIAN'S APARTMENT): lights on, Catherine inside - the shower, the towel, the candy, her father, the hospital list and the OLEEN/QUEEN name puzzle (typed - parked). Every menu swept up to the keyboard.",
+ "actions": [
+  {
+   "path": [
+    "Find Catherine"
+   ],
+   "optional": true,
+   "reps": 3,
+   "patience": 600
+  },
+  {
+   "sweep": [
+    "Find Catherine",
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 3
+  },
+  {
+   "path": [
+    "Move",
+    "Front desk"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Move",
+    "Board Tricycle"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Altamira"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Find Catherine"
+   ],
+   "rounds": 3
+  },
+  {
+   "path": [
+    "Board Tricycle"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Home"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B1A0_arrive"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen",
+    "Sniff"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Move",
+    "Go inside"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B1A0_inside"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen",
+    "Sniff",
+    "Talk",
+    "Ask"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Go out",
+    "Enter bath"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Enter bath"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen",
+    "Sniff",
+    "Talk",
+    "Ask",
+    "Take",
+    "Underwear"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "save": "B1A0_katrina"
+  },
+  {
+   "sweep": [
+    "Talk",
+    "Ask",
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "path": [
+    "Open booth"
+   ],
+   "optional": true,
+   "reps": 2
+  },
+  {
+   "save": "B1A0_open"
+  },
+  {
+   "sweep": [
+    "Talk",
+    "Ask",
+    "Look",
+    "Investigate",
+    "Give candy",
+    "Talk about candy"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Go out",
+    "Check the list",
+    "Hospital list",
+    "Ask for a clue"
+   ]
+  },
+  {
+   "save": "B1A0_end"
+  }
+ ]
+}

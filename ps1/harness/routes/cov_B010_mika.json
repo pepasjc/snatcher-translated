@@ -1,0 +1,12 @@
+{
+ "scene": "B010",
+ "note": "Coverage: B010_005-007. The front desk conversation without entering, then a room other than the Chief's office first: Mika reroutes Gillian to the Chief ('The Chief asked me to show you around...').",
+ "actions": [
+  {"path": ["Go inside"], "reps": 2, "why": "Mika stops Gillian; adds Talk"},
+  {"sweep": ["Talk", "Ask", "Look", "Investigate"], "rounds": 2, "why": "the front desk conversation"},
+  {"path": ["Go inside", "Mechanic room"], "why": "anything but the Chief's office first"},
+  {"path": ["Go inside|Go out", "Mechanic room"], "optional": true, "why": "again, in case that Go inside only talked"},
+  {"path": ["Go inside|Go out", "Mechanic room"], "optional": true},
+  {"idle": 3000}
+ ]
+}

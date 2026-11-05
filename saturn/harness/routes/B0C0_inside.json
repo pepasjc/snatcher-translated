@@ -1,0 +1,129 @@
+{
+ "scene": "B0C0",
+ "note": "Gibson's house, inside: from the B0C0_door bookmark (the B0C0 route's end), Catherine's questions on the numeric pad (satplay's dial - the Saturn pad's cells mapped 2026-09-16), then the PS1 route's interior (ps1/harness/routes/B0C0.json from 'Answer' on).",
+ "actions": [
+  {
+   "wait_menu": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Answer",
+    "Gibson's age"
+   ],
+   "optional": true
+  },
+  {
+   "dial": "55",
+   "then": "start"
+  },
+  {
+   "path": [
+    "Answer",
+    "Measurements"
+   ],
+   "optional": true
+  },
+  {
+   "dial": "81",
+   "then": "start"
+  },
+  {
+   "dial": "58",
+   "then": "start"
+  },
+  {
+   "dial": "83",
+   "then": "start"
+  },
+  {
+   "save": "B0C0_inside"
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "why": "ASK Catherine ABOUT GIBSON; Look/Check the room once"
+  },
+  {
+   "sweep": [
+    "Ask"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "About Catherine"
+   ],
+   "why": "second round of questions; repeated passes at Catherine get Gillian thrown out"
+  },
+  {
+   "path": [
+    "Move",
+    "Study|Desk"
+   ],
+   "why": "MOVE to the STUDY"
+  },
+  {
+   "save": "B0C0_study"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Ask"
+   ],
+   "rounds": 2,
+   "why": "LOOK at the WINDOW, INVESTIGATE the COMPUTER, ASK ABOUT PC68"
+  },
+  {
+   "path": [
+    "Item",
+    "Show",
+    "Disk"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Item",
+    "Use",
+    "Disk"
+   ],
+   "optional": true,
+   "why": "the floppy read aloud (needs the disk from the HQ drawer)"
+  },
+  {
+   "save": "B0C0_disk"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 3,
+   "why": "the DESK opens new options; BOTTLE and PHOTO"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Ask"
+   ],
+   "rounds": 2,
+   "why": "the garden, Alice barking"
+  },
+  {
+   "save": "B0C0_garden"
+  },
+  {
+   "idle": 1500
+  },
+  {
+   "wait_menu": true,
+   "patience": 16000,
+   "hold": 60
+  }
+ ]
+}

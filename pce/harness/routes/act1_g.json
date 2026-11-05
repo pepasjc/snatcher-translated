@@ -1,0 +1,352 @@
+[
+{
+"choose": "Freddy's home"
+},
+{
+"read": 8000
+},
+{
+"choose": "Exit Tricycle"
+},
+{
+"read": 8000
+},
+{
+"save": "fred0"
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"choose": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": "Room 202"
+},
+{
+"read": 8000
+},
+{
+"save": "fred_door"
+},
+{
+"items": 1
+},
+{
+"maybe": "Knock"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"maybe": "Listen"
+},
+{
+"read": 4000
+},
+{
+"repeat": [
+{
+"maybe": "Knock"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Talk"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Shout"
+},
+{
+"read": 6000
+}
+],
+"until": "Ask",
+"max": 6
+},
+{
+"read": 8000
+},
+{
+"save": "fred_in"
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 3
+},
+{
+"read": 3000
+},
+{
+"choose": "Talk"
+},
+{
+"choose": "Freddy suspected"
+},
+{
+"read": 6000
+},
+{
+"choose": "Talk"
+},
+{
+"choose": "Freddy suspected"
+},
+{
+"read": 6000
+},
+{
+"choose": "Item"
+},
+{
+"choose": "Show"
+},
+{
+"choose": "Photo"
+},
+{
+"choose": "Montage photo"
+},
+{
+"read": 6000
+},
+{
+"choose": "Look"
+},
+{
+"choose": "Wall"
+},
+{
+"read": 4000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Map"
+},
+{
+"read": 4000
+},
+{
+"sweep": "Talk",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Ask",
+"rounds": 3
+},
+{
+"read": 8000
+},
+{
+"maybe": "Sneeze"
+},
+{
+"read": 8000
+},
+{
+"save": "fred_bath"
+},
+{
+"items": 1
+},
+{
+"aim": "head"
+},
+{
+"sweep": "Investigate",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 8000
+},
+{
+"save": "fred_fought"
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 8000
+},
+{
+"save": "fred_remains"
+},
+{
+"items": 1
+},
+{
+"maybe": "Check remains"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Look at remains"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"maybe": "Open door"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"aim": "up"
+},
+{
+"repeat": [
+{
+"maybe": "Look around"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Investigate"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Look at remains"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Listen"
+},
+{
+"read": 6000
+}
+],
+"until": "Go to bathroom",
+"max": 4
+},
+{
+"save": "fred_last"
+},
+{
+"items": 1
+},
+{
+"choose": "Go to bathroom"
+},
+{
+"read": 8000
+},
+{
+"read": 30000
+},
+{
+"items": 1
+},
+{
+"save": "act1_end"
+},
+{
+"wait": 240
+},
+{
+"choose": "Don't save"
+},
+{
+"read": 40000
+},
+{
+"items": 1
+},
+{
+"save": "act2_start"
+}
+]

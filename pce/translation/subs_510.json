@@ -1,0 +1,211 @@
+{
+ "12": {
+  "speaker": "Gillian",
+  "en": "Ha ha ha ha!",
+  "ps1": [
+   "B0D0_1024"
+  ],
+  "cards": [
+   "Ha ha ha ha!"
+  ],
+  "layout": "plain"
+ },
+ "5a": {
+  "speaker": "Metal Gear",
+  "en": "Snatchers hate dogs. This can't be their maintenance hospital.",
+  "ps1": [
+   "B1B0_f8_0",
+   "B1B0_f8_0b"
+  ],
+  "cards": [
+   "Snatchers hate|dogs. This can't be|their maintenance|hospital."
+  ]
+ },
+ "5b": {
+  "speaker": "Gillian",
+  "en": "Looks like we got the wrong place. So we're back to square one.",
+  "ps1": [
+   "B1B0_f9_0",
+   "B1B0_f9_0b"
+  ],
+  "cards": [
+   "Looks like we got|the wrong place. So|we're back to|square one."
+  ]
+ },
+ "5c": {
+  "speaker": "Metal Gear",
+  "en": "Don't lose hope. We're just getting started. Let's return to the Tricycle.",
+  "ps1": [
+   "B1B0_f10_0",
+   "B1B0_f10_0b"
+  ],
+  "cards": [
+   "Don't lose hope.|We're just getting|started.",
+   "Let's return to the|Tricycle."
+  ],
+  "turns": [
+   3.92
+  ]
+ },
+ "5d": {
+  "speaker": "Gillian",
+  "en": "Oleen Hospital, huh?",
+  "ps1": [
+   "B1B0_f11_0"
+  ],
+  "cards": [
+   "Oleen Hospital, huh?"
+  ]
+ },
+ "5e": {
+  "speaker": "Metal Gear",
+  "en": "Unfortunately, it seems we were on the wrong track.",
+  "ps1": [
+   "B1B0_f12_0"
+  ],
+  "cards": [
+   "Unfortunately, it|seems we were on|the wrong track."
+  ]
+ },
+ "5f": {
+  "speaker": "Gillian",
+  "en": "Yeah. Let's go, Metal.",
+  "ps1": [
+   "B1B0_f13_0"
+  ],
+  "cards": [
+   "Yeah. Let's go,|Metal."
+  ]
+ },
+ "c3": {
+  "speaker": "Gillian",
+  "en": "Where are you taking us?",
+  "ps1": [
+   "B1F0_f24_0"
+  ],
+  "cards": [
+   "Where are you|taking us?"
+  ]
+ },
+ "c4": {
+  "speaker": "Metal Gear",
+  "en": "Something's wrong. The Tricycle is out of control.",
+  "ps1": [
+   "B1F0_f25_0"
+  ],
+  "cards": [
+   "Something's wrong.|The Tricycle is out|of control."
+  ]
+ },
+ "c5": {
+  "speaker": "Gillian",
+  "en": "Switch from autopilot to manual!",
+  "ps1": [
+   "B1F0_f26_0"
+  ],
+  "cards": [
+   "Switch from|autopilot to manual!"
+  ]
+ },
+ "c6": {
+  "speaker": "Metal Gear",
+  "en": "Understood. Switched to manual control.",
+  "ps1": [
+   "B1F0_f27_0"
+  ],
+  "cards": [
+   "Understood.|Switched to manual|control."
+  ]
+ },
+ "c7": {
+  "speaker": "Metal Gear",
+  "en": "How is it?",
+  "ps1": [
+   "B1F0_f28_0"
+  ],
+  "cards": [
+   "How is it?"
+  ]
+ },
+ "c8": {
+  "speaker": "Gillian",
+  "en": "They're gone! No brakes!",
+  "ps1": [
+   "B1F0_f29_0"
+  ],
+  "cards": [
+   "They're gone! No|brakes!"
+  ],
+  "layout": "plain"
+ },
+ "c9": {
+  "speaker": "Gillian",
+  "en": "Metal! Check the brakes! Hurry!",
+  "ps1": [
+   "B1F0_f30_0"
+  ],
+  "cards": [
+   "Metal! Check the|brakes! Hurry!"
+  ],
+  "layout": "plain"
+ },
+ "ca": {
+  "speaker": "Metal Gear",
+  "en": "A Snatcher must have sabotaged them!",
+  "ps1": [
+   "B1F0_f31_0"
+  ],
+  "cards": [
+   "A Snatcher must|have sabotaged them!"
+  ],
+  "layout": "plain"
+ },
+ "cb": {
+  "speaker": "Gillian",
+  "en": "Sabotage? Of course! Only one person could sabotage the Tricycle!",
+  "ps1": [
+   "B1F0_f32_0",
+   "B1F0_f32_0b"
+  ],
+  "cards": [
+   "Sabotage? Of course!",
+   "Only one person could|sabotage the Tricycle!"
+  ],
+  "layout": "plain",
+  "turns": [
+   2.2
+  ]
+ },
+ "cc": {
+  "speaker": "Metal Gear",
+  "en": "Never mind that! Do something, Gillian!",
+  "ps1": [
+   "B1F0_f33_0"
+  ],
+  "cards": [
+   "Never mind that! Do|something, Gillian!"
+  ],
+  "layout": "plain"
+ },
+ "cd": {
+  "speaker": "Parrot",
+  "en": "Squawk! Squawk!",
+  "cards": [
+   "Squawk! Squawk!"
+  ],
+  "layout": "plain"
+ },
+ "ce": {
+  "speaker": "Parrot",
+  "en": "Outer Heaven!",
+  "cards": [
+   "Outer Heaven!"
+  ],
+  "layout": "plain"
+ },
+ "_unmatched": {
+  "d2": "0.12 XAS_M000.XA[133]",
+  "cf": "0.12 XAS_S000.XA[27]",
+  "d3": "0.18 XAS_M000.XA[133]"
+ }
+}

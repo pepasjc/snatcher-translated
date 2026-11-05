@@ -1,0 +1,29 @@
+{
+ "_comment": "The Saturn opening's captions and credit roll in English, baked by saturn/tools/satroll.py. 'screens' = chunk 394's sprite lists (1..23), in the order the roll plays them; each screen's lines map top to bottom onto the original's text rows, so the count must match. Runs of two or more spaces become separate columns on one line. Shared entries carry the PS1 roll's English (ps1/translation/staff_roll.json); the Saturn roll credits its own port staff (the graphics, program, publicity and sound lines differ from the PS1's), romanised given-name-first like the PS1 data. Best-effort readings: 綱島忠亮 Tadaaki Tsunashima, 山岸隆郎 Takao Yamagishi, 髙木章成 Akinari Takagi, 安達昌宣 Masanobu Adachi (the PS1 roll's 'Gott Adachi' credit), あきろびと Akirobito and 岐田寸 Kidasun (pen names). 'caption' = the JUNKER HQ caption under the tower (chunk 452), the PS1's wording (ps1/tools/introcaption.py): line 1 replaces コナミオムニビル, line 2's tail replaces 本部 after the original JUNKER.",
+ "screens": [
+  {"list": 1, "lines": ["2042.12", "NEO KOBE CITY"]},
+  {"list": 2, "lines": ["CAST"]},
+  {"list": 3, "lines": ["GILLIAN SEED", "Yusaku Yara"]},
+  {"list": 4, "lines": ["METAL GEAR Mk.II", "Mami Koyama"]},
+  {"list": 5, "lines": ["JAMIE SEED", "Kikuko Inoue"]},
+  {"list": 6, "lines": ["RANDAM HAJILE", "Kaneto Shiozawa"]},
+  {"list": 7, "lines": ["MIKA SLAYTON", "Mina Tominaga"]},
+  {"list": 8, "lines": ["HARRY BENSON", "Ryuji Saikachi"]},
+  {"list": 9, "lines": ["JEAN JACK GIBSON", "Isao Inokuchi"]},
+  {"list": 10, "lines": ["BENSON CUNNINGHAM", "Goro Naya"]},
+  {"list": 11, "lines": ["STAFF"]},
+  {"list": 12, "lines": ["ORIGINAL STORY & SCRIPT", "Hideo Kojima"]},
+  {"list": 13, "lines": ["CHARACTER DESIGN", "Tomiharu Kinoshita"]},
+  {"list": 14, "lines": ["GRAPHICS", "Junko Koike    Mihoko Kimura"]},
+  {"list": 15, "lines": ["GRAPHICS", "Naoya Hatsumi    Jun Asami", "Takayuki Ando"]},
+  {"list": 16, "lines": ["PROGRAM", "Tadaaki Tsunashima    Takao Yamagishi", "Akinari Takagi"]},
+  {"list": 17, "lines": ["PROGRAM", "Kazuki Araki    Atsushi Mizutani", "Hiroyuki Asata"]},
+  {"list": 19, "lines": ["SOUND PROGRAM", "Akirobito", "SOUND MIXING", "Masanobu Adachi"]},
+  {"list": 20, "lines": ["MUSIC", "Kidasun    Shoichiro Hirata", "SOUND EFFECTS", "Keizo Nakamura"]},
+  {"list": 18, "lines": ["PUBLICITY", "Nobuko Tsuboi    Hiroki Tabata", "Taro Miyake"]},
+  {"list": 21, "lines": ["DIRECTOR", "Tadaaki Tsunashima"]},
+  {"list": 22, "lines": ["PRODUCERS", "Ichizo Kitakami", "Kazuhisa Hashimoto"]},
+  {"list": 23, "lines": ["PRODUCED BY", "KONAMI CORPORATION"]}
+ ],
+ "caption": ["KONAMI OMNI BLDG", "HQ"]
+}

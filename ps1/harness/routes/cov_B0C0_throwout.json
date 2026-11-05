@@ -1,0 +1,118 @@
+{
+ "scene": "B0C0",
+ "note": "Coverage: B0C0_021 (Catherine shuts Gillian out: 'So that's what you're like? Get out! Don't come back!'). From wg/wg04_B0B0: whole_game.route.json 62-73 (to Catherine's door, the JUNKER ID shown), then Item > Show > Manhood until she throws him out, then knock.",
+ "actions": [
+  {
+   "path": [
+    "Move",
+    "Go out"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Move",
+    "Board Tricycle"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Board Tricycle"
+   ],
+   "patience": 1500,
+   "optional": true
+  },
+  {
+   "path": [
+    "Gibson's"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Investigate",
+    "Building|Home|House"
+   ],
+   "why": "INVESTIGATE the HOUSE - adds Knock to the verb menu (the remap table has no room for a 'House' long, so the label is Home)"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "reps": 2,
+   "why": "Check > House adds Knock to the verb menu"
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "reps": 2,
+   "why": "the arrival offers Knock / Another time"
+  },
+  {
+   "path": [
+    "Talk"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Item",
+    "Show",
+    "JUNKER ID"
+   ],
+   "optional": true
+  },
+  {
+   "save": "cov_B0C0_door"
+  },
+  {
+   "path": [
+    "Item",
+    "Show",
+    "Manhood"
+   ],
+   "reps": 4,
+   "optional": true,
+   "patience": 3000,
+   "why": "Gillian's 'manhood' at the door: Catherine's 'So that's what you're like? Get out! Don't come back!' (B0C0_021)"
+  },
+  {
+   "idle": 1500
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "reps": 3,
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Talk"
+   ],
+   "optional": true
+  },
+  {
+   "idle": 1500
+  }
+ ]
+}

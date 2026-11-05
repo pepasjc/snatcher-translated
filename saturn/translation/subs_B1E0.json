@@ -1,0 +1,995 @@
+{
+ "scene": "B1E0",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B1E0_f39_0",
+   "line": 439,
+   "act": 2,
+   "sector": 3133,
+   "offset": 1913,
+   "size": 18617,
+   "b0": 0,
+   "b1": 18617,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We've arrived at Queen Hospital.",
+   "rows": [
+    "We've arrived at Queen",
+    "Hospital."
+   ],
+   "rows_plain": [
+    "We've arrived at Queen Hospital."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1E0_f40_0",
+   "line": 440,
+   "act": 2,
+   "sector": 3141,
+   "offset": 1938,
+   "size": 23788,
+   "b0": 0,
+   "b1": 23788,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "So this is Queen Hospital.",
+   "rows": [
+    "So this is Queen Hospital."
+   ],
+   "rows_plain": [
+    "So this is Queen Hospital."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f41_0",
+   "line": 441,
+   "act": 2,
+   "sector": 3152,
+   "offset": 162,
+   "size": 50193,
+   "b0": 0,
+   "b1": 28009,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Are you sure, Randam? This will be dangerous.",
+   "rows": [
+    "Are you sure, Randam? This",
+    "will be dangerous."
+   ],
+   "rows_plain": [
+    "Are you sure, Randam? This will be",
+    "dangerous."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f41_0b",
+   "line": 441,
+   "act": 2,
+   "sector": 3152,
+   "offset": 162,
+   "size": 50193,
+   "b0": 28009,
+   "b1": 50193,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "A one-in-ten-thousand chance of survival.",
+   "rows": [
+    "A one-in-ten-thousand chance",
+    "of survival."
+   ],
+   "rows_plain": [
+    "A one-in-ten-thousand chance of",
+    "survival."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f42_0",
+   "line": 442,
+   "act": 2,
+   "sector": 3173,
+   "offset": 1551,
+   "size": 28613,
+   "b0": 0,
+   "b1": 28613,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Then I'll expect a bigger bounty.",
+   "rows": [
+    "Then I'll expect a bigger",
+    "bounty."
+   ],
+   "rows_plain": [
+    "Then I'll expect a bigger bounty."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f43_0",
+   "line": 443,
+   "act": 2,
+   "sector": 3185,
+   "offset": 2276,
+   "size": 21895,
+   "b0": 0,
+   "b1": 21895,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "You're a strange one, you know that?",
+   "rows": [
+    "You're a strange one, you",
+    "know that?"
+   ],
+   "rows_plain": [
+    "You're a strange one, you know that?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f44_0",
+   "line": 444,
+   "act": 2,
+   "sector": 3195,
+   "offset": 931,
+   "size": 22523,
+   "b0": 0,
+   "b1": 22523,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian, let's start the investigation!",
+   "rows": [
+    "Gillian, let's start the",
+    "investigation!"
+   ],
+   "rows_plain": [
+    "Gillian, let's start the",
+    "investigation!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f45_0",
+   "line": 445,
+   "act": 2,
+   "sector": 3205,
+   "offset": 214,
+   "size": 90629,
+   "b0": 0,
+   "b1": 53406,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Look! There's paper stuck between the drawers. They're empty otherwise.",
+   "rows": [
+    "Look! There's paper stuck",
+    "between the drawers. They're",
+    "empty otherwise."
+   ],
+   "rows_plain": [
+    "Look! There's paper stuck between",
+    "the drawers. They're empty",
+    "otherwise."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1E0_f45_0b",
+   "line": 445,
+   "act": 2,
+   "sector": 3205,
+   "offset": 214,
+   "size": 90629,
+   "b0": 53406,
+   "b1": 90629,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Someone seems to have cleared them out in a hurry.",
+   "rows": [
+    "Someone seems to have",
+    "cleared them out in a hurry."
+   ],
+   "rows_plain": [
+    "Someone seems to have cleared them",
+    "out in a hurry."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1E0_f46_0",
+   "line": 446,
+   "act": 2,
+   "sector": 3244,
+   "offset": 207,
+   "size": 7949,
+   "b0": 0,
+   "b1": 7949,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That paper?",
+   "rows": [
+    "That paper?"
+   ],
+   "rows_plain": [
+    "That paper?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f47_0",
+   "line": 447,
+   "act": 2,
+   "sector": 3247,
+   "offset": 1184,
+   "size": 5749,
+   "b0": 0,
+   "b1": 5749,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Here it is.",
+   "rows": [
+    "Here it is."
+   ],
+   "rows_plain": [
+    "Here it is."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f48_0",
+   "line": 448,
+   "act": 2,
+   "sector": 3249,
+   "offset": 2285,
+   "size": 39034,
+   "b0": 0,
+   "b1": 39034,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What's this? Chinese? Read it for me, Metal.",
+   "rows": [
+    "What's this? Chinese? Read",
+    "it for me, Metal."
+   ],
+   "rows_plain": [
+    "What's this? Chinese? Read it for",
+    "me, Metal."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f49_0",
+   "line": 449,
+   "act": 2,
+   "sector": 3266,
+   "offset": 1811,
+   "size": 97354,
+   "b0": 0,
+   "b1": 76948,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Yes. \"Medical record. New patient.\" I don't understand the next five characters.",
+   "rows": [
+    "Yes. \"Medical record. New",
+    "patient.\" I don't understand",
+    "the next five characters."
+   ],
+   "rows_plain": [
+    "Yes. \"Medical record. New patient.\"",
+    "I don't understand the next five",
+    "characters."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f49_0b",
+   "line": 449,
+   "act": 2,
+   "sector": 3266,
+   "offset": 1811,
+   "size": 97354,
+   "b0": 76948,
+   "b1": 97354,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I've never seen characters like these.",
+   "rows": [
+    "I've never seen characters",
+    "like these."
+   ],
+   "rows_plain": [
+    "I've never seen characters like",
+    "these."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f50_0",
+   "line": 450,
+   "act": 2,
+   "sector": 3308,
+   "offset": 1557,
+   "size": 27949,
+   "b0": 0,
+   "b1": 27949,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I thought you were good at Chinese, Metal.",
+   "rows": [
+    "I thought you were good at",
+    "Chinese, Metal."
+   ],
+   "rows_plain": [
+    "I thought you were good at Chinese,",
+    "Metal."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f51_0",
+   "line": 451,
+   "act": 2,
+   "sector": 3320,
+   "offset": 1618,
+   "size": 48631,
+   "b0": 0,
+   "b1": 48631,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "My specialty is mahjong: riichi, tanyao, pinfu, dora one.",
+   "rows": [
+    "My specialty is mahjong:",
+    "riichi, tanyao, pinfu, dora",
+    "one."
+   ],
+   "rows_plain": [
+    "My specialty is mahjong: riichi,",
+    "tanyao, pinfu, dora one."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f52_0",
+   "line": 452,
+   "act": 2,
+   "sector": 3341,
+   "offset": 1445,
+   "size": 146583,
+   "b0": 0,
+   "b1": 92796,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Unusual Chinese characters? Or a code? It's definitely part of a medical record.",
+   "rows": [
+    "Unusual Chinese characters?",
+    "Or a code? It's definitely",
+    "part of a medical record."
+   ],
+   "rows_plain": [
+    "Unusual Chinese characters? Or a",
+    "code? It's definitely part of a",
+    "medical record."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f52_0b",
+   "line": 452,
+   "act": 2,
+   "sector": 3341,
+   "offset": 1445,
+   "size": 146583,
+   "b0": 92796,
+   "b1": 146583,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "This code probably conceals a name. If we crack it, we'll identify a Snatcher.",
+   "rows": [
+    "This code probably conceals",
+    "a name. If we crack it,",
+    "we'll identify a Snatcher."
+   ],
+   "rows_plain": [
+    "This code probably conceals a name.",
+    "If we crack it, we'll identify a",
+    "Snatcher."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f53_0",
+   "line": 453,
+   "act": 2,
+   "sector": 3404,
+   "offset": 1616,
+   "size": 16542,
+   "b0": 0,
+   "b1": 16542,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "What happened to the other records?",
+   "rows": [
+    "What happened to the other",
+    "records?"
+   ],
+   "rows_plain": [
+    "What happened to the other records?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1E0_f54_0",
+   "line": 454,
+   "act": 2,
+   "sector": 3411,
+   "offset": 1890,
+   "size": 27528,
+   "b0": 0,
+   "b1": 27528,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Someone must have taken them before we got here.",
+   "rows": [
+    "Someone must have taken them",
+    "before we got here."
+   ],
+   "rows_plain": [
+    "Someone must have taken them before",
+    "we got here."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f55_0",
+   "line": 455,
+   "act": 2,
+   "sector": 3423,
+   "offset": 1530,
+   "size": 46845,
+   "b0": 0,
+   "b1": 46845,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I feel like the Snatchers know what we're doing.",
+   "rows": [
+    "I feel like the Snatchers",
+    "know what we're doing."
+   ],
+   "rows_plain": [
+    "I feel like the Snatchers know what",
+    "we're doing."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f56_0",
+   "line": 456,
+   "act": 2,
+   "sector": 3443,
+   "offset": 1895,
+   "size": 39271,
+   "b0": 0,
+   "b1": 39271,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "A Snatcher inside JUNKER? I'd rather not think about it.",
+   "rows": [
+    "A Snatcher inside JUNKER?",
+    "I'd rather not think about",
+    "it."
+   ],
+   "rows_plain": [
+    "A Snatcher inside JUNKER? I'd rather",
+    "not think about it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f57_0",
+   "line": 457,
+   "act": 2,
+   "sector": 3460,
+   "offset": 1658,
+   "size": 20178,
+   "b0": 0,
+   "b1": 20178,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll keep this piece of the medical record.",
+   "rows": [
+    "I'll keep this piece of the",
+    "medical record."
+   ],
+   "rows_plain": [
+    "I'll keep this piece of the medical",
+    "record."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f58_0",
+   "line": 458,
+   "act": 2,
+   "sector": 3469,
+   "offset": 920,
+   "size": 21850,
+   "b0": 0,
+   "b1": 21850,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "It seems to lead underground.",
+   "rows": [
+    "It seems to lead",
+    "underground."
+   ],
+   "rows_plain": [
+    "It seems to lead underground."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1E0_f59_0",
+   "line": 459,
+   "act": 2,
+   "sector": 3478,
+   "offset": 1854,
+   "size": 43069,
+   "b0": 0,
+   "b1": 43069,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Jamie was right. Queen Hospital has an underground level.",
+   "rows": [
+    "Jamie was right. Queen",
+    "Hospital has an underground",
+    "level."
+   ],
+   "rows_plain": [
+    "Jamie was right. Queen Hospital has",
+    "an underground level."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f60_0",
+   "line": 460,
+   "act": 2,
+   "sector": 3497,
+   "offset": 767,
+   "size": 42112,
+   "b0": 0,
+   "b1": 42112,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "And that's the Snatchers' nest. Right beneath us.",
+   "rows": [
+    "And that's the Snatchers'",
+    "nest. Right beneath us."
+   ],
+   "rows_plain": [
+    "And that's the Snatchers' nest.",
+    "Right beneath us."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f61_0",
+   "line": 461,
+   "act": 2,
+   "sector": 3515,
+   "offset": 1047,
+   "size": 43659,
+   "b0": 0,
+   "b1": 43659,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We're finally inside the belly of the beast. What will you do, Gillian?",
+   "rows": [
+    "We're finally inside the",
+    "belly of the beast. What",
+    "will you do, Gillian?"
+   ],
+   "rows_plain": [
+    "We're finally inside the belly of",
+    "the beast. What will you do,",
+    "Gillian?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f62_0",
+   "line": 462,
+   "act": 2,
+   "sector": 3534,
+   "offset": 550,
+   "size": 34614,
+   "b0": 0,
+   "b1": 34614,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The stairs are narrow. Let's go down in single file.",
+   "rows": [
+    "The stairs are narrow. Let's",
+    "go down in single file."
+   ],
+   "rows_plain": [
+    "The stairs are narrow. Let's go down",
+    "in single file."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1E0_f63_0",
+   "line": 463,
+   "act": 2,
+   "sector": 3549,
+   "offset": 304,
+   "size": 11388,
+   "b0": 0,
+   "b1": 11388,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Who's going first?",
+   "rows": [
+    "Who's going first?"
+   ],
+   "rows_plain": [
+    "Who's going first?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f64_0",
+   "line": 464,
+   "act": 2,
+   "sector": 3554,
+   "offset": 72,
+   "size": 33546,
+   "b0": 0,
+   "b1": 33546,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Obviously, the one with the light.",
+   "rows": [
+    "Obviously, the one with the",
+    "light."
+   ],
+   "rows_plain": [
+    "Obviously, the one with the light."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f65_0",
+   "line": 465,
+   "act": 2,
+   "sector": 3568,
+   "offset": 1082,
+   "size": 25351,
+   "b0": 0,
+   "b1": 25351,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "That's not fair!",
+   "rows": [
+    "That's not fair!"
+   ],
+   "rows_plain": [
+    "That's not fair!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1E0_f66_0",
+   "line": 466,
+   "act": 2,
+   "sector": 3579,
+   "offset": 869,
+   "size": 20979,
+   "b0": 0,
+   "b1": 20979,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I know. Let's play rock-paper-scissors.",
+   "rows": [
+    "I know. Let's play",
+    "rock-paper-scissors."
+   ],
+   "rows_plain": [
+    "I know. Let's play",
+    "rock-paper-scissors."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f67_0",
+   "line": 467,
+   "act": 2,
+   "sector": 3588,
+   "offset": 932,
+   "size": 37113,
+   "b0": 0,
+   "b1": 37113,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Fine. Rock-paper-scissors it is. But can you play, Metal?",
+   "rows": [
+    "Fine. Rock-paper-scissors it",
+    "is. But can you play, Metal?"
+   ],
+   "rows_plain": [
+    "Fine. Rock-paper-scissors it is. But",
+    "can you play, Metal?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f68_0",
+   "line": 468,
+   "act": 2,
+   "sector": 3604,
+   "offset": 861,
+   "size": 35702,
+   "b0": 0,
+   "b1": 35702,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Leave it to me. I'm prepared for anything at times like this.",
+   "rows": [
+    "Leave it to me. I'm prepared",
+    "for anything at times like",
+    "this."
+   ],
+   "rows_plain": [
+    "Leave it to me. I'm prepared for",
+    "anything at times like this."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f69_0",
+   "line": 469,
+   "act": 2,
+   "sector": 3619,
+   "offset": 1703,
+   "size": 37279,
+   "b0": 0,
+   "b1": 37279,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "All right, a fair match. No cheating!",
+   "rows": [
+    "All right, a fair match. No",
+    "cheating!"
+   ],
+   "rows_plain": [
+    "All right, a fair match. No",
+    "cheating!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f70_0",
+   "line": 470,
+   "act": 2,
+   "sector": 3635,
+   "offset": 1798,
+   "size": 23496,
+   "b0": 0,
+   "b1": 23496,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I promise. I'm a cop, after all.",
+   "rows": [
+    "I promise. I'm a cop, after",
+    "all."
+   ],
+   "rows_plain": [
+    "I promise. I'm a cop, after all."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f71_0",
+   "line": 471,
+   "act": 2,
+   "sector": 3645,
+   "offset": 2054,
+   "size": 33547,
+   "b0": 0,
+   "b1": 33547,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "You two are unbelievable. At a time like this!",
+   "rows": [
+    "You two are unbelievable. At",
+    "a time like this!"
+   ],
+   "rows_plain": [
+    "You two are unbelievable. At a time",
+    "like this!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f72_0",
+   "line": 472,
+   "act": 2,
+   "sector": 3660,
+   "offset": 741,
+   "size": 30743,
+   "b0": 0,
+   "b1": 30743,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "All right. Rock, paper, scissors!",
+   "rows": [
+    "All right. Rock, paper,",
+    "scissors!"
+   ],
+   "rows_plain": [
+    "All right. Rock, paper, scissors!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f73_0",
+   "line": 473,
+   "act": 2,
+   "sector": 3673,
+   "offset": 1272,
+   "size": 39575,
+   "b0": 0,
+   "b1": 39575,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Ha! I win!",
+   "rows": [
+    "Ha! I win!"
+   ],
+   "rows_plain": [
+    "Ha! I win!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f74_0",
+   "line": 474,
+   "act": 2,
+   "sector": 3690,
+   "offset": 1339,
+   "size": 58121,
+   "b0": 0,
+   "b1": 58121,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Wait, wait, wait! That round doesn't count. Gillian didn't play.",
+   "rows": [
+    "Wait, wait, wait! That round",
+    "doesn't count. Gillian",
+    "didn't play."
+   ],
+   "rows_plain": [
+    "Wait, wait, wait! That round doesn't",
+    "count. Gillian didn't play."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f75_0",
+   "line": 475,
+   "act": 2,
+   "sector": 3715,
+   "offset": 1360,
+   "size": 30874,
+   "b0": 0,
+   "b1": 30874,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Come on, Gillian! What are you doing? Play like a man!",
+   "rows": [
+    "Come on, Gillian! What are",
+    "you doing? Play like a man!"
+   ],
+   "rows_plain": [
+    "Come on, Gillian! What are you",
+    "doing? Play like a man!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f76_0",
+   "line": 476,
+   "act": 2,
+   "sector": 3728,
+   "offset": 2022,
+   "size": 9969,
+   "b0": 0,
+   "b1": 9969,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Sorry, sorry.",
+   "rows": [
+    "Sorry, sorry."
+   ],
+   "rows_plain": [
+    "Sorry, sorry."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1E0_f77_0",
+   "line": 477,
+   "act": 2,
+   "sector": 3733,
+   "offset": 371,
+   "size": 50265,
+   "b0": 0,
+   "b1": 50265,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Once more, a fair match! Rock, paper, scissors!",
+   "rows": [
+    "Once more, a fair match!",
+    "Rock, paper, scissors!"
+   ],
+   "rows_plain": [
+    "Once more, a fair match! Rock,",
+    "paper, scissors!"
+   ],
+   "enabled": true
+  }
+ ]
+}

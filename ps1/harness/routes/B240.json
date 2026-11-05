@@ -1,0 +1,164 @@
+{
+ "scene": "B230",
+ "note": "Act 3 (guides/ps1.txt ACT 3 JUNKER HEADQUARTERS + CHURCH): from the end-of-Act-2 save prompt (bookmark B230_front), decline the save; the debrief with Mika (B240) asks for the Snatchers' weakness, route, symptom and city - UV ray, Tunnel, Sneeze, Poln (Snow Cedar pollen), Moscow - then the tricycle to the church (B250): the building, inside, the portrait, back, the container, the snatcher, back again, the cylinder, the process, the terminal and the door. Fights: ctx+0x1DF5 is the head cell of the snatcher to shoot (2 = top-right, 3 = middle-left, 6 = bottom-left seen), so the default 'body' rule aims right; 'corners' won once by luck and then lost.",
+ "actions": [
+  {
+   "path": [
+    "Don't save"
+   ]
+  },
+  {
+   "path": [
+    "UV ray"
+   ],
+   "patience": 20000
+  },
+  {
+   "path": [
+    "Underpass"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Sneeze"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Pollen"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Moscow"
+   ],
+   "patience": 6000
+  },
+  {
+   "save": "B240_answered"
+  },
+  {
+   "path": [
+    "Board Tricycle"
+   ],
+   "patience": 20000
+  },
+  {
+   "path": [
+    "Church|Chur"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B250_arrive"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen",
+    "Motion detector"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Go inside|Go further in"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Move",
+    "Go inside|Go further in"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B250_inside"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Exit Tricycle",
+    "Go further in"
+   ]
+  },
+  {
+   "path": [
+    "Go further in"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B250_back1"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Exit Tricycle",
+    "Go further in"
+   ]
+  },
+  {
+   "path": [
+    "Go further in"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B250_back2"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Exit Tricycle",
+    "Go further in"
+   ]
+  },
+  {
+   "path": [
+    "Go further in"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B250_deep"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Exit Tricycle"
+   ]
+  }
+ ]
+}

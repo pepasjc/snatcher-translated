@@ -1,0 +1,1467 @@
+{
+ "scene": "B0C0",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B0C0_000",
+   "line": 6,
+   "act": 1,
+   "sector": 75,
+   "offset": 375,
+   "size": 13226,
+   "b0": 0,
+   "b1": 13226,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What's this medicine for?",
+   "rows": [
+    "What's this medicine for?"
+   ],
+   "rows_plain": [
+    "What's this medicine for?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_001",
+   "line": 7,
+   "act": 1,
+   "sector": 80,
+   "offset": 1981,
+   "size": 16683,
+   "b0": 0,
+   "b1": 16683,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll analyze it.",
+   "rows": [
+    "I'll analyze it."
+   ],
+   "rows_plain": [
+    "I'll analyze it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_002",
+   "line": 8,
+   "act": 1,
+   "sector": 88,
+   "offset": 72,
+   "size": 73107,
+   "b0": 0,
+   "b1": 36554,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Antacids, a mucosal protectant, H2 blockers.",
+   "rows": [
+    "Antacids, a mucosal",
+    "protectant, H2 blockers."
+   ],
+   "rows_plain": [
+    "Antacids, a mucosal protectant, H2",
+    "blockers."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_002b",
+   "line": 8,
+   "act": 1,
+   "sector": 88,
+   "offset": 72,
+   "size": 73107,
+   "b0": 36554,
+   "b1": 73107,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Medicine for stomach trouble.",
+   "rows": [
+    "Medicine for stomach",
+    "trouble."
+   ],
+   "rows_plain": [
+    "Medicine for stomach trouble."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_003",
+   "line": 9,
+   "act": 1,
+   "sector": 119,
+   "offset": 1135,
+   "size": 128703,
+   "b0": 0,
+   "b1": 74093,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Gibson had stomach trouble, yet ate whale meat. Something's wrong.",
+   "rows": [
+    "Gibson had stomach trouble,",
+    "yet ate whale meat.",
+    "Something's wrong."
+   ],
+   "rows_plain": [
+    "Gibson had stomach trouble, yet ate",
+    "whale meat. Something's wrong."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_003b",
+   "line": 9,
+   "act": 1,
+   "sector": 119,
+   "offset": 1135,
+   "size": 128703,
+   "b0": 74093,
+   "b1": 128703,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "There must have been a reason he had to eat it.",
+   "rows": [
+    "There must have been a",
+    "reason he had to eat it."
+   ],
+   "rows_plain": [
+    "There must have been a reason he had",
+    "to eat it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_004",
+   "line": 14,
+   "act": 1,
+   "sector": 236,
+   "offset": 1158,
+   "size": 62618,
+   "b0": 0,
+   "b1": 62618,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "I'm sorry. I'm Gibson's daughter, Catherine.",
+   "rows": [
+    "I'm sorry. I'm Gibson's",
+    "daughter, Catherine."
+   ],
+   "rows_plain": [
+    "I'm sorry. I'm Gibson's daughter,",
+    "Catherine."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_005",
+   "line": 16,
+   "act": 1,
+   "sector": 275,
+   "offset": 1110,
+   "size": 28640,
+   "b0": 0,
+   "b1": 28640,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "What's wrong, Gillian?",
+   "rows": [
+    "What's wrong, Gillian?"
+   ],
+   "rows_plain": [
+    "What's wrong, Gillian?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_006",
+   "line": 17,
+   "act": 1,
+   "sector": 287,
+   "offset": 1862,
+   "size": 58786,
+   "b0": 0,
+   "b1": 58786,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I'm sorry, Catherine. Your father's death was my fault.",
+   "rows": [
+    "I'm sorry, Catherine. Your",
+    "father's death was my fault."
+   ],
+   "rows_plain": [
+    "I'm sorry, Catherine. Your father's",
+    "death was my fault."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_007",
+   "line": 18,
+   "act": 1,
+   "sector": 313,
+   "offset": 224,
+   "size": 13160,
+   "b0": 0,
+   "b1": 13160,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian!",
+   "rows": [
+    "Gillian!"
+   ],
+   "rows_plain": [
+    "Gillian!"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_008",
+   "line": 19,
+   "act": 1,
+   "sector": 318,
+   "offset": 1764,
+   "size": 50930,
+   "b0": 0,
+   "b1": 50930,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "No. If I'd reached the scene a little sooner, your father...",
+   "rows": [
+    "No. If I'd reached the scene",
+    "a little sooner, your",
+    "father..."
+   ],
+   "rows_plain": [
+    "No. If I'd reached the scene a",
+    "little sooner, your father..."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_009",
+   "line": 20,
+   "act": 1,
+   "sector": 340,
+   "offset": 1566,
+   "size": 203600,
+   "b0": 0,
+   "b1": 76791,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "No, I... I knew this could happen to my father.",
+   "rows": [
+    "No, I... I knew this could",
+    "happen to my father."
+   ],
+   "rows_plain": [
+    "No, I... I knew this could happen to",
+    "my father."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_009b",
+   "line": 20,
+   "act": 1,
+   "sector": 340,
+   "offset": 1566,
+   "size": 203600,
+   "b0": 76791,
+   "b1": 176629,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "Every day I saw him off, I knew this day might come. Would it be today? Tomorrow?",
+   "rows": [
+    "Every day I saw him off, I",
+    "knew this day might come.",
+    "Would it be today? Tomorrow?"
+   ],
+   "rows_plain": [
+    "Every day I saw him off, I knew this",
+    "day might come. Would it be today?",
+    "Tomorrow?"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_009c",
+   "line": 20,
+   "act": 1,
+   "sector": 340,
+   "offset": 1566,
+   "size": 203600,
+   "b0": 176629,
+   "b1": 203600,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "His work was dangerous.",
+   "rows": [
+    "His work was dangerous."
+   ],
+   "rows_plain": [
+    "His work was dangerous."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_010",
+   "line": 21,
+   "act": 1,
+   "sector": 428,
+   "offset": 654,
+   "size": 17469,
+   "b0": 0,
+   "b1": 17469,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Catherine, are you...?",
+   "rows": [
+    "Catherine, are you...?"
+   ],
+   "rows_plain": [
+    "Catherine, are you...?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_011",
+   "line": 22,
+   "act": 1,
+   "sector": 435,
+   "offset": 1855,
+   "size": 51198,
+   "b0": 0,
+   "b1": 51198,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "I am a JUNKER's daughter, after all. So...",
+   "rows": [
+    "I am a JUNKER's daughter,",
+    "after all. So..."
+   ],
+   "rows_plain": [
+    "I am a JUNKER's daughter, after all.",
+    "So..."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_012",
+   "line": 23,
+   "act": 1,
+   "sector": 457,
+   "offset": 1925,
+   "size": 19372,
+   "b0": 0,
+   "b1": 19372,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Will you be all right on your own?",
+   "rows": [
+    "Will you be all right on",
+    "your own?"
+   ],
+   "rows_plain": [
+    "Will you be all right on your own?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_013",
+   "line": 24,
+   "act": 1,
+   "sector": 466,
+   "offset": 381,
+   "size": 83263,
+   "b0": 0,
+   "b1": 83263,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "Don't worry. I can manage on my own. Besides, I'm too tired to cry anymore.",
+   "rows": [
+    "Don't worry. I can manage on",
+    "my own. Besides, I'm too",
+    "tired to cry anymore."
+   ],
+   "rows_plain": [
+    "Don't worry. I can manage on my own.",
+    "Besides, I'm too tired to cry",
+    "anymore."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_013c",
+   "line": 25,
+   "act": 1,
+   "sector": 501,
+   "offset": 2304,
+   "size": 16130,
+   "b0": 0,
+   "b1": 16130,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Oh... Catherine...",
+   "rows": [
+    "Oh... Catherine..."
+   ],
+   "rows_plain": [
+    "Oh... Catherine..."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_014",
+   "line": 26,
+   "act": 1,
+   "sector": 508,
+   "offset": 2166,
+   "size": 83764,
+   "b0": 0,
+   "b1": 41882,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "Come on, Mr. JUNKER. You have work to do.",
+   "rows": [
+    "Come on, Mr. JUNKER. You",
+    "have work to do."
+   ],
+   "rows_plain": [
+    "Come on, Mr. JUNKER. You have work",
+    "to do."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_014b",
+   "line": 26,
+   "act": 1,
+   "sector": 508,
+   "offset": 2166,
+   "size": 83764,
+   "b0": 41882,
+   "b1": 83764,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "Keeping busy helps take my mind off it. So...",
+   "rows": [
+    "Keeping busy helps take my",
+    "mind off it. So..."
+   ],
+   "rows_plain": [
+    "Keeping busy helps take my mind off",
+    "it. So..."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_015",
+   "line": 27,
+   "act": 1,
+   "sector": 544,
+   "offset": 2266,
+   "size": 31527,
+   "b0": 0,
+   "b1": 31527,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "All right, Catherine. Then I'll need your help.",
+   "rows": [
+    "All right, Catherine. Then",
+    "I'll need your help."
+   ],
+   "rows_plain": [
+    "All right, Catherine. Then I'll need",
+    "your help."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_016",
+   "line": 28,
+   "act": 1,
+   "sector": 558,
+   "offset": 1257,
+   "size": 30659,
+   "b0": 0,
+   "b1": 30659,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "Alice is barking. Is something out there?",
+   "rows": [
+    "Alice is barking. Is",
+    "something out there?"
+   ],
+   "rows_plain": [
+    "Alice is barking. Is something out",
+    "there?"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_017",
+   "line": 29,
+   "act": 1,
+   "sector": 571,
+   "offset": 1704,
+   "size": 9731,
+   "b0": 0,
+   "b1": 9731,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "A Snatcher?",
+   "rows": [
+    "A Snatcher?"
+   ],
+   "rows_plain": [
+    "A Snatcher?"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_018",
+   "line": 30,
+   "act": 1,
+   "sector": 575,
+   "offset": 2139,
+   "size": 10652,
+   "b0": 0,
+   "b1": 10652,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Wait here, Catherine!",
+   "rows": [
+    "Wait here, Catherine!"
+   ],
+   "rows_plain": [
+    "Wait here, Catherine!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f32_0",
+   "line": 31,
+   "act": 1,
+   "sector": 580,
+   "offset": 1171,
+   "size": 18819,
+   "b0": 0,
+   "b1": 18819,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "Observations on Snatchers.",
+   "rows": [
+    "Observations on Snatchers."
+   ],
+   "rows_plain": [
+    "Observations on Snatchers."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f33_0",
+   "line": 32,
+   "act": 1,
+   "sector": 588,
+   "offset": 1398,
+   "size": 87310,
+   "b0": 0,
+   "b1": 51177,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "Why do Snatchers appear in winter? Why are they nocturnal?",
+   "rows": [
+    "Why do Snatchers appear in",
+    "winter? Why are they",
+    "nocturnal?"
+   ],
+   "rows_plain": [
+    "Why do Snatchers appear in winter?",
+    "Why are they nocturnal?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f33_0b",
+   "line": 32,
+   "act": 1,
+   "sector": 588,
+   "offset": 1398,
+   "size": 87310,
+   "b0": 51177,
+   "b1": 87310,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "I have found the answers to these questions.",
+   "rows": [
+    "I have found the answers to",
+    "these questions."
+   ],
+   "rows_plain": [
+    "I have found the answers to these",
+    "questions."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f34_0",
+   "line": 33,
+   "act": 1,
+   "sector": 626,
+   "offset": 396,
+   "size": 138656,
+   "b0": 0,
+   "b1": 71624,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "The Snatchers' vampire-like habits all serve one purpose: avoiding sunlight.",
+   "rows": [
+    "The Snatchers' vampire-like",
+    "habits all serve one",
+    "purpose: avoiding sunlight."
+   ],
+   "rows_plain": [
+    "The Snatchers' vampire-like habits",
+    "all serve one purpose: avoiding",
+    "sunlight."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f34_0b",
+   "line": 33,
+   "act": 1,
+   "sector": 626,
+   "offset": 396,
+   "size": 138656,
+   "b0": 71624,
+   "b1": 138656,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "They avoid sunlight because their artificial skin is imperfect.",
+   "rows": [
+    "They avoid sunlight because",
+    "their artificial skin is",
+    "imperfect."
+   ],
+   "rows_plain": [
+    "They avoid sunlight because their",
+    "artificial skin is imperfect."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f35_0",
+   "line": 34,
+   "act": 1,
+   "sector": 685,
+   "offset": 1936,
+   "size": 132094,
+   "b0": 0,
+   "b1": 61677,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "Prolonged exposure to ultraviolet light causes abnormal growth",
+   "rows": [
+    "Prolonged exposure to",
+    "ultraviolet light causes",
+    "abnormal growth"
+   ],
+   "rows_plain": [
+    "Prolonged exposure to ultraviolet",
+    "light causes abnormal growth"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f35_0b",
+   "line": 34,
+   "act": 1,
+   "sector": 685,
+   "offset": 1936,
+   "size": 132094,
+   "b0": 61677,
+   "b1": 91994,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "of melanocytes in the skin's basal layer,",
+   "rows": [
+    "of melanocytes in the skin's",
+    "basal layer,"
+   ],
+   "rows_plain": [
+    "of melanocytes in the skin's basal",
+    "layer,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f35_0c",
+   "line": 34,
+   "act": 1,
+   "sector": 685,
+   "offset": 1936,
+   "size": 132094,
+   "b0": 91994,
+   "b1": 132094,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "producing a skin cancer resembling malignant melanoma.",
+   "rows": [
+    "producing a skin cancer",
+    "resembling malignant",
+    "melanoma."
+   ],
+   "rows_plain": [
+    "producing a skin cancer resembling",
+    "malignant melanoma."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f36_0",
+   "line": 35,
+   "act": 1,
+   "sector": 742,
+   "offset": 1562,
+   "size": 32808,
+   "b0": 0,
+   "b1": 32808,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "What humans call sunburn can be fatal to them.",
+   "rows": [
+    "What humans call sunburn can",
+    "be fatal to them."
+   ],
+   "rows_plain": [
+    "What humans call sunburn can be",
+    "fatal to them."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f37_0",
+   "line": 36,
+   "act": 1,
+   "sector": 756,
+   "offset": 1834,
+   "size": 126628,
+   "b0": 0,
+   "b1": 16993,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "This link between ultraviolet light",
+   "rows": [
+    "This link between",
+    "ultraviolet light"
+   ],
+   "rows_plain": [
+    "This link between ultraviolet light"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f37_0b",
+   "line": 36,
+   "act": 1,
+   "sector": 756,
+   "offset": 1834,
+   "size": 126628,
+   "b0": 16993,
+   "b1": 68787,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "and artificial skin should be the key to tracking down the Snatchers.",
+   "rows": [
+    "and artificial skin should",
+    "be the key to tracking down",
+    "the Snatchers."
+   ],
+   "rows_plain": [
+    "and artificial skin should be the",
+    "key to tracking down the Snatchers."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f37_0d",
+   "line": 36,
+   "act": 1,
+   "sector": 756,
+   "offset": 1834,
+   "size": 126628,
+   "b0": 68787,
+   "b1": 126628,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "Their artificial skin takes at least six months to fully settle.",
+   "rows": [
+    "Their artificial skin takes",
+    "at least six months to fully",
+    "settle."
+   ],
+   "rows_plain": [
+    "Their artificial skin takes at least",
+    "six months to fully settle."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f38_0",
+   "line": 37,
+   "act": 1,
+   "sector": 811,
+   "offset": 642,
+   "size": 44749,
+   "b0": 0,
+   "b1": 44749,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "These findings suggest several ways to identify a Snatcher.",
+   "rows": [
+    "These findings suggest",
+    "several ways to identify a",
+    "Snatcher."
+   ],
+   "rows_plain": [
+    "These findings suggest several ways",
+    "to identify a Snatcher."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f39_0",
+   "line": 38,
+   "act": 1,
+   "sector": 830,
+   "offset": 1235,
+   "size": 68091,
+   "b0": 0,
+   "b1": 68091,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "1. Examine the skin. Check for signs of malignant melanoma.",
+   "rows": [
+    "1. Examine the skin. Check",
+    "for signs of malignant",
+    "melanoma."
+   ],
+   "rows_plain": [
+    "1. Examine the skin. Check for signs",
+    "of malignant melanoma."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f40_0",
+   "line": 39,
+   "act": 1,
+   "sector": 859,
+   "offset": 1930,
+   "size": 82624,
+   "b0": 0,
+   "b1": 27517,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "2. Check for an odor.",
+   "rows": [
+    "2. Check for an odor."
+   ],
+   "rows_plain": [
+    "2. Check for an odor."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f40_0b",
+   "line": 39,
+   "act": 1,
+   "sector": 859,
+   "offset": 1930,
+   "size": 82624,
+   "b0": 27517,
+   "b1": 82624,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "If the skin is cancerous, the cancer cells emit a distinctive foul smell.",
+   "rows": [
+    "If the skin is cancerous,",
+    "the cancer cells emit a",
+    "distinctive foul smell."
+   ],
+   "rows_plain": [
+    "If the skin is cancerous, the cancer",
+    "cells emit a distinctive foul smell."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f41_0",
+   "line": 40,
+   "act": 1,
+   "sector": 895,
+   "offset": 890,
+   "size": 167895,
+   "b0": 0,
+   "b1": 33032,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "3. Check for pollen.",
+   "rows": [
+    "3. Check for pollen."
+   ],
+   "rows_plain": [
+    "3. Check for pollen."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f41_0b",
+   "line": 40,
+   "act": 1,
+   "sector": 895,
+   "offset": 890,
+   "size": 167895,
+   "b0": 33032,
+   "b1": 66064,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "Snatchers seem to be hiding in an area",
+   "rows": [
+    "Snatchers seem to be hiding",
+    "in an area"
+   ],
+   "rows_plain": [
+    "Snatchers seem to be hiding in an",
+    "area"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f41_0bb",
+   "line": 40,
+   "act": 1,
+   "sector": 895,
+   "offset": 890,
+   "size": 167895,
+   "b0": 66064,
+   "b1": 110107,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "where a special cedar called Snow Cedar grows.",
+   "rows": [
+    "where a special cedar called",
+    "Snow Cedar grows."
+   ],
+   "rows_plain": [
+    "where a special cedar called Snow",
+    "Cedar grows."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f41_0c",
+   "line": 40,
+   "act": 1,
+   "sector": 895,
+   "offset": 890,
+   "size": 167895,
+   "b0": 110107,
+   "b1": 167895,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "Its pollen is always found wherever they appear.",
+   "rows": [
+    "Its pollen is always found",
+    "wherever they appear."
+   ],
+   "rows_plain": [
+    "Its pollen is always found wherever",
+    "they appear."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f42_0",
+   "line": 41,
+   "act": 1,
+   "sector": 967,
+   "offset": 1457,
+   "size": 51070,
+   "b0": 0,
+   "b1": 51070,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "Snow Cedar is an allergen that causes sore throats, sneezing and more.",
+   "rows": [
+    "Snow Cedar is an allergen",
+    "that causes sore throats,",
+    "sneezing and more."
+   ],
+   "rows_plain": [
+    "Snow Cedar is an allergen that",
+    "causes sore throats, sneezing and",
+    "more."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f43_0",
+   "line": 42,
+   "act": 1,
+   "sector": 989,
+   "offset": 1399,
+   "size": 96255,
+   "b0": 0,
+   "b1": 12032,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "4. Check for sunscreen.",
+   "rows": [
+    "4. Check for sunscreen."
+   ],
+   "rows_plain": [
+    "4. Check for sunscreen."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f43_0b",
+   "line": 42,
+   "act": 1,
+   "sector": 989,
+   "offset": 1399,
+   "size": 96255,
+   "b0": 12032,
+   "b1": 54005,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "Snatchers wear sunscreen even in midwinter",
+   "rows": [
+    "Snatchers wear sunscreen",
+    "even in midwinter"
+   ],
+   "rows_plain": [
+    "Snatchers wear sunscreen even in",
+    "midwinter"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f43_0c",
+   "line": 42,
+   "act": 1,
+   "sector": 989,
+   "offset": 1399,
+   "size": 96255,
+   "b0": 54005,
+   "b1": 96255,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "to protect their skin from ultraviolet light.",
+   "rows": [
+    "to protect their skin from",
+    "ultraviolet light."
+   ],
+   "rows_plain": [
+    "to protect their skin from",
+    "ultraviolet light."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f44_0",
+   "line": 43,
+   "act": 1,
+   "sector": 1031,
+   "offset": 46,
+   "size": 95339,
+   "b0": 0,
+   "b1": 53039,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "Sunscreen blocks medium-wave UV, which causes sunburn,",
+   "rows": [
+    "Sunscreen blocks medium-wave",
+    "UV, which causes sunburn,"
+   ],
+   "rows_plain": [
+    "Sunscreen blocks medium-wave UV,",
+    "which causes sunburn,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f44_0b",
+   "line": 43,
+   "act": 1,
+   "sector": 1031,
+   "offset": 46,
+   "size": 95339,
+   "b0": 53039,
+   "b1": 95339,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "and long-wave UV, which causes tanning.",
+   "rows": [
+    "and long-wave UV, which",
+    "causes tanning."
+   ],
+   "rows_plain": [
+    "and long-wave UV, which causes",
+    "tanning."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f45_0",
+   "line": 44,
+   "act": 1,
+   "sector": 1072,
+   "offset": 101,
+   "size": 40912,
+   "b0": 0,
+   "b1": 40912,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "Of these clues, 1 and 4 should be especially useful.",
+   "rows": [
+    "Of these clues, 1 and 4",
+    "should be especially useful."
+   ],
+   "rows_plain": [
+    "Of these clues, 1 and 4 should be",
+    "especially useful."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f46_0",
+   "line": 45,
+   "act": 1,
+   "sector": 1089,
+   "offset": 1505,
+   "size": 60900,
+   "b0": 0,
+   "b1": 60900,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "They must also repair cancerous artificial skin, not just prevent it.",
+   "rows": [
+    "They must also repair",
+    "cancerous artificial skin,",
+    "not just prevent it."
+   ],
+   "rows_plain": [
+    "They must also repair cancerous",
+    "artificial skin, not just prevent",
+    "it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f47_0",
+   "line": 46,
+   "act": 1,
+   "sector": 1115,
+   "offset": 1981,
+   "size": 86135,
+   "b0": 0,
+   "b1": 49115,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "At last, I have found their hospital. P.S.",
+   "rows": [
+    "At last, I have found their",
+    "hospital. P.S."
+   ],
+   "rows_plain": [
+    "At last, I have found their",
+    "hospital. P.S."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_f47_0b",
+   "line": 46,
+   "act": 1,
+   "sector": 1115,
+   "offset": 1981,
+   "size": 86135,
+   "b0": 49115,
+   "b1": 86135,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "Beware of a bounty hunter named Randam Hajile.",
+   "rows": [
+    "Beware of a bounty hunter",
+    "named Randam Hajile."
+   ],
+   "rows_plain": [
+    "Beware of a bounty hunter named",
+    "Randam Hajile."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0C0_019",
+   "line": 47,
+   "act": 1,
+   "sector": 1152,
+   "offset": 2128,
+   "size": 16324,
+   "b0": 0,
+   "b1": 16324,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Oh, it's just a crow.",
+   "rows": [
+    "Oh, it's just a crow."
+   ],
+   "rows_plain": [
+    "Oh, it's just a crow."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_020",
+   "line": 48,
+   "act": 1,
+   "sector": 1159,
+   "offset": 2184,
+   "size": 15929,
+   "b0": 0,
+   "b1": 15929,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "What a needless scare!",
+   "rows": [
+    "What a needless scare!"
+   ],
+   "rows_plain": [
+    "What a needless scare!"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_021",
+   "line": 49,
+   "act": 1,
+   "sector": 1166,
+   "offset": 1845,
+   "size": 41052,
+   "b0": 0,
+   "b1": 41052,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "So that's what you're like? Get out! Don't come back!",
+   "rows": [
+    "So that's what you're like?",
+    "Get out! Don't come back!"
+   ],
+   "rows_plain": [
+    "So that's what you're like? Get out!",
+    "Don't come back!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_022",
+   "line": 50,
+   "act": 1,
+   "sector": 1184,
+   "offset": 1065,
+   "size": 57964,
+   "b0": 0,
+   "b1": 43473,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I'll give you my address and videophone number, just in case.",
+   "rows": [
+    "I'll give you my address and",
+    "videophone number, just in",
+    "case."
+   ],
+   "rows_plain": [
+    "I'll give you my address and",
+    "videophone number, just in case."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_022b",
+   "line": 50,
+   "act": 1,
+   "sector": 1184,
+   "offset": 1065,
+   "size": 57964,
+   "b0": 43473,
+   "b1": 57964,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Call me if anything happens.",
+   "rows": [
+    "Call me if anything happens."
+   ],
+   "rows_plain": [
+    "Call me if anything happens."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0C0_023",
+   "line": 51,
+   "act": 1,
+   "sector": 1209,
+   "offset": 929,
+   "size": 14875,
+   "b0": 0,
+   "b1": 14875,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "Thank you. Goodbye.",
+   "rows": [
+    "Thank you. Goodbye."
+   ],
+   "rows_plain": [
+    "Thank you. Goodbye."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  }
+ ]
+}

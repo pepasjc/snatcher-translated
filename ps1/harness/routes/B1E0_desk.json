@@ -1,0 +1,37 @@
+{
+ "scene": "B1E0",
+ "note": "Door 3 in the dark: put Metal's light on the desk (blob centre ~(49,122) in the picture) and Check - 'It runs from under this desk. Might this desk slide...?'",
+ "actions": [
+  {
+   "light_to": [
+    49,
+    122
+   ]
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "reps": 2
+  },
+  {
+   "save": "B1E0_desk"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Use Metal Gear"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out",
+    "Save",
+    "Turn on light"
+   ]
+  },
+  {
+   "save": "B1E0_desk2"
+  }
+ ]
+}

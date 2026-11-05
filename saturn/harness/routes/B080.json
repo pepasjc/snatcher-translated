@@ -1,0 +1,108 @@
+{
+ "scene": "B080",
+ "note": "JUNKER HQ after the ruins - the PS1's ps1/harness/routes/B080.json without the videophone dial (no keypad driver yet). From the B080_auto bookmark.",
+ "actions": [
+  {
+   "save": "B080_arrived"
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Look",
+    "Investigate",
+    "Talk"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Go out|Move",
+    "Mechanic room"
+   ],
+   "patience": 4000
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Ask",
+    "Talk",
+    "Listen"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Go out|Move",
+    "Squad room"
+   ],
+   "patience": 4000
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Item",
+    "Use",
+    "Key"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Item"
+   ],
+   "rounds": 2
+  },
+  {
+   "save": "B080_squad"
+  },
+  {
+   "path": [
+    "Go out|Move",
+    "Front"
+   ],
+   "patience": 4000
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Talk",
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2
+  },
+  {
+   "save": "B080_front"
+  },
+  {
+   "path": [
+    "Go out|Move",
+    "Computer room"
+   ],
+   "optional": true,
+   "patience": 4000
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 2
+  },
+  {
+   "save": "B080_done"
+  }
+ ]
+}

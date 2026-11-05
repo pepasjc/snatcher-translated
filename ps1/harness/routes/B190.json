@@ -1,0 +1,21 @@
+{"scene":"B190",
+ "note":"Altamira at Christmas (guides/ps1.txt Act 2 ALTON PLAZA): Look at the area and Santa, Check Santa (Napoleon in the suit), Ask about the black clinic x2, show Little John's video memory, Ask OLEEN, pay, Ask OLEEN and Oleen Hospital, pay, Ask Oleen Hospital and Snow cedar. Then the Christmas observations and the ramen-shop scene from more looking around; Oleen Hospital appears on the map.",
+ "source":"guides/ps1.txt Act 2 ALTON PLAZA",
+ "actions":[
+  {"save":"B190_start"},
+  {"sweep":["Look","Investigate"],"rounds":1},
+  {"path":["Investigate","Santa"],"optional":true,"reps":2},
+  {"path":["Ask","Illegal hospital"],"optional":true,"reps":2},
+  {"path":["Item","Show","Video memory","Little John"],"optional":true},
+  {"path":["Ask","OLEEN"],"optional":true},
+  {"path":["Item","Use","Funds"],"optional":true},
+  {"path":["Ask","OLEEN"],"optional":true},
+  {"path":["Ask","Oleen Hospital"],"optional":true},
+  {"path":["Item","Use","Funds"],"optional":true},
+  {"path":["Ask","Oleen Hospital"],"optional":true},
+  {"path":["Ask","Snow cedar"],"optional":true},
+  {"sweep":["Ask","Talk","Look","Investigate"],"rounds":2},
+  {"save":"B190_napoleon_done"},
+  {"sweep":["Look","Investigate"],"rounds":4,"why":"Christmas observations, the ramen shop"},
+  {"save":"B190_swept"}
+ ]}

@@ -1,0 +1,11 @@
+{"scene":"B1C0","actions":[
+  {"path":["Back to study"],"patience":600,"optional":true},
+  {"sweep":["Look","Investigate"],"rounds":2,"avoid":["Go out"]},
+  {"path":["Move","Backyard|Living room"],"optional":true},
+  {"path":["Call","Catherine"],"optional":true},
+  {"path":["Call","Alice"],"optional":true},
+  {"path":["Back to study"],"optional":true,"patience":600},
+  {"path":["Move","Study"],"optional":true,"patience":600},
+  {"save":"B1C0_window2"},
+  {"sweep":["Look","Investigate","Call"],"rounds":3}
+ ]}

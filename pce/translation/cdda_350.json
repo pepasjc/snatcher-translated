@@ -1,0 +1,150 @@
+[
+ {
+  "track": 3,
+  "start": 4.1,
+  "end": 6.9,
+  "speaker": "Metal Gear",
+  "en": "We're back at JUNKER HQ.",
+  "ps1": "B080_0_00",
+  "layout": "plain",
+  "cards": [
+   "We're back at|JUNKER HQ."
+  ],
+  "reveal_end": 6.44
+ },
+ {
+  "track": 3,
+  "start": 6.9,
+  "end": 8.18,
+  "speaker": "Gillian",
+  "en": "We're back.",
+  "ps1": "B080_0_01",
+  "cards": [
+   "We're back."
+  ],
+  "reveal_end": 7.84,
+  "layout": "plain"
+ },
+ {
+  "track": 3,
+  "start": 8.18,
+  "end": 16.06,
+  "speaker": "Metal Gear",
+  "en": "Going inside. We're at the front desk.",
+  "ps1": "B080_0_02",
+  "layout": "plain",
+  "cards": [
+   "Going inside. We're|at the front desk."
+  ],
+  "reveal_end": 14.62
+ },
+ {
+  "track": 3,
+  "start": 16.06,
+  "end": 19.92,
+  "speaker": "Mika",
+  "en": "I heard about Jean, Gillian.",
+  "ps1": "B080_0_04",
+  "layout": "plain",
+  "cards": [
+   "I heard about Jean,|Gillian."
+  ],
+  "reveal_end": 18.98
+ },
+ {
+  "track": 3,
+  "start": 19.92,
+  "end": 23.04,
+  "speaker": "Gillian",
+  "en": "I'm sorry. I was too inexperienced.",
+  "ps1": "B080_0_05",
+  "cards": [
+   "I'm sorry. I was|too inexperienced."
+  ],
+  "layout": "face",
+  "reveal_end": 22.8
+ },
+ {
+  "track": 3,
+  "start": 23.04,
+  "end": 26.08,
+  "speaker": "Metal Gear",
+  "en": "You did well, Gillian.",
+  "ps1": "B080_0_06",
+  "cards": [
+   "You did well,|Gillian."
+  ],
+  "layout": "face",
+  "reveal_end": 25.72
+ },
+ {
+  "track": 3,
+  "start": 26.08,
+  "end": 37.5,
+  "speaker": "Mika",
+  "en": "That's right, Gillian. It wasn't your fault. Don't let it get to you. The Chief is waiting, Gillian.",
+  "ps1": "B080_0_07",
+  "ps1_more": [
+   "B080_0_08"
+  ],
+  "layout": "plain",
+  "cards": [
+   "That's right, Gillian. It|wasn't your fault.",
+   "Don't let it get to you.|The Chief is waiting, Gillian."
+  ],
+  "reveal_end": 34.54
+ },
+ {
+  "track": 3,
+  "start": 37.5,
+  "end": 40.08,
+  "speaker": "Metal Gear",
+  "en": "The Chief's office.",
+  "ps1": "B080_0_09",
+  "cards": [
+   "The Chief's office."
+  ],
+  "layout": "face",
+  "reveal_end": 38.46
+ },
+ {
+  "track": 3,
+  "start": 40.08,
+  "end": 43.96,
+  "speaker": "Chief",
+  "en": "A rough start to your new job, Seed. Well done.",
+  "ps1": "B080_0_10",
+  "layout": "plain",
+  "cards": [
+   "A rough start to your|new job, Seed. Well done."
+  ],
+  "reveal_end": 43.58
+ },
+ {
+  "track": 3,
+  "start": 43.96,
+  "end": 56.58,
+  "speaker": "Chief",
+  "en": "Metal Gear's data showed me what happened there. I'm sorry about Gibson. Carry on for him too, Seed.",
+  "ps1": "B080_0_10b",
+  "layout": "plain",
+  "cards": [
+   "Metal Gear's data|showed me what happened there.",
+   "I'm sorry about Gibson.|Carry on for him too, Seed."
+  ],
+  "reveal_end": 56.4
+ },
+ {
+  "track": 3,
+  "start": 56.58,
+  "end": 60.1,
+  "speaker": "Chief",
+  "en": "You're the only one who can fight the Snatchers now.",
+  "ps1": "B080_0_10d",
+  "layout": "plain",
+  "cards": [
+   "You're the only one who|can fight the Snatchers now."
+  ],
+  "reveal_end": 59.1
+ }
+]

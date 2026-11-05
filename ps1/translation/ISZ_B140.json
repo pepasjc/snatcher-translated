@@ -1,0 +1,870 @@
+{
+ "file": "ISZ_B140.BIN",
+ "text_base": 3778,
+ "strings": [
+  {
+   "off": 3778,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 3783,
+   "budget": 47,
+   "en": "Yay! A perfect at super Runner￥level!",
+   "long": "Hooray! A perfect score on Super￥Runner level!"
+  },
+  {
+   "off": 3830,
+   "budget": 27,
+   "en": "You did it, Gillian!"
+  },
+  {
+   "off": 3857,
+   "budget": 39,
+   "en": "Another perfect score, Gillian!"
+  },
+  {
+   "off": 3896,
+   "budget": 53,
+   "en": "Another perfect score? You're￥unbeatable!"
+  },
+  {
+   "off": 3949,
+   "budget": 55,
+   "en": "A perfect score on Intermediate! You￥did it, Gillian!"
+  },
+  {
+   "off": 4004,
+   "budget": 53,
+   "en": "Another perfect score? You're on a￥roll, Gillian!"
+  },
+  {
+   "off": 4057,
+   "budget": 51,
+   "en": "Yes! A perfect score! You did it,￥Gillian!"
+  },
+  {
+   "off": 4108,
+   "budget": 33,
+   "en": "Yet another perfect score!"
+  },
+  {
+   "off": 4141,
+   "budget": 57,
+   "en": "(A good instructor can polish even￥the roughest stone.)"
+  },
+  {
+   "off": 4198,
+   "budget": 29,
+   "en": "Hm? Say something, Metal?",
+   "long": "Hmm? Did you say something, Metal?"
+  },
+  {
+   "off": 4227,
+   "budget": 47,
+   "en": "No, nothing. You've improved,￥Gillian."
+  },
+  {
+   "off": 4274,
+   "budget": 47,
+   "en": "Amazing! Not a single wasted shot."
+  },
+  {
+   "off": 4321,
+   "budget": 67,
+   "en": "Every humanoid Snatcher down!￥A runner to boast of anywhere.",
+   "long": "You got all the human-looking￥Snatchers too! You're a Runner we￥can be proud of."
+  },
+  {
+   "off": 4388,
+   "budget": 67,
+   "en": "You did it again! No wasted shots! I￥have nothing more to say."
+  },
+  {
+   "off": 4455,
+   "budget": 35,
+   "en": "Incredible! My hat's off to you."
+  },
+  {
+   "off": 4490,
+   "budget": 67,
+   "en": "Excellent! No wasted shots. You're a￥fine Runner."
+  },
+  {
+   "off": 4557,
+   "budget": 53,
+   "en": "Again!￥Zero wasted shots!￥Quite perfect now.",
+   "long": "You did it again! No wasted shots.￥You're perfect now."
+  },
+  {
+   "off": 4610,
+   "budget": 59,
+   "en": "Superb!￥This level's too easy for you now,￥it seems?",
+   "long": "Excellent! This training level seems￥too easy for you now."
+  },
+  {
+   "off": 4669,
+   "budget": 45,
+   "en": "Excellent! No wasted shots, either."
+  },
+  {
+   "off": 4714,
+   "budget": 61,
+   "en": "Again!￥Zero wasted shots!￥Perfect at this level too.",
+   "long": "You did it again! No wasted shots.￥You've mastered this level."
+  },
+  {
+   "off": 4775,
+   "budget": 49,
+   "en": "You did well when you came here with￥Mika too."
+  },
+  {
+   "off": 4824,
+   "budget": 49,
+   "en": "I've always thought you had a knack￥for this."
+  },
+  {
+   "off": 4873,
+   "budget": 45,
+   "en": "Mika told me about your training￥results."
+  },
+  {
+   "off": 4918,
+   "budget": 37,
+   "en": "Well? Think a little more of me now?"
+  },
+  {
+   "off": 4955,
+   "budget": 53,
+   "en": "And a perfect score right away! I'm￥impressed."
+  },
+  {
+   "off": 5008,
+   "budget": 59,
+   "en": "Keep it up. Waste fewer shots and￥you'll do even better."
+  },
+  {
+   "off": 5067,
+   "budget": 37,
+   "en": "The wasted shots concern me.",
+   "long": "I'm concerned about all the wasted￥shots."
+  },
+  {
+   "off": 5104,
+   "budget": 33,
+   "en": "Next, curb the wasted shots.",
+   "long": "Try to waste fewer shots next time."
+  },
+  {
+   "off": 5137,
+   "budget": 43,
+   "en": "Well! Perfect!!￥No complaints?",
+   "long": "How's that? Perfect! No complaints￥now, right?"
+  },
+  {
+   "off": 5180,
+   "budget": 65,
+   "en": "A perfect score is good, but you hit￥civilians too."
+  },
+  {
+   "off": 5245,
+   "budget": 61,
+   "en": "How do you know they're civilians?￥They could be Snatchers."
+  },
+  {
+   "off": 5306,
+   "budget": 67,
+   "en": "You can't shoot without proof.￥That's part of being a JUNKER."
+  },
+  {
+   "off": 5373,
+   "budget": 41,
+   "en": "Once again, a perfect with stray￥hits.",
+   "long": "Another perfect score with civilian￥casualties."
+  },
+  {
+   "off": 5414,
+   "budget": 61,
+   "en": "Almost there. Now you just need to￥stop hitting civilians."
+  },
+  {
+   "off": 5475,
+   "budget": 29,
+   "en": "Damn it! I was so close."
+  },
+  {
+   "off": 5504,
+   "budget": 41,
+   "en": "Don't worry. You're steadily￥improving."
+  },
+  {
+   "off": 5545,
+   "budget": 31,
+   "en": "Still, not the real thing.",
+   "long": "It's still different from real￥combat."
+  },
+  {
+   "off": 5576,
+   "budget": 43,
+   "en": "Shooting civilians is unacceptable."
+  },
+  {
+   "off": 5619,
+   "budget": 35,
+   "en": "Stray hits are hardest to stop.",
+   "long": "Avoiding those mistakes is the￥hardest part."
+  },
+  {
+   "off": 5654,
+   "budget": 65,
+   "en": "Many stray rounds too.￥Work on focus and judgement.",
+   "long": "You fired a lot of stray shots too.￥You need better concentration and￥judgment."
+  },
+  {
+   "off": 5719,
+   "budget": 53,
+   "en": "Raise the hit rate and I can't￥tell them apart.",
+   "long": "When I try to hit more targets, I￥can't tell them apart."
+  },
+  {
+   "off": 5772,
+   "budget": 51,
+   "en": "Have some confidence. You're a￥professional now.",
+   "long": "Have confidence in yourself. You're￥a professional now."
+  },
+  {
+   "off": 5823,
+   "budget": 37,
+   "en": "That just makes me nervous.",
+   "long": "Now you've said that, I'm losing￥confidence."
+  },
+  {
+   "off": 5860,
+   "budget": 27,
+   "en": "Yes! A perfect score!"
+  },
+  {
+   "off": 5887,
+   "budget": 85,
+   "en": "Yes, it's certainly perfect, but￥look closely. You killed all the￥civilians too."
+  },
+  {
+   "off": 5972,
+   "budget": 51,
+   "en": "Look, Metal! Perfect! How about￥that?"
+  },
+  {
+   "off": 6023,
+   "budget": 55,
+   "en": "Yes, yes. Perfect. You killed every￥civilian too."
+  },
+  {
+   "off": 6078,
+   "budget": 11,
+   "en": "Accidents.",
+   "long": "It was an accident."
+  },
+  {
+   "off": 6089,
+   "budget": 23,
+   "en": "An accident won't do.",
+   "long": "An accident is no excuse."
+  },
+  {
+   "off": 6112,
+   "budget": 43,
+   "en": "Splendid.￥Perfect, all civilians dead.",
+   "long": "Well done. A perfect score, with￥every civilian dead."
+  },
+  {
+   "off": 6155,
+   "budget": 51,
+   "en": "No stray shots, and your shot￥control is good.",
+   "long": "No stray shots. You have good￥control of your aim."
+  },
+  {
+   "off": 6206,
+   "budget": 49,
+   "en": "Now you must tell civilian￥from Snatcher.",
+   "long": "Now you need to tell civilians apart￥from Snatchers."
+  },
+  {
+   "off": 6255,
+   "budget": 47,
+   "en": "I know. I'm not a rookie anymore."
+  },
+  {
+   "off": 6302,
+   "budget": 31,
+   "en": "As long as you understand."
+  },
+  {
+   "off": 6333,
+   "budget": 61,
+   "en": "Few stray shots, but you still￥mustn't hurt civilians."
+  },
+  {
+   "off": 6394,
+   "budget": 35,
+   "en": "I thought I'd got used to it...",
+   "long": "I thought I was getting the hang of￥it."
+  },
+  {
+   "off": 6429,
+   "budget": 59,
+   "en": "Habit is the real danger.￥Never forget how you started.",
+   "long": "Getting complacent is the real￥danger. Remember the care you took￥as a beginner."
+  },
+  {
+   "off": 6488,
+   "budget": 33,
+   "en": "And many stray rounds too...",
+   "long": "And there were a lot of stray shots."
+  },
+  {
+   "off": 6521,
+   "budget": 65,
+   "en": "Don't fire at everything.￥Look and judge properly.",
+   "long": "Don't shoot everything in sight.￥Identify your targets carefully."
+  },
+  {
+   "off": 6586,
+   "budget": 35,
+   "en": "I'm the type who wins by volume.",
+   "long": "I like to win by firing more shots."
+  },
+  {
+   "off": 6621,
+   "budget": 43,
+   "en": "The Blaster has a limit to its￥energy.",
+   "long": "Your Blaster has a limited energy￥supply."
+  },
+  {
+   "off": 6664,
+   "budget": 51,
+   "en": "Not bad. You didn't shoot any￥civilians."
+  },
+  {
+   "off": 6715,
+   "budget": 85,
+   "en": "No wasted shots. More training will￥help. Your aim seems good."
+  },
+  {
+   "off": 6800,
+   "budget": 83,
+   "en": "Few wasted shots, but the hit rate￥has far to go.￥Your judgement is sound.",
+   "long": "Few wasted shots, but your hit rate￥needs work. Your judgment is sound,￥though."
+  },
+  {
+   "off": 6883,
+   "budget": 79,
+   "en": "I'm concerned about all the wasted￥shots. Your accuracy still needs￥work."
+  },
+  {
+   "off": 6962,
+   "budget": 65,
+   "en": "You're getting pretty good. But you￥mustn't hurt civilians."
+  },
+  {
+   "off": 7027,
+   "budget": 69,
+   "en": "Your aim isn't bad. You just need to￥concentrate."
+  },
+  {
+   "off": 7096,
+   "budget": 33,
+   "en": "Keep working on your judgment."
+  },
+  {
+   "off": 7129,
+   "budget": 61,
+   "en": "Your waste of energy stands out too.￥You need more focus.",
+   "long": "You're wasting a lot of energy too.￥You need to concentrate more."
+  },
+  {
+   "off": 7190,
+   "budget": 61,
+   "en": "Your hit rate is fair, but you￥killed every civilian."
+  },
+  {
+   "off": 7251,
+   "budget": 57,
+   "en": "Few stray shots, so your aim seems￥good."
+  },
+  {
+   "off": 7308,
+   "budget": 59,
+   "en": "Now judge carefully.￥A mistake will cost your life.",
+   "long": "Now identify your targets carefully.￥A mistake can cost a life."
+  },
+  {
+   "off": 7367,
+   "budget": 69,
+   "en": "No stray shots, but you seem to be￥shooting everything."
+  },
+  {
+   "off": 7436,
+   "budget": 63,
+   "en": "Try to stay calm. Those ruthless￥things are your enemy."
+  },
+  {
+   "off": 7499,
+   "budget": 79,
+   "en": "And many stray rounds. Energy￥has a limit, so do take care.",
+   "long": "You're firing a lot of stray shots￥too. Be careful. Your energy supply￥is limited."
+  },
+  {
+   "off": 7578,
+   "budget": 17,
+   "en": "Same as ever..."
+  },
+  {
+   "off": 7595,
+   "budget": 65,
+   "en": "...Your dynamic eyesight is good.￥No stray hits on civilians.",
+   "long": "You seem good at following moving￥targets. You didn't shoot any￥civilians."
+  },
+  {
+   "off": 7660,
+   "budget": 61,
+   "en": "No wasted shots, that's good.￥But more training is needed.",
+   "long": "I give you credit for not wasting￥shots. But you still need plenty of￥training."
+  },
+  {
+   "off": 7721,
+   "budget": 87,
+   "en": "Keep that judgment and work on￥reacting faster. Waste fewer shots￥too."
+  },
+  {
+   "off": 7808,
+   "budget": 71,
+   "en": "Still many wasted shots and a low￥hit rate, so keep practising.",
+   "long": "You're still wasting too many shots￥and your accuracy is low. Keep￥practicing."
+  },
+  {
+   "off": 7879,
+   "budget": 93,
+   "en": "More training needed. Low hit rate,￥and stray hits on civilians are￥unforgivable.",
+   "long": "You still need plenty of training.￥Your accuracy is low, but above all,￥you mustn't shoot civilians."
+  },
+  {
+   "off": 7972,
+   "budget": 55,
+   "en": "Control is middling, but more￥practice is needed.",
+   "long": "Your aim is fair, but you still need￥plenty of practice."
+  },
+  {
+   "off": 8027,
+   "budget": 43,
+   "en": "Few stray shots, but you hit￥civilians."
+  },
+  {
+   "off": 8070,
+   "budget": 67,
+   "en": "Many strays too.￥At this rate...￥I can't promise you'll live.",
+   "long": "A lot of stray shots too. At this￥rate, I can't promise you'll￥survive."
+  },
+  {
+   "off": 8137,
+   "budget": 49,
+   "en": "Average score, but the stray￥hits must stop.",
+   "long": "Your score is average, but you need￥to stop shooting civilians."
+  },
+  {
+   "off": 8186,
+   "budget": 51,
+   "en": "Not impressive.￥Still too many stray hits.",
+   "long": "Not impressive. You're still￥shooting far too many civilians."
+  },
+  {
+   "off": 8237,
+   "budget": 51,
+   "en": "You can't afford to make mistakes,￥Gillian."
+  },
+  {
+   "off": 8288,
+   "budget": 45,
+   "en": "Better hit rate, and￥no civilians hit.",
+   "long": "You need to improve your hit rate￥without hurting civilians."
+  },
+  {
+   "off": 8333,
+   "budget": 49,
+   "en": "If you forget that, you'll end up a￥murderer."
+  },
+  {
+   "off": 8382,
+   "budget": 77,
+   "en": "Plenty of stray shots too. As you￥know, only Snatchers are targets."
+  },
+  {
+   "off": 8459,
+   "budget": 43,
+   "en": "You didn't pull the trigger once!"
+  },
+  {
+   "off": 8502,
+   "budget": 31,
+   "en": "Get it together, Gillian!"
+  },
+  {
+   "off": 8533,
+   "budget": 31,
+   "en": "I only tense up for real.",
+   "long": "I can't get worked up unless it's￥real combat."
+  },
+  {
+   "off": 8564,
+   "budget": 47,
+   "en": "You won't be cursing once￥you're dead.",
+   "long": "You won't be able to talk back when￥you're dead."
+  },
+  {
+   "off": 8611,
+   "budget": 53,
+   "en": "What is this!￥No stray hits, and nothing else.",
+   "long": "What was that? You spared the￥civilians, but everything else was￥terrible."
+  },
+  {
+   "off": 8664,
+   "budget": 31,
+   "en": "Are you even trying, Gillian?"
+  },
+  {
+   "off": 8695,
+   "budget": 47,
+   "en": "Slack off in training￥and you'll pay.",
+   "long": "Slacking off in training will get￥you in serious trouble."
+  },
+  {
+   "off": 8742,
+   "budget": 71,
+   "en": "Don't fire at random. Aim carefully￥before pulling the trigger."
+  },
+  {
+   "off": 8813,
+   "budget": 57,
+   "en": "Your accuracy is terrible. Get it￥together, Gillian."
+  },
+  {
+   "off": 8870,
+   "budget": 53,
+   "en": "No strays, but you must not￥shoot civilians.",
+   "long": "No stray shots, but you need to stop￥shooting civilians."
+  },
+  {
+   "off": 8923,
+   "budget": 53,
+   "en": "Control isn't bad, but your￥judgement lags.",
+   "long": "Your aim isn't bad, but your￥judgment still needs work."
+  },
+  {
+   "off": 8976,
+   "budget": 67,
+   "en": "You still need plenty of training.￥Look carefully and take aim."
+  },
+  {
+   "off": 9043,
+   "budget": 45,
+   "en": "You're wasting a lot of energy too."
+  },
+  {
+   "off": 9088,
+   "budget": 31,
+   "en": "It's time you settled down."
+  },
+  {
+   "off": 9119,
+   "budget": 37,
+   "en": "This level is too much for you."
+  },
+  {
+   "off": 9156,
+   "budget": 37,
+   "en": "Next time we go￥back to middle...",
+   "long": "I'll switch you back to Intermediate￥next time."
+  },
+  {
+   "off": 9193,
+   "budget": 45,
+   "en": "See? This level is too much for you."
+  },
+  {
+   "off": 9238,
+   "budget": 37,
+   "en": "Next time we go￥back to novice...",
+   "long": "I'll switch you back to Beginner￥next time."
+  },
+  {
+   "off": 9275,
+   "budget": 43,
+   "en": "Was this level too difficult after￥all?"
+  },
+  {
+   "off": 9318,
+   "budget": 47,
+   "en": "This level was tough for you,￥it seems?",
+   "long": "This level seems to have been too￥tough for you, Gillian."
+  },
+  {
+   "off": 9365,
+   "budget": 59,
+   "en": "What's the idea?￥Why shoot civilians like that?",
+   "long": "What are you doing? Why are you￥shooting so many civilians?"
+  },
+  {
+   "off": 9424,
+   "budget": 65,
+   "en": "No time for jokes.￥Did you aim at civilians on￥purpose?",
+   "long": "This is no time for games. Were you￥deliberately aiming only at￥civilians?"
+  },
+  {
+   "off": 9489,
+   "budget": 71,
+   "en": "Again? You're no longer a rookie.￥Take your training seriously!"
+  },
+  {
+   "off": 9560,
+   "budget": 37,
+   "en": "Do you hate humans, Gillian?"
+  },
+  {
+   "off": 9597,
+   "budget": 37,
+   "en": "Mika was right. A death wish.",
+   "long": "Mika was right about your urge to￥kill."
+  },
+  {
+   "off": 9634,
+   "budget": 41,
+   "en": "What happened? This is upsetting."
+  },
+  {
+   "off": 9675,
+   "budget": 37,
+   "en": "Why do you keep shooting people?"
+  },
+  {
+   "off": 9712,
+   "budget": 55,
+   "en": "I hear you didn't do this when you￥came with Mika."
+  },
+  {
+   "off": 9767,
+   "budget": 33,
+   "en": "Come to think, Mika said so.",
+   "long": "Come to think of it, Mika did￥mention something."
+  },
+  {
+   "off": 9800,
+   "budget": 49,
+   "en": "She said you might have an urge to￥kill."
+  },
+  {
+   "off": 9849,
+   "budget": 41,
+   "en": "Don't aim at civilians. Be serious!",
+   "long": "Stop aiming at civilians and take￥this seriously!"
+  },
+  {
+   "off": 9890,
+   "budget": 53,
+   "en": "Many strays too. Snatchers are￥what you aim at.",
+   "long": "A lot of stray shots too. You're￥supposed to aim at the Snatchers."
+  },
+  {
+   "off": 9943,
+   "budget": 119,
+   "en": "＠黄Blaster: Select on a controller￥or right mouse to draw, ＠赤O＠白 or￥left mouse to fire.＠白",
+   "long": "＠黄Ready your Blaster with SELECT on￥the controller or the right mouse￥button. Fire with ＠赤○＠白 or the left￥mouse button.＠白"
+  },
+  {
+   "off": 10062,
+   "budget": 85,
+   "en": "＠黄Gillian, press SELECT on the￥controller or the right mouse￥button!＠白"
+  },
+  {
+   "off": 10147,
+   "budget": 85,
+   "en": "＠黄Remember, press SELECT on the￥controller or the right mouse￥button."
+  },
+  {
+   "off": 10232,
+   "budget": 55,
+   "en": "But it's your first time.￥It'll come with practice.",
+   "long": "But it's your first time. You'll￥improve as you get used to it."
+  },
+  {
+   "off": 10287,
+   "budget": 65,
+   "en": "Good for a first try.￥It'll get better with practice.",
+   "long": "Still, that's good for a first try.￥You'll improve as you get used to￥it."
+  },
+  {
+   "off": 10352,
+   "budget": 27,
+   "en": "Really keen, though.",
+   "long": "You really are dedicated to￥practicing."
+  },
+  {
+   "off": 10379,
+   "budget": 41,
+   "en": "You really do try hard.￥I'm impressed.",
+   "long": "You certainly keep at it. I'm￥impressed."
+  },
+  {
+   "off": 10420,
+   "budget": 55,
+   "en": "You do try hard.￥I've changed my mind about you.",
+   "long": "You really do keep trying. I have a￥little more respect for you now."
+  },
+  {
+   "off": 10475,
+   "budget": 21,
+   "en": "...Even so..."
+  },
+  {
+   "off": 10496,
+   "budget": 63,
+   "en": "This level was too tough for you￥after all, Gillian."
+  },
+  {
+   "off": 10559,
+   "budget": 35,
+   "en": "Next time, back to middle level.",
+   "long": "I'll switch you back down to￥Intermediate next time."
+  },
+  {
+   "off": 10594,
+   "budget": 23,
+   "en": "Wait, Metal!"
+  },
+  {
+   "off": 10617,
+   "budget": 61,
+   "en": "Then until you leave the room,￥we'll stay at this level.",
+   "long": "All right. We'll stay at this level￥until you leave the room."
+  },
+  {
+   "off": 10678,
+   "budget": 25,
+   "en": "Even so..."
+  },
+  {
+   "off": 10703,
+   "budget": 35,
+   "en": "Next time, back to novice level.",
+   "long": "I'll switch you back down to￥Beginner next time."
+  },
+  {
+   "off": 10738,
+   "budget": 29,
+   "en": "Wait a minute!"
+  },
+  {
+   "off": 10767,
+   "budget": 43,
+   "en": "At this rate, it'll be game over￥again."
+  },
+  {
+   "off": 10810,
+   "budget": 39,
+   "en": "Don't scold me.￥I'm bad at shooting.",
+   "long": "Don't be so hard on me. I'm not a￥good shot."
+  },
+  {
+   "off": 10849,
+   "budget": 69,
+   "en": "You're a runner.￥You're the one who disposes of￥Snatchers!",
+   "long": "You're a Runner! You're the one who￥has to eliminate the Snatchers!"
+  },
+  {
+   "off": 10918,
+   "budget": 41,
+   "en": "Again! In a real fight,￥you're out.",
+   "long": "There you go again! In real combat,￥you'd be dead."
+  },
+  {
+   "off": 10959,
+   "budget": 29,
+   "en": "All that over one mistake?"
+  },
+  {
+   "off": 10988,
+   "budget": 69,
+   "en": "This isn't just about you. Put your￥pride aside."
+  },
+  {
+   "off": 11057,
+   "budget": 45,
+   "en": "The future of all humanity depends￥on you."
+  },
+  {
+   "off": 11102,
+   "budget": 29,
+   "en": "So I'm a hero?"
+  },
+  {
+   "off": 11131,
+   "budget": 23,
+   "en": "Something like that."
+  },
+  {
+   "off": 11154,
+   "budget": 21,
+   "en": "More or less... eh?",
+   "long": "Something like that, huh?"
+  },
+  {
+   "off": 11175,
+   "budget": 43,
+   "en": "Next time won't be a light￥wound.",
+   "long": "At this rate, you won't get away￥with minor injuries next time."
+  },
+  {
+   "off": 11218,
+   "budget": 37,
+   "en": "Don't nag.￥I'm bad at shooting.",
+   "long": "Stop nagging. Shooting isn't my￥strong point."
+  },
+  {
+   "off": 11255,
+   "budget": 61,
+   "en": "You're a Runner. Poor shooting will￥get you killed."
+  },
+  {
+   "off": 11316,
+   "budget": 55,
+   "en": "Do you have to get hurt again￥before you understand?",
+   "long": "Do you have to get hurt like last￥time before you'll learn?"
+  },
+  {
+   "off": 11371,
+   "budget": 59,
+   "en": "Can you only shoot well with￥a woman watching, Gillian?",
+   "long": "Can you only get good scores when a￥woman is watching, Gillian?"
+  },
+  {
+   "off": 11430,
+   "budget": 17,
+   "en": "Meaning what?",
+   "long": "What's that supposed to mean?"
+  },
+  {
+   "off": 11447,
+   "budget": 37,
+   "en": "Before Mika it was perfect, no?",
+   "long": "You got a perfect score in front of￥Mika."
+  },
+  {
+   "off": 11484,
+   "budget": 35,
+   "en": "That's how men are."
+  },
+  {
+   "off": 11521,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

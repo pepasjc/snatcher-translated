@@ -1,0 +1,465 @@
+{
+ "file": "ISZ_B1F0.BIN",
+ "text_base": 2115,
+ "strings": [
+  {
+   "off": 2115,
+   "budget": 3,
+   "en": ""
+  },
+  {
+   "off": 2118,
+   "budget": 2,
+   "en": ""
+  },
+  {
+   "off": 2120,
+   "budget": 19,
+   "en": "Put your feet out"
+  },
+  {
+   "off": 2139,
+   "budget": 51,
+   "en": "We're in the Tricycle. Where shall￥we go?"
+  },
+  {
+   "off": 2190,
+   "budget": 11,
+   "en": "Get out",
+   "long": "Exit Tricycle"
+  },
+  {
+   "off": 2201,
+   "budget": 37,
+   "en": "Let's search headquarters again."
+  },
+  {
+   "off": 2238,
+   "budget": 11,
+   "en": "Gillian's",
+   "long": "Gillian's home"
+  },
+  {
+   "off": 2249,
+   "budget": 23,
+   "en": "Stop at my place.",
+   "long": "Let's stop by my place."
+  },
+  {
+   "off": 2272,
+   "budget": 13,
+   "en": "Altamira"
+  },
+  {
+   "off": 2285,
+   "budget": 33,
+   "en": "Let's stop at Altamira first."
+  },
+  {
+   "off": 2318,
+   "budget": 13,
+   "en": "Queen Hosp",
+   "long": "Queen Hospital"
+  },
+  {
+   "off": 2331,
+   "budget": 35,
+   "en": "Heading to Queen Hospital."
+  },
+  {
+   "off": 2366,
+   "budget": 63,
+   "en": "Gillian, where are you going!￥Hurry to Queen Hospital!!",
+   "long": "Where are you going, Gillian? We￥need to hurry to Queen Hospital!"
+  },
+  {
+   "off": 2429,
+   "budget": 41,
+   "en": "It's too late to get cold feet now!"
+  },
+  {
+   "off": 2470,
+   "budget": 45,
+   "en": "Let's head for the Snatchers' base!"
+  },
+  {
+   "off": 2515,
+   "budget": 67,
+   "en": "There's no time, Gillian! Let's go￥straight to Queen Hospital."
+  },
+  {
+   "off": 2582,
+   "budget": 29,
+   "en": "It's no good! It's over!",
+   "long": "It's hopeless! We're finished!"
+  },
+  {
+   "off": 2611,
+   "budget": 53,
+   "en": "Don't give up yet! There has to be a￥way out!"
+  },
+  {
+   "off": 2664,
+   "budget": 25,
+   "en": "What will you do?",
+   "long": "What are you going to do?"
+  },
+  {
+   "off": 2689,
+   "budget": 45,
+   "en": "No good! Gillian!￥A short while, but...",
+   "long": "It's no use, Gillian! We haven't￥known each other long, but"
+  },
+  {
+   "off": 2734,
+   "budget": 31,
+   "en": "Quiet! There must be a way!",
+   "long": "Shut up! There has to be a way!"
+  },
+  {
+   "off": 2765,
+   "budget": 73,
+   "en": "Impossible.￥We're at 250 kph...￥There's no surviving it!",
+   "long": "Impossible! We're going over 250￥kilometers an hour. We can't survive￥this!"
+  },
+  {
+   "off": 2838,
+   "budget": 31,
+   "en": "Damn! Faster and faster.",
+   "long": "Damn it! We're going faster and￥faster!"
+  },
+  {
+   "off": 2869,
+   "budget": 45,
+   "en": "It won't stop!￥I'm out of ideas...!",
+   "long": "I can't stop! I can't take this! I￥don't know anymore!"
+  },
+  {
+   "off": 2914,
+   "budget": 31,
+   "en": "Is this it? Jamie!"
+  },
+  {
+   "off": 2945,
+   "budget": 37,
+   "en": "I'll do anything to stay alive!"
+  },
+  {
+   "off": 2982,
+   "budget": 11,
+   "en": "Jump off"
+  },
+  {
+   "off": 2993,
+   "budget": 23,
+   "en": "That won't work now."
+  },
+  {
+   "off": 3016,
+   "budget": 49,
+   "en": "No good!￥The door is rigged and won't open!",
+   "long": "No! The door's been tampered with￥too. It won't open!"
+  },
+  {
+   "off": 3065,
+   "budget": 15,
+   "en": "What?!"
+  },
+  {
+   "off": 3080,
+   "budget": 73,
+   "en": "Even if it opened, we'd be torn￥apart at this speed!"
+  },
+  {
+   "off": 3153,
+   "budget": 53,
+   "en": "Blast the lock and the door￥should open!",
+   "long": "If I shoot the lock with my Blaster,￥the door should open!"
+  },
+  {
+   "off": 3206,
+   "budget": 59,
+   "en": "Open or not, jumping at this￥speed is certain death!!",
+   "long": "Even if it opens, jumping out at￥this speed would kill you!"
+  },
+  {
+   "off": 3265,
+   "budget": 49,
+   "en": "Breaking the door only adds￥danger!!",
+   "long": "Destroying the door will only make￥things more dangerous!"
+  },
+  {
+   "off": 3314,
+   "budget": 81,
+   "en": "Don't do anything reckless! That's￥really taking a leap of faith!"
+  },
+  {
+   "off": 3395,
+   "budget": 25,
+   "en": "Am I using it wrong?",
+   "long": "Isn't that the wrong expression?"
+  },
+  {
+   "off": 3420,
+   "budget": 9,
+   "en": "Glide"
+  },
+  {
+   "off": 3429,
+   "budget": 67,
+   "en": "No good.￥Past 80 kph the safety trips￥and we can't lift off.",
+   "long": "No. The safety system prevents￥takeoff above 80 kilometers an hour."
+  },
+  {
+   "off": 3496,
+   "budget": 51,
+   "en": "What! Some safety!￥Sticking useless junk on it!",
+   "long": "What? Some safety system! Why'd they￥put that damn thing in?"
+  },
+  {
+   "off": 3547,
+   "budget": 47,
+   "en": "Releasing the safety needs￥a special tool!",
+   "long": "We need special tools to disable the￥safety system!"
+  },
+  {
+   "off": 3594,
+   "budget": 25,
+   "en": "No tool, so it's no go.",
+   "long": "We can't without the tools."
+  },
+  {
+   "off": 3619,
+   "budget": 49,
+   "en": "Why didn't you bring the tools,￥＠赤idiot?!"
+  },
+  {
+   "off": 3668,
+   "budget": 55,
+   "en": "The one saying fool is a fool!￥Gillian, ＠赤fool!",
+   "long": "Takes one to know one! You're the￥＠赤idiot, Gillian!"
+  },
+  {
+   "off": 3723,
+   "budget": 7,
+   "en": "Quit",
+   "long": "Give up"
+  },
+  {
+   "off": 3730,
+   "budget": 29,
+   "en": "What? You're giving up?"
+  },
+  {
+   "off": 3759,
+   "budget": 59,
+   "en": "Gillian's given up! We're doomed!"
+  },
+  {
+   "off": 3818,
+   "budget": 57,
+   "en": "Shut up, will you? All right, I'll￥do something!"
+  },
+  {
+   "off": 3875,
+   "budget": 17,
+   "en": "Pull the lever"
+  },
+  {
+   "off": 3892,
+   "budget": 35,
+   "en": "Metal! Pull that lever!"
+  },
+  {
+   "off": 3927,
+   "budget": 19,
+   "en": "Right! Pulling it!"
+  },
+  {
+   "off": 3946,
+   "budget": 27,
+   "en": "It came off."
+  },
+  {
+   "off": 3973,
+   "budget": 25,
+   "en": "Oh, give me a break!",
+   "long": "You've got to be kidding me!"
+  },
+  {
+   "off": 3998,
+   "budget": 11,
+   "en": "Hit wall"
+  },
+  {
+   "off": 4009,
+   "budget": 47,
+   "en": "Right! We hit the wall!￥Metal, hold on!",
+   "long": "All right! I'm hitting the wall!￥Hold on, Metal!"
+  },
+  {
+   "off": 4056,
+   "budget": 43,
+   "en": "I'll hit the wall again! Here goes!"
+  },
+  {
+   "off": 4099,
+   "budget": 15,
+   "en": "Aaaah!"
+  },
+  {
+   "off": 4114,
+   "budget": 43,
+   "en": "No good!￥We'll break up before we stop!",
+   "long": "No good! We'll fall apart before we￥stop!"
+  },
+  {
+   "off": 4157,
+   "budget": 15,
+   "en": "Hit sand",
+   "long": "Drive into sand"
+  },
+  {
+   "off": 4172,
+   "budget": 53,
+   "en": "I'm heading into the sand! Hold on￥tight!"
+  },
+  {
+   "off": 4225,
+   "budget": 49,
+   "en": "I'll try the sand again! Here goes!"
+  },
+  {
+   "off": 4274,
+   "budget": 19,
+   "en": "Damn! No good!",
+   "long": "Damn it! Still no good!"
+  },
+  {
+   "off": 4293,
+   "budget": 11,
+   "en": "Press",
+   "long": "Press button"
+  },
+  {
+   "off": 4304,
+   "budget": 47,
+   "en": "All or nothing. I'll try this￥button!"
+  },
+  {
+   "off": 4351,
+   "budget": 53,
+   "en": "The radio came on, Gillian! What are￥you doing!",
+   "long": "You've turned on the radio, Gillian!￥What are you doing?"
+  },
+  {
+   "off": 4404,
+   "budget": 25,
+   "en": "Right, this button next!",
+   "long": "All right, this button next!"
+  },
+  {
+   "off": 4429,
+   "budget": 47,
+   "en": "Wait! That's the afterburner switch!"
+  },
+  {
+   "off": 4476,
+   "budget": 23,
+   "en": "Damn it! My mistake!"
+  },
+  {
+   "off": 4499,
+   "budget": 59,
+   "en": "Thrust is up 23 percent! What now,￥Gillian?"
+  },
+  {
+   "off": 4558,
+   "budget": 25,
+   "en": "How about this button?"
+  },
+  {
+   "off": 4583,
+   "budget": 75,
+   "en": "Climate control activated! Cabin￥temperature rising. 24, 25, 26￥degrees."
+  },
+  {
+   "off": 4658,
+   "budget": 25,
+   "en": "A comfortable heat!",
+   "long": "We've reached a comfortable￥temperature!"
+  },
+  {
+   "off": 4683,
+   "budget": 29,
+   "en": "Who cares about that now?"
+  },
+  {
+   "off": 4712,
+   "budget": 9,
+   "en": "Imagine"
+  },
+  {
+   "off": 4721,
+   "budget": 47,
+   "en": "How would Jamie feel if I died?"
+  },
+  {
+   "off": 4768,
+   "budget": 15,
+   "en": "Gillian..."
+  },
+  {
+   "off": 4783,
+   "budget": 55,
+   "en": "She'd cry. But maybe she'd forget me￥right away."
+  },
+  {
+   "off": 4838,
+   "budget": 93,
+   "en": "Then she'd marry another man. He￥might even be a violent bastard."
+  },
+  {
+   "off": 4931,
+   "budget": 65,
+   "en": "Poor Jamie would hide from her￥husband and cry over my picture."
+  },
+  {
+   "off": 4996,
+   "budget": 13,
+   "en": "......"
+  },
+  {
+   "off": 5009,
+   "budget": 27,
+   "en": "I'm not dying! No way!"
+  },
+  {
+   "off": 5036,
+   "budget": 61,
+   "en": "If we don't stop, I'm going to die."
+  },
+  {
+   "off": 5097,
+   "budget": 53,
+   "en": "Every bone would shatter...￥It would hurt...",
+   "long": "Every bone in my body will break.￥It's going to hurt."
+  },
+  {
+   "off": 5150,
+   "budget": 35,
+   "en": "No! I don't want to die!"
+  },
+  {
+   "off": 5185,
+   "budget": 9,
+   "en": "Feet",
+   "long": "Stick feet out"
+  },
+  {
+   "off": 5196,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

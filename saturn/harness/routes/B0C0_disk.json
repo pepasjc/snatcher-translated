@@ -1,0 +1,132 @@
+{
+ "scene": "B0C0",
+ "note": "the front bookmark to the study and the disk in the computer",
+ "actions": [
+  {
+   "path": [
+    "Investigate",
+    "Building|Home|House"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "reps": 2,
+   "optional": true
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "reps": 2,
+   "optional": true
+  },
+  {
+   "path": [
+    "Talk"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Item",
+    "Show",
+    "JUNKER ID"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Ask",
+    "Item"
+   ],
+   "rounds": 2
+  },
+  {
+   "wait_menu": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Answer",
+    "Gibson's age"
+   ],
+   "optional": true
+  },
+  {
+   "dial": "55",
+   "then": "start"
+  },
+  {
+   "path": [
+    "Answer",
+    "Measurements"
+   ],
+   "optional": true
+  },
+  {
+   "dial": "81",
+   "then": "start"
+  },
+  {
+   "dial": "58",
+   "then": "start"
+  },
+  {
+   "dial": "83",
+   "then": "start"
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "why": "ASK Catherine ABOUT GIBSON; Look/Check the room once"
+  },
+  {
+   "path": [
+    "Move",
+    "Study|Desk"
+   ],
+   "why": "the study"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "save": "B0C0_predisk"
+  },
+  {
+   "path": [
+    "Item",
+    "Use",
+    "Disk"
+   ],
+   "patience": 4000
+  },
+  {
+   "idle": 400
+  },
+  {
+   "save": "B0C0_disk_luiz"
+  }
+ ]
+}

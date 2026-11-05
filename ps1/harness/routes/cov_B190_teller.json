@@ -1,0 +1,314 @@
+{
+ "scene": "B0B0",
+ "note": "Coverage (D_act2): Altamira while Catherine is missing. From the whole-game state wg/wg14_B1A0_home: whole_game.route.json actions 307..347 (Jamie's lab call, Gibson's ransacked house, JUNKER HQ, the tricycle to Altamira - the flat itself cannot be left before its scene), then Find Catherine until the fortune teller turns up ('Oh, there's that fortune teller!'): B190_c4f64..c5f7.",
+ "actions": [
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Use Metal Gear",
+    "Videophone"
+   ]
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "dial": "393444"
+  },
+  {
+   "sweep": [
+    "Talk",
+    "Ask"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Hang up"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "dial": "391009"
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Hang up"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Don't call"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Move",
+    "Board Tricycle|Go out"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Move",
+    "Board Tricycle"
+   ],
+   "optional": true,
+   "patience": 600,
+   "why": "from the flat's doorstep (bookmark B1C0_summons)"
+  },
+  {
+   "path": [
+    "Gibson hm|Gibson's"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "optional": true,
+   "reps": 2
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Move",
+    "Go inside"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "sweep": [
+    "Move"
+   ],
+   "each": [
+    "Look",
+    "Investigate"
+   ],
+   "each_rounds": 2,
+   "rounds": 2,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Living room|Go back inside"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Call",
+    "Catherine"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Call",
+    "Alice"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Call"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Move",
+    "Study|Back to study"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Call"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Back to study"
+   ],
+   "patience": 600,
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Backyard|Living room"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Call",
+    "Catherine"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Call",
+    "Alice"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Back to study"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Move",
+    "Study"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Find Catherine"
+   ],
+   "optional": true,
+   "reps": 3,
+   "patience": 600
+  },
+  {
+   "sweep": [
+    "Find Catherine",
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 3
+  },
+  {
+   "path": [
+    "Move",
+    "Front desk"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Move",
+    "Board Tricycle"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Altamira"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "save": "cov_B190_catherine"
+  },
+  {
+   "path": [
+    "Find Catherine"
+   ],
+   "reps": 8,
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "sweep": [
+    "Find Catherine",
+    "Look",
+    "Investigate",
+    "Talk",
+    "Ask"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Board Tricycle"
+   ]
+  },
+  {
+   "idle": 600
+  }
+ ]
+}

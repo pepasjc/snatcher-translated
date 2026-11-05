@@ -1,0 +1,677 @@
+{
+ "scene": "B180",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B180_j_00",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 141180,
+   "b1": 444705,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Gillian, it's me. Listen carefully. It's about Queen Hospital.",
+   "rows": [
+    "Gillian, it's me. Listen",
+    "carefully. It's about Queen",
+    "Hospital."
+   ],
+   "rows_plain": [
+    "Gillian, it's me. Listen carefully.",
+    "It's about Queen Hospital."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B180_j_00b",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 444705,
+   "b1": 765109,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "They built a large underground extension in 2030. That's right.",
+   "rows": [
+    "They built a large",
+    "underground extension in",
+    "2030. That's right."
+   ],
+   "rows_plain": [
+    "They built a large underground",
+    "extension in 2030. That's right."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B180_j_00c",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 765109,
+   "b1": 1054756,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "The hospital has a basement. Underground construction is rare in Neo Kobe.",
+   "rows": [
+    "The hospital has a basement.",
+    "Underground construction is",
+    "rare in Neo Kobe."
+   ],
+   "rows_plain": [
+    "The hospital has a basement.",
+    "Underground construction is rare in",
+    "Neo Kobe."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B180_j_00d",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 1054756,
+   "b1": 1230840,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "That's why there was a record of it. There's more.",
+   "rows": [
+    "That's why there was a",
+    "record of it. There's more."
+   ],
+   "rows_plain": [
+    "That's why there was a record of it.",
+    "There's more."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B180_j_00e",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 1230840,
+   "b1": 1378408,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "The director, Chin Shu Ho, used an underground facility",
+   "rows": [
+    "The director, Chin Shu Ho,",
+    "used an underground facility"
+   ],
+   "rows_plain": [
+    "The director, Chin Shu Ho, used an",
+    "underground facility"
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B180_j_00f",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 1378408,
+   "b1": 1528456,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "to perform illegal surrogate-mother operations.",
+   "rows": [
+    "to perform illegal",
+    "surrogate-mother operations."
+   ],
+   "rows_plain": [
+    "to perform illegal surrogate-mother",
+    "operations."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B180_j_00g",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 1528456,
+   "b1": 1704466,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "His practice was suspended because of it.",
+   "rows": [
+    "His practice was suspended",
+    "because of it."
+   ],
+   "rows_plain": [
+    "His practice was suspended because",
+    "of it."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B180_j_03",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 1704466,
+   "b1": 1825432,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "So there's a medical facility underground?",
+   "rows": [
+    "So there's a medical",
+    "facility underground?"
+   ],
+   "rows_plain": [
+    "So there's a medical facility",
+    "underground?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B180_j_04",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 1825432,
+   "b1": 2061286,
+   "size": 5872532,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "There's no doubt about it. Chin Shu Ho is servicing Snatchers underground.",
+   "rows": [
+    "There's no doubt about it.",
+    "Chin Shu Ho is servicing",
+    "Snatchers underground."
+   ],
+   "rows_plain": [
+    "There's no doubt about it. Chin Shu",
+    "Ho is servicing Snatchers",
+    "underground."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B180_j_05",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 2061286,
+   "b1": 2208494,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Then Chin is a Snatcher too.",
+   "rows": [
+    "Then Chin is a Snatcher too."
+   ],
+   "rows_plain": [
+    "Then Chin is a Snatcher too."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B180_j_05b",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 2208494,
+   "b1": 2388664,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "No, they snatched him because he had the facilities they needed.",
+   "rows": [
+    "No, they snatched him",
+    "because he had the",
+    "facilities they needed."
+   ],
+   "rows_plain": [
+    "No, they snatched him because he had",
+    "the facilities they needed."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B180_j_06",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 2388664,
+   "b1": 2607236,
+   "size": 5872532,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The facilities above ground are a cover for it.",
+   "rows": [
+    "The facilities above ground",
+    "are a cover for it."
+   ],
+   "rows_plain": [
+    "The facilities above ground are a",
+    "cover for it."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B180_j_07",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 2607236,
+   "b1": 2875785,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Taking out this hospital will stop the Snatchers' advance. This is it, Metal.",
+   "rows": [
+    "Taking out this hospital",
+    "will stop the Snatchers'",
+    "advance. This is it, Metal."
+   ],
+   "rows_plain": [
+    "Taking out this hospital will stop",
+    "the Snatchers' advance. This is it,",
+    "Metal."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B180_j_07b",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 2875785,
+   "b1": 2999896,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "We're going into their base!",
+   "rows": [
+    "We're going into their base!"
+   ],
+   "rows_plain": [
+    "We're going into their base!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B180_j_08",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 2999896,
+   "b1": 3035418,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Gillian.",
+   "rows": [
+    "Gillian."
+   ],
+   "rows_plain": [
+    "Gillian."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B180_j_09",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 3035418,
+   "b1": 3110302,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Hm?",
+   "rows": [
+    "Hm?"
+   ],
+   "rows_plain": [
+    "Hm?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B180_j_10",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 3110302,
+   "b1": 3473842,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Your work is dangerous. I want you to come back safely.",
+   "rows": [
+    "Your work is dangerous. I",
+    "want you to come back",
+    "safely."
+   ],
+   "rows_plain": [
+    "Your work is dangerous. I want you",
+    "to come back safely."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B180_j_11",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 3473842,
+   "b1": 3542006,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Jamie.",
+   "rows": [
+    "Jamie."
+   ],
+   "rows_plain": [
+    "Jamie."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B180_j_12",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 3542006,
+   "b1": 3955788,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "I left you because I thought you were forcing yourself. No, because I felt you were.",
+   "rows": [
+    "I left you because I thought",
+    "you were forcing yourself.",
+    "No, because I felt you were."
+   ],
+   "rows_plain": [
+    "I left you because I thought you",
+    "were forcing yourself. No, because I",
+    "felt you were."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B180_j_12b",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 3955788,
+   "b1": 4184602,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "We were wearing wedding rings when they found us.",
+   "rows": [
+    "We were wearing wedding",
+    "rings when they found us."
+   ],
+   "rows_plain": [
+    "We were wearing wedding rings when",
+    "they found us."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B180_j_12c",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 4184602,
+   "b1": 4376932,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "I wondered if that had become a burden to you.",
+   "rows": [
+    "I wondered if that had",
+    "become a burden to you."
+   ],
+   "rows_plain": [
+    "I wondered if that had become a",
+    "burden to you."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B180_j_12cb",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 4376932,
+   "b1": 4613104,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "If that was all that kept us together, it would be too sad.",
+   "rows": [
+    "If that was all that kept us",
+    "together, it would be too",
+    "sad."
+   ],
+   "rows_plain": [
+    "If that was all that kept us",
+    "together, it would be too sad."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B180_j_16",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 4613104,
+   "b1": 4686068,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That's not true.",
+   "rows": [
+    "That's not true."
+   ],
+   "rows_plain": [
+    "That's not true."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B180_j_17",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 4686068,
+   "b1": 4802234,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "I'll be waiting, Gillian.",
+   "rows": [
+    "I'll be waiting, Gillian."
+   ],
+   "rows_plain": [
+    "I'll be waiting, Gillian."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B180_j_17b",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 4802234,
+   "b1": 5172494,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "We may have no memories, but we're the only ones who shared that time together.",
+   "rows": [
+    "We may have no memories, but",
+    "we're the only ones who",
+    "shared that time together."
+   ],
+   "rows_plain": [
+    "We may have no memories, but we're",
+    "the only ones who shared that time",
+    "together."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B180_j_17c",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 5172494,
+   "b1": 5448990,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Be careful, Gillian.",
+   "rows": [
+    "Be careful, Gillian."
+   ],
+   "rows_plain": [
+    "Be careful, Gillian."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B180_j_19",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 5448990,
+   "b1": 5502752,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Jamie.",
+   "rows": [
+    "Jamie."
+   ],
+   "rows_plain": [
+    "Jamie."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B180_j_20",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 5502752,
+   "b1": 5593638,
+   "size": 5872532,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Can you leave it at that?",
+   "rows": [
+    "Can you leave it at that?"
+   ],
+   "rows_plain": [
+    "Can you leave it at that?"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B180_j_21",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 5593638,
+   "b1": 5870454,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Let's go, Metal. To Queen Hospital. Her Majesty awaits.",
+   "rows": [
+    "Let's go, Metal. To Queen",
+    "Hospital. Her Majesty",
+    "awaits."
+   ],
+   "rows_plain": [
+    "Let's go, Metal. To Queen Hospital.",
+    "Her Majesty awaits."
+   ],
+   "enabled": true,
+   "face_char": 1
+  }
+ ]
+}

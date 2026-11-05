@@ -1,0 +1,3986 @@
+{
+ "file": "ISZ_B080.BIN",
+ "text_base": 11398,
+ "strings": [
+  {
+   "off": 11398,
+   "budget": 3,
+   "en": ""
+  },
+  {
+   "off": 11403,
+   "budget": 13,
+   "en": "Chief's room",
+   "long": "The Chief's office."
+  },
+  {
+   "off": 11416,
+   "budget": 23,
+   "en": "Well?￥The case?",
+   "long": "How's the investigation going?"
+  },
+  {
+   "off": 11439,
+   "budget": 51,
+   "en": "You had quite a time at Outer￥Heaven, I see...",
+   "long": "You seem to have enjoyed yourself at￥Outer Heaven."
+  },
+  {
+   "off": 11490,
+   "budget": 51,
+   "en": "The Summit is near.￥Keep at the investigation.",
+   "long": "The summit is coming up. Make sure￥you put some effort into the￥investigation too."
+  },
+  {
+   "off": 11541,
+   "budget": 39,
+   "en": "Well? Have you found any leads?"
+  },
+  {
+   "off": 11580,
+   "budget": 33,
+   "en": "How's the case going, Seed?",
+   "long": "Any progress on the investigation,￥Seed?"
+  },
+  {
+   "off": 11613,
+   "budget": 25,
+   "en": "Is the case going well?",
+   "long": "Is the investigation going well?"
+  },
+  {
+   "off": 11638,
+   "budget": 85,
+   "en": "What? You've made no progress at￥all!￥...Start with Gibson's squad room.",
+   "long": "What? You've made no progress at￥all! Start by checking Gibson's desk￥in the Squad room."
+  },
+  {
+   "off": 11723,
+   "budget": 41,
+   "en": "Are you making progress, Seed?"
+  },
+  {
+   "off": 11764,
+   "budget": 17,
+   "en": "Oh, Seed."
+  },
+  {
+   "off": 11781,
+   "budget": 7,
+   "en": "Yes?"
+  },
+  {
+   "off": 11788,
+   "budget": 37,
+   "en": "Harsh words at such a time, but...",
+   "long": "This may sound harsh at a time like￥this,"
+  },
+  {
+   "off": 11825,
+   "budget": 9,
+   "en": "What?"
+  },
+  {
+   "off": 11834,
+   "budget": 31,
+   "en": "keep up your shooting drill.",
+   "long": "but make sure you practice your￥shooting."
+  },
+  {
+   "off": 11865,
+   "budget": 7,
+   "en": "Huh?"
+  },
+  {
+   "off": 11872,
+   "budget": 73,
+   "en": "We can't have a ＠赤Game Over＠白. No ＠赤Game￥Overs＠白."
+  },
+  {
+   "off": 11945,
+   "budget": 13,
+   "en": "......"
+  },
+  {
+   "off": 11958,
+   "budget": 31,
+   "en": "Do your best, Seed."
+  },
+  {
+   "off": 11989,
+   "budget": 35,
+   "en": "Thank you, Chief."
+  },
+  {
+   "off": 12024,
+   "budget": 23,
+   "en": "How's your injury?"
+  },
+  {
+   "off": 12047,
+   "budget": 63,
+   "en": "Medical nanomachines are in.￥They treat him automatically.",
+   "long": "I've injected medical nanomachines.￥They'll treat him automatically."
+  },
+  {
+   "off": 12110,
+   "budget": 13,
+   "en": "I see..."
+  },
+  {
+   "off": 12123,
+   "budget": 5,
+   "en": "Move"
+  },
+  {
+   "off": 12128,
+   "budget": 9,
+   "en": "Front",
+   "long": "Front desk"
+  },
+  {
+   "off": 12137,
+   "budget": 13,
+   "en": "Mechanic rm",
+   "long": "Mechanic room"
+  },
+  {
+   "off": 12150,
+   "budget": 15,
+   "en": "Computer room"
+  },
+  {
+   "off": 12165,
+   "budget": 9,
+   "en": "Squad rm",
+   "long": "Squad room"
+  },
+  {
+   "off": 12174,
+   "budget": 7,
+   "en": "Range",
+   "long": "Shooting range"
+  },
+  {
+   "off": 12181,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 12186,
+   "budget": 5,
+   "en": "Boss",
+   "long": "Chief"
+  },
+  {
+   "off": 12191,
+   "budget": 41,
+   "en": "What is it?￥Something on my face?",
+   "long": "What is it? Is there something on my￥face?"
+  },
+  {
+   "off": 12232,
+   "budget": 47,
+   "en": "What are you staring at? Can't you￥sit still?"
+  },
+  {
+   "off": 12279,
+   "budget": 51,
+   "en": "Stop staring at my face and￥look at the facts.",
+   "long": "You need to face reality instead of￥staring at my face."
+  },
+  {
+   "off": 12330,
+   "budget": 9,
+   "en": "Monitor"
+  },
+  {
+   "off": 12339,
+   "budget": 57,
+   "en": "Information comes in from networks￥around the world."
+  },
+  {
+   "off": 12396,
+   "budget": 61,
+   "en": "Metal Gear's data comes here in real￥time too."
+  },
+  {
+   "off": 12457,
+   "budget": 27,
+   "en": "So I'm being watched."
+  },
+  {
+   "off": 12484,
+   "budget": 3,
+   "en": "Wn",
+   "long": "Window"
+  },
+  {
+   "off": 12487,
+   "budget": 33,
+   "en": "Neo Kobe City's night view."
+  },
+  {
+   "off": 12520,
+   "budget": 51,
+   "en": "I never tire of Neo Kobe City at￥night."
+  },
+  {
+   "off": 12571,
+   "budget": 83,
+   "en": "But there's a thorn hidden behind￥that beauty. The Snatchers."
+  },
+  {
+   "off": 12654,
+   "budget": 3,
+   "en": "Ar",
+   "long": "Picture"
+  },
+  {
+   "off": 12657,
+   "budget": 67,
+   "en": "Is it a painting of a vase? There's￥no match in my art database."
+  },
+  {
+   "off": 12724,
+   "budget": 41,
+   "en": "Unknown painter...￥An odd still life.",
+   "long": "An unknown painter? What an odd￥still life."
+  },
+  {
+   "off": 12765,
+   "budget": 7,
+   "en": "Sofa"
+  },
+  {
+   "off": 12772,
+   "budget": 29,
+   "en": "It's a sofa. Are you tired?"
+  },
+  {
+   "off": 12801,
+   "budget": 27,
+   "en": "That sofa is for guests."
+  },
+  {
+   "off": 12828,
+   "budget": 31,
+   "en": "None of that!￥Case first.",
+   "long": "Don't be soft! The investigation￥comes first."
+  },
+  {
+   "off": 12859,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 12866,
+   "budget": 33,
+   "en": "Investigate the Chief?￥Why?",
+   "long": "What do you hope to learn by￥examining the Chief?"
+  },
+  {
+   "off": 12899,
+   "budget": 37,
+   "en": "Seed, this is no time for jokes.",
+   "long": "This is no time for fooling around,￥Seed."
+  },
+  {
+   "off": 12936,
+   "budget": 55,
+   "en": "I don't have time for your jokes,￥Seed."
+  },
+  {
+   "off": 12991,
+   "budget": 35,
+   "en": "A general PDD and LCD monitor.",
+   "long": "They're general-purpose PDD and LCD￥monitors."
+  },
+  {
+   "off": 13026,
+   "budget": 25,
+   "en": "It's dimming glass."
+  },
+  {
+   "off": 13051,
+   "budget": 73,
+   "en": "Voltage is applied to a tungsten￥oxide electrochromic film"
+  },
+  {
+   "off": 13124,
+   "budget": 53,
+   "en": "to switch the glass between clear￥and opaque."
+  },
+  {
+   "off": 13177,
+   "budget": 49,
+   "en": "Nothing unusual.￥An ordinary painting.",
+   "long": "There's nothing unusual about it.￥It's an ordinary painting."
+  },
+  {
+   "off": 13226,
+   "budget": 47,
+   "en": "That painting is dear.￥Don't touch it!",
+   "long": "That painting is precious to me.￥Don't touch it!"
+  },
+  {
+   "off": 13273,
+   "budget": 73,
+   "en": "In this job, I need something like￥that to look at or I'd lose my mind."
+  },
+  {
+   "off": 13346,
+   "budget": 49,
+   "en": "A chaos sofa. The pressure￥suits whoever sits.",
+   "long": "It's a chaos sofa. Its internal￥pressure adjusts to whoever sits on￥it."
+  },
+  {
+   "off": 13395,
+   "budget": 37,
+   "en": "It's the latest air-cushion sofa."
+  },
+  {
+   "off": 13432,
+   "budget": 5,
+   "en": "Ask"
+  },
+  {
+   "off": 13437,
+   "budget": 13,
+   "en": "Guidance",
+   "long": "How to proceed"
+  },
+  {
+   "off": 13450,
+   "budget": 41,
+   "en": "Investigate Nielsen, the other￥suspect.",
+   "long": "Investigate Nielsen, the remaining￥suspect."
+  },
+  {
+   "off": 13491,
+   "budget": 47,
+   "en": "If Ivan is clean, we bet on￥the other one.",
+   "long": "If Ivan is innocent, let's try the￥other suspect."
+  },
+  {
+   "off": 13538,
+   "budget": 51,
+   "en": "Haven't you searched the￥Gibson house enough?",
+   "long": "Perhaps you haven't searched￥Gibson's home thoroughly enough."
+  },
+  {
+   "off": 13589,
+   "budget": 49,
+   "en": "Press the search of the￥Gibson house further.",
+   "long": "Why don't you investigate Gibson's￥home some more?"
+  },
+  {
+   "off": 13638,
+   "budget": 13,
+   "en": "Besides..."
+  },
+  {
+   "off": 13651,
+   "budget": 33,
+   "en": "Solve 'Search the house!'",
+   "long": "Solve the mystery of \"Search the￥house!\""
+  },
+  {
+   "off": 13684,
+   "budget": 49,
+   "en": "Now is a good time to search￥Gibson's house.",
+   "long": "It might be a good time to search￥Gibson's home."
+  },
+  {
+   "off": 13733,
+   "budget": 15,
+   "en": "Or else..."
+  },
+  {
+   "off": 13748,
+   "budget": 37,
+   "en": "Examine Gibson's effects closer.",
+   "long": "Take a closer look at what Gibson￥left behind."
+  },
+  {
+   "off": 13785,
+   "budget": 49,
+   "en": "His desk in the squad room may￥hold some hint.",
+   "long": "There may be a clue in his desk in￥the Squad room."
+  },
+  {
+   "off": 13834,
+   "budget": 41,
+   "en": "There may be a clue in Gibson's￥desk."
+  },
+  {
+   "off": 13875,
+   "budget": 33,
+   "en": "Solve the riddle of the key.",
+   "long": "Find out what the key on his body￥was for."
+  },
+  {
+   "off": 13908,
+   "budget": 63,
+   "en": "It's an unusual antique key. I￥imagine it belonged to Gibson."
+  },
+  {
+   "off": 13971,
+   "budget": 53,
+   "en": "Retracing Gibson is the key.￥Look into his life!",
+   "long": "You must retrace Gibson's steps.￥Look into his personal life!"
+  },
+  {
+   "off": 14024,
+   "budget": 45,
+   "en": "Examine what he examined. See what￥he saw."
+  },
+  {
+   "off": 14069,
+   "budget": 63,
+   "en": "That may reveal what he was after."
+  },
+  {
+   "off": 14132,
+   "budget": 33,
+   "en": "Why not examine the squad room?",
+   "long": "Why don't you search the Squad room?"
+  },
+  {
+   "off": 14165,
+   "budget": 65,
+   "en": "From the hair he clutched and the￥skin under his nails...",
+   "long": "Based on the hair in Gibson's hand￥and the skin under his nails,"
+  },
+  {
+   "off": 14230,
+   "budget": 69,
+   "en": "his killers seem to be Snatchers,￥at least one man and one woman.",
+   "long": "we believe at least two Snatchers￥killed him, one male and one female."
+  },
+  {
+   "off": 14299,
+   "budget": 93,
+   "en": "Retrace Gibson's steps. Uncover what￥he chased, what he learned, how it￥led to his death.",
+   "long": "Retrace Gibson's steps. Find out￥what he was after and what he￥learned that got him killed."
+  },
+  {
+   "off": 14392,
+   "budget": 77,
+   "en": "Look into his personal life. Start￥with the Squad room and his home."
+  },
+  {
+   "off": 14469,
+   "budget": 79,
+   "en": "You're still new to investigations.￥Ask me if you need help with￥anything."
+  },
+  {
+   "off": 14548,
+   "budget": 49,
+   "en": "I'm happy to help you, Gillian, but"
+  },
+  {
+   "off": 14597,
+   "budget": 21,
+   "en": "Yes? What is it?"
+  },
+  {
+   "off": 14618,
+   "budget": 29,
+   "en": "A case is worked on foot.",
+   "long": "You have to do your own legwork."
+  },
+  {
+   "off": 14647,
+   "budget": 21,
+   "en": "I understand..."
+  },
+  {
+   "off": 14668,
+   "budget": 25,
+   "en": "Go easy on the breaks.",
+   "long": "Don't spend too much time on breaks."
+  },
+  {
+   "off": 14693,
+   "budget": 13,
+   "en": "Yes, sir."
+  },
+  {
+   "off": 14706,
+   "budget": 29,
+   "en": "Gillian, must I repeat?",
+   "long": "Don't make me repeat myself,￥Gillian."
+  },
+  {
+   "off": 14735,
+   "budget": 9,
+   "en": "Yes?"
+  },
+  {
+   "off": 14744,
+   "budget": 29,
+   "en": "Stop slacking off at home."
+  },
+  {
+   "off": 14773,
+   "budget": 13,
+   "en": "About Gibson"
+  },
+  {
+   "off": 14786,
+   "budget": 55,
+   "en": "So Gibson was looking for the￥Snatchers' weakness."
+  },
+  {
+   "off": 14841,
+   "budget": 61,
+   "en": "Then it's likely they￥silenced him.",
+   "long": "That makes it even more likely they￥killed him to silence him."
+  },
+  {
+   "off": 14902,
+   "budget": 33,
+   "en": "Don't waste Gibson's death.",
+   "long": "Don't let Gibson's death be in vain."
+  },
+  {
+   "off": 14935,
+   "budget": 67,
+   "en": "He had something on the Snatchers,￥but I heard nothing of it.",
+   "long": "He seemed to have found something￥about the Snatchers, but he never￥told me."
+  },
+  {
+   "off": 15002,
+   "budget": 51,
+   "en": "He wouldn't talk without solid￥evidence."
+  },
+  {
+   "off": 15053,
+   "budget": 29,
+   "en": "What had he found?"
+  },
+  {
+   "off": 15082,
+   "budget": 63,
+   "en": "I'm not sure. A weakness, or a way￥to identify them."
+  },
+  {
+   "off": 15145,
+   "budget": 25,
+   "en": "And that got him killed?"
+  },
+  {
+   "off": 15170,
+   "budget": 17,
+   "en": "Gibson found...?",
+   "long": "What did Gibson find?"
+  },
+  {
+   "off": 15187,
+   "budget": 35,
+   "en": "...That is what you must find out.",
+   "long": "That's what I want you to find out."
+  },
+  {
+   "off": 15222,
+   "budget": 41,
+   "en": "Try visiting Gibson's home too."
+  },
+  {
+   "off": 15263,
+   "budget": 15,
+   "en": "Catherine",
+   "long": "About Catherine"
+  },
+  {
+   "off": 15278,
+   "budget": 99,
+   "en": "I hear you behaved indecently toward￥Catherine, Gillian! Shame on you!￥She's just a child!"
+  },
+  {
+   "off": 15377,
+   "budget": 63,
+   "en": "Understood? Have some pride as a￥JUNKER!"
+  },
+  {
+   "off": 15440,
+   "budget": 45,
+   "en": "Well? She's a lovely girl, isn't￥she?"
+  },
+  {
+   "off": 15485,
+   "budget": 49,
+   "en": "Help her however you can from now￥on."
+  },
+  {
+   "off": 15534,
+   "budget": 37,
+   "en": "I feel terrible for Catherine."
+  },
+  {
+   "off": 15571,
+   "budget": 49,
+   "en": "She held herself together when￥I called, but...",
+   "long": "She put on a brave face when I￥called earlier, but"
+  },
+  {
+   "off": 15620,
+   "budget": 77,
+   "en": "A girl of fourteen...￥Her father's death must have￥been a terrible shock.",
+   "long": "she's only about fourteen. Her￥father's death must have been a￥terrible shock."
+  },
+  {
+   "off": 15697,
+   "budget": 45,
+   "en": "I'm worried.￥Look in on her later.",
+   "long": "I'm worried about her. Go check on￥her later."
+  },
+  {
+   "off": 15742,
+   "budget": 77,
+   "en": "It may also be a good chance to know￥Gibson. His house is out in Kitano.",
+   "long": "It may help you understand Gibson￥too. His house is on the outskirts￥of Kitano."
+  },
+  {
+   "off": 15819,
+   "budget": 33,
+   "en": "Go and check on her."
+  },
+  {
+   "off": 15852,
+   "budget": 11,
+   "en": "Whale food",
+   "long": "Whale restaurant"
+  },
+  {
+   "off": 15863,
+   "budget": 41,
+   "en": "A whale place?￥Can't think of one...",
+   "long": "A restaurant that serves whale meat?￥None comes to mind."
+  },
+  {
+   "off": 15904,
+   "budget": 95,
+   "en": "But analysis says it was three hours￥after the meal.￥So it's within three hours' travel.",
+   "long": "But the analysis showed he'd eaten￥three hours earlier. It must be￥within three hours' travel."
+  },
+  {
+   "off": 15999,
+   "budget": 77,
+   "en": "Never heard of a licensed one.￥But an underground place isn't￥impossible.",
+   "long": "I don't know any licensed￥restaurants that serve it. An￥illegal one might, though."
+  },
+  {
+   "off": 16076,
+   "budget": 15,
+   "en": "About Napoleon"
+  },
+  {
+   "off": 16091,
+   "budget": 61,
+   "en": "He was Gibson's informant. Only￥Gibson knew about him."
+  },
+  {
+   "off": 16152,
+   "budget": 39,
+   "en": "Well,￥he did know the whale place...",
+   "long": "Well, he knew where to find whale￥meat."
+  },
+  {
+   "off": 16191,
+   "budget": 61,
+   "en": "I doubt we can rely on informants in￥this information age."
+  },
+  {
+   "off": 16252,
+   "budget": 29,
+   "en": "What did you think of him?"
+  },
+  {
+   "off": 16281,
+   "budget": 37,
+   "en": "I can't say yet."
+  },
+  {
+   "off": 16318,
+   "budget": 57,
+   "en": "Wait, Gaudi might have a record of￥him."
+  },
+  {
+   "off": 16375,
+   "budget": 11,
+   "en": "On Alice",
+   "long": "About Alice"
+  },
+  {
+   "off": 16386,
+   "budget": 33,
+   "en": "Alice? ...Who? I don't know her.",
+   "long": "Alice? Who's that? I don't know her."
+  },
+  {
+   "off": 16419,
+   "budget": 33,
+   "en": "Hmm. I've never heard that name."
+  },
+  {
+   "off": 16452,
+   "budget": 55,
+   "en": "Gibson's Doberman, Chief."
+  },
+  {
+   "off": 16507,
+   "budget": 23,
+   "en": "Oh. He had a dog?"
+  },
+  {
+   "off": 16530,
+   "budget": 53,
+   "en": "Snatchers don't like dogs. Remember￥that."
+  },
+  {
+   "off": 16583,
+   "budget": 81,
+   "en": "Since the bioroid panic... more￥homes keep large dogs to ward off￥Snatchers.",
+   "long": "Since the bioroid panic, more￥households have kept large dogs to￥ward off Snatchers."
+  },
+  {
+   "off": 16664,
+   "budget": 47,
+   "en": "So that's the real reason for the￥pet boom."
+  },
+  {
+   "off": 16711,
+   "budget": 17,
+   "en": "Joy Division"
+  },
+  {
+   "off": 16728,
+   "budget": 45,
+   "en": "Joy Division? Never heard of it."
+  },
+  {
+   "off": 16773,
+   "budget": 55,
+   "en": "I think I've heard the name, but I￥can't remember."
+  },
+  {
+   "off": 16828,
+   "budget": 41,
+   "en": "It was typical of this city."
+  },
+  {
+   "off": 16869,
+   "budget": 41,
+   "en": "...More ordinary than I imagined.",
+   "long": "It sounds more ordinary than I￥expected."
+  },
+  {
+   "off": 16910,
+   "budget": 17,
+   "en": "Outer Heaven"
+  },
+  {
+   "off": 16927,
+   "budget": 55,
+   "en": "Outer Heaven. Outside heaven."
+  },
+  {
+   "off": 16982,
+   "budget": 45,
+   "en": "That describes Neo Kobe City￥perfectly."
+  },
+  {
+   "off": 17027,
+   "budget": 45,
+   "en": "To think such a place was￥in this city.",
+   "long": "I never imagined this city had a￥place like that."
+  },
+  {
+   "off": 17072,
+   "budget": 49,
+   "en": "If unregistered, it will be hard to￥find.",
+   "long": "If it isn't registered, it will be￥hard to find."
+  },
+  {
+   "off": 17121,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 17126,
+   "budget": 7,
+   "en": "Show"
+  },
+  {
+   "off": 17133,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 17148,
+   "budget": 41,
+   "en": "Do you want to quit, Gillian?"
+  },
+  {
+   "off": 17189,
+   "budget": 95,
+   "en": "What is this?￥JUNKER work is secret.￥Don't reveal yourself.￥Snatchers will target you.",
+   "long": "What are you doing? JUNKER's work is￥top secret. Don't reveal your￥identity so easily. The Snatchers￥will target you."
+  },
+  {
+   "off": 17284,
+   "budget": 63,
+   "en": "All right, stop showing off. I know￥you're happy, Gillian."
+  },
+  {
+   "off": 17347,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 17354,
+   "budget": 39,
+   "en": "What do you mean?￥Keep it stowed.",
+   "long": "What's the idea? Put that away￥somewhere safe."
+  },
+  {
+   "off": 17393,
+   "budget": 25,
+   "en": "Use expenses wisely.",
+   "long": "Spend your expense money wisely."
+  },
+  {
+   "off": 17418,
+   "budget": 47,
+   "en": "No more waste. Use it for the case.",
+   "long": "Stop wasting it. Use it for the￥investigation."
+  },
+  {
+   "off": 17465,
+   "budget": 23,
+   "en": "(Sniff.....)"
+  },
+  {
+   "off": 17488,
+   "budget": 5,
+   "en": "Drop",
+   "long": "Candy"
+  },
+  {
+   "off": 17493,
+   "budget": 19,
+   "en": "What's that candy?"
+  },
+  {
+   "off": 17512,
+   "budget": 69,
+   "en": "(Doesn't the Chief know?￥He can't have been close to Gibson.)",
+   "long": "(The Chief doesn't know? He must not￥have been very close to Gibson.)"
+  },
+  {
+   "off": 17581,
+   "budget": 7,
+   "en": "Proof",
+   "long": "Evidence"
+  },
+  {
+   "off": 17588,
+   "budget": 7,
+   "en": "Paper",
+   "long": "Scrap of paper"
+  },
+  {
+   "off": 17595,
+   "budget": 51,
+   "en": "So \"the house\" meant Gibson's home￥after all."
+  },
+  {
+   "off": 17646,
+   "budget": 53,
+   "en": "House? For a JUNKER, this HQ￥is as good as home.",
+   "long": "House? This headquarters is￥practically home to a JUNKER."
+  },
+  {
+   "off": 17699,
+   "budget": 43,
+   "en": "What was Gibson trying to tell us?"
+  },
+  {
+   "off": 17742,
+   "budget": 5,
+   "en": "Key"
+  },
+  {
+   "off": 17747,
+   "budget": 33,
+   "en": "So it was Gibson's desk key...",
+   "long": "So it was the key to Gibson's desk."
+  },
+  {
+   "off": 17780,
+   "budget": 31,
+   "en": "What's that piece of junk?"
+  },
+  {
+   "off": 17811,
+   "budget": 65,
+   "en": "Nothing at HQ uses one.￥Personal property, maybe...",
+   "long": "We don't use anything like that￥here. I can't speak for people's￥personal belongings."
+  },
+  {
+   "off": 17876,
+   "budget": 3,
+   "en": "Pc",
+   "long": "Chess piece"
+  },
+  {
+   "off": 17879,
+   "budget": 55,
+   "en": "A chess piece? I don't know much￥about chess."
+  },
+  {
+   "off": 17934,
+   "budget": 43,
+   "en": "Wait! Harry might know."
+  },
+  {
+   "off": 17977,
+   "budget": 9,
+   "en": "Disk"
+  },
+  {
+   "off": 17986,
+   "budget": 45,
+   "en": "The disk with the Snatchers'￥weakness.",
+   "long": "The disk with the Snatchers'￥weakness on it."
+  },
+  {
+   "off": 18031,
+   "budget": 93,
+   "en": "Gibson may have recorded information￥about the Snatchers on that disk."
+  },
+  {
+   "off": 18124,
+   "budget": 49,
+   "en": "If you can read it, you might learn￥something."
+  },
+  {
+   "off": 18173,
+   "budget": 11,
+   "en": "Sunblock"
+  },
+  {
+   "off": 18184,
+   "budget": 77,
+   "en": "If Gibson was right, they may be￥using that sunscreen."
+  },
+  {
+   "off": 18261,
+   "budget": 65,
+   "en": "Sunblock? In midwinter?￥It could have to do with the case.",
+   "long": "Sunscreen? In the middle of winter?￥It may have something to do with the￥case."
+  },
+  {
+   "off": 18326,
+   "budget": 7,
+   "en": "Mask"
+  },
+  {
+   "off": 18333,
+   "budget": 61,
+   "en": "Hey!￥Stop playing and get on￥with the case, Seed!",
+   "long": "Stop playing with that and get back￥to the investigation, Seed!"
+  },
+  {
+   "off": 18394,
+   "budget": 5,
+   "en": "Pic",
+   "long": "Photo"
+  },
+  {
+   "off": 18399,
+   "budget": 15,
+   "en": "Gibson's photo"
+  },
+  {
+   "off": 18414,
+   "budget": 73,
+   "en": "A photo of Gibson? Show it around￥and retrace his steps."
+  },
+  {
+   "off": 18487,
+   "budget": 17,
+   "en": "Montage photo"
+  },
+  {
+   "off": 18504,
+   "budget": 55,
+   "en": "The montage built from Isabella's￥testimony.",
+   "long": "That's the composite based on￥Isabella's description."
+  },
+  {
+   "off": 18559,
+   "budget": 59,
+   "en": "If it isn't Ivan, investigate the￥other man."
+  },
+  {
+   "off": 18618,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 18633,
+   "budget": 29,
+   "en": "Right, search the squad rm.",
+   "long": "Right. Let's search the Squad room."
+  },
+  {
+   "off": 18662,
+   "budget": 101,
+   "en": "Ask around the places he visited.￥The whale meat in his stomach could￥be a clue."
+  },
+  {
+   "off": 18763,
+   "budget": 61,
+   "en": "Try the places that serve whale.￥There may be a witness.",
+   "long": "Try restaurants that serve whale￥meat. Someone may have seen him."
+  },
+  {
+   "off": 18824,
+   "budget": 89,
+   "en": "Use Gaudi, our computer, to look up￥people. It should give you the￥basics."
+  },
+  {
+   "off": 18913,
+   "budget": 61,
+   "en": "If you get stuck, ask me. I'm not￥the Chief for nothing."
+  },
+  {
+   "off": 18974,
+   "budget": 27,
+   "en": "About that composite,"
+  },
+  {
+   "off": 19001,
+   "budget": 57,
+   "en": "There's a good chance one of the￥two is a Snatcher.",
+   "long": "there's a good chance one of those￥two men is a Snatcher."
+  },
+  {
+   "off": 19058,
+   "budget": 31,
+   "en": "Investigate both of them."
+  },
+  {
+   "off": 19089,
+   "budget": 43,
+   "en": "Be very careful."
+  },
+  {
+   "off": 19132,
+   "budget": 55,
+   "en": "With that in mind, why don't you￥take a break?"
+  },
+  {
+   "off": 19187,
+   "budget": 27,
+   "en": "You must be tired."
+  },
+  {
+   "off": 19214,
+   "budget": 49,
+   "en": "Build strength for the￥work ahead.",
+   "long": "Get your strength back for the￥investigation ahead."
+  },
+  {
+   "off": 19263,
+   "budget": 79,
+   "en": "Why not call your wife? It'll help￥clear your head."
+  },
+  {
+   "off": 19342,
+   "budget": 79,
+   "en": "Call your wife once in a while.￥Runners are prone to stress."
+  },
+  {
+   "off": 19421,
+   "budget": 31,
+   "en": "About Outer Heaven,"
+  },
+  {
+   "off": 19452,
+   "budget": 63,
+   "en": "Gibson visited that place. Ask￥around there."
+  },
+  {
+   "off": 19515,
+   "budget": 57,
+   "en": "That shop holds a clue to the man￥Gibson chased.",
+   "long": "There should be a lead on the man￥Gibson was following."
+  },
+  {
+   "off": 19572,
+   "budget": 35,
+   "en": "Find out where Outer Heaven is."
+  },
+  {
+   "off": 19607,
+   "budget": 55,
+   "en": "Why not ask that informant where it￥is?"
+  },
+  {
+   "off": 19662,
+   "budget": 33,
+   "en": "Find the places serving whale.",
+   "long": "Find a restaurant that serves whale￥meat."
+  },
+  {
+   "off": 19695,
+   "budget": 65,
+   "en": "Gibson had whale meat in his stomach￥despite his ulcer."
+  },
+  {
+   "off": 19760,
+   "budget": 77,
+   "en": "Whale meat is unusual. That should￥give us a strong lead."
+  },
+  {
+   "off": 19837,
+   "budget": 53,
+   "en": "You might go over Gibson's￥effects once more.",
+   "long": "You could also take another look at￥what Gibson left behind."
+  },
+  {
+   "off": 19890,
+   "budget": 15,
+   "en": "Front desk.",
+   "long": "The front desk."
+  },
+  {
+   "off": 19905,
+   "budget": 25,
+   "en": "Oh, Gillian, forgot one?",
+   "long": "Oh, Gillian. Did you forget￥something?"
+  },
+  {
+   "off": 19930,
+   "budget": 25,
+   "en": "Welcome back, Gillian."
+  },
+  {
+   "off": 19955,
+   "budget": 27,
+   "en": "Good work... Gillian.",
+   "long": "You've been working hard, Gillian."
+  },
+  {
+   "off": 19982,
+   "budget": 33,
+   "en": "How's the investigation going?"
+  },
+  {
+   "off": 20015,
+   "budget": 39,
+   "en": "How was the case?￥Learn anything?",
+   "long": "How did it go? Did you find￥anything?"
+  },
+  {
+   "off": 20054,
+   "budget": 35,
+   "en": "Ah, Gillian.￥How goes the case?",
+   "long": "Oh, Gillian. How's the￥investigation?"
+  },
+  {
+   "off": 20089,
+   "budget": 63,
+   "en": "I'm all right now, Gillian. I can't￥keep crying forever."
+  },
+  {
+   "off": 20152,
+   "budget": 71,
+   "en": "I heard you were hurt, Gillian. Are￥you feeling better?"
+  },
+  {
+   "off": 20223,
+   "budget": 53,
+   "en": "Yes... the nanomachines inside￥me, you see.",
+   "long": "Yes. As you can see, the￥nanomachines have fixed me up."
+  },
+  {
+   "off": 20276,
+   "budget": 35,
+   "en": "I'm glad you're better."
+  },
+  {
+   "off": 20311,
+   "budget": 55,
+   "en": "My body, yes.￥But not the wound￥inside.",
+   "long": "Physically, yes. But the pain inside￥won't heal so easily."
+  },
+  {
+   "off": 20366,
+   "budget": 27,
+   "en": "I understand, Gillian."
+  },
+  {
+   "off": 20393,
+   "budget": 43,
+   "en": "Gillian, I'm sorry. Leave me￥alone...",
+   "long": "I'm sorry, Gillian. Please leave me￥alone."
+  },
+  {
+   "off": 20436,
+   "budget": 13,
+   "en": "Mika."
+  },
+  {
+   "off": 20449,
+   "budget": 41,
+   "en": "Let's leave her alone, Gillian."
+  },
+  {
+   "off": 20490,
+   "budget": 43,
+   "en": "Sorry. Leave me alone a little￥longer...",
+   "long": "I'm sorry. I need a little more time￥alone."
+  },
+  {
+   "off": 20533,
+   "budget": 11,
+   "en": "Mika..."
+  },
+  {
+   "off": 20544,
+   "budget": 49,
+   "en": "Let's give her time to calm down,￥Gillian."
+  },
+  {
+   "off": 20593,
+   "budget": 51,
+   "en": "While we wait, shall we examine￥Jean's effects?",
+   "long": "Why don't we look through Jean's￥belongings meanwhile?"
+  },
+  {
+   "off": 20644,
+   "budget": 5,
+   "en": "Mika"
+  },
+  {
+   "off": 20649,
+   "budget": 29,
+   "en": "Her eyes are swollen.",
+   "long": "Her eyes are swollen from crying."
+  },
+  {
+   "off": 20678,
+   "budget": 39,
+   "en": "Please! Don't look at me like this."
+  },
+  {
+   "off": 20717,
+   "budget": 35,
+   "en": "Staring at her tears is rude.",
+   "long": "It's rude to stare at a woman while￥she's crying."
+  },
+  {
+   "off": 20752,
+   "budget": 35,
+   "en": "You're upsetting Mika, Gillian."
+  },
+  {
+   "off": 20787,
+   "budget": 13,
+   "en": "Mika?"
+  },
+  {
+   "off": 20800,
+   "budget": 7,
+   "en": "Cheer",
+   "long": "Comfort"
+  },
+  {
+   "off": 20807,
+   "budget": 31,
+   "en": "I'm sorry about Gibson."
+  },
+  {
+   "off": 20838,
+   "budget": 29,
+   "en": "I don't know what to say."
+  },
+  {
+   "off": 20867,
+   "budget": 43,
+   "en": "Please, just leave me alone for now."
+  },
+  {
+   "off": 20910,
+   "budget": 43,
+   "en": "Gillian, please leave me be."
+  },
+  {
+   "off": 20953,
+   "budget": 45,
+   "en": "Please.￥I haven't sorted my feelings...",
+   "long": "Please. I haven't come to terms with￥it yet."
+  },
+  {
+   "off": 20998,
+   "budget": 37,
+   "en": "Leave me alone, Gillian!"
+  },
+  {
+   "off": 21035,
+   "budget": 27,
+   "en": "Understand!￥Leave me be.",
+   "long": "Please understand. I need to be￥alone."
+  },
+  {
+   "off": 21062,
+   "budget": 37,
+   "en": "She's beautiful. Is that your wife?"
+  },
+  {
+   "off": 21099,
+   "budget": 31,
+   "en": "＠赤Oh, you were watching?＠白"
+  },
+  {
+   "off": 21130,
+   "budget": 33,
+   "en": "You made the call right here!"
+  },
+  {
+   "off": 21163,
+   "budget": 25,
+   "en": "You saw a bad moment...",
+   "long": "I wish you hadn't seen that."
+  },
+  {
+   "off": 21188,
+   "budget": 45,
+   "en": "You need to trust your wife,￥Gillian."
+  },
+  {
+   "off": 21233,
+   "budget": 19,
+   "en": "I know."
+  },
+  {
+   "off": 21252,
+   "budget": 31,
+   "en": "You should apologize properly.",
+   "long": "You should apologize to her￥properly."
+  },
+  {
+   "off": 21283,
+   "budget": 13,
+   "en": "Yeah."
+  },
+  {
+   "off": 21296,
+   "budget": 25,
+   "en": "Are you jealous?"
+  },
+  {
+   "off": 21321,
+   "budget": 29,
+   "en": "My!￥...Full of yourself.",
+   "long": "Oh! You certainly think a lot of￥yourself."
+  },
+  {
+   "off": 21350,
+   "budget": 33,
+   "en": "Mika... you put me at ease.",
+   "long": "Seeing you puts me at ease, Mika."
+  },
+  {
+   "off": 21383,
+   "budget": 23,
+   "en": "You're lovely today.",
+   "long": "You look lovely today, Mika."
+  },
+  {
+   "off": 21406,
+   "budget": 23,
+   "en": "What is it, Gillian?"
+  },
+  {
+   "off": 21429,
+   "budget": 35,
+   "en": "What's wrong?￥You're odd today.",
+   "long": "What's wrong? You're acting￥strangely, Gillian."
+  },
+  {
+   "off": 21464,
+   "budget": 49,
+   "en": "You're interested in me, aren't you?￥I knew it!"
+  },
+  {
+   "off": 21513,
+   "budget": 47,
+   "en": "He was out most of the time lately."
+  },
+  {
+   "off": 21560,
+   "budget": 45,
+   "en": "He said he had a lead on the￥Snatchers."
+  },
+  {
+   "off": 21605,
+   "budget": 73,
+   "en": "I don't know the details. He never￥told me about his investigation."
+  },
+  {
+   "off": 21678,
+   "budget": 45,
+   "en": "A clue turned up in Jean's desk,￥didn't it?",
+   "long": "You found a clue in Jean's desk,￥didn't you?"
+  },
+  {
+   "off": 21723,
+   "budget": 41,
+   "en": "Why don't you search Jean's desk?"
+  },
+  {
+   "off": 21764,
+   "budget": 59,
+   "en": "You're disgusting, Gillian.￥Catherine is still a child."
+  },
+  {
+   "off": 21823,
+   "budget": 19,
+   "en": "Oh, that?"
+  },
+  {
+   "off": 21842,
+   "budget": 51,
+   "en": "The Chief's angry too.￥Of all the times...",
+   "long": "The Chief's angry too. I can't￥believe you, at a time like this."
+  },
+  {
+   "off": 21893,
+   "budget": 29,
+   "en": "Don't do it again. Gillian.",
+   "long": "Don't ever do it again, Gillian."
+  },
+  {
+   "off": 21922,
+   "budget": 49,
+   "en": "To lose both her parents to the￥Snatchers."
+  },
+  {
+   "off": 21971,
+   "budget": 61,
+   "en": "Poor girl. She's all alone now."
+  },
+  {
+   "off": 22032,
+   "budget": 37,
+   "en": "Please help her, Gillian."
+  },
+  {
+   "off": 22069,
+   "budget": 15,
+   "en": "Whale places",
+   "long": "Whale restaurant"
+  },
+  {
+   "off": 22084,
+   "budget": 71,
+   "en": "A whale restaurant?￥Do those still exist?￥Not heard of one lately.",
+   "long": "A restaurant that serves whale meat?￥Do those still exist? I haven't￥heard of any lately."
+  },
+  {
+   "off": 22155,
+   "budget": 17,
+   "en": "Oh, I know!"
+  },
+  {
+   "off": 22172,
+   "budget": 59,
+   "en": "Jean's informant might know."
+  },
+  {
+   "off": 22231,
+   "budget": 15,
+   "en": "Napoleon?"
+  },
+  {
+   "off": 22246,
+   "budget": 67,
+   "en": "That informant Napoleon might know."
+  },
+  {
+   "off": 22313,
+   "budget": 23,
+   "en": "Right. He might."
+  },
+  {
+   "off": 22336,
+   "budget": 49,
+   "en": "＠赤Napoleon＠白 might know."
+  },
+  {
+   "off": 22385,
+   "budget": 49,
+   "en": "The ＠赤Chinese informant＠白 Jean used.",
+   "long": "He's the ＠赤Chinese informant＠白 Jean￥used."
+  },
+  {
+   "off": 22434,
+   "budget": 59,
+   "en": "They went back to Jean's days as a￥Science Cop."
+  },
+  {
+   "off": 22493,
+   "budget": 47,
+   "en": "I've only heard about him. We've￥never met."
+  },
+  {
+   "off": 22540,
+   "budget": 25,
+   "en": "Why not go ask him?"
+  },
+  {
+   "off": 22565,
+   "budget": 77,
+   "en": "Why don't you look for him? Knowing￥Jean, he must have left a clue."
+  },
+  {
+   "off": 22642,
+   "budget": 45,
+   "en": "A ＠赤videophone number＠白 or something."
+  },
+  {
+   "off": 22687,
+   "budget": 33,
+   "en": "Alice? Your wife?"
+  },
+  {
+   "off": 22720,
+   "budget": 29,
+   "en": "Sorry. I don't know her."
+  },
+  {
+   "off": 22749,
+   "budget": 17,
+   "en": "Joy Division"
+  },
+  {
+   "off": 22766,
+   "budget": 95,
+   "en": "I've heard of it.￥The 'anything market', yes?￥It grew from under the Kobe rails.",
+   "long": "I've heard of it. The market that￥sells everything, right? It started￥under Kobe's elevated railway."
+  },
+  {
+   "off": 22861,
+   "budget": 53,
+   "en": "I've never been there. I hear it's￥dangerous."
+  },
+  {
+   "off": 22914,
+   "budget": 23,
+   "en": "It was quite a place."
+  },
+  {
+   "off": 22937,
+   "budget": 15,
+   "en": "You went?",
+   "long": "You went there?"
+  },
+  {
+   "off": 22952,
+   "budget": 39,
+   "en": "Yes. It didn't feel like Japan."
+  },
+  {
+   "off": 22991,
+   "budget": 73,
+   "en": "I read Hanataro every month, but￥I've never seen that place listed."
+  },
+  {
+   "off": 23064,
+   "budget": 41,
+   "en": "Is it famous? I've never heard of￥it."
+  },
+  {
+   "off": 23105,
+   "budget": 9,
+   "en": "Do",
+   "long": "Do something"
+  },
+  {
+   "off": 23114,
+   "budget": 55,
+   "en": "I'll catch whoever killed Gibson,￥Mika. I promise."
+  },
+  {
+   "off": 23169,
+   "budget": 41,
+   "en": "You're very kind."
+  },
+  {
+   "off": 23210,
+   "budget": 43,
+   "en": "I understand.￥...Don't push yourself.",
+   "long": "All right. But don't do anything￥reckless."
+  },
+  {
+   "off": 23253,
+   "budget": 49,
+   "en": "Don't worry. I'll wipe out the￥Snatchers."
+  },
+  {
+   "off": 23302,
+   "budget": 25,
+   "en": "I believe you."
+  },
+  {
+   "off": 23327,
+   "budget": 11,
+   "en": "Give candy"
+  },
+  {
+   "off": 23338,
+   "budget": 59,
+   "en": "Losing Gibson must have hurt. Here,￥take this candy."
+  },
+  {
+   "off": 23397,
+   "budget": 13,
+   "en": "This candy!"
+  },
+  {
+   "off": 23410,
+   "budget": 85,
+   "en": "Yes, it was in Gibson's coat pocket.￥He was a kind man, just as you said."
+  },
+  {
+   "off": 23495,
+   "budget": 37,
+   "en": "Yes. Very kind. Jean."
+  },
+  {
+   "off": 23532,
+   "budget": 57,
+   "en": "Keep that candy as a charm.￥It will protect you.",
+   "long": "Keep it as a good luck charm. I'm￥sure it'll protect you."
+  },
+  {
+   "off": 23589,
+   "budget": 43,
+   "en": "I will. Thank you, Gillian."
+  },
+  {
+   "off": 23632,
+   "budget": 11,
+   "en": "Sniff"
+  },
+  {
+   "off": 23643,
+   "budget": 39,
+   "en": "Sniff, sniff. You smell nice."
+  },
+  {
+   "off": 23682,
+   "budget": 43,
+   "en": "Keep that up and she won't like you."
+  },
+  {
+   "off": 23725,
+   "budget": 29,
+   "en": "Maybe I already am...?",
+   "long": "Maybe it's already too late for￥that."
+  },
+  {
+   "off": 23754,
+   "budget": 7,
+   "en": "Flirt"
+  },
+  {
+   "off": 23761,
+   "budget": 23,
+   "en": "Join me tonight?",
+   "long": "Want to go out tonight?"
+  },
+  {
+   "off": 23784,
+   "budget": 43,
+   "en": "We hardly know each other yet, do￥we?"
+  },
+  {
+   "off": 23827,
+   "budget": 33,
+   "en": "Come on. Why not?"
+  },
+  {
+   "off": 23860,
+   "budget": 41,
+   "en": "One step at a time, Gillian."
+  },
+  {
+   "off": 23901,
+   "budget": 27,
+   "en": "So you're timid after all.",
+   "long": "You're more timid than I thought."
+  },
+  {
+   "off": 23928,
+   "budget": 23,
+   "en": "Want to win me over?"
+  },
+  {
+   "off": 23951,
+   "budget": 13,
+   "en": "Win you?",
+   "long": "And if I were trying to win you￥over?"
+  },
+  {
+   "off": 23964,
+   "budget": 69,
+   "en": "I like a man who's good at his job.￥Solve the case first."
+  },
+  {
+   "off": 24033,
+   "budget": 25,
+   "en": "You got me there."
+  },
+  {
+   "off": 24058,
+   "budget": 37,
+   "en": "I don't bring private life to work.",
+   "long": "I keep my private life out of the￥office."
+  },
+  {
+   "off": 24095,
+   "budget": 35,
+   "en": "Scolded by the Chief, no wiser?",
+   "long": "Didn't you learn anything from the￥Chief telling you off?"
+  },
+  {
+   "off": 24130,
+   "budget": 23,
+   "en": "She's right, Gillian."
+  },
+  {
+   "off": 24153,
+   "budget": 19,
+   "en": "What about it?"
+  },
+  {
+   "off": 24172,
+   "budget": 17,
+   "en": "Meaning what?",
+   "long": "What are you trying to say?"
+  },
+  {
+   "off": 24189,
+   "budget": 55,
+   "en": "I have expensive tastes. Dating me￥won't be cheap."
+  },
+  {
+   "off": 24244,
+   "budget": 15,
+   "en": "How's this?",
+   "long": "How about this?"
+  },
+  {
+   "off": 24259,
+   "budget": 29,
+   "en": "Joking? I'll be mad!",
+   "long": "Is that a joke? I'll be angry if￥you're serious!"
+  },
+  {
+   "off": 24288,
+   "budget": 17,
+   "en": "Jean's candy."
+  },
+  {
+   "off": 24305,
+   "budget": 33,
+   "en": "I've seen that candy before.",
+   "long": "I think I've seen that candy￥somewhere."
+  },
+  {
+   "off": 24338,
+   "budget": 43,
+   "en": "So that was Jean's message?"
+  },
+  {
+   "off": 24381,
+   "budget": 27,
+   "en": "What's this... a house?",
+   "long": "What's this? Are you buying a house?"
+  },
+  {
+   "off": 24408,
+   "budget": 35,
+   "en": "Like a mystery novel, that...?",
+   "long": "It's like a mystery story, isn't it?"
+  },
+  {
+   "off": 24443,
+   "budget": 29,
+   "en": "It was Gibson's key."
+  },
+  {
+   "off": 24472,
+   "budget": 27,
+   "en": "So it was Jean's."
+  },
+  {
+   "off": 24499,
+   "budget": 67,
+   "en": "A key? It must be Jean's. He liked￥collecting old things."
+  },
+  {
+   "off": 24566,
+   "budget": 35,
+   "en": "What's this? A present for me?"
+  },
+  {
+   "off": 24601,
+   "budget": 41,
+   "en": "Showing me pieces won't help.",
+   "long": "Keep showing me that piece and I'll￥lose my peace of mind."
+  },
+  {
+   "off": 24642,
+   "budget": 19,
+   "en": "Very funny."
+  },
+  {
+   "off": 24661,
+   "budget": 45,
+   "en": "Gibson recorded his investigation on￥this."
+  },
+  {
+   "off": 24706,
+   "budget": 63,
+   "en": "So the disk had information about￥the Snatchers' weakness."
+  },
+  {
+   "off": 24769,
+   "budget": 25,
+   "en": "Is that a game disk?"
+  },
+  {
+   "off": 24794,
+   "budget": 41,
+   "en": "Imagine Snatchers using sunscreen."
+  },
+  {
+   "off": 24835,
+   "budget": 43,
+   "en": "Sunblock in this season?￥What's it for?",
+   "long": "Sunscreen at this time of year? What￥could it be for?"
+  },
+  {
+   "off": 24878,
+   "budget": 65,
+   "en": "Eek! What are you doing?! I hate￥things like that!"
+  },
+  {
+   "off": 24943,
+   "budget": 43,
+   "en": "...Gillian, is that your kind of￥taste?",
+   "long": "I didn't know you were into that,￥Gillian."
+  },
+  {
+   "off": 24986,
+   "budget": 21,
+   "en": "Jean's photo..."
+  },
+  {
+   "off": 25007,
+   "budget": 27,
+   "en": "Sorry, I don't know."
+  },
+  {
+   "off": 25034,
+   "budget": 47,
+   "en": "You smell of drink.￥Gillian, are you tipsy?",
+   "long": "I smell alcohol. You're drunk,￥aren't you, Gillian?"
+  },
+  {
+   "off": 25081,
+   "budget": 49,
+   "en": "Gulp! (What a nose...￥not one to underrate.)",
+   "long": "(Caught! She's got a good nose. I'd￥better be careful.)"
+  },
+  {
+   "off": 25130,
+   "budget": 35,
+   "en": "Drunk at this hour? Pathetic!",
+   "long": "Drunk at this hour? That's pathetic!"
+  },
+  {
+   "off": 25165,
+   "budget": 9,
+   "en": "Plate"
+  },
+  {
+   "off": 25174,
+   "budget": 41,
+   "en": "JUNKER's full name is written here."
+  },
+  {
+   "off": 25215,
+   "budget": 43,
+   "en": "You've learnt the name￥by now, Gillian?",
+   "long": "You've memorized the full name by￥now, haven't you, Gillian?"
+  },
+  {
+   "off": 25258,
+   "budget": 17,
+   "en": "Front Pod"
+  },
+  {
+   "off": 25275,
+   "budget": 87,
+   "en": "The reception desk is a pod,￥designed to protect against Snatcher￥attacks."
+  },
+  {
+   "off": 25362,
+   "budget": 31,
+   "en": "So I can't get near Mika...",
+   "long": "And it keeps me away from Mika."
+  },
+  {
+   "off": 25393,
+   "budget": 29,
+   "en": "Did you say something?",
+   "long": "Did you say something, Gillian?"
+  },
+  {
+   "off": 25422,
+   "budget": 33,
+   "en": "＠赤No, nothing.＠白"
+  },
+  {
+   "off": 25455,
+   "budget": 7,
+   "en": "Camera"
+  },
+  {
+   "off": 25462,
+   "budget": 63,
+   "en": "A security camera.￥It watches HQ around the clock.",
+   "long": "It's a security camera. The￥headquarters is monitored around the￥clock."
+  },
+  {
+   "off": 25525,
+   "budget": 19,
+   "en": "A peeping habit..."
+  },
+  {
+   "off": 25544,
+   "budget": 31,
+   "en": "What good is examining her?",
+   "long": "What do you expect to learn by￥examining her?"
+  },
+  {
+   "off": 25575,
+   "budget": 33,
+   "en": "You're a pain. It was a joke."
+  },
+  {
+   "off": 25608,
+   "budget": 33,
+   "en": "You can't get past the shield."
+  },
+  {
+   "off": 25641,
+   "budget": 19,
+   "en": "Judgement"
+  },
+  {
+   "off": 25660,
+   "budget": 101,
+   "en": "It says \"Uninfected Naked Kind &￥Execute Ranger.\""
+  },
+  {
+   "off": 25761,
+   "budget": 53,
+   "en": "An anti-Snatcher heat and￥shock shield.",
+   "long": "It's a heat- and shock-resistant￥shield for protection against￥Snatchers."
+  },
+  {
+   "off": 25814,
+   "budget": 57,
+   "en": "They monitor from inside HQ.￥No foolishness here.",
+   "long": "It's monitored inside headquarters.￥Don't try anything foolish."
+  },
+  {
+   "off": 25871,
+   "budget": 9,
+   "en": "Get in",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 25880,
+   "budget": 61,
+   "en": "Mika, I'm off to investigate.￥We have a few leads now.",
+   "long": "I'm heading out to investigate,￥Mika. I've got a few leads."
+  },
+  {
+   "off": 25941,
+   "budget": 47,
+   "en": "Yes, about Jean...￥don't blame yourself.",
+   "long": "All right. Don't blame yourself for￥what happened to Jean."
+  },
+  {
+   "off": 25988,
+   "budget": 19,
+   "en": "Thank you, Mika."
+  },
+  {
+   "off": 26007,
+   "budget": 11,
+   "en": "Gillian?"
+  },
+  {
+   "off": 26018,
+   "budget": 15,
+   "en": "What, Mika?",
+   "long": "What is it, Mika?"
+  },
+  {
+   "off": 26033,
+   "budget": 29,
+   "en": "...How are you two now?",
+   "long": "How are things with your wife?"
+  },
+  {
+   "off": 26062,
+   "budget": 27,
+   "en": "We haven't talked lately."
+  },
+  {
+   "off": 26089,
+   "budget": 17,
+   "en": "Not by phone?",
+   "long": "Not even on the videophone?"
+  },
+  {
+   "off": 26106,
+   "budget": 15,
+   "en": "That's right."
+  },
+  {
+   "off": 26121,
+   "budget": 37,
+   "en": "No good.￥Leave a woman alone and...",
+   "long": "That's no good. If you leave a woman￥alone..."
+  },
+  {
+   "off": 26158,
+   "budget": 81,
+   "en": "Come to think of it, (＠黄Jamie's￥videophone number is at my home.＠白)"
+  },
+  {
+   "off": 26239,
+   "budget": 27,
+   "en": "She must be lonely."
+  },
+  {
+   "off": 26266,
+   "budget": 31,
+   "en": "All right. Thank you."
+  },
+  {
+   "off": 26297,
+   "budget": 25,
+   "en": "Be careful, Gillian."
+  },
+  {
+   "off": 26322,
+   "budget": 29,
+   "en": "See you, Gillian."
+  },
+  {
+   "off": 26351,
+   "budget": 7,
+   "en": "Chief",
+   "long": "Chief's room"
+  },
+  {
+   "off": 26358,
+   "budget": 25,
+   "en": "The Mechanic room."
+  },
+  {
+   "off": 26383,
+   "budget": 53,
+   "en": "Hey, Gillian. What's up? You're￥working hard."
+  },
+  {
+   "off": 26436,
+   "budget": 35,
+   "en": "Hey, Gillian. How's it going?"
+  },
+  {
+   "off": 26471,
+   "budget": 55,
+   "en": "No more drink for me.￥I'll work as if you were Jean.",
+   "long": "No more drinking. I'll think of you￥as Jean and give it my best."
+  },
+  {
+   "off": 26526,
+   "budget": 59,
+   "en": "I hear an Insector's needle gun got￥you."
+  },
+  {
+   "off": 26585,
+   "budget": 31,
+   "en": "Metal gave me first aid."
+  },
+  {
+   "off": 26616,
+   "budget": 37,
+   "en": "I've injected medical nanomachines."
+  },
+  {
+   "off": 26653,
+   "budget": 55,
+   "en": "...I see.￥Then you'll be fine.￥You're young enough.",
+   "long": "Good. Nothing to worry about, then.￥You're young too."
+  },
+  {
+   "off": 26708,
+   "budget": 33,
+   "en": "Zzz."
+  },
+  {
+   "off": 26741,
+   "budget": 25,
+   "en": "Was that your wife?"
+  },
+  {
+   "off": 26766,
+   "budget": 17,
+   "en": "Yes. Why?"
+  },
+  {
+   "off": 26783,
+   "budget": 23,
+   "en": "A beautiful woman.",
+   "long": "She's a beautiful woman."
+  },
+  {
+   "off": 26806,
+   "budget": 41,
+   "en": "Beauty brings plenty￥of worry.",
+   "long": "That must give you plenty to worry￥about."
+  },
+  {
+   "off": 26847,
+   "budget": 15,
+   "en": "......."
+  },
+  {
+   "off": 26862,
+   "budget": 69,
+   "en": "But a real man doesn't go prying,￥Gillian."
+  },
+  {
+   "off": 26931,
+   "budget": 37,
+   "en": "Apologize quickly and be forgiven.",
+   "long": "Apologize and ask her to forgive￥you."
+  },
+  {
+   "off": 26968,
+   "budget": 21,
+   "en": "I will, Harry."
+  },
+  {
+   "off": 26989,
+   "budget": 21,
+   "en": "Yeah, isn't she?"
+  },
+  {
+   "off": 27010,
+   "budget": 45,
+   "en": "I feel like I've met her before."
+  },
+  {
+   "off": 27055,
+   "budget": 43,
+   "en": "Pops, is that your line￥for pretty ones?",
+   "long": "Is that your line with every pretty￥woman, old man?"
+  },
+  {
+   "off": 27098,
+   "budget": 15,
+   "en": "Rubbish!",
+   "long": "Don't be ridiculous!"
+  },
+  {
+   "off": 27113,
+   "budget": 7,
+   "en": "Harry"
+  },
+  {
+   "off": 27120,
+   "budget": 55,
+   "en": "(I'm sure we've met. I can't￥remember.)"
+  },
+  {
+   "off": 27175,
+   "budget": 33,
+   "en": "(Haven't we met somewhere?)"
+  },
+  {
+   "off": 27208,
+   "budget": 39,
+   "en": "What? Something on my face?"
+  },
+  {
+   "off": 27247,
+   "budget": 35,
+   "en": "It bothers me when you stare."
+  },
+  {
+   "off": 27282,
+   "budget": 31,
+   "en": "Stop glaring at me, will you?"
+  },
+  {
+   "off": 27313,
+   "budget": 49,
+   "en": "He's asleep, still clutching the￥brandy bottle."
+  },
+  {
+   "off": 27362,
+   "budget": 63,
+   "en": "He looks comfortable. Let's leave￥him asleep."
+  },
+  {
+   "off": 27425,
+   "budget": 57,
+   "en": "He must have drunk a lot. I'm￥detecting alcohol."
+  },
+  {
+   "off": 27482,
+   "budget": 71,
+   "en": "He must have drunk quite a bit. He's￥still holding the brandy bottle."
+  },
+  {
+   "off": 27553,
+   "budget": 9,
+   "en": "Poster"
+  },
+  {
+   "off": 27562,
+   "budget": 27,
+   "en": "A 20th-century actress?",
+   "long": "A film actress from the late￥twentieth century?"
+  },
+  {
+   "off": 27589,
+   "budget": 45,
+   "en": "It's a photo of a boy. Harry as a￥child."
+  },
+  {
+   "off": 27634,
+   "budget": 7,
+   "en": "Desk"
+  },
+  {
+   "off": 27641,
+   "budget": 65,
+   "en": "There's a bottle of brandy on the￥desk. Harry was drinking it."
+  },
+  {
+   "off": 27706,
+   "budget": 15,
+   "en": "Brandy bottle"
+  },
+  {
+   "off": 27721,
+   "budget": 47,
+   "en": "The bottle with Napoleon's￥number on it.",
+   "long": "It's the bottle with Napoleon's￥videophone number."
+  },
+  {
+   "off": 27768,
+   "budget": 65,
+   "en": "Twentieth-century brandy. ＠赤Napoleon＠白."
+  },
+  {
+   "off": 27833,
+   "budget": 41,
+   "en": "Hey! What's this?￥Why examine me?",
+   "long": "Hey! What do you think you're doing,￥examining me?"
+  },
+  {
+   "off": 27874,
+   "budget": 31,
+   "en": "Stop! That tickles!"
+  },
+  {
+   "off": 27905,
+   "budget": 49,
+   "en": "You're stuck on the case,￥aren't you?",
+   "long": "You've hit a dead end in the￥investigation, haven't you?"
+  },
+  {
+   "off": 27954,
+   "budget": 99,
+   "en": "Jean's death must have hit him hard.￥He can't usually drink this much."
+  },
+  {
+   "off": 28053,
+   "budget": 19,
+   "en": "Hey! Don't touch!",
+   "long": "Hey! Don't touch me!"
+  },
+  {
+   "off": 28072,
+   "budget": 31,
+   "en": "Stop it, you young fool!"
+  },
+  {
+   "off": 28103,
+   "budget": 21,
+   "en": "You smell of drink.",
+   "long": "He smells of alcohol."
+  },
+  {
+   "off": 28124,
+   "budget": 19,
+   "en": "Phew... reeks!",
+   "long": "Whew! He reeks of booze!"
+  },
+  {
+   "off": 28143,
+   "budget": 61,
+   "en": "By the print dyes, the poster￥is half a century old.",
+   "long": "Judging by the state of the ink,￥this poster is at least fifty years￥old."
+  },
+  {
+   "off": 28204,
+   "budget": 55,
+   "en": "He kept it carefully...￥there are several repairs.",
+   "long": "He must treasure it. It's been￥repaired in several places."
+  },
+  {
+   "off": 28259,
+   "budget": 49,
+   "en": "Looks like this was cut out of a￥bigger photo.",
+   "long": "It looks like this was cut out of a￥larger photo."
+  },
+  {
+   "off": 28308,
+   "budget": 23,
+   "en": "His parents cut out.",
+   "long": "I can't make out his parents' faces."
+  },
+  {
+   "off": 28331,
+   "budget": 61,
+   "en": "Napoleon's videophone number is￥written on the label."
+  },
+  {
+   "off": 28392,
+   "budget": 33,
+   "en": "＠赤39-5644＠白."
+  },
+  {
+   "off": 28425,
+   "budget": 53,
+   "en": "That's odd. I thought Harry￥preferred sake."
+  },
+  {
+   "off": 28478,
+   "budget": 21,
+   "en": "Brandy?"
+  },
+  {
+   "off": 28499,
+   "budget": 9,
+   "en": "Oh?",
+   "long": "What's this?"
+  },
+  {
+   "off": 28508,
+   "budget": 31,
+   "en": "Numbers are on the label.",
+   "long": "There are numbers written on the￥label."
+  },
+  {
+   "off": 28539,
+   "budget": 67,
+   "en": "Let's see, ＠赤39-5644＠白. It doesn't￥look like a year."
+  },
+  {
+   "off": 28606,
+   "budget": 53,
+   "en": "So Jean was close to finding a big￥lead?"
+  },
+  {
+   "off": 28659,
+   "budget": 49,
+   "en": "So close, too...￥He must be bitter about it.",
+   "long": "He was so close. He must have hated￥leaving it unfinished."
+  },
+  {
+   "off": 28708,
+   "budget": 85,
+   "en": "His head was old, but a good man.￥Born the same year as me,￥Halley's comet year.",
+   "long": "He was old-fashioned, but a good￥man. Born the same year as me, when￥Halley's Comet came close to Earth."
+  },
+  {
+   "off": 28793,
+   "budget": 43,
+   "en": "Halley's Comet? Then you're still￥young?"
+  },
+  {
+   "off": 28836,
+   "budget": 53,
+   "en": "Aye...￥In his youth he was given￥brain drugs.",
+   "long": "Yes. They gave me brain-boosting￥drugs when I was young."
+  },
+  {
+   "off": 28889,
+   "budget": 51,
+   "en": "The side effect is he ages￥faster than others.",
+   "long": "A side effect made me age faster￥than other people."
+  },
+  {
+   "off": 28940,
+   "budget": 25,
+   "en": "Hmm. Let me think."
+  },
+  {
+   "off": 28965,
+   "budget": 77,
+   "en": "He said he might soon be able to￥wipe out every last Snatcher."
+  },
+  {
+   "off": 29042,
+   "budget": 61,
+   "en": "...He also said 'if anything￥happens, look after Catherine'",
+   "long": "He also asked me to look after￥Catherine if anything happened to￥him."
+  },
+  {
+   "off": 29103,
+   "budget": 67,
+   "en": "He was very thorough. Why don't you￥search his desk?"
+  },
+  {
+   "off": 29170,
+   "budget": 59,
+   "en": "Look carefully. He must have left￥something."
+  },
+  {
+   "off": 29229,
+   "budget": 73,
+   "en": "Gillian! If you bother Catherine￥again, you'll answer to me!"
+  },
+  {
+   "off": 29302,
+   "budget": 45,
+   "en": "Jean asked me to mind her.￥Understood!",
+   "long": "Jean asked me to look after her.￥Understand?"
+  },
+  {
+   "off": 29347,
+   "budget": 29,
+   "en": "(＠赤Scratch, scratch＠白)",
+   "long": "(＠赤Scratch, scratch.＠白)"
+  },
+  {
+   "off": 29376,
+   "budget": 79,
+   "en": "Remember this, Gillian! If you try￥anything again, you'll answer to me!"
+  },
+  {
+   "off": 29455,
+   "budget": 43,
+   "en": "Catherine...￥Sorrow follows that girl.",
+   "long": "Poor Catherine. She's had so much￥sorrow."
+  },
+  {
+   "off": 29498,
+   "budget": 93,
+   "en": "The Snatchers killed both her￥parents. She's an orphan now, like￥me."
+  },
+  {
+   "off": 29591,
+   "budget": 101,
+   "en": "She's strong-willed and she'll put￥on a brave face, but be kind to her,￥Gillian."
+  },
+  {
+   "off": 29692,
+   "budget": 61,
+   "en": "She's strong, like Jean. She'll be￥all right."
+  },
+  {
+   "off": 29753,
+   "budget": 43,
+   "en": "＠赤Alice＠白 is her only friend."
+  },
+  {
+   "off": 29796,
+   "budget": 35,
+   "en": "Whale? I don't eat greasy food.",
+   "long": "Whale meat? I don't eat fatty food."
+  },
+  {
+   "off": 29831,
+   "budget": 63,
+   "en": "An informant? I didn't know Jean￥used one."
+  },
+  {
+   "off": 29894,
+   "budget": 49,
+   "en": "I prefer my Napoleon in a brandy￥bottle."
+  },
+  {
+   "off": 29943,
+   "budget": 27,
+   "en": "Harry doesn't know either.",
+   "long": "So you don't know either, Harry."
+  },
+  {
+   "off": 29970,
+   "budget": 41,
+   "en": "Jean knew how to keep a secret."
+  },
+  {
+   "off": 30011,
+   "budget": 41,
+   "en": "Napoleon? That's what I'm drinking."
+  },
+  {
+   "off": 30052,
+   "budget": 61,
+   "en": "It was Jean's favorite. We shared￥many a drink."
+  },
+  {
+   "off": 30113,
+   "budget": 57,
+   "en": "This is the last bottle. I took it￥from his desk."
+  },
+  {
+   "off": 30170,
+   "budget": 63,
+   "en": "Jean loved Napoleon. We often drank￥it together."
+  },
+  {
+   "off": 30233,
+   "budget": 61,
+   "en": "It's the dog's name. It was his late￥wife's name too."
+  },
+  {
+   "off": 30294,
+   "budget": 61,
+   "en": "Joy Division? I've heard that￥somewhere."
+  },
+  {
+   "off": 30355,
+   "budget": 25,
+   "en": "Like a postwar market.",
+   "long": "It was like a postwar black market."
+  },
+  {
+   "off": 30380,
+   "budget": 35,
+   "en": "Really? I should visit sometime."
+  },
+  {
+   "off": 30415,
+   "budget": 33,
+   "en": "You'd like it, old man."
+  },
+  {
+   "off": 30448,
+   "budget": 45,
+   "en": "How rude!￥I'm not for heaven yet!",
+   "long": "How rude! I'm not going to heaven￥anytime soon!"
+  },
+  {
+   "off": 30493,
+   "budget": 11,
+   "en": "Nanobots",
+   "long": "Nanomachines"
+  },
+  {
+   "off": 30504,
+   "budget": 69,
+   "en": "You had a nanomachine injection,￥didn't you? Feeling better?"
+  },
+  {
+   "off": 30573,
+   "budget": 61,
+   "en": "Nanomachines handle not just￥wounds but any ailment.",
+   "long": "Nanomachines can treat all kinds of￥illnesses as well as injuries."
+  },
+  {
+   "off": 30634,
+   "budget": 9,
+   "en": "Amazing.",
+   "long": "That's amazing."
+  },
+  {
+   "off": 30643,
+   "budget": 47,
+   "en": "Isn't it? They're one of my finest￥creations."
+  },
+  {
+   "off": 30690,
+   "budget": 51,
+   "en": "Don't be reckless just for￥having nanomachines.",
+   "long": "Don't get reckless just because you￥have nanomachines."
+  },
+  {
+   "off": 30741,
+   "budget": 71,
+   "en": "They're good, but they can't bring￥back the dead."
+  },
+  {
+   "off": 30812,
+   "budget": 37,
+   "en": "(He's talking about Gibson.)"
+  },
+  {
+   "off": 30849,
+   "budget": 47,
+   "en": "In the end you rely on the body.￥Take care.",
+   "long": "In the end, you have to rely on your￥body. Take care of it."
+  },
+  {
+   "off": 30896,
+   "budget": 27,
+   "en": "The price? Quite steep?",
+   "long": "What do they cost? They must be￥expensive."
+  },
+  {
+   "off": 30923,
+   "budget": 73,
+   "en": "Never thought about it. About three￥Tricycles, perhaps?"
+  },
+  {
+   "off": 30996,
+   "budget": 13,
+   "en": "＠青Yikes!"
+  },
+  {
+   "off": 31009,
+   "budget": 17,
+   "en": "T-that is..."
+  },
+  {
+   "off": 31026,
+   "budget": 11,
+   "en": "Metal!"
+  },
+  {
+   "off": 31037,
+   "budget": 37,
+   "en": "What is it, the nanomachines?",
+   "long": "What's wrong? Something happen to￥the nanomachines?"
+  },
+  {
+   "off": 31074,
+   "budget": 31,
+   "en": "Nothing, old man."
+  },
+  {
+   "off": 31105,
+   "budget": 41,
+   "en": "I can hardly say we flushed them.",
+   "long": "We can't tell him you flushed them￥down the toilet."
+  },
+  {
+   "off": 31146,
+   "budget": 41,
+   "en": "Let's drop this subject."
+  },
+  {
+   "off": 31187,
+   "budget": 69,
+   "en": "Forget work, Gillian. I'm not in the￥mood right now."
+  },
+  {
+   "off": 31256,
+   "budget": 61,
+   "en": "Leave me be. I'm having a farewell￥drink for Jean."
+  },
+  {
+   "off": 31317,
+   "budget": 41,
+   "en": "A keepsake of Gibson.￥Take this candy.",
+   "long": "Here, take this candy. Something to￥remember Gibson by."
+  },
+  {
+   "off": 31358,
+   "budget": 75,
+   "en": "Yes, it was in Gibson's coat pocket.￥So you knew about it too."
+  },
+  {
+   "off": 31433,
+   "budget": 47,
+   "en": "Of course. Jean was a kind man."
+  },
+  {
+   "off": 31480,
+   "budget": 53,
+   "en": "Keep that candy as a charm.￥It will protect you.",
+   "long": "Keep it as a good luck charm. I'm￥sure it'll protect you."
+  },
+  {
+   "off": 31533,
+   "budget": 19,
+   "en": "Yes. I will."
+  },
+  {
+   "off": 31552,
+   "budget": 73,
+   "en": "Gillian, don't be hasty!￥No need to rush.￥The case moves step by step.",
+   "long": "Don't be hasty, Gillian. No need to￥rush. You're making progress, step￥by step."
+  },
+  {
+   "off": 31625,
+   "budget": 65,
+   "en": "You can quit when every last￥Snatcher is gone, Gillian."
+  },
+  {
+   "off": 31690,
+   "budget": 99,
+   "en": "I believe in you, Gillian. Don't let￥me down. Put that away."
+  },
+  {
+   "off": 31789,
+   "budget": 25,
+   "en": "Money won't sway me!"
+  },
+  {
+   "off": 31814,
+   "budget": 53,
+   "en": "Whatever you mean...￥women and money don't draw me.",
+   "long": "I don't know what you're trying to￥do, but women and money don't￥interest me."
+  },
+  {
+   "off": 31867,
+   "budget": 45,
+   "en": "Harry has no sense of money."
+  },
+  {
+   "off": 31912,
+   "budget": 43,
+   "en": "What are you saying?!￥Money changes men.",
+   "long": "What are you talking about?! Money￥changes people."
+  },
+  {
+   "off": 31955,
+   "budget": 21,
+   "en": "Jean's candy."
+  },
+  {
+   "off": 31976,
+   "budget": 35,
+   "en": "I've seen that candy before.",
+   "long": "I think I've seen that candy￥somewhere."
+  },
+  {
+   "off": 32011,
+   "budget": 37,
+   "en": "So it was a message from Jean."
+  },
+  {
+   "off": 32048,
+   "budget": 37,
+   "en": "What's it mean? I don't know."
+  },
+  {
+   "off": 32085,
+   "budget": 31,
+   "en": "It's Jean's hand, no doubt.",
+   "long": "It's definitely Jean's handwriting."
+  },
+  {
+   "off": 32116,
+   "budget": 29,
+   "en": "The key to Jean's desk, no?",
+   "long": "That was the key to Jean's desk,￥wasn't it?"
+  },
+  {
+   "off": 32145,
+   "budget": 71,
+   "en": "Every man has a key to his heart.￥That one you must not open.",
+   "long": "Everyone keeps part of their heart￥locked away. You shouldn't open it."
+  },
+  {
+   "off": 32216,
+   "budget": 33,
+   "en": "That's the key to Jean's desk?",
+   "long": "Isn't that the key to Jean's desk?"
+  },
+  {
+   "off": 32249,
+   "budget": 51,
+   "en": "A chess piece. That's the queen."
+  },
+  {
+   "off": 32300,
+   "budget": 37,
+   "en": "So it was Jean's disk after all?"
+  },
+  {
+   "off": 32337,
+   "budget": 17,
+   "en": "Take a look.",
+   "long": "Take a look at this."
+  },
+  {
+   "off": 32354,
+   "budget": 51,
+   "en": "We don't use five-inch disks at￥JUNKER."
+  },
+  {
+   "off": 32405,
+   "budget": 67,
+   "en": "Wait. I think I saw a very old￥computer at Gibson's house."
+  },
+  {
+   "off": 32472,
+   "budget": 61,
+   "en": "Yes, I'm sure he had one. I've seen￥it."
+  },
+  {
+   "off": 32533,
+   "budget": 25,
+   "en": "Yes, it was there."
+  },
+  {
+   "off": 32558,
+   "budget": 57,
+   "en": "We should try loading this disk on￥that computer."
+  },
+  {
+   "off": 32615,
+   "budget": 41,
+   "en": "Snatchers using sunscreen."
+  },
+  {
+   "off": 32656,
+   "budget": 31,
+   "en": "...Never would have guessed.",
+   "long": "I'd never have thought of that."
+  },
+  {
+   "off": 32687,
+   "budget": 17,
+   "en": "? ...Drink?",
+   "long": "What's that? Booze?"
+  },
+  {
+   "off": 32704,
+   "budget": 45,
+   "en": "Oh, sunscreen. Not interested."
+  },
+  {
+   "off": 32749,
+   "budget": 45,
+   "en": "Nobody my age worries about their￥skin."
+  },
+  {
+   "off": 32794,
+   "budget": 29,
+   "en": "You're still a child."
+  },
+  {
+   "off": 32823,
+   "budget": 23,
+   "en": "Oh, Jean."
+  },
+  {
+   "off": 32846,
+   "budget": 19,
+   "en": "He was a good man."
+  },
+  {
+   "off": 32865,
+   "budget": 55,
+   "en": "A composite? Why don't you check￥Gaudi?"
+  },
+  {
+   "off": 32920,
+   "budget": 33,
+   "en": "A wicked-looking face...",
+   "long": "He certainly looks like a criminal."
+  },
+  {
+   "off": 32953,
+   "budget": 53,
+   "en": "Leave me alone. I'm not in the mood!"
+  },
+  {
+   "off": 33006,
+   "budget": 33,
+   "en": "Please, leave me be."
+  },
+  {
+   "off": 33039,
+   "budget": 27,
+   "en": "...I'm closed for a while.",
+   "long": "I'm taking a break from work."
+  },
+  {
+   "off": 33066,
+   "budget": 77,
+   "en": "Napoleon? Could it have something to￥do with Jean's informant?"
+  },
+  {
+   "off": 33143,
+   "budget": 25,
+   "en": "Too neat for chance...",
+   "long": "Seems too suspicious to be a￥coincidence."
+  },
+  {
+   "off": 33168,
+   "budget": 57,
+   "en": "It must be. This bottle is connected￥to the informant."
+  },
+  {
+   "off": 33225,
+   "budget": 65,
+   "en": "Could it be a ＠赤videophone number＠白, as￥Mika suggested?"
+  },
+  {
+   "off": 33290,
+   "budget": 15,
+   "en": "Hic!"
+  },
+  {
+   "off": 33305,
+   "budget": 15,
+   "en": "Sniff!"
+  },
+  {
+   "off": 33320,
+   "budget": 81,
+   "en": "The young call it nostalgia...￥but a childhood longing stays all￥your life.",
+   "long": "Young people call it nostalgia. But￥your childhood idols stay with you￥for life."
+  },
+  {
+   "off": 33401,
+   "budget": 55,
+   "en": "But she's an actress from long￥before you were born?",
+   "long": "But she was an actress long before￥you were born, wasn't she?"
+  },
+  {
+   "off": 33456,
+   "budget": 69,
+   "en": "Yes. Her films had a revival when I￥was young."
+  },
+  {
+   "off": 33525,
+   "budget": 53,
+   "en": "Fine, isn't she?￥No such actress will come again.",
+   "long": "Wonderful, isn't she? There'll never￥be another actress like her."
+  },
+  {
+   "off": 33578,
+   "budget": 17,
+   "en": "A boy's photo.",
+   "long": "A photo of a boy."
+  },
+  {
+   "off": 33595,
+   "budget": 43,
+   "en": "A distant memory. Me as a child."
+  },
+  {
+   "off": 33638,
+   "budget": 63,
+   "en": "Cute, wasn't I? I was young once￥too."
+  },
+  {
+   "off": 33701,
+   "budget": 35,
+   "en": "This is no good. He's dead drunk.",
+   "long": "It's no use. He's completely drunk."
+  },
+  {
+   "off": 33736,
+   "budget": 51,
+   "en": "He's passed out.￥No talking to him for a while.",
+   "long": "He's passed out drunk. We won't be￥able to talk to him for a while."
+  },
+  {
+   "off": 33787,
+   "budget": 31,
+   "en": "Truth is, I don't know either.",
+   "long": "Actually, I don't know much about it￥either."
+  },
+  {
+   "off": 33818,
+   "budget": 37,
+   "en": "Sorry, but I don't really know."
+  },
+  {
+   "off": 33855,
+   "budget": 15,
+   "en": "Squad room.",
+   "long": "The Squad room."
+  },
+  {
+   "off": 33870,
+   "budget": 87,
+   "en": "Let's examine Jean's belongings. We￥need to understand his life before￥he died."
+  },
+  {
+   "off": 33957,
+   "budget": 31,
+   "en": "Right. Basic detective work."
+  },
+  {
+   "off": 33988,
+   "budget": 9,
+   "en": "Gibson's",
+   "long": "Gibson's desk"
+  },
+  {
+   "off": 33997,
+   "budget": 65,
+   "en": "It's an antique steel desk. Jean￥used it."
+  },
+  {
+   "off": 34062,
+   "budget": 37,
+   "en": "Best examine inside the desk too?",
+   "long": "We should search inside the desk￥too, shouldn't we?"
+  },
+  {
+   "off": 34099,
+   "budget": 13,
+   "en": "Drawer"
+  },
+  {
+   "off": 34112,
+   "budget": 21,
+   "en": "There's a keyhole."
+  },
+  {
+   "off": 34133,
+   "budget": 37,
+   "en": "It's a computer floppy disk."
+  },
+  {
+   "off": 34170,
+   "budget": 9,
+   "en": "Capsule"
+  },
+  {
+   "off": 34179,
+   "budget": 31,
+   "en": "The stomach medicine Jean took",
+   "long": "It's the stomach medicine Jean took."
+  },
+  {
+   "off": 34210,
+   "budget": 41,
+   "en": "Capsules. Some kind of medicine?"
+  },
+  {
+   "off": 34251,
+   "budget": 9,
+   "en": "Locker"
+  },
+  {
+   "off": 34260,
+   "budget": 33,
+   "en": "Jean's locker."
+  },
+  {
+   "off": 34293,
+   "budget": 55,
+   "en": "Then some of Gibson's belongings￥must be inside."
+  },
+  {
+   "off": 34348,
+   "budget": 7,
+   "en": "Coat"
+  },
+  {
+   "off": 34355,
+   "budget": 69,
+   "en": "It's Jean's JUNKER coat. Probably a￥spare."
+  },
+  {
+   "off": 34424,
+   "budget": 87,
+   "en": "Same as the one they issued me, but￥bigger. It's pretty worn out."
+  },
+  {
+   "off": 34511,
+   "budget": 17,
+   "en": "A chess piece.",
+   "long": "It's a chess piece."
+  },
+  {
+   "off": 34528,
+   "budget": 51,
+   "en": "An old-fashioned desk. It has a￥drawer."
+  },
+  {
+   "off": 34579,
+   "budget": 29,
+   "en": "Only one drawer."
+  },
+  {
+   "off": 34608,
+   "budget": 27,
+   "en": "The drawer is searched.",
+   "long": "We've already searched the drawer."
+  },
+  {
+   "off": 34635,
+   "budget": 57,
+   "en": "It's locked. Let's use the key we￥found on Jean."
+  },
+  {
+   "off": 34692,
+   "budget": 35,
+   "en": "It won't open. It's locked."
+  },
+  {
+   "off": 34727,
+   "budget": 37,
+   "en": "It's a five-inch floppy disk."
+  },
+  {
+   "off": 34764,
+   "budget": 75,
+   "en": "Five-inch? Nobody uses those￥anymore."
+  },
+  {
+   "off": 34839,
+   "budget": 27,
+   "en": "I've already analyzed it."
+  },
+  {
+   "off": 34866,
+   "budget": 29,
+   "en": "I'll search the locker."
+  },
+  {
+   "off": 34895,
+   "budget": 41,
+   "en": "There's a coat hanging inside."
+  },
+  {
+   "off": 34936,
+   "budget": 21,
+   "en": "Checking the locker.",
+   "long": "I'll search the locker."
+  },
+  {
+   "off": 34957,
+   "budget": 31,
+   "en": "There's nothing but the coat."
+  },
+  {
+   "off": 34988,
+   "budget": 43,
+   "en": "There's nothing left in the coat."
+  },
+  {
+   "off": 35031,
+   "budget": 35,
+   "en": "Check the coat pockets."
+  },
+  {
+   "off": 35066,
+   "budget": 19,
+   "en": "Understood..."
+  },
+  {
+   "off": 35085,
+   "budget": 45,
+   "en": "I found a ＠赤chess piece＠白 in the coat."
+  },
+  {
+   "off": 35130,
+   "budget": 17,
+   "en": "A carved piece.",
+   "long": "It's carved from wood."
+  },
+  {
+   "off": 35147,
+   "budget": 5,
+   "en": "Use"
+  },
+  {
+   "off": 35152,
+   "budget": 35,
+   "en": "The drawer is already open."
+  },
+  {
+   "off": 35187,
+   "budget": 23,
+   "en": "I'll use the key."
+  },
+  {
+   "off": 35210,
+   "budget": 35,
+   "en": "There are capsules in the drawer."
+  },
+  {
+   "off": 35245,
+   "budget": 35,
+   "en": "There's something in the drawer."
+  },
+  {
+   "off": 35280,
+   "budget": 37,
+   "en": "Some ＠赤capsules＠白 and"
+  },
+  {
+   "off": 35317,
+   "budget": 39,
+   "en": "a ＠赤disk＠白."
+  },
+  {
+   "off": 35356,
+   "budget": 71,
+   "en": "There are ＠赤capsules＠白 and a ＠赤disk＠白 in￥the drawer."
+  },
+  {
+   "off": 35427,
+   "budget": 23,
+   "en": "A key? ...In this age?",
+   "long": "A key? In this day and age?"
+  },
+  {
+   "off": 35450,
+   "budget": 43,
+   "en": "Come to think of it, Jean had a key."
+  },
+  {
+   "off": 35493,
+   "budget": 71,
+   "en": "This could mean something. Let's￥keep it as evidence, Metal."
+  },
+  {
+   "off": 35564,
+   "budget": 45,
+   "en": "I'll keep this ＠赤chess piece＠白."
+  },
+  {
+   "off": 35609,
+   "budget": 35,
+   "en": "It must mean something."
+  },
+  {
+   "off": 35644,
+   "budget": 41,
+   "en": "This disk may have to do￥with the case.",
+   "long": "This disk could be connected to the￥case."
+  },
+  {
+   "off": 35685,
+   "budget": 51,
+   "en": "I'll keep this ＠赤disk＠白."
+  },
+  {
+   "off": 35736,
+   "budget": 61,
+   "en": "This capsule...￥might be relevant.￥Shall we take it?",
+   "long": "These capsules might be connected to￥the case. Should we take them?"
+  },
+  {
+   "off": 35797,
+   "budget": 57,
+   "en": "No need. I've recorded the analysis."
+  },
+  {
+   "off": 35854,
+   "budget": 47,
+   "en": "I'll close the desk drawer."
+  },
+  {
+   "off": 35901,
+   "budget": 31,
+   "en": "Let's close the locker."
+  },
+  {
+   "off": 35932,
+   "budget": 17,
+   "en": "Shooting range.",
+   "long": "The Shooting range."
+  },
+  {
+   "off": 35949,
+   "budget": 109,
+   "en": "We could face another shootout with￥the Snatchers at any time. Keep￥practicing regularly."
+  },
+  {
+   "off": 36058,
+   "budget": 27,
+   "en": "Leave the shooting to me.",
+   "long": "You can count on my shooting."
+  },
+  {
+   "off": 36085,
+   "budget": 55,
+   "en": "Keep saying that and you'll get￥another Game Over."
+  },
+  {
+   "off": 36140,
+   "budget": 19,
+   "en": "(Ouch!)"
+  },
+  {
+   "off": 36159,
+   "budget": 41,
+   "en": "Talk like that and￥you'll get hurt.",
+   "long": "Keep saying that and you'll get hurt￥again."
+  },
+  {
+   "off": 36200,
+   "budget": 25,
+   "en": "(What a nag.)"
+  },
+  {
+   "off": 36225,
+   "budget": 37,
+   "en": "Those were only Insectors last time."
+  },
+  {
+   "off": 36262,
+   "budget": 59,
+   "en": "Their combat power is nothing￥beside a Snatcher's.",
+   "long": "Their fighting ability is nothing￥compared to a Snatcher's."
+  },
+  {
+   "off": 36321,
+   "budget": 19,
+   "en": "Where to?",
+   "long": "Where would you like to go?"
+  },
+  {
+   "off": 36340,
+   "budget": 11,
+   "en": "Booth",
+   "long": "Practice booth"
+  },
+  {
+   "off": 36351,
+   "budget": 51,
+   "en": "JUNKER's Eye is free. Would you like￥to practice?"
+  },
+  {
+   "off": 36402,
+   "budget": 33,
+   "en": "All the booths are empty."
+  },
+  {
+   "off": 36435,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 36442,
+   "budget": 47,
+   "en": "There's a training Junker Eye set up￥here.",
+   "long": "JUNKER's Eye training equipment is￥installed here."
+  },
+  {
+   "off": 36489,
+   "budget": 35,
+   "en": "Soundproof panels line the wall.",
+   "long": "The room is lined with soundproof￥panels."
+  },
+  {
+   "off": 36524,
+   "budget": 37,
+   "en": "Only we are in the range.",
+   "long": "We're the only ones in the Shooting￥range."
+  },
+  {
+   "off": 36561,
+   "budget": 55,
+   "en": "The power stays on so you can train￥at any time."
+  },
+  {
+   "off": 36616,
+   "budget": 11,
+   "en": "Training",
+   "long": "How to train"
+  },
+  {
+   "off": 36627,
+   "budget": 97,
+   "en": "Targets appear automatically. Aim￥and fire. You'll see your results￥after the session."
+  },
+  {
+   "off": 36724,
+   "budget": 35,
+   "en": "Only shoot the Snatchers."
+  },
+  {
+   "off": 36759,
+   "budget": 17,
+   "en": "And the levels?",
+   "long": "What about the difficulty?"
+  },
+  {
+   "off": 36776,
+   "budget": 89,
+   "en": "It adjusts automatically. As you￥improve, it moves you to the next￥level."
+  },
+  {
+   "off": 36865,
+   "budget": 9,
+   "en": "Train"
+  },
+  {
+   "off": 36874,
+   "budget": 13,
+   "en": "Videophone"
+  },
+  {
+   "off": 36887,
+   "budget": 77,
+   "en": "Interference from the shooting￥booths prevents videophone calls￥here."
+  },
+  {
+   "off": 36964,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 36975,
+   "budget": 57,
+   "en": "Saving in this room picks up noise￥from the booths.",
+   "long": "Saving here will pick up noise from￥the shooting booths."
+  },
+  {
+   "off": 37032,
+   "budget": 43,
+   "en": "It's better not to save in this￥room."
+  },
+  {
+   "off": 37075,
+   "budget": 47,
+   "en": "Come to think of it,￥your first training?",
+   "long": "This is your first time training,￥isn't it, Gillian?"
+  },
+  {
+   "off": 37122,
+   "budget": 33,
+   "en": "I know how to use a Blaster."
+  },
+  {
+   "off": 37155,
+   "budget": 57,
+   "en": "Training is simple. Shoot the￥targets as they appear."
+  },
+  {
+   "off": 37212,
+   "budget": 43,
+   "en": "But only shoot the Snatchers."
+  },
+  {
+   "off": 37255,
+   "budget": 41,
+   "en": "Don't shoot the civilians by￥mistake."
+  },
+  {
+   "off": 37296,
+   "budget": 49,
+   "en": "This training improves both your￥accuracy"
+  },
+  {
+   "off": 37345,
+   "budget": 27,
+   "en": "and your judgment."
+  },
+  {
+   "off": 37372,
+   "budget": 63,
+   "en": "The gauge shows your ＠赤kill￥rate＠白 on the Snatchers,",
+   "long": "The gauges below show the percentage￥of Snatchers ＠赤destroyed＠白,"
+  },
+  {
+   "off": 37435,
+   "budget": 77,
+   "en": "the ＠赤hit rate＠白 per shot fired,￥and ＠赤misfires＠白 on civilians.",
+   "long": "your ＠赤accuracy＠白 out of all shots￥fired, and the number of ＠赤civilians￥hit＠白."
+  },
+  {
+   "off": 37512,
+   "budget": 51,
+   "en": "Starting the ＠赤expert＠白 training￥program."
+  },
+  {
+   "off": 37563,
+   "budget": 31,
+   "en": "Let's begin shooting practice."
+  },
+  {
+   "off": 37594,
+   "budget": 49,
+   "en": "Running the ＠赤middle level＠白￥program.",
+   "long": "Starting the ＠赤intermediate＠白 training￥program."
+  },
+  {
+   "off": 37643,
+   "budget": 49,
+   "en": "Running the ＠赤novice level＠白 program.",
+   "long": "Starting the ＠赤beginner＠白 training￥program."
+  },
+  {
+   "off": 37692,
+   "budget": 45,
+   "en": "Let's begin ＠赤JUNKER's Eye＠白."
+  },
+  {
+   "off": 37737,
+   "budget": 11,
+   "en": "Keep going"
+  },
+  {
+   "off": 37748,
+   "budget": 11,
+   "en": "Stop drill",
+   "long": "Quit training"
+  },
+  {
+   "off": 37759,
+   "budget": 71,
+   "en": "Let's raise JUNKER's Eye to the￥＠赤highest level＠白."
+  },
+  {
+   "off": 37830,
+   "budget": 13,
+   "en": "Max level?",
+   "long": "The highest level?"
+  },
+  {
+   "off": 37843,
+   "budget": 31,
+   "en": "Yes. Beyond Runner level."
+  },
+  {
+   "off": 37874,
+   "budget": 17,
+   "en": "What changes?"
+  },
+  {
+   "off": 37891,
+   "budget": 81,
+   "en": "Let's raise JUNKER's Eye to the￥＠赤highest level＠白 again."
+  },
+  {
+   "off": 37972,
+   "budget": 61,
+   "en": "More Snatchers disguised as￥civilians will appear."
+  },
+  {
+   "off": 38033,
+   "budget": 17,
+   "en": "All right."
+  },
+  {
+   "off": 38050,
+   "budget": 43,
+   "en": "Take care not to shoot real￥civilians.",
+   "long": "Don't shoot the real civilians by￥mistake."
+  },
+  {
+   "off": 38093,
+   "budget": 71,
+   "en": "Let's raise JUNKER's Eye to￥＠赤intermediate＠白."
+  },
+  {
+   "off": 38164,
+   "budget": 29,
+   "en": "Intermediate? What changes?"
+  },
+  {
+   "off": 38193,
+   "budget": 81,
+   "en": "Let's raise JUNKER's Eye to￥＠赤intermediate＠白 again."
+  },
+  {
+   "off": 38274,
+   "budget": 43,
+   "en": "Snatchers disguised as￥civilians appear.",
+   "long": "Snatchers disguised as civilians￥will appear too."
+  },
+  {
+   "off": 38317,
+   "budget": 27,
+   "en": "The Computer room."
+  },
+  {
+   "off": 38344,
+   "budget": 61,
+   "en": "You can look up any information you￥need on Gaudi."
+  },
+  {
+   "off": 38405,
+   "budget": 13,
+   "en": "Computer"
+  },
+  {
+   "off": 38418,
+   "budget": 61,
+   "en": "You enter commands with a￥conventional keyboard or cursor."
+  },
+  {
+   "off": 38479,
+   "budget": 31,
+   "en": "Why not voice recognition?",
+   "long": "Why doesn't it use voice￥recognition?"
+  },
+  {
+   "off": 38510,
+   "budget": 77,
+   "en": "For security...￥and to run retina, print￥and temperature checks.",
+   "long": "For security. It also checks your￥retina, fingerprints, body￥temperature, and other readings as￥you use it."
+  },
+  {
+   "off": 38587,
+   "budget": 65,
+   "en": "Every interface in this room is only￥a tiny part of Gaudi.",
+   "long": "All the interfaces in this room are￥just a small part of Gaudi."
+  },
+  {
+   "off": 38652,
+   "budget": 35,
+   "en": "Gaudi is working normally."
+  },
+  {
+   "off": 38687,
+   "budget": 41,
+   "en": "We're the only ones in this room."
+  },
+  {
+   "off": 38728,
+   "budget": 93,
+   "en": "Gaudi, our RM-1013 artificial￥intelligence mainframe,"
+  },
+  {
+   "off": 38821,
+   "budget": 95,
+   "en": "is linked to Neo Kobe's neural￥computer system, Alphaville."
+  },
+  {
+   "off": 38916,
+   "budget": 35,
+   "en": "so any city data can be drawn.",
+   "long": "It can retrieve any information￥about the city."
+  },
+  {
+   "off": 38951,
+   "budget": 65,
+   "en": "Gaudi is particularly useful for￥looking up people and cases."
+  },
+  {
+   "off": 39016,
+   "budget": 7,
+   "en": "Usage",
+   "long": "How to use"
+  },
+  {
+   "off": 39023,
+   "budget": 77,
+   "en": "You're already registered as a￥JUNKER, Gillian. You can use it￥anytime."
+  },
+  {
+   "off": 39100,
+   "budget": 59,
+   "en": "Go ahead, you're registered.￥Use it whenever you like.",
+   "long": "Go ahead, Gillian. You're already￥registered and can use it anytime."
+  },
+  {
+   "off": 39159,
+   "budget": 13,
+   "en": "Use Gaudi"
+  },
+  {
+   "off": 39172,
+   "budget": 69,
+   "en": "The ID card proving all JUNKER￥authority. Keep it safe.",
+   "long": "This ID card certifies all your￥authority as a JUNKER. Keep it safe."
+  },
+  {
+   "off": 39241,
+   "budget": 35,
+   "en": "The money JUNKER issued you."
+  },
+  {
+   "off": 39276,
+   "budget": 35,
+   "en": "Candy found in Jean's pocket."
+  },
+  {
+   "off": 39311,
+   "budget": 79,
+   "en": "Gibson's memo on where the￥computer data on the Snatcher￥weakness is kept.",
+   "long": "Gibson's note tells us where he￥stored the computer data on the￥Snatchers' weakness."
+  },
+  {
+   "off": 39390,
+   "budget": 45,
+   "en": "What does \"Search the house!\" mean?"
+  },
+  {
+   "off": 39435,
+   "budget": 33,
+   "en": "The key to Gibson's desk drawer."
+  },
+  {
+   "off": 39468,
+   "budget": 33,
+   "en": "Quite an antique."
+  },
+  {
+   "off": 39501,
+   "budget": 37,
+   "en": "The chess piece Gibson carried."
+  },
+  {
+   "off": 39538,
+   "budget": 45,
+   "en": "The chess piece found in Gibson's￥coat."
+  },
+  {
+   "off": 39583,
+   "budget": 45,
+   "en": "The disk with the Snatchers'￥weakness.",
+   "long": "The disk with the Snatchers'￥weakness recorded on it."
+  },
+  {
+   "off": 39628,
+   "budget": 81,
+   "en": "Sunscreen used by the Snatchers, if￥Gibson was right."
+  },
+  {
+   "off": 39709,
+   "budget": 41,
+   "en": "And we confirmed it at Joy Division."
+  },
+  {
+   "off": 39750,
+   "budget": 71,
+   "en": "Plain sunblock.￥The seal carries the logo of the￥shop it came from.",
+   "long": "Ordinary sunscreen. The label has￥the logo of the store that sold it."
+  },
+  {
+   "off": 39821,
+   "budget": 51,
+   "en": "The costume mask we bought at Joy￥Division."
+  },
+  {
+   "off": 39872,
+   "budget": 21,
+   "en": "A Moai mask."
+  },
+  {
+   "off": 39893,
+   "budget": 25,
+   "en": "A Koitsu mask."
+  },
+  {
+   "off": 39918,
+   "budget": 41,
+   "en": "A photograph of Jean Jack Gibson."
+  },
+  {
+   "off": 39959,
+   "budget": 47,
+   "en": "A composite based on a witness's￥description."
+  },
+  {
+   "off": 40006,
+   "budget": 67,
+   "en": "Its embedded chip holds all your￥data, Gillian."
+  },
+  {
+   "off": 40073,
+   "budget": 49,
+   "en": "Case expenses are covered￥as work requires.",
+   "long": "In principle, there's no limit on￥legitimate investigation expenses."
+  },
+  {
+   "off": 40122,
+   "budget": 45,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "long": "The candy Jean gave to children at￥the orphanage."
+  },
+  {
+   "off": 40167,
+   "budget": 25,
+   "en": "A note Jean left behind."
+  },
+  {
+   "off": 40192,
+   "budget": 55,
+   "en": "Plain paper. It's certainly￥Jean's handwriting.",
+   "long": "It's ordinary paper, and definitely￥Jean's handwriting."
+  },
+  {
+   "off": 40247,
+   "budget": 35,
+   "en": "Key to Gibson's desk",
+   "long": "The key to Gibson's desk in the￥Squad room."
+  },
+  {
+   "off": 40282,
+   "budget": 83,
+   "en": "What does it open? Does anywhere￥still use a key like this?"
+  },
+  {
+   "off": 40365,
+   "budget": 57,
+   "en": "A wooden chess piece. The queen."
+  },
+  {
+   "off": 40422,
+   "budget": 37,
+   "en": "A carved wooden chess piece."
+  },
+  {
+   "off": 40459,
+   "budget": 45,
+   "en": "The disk holding Gibson's￥case data.",
+   "long": "The disk containing Gibson's￥investigation records."
+  },
+  {
+   "off": 40504,
+   "budget": 67,
+   "en": "The bottle says, \"JOY DIVISION. The￥store that has everything.\""
+  },
+  {
+   "off": 40571,
+   "budget": 49,
+   "en": "It was definitely sold at Joy￥Division."
+  },
+  {
+   "off": 40620,
+   "budget": 53,
+   "en": "Tracing where it was bought￥may give us a lead.",
+   "long": "We might find a lead by checking the￥store that sold it."
+  },
+  {
+   "off": 40673,
+   "budget": 63,
+   "en": "A fine special-effects mask by￥Rick Bakery, all the rage now.",
+   "long": "It's an intricate special-effects￥mask by the popular Rick Bakery."
+  },
+  {
+   "off": 40736,
+   "budget": 41,
+   "en": "A 2D composite photo made￥by Gaudi.",
+   "long": "A computer-generated 2D composite￥made by Gaudi."
+  },
+  {
+   "off": 40777,
+   "budget": 49,
+   "en": "Doesn't it fit the lock on Jean's￥drawer?"
+  },
+  {
+   "off": 40826,
+   "budget": 25,
+   "en": "Let's try the key."
+  },
+  {
+   "off": 40851,
+   "budget": 73,
+   "en": "Gibson took it from his chessboard￥at home. What could it mean?"
+  },
+  {
+   "off": 40924,
+   "budget": 37,
+   "en": "Jean liked riddles."
+  },
+  {
+   "off": 40961,
+   "budget": 31,
+   "en": "Is it hinting at something?",
+   "long": "Could it be a clue to something?"
+  },
+  {
+   "off": 40992,
+   "budget": 35,
+   "en": "It really does look like Ivan."
+  },
+  {
+   "off": 41027,
+   "budget": 53,
+   "en": "We can't blame Alphaville for￥matching him."
+  },
+  {
+   "off": 41080,
+   "budget": 47,
+   "en": "House? Come to think...￥I've no home either.",
+   "long": "Home? Come to think of it, I don't￥have a home to go back to."
+  },
+  {
+   "off": 41127,
+   "budget": 67,
+   "en": "Cheer up. You'll live with Jamie￥again someday."
+  },
+  {
+   "off": 41194,
+   "budget": 53,
+   "en": "A family. Maybe that doesn't suit a￥JUNKER."
+  },
+  {
+   "off": 41247,
+   "budget": 21,
+   "en": "Plenty left, surely?",
+   "long": "There's still plenty left, right?"
+  },
+  {
+   "off": 41268,
+   "budget": 47,
+   "en": "It's dropped a bit, with￥your food and drink.",
+   "long": "Your eating and drinking binges have￥made quite a dent."
+  },
+  {
+   "off": 41315,
+   "budget": 47,
+   "en": "Don't make it sound bad.￥They're expenses.",
+   "long": "Don't make it sound so bad. Those￥were necessary expenses."
+  },
+  {
+   "off": 41362,
+   "budget": 83,
+   "en": "Actually, (It's cash. If I keep￥quiet, nobody knows how much I've￥spent.)"
+  },
+  {
+   "off": 41445,
+   "budget": 19,
+   "en": "Did you say that?",
+   "long": "Did you say something?"
+  },
+  {
+   "off": 41464,
+   "budget": 21,
+   "en": "No. Never mind."
+  },
+  {
+   "off": 41485,
+   "budget": 37,
+   "en": "I'll save your progress now."
+  },
+  {
+   "off": 41524,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

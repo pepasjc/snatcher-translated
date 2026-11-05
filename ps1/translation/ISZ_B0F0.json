@@ -1,0 +1,1506 @@
+{
+ "file": "ISZ_B0F0.BIN",
+ "text_base": 4289,
+ "strings": [
+  {
+   "off": 4289,
+   "budget": 3,
+   "en": ""
+  },
+  {
+   "off": 4294,
+   "budget": 25,
+   "en": "Outside Outer Heaven.",
+   "long": "We're outside Outer Heaven."
+  },
+  {
+   "off": 4319,
+   "budget": 19,
+   "en": "You again?"
+  },
+  {
+   "off": 4338,
+   "budget": 101,
+   "en": "I'm sorry, but the owner has￥instructed me not to let you in."
+  },
+  {
+   "off": 4439,
+   "budget": 41,
+   "en": "Still holding a grudge about that,￥huh?"
+  },
+  {
+   "off": 4480,
+   "budget": 47,
+   "en": "Gillian, it can't be helped.￥Come back later.",
+   "long": "Nothing we can do, Gillian. Let's￥come back later."
+  },
+  {
+   "off": 4527,
+   "budget": 15,
+   "en": "Leaving, sir?",
+   "long": "Leaving already?"
+  },
+  {
+   "off": 4542,
+   "budget": 51,
+   "en": "Oh, it's that detective. Back again?"
+  },
+  {
+   "off": 4593,
+   "budget": 37,
+   "en": "Hello, sir. Back for another visit?"
+  },
+  {
+   "off": 4630,
+   "budget": 45,
+   "en": "No more scenes like last time,￥please...",
+   "long": "Please don't cause another scene￥like last time."
+  },
+  {
+   "off": 4675,
+   "budget": 5,
+   "en": "Move"
+  },
+  {
+   "off": 4680,
+   "budget": 9,
+   "en": "Get in",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 4689,
+   "budget": 21,
+   "en": "Do come again..."
+  },
+  {
+   "off": 4710,
+   "budget": 71,
+   "en": "Take off the mask, Gillian. People￥will laugh if you wear it outside."
+  },
+  {
+   "off": 4781,
+   "budget": 59,
+   "en": "Oh, right. There. It's off."
+  },
+  {
+   "off": 4840,
+   "budget": 19,
+   "en": "Gillian, the mask?"
+  },
+  {
+   "off": 4859,
+   "budget": 33,
+   "en": "I know. There, it's off."
+  },
+  {
+   "off": 4892,
+   "budget": 45,
+   "en": "Remember what happened at Joy￥Division."
+  },
+  {
+   "off": 4937,
+   "budget": 21,
+   "en": "Thoughtful of you."
+  },
+  {
+   "off": 4958,
+   "budget": 9,
+   "en": "Go in",
+   "long": "Go inside"
+  },
+  {
+   "off": 4967,
+   "budget": 19,
+   "en": "...You like it?",
+   "long": "You really like this, don't you?"
+  },
+  {
+   "off": 4986,
+   "budget": 51,
+   "en": "Don't reveal your identity again,￥Detective!"
+  },
+  {
+   "off": 5037,
+   "budget": 41,
+   "en": "Detective,￥keep your position quiet!",
+   "long": "Keep your identity to yourself,￥Detective."
+  },
+  {
+   "off": 5078,
+   "budget": 21,
+   "en": "One guest coming in!"
+  },
+  {
+   "off": 5099,
+   "budget": 91,
+   "en": "Wait! It's costume time. You'll need￥a disguise to enter."
+  },
+  {
+   "off": 5190,
+   "budget": 51,
+   "en": "You'll have to put on that mask￥you're carrying."
+  },
+  {
+   "off": 5241,
+   "budget": 103,
+   "en": "We only admit guests wearing masks￥from ＠赤Joy Division＠白."
+  },
+  {
+   "off": 5344,
+   "budget": 95,
+   "en": "Please buy a mask at Joy Division.￥We'll be happy to welcome you back."
+  },
+  {
+   "off": 5439,
+   "budget": 67,
+   "en": "Wait, detective!￥Trouble or not, wear a￥member's mask...",
+   "long": "Wait, Detective! Sorry, but you￥still need to wear a member's mask."
+  },
+  {
+   "off": 5506,
+   "budget": 51,
+   "en": "Please put on the mask you brought."
+  },
+  {
+   "off": 5557,
+   "budget": 73,
+   "en": "No! You'll have to buy a mask from￥Joy Division first."
+  },
+  {
+   "off": 5630,
+   "budget": 71,
+   "en": "No! You'll have to wear a Joy￥Division mask."
+  },
+  {
+   "off": 5701,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 5706,
+   "budget": 9,
+   "en": "Barker"
+  },
+  {
+   "off": 5715,
+   "budget": 29,
+   "en": "He wears a werewolf mask.",
+   "long": "He's wearing a werewolf mask."
+  },
+  {
+   "off": 5744,
+   "budget": 29,
+   "en": "It's like a film studio."
+  },
+  {
+   "off": 5773,
+   "budget": 45,
+   "en": "I can't see his face, but he's quite￥short."
+  },
+  {
+   "off": 5818,
+   "budget": 83,
+   "en": "This sort of thing is fine.￥Faces hidden, you'd never know￥if a friend went in.",
+   "long": "I like this. With everyone's faces￥hidden, I wouldn't even recognize￥someone I knew."
+  },
+  {
+   "off": 5901,
+   "budget": 9,
+   "en": "Poster"
+  },
+  {
+   "off": 5910,
+   "budget": 55,
+   "en": "\"Isabella Velvet Dance Show!\""
+  },
+  {
+   "off": 5965,
+   "budget": 65,
+   "en": "It's ＠赤Isabella Velvet＠白, the famous￥actress!"
+  },
+  {
+   "off": 6030,
+   "budget": 69,
+   "en": "A poster for the \"Isabella Velvet￥Dance Show.\""
+  },
+  {
+   "off": 6099,
+   "budget": 9,
+   "en": "Plate"
+  },
+  {
+   "off": 6108,
+   "budget": 71,
+   "en": "\"Costume Time Now.\" Looks like￥costumes are required."
+  },
+  {
+   "off": 6179,
+   "budget": 37,
+   "en": "The costume-time sign is up."
+  },
+  {
+   "off": 6216,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 6223,
+   "budget": 41,
+   "en": "The liveliest quarter in Neo Kobe.",
+   "long": "This is Neo Kobe's busiest￥entertainment district."
+  },
+  {
+   "off": 6264,
+   "budget": 69,
+   "en": "What a lively place. The doormen are￥fighting over customers."
+  },
+  {
+   "off": 6333,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 6340,
+   "budget": 29,
+   "en": "Hey, what are you doing!",
+   "long": "What do you think you're doing?!"
+  },
+  {
+   "off": 6369,
+   "budget": 31,
+   "en": "That's too much, detective.",
+   "long": "Being a detective doesn't give you￥the right to do that."
+  },
+  {
+   "off": 6400,
+   "budget": 29,
+   "en": "What have I done?"
+  },
+  {
+   "off": 6429,
+   "budget": 29,
+   "en": "Are you out of your mind?"
+  },
+  {
+   "off": 6458,
+   "budget": 29,
+   "en": "Hey! Stop that!"
+  },
+  {
+   "off": 6487,
+   "budget": 53,
+   "en": "It's an elaborate mask. It won't￥come off easily."
+  },
+  {
+   "off": 6540,
+   "budget": 55,
+   "en": "A proper mask, with appliances￥and gimmicks.",
+   "long": "A professional mask with prosthetics￥and mechanical effects."
+  },
+  {
+   "off": 6595,
+   "budget": 33,
+   "en": "A cut above the one I bought."
+  },
+  {
+   "off": 6628,
+   "budget": 31,
+   "en": "An original, for trade use.",
+   "long": "It's a custom mask for professional￥use."
+  },
+  {
+   "off": 6659,
+   "budget": 77,
+   "en": "A 200-degree holographic poster of￥Isabella Velvet. I'd like one."
+  },
+  {
+   "off": 6736,
+   "budget": 43,
+   "en": "Look, from above you see￥her cleavage.",
+   "long": "Look from above and you can see her￥cleavage."
+  },
+  {
+   "off": 6779,
+   "budget": 53,
+   "en": "Oh, you're right! I can see it!￥They're huge."
+  },
+  {
+   "off": 6832,
+   "budget": 89,
+   "en": "'At make time, guests must also￥wear make-up.￥Thank you for understanding.",
+   "long": "\"During costume hours, all guests￥are required to wear a disguise.￥Thank you for your cooperation.\""
+  },
+  {
+   "off": 6921,
+   "budget": 49,
+   "en": "It goes on, \"Ask our staff for￥details.\""
+  },
+  {
+   "off": 6970,
+   "budget": 41,
+   "en": "It lists the rules for costume￥hours."
+  },
+  {
+   "off": 7011,
+   "budget": 49,
+   "en": "Packed so close, no telling￥where a shop ends.",
+   "long": "The shops are so close together,￥it's hard to tell where one ends and￥the next begins."
+  },
+  {
+   "off": 7060,
+   "budget": 43,
+   "en": "Adult shops line both sides of the￥road.",
+   "long": "Adult clubs line both sides of the￥street."
+  },
+  {
+   "off": 7103,
+   "budget": 51,
+   "en": "The other shops are dull.￥And they fleece you...",
+   "long": "The other places are boring,￥honestly. And they overcharge."
+  },
+  {
+   "off": 7154,
+   "budget": 51,
+   "en": "We have something the others don't."
+  },
+  {
+   "off": 7205,
+   "budget": 17,
+   "en": "Illegal trade?",
+   "long": "Illegal business?"
+  },
+  {
+   "off": 7222,
+   "budget": 37,
+   "en": "We just skip official￥channels.",
+   "long": "We just don't use the usual supply￥channels."
+  },
+  {
+   "off": 7259,
+   "budget": 19,
+   "en": "That is illegal.",
+   "long": "That's what makes it illegal."
+  },
+  {
+   "off": 7278,
+   "budget": 5,
+   "en": "Ask"
+  },
+  {
+   "off": 7283,
+   "budget": 13,
+   "en": "About Gibson"
+  },
+  {
+   "off": 7296,
+   "budget": 17,
+   "en": "Who do you mean?"
+  },
+  {
+   "off": 7313,
+   "budget": 41,
+   "en": "I'm not out here every day."
+  },
+  {
+   "off": 7354,
+   "budget": 35,
+   "en": "Have you asked the staff inside?"
+  },
+  {
+   "off": 7389,
+   "budget": 35,
+   "en": "The staff inside might know."
+  },
+  {
+   "off": 7424,
+   "budget": 33,
+   "en": "Ask all you like, I don't know.",
+   "long": "You can keep asking, but I don't￥know."
+  },
+  {
+   "off": 7457,
+   "budget": 11,
+   "en": "Whale food",
+   "long": "Whale restaurant"
+  },
+  {
+   "off": 7468,
+   "budget": 29,
+   "en": "Whale?￥What do you mean?",
+   "long": "Whale meat? What are you talking￥about?"
+  },
+  {
+   "off": 7497,
+   "budget": 29,
+   "en": "I don't know what you mean."
+  },
+  {
+   "off": 7526,
+   "budget": 47,
+   "en": "Whale dishes...￥A tale from long ago?",
+   "long": "Whale meat? That was a long time￥ago, wasn't it?"
+  },
+  {
+   "off": 7573,
+   "budget": 61,
+   "en": "(Playing dumb. I just ate it in￥there.)"
+  },
+  {
+   "off": 7634,
+   "budget": 55,
+   "en": "How was it? Our whale meat is￥exceptional, isn't it?"
+  },
+  {
+   "off": 7689,
+   "budget": 55,
+   "en": "Freshest at the week's start.￥Do come again...",
+   "long": "It's freshest at the start of the￥week. Do come again."
+  },
+  {
+   "off": 7744,
+   "budget": 35,
+   "en": "Did you have plenty to eat?"
+  },
+  {
+   "off": 7779,
+   "budget": 31,
+   "en": "Did you try it?"
+  },
+  {
+   "off": 7810,
+   "budget": 25,
+   "en": "Do try it next time.",
+   "long": "You must try it next time."
+  },
+  {
+   "off": 7835,
+   "budget": 55,
+   "en": "I shouldn't say it loud, but￥our whale is the finest.",
+   "long": "Keep it quiet, but our whale meat is￥the best there is."
+  },
+  {
+   "off": 7890,
+   "budget": 51,
+   "en": "Real whale, poached from￥home seas and Antarctic.",
+   "long": "Real whales, poached from waters￥around Japan and as far away as the￥Antarctic Ocean."
+  },
+  {
+   "off": 7941,
+   "budget": 35,
+   "en": "Natural, with no gene splicing.",
+   "long": "Wild-caught. No genetic engineering."
+  },
+  {
+   "off": 7976,
+   "budget": 29,
+   "en": "Please come in and try some."
+  },
+  {
+   "off": 8005,
+   "budget": 15,
+   "en": "Outer Heaven"
+  },
+  {
+   "off": 8020,
+   "budget": 37,
+   "en": "Well? Quite a place, isn't it?"
+  },
+  {
+   "off": 8057,
+   "budget": 53,
+   "en": "Isabella dances until next week.￥Do come again.",
+   "long": "Isabella will be dancing through￥next week. Come again."
+  },
+  {
+   "off": 8110,
+   "budget": 55,
+   "en": "Yes, this is Outer Heaven."
+  },
+  {
+   "off": 8165,
+   "budget": 75,
+   "en": "As you can see, our special-effects￥costumes are the main attraction."
+  },
+  {
+   "off": 8240,
+   "budget": 17,
+   "en": "Joy Division"
+  },
+  {
+   "off": 8257,
+   "budget": 9,
+   "en": "The shop",
+   "long": "About the store"
+  },
+  {
+   "off": 8266,
+   "budget": 47,
+   "en": "A black market, they say,￥but reliable.",
+   "long": "People call it a black market, but￥they have a reliable supply network."
+  },
+  {
+   "off": 8313,
+   "budget": 77,
+   "en": "Buying a mask at Joy Division is a￥kind of membership system."
+  },
+  {
+   "off": 8390,
+   "budget": 51,
+   "en": "We used to sell masks here until￥recently."
+  },
+  {
+   "off": 8441,
+   "budget": 63,
+   "en": "Now they're only sold at Joy￥Division. It's nearby."
+  },
+  {
+   "off": 8504,
+   "budget": 9,
+   "en": "Location",
+   "long": "Store location"
+  },
+  {
+   "off": 8513,
+   "budget": 31,
+   "en": "I don't know any such place...",
+   "long": "I've never heard of that place."
+  },
+  {
+   "off": 8544,
+   "budget": 63,
+   "en": "You've seen Joy Division's￥commercials, haven't you?"
+  },
+  {
+   "off": 8607,
+   "budget": 63,
+   "en": "＠黄I'm sure they show the videophone￥number."
+  },
+  {
+   "off": 8670,
+   "budget": 45,
+   "en": "Why not call the shop and ask?"
+  },
+  {
+   "off": 8715,
+   "budget": 29,
+   "en": "I've been there."
+  },
+  {
+   "off": 8744,
+   "budget": 21,
+   "en": "Then that's simple.",
+   "long": "That makes things easier."
+  },
+  {
+   "off": 8765,
+   "budget": 25,
+   "en": "Yes, I already know."
+  },
+  {
+   "off": 8790,
+   "budget": 59,
+   "en": "I called them, but I haven't asked￥where they are yet."
+  },
+  {
+   "off": 8849,
+   "budget": 63,
+   "en": "You'll see their commercials in busy￥areas like Altamira."
+  },
+  {
+   "off": 8912,
+   "budget": 51,
+   "en": "(Playing dumb...￥ after talking about the shop.)",
+   "long": "(Playing dumb. He was just talking￥about the shop.)"
+  },
+  {
+   "off": 8963,
+   "budget": 89,
+   "en": "We have an exclusive deal with Joy￥Division. You must buy one of their￥masks"
+  },
+  {
+   "off": 9052,
+   "budget": 69,
+   "en": "to get in here. It maintains the￥club's standards."
+  },
+  {
+   "off": 9121,
+   "budget": 45,
+   "en": "But lately the fakes are a nuisance.",
+   "long": "But we've had trouble with￥counterfeits lately."
+  },
+  {
+   "off": 9166,
+   "budget": 9,
+   "en": "Cosplay"
+  },
+  {
+   "off": 9175,
+   "budget": 59,
+   "en": "Normally, only our staff wear the￥special makeup."
+  },
+  {
+   "off": 9234,
+   "budget": 59,
+   "en": "During costume hours, guests dress￥up too."
+  },
+  {
+   "off": 9293,
+   "budget": 77,
+   "en": "Our staff's makeup is done by the￥special-effects studio Hobibi Club."
+  },
+  {
+   "off": 9370,
+   "budget": 47,
+   "en": "To make dressing up easy for our￥guests,"
+  },
+  {
+   "off": 9417,
+   "budget": 55,
+   "en": "we ask for the special mask￥that proves membership.",
+   "long": "we ask them to use special masks￥that also prove membership."
+  },
+  {
+   "off": 9472,
+   "budget": 55,
+   "en": "We ask guests to use Joy Division￥masks."
+  },
+  {
+   "off": 9527,
+   "budget": 53,
+   "en": "It's a kind of costume party."
+  },
+  {
+   "off": 9580,
+   "budget": 47,
+   "en": "It's Halloween here all year round."
+  },
+  {
+   "off": 9627,
+   "budget": 31,
+   "en": "A parade of Konami folk.",
+   "long": "A whole parade of Konami characters."
+  },
+  {
+   "off": 9658,
+   "budget": 57,
+   "en": "Today's costume event has a special￥Konami theme."
+  },
+  {
+   "off": 9715,
+   "budget": 9,
+   "en": "Isabella"
+  },
+  {
+   "off": 9724,
+   "budget": 87,
+   "en": "The real Isabella. Seeing a star￥like her in person is a￥once-in-a-lifetime chance."
+  },
+  {
+   "off": 9811,
+   "budget": 97,
+   "en": "She performs a dance every hour. A￥sexy show, with no tricks."
+  },
+  {
+   "off": 9908,
+   "budget": 53,
+   "en": "She gave me her videophone number."
+  },
+  {
+   "off": 9961,
+   "budget": 41,
+   "en": "Really? Well, wonders never cease."
+  },
+  {
+   "off": 10002,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 10007,
+   "budget": 7,
+   "en": "Show"
+  },
+  {
+   "off": 10014,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 10029,
+   "budget": 57,
+   "en": "That card here...￥will only get in your way.",
+   "long": "Showing that card here will only￥hinder your investigation."
+  },
+  {
+   "off": 10086,
+   "budget": 43,
+   "en": "Don't show it inside again...￥detective.",
+   "long": "Please don't show it inside again,￥Detective."
+  },
+  {
+   "off": 10129,
+   "budget": 43,
+   "en": "Has something happened?"
+  },
+  {
+   "off": 10172,
+   "budget": 37,
+   "en": "Oh! You're a detective?"
+  },
+  {
+   "off": 10209,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 10216,
+   "budget": 41,
+   "en": "We don't accept tips. It's the￥rules...",
+   "long": "We don't accept tips. It's against￥the rules."
+  },
+  {
+   "off": 10257,
+   "budget": 31,
+   "en": "You can pay the bill later."
+  },
+  {
+   "off": 10288,
+   "budget": 5,
+   "en": "Drop",
+   "long": "Candy"
+  },
+  {
+   "off": 10293,
+   "budget": 37,
+   "en": "No thanks. I don't like sweets."
+  },
+  {
+   "off": 10330,
+   "budget": 7,
+   "en": "Proof",
+   "long": "Evidence"
+  },
+  {
+   "off": 10337,
+   "budget": 7,
+   "en": "Paper",
+   "long": "Scrap of paper"
+  },
+  {
+   "off": 10344,
+   "budget": 5,
+   "en": "Key"
+  },
+  {
+   "off": 10349,
+   "budget": 3,
+   "en": "Pc",
+   "long": "Chess piece"
+  },
+  {
+   "off": 10352,
+   "budget": 9,
+   "en": "Disk"
+  },
+  {
+   "off": 10361,
+   "budget": 11,
+   "en": "Sunblock"
+  },
+  {
+   "off": 10372,
+   "budget": 7,
+   "en": "Mask"
+  },
+  {
+   "off": 10379,
+   "budget": 43,
+   "en": "Well? You didn't stand out￥in there?",
+   "long": "See? You fitted right in inside,￥didn't you?"
+  },
+  {
+   "off": 10422,
+   "budget": 65,
+   "en": "A Joy Division mask. Very good. Come￥in."
+  },
+  {
+   "off": 10487,
+   "budget": 27,
+   "en": "Put it on before entering."
+  },
+  {
+   "off": 10514,
+   "budget": 5,
+   "en": "Pic",
+   "long": "Photo"
+  },
+  {
+   "off": 10519,
+   "budget": 15,
+   "en": "Gibson's photo"
+  },
+  {
+   "off": 10534,
+   "budget": 13,
+   "en": "......"
+  },
+  {
+   "off": 10547,
+   "budget": 27,
+   "en": "What about this man?"
+  },
+  {
+   "off": 10574,
+   "budget": 17,
+   "en": "Don't know him.",
+   "long": "I don't know him."
+  },
+  {
+   "off": 10591,
+   "budget": 17,
+   "en": "Montage photo"
+  },
+  {
+   "off": 10608,
+   "budget": 15,
+   "en": "Hmm."
+  },
+  {
+   "off": 10623,
+   "budget": 23,
+   "en": "I've never seen him."
+  },
+  {
+   "off": 10646,
+   "budget": 5,
+   "en": "Use"
+  },
+  {
+   "off": 10651,
+   "budget": 25,
+   "en": "You're wearing it now.",
+   "long": "You're already wearing it."
+  },
+  {
+   "off": 10676,
+   "budget": 33,
+   "en": "Right, on with the moai mask.",
+   "long": "All right, I'll put on the Moai￥mask."
+  },
+  {
+   "off": 10709,
+   "budget": 37,
+   "en": "Right, on with the mask of 'him'.",
+   "long": "All right, I'll put on the Koitsu￥mask."
+  },
+  {
+   "off": 10746,
+   "budget": 29,
+   "en": "It suits you, Detective."
+  },
+  {
+   "off": 10775,
+   "budget": 29,
+   "en": "It suits you, sir."
+  },
+  {
+   "off": 10804,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 10819,
+   "budget": 37,
+   "en": "Steady on.￥...We met her just now?",
+   "long": "Calm down. We just met her,￥remember?"
+  },
+  {
+   "off": 10856,
+   "budget": 97,
+   "en": "＠赤Isabella Velvet＠白? The twenty-first￥century's Marilyn Monroe? That￥Isabella? Wow!"
+  },
+  {
+   "off": 10953,
+   "budget": 71,
+   "en": "I can't believe we'll meet her. She￥rarely appears in public."
+  },
+  {
+   "off": 11024,
+   "budget": 41,
+   "en": "I don't know what you mean."
+  },
+  {
+   "off": 11065,
+   "budget": 25,
+   "en": "Part of your inquiry?",
+   "long": "Is that part of your investigation?"
+  },
+  {
+   "off": 11090,
+   "budget": 19,
+   "en": "Inquiry, is it?",
+   "long": "Is that part of the investigation￥too?"
+  },
+  {
+   "off": 11109,
+   "budget": 33,
+   "en": "What about it?"
+  },
+  {
+   "off": 11142,
+   "budget": 17,
+   "en": "What's this?"
+  },
+  {
+   "off": 11159,
+   "budget": 31,
+   "en": "We've been thrown out."
+  },
+  {
+   "off": 11190,
+   "budget": 63,
+   "en": "Sorry, friend.￥Ours is a shop where guests relax in￥peace.",
+   "long": "Sorry. Our customers come here to￥relax and enjoy themselves."
+  },
+  {
+   "off": 11253,
+   "budget": 69,
+   "en": "Nothing we can do. Let's wait until￥things settle down."
+  },
+  {
+   "off": 11322,
+   "budget": 45,
+   "en": "Ah, I went too far.￥Best come back later.",
+   "long": "Yes, I got carried away. We'll come￥back later."
+  },
+  {
+   "off": 11367,
+   "budget": 55,
+   "en": "Yeah... that was careless. I'll take￥the mask off.",
+   "long": "You're right. That was careless.￥I'll take off the mask."
+  },
+  {
+   "off": 11422,
+   "budget": 51,
+   "en": "True... that was rash.￥Let's come back later.",
+   "long": "You're right. That was careless.￥Let's come back later."
+  },
+  {
+   "off": 11473,
+   "budget": 19,
+   "en": "Come back never!",
+   "long": "Come back when hell freezes over!"
+  },
+  {
+   "off": 11492,
+   "budget": 31,
+   "en": "Enough! Get lost!"
+  },
+  {
+   "off": 11523,
+   "budget": 33,
+   "en": "What are you doing? Enough!",
+   "long": "What are you doing? Knock it off!"
+  },
+  {
+   "off": 11556,
+   "budget": 15,
+   "en": "You can't!!",
+   "long": "Absolutely not!"
+  },
+  {
+   "off": 11571,
+   "budget": 73,
+   "en": "The owner told me not to let you in."
+  },
+  {
+   "off": 11644,
+   "budget": 31,
+   "en": "This is awkward,￥detective.",
+   "long": "You're putting me in a difficult￥position, Detective."
+  },
+  {
+   "off": 11675,
+   "budget": 41,
+   "en": "I can't let you in."
+  },
+  {
+   "off": 11716,
+   "budget": 23,
+   "en": "I'm a JUNKER!"
+  },
+  {
+   "off": 11739,
+   "budget": 25,
+   "en": "Do you have a warrant?"
+  },
+  {
+   "off": 11764,
+   "budget": 17,
+   "en": "Th-that is..."
+  },
+  {
+   "off": 11781,
+   "budget": 53,
+   "en": "Do understand.￥Come again when this has died down.",
+   "long": "Please understand. Come back when￥things have settled down."
+  },
+  {
+   "off": 11834,
+   "budget": 69,
+   "en": "You're a JUNKER, Detective. You know￥how it is."
+  },
+  {
+   "off": 11903,
+   "budget": 81,
+   "en": "A Snatcher rumor can destroy a￥business in this city."
+  },
+  {
+   "off": 11984,
+   "budget": 57,
+   "en": "So please leave it for today. Come￥back another time."
+  },
+  {
+   "off": 12041,
+   "budget": 51,
+   "en": "Detective, I'd help you,￥but it isn't my call.",
+   "long": "I'd like to help your investigation,￥but it's not my decision."
+  },
+  {
+   "off": 12092,
+   "budget": 49,
+   "en": "I'm sorry, but I can't let you in."
+  },
+  {
+   "off": 12141,
+   "budget": 89,
+   "en": "If you take your mask off again,￥it'll upset the other guests. Please￥understand."
+  },
+  {
+   "off": 12230,
+   "budget": 5,
+   "en": "Beg",
+   "long": "Apologise"
+  },
+  {
+   "off": 12235,
+   "budget": 63,
+   "en": "I'm sorry. I admit I was careless.￥Will you let me in?"
+  },
+  {
+   "off": 12298,
+   "budget": 41,
+   "en": "I really need to get inside. Please?"
+  },
+  {
+   "off": 12339,
+   "budget": 19,
+   "en": "Come on, okay?",
+   "long": "Come on. Let me in."
+  },
+  {
+   "off": 12358,
+   "budget": 41,
+   "en": "Even so, I can't right now."
+  },
+  {
+   "off": 12399,
+   "budget": 35,
+   "en": "That guest from before is here...",
+   "long": "The guests from earlier are still￥here."
+  },
+  {
+   "off": 12434,
+   "budget": 51,
+   "en": "Not until they've calmed down."
+  },
+  {
+   "off": 12485,
+   "budget": 29,
+   "en": "Sir, you are persistent...",
+   "long": "You're repeating yourself, sir."
+  },
+  {
+   "off": 12514,
+   "budget": 63,
+   "en": "Enough! You just won't give up, will￥you? Stop it!"
+  },
+  {
+   "off": 12577,
+   "budget": 43,
+   "en": "Ask as often as you like. No means￥no!"
+  },
+  {
+   "off": 12620,
+   "budget": 27,
+   "en": "Nothing to say to you!",
+   "long": "I've got nothing to say to you!"
+  },
+  {
+   "off": 12647,
+   "budget": 45,
+   "en": "Go home now!￥You trouble the other guests.",
+   "long": "Go home! You're bothering the other￥guests."
+  },
+  {
+   "off": 12692,
+   "budget": 21,
+   "en": "...Come another day!",
+   "long": "Come back another time!"
+  },
+  {
+   "off": 12713,
+   "budget": 49,
+   "en": "Could you leave it for today, sir?"
+  },
+  {
+   "off": 12762,
+   "budget": 41,
+   "en": "I'm sorry, but would you please￥leave?"
+  },
+  {
+   "off": 12803,
+   "budget": 69,
+   "en": "This ID confirms all your authority￥as a JUNKER. Keep it safe."
+  },
+  {
+   "off": 12872,
+   "budget": 35,
+   "en": "The money issued to you by JUNKER."
+  },
+  {
+   "off": 12907,
+   "budget": 35,
+   "en": "The candy from Jean's pocket."
+  },
+  {
+   "off": 12942,
+   "budget": 79,
+   "en": "Gibson's memo on where the￥computer data on the Snatcher￥weakness is kept.",
+   "long": "Gibson's note tells us where to find￥his computer data on the Snatchers'￥weakness."
+  },
+  {
+   "off": 13021,
+   "budget": 47,
+   "en": "What does \"Search the house!\" mean?"
+  },
+  {
+   "off": 13068,
+   "budget": 33,
+   "en": "The key to Gibson's desk drawer."
+  },
+  {
+   "off": 13101,
+   "budget": 33,
+   "en": "Quite an antique."
+  },
+  {
+   "off": 13134,
+   "budget": 37,
+   "en": "The chess piece Gibson was carrying."
+  },
+  {
+   "off": 13171,
+   "budget": 45,
+   "en": "The chess piece we found in Gibson's￥coat."
+  },
+  {
+   "off": 13216,
+   "budget": 45,
+   "en": "The disk with the Snatchers'￥weakness.",
+   "long": "The disk containing the Snatchers'￥weakness."
+  },
+  {
+   "off": 13261,
+   "budget": 37,
+   "en": "A computer floppy disk."
+  },
+  {
+   "off": 13298,
+   "budget": 81,
+   "en": "Sunscreen used by the Snatchers, if￥Gibson was right."
+  },
+  {
+   "off": 13379,
+   "budget": 41,
+   "en": "And we confirmed it at Joy Division."
+  },
+  {
+   "off": 13420,
+   "budget": 71,
+   "en": "Plain sunblock.￥The seal carries the logo of the￥shop it came from.",
+   "long": "Ordinary sunscreen. The sticker has￥the logo of the shop that sold it."
+  },
+  {
+   "off": 13491,
+   "budget": 47,
+   "en": "A costume mask bought at Joy￥Division."
+  },
+  {
+   "off": 13538,
+   "budget": 21,
+   "en": "A Moai mask."
+  },
+  {
+   "off": 13559,
+   "budget": 25,
+   "en": "A Koitsu mask."
+  },
+  {
+   "off": 13584,
+   "budget": 41,
+   "en": "A photo of Jean Jack Gibson."
+  },
+  {
+   "off": 13625,
+   "budget": 47,
+   "en": "A montage built from a￥witness account.",
+   "long": "A composite portrait based on a￥witness's description."
+  },
+  {
+   "off": 13672,
+   "budget": 67,
+   "en": "Its built-in chip stores all your￥data, Gillian."
+  },
+  {
+   "off": 13739,
+   "budget": 49,
+   "en": "Case expenses are covered￥as work requires.",
+   "long": "In principle, there's no limit on￥expenses necessary for the￥investigation."
+  },
+  {
+   "off": 13788,
+   "budget": 45,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "long": "The candy Jean gave to the children￥at the orphanage."
+  },
+  {
+   "off": 13833,
+   "budget": 25,
+   "en": "The note Jean left."
+  },
+  {
+   "off": 13858,
+   "budget": 55,
+   "en": "Plain paper. It's certainly Jean's￥handwriting.",
+   "long": "It's on ordinary paper. Definitely￥Jean's handwriting."
+  },
+  {
+   "off": 13913,
+   "budget": 35,
+   "en": "Key to Gibson's squad desk.",
+   "long": "The key to Gibson's desk in the￥Squad room."
+  },
+  {
+   "off": 13948,
+   "budget": 83,
+   "en": "What does it open? Does anyone still￥use keys like this?"
+  },
+  {
+   "off": 14031,
+   "budget": 57,
+   "en": "A wooden chess piece. The queen."
+  },
+  {
+   "off": 14088,
+   "budget": 37,
+   "en": "A carved wooden chess piece."
+  },
+  {
+   "off": 14125,
+   "budget": 45,
+   "en": "The disk holding Gibson's￥case data.",
+   "long": "The disk containing Gibson's￥investigation data."
+  },
+  {
+   "off": 14170,
+   "budget": 37,
+   "en": "A five-inch floppy disk."
+  },
+  {
+   "off": 14207,
+   "budget": 67,
+   "en": "The bottle says, \"JOY DIVISION. The￥store that has everything.\""
+  },
+  {
+   "off": 14274,
+   "budget": 49,
+   "en": "It certainly looks like Joy Division￥sold it."
+  },
+  {
+   "off": 14323,
+   "budget": 53,
+   "en": "Tracing where it was bought￥may give us a lead.",
+   "long": "Finding out where it was bought￥might give us a lead."
+  },
+  {
+   "off": 14376,
+   "budget": 63,
+   "en": "A fine special-effects mask by￥Rick Bakery, all the rage now.",
+   "long": "A detailed special-effects mask by￥Rick Bakery. They're very popular￥now."
+  },
+  {
+   "off": 14439,
+   "budget": 41,
+   "en": "A 2D composite photo by Gaudi.",
+   "long": "A computer-generated 2D portrait￥made by Gaudi."
+  },
+  {
+   "off": 14480,
+   "budget": 73,
+   "en": "Gibson took it from his chessboard￥at home. What could it mean?"
+  },
+  {
+   "off": 14553,
+   "budget": 37,
+   "en": "Jean liked riddles."
+  },
+  {
+   "off": 14590,
+   "budget": 31,
+   "en": "Is it hinting at something?",
+   "long": "Could it be a clue to something?"
+  },
+  {
+   "off": 14621,
+   "budget": 35,
+   "en": "He really does look like Ivan."
+  },
+  {
+   "off": 14656,
+   "budget": 53,
+   "en": "We can hardly blame Alphaville's￥matching system."
+  },
+  {
+   "off": 14709,
+   "budget": 47,
+   "en": "House? Come to think...￥I've no home either.",
+   "long": "Home. Come to think of it, I don't￥have a home to return to."
+  },
+  {
+   "off": 14756,
+   "budget": 67,
+   "en": "Cheer up. You'll live with Jamie￥again someday."
+  },
+  {
+   "off": 14823,
+   "budget": 53,
+   "en": "A family life might not suit a￥JUNKER anyway."
+  },
+  {
+   "off": 14876,
+   "budget": 29,
+   "en": "Still some left, surely?",
+   "long": "We've still got some money, right?"
+  },
+  {
+   "off": 14905,
+   "budget": 61,
+   "en": "It dropped a good deal with your￥eating and drinking.",
+   "long": "You've spent quite a lot eating and￥drinking here, Gillian."
+  },
+  {
+   "off": 14966,
+   "budget": 39,
+   "en": "Did I eat that much? Wasn't it you?"
+  },
+  {
+   "off": 15005,
+   "budget": 31,
+   "en": "Hmph! I can't eat anything."
+  },
+  {
+   "off": 15036,
+   "budget": 41,
+   "en": "Learn to take the blame￥sometimes.",
+   "long": "Learn to take the blame for your￥partner once in a while."
+  },
+  {
+   "off": 15077,
+   "budget": 45,
+   "en": "My job is to report my partner's￥mistakes."
+  },
+  {
+   "off": 15122,
+   "budget": 65,
+   "en": "Are you sending this conversation to￥the Chief too?"
+  },
+  {
+   "off": 15187,
+   "budget": 21,
+   "en": "Who knows?"
+  },
+  {
+   "off": 15208,
+   "budget": 23,
+   "en": "＠赤(Why, you...!)"
+  },
+  {
+   "off": 15231,
+   "budget": 97,
+   "en": "You should have kept your identity￥secret. Too late now that you've￥shown it."
+  },
+  {
+   "off": 15328,
+   "budget": 37,
+   "en": "I just wanted to scare him a little."
+  },
+  {
+   "off": 15365,
+   "budget": 51,
+   "en": "Too late now that you've shown it."
+  },
+  {
+   "off": 15416,
+   "budget": 49,
+   "en": "Whatever you do, don't show that￥here, Gillian."
+  },
+  {
+   "off": 15465,
+   "budget": 35,
+   "en": "I know. We're undercover."
+  },
+  {
+   "off": 15500,
+   "budget": 55,
+   "en": "No matter what happens. Don't do￥anything rash."
+  },
+  {
+   "off": 15555,
+   "budget": 13,
+   "en": "Videophone"
+  },
+  {
+   "off": 15568,
+   "budget": 33,
+   "en": "I'm making a video call, Metal."
+  },
+  {
+   "off": 15601,
+   "budget": 37,
+   "en": "Gillian, you still have the mask on.",
+   "long": "You're still wearing the mask,￥Gillian."
+  },
+  {
+   "off": 15638,
+   "budget": 49,
+   "en": "Oh, right. There. That's better."
+  },
+  {
+   "off": 15687,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 15698,
+   "budget": 37,
+   "en": "I'll save your progress now."
+  },
+  {
+   "off": 15737,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

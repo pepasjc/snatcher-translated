@@ -1,0 +1,1213 @@
+{
+ "scene": "B190",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B190_f35_0",
+   "line": 267,
+   "act": 2,
+   "sector": 380,
+   "offset": 2,
+   "size": 19203,
+   "b0": 0,
+   "b1": 19203,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Hey, it's you!",
+   "rows": [
+    "Hey, it's you!"
+   ],
+   "rows_plain": [
+    "Hey, it's you!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B190_f36_0",
+   "line": 268,
+   "act": 2,
+   "sector": 388,
+   "offset": 613,
+   "size": 24974,
+   "b0": 0,
+   "b1": 24974,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "You recognized me, huh?",
+   "rows": [
+    "You recognized me, huh?"
+   ],
+   "rows_plain": [
+    "You recognized me, huh?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_f37_0",
+   "line": 269,
+   "act": 2,
+   "sector": 399,
+   "offset": 23,
+   "size": 25109,
+   "b0": 0,
+   "b1": 25109,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Napoleon, what's with that outfit?",
+   "rows": [
+    "Napoleon, what's with that",
+    "outfit?"
+   ],
+   "rows_plain": [
+    "Napoleon, what's with that outfit?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_f38_0",
+   "line": 270,
+   "act": 2,
+   "sector": 409,
+   "offset": 1892,
+   "size": 148971,
+   "b0": 0,
+   "b1": 73008,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "What do you mean, what's with it? I'm quitting. This work's too dangerous.",
+   "rows": [
+    "What do you mean, what's",
+    "with it? I'm quitting. This",
+    "work's too dangerous."
+   ],
+   "rows_plain": [
+    "What do you mean, what's with it?",
+    "I'm quitting. This work's too",
+    "dangerous."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_f38_0b",
+   "line": 270,
+   "act": 2,
+   "sector": 409,
+   "offset": 1892,
+   "size": 148971,
+   "b0": 73008,
+   "b1": 148971,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "I think someone's after me. I'll be killed just like Gibson.",
+   "rows": [
+    "I think someone's after me.",
+    "I'll be killed just like",
+    "Gibson."
+   ],
+   "rows_plain": [
+    "I think someone's after me. I'll be",
+    "killed just like Gibson."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_f39_0",
+   "line": 271,
+   "act": 2,
+   "sector": 473,
+   "offset": 2127,
+   "size": 35185,
+   "b0": 0,
+   "b1": 35185,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "I've had enough. Let's call it quits.",
+   "rows": [
+    "I've had enough. Let's call",
+    "it quits."
+   ],
+   "rows_plain": [
+    "I've had enough. Let's call it",
+    "quits."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B190_f40_0",
+   "line": 272,
+   "act": 2,
+   "sector": 489,
+   "offset": 128,
+   "size": 35331,
+   "b0": 0,
+   "b1": 35331,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Wait, Napoleon. I'll protect you from the Snatchers.",
+   "rows": [
+    "Wait, Napoleon. I'll protect",
+    "you from the Snatchers."
+   ],
+   "rows_plain": [
+    "Wait, Napoleon. I'll protect you",
+    "from the Snatchers."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_f41_0",
+   "line": 273,
+   "act": 2,
+   "sector": 504,
+   "offset": 599,
+   "size": 46909,
+   "b0": 0,
+   "b1": 46909,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "We're both targets. Watch out for the Snatchers.",
+   "rows": [
+    "We're both targets. Watch",
+    "out for the Snatchers."
+   ],
+   "rows_plain": [
+    "We're both targets. Watch out for",
+    "the Snatchers."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_f42_0",
+   "line": 274,
+   "act": 2,
+   "sector": 524,
+   "offset": 1028,
+   "size": 43047,
+   "b0": 0,
+   "b1": 43047,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "Here, take this. A Christmas present.",
+   "rows": [
+    "Here, take this. A Christmas",
+    "present."
+   ],
+   "rows_plain": [
+    "Here, take this. A Christmas",
+    "present."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_f43_0",
+   "line": 275,
+   "act": 2,
+   "sector": 542,
+   "offset": 2243,
+   "size": 15973,
+   "b0": 0,
+   "b1": 15973,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What? Tissues?",
+   "rows": [
+    "What? Tissues?"
+   ],
+   "rows_plain": [
+    "What? Tissues?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_f44_0",
+   "line": 276,
+   "act": 2,
+   "sector": 549,
+   "offset": 1948,
+   "size": 26968,
+   "b0": 0,
+   "b1": 26968,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "See you. Merry Christmas!",
+   "rows": [
+    "See you. Merry Christmas!"
+   ],
+   "rows_plain": [
+    "See you. Merry Christmas!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_f45_0",
+   "line": 277,
+   "act": 2,
+   "sector": 561,
+   "offset": 1028,
+   "size": 20953,
+   "b0": 0,
+   "b1": 20953,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Napoleon has gone home.",
+   "rows": [
+    "Napoleon has gone home."
+   ],
+   "rows_plain": [
+    "Napoleon has gone home."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B190_c4f46_0",
+   "line": 278,
+   "act": 2,
+   "sector": 570,
+   "offset": 1065,
+   "size": 56604,
+   "b0": 0,
+   "b1": 56604,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Can't blame him for being scared. We got the answers we needed, anyway.",
+   "rows": [
+    "Can't blame him for being",
+    "scared. We got the answers",
+    "we needed, anyway."
+   ],
+   "rows_plain": [
+    "Can't blame him for being scared. We",
+    "got the answers we needed, anyway."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f47_0",
+   "line": 279,
+   "act": 2,
+   "sector": 594,
+   "offset": 1893,
+   "size": 26196,
+   "b0": 0,
+   "b1": 26196,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "There's an ad on the back of the tissues.",
+   "rows": [
+    "There's an ad on the back of",
+    "the tissues."
+   ],
+   "rows_plain": [
+    "There's an ad on the back of the",
+    "tissues."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f48_0",
+   "line": 280,
+   "act": 2,
+   "sector": 606,
+   "offset": 201,
+   "size": 53669,
+   "b0": 0,
+   "b1": 53669,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "An ad for Outer Heaven! He does this too?",
+   "rows": [
+    "An ad for Outer Heaven! He",
+    "does this too?"
+   ],
+   "rows_plain": [
+    "An ad for Outer Heaven! He does this",
+    "too?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f49_0",
+   "line": 281,
+   "act": 2,
+   "sector": 629,
+   "offset": 418,
+   "size": 19573,
+   "b0": 0,
+   "b1": 19573,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Oh, there's an udon stand!",
+   "rows": [
+    "Oh, there's an udon stand!"
+   ],
+   "rows_plain": [
+    "Oh, there's an udon stand!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f50_0",
+   "line": 282,
+   "act": 2,
+   "sector": 637,
+   "offset": 1399,
+   "size": 12305,
+   "b0": 0,
+   "b1": 12305,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Let's get something to eat.",
+   "rows": [
+    "Let's get something to eat."
+   ],
+   "rows_plain": [
+    "Let's get something to eat."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f51_0",
+   "line": 283,
+   "act": 2,
+   "sector": 642,
+   "offset": 2084,
+   "size": 36936,
+   "b0": 0,
+   "b1": 36936,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "No seats free. We'll have to wait a little.",
+   "rows": [
+    "No seats free. We'll have to",
+    "wait a little."
+   ],
+   "rows_plain": [
+    "No seats free. We'll have to wait a",
+    "little."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f52_0",
+   "line": 284,
+   "act": 2,
+   "sector": 658,
+   "offset": 1836,
+   "size": 44298,
+   "b0": 0,
+   "b1": 44298,
+   "speaker": "Cook",
+   "colour": 7,
+   "en": "Seats open! Come on in! Welcome!",
+   "rows": [
+    "Seats open! Come on in!",
+    "Welcome!"
+   ],
+   "rows_plain": [
+    "Seats open! Come on in! Welcome!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f53_0",
+   "line": 285,
+   "act": 2,
+   "sector": 677,
+   "offset": 1978,
+   "size": 25644,
+   "b0": 0,
+   "b1": 25644,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Looks like a seat opened up. Let's go.",
+   "rows": [
+    "Looks like a seat opened up.",
+    "Let's go."
+   ],
+   "rows_plain": [
+    "Looks like a seat opened up. Let's",
+    "go."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f54_0",
+   "line": 286,
+   "act": 2,
+   "sector": 688,
+   "offset": 2058,
+   "size": 23569,
+   "b0": 0,
+   "b1": 23569,
+   "speaker": "Cook",
+   "colour": 7,
+   "en": "Come on, what'll you have?",
+   "rows": [
+    "Come on, what'll you have?"
+   ],
+   "rows_plain": [
+    "Come on, what'll you have?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f55_0",
+   "line": 287,
+   "act": 2,
+   "sector": 699,
+   "offset": 63,
+   "size": 12537,
+   "b0": 0,
+   "b1": 12537,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Give me four of those.",
+   "rows": [
+    "Give me four of those."
+   ],
+   "rows_plain": [
+    "Give me four of those."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f56_0",
+   "line": 288,
+   "act": 2,
+   "sector": 704,
+   "offset": 980,
+   "size": 17887,
+   "b0": 0,
+   "b1": 17887,
+   "speaker": "Cook",
+   "colour": 7,
+   "en": "Two is plenty.",
+   "rows": [
+    "Two is plenty."
+   ],
+   "rows_plain": [
+    "Two is plenty."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f57_0",
+   "line": 289,
+   "act": 2,
+   "sector": 712,
+   "offset": 275,
+   "size": 10274,
+   "b0": 0,
+   "b1": 10274,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "No, four.",
+   "rows": [
+    "No, four."
+   ],
+   "rows_plain": [
+    "No, four."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f58_0",
+   "line": 290,
+   "act": 2,
+   "sector": 716,
+   "offset": 1253,
+   "size": 20039,
+   "b0": 0,
+   "b1": 20039,
+   "speaker": "Cook",
+   "colour": 7,
+   "en": "Two is plenty!",
+   "rows": [
+    "Two is plenty!"
+   ],
+   "rows_plain": [
+    "Two is plenty!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f59_0",
+   "line": 291,
+   "act": 2,
+   "sector": 725,
+   "offset": 376,
+   "size": 8798,
+   "b0": 0,
+   "b1": 8798,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "And udon!",
+   "rows": [
+    "And udon!"
+   ],
+   "rows_plain": [
+    "And udon!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f60_0",
+   "line": 292,
+   "act": 2,
+   "sector": 728,
+   "offset": 2202,
+   "size": 21058,
+   "b0": 0,
+   "b1": 21058,
+   "speaker": "Cook",
+   "colour": 7,
+   "en": "Come on, be reasonable!",
+   "rows": [
+    "Come on, be reasonable!"
+   ],
+   "rows_plain": [
+    "Come on, be reasonable!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f61_0",
+   "line": 293,
+   "act": 2,
+   "sector": 738,
+   "offset": 20,
+   "size": 29749,
+   "b0": 0,
+   "b1": 29749,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "My wife used to say I ate a lot.",
+   "rows": [
+    "My wife used to say I ate a",
+    "lot."
+   ],
+   "rows_plain": [
+    "My wife used to say I ate a lot."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f62_0",
+   "line": 294,
+   "act": 2,
+   "sector": 750,
+   "offset": 1881,
+   "size": 60232,
+   "b0": 0,
+   "b1": 21701,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian, hurry up and eat. We should go.",
+   "rows": [
+    "Gillian, hurry up and eat.",
+    "We should go."
+   ],
+   "rows_plain": [
+    "Gillian, hurry up and eat. We should",
+    "go."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f62_0b",
+   "line": 294,
+   "act": 2,
+   "sector": 750,
+   "offset": 1881,
+   "size": 60232,
+   "b0": 41040,
+   "b1": 60232,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Come on, hurry. Come on.",
+   "rows": [
+    "Come on, hurry. Come on."
+   ],
+   "rows_plain": [
+    "Come on, hurry. Come on."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f63_0",
+   "line": 295,
+   "act": 2,
+   "sector": 776,
+   "offset": 1689,
+   "size": 24756,
+   "b0": 0,
+   "b1": 24756,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "All right. Let's go.",
+   "rows": [
+    "All right. Let's go."
+   ],
+   "rows_plain": [
+    "All right. Let's go."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f64_0",
+   "line": 296,
+   "act": 2,
+   "sector": 787,
+   "offset": 881,
+   "size": 50678,
+   "b0": 0,
+   "b1": 50678,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "You again! I knew you'd come back.",
+   "rows": [
+    "You again! I knew you'd come",
+    "back."
+   ],
+   "rows_plain": [
+    "You again! I knew you'd come back."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f65_0",
+   "line": 297,
+   "act": 2,
+   "sector": 809,
+   "offset": 431,
+   "size": 11810,
+   "b0": 0,
+   "b1": 11810,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Not because I wanted to.",
+   "rows": [
+    "Not because I wanted to."
+   ],
+   "rows_plain": [
+    "Not because I wanted to."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f66_0",
+   "line": 298,
+   "act": 2,
+   "sector": 814,
+   "offset": 621,
+   "size": 43390,
+   "b0": 0,
+   "b1": 43390,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "Coming back proves you believe me. What is it today?",
+   "rows": [
+    "Coming back proves you",
+    "believe me. What is it",
+    "today?"
+   ],
+   "rows_plain": [
+    "Coming back proves you believe me.",
+    "What is it today?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f67_0",
+   "line": 299,
+   "act": 2,
+   "sector": 832,
+   "offset": 2179,
+   "size": 10021,
+   "b0": 0,
+   "b1": 10021,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "A missing person.",
+   "rows": [
+    "A missing person."
+   ],
+   "rows_plain": [
+    "A missing person."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f68_0",
+   "line": 300,
+   "act": 2,
+   "sector": 837,
+   "offset": 580,
+   "size": 49359,
+   "b0": 0,
+   "b1": 49359,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "Who? Do you have a photo, a retinal pattern, an ID, anything?",
+   "rows": [
+    "Who? Do you have a photo, a",
+    "retinal pattern, an ID,",
+    "anything?"
+   ],
+   "rows_plain": [
+    "Who? Do you have a photo, a retinal",
+    "pattern, an ID, anything?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f69_0",
+   "line": 301,
+   "act": 2,
+   "sector": 858,
+   "offset": 1135,
+   "size": 54082,
+   "b0": 0,
+   "b1": 54082,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I have her data. I'll transfer it to your terminal.",
+   "rows": [
+    "I have her data. I'll",
+    "transfer it to your",
+    "terminal."
+   ],
+   "rows_plain": [
+    "I have her data. I'll transfer it to",
+    "your terminal."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f70_0",
+   "line": 302,
+   "act": 2,
+   "sector": 881,
+   "offset": 1765,
+   "size": 9566,
+   "b0": 0,
+   "b1": 9566,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Just a little.",
+   "rows": [
+    "Just a little."
+   ],
+   "rows_plain": [
+    "Just a little."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f71_0",
+   "line": 303,
+   "act": 2,
+   "sector": 885,
+   "offset": 2035,
+   "size": 68387,
+   "b0": 0,
+   "b1": 68387,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "Got it. Catherine, is it? Let me read her fortune.",
+   "rows": [
+    "Got it. Catherine, is it?",
+    "Let me read her fortune."
+   ],
+   "rows_plain": [
+    "Got it. Catherine, is it? Let me",
+    "read her fortune."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f72_0",
+   "line": 304,
+   "act": 2,
+   "sector": 915,
+   "offset": 702,
+   "size": 12273,
+   "b0": 0,
+   "b1": 12273,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal, let's just leave!",
+   "rows": [
+    "Metal, let's just leave!"
+   ],
+   "rows_plain": [
+    "Metal, let's just leave!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f73_0",
+   "line": 305,
+   "act": 2,
+   "sector": 920,
+   "offset": 1355,
+   "size": 52402,
+   "b0": 0,
+   "b1": 52402,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "Quiet! Hnnnnngh! I have it.",
+   "rows": [
+    "Quiet! Hnnnnngh! I have it."
+   ],
+   "rows_plain": [
+    "Quiet! Hnnnnngh! I have it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f74_0",
+   "line": 306,
+   "act": 2,
+   "sector": 943,
+   "offset": 305,
+   "size": 11989,
+   "b0": 0,
+   "b1": 11989,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Where is she?",
+   "rows": [
+    "Where is she?"
+   ],
+   "rows_plain": [
+    "Where is she?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f75_0",
+   "line": 307,
+   "act": 2,
+   "sector": 948,
+   "offset": 674,
+   "size": 47754,
+   "b0": 0,
+   "b1": 47754,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "Right near you. She's very close.",
+   "rows": [
+    "Right near you. She's very",
+    "close."
+   ],
+   "rows_plain": [
+    "Right near you. She's very close."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f76_0",
+   "line": 308,
+   "act": 2,
+   "sector": 968,
+   "offset": 1948,
+   "size": 8583,
+   "b0": 0,
+   "b1": 8583,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Don't talk nonsense!",
+   "rows": [
+    "Don't talk nonsense!"
+   ],
+   "rows_plain": [
+    "Don't talk nonsense!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f77_0",
+   "line": 309,
+   "act": 2,
+   "sector": 972,
+   "offset": 1235,
+   "size": 14982,
+   "b0": 0,
+   "b1": 14982,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "I'm not lying!",
+   "rows": [
+    "I'm not lying!"
+   ],
+   "rows_plain": [
+    "I'm not lying!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f78_0",
+   "line": 310,
+   "act": 2,
+   "sector": 978,
+   "offset": 2273,
+   "size": 10333,
+   "b0": 0,
+   "b1": 10333,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What proof?",
+   "rows": [
+    "What proof?"
+   ],
+   "rows_plain": [
+    "What proof?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f79_0",
+   "line": 311,
+   "act": 2,
+   "sector": 983,
+   "offset": 986,
+   "size": 133519,
+   "b0": 0,
+   "b1": 47854,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "Would you believe me if I put it this way?",
+   "rows": [
+    "Would you believe me if I",
+    "put it this way?"
+   ],
+   "rows_plain": [
+    "Would you believe me if I put it",
+    "this way?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f79_0b",
+   "line": 311,
+   "act": 2,
+   "sector": 983,
+   "offset": 986,
+   "size": 133519,
+   "b0": 47854,
+   "b1": 103679,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "A few hours ago, this girl used a public terminal near your apartment.",
+   "rows": [
+    "A few hours ago, this girl",
+    "used a public terminal near",
+    "your apartment."
+   ],
+   "rows_plain": [
+    "A few hours ago, this girl used a",
+    "public terminal near your apartment."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c4f79_0bb",
+   "line": 311,
+   "act": 2,
+   "sector": 983,
+   "offset": 986,
+   "size": 133519,
+   "b0": 103679,
+   "b1": 133519,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "There's a record of it.",
+   "rows": [
+    "There's a record of it."
+   ],
+   "rows_plain": [
+    "There's a record of it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c5f1",
+   "line": 312,
+   "act": 2,
+   "sector": 1040,
+   "offset": 2037,
+   "size": 49237,
+   "b0": 0,
+   "b1": 49237,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Could that be when Catherine called headquarters?",
+   "rows": [
+    "Could that be when Catherine",
+    "called headquarters?"
+   ],
+   "rows_plain": [
+    "Could that be when Catherine called",
+    "headquarters?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c5f2",
+   "line": 313,
+   "act": 2,
+   "sector": 1062,
+   "offset": 146,
+   "size": 27224,
+   "b0": 0,
+   "b1": 27224,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Where did you get that information?",
+   "rows": [
+    "Where did you get that",
+    "information?"
+   ],
+   "rows_plain": [
+    "Where did you get that information?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c5f3",
+   "line": 314,
+   "act": 2,
+   "sector": 1073,
+   "offset": 1806,
+   "size": 30730,
+   "b0": 0,
+   "b1": 30730,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "The phone company. Satisfied?",
+   "rows": [
+    "The phone company.",
+    "Satisfied?"
+   ],
+   "rows_plain": [
+    "The phone company. Satisfied?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c5f4",
+   "line": 315,
+   "act": 2,
+   "sector": 1087,
+   "offset": 0,
+   "size": 39141,
+   "b0": 0,
+   "b1": 39141,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I'm impressed. Better informed than headquarters!",
+   "rows": [
+    "I'm impressed. Better",
+    "informed than headquarters!"
+   ],
+   "rows_plain": [
+    "I'm impressed. Better informed than",
+    "headquarters!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c5f5",
+   "line": 316,
+   "act": 2,
+   "sector": 1103,
+   "offset": 1957,
+   "size": 61954,
+   "b0": 0,
+   "b1": 61954,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "Fortune telling is all in the mind! Hmph! Come again!",
+   "rows": [
+    "Fortune telling is all in",
+    "the mind! Hmph! Come again!"
+   ],
+   "rows_plain": [
+    "Fortune telling is all in the mind!",
+    "Hmph! Come again!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c5f6",
+   "line": 317,
+   "act": 2,
+   "sector": 1130,
+   "offset": 1163,
+   "size": 36857,
+   "b0": 0,
+   "b1": 36857,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Some fortune teller. She's a hacker selling information!",
+   "rows": [
+    "Some fortune teller. She's a",
+    "hacker selling information!"
+   ],
+   "rows_plain": [
+    "Some fortune teller. She's a hacker",
+    "selling information!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B190_c5f7",
+   "line": 318,
+   "act": 2,
+   "sector": 1146,
+   "offset": 836,
+   "size": 34605,
+   "b0": 0,
+   "b1": 34605,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "She may be more reliable than Napoleon.",
+   "rows": [
+    "She may be more reliable",
+    "than Napoleon."
+   ],
+   "rows_plain": [
+    "She may be more reliable than",
+    "Napoleon."
+   ],
+   "enabled": true
+  }
+ ]
+}

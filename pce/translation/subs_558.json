@@ -1,0 +1,485 @@
+{
+ "a0": {
+  "speaker": "Napoleon",
+  "en": "Sit down, Gillian. It's safer in a crowd.",
+  "ps1": [
+   "B1D0_c5f78_0"
+  ],
+  "cards": [
+   "Sit down, Gillian.|It's safer in a|crowd."
+  ],
+  "layout": "face"
+ },
+ "a1": {
+  "speaker": "Gillian",
+  "en": "You really fooled me, playing two parts like that.",
+  "ps1": [
+   "B1D0_c5f79_0"
+  ],
+  "cards": [
+   "You really fooled|me, playing two|parts like that."
+  ],
+  "layout": "face"
+ },
+ "a2": {
+  "speaker": "Napoleon",
+  "en": "Action!",
+  "ps1": [
+   "B1D0_c5f80_0"
+  ],
+  "cards": [
+   "Action!"
+  ],
+  "layout": "face"
+ },
+ "a3": {
+  "speaker": "Napoleon",
+  "en": "Bless you.",
+  "ps1": [
+   "B1D0_c5f81_0"
+  ],
+  "cards": [
+   "Bless you."
+  ],
+  "layout": "face"
+ },
+ "a4": {
+  "speaker": "Napoleon",
+  "en": "I wasn't trying to fool you. Being an informant is a dangerous business. You never reveal your identity.",
+  "ps1": [
+   "B1D0_c5f82_0",
+   "B1D0_c5f82_0b",
+   "B1D0_c5f82_0c"
+  ],
+  "cards": [
+   "I wasn't trying to|fool you. Being an|informant is a|dangerous business.",
+   "You never reveal|your identity."
+  ],
+  "layout": "face",
+  "turns": [
+   8.66
+  ]
+ },
+ "a5": {
+  "speaker": "Gillian",
+  "en": "Still, I feel cheated. I asked you where Outer Heaven was, and you worked there all along.",
+  "ps1": [
+   "B1D0_c5f83_0",
+   "B1D0_c5f83_0b"
+  ],
+  "cards": [
+   "Still, I feel|cheated.",
+   "I asked you where|Outer Heaven was,|and you worked|there all along."
+  ],
+  "layout": "face",
+  "turns": [
+   2.44
+  ]
+ },
+ "a6": {
+  "speaker": "Napoleon",
+  "en": "I was the one who was surprised. I didn't know Gibson had been to the club. I was off that day.",
+  "ps1": [
+   "B1D0_c5f84_0",
+   "B1D0_c5f84_0b",
+   "B1D0_c5f84_0c"
+  ],
+  "cards": [
+   "I was the one who|was surprised.",
+   "I didn't know|Gibson had been to|the club. I was off|that day."
+  ],
+  "layout": "face",
+  "turns": [
+   3.18
+  ]
+ },
+ "a7": {
+  "speaker": "Gillian",
+  "en": "It's not costume time tonight. Take off the mask, Napoleon. Talking to a werewolf makes me nervous.",
+  "ps1": [
+   "B1D0_c5f85_0",
+   "B1D0_c5f85_0b"
+  ],
+  "cards": [
+   "It's not costume|time tonight. Take|off the mask,|Napoleon.",
+   "Talking to a|werewolf makes me|nervous."
+  ],
+  "layout": "face",
+  "turns": [
+   4.42
+  ]
+ },
+ "a8": {
+  "speaker": "Napoleon",
+  "en": "Well, if you don't mind.",
+  "ps1": [
+   "B1D0_c5f86_0"
+  ],
+  "cards": [
+   "Well, if you don't|mind."
+  ],
+  "layout": "face"
+ },
+ "a9": {
+  "speaker": "Napoleon",
+  "en": "Whew! This full-face mask gets pretty stuffy.",
+  "ps1": [
+   "B1D0_c5f87_0"
+  ],
+  "cards": [
+   "Whew! This|full-face mask gets|pretty stuffy."
+  ],
+  "layout": "face"
+ },
+ "aa": {
+  "speaker": "Gillian",
+  "en": "Maybe you should've left it on.",
+  "ps1": [
+   "B1D0_c5f88_0"
+  ],
+  "cards": [
+   "Maybe you should've|left it on."
+  ],
+  "layout": "face"
+ },
+ "ab": {
+  "speaker": "Napoleon",
+  "en": "What? How did you figure it out?",
+  "ps1": [
+   "B1D0_c5f89_0",
+   "B1D0_c5f89_0b"
+  ],
+  "cards": [
+   "What? How did you|figure it out?"
+  ],
+  "layout": "face"
+ },
+ "ac": {
+  "speaker": "Gillian",
+  "en": "That werewolf in the message. KTT would never use a picture that tasteless. And your sneeze clinched it.",
+  "ps1": [
+   "B1D0_f1_0",
+   "B1D0_f1_0b",
+   "B1D0_f1_0b2"
+  ],
+  "cards": [
+   "That werewolf in|the message.",
+   "KTT would never use|a picture that|tasteless. And your|sneeze clinched it."
+  ],
+  "layout": "face",
+  "turns": [
+   2.52
+  ]
+ },
+ "ad.2": {
+  "speaker": "Napoleon",
+  "en": "My sneeze, huh? Want to know why they call me Napoleon?",
+  "ps1": [
+   "B1D0_f2_0"
+  ],
+  "cards": [
+   "My sneeze, huh?|Want to know why|they call me|Napoleon?"
+  ],
+  "layout": "face"
+ },
+ "ae.2": {
+  "speaker": "Napoleon",
+  "en": "I can't handle winter. Napoleon Bonaparte sent his Grand Army into Russia in 1812. The snow forced him into a disastrous retreat.",
+  "ps1": [
+   "B1D0_f3_0",
+   "B1D0_f3_0b",
+   "B1D0_f3_0c"
+  ],
+  "cards": [
+   "I can't handle|winter.",
+   "Napoleon Bonaparte|sent his Grand Army|into Russia in|1812.",
+   "The snow forced him|into a disastrous|retreat."
+  ],
+  "layout": "face",
+  "turns": [
+   2.28,
+   5.68
+  ]
+ },
+ "af": {
+  "speaker": "Gillian",
+  "en": "I see.",
+  "ps1": [
+   "B1D0_f4_0"
+  ],
+  "cards": [
+   "I see."
+  ],
+  "layout": "face"
+ },
+ "b0": {
+  "speaker": "Napoleon",
+  "en": "But my sneezing is caused by Snow Cedar pollen.",
+  "ps1": [
+   "B1D0_f5_0"
+  ],
+  "cards": [
+   "But my sneezing is|caused by Snow|Cedar pollen."
+  ],
+  "layout": "face"
+ },
+ "b1": {
+  "speaker": "Napoleon",
+  "en": "So, what do you want?",
+  "ps1": [
+   "B1D0_f6_0"
+  ],
+  "cards": [
+   "So, what do you|want?"
+  ],
+  "layout": "face"
+ },
+ "b2": {
+  "speaker": "Gillian",
+  "en": "I have a question.",
+  "ps1": [
+   "B1D0_f7_0"
+  ],
+  "cards": [
+   "I have a question."
+  ],
+  "layout": "face"
+ },
+ "b3": {
+  "speaker": "Napoleon",
+  "en": "Go ahead.",
+  "ps1": [
+   "B1D0_f8_0"
+  ],
+  "cards": [
+   "Go ahead."
+  ],
+  "layout": "face"
+ },
+ "b4": {
+  "speaker": "Gillian",
+  "en": "That's it! Benson!",
+  "ps1": [
+   "B1D0_f9_0"
+  ],
+  "cards": [
+   "That's it! Benson!"
+  ]
+ },
+ "b5": {
+  "speaker": "Gillian",
+  "en": "Benson? Could it be Chief Benson Cunningham?",
+  "ps1": [
+   "B1D0_f10_0"
+  ],
+  "cards": [
+   "Benson? Could it be|Chief Benson|Cunningham?"
+  ]
+ },
+ "b6": {
+  "speaker": "Metal Gear",
+  "en": "Or our mechanic. His full name is Harry Benson.",
+  "ps1": [
+   "B1D0_f11_0"
+  ],
+  "cards": [
+   "Or our mechanic.|His full name is|Harry Benson."
+  ]
+ },
+ "b7": {
+  "speaker": "Gillian",
+  "en": "One of those two is a Snatcher. They've even infiltrated JUNKER headquarters.",
+  "ps1": [
+   "B1D0_f12_0",
+   "B1D0_f12_0b"
+  ],
+  "cards": [
+   "One of those two is|a Snatcher. They've|even infiltrated|JUNKER headquarters."
+  ]
+ },
+ "b8": {
+  "speaker": "Metal Gear",
+  "en": "Now we know how they anticipated our every move. We send all our investigation data to headquarters.",
+  "ps1": [
+   "B1D0_f13_0",
+   "B1D0_f13_0b"
+  ],
+  "cards": [
+   "Now we know how|they anticipated|our every move.",
+   "We send all our|investigation data|to headquarters."
+  ],
+  "turns": [
+   5.0
+  ]
+ },
+ "b9": {
+  "speaker": "Gillian",
+  "en": "Metal, stop sending data to headquarters. Now!",
+  "ps1": [
+   "B1D0_f14_0"
+  ],
+  "cards": [
+   "Metal, stop sending|data to|headquarters. Now!"
+  ]
+ },
+ "ba": {
+  "speaker": "Metal Gear",
+  "en": "I'm doing it now. I've disconnected the automatic transfer routine. No more data will be sent.",
+  "ps1": [
+   "B1D0_f15_0",
+   "B1D0_f15_0b",
+   "B1D0_f15_0b2"
+  ],
+  "cards": [
+   "I'm doing it now.|I've disconnected|the automatic|transfer routine.",
+   "No more data will|be sent."
+  ],
+  "turns": [
+   5.66
+  ]
+ },
+ "bb": {
+  "speaker": "Gillian",
+  "en": "A Snatcher at JUNKER headquarters. Damn it!",
+  "ps1": [
+   "B1D0_f16_0"
+  ],
+  "cards": [
+   "A Snatcher at|JUNKER|headquarters. Damn|it!"
+  ]
+ },
+ "bc": {
+  "speaker": "Metal Gear",
+  "en": "We need proof of which one is a Snatcher, as soon as possible.",
+  "ps1": [
+   "B1D0_f17_0",
+   "B1D0_f17_0b"
+  ],
+  "cards": [
+   "We need proof of|which one is a|Snatcher, as soon|as possible."
+  ]
+ },
+ "bd": {
+  "speaker": "Gillian",
+  "en": "Metal, hurry to JUNKER HQ!",
+  "ps1": [
+   "B1D0_f18_0"
+  ],
+  "cards": [
+   "Metal, hurry to|JUNKER HQ!"
+  ]
+ },
+ "be": {
+  "speaker": "Napoleon",
+  "en": "See you, JUNKER. Today's information is on me. Take care, Gillian. Don't let those Snatchers get you.",
+  "ps1": [
+   "B1D0_f19_0",
+   "B1D0_f19_0b",
+   "B1D0_f19_0c"
+  ],
+  "cards": [
+   "See you, JUNKER.|Today's information|is on me. Take|care, Gillian.",
+   "Don't let those|Snatchers get you."
+  ],
+  "turns": [
+   7.98
+  ]
+ },
+ "bf": {
+  "speaker": "Napoleon",
+  "en": "I'll lie low for a while. You're my best source of income.",
+  "ps1": [
+   "B1D0_f20_0"
+  ],
+  "cards": [
+   "I'll lie low for a|while. You're my|best source of|income."
+  ]
+ },
+ "c0": {
+  "speaker": "Gillian",
+  "en": "You take care too, Napoleon. Dead men don't sneeze.",
+  "ps1": [
+   "B1D0_f21_0"
+  ],
+  "cards": [
+   "You take care too,|Napoleon. Dead men|don't sneeze."
+  ]
+ },
+ "c1": {
+  "speaker": "Napoleon",
+  "en": "What're you on about?",
+  "ps1": [],
+  "cards": [
+   "What're you on|about?"
+  ]
+ },
+ "c2": {
+  "speaker": "Gillian",
+  "en": "See you, Napoleon. Let's go, Metal.",
+  "ps1": [
+   "B1D0_f23_0",
+   "B1D0_f23_0b"
+  ],
+  "cards": [
+   "See you, Napoleon.|Let's go, Metal."
+  ]
+ },
+ "dd": {
+  "speaker": "Metal Gear",
+  "en": "Beryllium is Be.",
+  "ps1": [
+   "B1D0_f34_0"
+  ],
+  "cards": [
+   "Beryllium is Be."
+  ],
+  "layout": "plain"
+ },
+ "de": {
+  "speaker": "Metal Gear",
+  "en": "Nitrogen is N.",
+  "ps1": [
+   "B1D0_f35_0"
+  ],
+  "cards": [
+   "Nitrogen is N."
+  ],
+  "layout": "plain"
+ },
+ "df": {
+  "speaker": "Metal Gear",
+  "en": "Sulfur is S.",
+  "ps1": [
+   "B1D0_f36_0"
+  ],
+  "cards": [
+   "Sulfur is S."
+  ],
+  "layout": "plain"
+ },
+ "e0": {
+  "speaker": "Metal Gear",
+  "en": "Oxygen is O.",
+  "ps1": [
+   "B1D0_f37_0"
+  ],
+  "cards": [
+   "Oxygen is O."
+  ],
+  "layout": "plain"
+ },
+ "e1": {
+  "speaker": "Gillian",
+  "en": "So it's Benson. The name Benson was hidden in this record.",
+  "ps1": [
+   "B1D0_f38_0",
+   "B1D0_f38_0b"
+  ],
+  "cards": [
+   "So it's Benson. The|name Benson was|hidden in this|record."
+  ]
+ },
+ "_unmatched": {
+  "ad.1": "0.14 XAS_M000.XA[937]"
+ }
+}

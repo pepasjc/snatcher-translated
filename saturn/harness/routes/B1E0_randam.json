@@ -1,0 +1,15 @@
+{
+ "scene": "B1E0",
+ "note": "Queen Hospital with Randam (guides/ps1.txt, the second QUEENS HOSPITAL; the PS1's B1E0_random.json): Move > Go inside, Look/Investigate/Talk, the switches, Move > Door 3, Use Metal Gear > Turn on light - then the light puzzle (light_to) in a second route.",
+ "actions": [
+  {"wait_menu": true, "patience": 8000},
+  {"path": ["Move", "Go inside"]},
+  {"save": "B1E0_r_lobby"},
+  {"sweep": ["Look", "Investigate", "Talk"], "rounds": 1, "avoid": ["Go out"]},
+  {"sweep": ["Press switch"], "rounds": 1},
+  {"path": ["Move", "Dr 3|Door 3"]},
+  {"path": ["Use Metal Gear", "Turn on light"], "optional": true},
+  {"save": "B1E0_r_dr3"},
+  {"idle": 200}
+ ]
+}

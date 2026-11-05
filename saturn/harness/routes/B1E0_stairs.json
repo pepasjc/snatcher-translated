@@ -1,0 +1,228 @@
+{
+ "scene": "B1E0",
+ "note": "from B1E0_r_stairs (Door 3 swept, the light near the vase): the vase button, the stairs, down to the basement.",
+ "actions": [
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "light_to": [
+    82,
+    66
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "light_to": [
+    84,
+    66
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "light_to": [
+    82,
+    68
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "light_to": [
+    84,
+    68
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "light_to": [
+    80,
+    66
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "light_to": [
+    82,
+    64
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "light_to": [
+    86,
+    66
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "light_to": [
+    84,
+    64
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "save": "B1E0_r_stairs2"
+  },
+  {
+   "sweep": [
+    "Peek",
+    "Look",
+    "Investigate",
+    "Look around",
+    "Talk"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out",
+    "Save",
+    "Turn on light",
+    "Go downstairs"
+   ]
+  },
+  {
+   "path": [
+    "Investigate",
+    "Stairs",
+    "Go downstairs"
+   ],
+   "patience": 1800
+  },
+  {
+   "path": [
+    "Throw rock"
+   ],
+   "optional": true,
+   "patience": 2400
+  },
+  {
+   "path": [
+    "Throw rock"
+   ],
+   "optional": true,
+   "patience": 2400
+  },
+  {
+   "path": [
+    "Throw rock"
+   ],
+   "optional": true,
+   "patience": 2400
+  },
+  {
+   "wait_menu": true,
+   "patience": 12000
+  },
+  {
+   "save": "B200_arrive"
+  },
+  {
+   "idle": 300
+  }
+ ]
+}

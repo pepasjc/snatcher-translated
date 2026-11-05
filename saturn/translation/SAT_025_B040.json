@@ -1,0 +1,4418 @@
+{
+ "file": "DATA.BIN[25]",
+ "entry": 25,
+ "text_base": 3936,
+ "twins": [
+  "B040"
+ ],
+ "strings": [
+  {
+   "off": 3936,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 3941,
+   "budget": 13,
+   "en": "Search name",
+   "src": "B040:3423",
+   "carry": "exact"
+  },
+  {
+   "off": 3954,
+   "budget": 3,
+   "en": "Ａ",
+   "src": "B040:3436",
+   "carry": "exact",
+   "note": "name-search section: the typed first letters routed here (A)",
+   "initials": true
+  },
+  {
+   "off": 3957,
+   "budget": 17,
+   "en": "NO SUCH PERSON",
+   "src": "B040:3439",
+   "carry": "exact"
+  },
+  {
+   "off": 3974,
+   "budget": 7,
+   "en": "",
+   "src": "B040:3456",
+   "carry": "exact",
+   "note": "name-search key: ALICE",
+   "key": true,
+   "long": "ＡＬＩＣＥ"
+  },
+  {
+   "off": 3981,
+   "budget": 15,
+   "en": "",
+   "src": "B040:3463",
+   "carry": "exact",
+   "note": "name-search key: ALICEGIBSON",
+   "key": true,
+   "long": "ＡＬＩＣＥＧＩＢＳＯＮ"
+  },
+  {
+   "off": 3996,
+   "budget": 9,
+   "en": "",
+   "src": "B040:3478",
+   "carry": "exact",
+   "note": "name-search key: AIZAWA",
+   "key": true,
+   "long": "ＡＩＺＡＷＡ"
+  },
+  {
+   "off": 4005,
+   "budget": 17,
+   "en": "",
+   "src": "B040:3487",
+   "carry": "exact",
+   "note": "name-search key: AIZAWAMASAYUKI",
+   "key": true,
+   "long": "ＡＩＺＡＷＡＭＡＳＡＹＵＫＩ"
+  },
+  {
+   "off": 4022,
+   "budget": 7,
+   "en": "",
+   "src": "B040:3504",
+   "carry": "exact",
+   "note": "name-search key: ASATA",
+   "key": true,
+   "long": "ＡＳＡＴＡ"
+  },
+  {
+   "off": 4029,
+   "budget": 31,
+   "en": "＠緑It's Asada, not Asata.",
+   "src": "B040:3511",
+   "carry": "exact"
+  },
+  {
+   "off": 4060,
+   "budget": 15,
+   "en": "",
+   "src": "B040:3542",
+   "carry": "exact",
+   "note": "name-search key: ASATAHIROYUKI",
+   "key": true,
+   "long": "ＡＳＡＴＡＨＩＲＯＹＵＫＩ"
+  },
+  {
+   "off": 4075,
+   "budget": 7,
+   "en": "",
+   "src": "B040:3557",
+   "carry": "exact",
+   "note": "name-search key: ASADA",
+   "key": true,
+   "long": "ＡＳＡＤＡ"
+  },
+  {
+   "off": 4082,
+   "budget": 15,
+   "en": "",
+   "src": "B040:3564",
+   "carry": "exact",
+   "note": "name-search key: ASADAHIROYUKI",
+   "key": true,
+   "long": "ＡＳＡＤＡＨＩＲＯＹＵＫＩ"
+  },
+  {
+   "off": 4097,
+   "budget": 11,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＡＳＡＤＥＥ",
+   "note": "name-search key: ASADEE"
+  },
+  {
+   "off": 4108,
+   "budget": 7,
+   "en": "",
+   "src": "B040:3579",
+   "carry": "exact",
+   "note": "name-search key: ASAMI",
+   "key": true,
+   "long": "ＡＳＡＭＩ"
+  },
+  {
+   "off": 4115,
+   "budget": 13,
+   "en": "",
+   "src": "B040:3586",
+   "carry": "exact",
+   "note": "name-search key: ASAMIJUN",
+   "key": true,
+   "long": "ＡＳＡＭＩＪＵＮ"
+  },
+  {
+   "off": 4128,
+   "budget": 15,
+   "en": "",
+   "src": "B040:3599",
+   "carry": "exact",
+   "note": "name-search key: ARAKIKAZUNORI",
+   "key": true,
+   "long": "ＡＲＡＫＩＫＡＺＵＮＯＲＩ"
+  },
+  {
+   "off": 4143,
+   "budget": 33,
+   "en": "＠緑It's Kazuki, not Kazunori.",
+   "src": "B040:3614",
+   "carry": "exact"
+  },
+  {
+   "off": 4176,
+   "budget": 7,
+   "en": "",
+   "src": "B040:3647",
+   "carry": "exact",
+   "note": "name-search key: ARAKI",
+   "key": true,
+   "long": "ＡＲＡＫＩ"
+  },
+  {
+   "off": 4183,
+   "budget": 13,
+   "en": "",
+   "src": "B040:3654",
+   "carry": "exact",
+   "note": "name-search key: ARAKIKAZUKI",
+   "key": true,
+   "long": "ＡＲＡＫＩＫＡＺＵＫＩ"
+  },
+  {
+   "off": 4196,
+   "budget": 9,
+   "en": "ＡＮＤＯ",
+   "src": "B040:3667",
+   "carry": "exact",
+   "note": "name-search key: ANDO",
+   "key": true
+  },
+  {
+   "off": 4205,
+   "budget": 17,
+   "en": "",
+   "src": "B040:3676",
+   "carry": "exact",
+   "note": "name-search key: ANDOTAKAYUKI",
+   "key": true,
+   "long": "ＡＮＤＯＴＡＫＡＹＵＫＩ"
+  },
+  {
+   "off": 4222,
+   "budget": 7,
+   "en": "",
+   "src": "B040:3693",
+   "carry": "exact",
+   "note": "name-search key: ADACHI",
+   "key": true,
+   "long": "ＡＤＡＣＨＩ"
+  },
+  {
+   "off": 4229,
+   "budget": 9,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＡＭＩＳＨＩＭＡ",
+   "note": "name-search key: AMISHIMA"
+  },
+  {
+   "off": 4238,
+   "budget": 9,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＡＭＩＤＯＲＩ",
+   "note": "name-search key: AMIDORI"
+  },
+  {
+   "off": 4247,
+   "budget": 17,
+   "en": "ＡＣＴ１",
+   "carry": "new",
+   "key": true,
+   "note": "name-search key: ACT1"
+  },
+  {
+   "off": 4264,
+   "budget": 11,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＡＫＩＲＯＰＩＴＯ",
+   "note": "name-search key: AKIROPITO"
+  },
+  {
+   "off": 4275,
+   "budget": 9,
+   "en": "ＩＯ",
+   "src": "B040:3700",
+   "carry": "exact",
+   "note": "name-search section: the typed first letters routed here (IO)",
+   "initials": true
+  },
+  {
+   "off": 4284,
+   "budget": 19,
+   "en": "",
+   "src": "B040:3709",
+   "carry": "exact",
+   "note": "name-search key: ISABELLAVELVET",
+   "key": true,
+   "long": "ＩＳＡＢＥＬＬＡＶＥＬＶＥＴ"
+  },
+  {
+   "off": 4303,
+   "budget": 9,
+   "en": "",
+   "src": "B040:3728",
+   "carry": "exact",
+   "note": "name-search key: ISABELLA",
+   "key": true,
+   "long": "ＩＳＡＢＥＬＬＡ"
+  },
+  {
+   "off": 4312,
+   "budget": 17,
+   "en": "",
+   "src": "B040:3737",
+   "carry": "exact",
+   "note": "name-search key: IVANRODRIGUEZ",
+   "key": true,
+   "long": "ＩＶＡＮＲＯＤＲＩＧＵＥＺ"
+  },
+  {
+   "off": 4329,
+   "budget": 7,
+   "en": "",
+   "src": "B040:3754",
+   "carry": "exact",
+   "note": "name-search key: IVAN",
+   "key": true,
+   "long": "ＩＶＡＮ"
+  },
+  {
+   "off": 4336,
+   "budget": 11,
+   "en": "",
+   "src": "B040:3761",
+   "carry": "exact",
+   "note": "name-search key: OLDMAN",
+   "key": true,
+   "long": "ＯＬＤＭＡＮ"
+  },
+  {
+   "off": 4347,
+   "budget": 9,
+   "en": "",
+   "src": "B040:3772",
+   "carry": "exact",
+   "note": "name-search key: INOGUCHI",
+   "key": true,
+   "long": "ＩＮＯＧＵＣＨＩ"
+  },
+  {
+   "off": 4356,
+   "budget": 15,
+   "en": "",
+   "src": "B040:3781",
+   "carry": "exact",
+   "note": "name-search key: INOGUCHIISAO",
+   "key": true,
+   "long": "ＩＮＯＧＵＣＨＩＩＳＡＯ"
+  },
+  {
+   "off": 4371,
+   "budget": 9,
+   "en": "",
+   "src": "B040:3796",
+   "carry": "exact",
+   "note": "name-search key: INOUE",
+   "key": true,
+   "long": "ＩＮＯＵＥ"
+  },
+  {
+   "off": 4380,
+   "budget": 15,
+   "en": "",
+   "src": "B040:3805",
+   "carry": "exact",
+   "note": "name-search key: INOUEKIKUKO",
+   "key": true,
+   "long": "ＩＮＯＵＥＫＩＫＵＫＯ"
+  },
+  {
+   "off": 4395,
+   "budget": 9,
+   "en": "",
+   "src": "B040:3820",
+   "carry": "exact",
+   "note": "name-search key: IWASAKI",
+   "key": true,
+   "long": "ＩＷＡＳＡＫＩ"
+  },
+  {
+   "off": 4404,
+   "budget": 17,
+   "en": "",
+   "src": "B040:3829",
+   "carry": "exact",
+   "note": "name-search key: IWASAKIKAZUHIRO",
+   "key": true,
+   "long": "ＩＷＡＳＡＫＩＫＡＺＵＨＩＲＯ"
+  },
+  {
+   "off": 4421,
+   "budget": 7,
+   "en": "",
+   "src": "B040:3846",
+   "carry": "exact",
+   "note": "name-search key: OMEKO",
+   "key": true,
+   "long": "ＯＭＥＫＯ"
+  },
+  {
+   "off": 4428,
+   "budget": 9,
+   "en": "",
+   "src": "B040:3853",
+   "carry": "exact",
+   "note": "name-search key: OMANKO",
+   "key": true,
+   "long": "ＯＭＡＮＫＯ"
+  },
+  {
+   "off": 4437,
+   "budget": 9,
+   "en": "",
+   "src": "B040:3862",
+   "carry": "exact",
+   "note": "name-search key: OCONNOR",
+   "key": true,
+   "long": "ＯＣＯＮＮＯＲ"
+  },
+  {
+   "off": 4446,
+   "budget": 19,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＩＴＳＮＯＴＭＹＢＵＧ",
+   "note": "name-search key: ITSNOTMYBUG"
+  },
+  {
+   "off": 4465,
+   "budget": 9,
+   "en": "Ｃ",
+   "initials": true,
+   "note": "name-search section: the typed first letters routed here (C)"
+  },
+  {
+   "off": 4474,
+   "budget": 19,
+   "en": "",
+   "src": "B040:3882",
+   "carry": "exact",
+   "note": "name-search key: CATHERINEGIBSON",
+   "key": true,
+   "long": "ＣＡＴＨＥＲＩＮＥＧＩＢＳＯＮ"
+  },
+  {
+   "off": 4493,
+   "budget": 11,
+   "en": "",
+   "src": "B040:3901",
+   "carry": "exact",
+   "note": "name-search key: CATHERINE",
+   "key": true,
+   "long": "ＣＡＴＨＥＲＩＮＥ"
+  },
+  {
+   "off": 4504,
+   "budget": 19,
+   "en": "",
+   "src": "B040:3912",
+   "carry": "exact",
+   "note": "name-search key: CATHERINEGIBSEN",
+   "key": true,
+   "long": "ＣＡＴＨＥＲＩＮＥＧＩＢＳＥＮ"
+  },
+  {
+   "off": 4523,
+   "budget": 13,
+   "en": "ＣＨＩＥＦ",
+   "src": "B040:3931",
+   "carry": "exact",
+   "note": "name-search key: CHIEF",
+   "key": true
+  },
+  {
+   "off": 4536,
+   "budget": 9,
+   "en": "",
+   "src": "B040:3962",
+   "carry": "exact",
+   "note": "name-search key: KIYOHARA",
+   "key": true,
+   "long": "ＫＩＹＯＨＡＲＡ"
+  },
+  {
+   "off": 4545,
+   "budget": 17,
+   "en": "",
+   "src": "B040:3971",
+   "carry": "exact",
+   "note": "name-search key: KIYOHARAYOHEI",
+   "key": true,
+   "long": "ＫＩＹＯＨＡＲＡＹＯＨＥＩ"
+  },
+  {
+   "off": 4562,
+   "budget": 5,
+   "en": "",
+   "src": "B040:4056",
+   "carry": "exact",
+   "note": "name-search key: KIDA",
+   "key": true,
+   "long": "ＫＩＤＡ"
+  },
+  {
+   "off": 4567,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4061",
+   "carry": "exact",
+   "note": "name-search key: KIDASUN",
+   "key": true,
+   "long": "ＫＩＤＡＳＵＮ"
+  },
+  {
+   "off": 4576,
+   "budget": 7,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＫＩＭＥＲＡ",
+   "note": "name-search key: KIMERA"
+  },
+  {
+   "off": 4583,
+   "budget": 13,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＫＩＭＥＲＡＭＩＨＯＫＯ",
+   "note": "name-search key: KIMERAMIHOKO"
+  },
+  {
+   "off": 4596,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4070",
+   "carry": "exact",
+   "note": "name-search key: KINTAMA",
+   "key": true,
+   "long": "ＫＩＮＴＡＭＡ"
+  },
+  {
+   "off": 4605,
+   "budget": 11,
+   "en": "",
+   "src": "B040:4079",
+   "carry": "exact",
+   "note": "name-search key: KYANTAMA",
+   "key": true,
+   "long": "ＫＹＡＮＴＡＭＡ"
+  },
+  {
+   "off": 4616,
+   "budget": 11,
+   "en": "",
+   "src": "B040:4097",
+   "carry": "exact",
+   "note": "name-search key: CUNNINGHAM",
+   "key": true,
+   "long": "ＣＵＮＮＩＮＧＨＡＭ"
+  },
+  {
+   "off": 4627,
+   "budget": 21,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＣＯＯＬＰＩＣＴＵＲＥ",
+   "note": "name-search key: COOLPICTURE"
+  },
+  {
+   "off": 4648,
+   "budget": 17,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＣＡＬＬＩＴＡＤＡＹ",
+   "note": "name-search key: CALLITADAY"
+  },
+  {
+   "off": 4665,
+   "budget": 3,
+   "en": "",
+   "initials": true,
+   "long": "ＥＫ",
+   "note": "name-search section: the typed first letters routed here (EK)"
+  },
+  {
+   "off": 4668,
+   "budget": 7,
+   "en": "",
+   "src": "B040:3944",
+   "carry": "exact",
+   "note": "name-search key: KOYAMA",
+   "key": true,
+   "long": "ＫＯＹＡＭＡ"
+  },
+  {
+   "off": 4675,
+   "budget": 11,
+   "en": "",
+   "src": "B040:3951",
+   "carry": "exact",
+   "note": "name-search key: KOYAMAMAMI",
+   "key": true,
+   "long": "ＫＯＹＡＭＡＭＡＭＩ"
+  },
+  {
+   "off": 4686,
+   "budget": 7,
+   "en": "",
+   "src": "B040:4008",
+   "carry": "exact",
+   "note": "name-search key: KOJIMA",
+   "key": true,
+   "long": "ＫＯＪＩＭＡ"
+  },
+  {
+   "off": 4693,
+   "budget": 13,
+   "en": "",
+   "src": "B040:4015",
+   "carry": "exact",
+   "note": "name-search key: KOJIMAHIDEO",
+   "key": true,
+   "long": "ＫＯＪＩＭＡＨＩＤＥＯ"
+  },
+  {
+   "off": 4706,
+   "budget": 11,
+   "en": "",
+   "src": "B040:4028",
+   "carry": "exact",
+   "note": "name-search key: KOMATSUBARA",
+   "key": true,
+   "long": "ＫＯＭＡＴＳＵＢＡＲＡ"
+  },
+  {
+   "off": 4717,
+   "budget": 17,
+   "en": "",
+   "src": "B040:4039",
+   "carry": "exact",
+   "note": "name-search key: KOMATSUBARARIEKO",
+   "key": true,
+   "long": "ＫＯＭＡＴＳＵＢＡＲＡＲＩＥＫＯ"
+  },
+  {
+   "off": 4734,
+   "budget": 7,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＫＯＩＫＥ",
+   "note": "name-search key: KOIKE"
+  },
+  {
+   "off": 4741,
+   "budget": 15,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＫＯＩＫＥＪＵＮＫＯ",
+   "note": "name-search key: KOIKEJUNKO"
+  },
+  {
+   "off": 4756,
+   "budget": 17,
+   "en": "ＧＵＴＳＧＩＲＬ",
+   "carry": "new",
+   "key": true,
+   "note": "name-search key: GUTSGIRL"
+  },
+  {
+   "off": 4773,
+   "budget": 7,
+   "en": "",
+   "src": "B040:4090",
+   "carry": "exact",
+   "note": "name-search key: KONAMI",
+   "key": true,
+   "long": "ＫＯＮＡＭＩ"
+  },
+  {
+   "off": 4780,
+   "budget": 11,
+   "en": "ＥＬＶＥＳ",
+   "carry": "new",
+   "key": true,
+   "note": "name-search key: ELVES"
+  },
+  {
+   "off": 4791,
+   "budget": 11,
+   "en": "Ｇ",
+   "src": "B040:4108",
+   "carry": "exact",
+   "note": "name-search section: the typed first letters routed here (G)",
+   "initials": true
+  },
+  {
+   "off": 4802,
+   "budget": 15,
+   "en": "",
+   "src": "B040:4119",
+   "carry": "exact",
+   "note": "name-search key: GILLIANSEED",
+   "key": true,
+   "long": "ＧＩＬＬＩＡＮＳＥＥＤ"
+  },
+  {
+   "off": 4817,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4134",
+   "carry": "exact",
+   "note": "name-search key: GILLIAN",
+   "key": true,
+   "long": "ＧＩＬＬＩＡＮ"
+  },
+  {
+   "off": 4826,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4143",
+   "carry": "exact",
+   "note": "name-search key: GIBSON",
+   "key": true,
+   "long": "ＧＩＢＳＯＮ"
+  },
+  {
+   "off": 4835,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4152",
+   "carry": "exact",
+   "note": "name-search key: GILMORE",
+   "key": true,
+   "long": "ＧＩＬＭＯＲＥ"
+  },
+  {
+   "off": 4844,
+   "budget": 11,
+   "en": "",
+   "src": "B040:4161",
+   "carry": "exact",
+   "note": "name-search key: GLAZER",
+   "key": true,
+   "long": "ＧＬＡＺＥＲ"
+  },
+  {
+   "off": 4855,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4172",
+   "carry": "exact",
+   "note": "name-search key: GAUDI",
+   "key": true,
+   "long": "ＧＡＵＤＩ"
+  },
+  {
+   "off": 4864,
+   "budget": 13,
+   "en": "＠緑Me.",
+   "src": "B040:4181",
+   "carry": "exact",
+   "long": "＠緑That's me."
+  },
+  {
+   "off": 4877,
+   "budget": 7,
+   "en": "ＧＯＤ",
+   "src": "B040:3988",
+   "carry": "exact",
+   "note": "name-search key: GOD",
+   "key": true
+  },
+  {
+   "off": 4884,
+   "budget": 13,
+   "en": "",
+   "src": "B040:3995",
+   "carry": "exact",
+   "note": "name-search key: GODADACHI",
+   "key": true,
+   "long": "ＧＯＤＡＤＡＣＨＩ"
+  },
+  {
+   "off": 4897,
+   "budget": 9,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＧＡＢＩＩＮ",
+   "note": "name-search key: GABIIN"
+  },
+  {
+   "off": 4906,
+   "budget": 11,
+   "en": "Ｓ",
+   "src": "B040:4194",
+   "carry": "exact",
+   "note": "name-search section: the typed first letters routed here (S)",
+   "initials": true
+  },
+  {
+   "off": 4917,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4205",
+   "carry": "exact",
+   "note": "name-search key: SERGIO",
+   "key": true,
+   "long": "ＳＥＲＧＩＯ"
+  },
+  {
+   "off": 4926,
+   "budget": 19,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＳＥＲＧＩＯＧＬＡＺＥＲ",
+   "note": "name-search key: SERGIOGLAZER"
+  },
+  {
+   "off": 4945,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4214",
+   "carry": "exact",
+   "note": "name-search key: SHIOZAWA",
+   "key": true,
+   "long": "ＳＨＩＯＺＡＷＡ"
+  },
+  {
+   "off": 4954,
+   "budget": 15,
+   "en": "",
+   "src": "B040:4223",
+   "carry": "exact",
+   "note": "name-search key: SHIOZAWAKANETO",
+   "key": true,
+   "long": "ＳＨＩＯＺＡＷＡＫＡＮＥＴＯ"
+  },
+  {
+   "off": 4969,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4238",
+   "carry": "exact",
+   "note": "name-search key: SAIKACHI",
+   "key": true,
+   "long": "ＳＡＩＫＡＣＨＩ"
+  },
+  {
+   "off": 4978,
+   "budget": 17,
+   "en": "",
+   "src": "B040:4247",
+   "carry": "exact",
+   "note": "name-search key: SAIKACHIRYUJI",
+   "key": true,
+   "long": "ＳＡＩＫＡＣＨＩＲＹＵＪＩ"
+  },
+  {
+   "off": 4995,
+   "budget": 11,
+   "en": "",
+   "src": "B040:4264",
+   "carry": "exact",
+   "note": "name-search key: SLAYTON",
+   "key": true,
+   "long": "ＳＬＡＹＴＯＮ"
+  },
+  {
+   "off": 5006,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4275",
+   "carry": "exact",
+   "note": "name-search key: SOTOYAMA",
+   "key": true,
+   "long": "ＳＯＴＯＹＡＭＡ"
+  },
+  {
+   "off": 5015,
+   "budget": 33,
+   "en": "＠緑It's Toyama, not Sotoyama.",
+   "src": "B040:4284",
+   "carry": "exact"
+  },
+  {
+   "off": 5048,
+   "budget": 15,
+   "en": "",
+   "src": "B040:4317",
+   "carry": "exact",
+   "note": "name-search key: SOTOYAMAMAKOTO",
+   "key": true,
+   "long": "ＳＯＴＯＹＡＭＡＭＡＫＯＴＯ"
+  },
+  {
+   "off": 5063,
+   "budget": 13,
+   "en": "",
+   "src": "B040:4332",
+   "carry": "exact",
+   "note": "name-search key: SOTOYAMASHIN",
+   "key": true,
+   "long": "ＳＯＴＯＹＡＭＡＳＨＩＮ"
+  },
+  {
+   "off": 5076,
+   "budget": 53,
+   "en": "＠緑It's Makoto Toyama, not Shin￥Sotoyama.",
+   "src": "B040:4345",
+   "carry": "exact"
+  },
+  {
+   "off": 5129,
+   "budget": 15,
+   "en": "",
+   "src": "B040:4398",
+   "carry": "exact",
+   "note": "name-search key: SHIRAISHIMASAYA",
+   "key": true,
+   "long": "ＳＨＩＲＡＩＳＨＩＭＡＳＡＹＡ"
+  },
+  {
+   "off": 5144,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4413",
+   "carry": "exact",
+   "note": "name-search key: SHIRAISHI",
+   "key": true,
+   "long": "ＳＨＩＲＡＩＳＨＩ"
+  },
+  {
+   "off": 5153,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4422",
+   "carry": "exact",
+   "note": "name-search key: SCHULTZ",
+   "key": true,
+   "long": "ＳＣＨＵＬＴＺ"
+  },
+  {
+   "off": 5162,
+   "budget": 19,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＳＣＨＵＬＴＺＤＥＣＫＥＲ",
+   "note": "name-search key: SCHULTZDECKER"
+  },
+  {
+   "off": 5181,
+   "budget": 7,
+   "en": "",
+   "src": "B040:4448",
+   "carry": "exact",
+   "note": "name-search key: SHINOBU",
+   "key": true,
+   "long": "ＳＨＩＮＯＢＵ"
+  },
+  {
+   "off": 5188,
+   "budget": 7,
+   "en": "ＳＨＯ",
+   "src": "B040:4455",
+   "carry": "exact",
+   "note": "name-search key: SHO",
+   "key": true
+  },
+  {
+   "off": 5195,
+   "budget": 17,
+   "en": "",
+   "src": "B040:4462",
+   "carry": "exact",
+   "note": "name-search key: SHODECKARD",
+   "key": true,
+   "long": "ＳＨＯＤＥＣＫＡＲＤ"
+  },
+  {
+   "off": 5212,
+   "budget": 7,
+   "en": "",
+   "src": "B040:4479",
+   "carry": "exact",
+   "note": "name-search key: SEED",
+   "key": true,
+   "long": "ＳＥＥＤ"
+  },
+  {
+   "off": 5219,
+   "budget": 7,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＳＯＪＩ",
+   "note": "name-search key: SOJI"
+  },
+  {
+   "off": 5226,
+   "budget": 13,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＳＯＪＩＡＫＩＲＡ",
+   "note": "name-search key: SOJIAKIRA"
+  },
+  {
+   "off": 5239,
+   "budget": 11,
+   "en": "ＳＨＵＨＯ",
+   "carry": "new",
+   "key": true,
+   "note": "name-search key: SHUHO"
+  },
+  {
+   "off": 5250,
+   "budget": 17,
+   "en": "ＳＰＥＣ",
+   "carry": "new",
+   "key": true,
+   "note": "name-search key: SPEC"
+  },
+  {
+   "off": 5267,
+   "budget": 11,
+   "en": "Ｊ",
+   "src": "B040:4486",
+   "carry": "exact",
+   "note": "name-search section: the typed first letters routed here (J)",
+   "initials": true
+  },
+  {
+   "off": 5278,
+   "budget": 7,
+   "en": "",
+   "src": "B040:4497",
+   "carry": "exact",
+   "note": "name-search key: JEAN",
+   "key": true,
+   "long": "ＪＥＡＮ"
+  },
+  {
+   "off": 5285,
+   "budget": 15,
+   "en": "",
+   "src": "B040:4504",
+   "carry": "exact",
+   "note": "name-search key: JEANJACK",
+   "key": true,
+   "long": "ＪＥＡＮＪＡＣＫ"
+  },
+  {
+   "off": 5300,
+   "budget": 9,
+   "en": "ＪＡＣＫ",
+   "src": "B040:4519",
+   "carry": "exact",
+   "note": "name-search key: JACK",
+   "key": true
+  },
+  {
+   "off": 5309,
+   "budget": 21,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＪＥＡＮＪＡＣＫＧＩＢＳＯＮ",
+   "note": "name-search key: JEANJACKGIBSON"
+  },
+  {
+   "off": 5330,
+   "budget": 21,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＪＥＡＮＪＡＣＫＧＩＢＳＥＮ",
+   "note": "name-search key: JEANJACKGIBSEN"
+  },
+  {
+   "off": 5351,
+   "budget": 15,
+   "en": "",
+   "src": "B040:4574",
+   "carry": "exact",
+   "note": "name-search key: JAMIESEED",
+   "key": true,
+   "long": "ＪＡＭＩＥＳＥＥＤ"
+  },
+  {
+   "off": 5366,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4589",
+   "carry": "exact",
+   "note": "name-search key: JAMIE",
+   "key": true,
+   "long": "ＪＡＭＩＥ"
+  },
+  {
+   "off": 5375,
+   "budget": 11,
+   "en": "",
+   "src": "B040:4615",
+   "carry": "exact",
+   "note": "name-search key: JOHNSON",
+   "key": true,
+   "long": "ＪＯＨＮＳＯＮ"
+  },
+  {
+   "off": 5386,
+   "budget": 3,
+   "en": "Ｔ",
+   "initials": true,
+   "note": "name-search section: the typed first letters routed here (T)"
+  },
+  {
+   "off": 5389,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4692",
+   "carry": "exact",
+   "note": "name-search key: TAKAHASHI",
+   "key": true,
+   "long": "ＴＡＫＡＨＡＳＨＩ"
+  },
+  {
+   "off": 5398,
+   "budget": 15,
+   "en": "",
+   "src": "B040:4701",
+   "carry": "exact",
+   "note": "name-search key: TAKAHASHIYUMIKO",
+   "key": true,
+   "long": "ＴＡＫＡＨＡＳＨＩＹＵＭＩＫＯ"
+  },
+  {
+   "off": 5413,
+   "budget": 11,
+   "en": "",
+   "src": "B040:4681",
+   "carry": "exact",
+   "note": "name-search key: TATCHAN",
+   "key": true,
+   "long": "ＴＡＴＣＨＡＮ"
+  },
+  {
+   "off": 5424,
+   "budget": 7,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＴＡＫＡＫＩ",
+   "note": "name-search key: TAKAKI"
+  },
+  {
+   "off": 5431,
+   "budget": 15,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＴＡＫＡＫＩＡＫＩＮＡＲＩ",
+   "note": "name-search key: TAKAKIAKINARI"
+  },
+  {
+   "off": 5446,
+   "budget": 7,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＴＡＫＡＧＩ",
+   "note": "name-search key: TAKAGI"
+  },
+  {
+   "off": 5453,
+   "budget": 31,
+   "en": "＠緑It is Takaki, not Takagi.",
+   "carry": "new"
+  },
+  {
+   "off": 5484,
+   "budget": 15,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＴＡＫＡＧＩＡＫＩＮＡＲＩ",
+   "note": "name-search key: TAKAGIAKINARI"
+  },
+  {
+   "off": 5499,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4801",
+   "carry": "exact",
+   "note": "name-search key: TAMAKIN",
+   "key": true,
+   "long": "ＴＡＭＡＫＩＮ"
+  },
+  {
+   "off": 5508,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4810",
+   "carry": "exact",
+   "note": "name-search key: TAMATAMA",
+   "key": true,
+   "long": "ＴＡＭＡＴＡＭＡ"
+  },
+  {
+   "off": 5517,
+   "budget": 9,
+   "en": "",
+   "initials": true,
+   "note": "name-search section: the typed first letters routed here ()"
+  },
+  {
+   "off": 5526,
+   "budget": 15,
+   "en": "",
+   "src": "B040:4637",
+   "carry": "exact",
+   "note": "name-search key: CHINSHUHO",
+   "key": true,
+   "long": "ＣＨＩＮＳＨＵＨＯ"
+  },
+  {
+   "off": 5541,
+   "budget": 5,
+   "en": "",
+   "src": "B040:4652",
+   "carry": "exact",
+   "note": "name-search key: CHIN",
+   "key": true,
+   "long": "ＣＨＩＮ"
+  },
+  {
+   "off": 5546,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4657",
+   "carry": "exact",
+   "note": "name-search key: TOMINAGA",
+   "key": true,
+   "long": "ＴＯＭＩＮＡＧＡ"
+  },
+  {
+   "off": 5555,
+   "budget": 15,
+   "en": "",
+   "src": "B040:4666",
+   "carry": "exact",
+   "note": "name-search key: TOMINAGAMINA",
+   "key": true,
+   "long": "ＴＯＭＩＮＡＧＡＭＩＮＡ"
+  },
+  {
+   "off": 5570,
+   "budget": 11,
+   "en": "",
+   "src": "B040:4716",
+   "carry": "exact",
+   "note": "name-search key: TOYAMASHIN",
+   "key": true,
+   "long": "ＴＯＹＡＭＡＳＨＩＮ"
+  },
+  {
+   "off": 5581,
+   "budget": 29,
+   "en": "＠緑It's Makoto, not Shin.",
+   "src": "B040:4727",
+   "carry": "exact"
+  },
+  {
+   "off": 5610,
+   "budget": 7,
+   "en": "",
+   "src": "B040:4756",
+   "carry": "exact",
+   "note": "name-search key: TOYAMA",
+   "key": true,
+   "long": "ＴＯＹＡＭＡ"
+  },
+  {
+   "off": 5617,
+   "budget": 13,
+   "en": "",
+   "src": "B040:4763",
+   "carry": "exact",
+   "note": "name-search key: TOYAMAMAKOTO",
+   "key": true,
+   "long": "ＴＯＹＡＭＡＭＡＫＯＴＯ"
+  },
+  {
+   "off": 5630,
+   "budget": 9,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＴＳＵＮＡＳＨＩＭＡ",
+   "note": "name-search key: TSUNASHIMA"
+  },
+  {
+   "off": 5639,
+   "budget": 17,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＴＳＵＮＡＳＨＩＭＡＴＡＤＡＡＫＩ",
+   "note": "name-search key: TSUNASHIMATADAAKI"
+  },
+  {
+   "off": 5656,
+   "budget": 11,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＴＳＵＮＡＰＹＯＮ",
+   "note": "name-search key: TSUNAPYON"
+  },
+  {
+   "off": 5667,
+   "budget": 5,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＴＳＵＮＡ",
+   "note": "name-search key: TSUNA"
+  },
+  {
+   "off": 5672,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4776",
+   "carry": "exact",
+   "note": "name-search key: CHINPOKO",
+   "key": true,
+   "long": "ＣＨＩＮＰＯＫＯ"
+  },
+  {
+   "off": 5681,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4785",
+   "carry": "exact",
+   "note": "name-search key: CHINCHIN",
+   "key": true,
+   "long": "ＣＨＩＮＣＨＩＮ"
+  },
+  {
+   "off": 5690,
+   "budget": 7,
+   "en": "",
+   "src": "B040:4794",
+   "carry": "exact",
+   "note": "name-search key: CHINKO",
+   "key": true,
+   "long": "ＣＨＩＮＫＯ"
+  },
+  {
+   "off": 5697,
+   "budget": 7,
+   "en": "",
+   "src": "B040:4819",
+   "carry": "exact",
+   "note": "name-search key: CHINPO",
+   "key": true,
+   "long": "ＣＨＩＮＰＯ"
+  },
+  {
+   "off": 5704,
+   "budget": 11,
+   "en": "Ｄ",
+   "src": "B040:4826",
+   "carry": "exact",
+   "note": "name-search section: the typed first letters routed here (D)",
+   "initials": true
+  },
+  {
+   "off": 5715,
+   "budget": 9,
+   "en": "",
+   "src": "B040:4837",
+   "carry": "exact",
+   "note": "name-search key: DAVID",
+   "key": true,
+   "long": "ＤＡＶＩＤ"
+  },
+  {
+   "off": 5724,
+   "budget": 19,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＤＡＶＩＤＪＯＨＮＳＯＮ",
+   "note": "name-search key: DAVIDJOHNSON"
+  },
+  {
+   "off": 5743,
+   "budget": 11,
+   "en": "",
+   "src": "B040:4863",
+   "carry": "exact",
+   "note": "name-search key: DECKARD",
+   "key": true,
+   "long": "ＤＥＣＫＡＲＤ"
+  },
+  {
+   "off": 5754,
+   "budget": 11,
+   "en": "Ｎ",
+   "src": "B040:4874",
+   "carry": "exact",
+   "note": "name-search section: the typed first letters routed here (N)",
+   "initials": true
+  },
+  {
+   "off": 5765,
+   "budget": 11,
+   "en": "",
+   "src": "B040:4885",
+   "carry": "exact",
+   "note": "name-search key: NAPOLEON",
+   "key": true,
+   "long": "ＮＡＰＯＬＥＯＮ"
+  },
+  {
+   "off": 5776,
+   "budget": 21,
+   "en": "",
+   "src": "B040:4896",
+   "carry": "exact",
+   "note": "name-search key: NAPOLEONBONAPARTE",
+   "key": true,
+   "long": "ＮＡＰＯＬＥＯＮＢＯＮＡＰＡＲＴＥ"
+  },
+  {
+   "off": 5797,
+   "budget": 5,
+   "en": "",
+   "src": "B040:4917",
+   "carry": "exact",
+   "note": "name-search key: NAYA",
+   "key": true,
+   "long": "ＮＡＹＡ"
+  },
+  {
+   "off": 5802,
+   "budget": 11,
+   "en": "",
+   "src": "B040:4922",
+   "carry": "exact",
+   "note": "name-search key: NAYAGORO",
+   "key": true,
+   "long": "ＮＡＹＡＧＯＲＯ"
+  },
+  {
+   "off": 5813,
+   "budget": 7,
+   "en": "",
+   "src": "B040:4933",
+   "carry": "exact",
+   "note": "name-search key: NOGUCHI",
+   "key": true,
+   "long": "ＮＯＧＵＣＨＩ"
+  },
+  {
+   "off": 5820,
+   "budget": 13,
+   "en": "",
+   "src": "B040:4940",
+   "carry": "exact",
+   "note": "name-search key: NOGUCHIHIROE",
+   "key": true,
+   "long": "ＮＯＧＵＣＨＩＨＩＲＯＥ"
+  },
+  {
+   "off": 5833,
+   "budget": 11,
+   "en": "",
+   "src": "B040:4953",
+   "carry": "exact",
+   "note": "name-search key: NIELSEN",
+   "key": true,
+   "long": "ＮＩＥＬＳＥＮ"
+  },
+  {
+   "off": 5844,
+   "budget": 7,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＮＩＪＩＮＯ",
+   "note": "name-search key: NIJINO"
+  },
+  {
+   "off": 5851,
+   "budget": 11,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＮＩＪＩＮＯＳＡＫＩ",
+   "note": "name-search key: NIJINOSAKI"
+  },
+  {
+   "off": 5862,
+   "budget": 9,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＮＡＫＡＭＵＲＡ",
+   "note": "name-search key: NAKAMURA"
+  },
+  {
+   "off": 5871,
+   "budget": 17,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＮＡＫＡＭＵＲＡＫＥＩＺＯ",
+   "note": "name-search key: NAKAMURAKEIZO"
+  },
+  {
+   "off": 5888,
+   "budget": 9,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＮＡＷＡＳＨＩＭＡ",
+   "note": "name-search key: NAWASHIMA"
+  },
+  {
+   "off": 5897,
+   "budget": 11,
+   "en": "ＦＨ",
+   "src": "B040:4964",
+   "carry": "exact",
+   "note": "name-search section: the typed first letters routed here (FH)",
+   "initials": true
+  },
+  {
+   "off": 5908,
+   "budget": 15,
+   "en": "",
+   "src": "B040:4975",
+   "carry": "exact",
+   "note": "name-search key: HARRYBENSON",
+   "key": true,
+   "long": "ＨＡＲＲＹＢＥＮＳＯＮ"
+  },
+  {
+   "off": 5923,
+   "budget": 7,
+   "en": "",
+   "src": "B040:4990",
+   "carry": "exact",
+   "note": "name-search key: HARRY",
+   "key": true,
+   "long": "ＨＡＲＲＹ"
+  },
+  {
+   "off": 5930,
+   "budget": 21,
+   "en": "",
+   "src": "B040:4997",
+   "carry": "exact",
+   "note": "name-search key: FREDDYNIELSEN",
+   "key": true,
+   "long": "ＦＲＥＤＤＹＮＩＥＬＳＥＮ"
+  },
+  {
+   "off": 5951,
+   "budget": 19,
+   "en": "",
+   "src": "B040:5018",
+   "carry": "exact",
+   "note": "name-search key: FREDDINIELSEN",
+   "key": true,
+   "long": "ＦＲＥＤＤＩＮＩＥＬＳＥＮ"
+  },
+  {
+   "off": 5970,
+   "budget": 11,
+   "en": "",
+   "src": "B040:5037",
+   "carry": "exact",
+   "note": "name-search key: FREDDY",
+   "key": true,
+   "long": "ＦＲＥＤＤＹ"
+  },
+  {
+   "off": 5981,
+   "budget": 9,
+   "en": "",
+   "src": "B040:5048",
+   "carry": "exact",
+   "note": "name-search key: FREDDI",
+   "key": true,
+   "long": "ＦＲＥＤＤＩ"
+  },
+  {
+   "off": 5990,
+   "budget": 7,
+   "en": "",
+   "src": "B040:5057",
+   "carry": "exact",
+   "note": "name-search key: HATSUMI",
+   "key": true,
+   "long": "ＨＡＴＳＵＭＩ"
+  },
+  {
+   "off": 5997,
+   "budget": 13,
+   "en": "",
+   "src": "B040:5064",
+   "carry": "exact",
+   "note": "name-search key: HATSUMINAOYA",
+   "key": true,
+   "long": "ＨＡＴＳＵＭＩＮＡＯＹＡ"
+  },
+  {
+   "off": 6010,
+   "budget": 7,
+   "en": "",
+   "src": "B040:5101",
+   "carry": "exact",
+   "note": "name-search key: HAGGY",
+   "key": true,
+   "long": "ＨＡＧＧＹ"
+  },
+  {
+   "off": 6017,
+   "budget": 17,
+   "en": "",
+   "src": "B040:5108",
+   "carry": "exact",
+   "note": "name-search key: HASHIMOTOKAZUHISA",
+   "key": true,
+   "long": "ＨＡＳＨＩＭＯＴＯＫＡＺＵＨＩＳＡ"
+  },
+  {
+   "off": 6034,
+   "budget": 9,
+   "en": "",
+   "src": "B040:5125",
+   "carry": "exact",
+   "note": "name-search key: HASHIMOTO",
+   "key": true,
+   "long": "ＨＡＳＨＩＭＯＴＯ"
+  },
+  {
+   "off": 6043,
+   "budget": 7,
+   "en": "",
+   "src": "B040:5134",
+   "carry": "exact",
+   "note": "name-search key: HAJILE",
+   "key": true,
+   "long": "ＨＡＪＩＬＥ"
+  },
+  {
+   "off": 6050,
+   "budget": 7,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＨＩＲＡＴＡ",
+   "note": "name-search key: HIRATA"
+  },
+  {
+   "off": 6057,
+   "budget": 21,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＨＩＲＡＴＡＳＨＯＩＣＨＩＲＯ",
+   "note": "name-search key: HIRATASHOICHIRO"
+  },
+  {
+   "off": 6078,
+   "budget": 7,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＨＥＰＰＥ",
+   "note": "name-search key: HEPPE"
+  },
+  {
+   "off": 6085,
+   "budget": 11,
+   "en": "ＢＶ",
+   "src": "B040:5141",
+   "carry": "exact",
+   "note": "name-search section: the typed first letters routed here (BV)",
+   "initials": true
+  },
+  {
+   "off": 6096,
+   "budget": 19,
+   "en": "",
+   "src": "B040:5152",
+   "carry": "exact",
+   "note": "name-search key: BENSONCUNNINGHAM",
+   "key": true,
+   "long": "ＢＥＮＳＯＮＣＵＮＮＩＮＧＨＡＭ"
+  },
+  {
+   "off": 6115,
+   "budget": 9,
+   "en": "",
+   "src": "B040:5171",
+   "carry": "exact",
+   "note": "name-search key: BENSON",
+   "key": true,
+   "long": "ＢＥＮＳＯＮ"
+  },
+  {
+   "off": 6124,
+   "budget": 7,
+   "en": "ＢＩＧ",
+   "src": "B040:5180",
+   "carry": "exact",
+   "note": "name-search key: BIG",
+   "key": true
+  },
+  {
+   "off": 6131,
+   "budget": 5,
+   "en": "",
+   "src": "B040:5187",
+   "carry": "exact",
+   "note": "name-search key: BOBO",
+   "key": true,
+   "long": "ＢＯＢＯ"
+  },
+  {
+   "off": 6136,
+   "budget": 11,
+   "en": "",
+   "src": "B040:5192",
+   "carry": "exact",
+   "note": "name-search key: VELVET",
+   "key": true,
+   "long": "ＶＥＬＶＥＴ"
+  },
+  {
+   "off": 6147,
+   "budget": 11,
+   "en": "ＢＲＩＡＮ",
+   "src": "B040:5203",
+   "carry": "exact",
+   "note": "name-search key: BRIAN",
+   "key": true
+  },
+  {
+   "off": 6158,
+   "budget": 19,
+   "en": "",
+   "src": "B040:5214",
+   "carry": "exact",
+   "note": "name-search key: BRIANOCONNOR",
+   "key": true,
+   "long": "ＢＲＩＡＮＯＣＯＮＮＯＲ"
+  },
+  {
+   "off": 6177,
+   "budget": 11,
+   "en": "",
+   "src": "B040:5233",
+   "carry": "exact",
+   "note": "name-search section: the typed first letters routed here (PQUWXZ0123456789)",
+   "initials": true,
+   "long": "ＰＱＵＷＸＺ０１２３４５６７８９"
+  },
+  {
+   "off": 6188,
+   "budget": 11,
+   "en": "Ｍ",
+   "src": "B040:5244",
+   "carry": "exact",
+   "note": "name-search section: the typed first letters routed here (M)",
+   "initials": true
+  },
+  {
+   "off": 6199,
+   "budget": 15,
+   "en": "",
+   "src": "B040:5255",
+   "carry": "exact",
+   "note": "name-search key: MIKASLAYTON",
+   "key": true,
+   "long": "ＭＩＫＡＳＬＡＹＴＯＮ"
+  },
+  {
+   "off": 6214,
+   "budget": 5,
+   "en": "",
+   "src": "B040:5270",
+   "carry": "exact",
+   "note": "name-search key: MIKA",
+   "key": true,
+   "long": "ＭＩＫＡ"
+  },
+  {
+   "off": 6219,
+   "budget": 11,
+   "en": "",
+   "src": "B040:5275",
+   "carry": "exact",
+   "note": "name-search key: METALGEAR",
+   "key": true,
+   "long": "ＭＥＴＡＬＧＥＡＲ"
+  },
+  {
+   "off": 6230,
+   "budget": 7,
+   "en": "",
+   "src": "B040:5286",
+   "carry": "exact",
+   "note": "name-search key: METAL",
+   "key": true,
+   "long": "ＭＥＴＡＬ"
+  },
+  {
+   "off": 6237,
+   "budget": 9,
+   "en": "",
+   "src": "B040:5293",
+   "carry": "exact",
+   "note": "name-search key: MIZUTANI",
+   "key": true,
+   "long": "ＭＩＺＵＴＡＮＩ"
+  },
+  {
+   "off": 6246,
+   "budget": 15,
+   "en": "",
+   "src": "B040:5302",
+   "carry": "exact",
+   "note": "name-search key: MIZUTANIATSUSHI",
+   "key": true,
+   "long": "ＭＩＺＵＴＡＮＩＡＴＳＵＳＨＩ"
+  },
+  {
+   "off": 6261,
+   "budget": 9,
+   "en": "",
+   "src": "B040:5471",
+   "carry": "exact",
+   "note": "name-search key: MATSUKAWA",
+   "key": true,
+   "long": "ＭＡＴＳＵＫＡＷＡ"
+  },
+  {
+   "off": 6270,
+   "budget": 17,
+   "en": "",
+   "src": "B040:5480",
+   "carry": "exact",
+   "note": "name-search key: MATSUKAWANORITADA",
+   "key": true,
+   "long": "ＭＡＴＳＵＫＡＷＡＮＯＲＩＴＡＤＡ"
+  },
+  {
+   "off": 6287,
+   "budget": 7,
+   "en": "",
+   "src": "B040:5497",
+   "carry": "exact",
+   "note": "name-search key: MADOKA",
+   "key": true,
+   "long": "ＭＡＤＯＫＡ"
+  },
+  {
+   "off": 6294,
+   "budget": 15,
+   "en": "",
+   "src": "B040:5504",
+   "carry": "exact",
+   "note": "name-search key: MISTERBIG",
+   "key": true,
+   "long": "ＭＩＳＴＥＲＢＩＧ"
+  },
+  {
+   "off": 6309,
+   "budget": 3,
+   "en": "Ｍ",
+   "key": true,
+   "note": "name-search key: M"
+  },
+  {
+   "off": 6312,
+   "budget": 11,
+   "en": "ＬＲ",
+   "src": "B040:5519",
+   "carry": "exact",
+   "note": "name-search section: the typed first letters routed here (LR)",
+   "initials": true
+  },
+  {
+   "off": 6323,
+   "budget": 13,
+   "en": "",
+   "src": "B040:5530",
+   "carry": "exact",
+   "note": "name-search key: LITTLEJOHN",
+   "key": true,
+   "long": "ＬＩＴＴＬＥＪＯＨＮ"
+  },
+  {
+   "off": 6336,
+   "budget": 7,
+   "en": "",
+   "src": "B040:5543",
+   "carry": "exact",
+   "note": "name-search key: LITTLE",
+   "key": true,
+   "long": "ＬＩＴＴＬＥ"
+  },
+  {
+   "off": 6343,
+   "budget": 15,
+   "en": "",
+   "src": "B040:5550",
+   "carry": "exact",
+   "note": "name-search key: LISANIELSEN",
+   "key": true,
+   "long": "ＬＩＳＡＮＩＥＬＳＥＮ"
+  },
+  {
+   "off": 6358,
+   "budget": 5,
+   "en": "",
+   "src": "B040:5565",
+   "carry": "exact",
+   "note": "name-search key: LISA",
+   "key": true,
+   "long": "ＬＩＳＡ"
+  },
+  {
+   "off": 6363,
+   "budget": 5,
+   "en": "",
+   "src": "B040:5570",
+   "carry": "exact",
+   "note": "name-search key: RIKA",
+   "key": true,
+   "long": "ＲＩＫＡ"
+  },
+  {
+   "off": 6368,
+   "budget": 15,
+   "en": "",
+   "src": "B040:5575",
+   "carry": "exact",
+   "note": "name-search key: RANDAMHAJILE",
+   "key": true,
+   "long": "ＲＡＮＤＡＭＨＡＪＩＬＥ"
+  },
+  {
+   "off": 6383,
+   "budget": 9,
+   "en": "",
+   "src": "B040:5590",
+   "carry": "exact",
+   "note": "name-search key: RANDAM",
+   "key": true,
+   "long": "ＲＡＮＤＡＭ"
+  },
+  {
+   "off": 6392,
+   "budget": 7,
+   "en": "",
+   "src": "B040:5599",
+   "carry": "exact",
+   "note": "name-search key: LEWIS",
+   "key": true,
+   "long": "ＬＥＷＩＳ"
+  },
+  {
+   "off": 6399,
+   "budget": 15,
+   "en": "",
+   "src": "B040:5606",
+   "carry": "exact",
+   "note": "name-search key: LEWISGILMORE",
+   "key": true,
+   "long": "ＬＥＷＩＳＧＩＬＭＯＲＥ"
+  },
+  {
+   "off": 6414,
+   "budget": 11,
+   "en": "",
+   "src": "B040:5621",
+   "carry": "exact",
+   "note": "name-search key: RODRIGUEZ",
+   "key": true,
+   "long": "ＲＯＤＲＩＧＵＥＺ"
+  },
+  {
+   "off": 6425,
+   "budget": 11,
+   "en": "Ｙ",
+   "src": "B040:5632",
+   "carry": "exact",
+   "note": "name-search section: the typed first letters routed here (Y)",
+   "initials": true
+  },
+  {
+   "off": 6436,
+   "budget": 9,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＹＡＭＡＧＩＳＨＩ",
+   "note": "name-search key: YAMAGISHI"
+  },
+  {
+   "off": 6445,
+   "budget": 15,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＹＡＭＡＧＩＳＨＩＴＡＫＡＯ",
+   "note": "name-search key: YAMAGISHITAKAO"
+  },
+  {
+   "off": 6460,
+   "budget": 5,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＹＡＢＡ",
+   "note": "name-search key: YABA"
+  },
+  {
+   "off": 6465,
+   "budget": 9,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＹＡＢＡＧＩＳＨＩ",
+   "note": "name-search key: YABAGISHI"
+  },
+  {
+   "off": 6474,
+   "budget": 15,
+   "en": "",
+   "carry": "new",
+   "key": true,
+   "long": "ＹＡＢＡＧＩＳＨＩＴＡＫＡＯ",
+   "note": "name-search key: YABAGISHITAKAO"
+  },
+  {
+   "off": 6489,
+   "budget": 5,
+   "en": "",
+   "src": "B040:5643",
+   "carry": "exact",
+   "note": "name-search key: YARA",
+   "key": true,
+   "long": "ＹＡＲＡ"
+  },
+  {
+   "off": 6494,
+   "budget": 13,
+   "en": "",
+   "src": "B040:5648",
+   "carry": "exact",
+   "note": "name-search key: YARAYUSAKU",
+   "key": true,
+   "long": "ＹＡＲＡＹＵＳＡＫＵ"
+  },
+  {
+   "off": 6507,
+   "budget": 9,
+   "en": "",
+   "src": "B040:5661",
+   "carry": "exact",
+   "note": "name-search key: YOSHITOMI",
+   "key": true,
+   "long": "ＹＯＳＨＩＴＯＭＩ"
+  },
+  {
+   "off": 6516,
+   "budget": 17,
+   "en": "",
+   "src": "B040:5670",
+   "carry": "exact",
+   "note": "name-search key: YOSHITOMIKENSUKE",
+   "key": true,
+   "long": "ＹＯＳＨＩＴＯＭＩＫＥＮＳＵＫＥ"
+  },
+  {
+   "off": 6533,
+   "budget": 15,
+   "en": "Stop search",
+   "src": "B040:5687",
+   "carry": "exact"
+  },
+  {
+   "off": 6548,
+   "budget": 41,
+   "en": "＠赤Unregistered term.￥Access denied!",
+   "src": "B040:5702",
+   "carry": "exact",
+   "long": "＠赤That term is prohibited. No results￥can be displayed!"
+  },
+  {
+   "off": 6589,
+   "budget": 33,
+   "en": "Gillian, you're a grown man!",
+   "src": "B040:5743",
+   "carry": "exact"
+  },
+  {
+   "off": 6622,
+   "budget": 37,
+   "en": "I was just testing Gaudi.",
+   "src": "B040:5776",
+   "carry": "exact"
+  },
+  {
+   "off": 6659,
+   "budget": 57,
+   "en": "Gillian!￥Too old to enjoy searching￥for that, surely?",
+   "src": "B040:5813",
+   "carry": "exact",
+   "long": "Gillian! Aren't you too old to get a￥kick out of looking that up?"
+  },
+  {
+   "off": 6716,
+   "budget": 45,
+   "en": "I've lost those memories too. That's￥why.",
+   "src": "B040:5870",
+   "carry": "exact"
+  },
+  {
+   "off": 6761,
+   "budget": 13,
+   "en": "Honestly...",
+   "src": "B040:5915",
+   "carry": "exact"
+  },
+  {
+   "off": 6774,
+   "budget": 45,
+   "en": "Gillian, so that's what you're￥searching!!",
+   "src": "B040:5928",
+   "carry": "exact",
+   "long": "Gillian! So that's what you were￥looking up!"
+  },
+  {
+   "off": 6819,
+   "budget": 57,
+   "en": "All right, sorry. I just wanted to￥test Gaudi.",
+   "src": "B040:5973",
+   "carry": "exact"
+  },
+  {
+   "off": 6876,
+   "budget": 43,
+   "en": "Gillian! Don't look up things like￥that!",
+   "src": "B040:6030",
+   "carry": "exact"
+  },
+  {
+   "off": 6919,
+   "budget": 47,
+   "en": "(...She's blushing.￥An innocent side.)",
+   "src": "B040:6073",
+   "carry": "exact",
+   "long": "(She's embarrassed. I guess she has￥an innocent side.)"
+  },
+  {
+   "off": 6966,
+   "budget": 27,
+   "en": "The Chief will scold you!",
+   "src": "B040:6120",
+   "carry": "exact",
+   "long": "The Chief will tell you off again!"
+  },
+  {
+   "off": 6993,
+   "budget": 77,
+   "en": "＠緑Masayuki Aizawa. Born August￥17, 1967. Leo. Blood type O.",
+   "src": "B040:6147",
+   "carry": "exact",
+   "note": "row 2 re-wrapped at 14"
+  },
+  {
+   "off": 7070,
+   "budget": 81,
+   "en": "＠緑▽Character: missile strikes￥ for the careless￥▽Role: husband and dad",
+   "src": "B040:6224",
+   "carry": "rebroken",
+   "long": "＠緑Personality: Bombards￥careless people with￥missiles. Role: Husband and￥dad.",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 7151,
+   "budget": 81,
+   "en": "＠緑Message: I could only finish￥Snatcher thanks to my loving￥wife's support.",
+   "src": "B040:6307",
+   "carry": "exact"
+  },
+  {
+   "off": 7232,
+   "budget": 47,
+   "en": "＠緑Videophone: 65-4625.",
+   "src": "B040:6388",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 00966.",
+   "sim": 0.81,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 7279,
+   "budget": 77,
+   "en": "＠緑Masaya Shiraishi. Born May￥23, 1968. Gemini. Blood type￥A.",
+   "src": "B040:6431",
+   "carry": "exact"
+  },
+  {
+   "off": 7356,
+   "budget": 53,
+   "en": "＠緑▽Character￥ nervous, rash￥▽Role￥ demo CG",
+   "src": "B040:6508",
+   "carry": "exact",
+   "long": "＠緑Personality: High-strung and￥out of control. Role:￥Cutscene CG."
+  },
+  {
+   "off": 7409,
+   "budget": 47,
+   "en": "＠緑Message: Now this is￥cyberpunk!",
+   "src": "B040:6561",
+   "carry": "exact"
+  },
+  {
+   "off": 7456,
+   "budget": 81,
+   "en": "＠緑Hiroyuki Asada. Born￥December 4, 1971.￥Sagittarius. 46XY.",
+   "src": "B040:6608",
+   "carry": "exact"
+  },
+  {
+   "off": 7537,
+   "budget": 53,
+   "en": "＠緑Personality: Hypocrite++.￥Role: Madoka.",
+   "src": "B040:6689",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Personality: Hypocrite.￥Role: Madoka.",
+   "sim": 0.95,
+   "note": "re-adapted 2026-09-30: Saturn's '++' kept; new PS1 format"
+  },
+  {
+   "off": 7590,
+   "budget": 69,
+   "en": "＠緑▽Message￥If you have time to read￥this, play the game.",
+   "src": "B040:6738",
+   "carry": "exact",
+   "long": "＠緑Message: If you've got time￥to read this, you should get￥on with the game."
+  },
+  {
+   "off": 7659,
+   "budget": 47,
+   "en": "＠緑Videophone: 56-4923.",
+   "src": "B040:6807",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 25-0717.",
+   "sim": 0.77,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 7706,
+   "budget": 75,
+   "en": "＠緑Jun Asami. Born September 5,￥1971. Virgo. Blood type A.",
+   "src": "B040:6854",
+   "carry": "exact"
+  },
+  {
+   "off": 7781,
+   "budget": 57,
+   "en": "＠緑Personality: Stubborn and￥naive. Role: Design.",
+   "src": "B040:6929",
+   "carry": "exact"
+  },
+  {
+   "off": 7838,
+   "budget": 103,
+   "en": "＠緑▽Message￥A full game in my 2nd year.￥Hardship and setbacks, but a￥great education.",
+   "src": "B040:6986",
+   "carry": "exact",
+   "long": "＠緑Message: My first full game￥project, in my second year￥at the company. It was one￥hardship after another, but￥I learned a lot.",
+   "note": "5 rows (box has 4)"
+  },
+  {
+   "off": 7941,
+   "budget": 47,
+   "en": "＠緑Videophone: 78-3465.",
+   "src": "B040:7089",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 58-2809.",
+   "sim": 0.77,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 7988,
+   "budget": 75,
+   "en": "＠緑Tacchan. Born July 4, 1972.￥Cancer. Blood type B.",
+   "src": "B040:7136",
+   "carry": "exact"
+  },
+  {
+   "off": 8063,
+   "budget": 49,
+   "en": "＠緑Personality: Short and￥stout. Role: 3D CG.",
+   "src": "B040:7211",
+   "carry": "exact"
+  },
+  {
+   "off": 8112,
+   "budget": 65,
+   "en": "＠緑▽Message￥Lucky to join such a title￥in my first year.",
+   "src": "B040:7260",
+   "carry": "exact",
+   "long": "＠緑Message: I'm happy I could￥work on such a great game in￥my first year."
+  },
+  {
+   "off": 8177,
+   "budget": 47,
+   "en": "＠緑Videophone: 20-4673.",
+   "src": "B040:7325",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 59-7274.",
+   "sim": 0.77,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 8224,
+   "budget": 77,
+   "en": "＠緑Huggy. Born April 11, 1970.￥Aries. Blood type O.",
+   "src": "B040:7372",
+   "carry": "exact"
+  },
+  {
+   "off": 8301,
+   "budget": 67,
+   "en": "＠緑Personality: Loyal as a dog.￥Role: Looping intro demo.",
+   "src": "B040:7449",
+   "carry": "exact"
+  },
+  {
+   "off": 8368,
+   "budget": 71,
+   "en": "＠緑Message: This gave me even￥more gray hairs. Oh, well.",
+   "src": "B040:7516",
+   "carry": "exact"
+  },
+  {
+   "off": 8439,
+   "budget": 77,
+   "en": "＠緑Kazuki Araki. Born March 14,￥1973. Pisces. Blood type AB.",
+   "src": "B040:7587",
+   "carry": "exact"
+  },
+  {
+   "off": 8516,
+   "budget": 59,
+   "en": "＠緑▽Role￥ some program or other￥▽Character￥ tail",
+   "src": "B040:7664",
+   "carry": "exact",
+   "long": "＠緑Role: Probably some of the￥programming. Personality:￥Tails."
+  },
+  {
+   "off": 8575,
+   "budget": 101,
+   "en": "＠緑Message: Everything in this￥world is tails. If only￥Snatchers had tails, too!",
+   "src": "B040:7723",
+   "carry": "exact"
+  },
+  {
+   "off": 8676,
+   "budget": 47,
+   "en": "＠緑Videophone: 88-0236.",
+   "src": "B040:7824",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 77-5014.",
+   "sim": 0.77,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 8723,
+   "budget": 77,
+   "en": "＠緑Takayuki Ando. Born August￥21, 1973. Leo. Blood type B.",
+   "src": "B040:7871",
+   "carry": "exact"
+  },
+  {
+   "off": 8800,
+   "budget": 65,
+   "en": "＠緑Role: I drew pixel art.￥Personality: Restless.",
+   "src": "B040:7948",
+   "carry": "exact"
+  },
+  {
+   "off": 8865,
+   "budget": 71,
+   "en": "＠緑Message: Thank you for￥buying the Saturn version of￥Snatcher.",
+   "src": "B040:8013",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Message: Thank you for￥buying the PlayStation￥version of Snatcher.",
+   "sim": 0.7,
+   "note": "re-adapted 2026-09-30: Saturn version; new PS1 wording"
+  },
+  {
+   "off": 8936,
+   "budget": 47,
+   "en": "＠緑Videophone: 76-1234.",
+   "src": "B040:8096",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 74-8500.",
+   "sim": 0.77,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 8983,
+   "budget": 77,
+   "en": "＠緑Kazuhiro Iwasaki. Born￥January 5, 1971. Capricorn.￥Blood type A.",
+   "src": "B040:8143",
+   "carry": "exact"
+  },
+  {
+   "off": 9060,
+   "budget": 53,
+   "en": "＠緑Role: Package design.￥Personality: Simple.",
+   "src": "B040:8220",
+   "carry": "exact"
+  },
+  {
+   "off": 9113,
+   "budget": 69,
+   "en": "＠緑▽Message￥Can't imagine it being cold￥by release day.",
+   "src": "B040:8273",
+   "carry": "exact",
+   "long": "＠緑Message: It's hard to￥imagine it'll be cold by the￥time this comes out."
+  },
+  {
+   "off": 9182,
+   "budget": 77,
+   "en": "＠緑Yohei Kiyohara. Born October￥9, 1971. Libra. Blood type￥O.",
+   "src": "B040:8342",
+   "carry": "exact"
+  },
+  {
+   "off": 9259,
+   "budget": 63,
+   "en": "＠緑▽Character: not normal￥▽Role: I drew the pixel￥art.",
+   "src": "B040:8419",
+   "carry": "exact",
+   "long": "＠緑Personality: Anything but￥ordinary. Role: I drew pixel￥art."
+  },
+  {
+   "off": 9322,
+   "budget": 75,
+   "en": "＠緑Message: Tell everyone how￥great Snatcher is!",
+   "src": "B040:8482",
+   "carry": "exact"
+  },
+  {
+   "off": 9397,
+   "budget": 47,
+   "en": "＠緑Videophone: 49-8946.",
+   "src": "B040:8557",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 96-7715.",
+   "sim": 0.77,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 9444,
+   "budget": 83,
+   "en": "＠緑Hideo Kojima. Born August￥24, 1963. Virgo. Pure Aa￥blood type.",
+   "src": "B040:8604",
+   "carry": "exact"
+  },
+  {
+   "off": 9527,
+   "budget": 51,
+   "en": "＠緑Personality: Still stubborn￥and lonely.",
+   "src": "B040:8687",
+   "carry": "exact"
+  },
+  {
+   "off": 9578,
+   "budget": 73,
+   "en": "＠緑▽Message￥ In these seven years I￥married and became a father.",
+   "src": "B040:8738",
+   "carry": "exact",
+   "long": "＠緑Message: In these past seven￥years, I've married and￥become a father."
+  },
+  {
+   "off": 9651,
+   "budget": 89,
+   "en": "＠緑Times have changed, but￥Snatcher still holds a￥special place in my heart.",
+   "src": "B040:8811",
+   "carry": "exact"
+  },
+  {
+   "off": 9740,
+   "budget": 99,
+   "en": "＠緑I hope playing this game￥will stay with you too, as a￥cherished memory of your￥youth.",
+   "src": "B040:8900",
+   "carry": "exact"
+  },
+  {
+   "off": 9839,
+   "budget": 79,
+   "en": "＠緑Rieko Komatsubara. Born￥March 12, 1974. Pisces.￥Blood type A.",
+   "src": "B040:8999",
+   "carry": "exact"
+  },
+  {
+   "off": 9918,
+   "budget": 71,
+   "en": "＠緑Role: I drew pixel art.￥Personality: Pachislot￥gambler.",
+   "src": "B040:9078",
+   "carry": "exact"
+  },
+  {
+   "off": 9989,
+   "budget": 91,
+   "en": "＠緑▽Message￥Summer, and hot. No cooler￥at home. Ahh... the office￥is heaven.",
+   "src": "B040:9149",
+   "carry": "exact",
+   "long": "＠緑Message: It's summer, and￥it's hot! But I don't have￥air conditioning at home.￥The office is paradise."
+  },
+  {
+   "off": 10080,
+   "budget": 47,
+   "en": "＠緑Videophone: 80-0349.",
+   "src": "B040:9240",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 97-3312.",
+   "sim": 0.77,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 10127,
+   "budget": 83,
+   "en": "＠緑Yumiko Takahashi. Born￥January 26, 1975. Aquarius.￥Blood type A.",
+   "src": "B040:9287",
+   "carry": "exact"
+  },
+  {
+   "off": 10210,
+   "budget": 55,
+   "en": "＠緑▽Character￥ messy, pushy, smug￥▽Role￥ art",
+   "src": "B040:9370",
+   "carry": "exact",
+   "long": "＠緑Personality: Messy, pushy,￥and full of herself. Role:￥Pixel art."
+  },
+  {
+   "off": 10265,
+   "budget": 103,
+   "en": "＠緑▽Message￥I'm new. ...Don't mention￥the famous namesake (sob).￥Someone bring me new music.",
+   "src": "B040:9425",
+   "carry": "exact",
+   "long": "＠緑Message: I'm new here.￥Please don't bring up the￥other person with my name.￥(Sob.) Someone give me some￥fresh music."
+  },
+  {
+   "off": 10368,
+   "budget": 47,
+   "en": "＠緑Videophone: 15-9360.",
+   "src": "B040:9528",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 97-5126.",
+   "sim": 0.77,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 10415,
+   "budget": 79,
+   "en": "＠緑Makoto Toyama. Born￥September 27, 1970. Libra.￥Blood type O.",
+   "src": "B040:9575",
+   "carry": "exact"
+  },
+  {
+   "off": 10494,
+   "budget": 67,
+   "en": "＠緑▽Character￥ exhausted￥▽Role￥ storyboards, art, pixels",
+   "src": "B040:9654",
+   "carry": "exact",
+   "long": "＠緑Personality: Tired. Role:￥Storyboards, original￥artwork, pixel art."
+  },
+  {
+   "off": 10561,
+   "budget": 77,
+   "en": "＠緑▽Message￥I'd like an original next.￥But it'll be another port...",
+   "src": "B040:9721",
+   "carry": "exact",
+   "long": "＠緑Message: I'd like to work on￥an original game next. But￥it might be another port."
+  },
+  {
+   "off": 10638,
+   "budget": 47,
+   "en": "＠緑Videophone: 13-0246.",
+   "src": "B040:9798",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 573-013.",
+   "sim": 0.82,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 10685,
+   "budget": 81,
+   "en": "＠緑Naoya Hatsumi. Born April 7,￥1969. Aries. Blood type O.",
+   "src": "B040:9845",
+   "carry": "exact"
+  },
+  {
+   "off": 10766,
+   "budget": 49,
+   "en": "＠緑Personality: Wild and fun.￥Role: Design.",
+   "src": "B040:9926",
+   "carry": "exact"
+  },
+  {
+   "off": 10815,
+   "budget": 55,
+   "en": "＠緑Message: Please keep￥supporting Konami.",
+   "src": "B040:9975",
+   "carry": "exact"
+  },
+  {
+   "off": 10870,
+   "budget": 47,
+   "en": "＠緑Videophone: 98-7543.",
+   "src": "B040:10030",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 29-6947.",
+   "sim": 0.82,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 10917,
+   "budget": 75,
+   "en": "＠緑Atsushi Mizutani. Born￥December 10, 1971.￥Sagittarius. Blood type A.",
+   "src": "B040:10357",
+   "carry": "exact"
+  },
+  {
+   "off": 10992,
+   "budget": 73,
+   "en": "＠緑▽Character￥pretty cool!￥▽Message￥To make me happy,",
+   "src": "B040:10432",
+   "carry": "exact",
+   "long": "＠緑Personality: Pretty cool!￥Message: If you'd like to￥make me happy,"
+  },
+  {
+   "off": 11065,
+   "budget": 89,
+   "en": "＠緑write to Konami support,￥'make Mizutani happy' desk￥(ladies only, reply-paid).",
+   "src": "B040:10505",
+   "carry": "exact",
+   "long": "＠緑write to Konami Customer￥Service, \"Make Mizutani￥Happy\" desk. Women only.￥Please use a reply-paid￥postcard."
+  },
+  {
+   "off": 11154,
+   "budget": 47,
+   "en": "＠緑Videophone: 44-3667.",
+   "src": "B040:10594",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 71-1220.",
+   "sim": 0.73,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 11201,
+   "budget": 75,
+   "en": "＠緑Kensuke Yoshitomi. Born June￥29, 1972. Cancer. Blood type￥O.",
+   "src": "B040:10836",
+   "carry": "exact"
+  },
+  {
+   "off": 11276,
+   "budget": 59,
+   "en": "＠緑Personality: Depends on the￥day. Role: Scenario.",
+   "src": "B040:10911",
+   "carry": "exact"
+  },
+  {
+   "off": 11335,
+   "budget": 95,
+   "en": "＠緑▽Message￥Poking into every corner￥like this is one proper way￥to play this game.",
+   "src": "B040:10970",
+   "carry": "exact",
+   "long": "＠緑Message: Poking into every￥little corner like this is￥one perfectly good way to￥play this game."
+  },
+  {
+   "off": 11430,
+   "budget": 47,
+   "en": "＠緑Videophone: 53-0216.",
+   "src": "B040:11065",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 52-7619.",
+   "sim": 0.82,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 11477,
+   "budget": 87,
+   "en": "＠緑God Adachi. Born 2500 BC.￥Blood type: 20,000 yen per￥bottle.",
+   "src": "B040:11112",
+   "carry": "exact"
+  },
+  {
+   "off": 11564,
+   "budget": 73,
+   "en": "＠緑▽Sign  Gemini￥▽Role￥ sheets, mixing,￥ lookout, menace, prayer",
+   "src": "B040:11199",
+   "carry": "exact",
+   "long": "＠緑Gemini. Roles: Spreadsheets,￥music mixing, lookout,￥intimidation, prayer."
+  },
+  {
+   "off": 11637,
+   "budget": 75,
+   "en": "＠緑Personality: A calm heart, a￥piercing stare, a filthy￥desk.",
+   "src": "B040:11272",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 11712,
+   "budget": 47,
+   "en": "＠緑Message: I mixed most of the￥music.",
+   "src": "B040:11349",
+   "carry": "exact"
+  },
+  {
+   "off": 11759,
+   "budget": 115,
+   "en": "＠緑Lately I've been riding a￥Cub. My cool helmet gets￥everyone's attention. I get￥attention without it, too.",
+   "src": "B040:11396",
+   "carry": "exact"
+  },
+  {
+   "off": 11874,
+   "budget": 47,
+   "en": "＠緑Videophone: 33-5164.",
+   "src": "B040:11511",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 51-0606.",
+   "sim": 0.82,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 11921,
+   "budget": 61,
+   "en": "＠緑Sun Kida. Born February 18,￥1976.",
+   "src": "B040:11558",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Sun Kida. Born April 1,￥1990. Starting first grade￥soon.",
+   "sim": 0.69,
+   "note": "re-adapted 2026-09-30: Saturn's own birth date, no 'first grade'"
+  },
+  {
+   "off": 11982,
+   "budget": 69,
+   "en": "＠緑Aquarius. Blood type B.￥Role: Still washing dishes.￥Personality: Selfish.",
+   "src": "B040:11647",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑▽Aquarius, type B￥▽Role  dishwashing￥▽Character  pudding and￥ bananas make me glad",
+   "sim": 0.62,
+   "note": "re-adapted 2026-09-30: Saturn's own role/personality; new PS1 format"
+  },
+  {
+   "off": 12051,
+   "budget": 51,
+   "en": "＠緑▽Message￥Heart to heart, man and￥nature.",
+   "carry": "new"
+  },
+  {
+   "off": 12102,
+   "budget": 47,
+   "en": "＠緑Videophone: 36-4892.",
+   "src": "B040:11511",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 51-0606.",
+   "sim": 0.73,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 12149,
+   "budget": 81,
+   "en": "＠緑Hiroe Noguchi. Born October￥12, 1972. Libra. Blood type￥O.",
+   "src": "B040:11906",
+   "carry": "exact"
+  },
+  {
+   "off": 12230,
+   "budget": 49,
+   "en": "＠緑▽Role￥ sound FX￥▽Character￥ big sis",
+   "src": "B040:11987",
+   "carry": "exact",
+   "long": "＠緑Role: Sound effects.￥Personality: Big sister."
+  },
+  {
+   "off": 12279,
+   "budget": 95,
+   "en": "＠緑▽Message￥I only joined this year, and￥at first I knew nothing at￥all.",
+   "src": "B040:12036",
+   "carry": "exact",
+   "long": "＠緑Message: I only joined the￥company this year. When I￥arrived, I didn't know the￥first thing about anything."
+  },
+  {
+   "off": 12374,
+   "budget": 77,
+   "en": "＠緑But lately I've started￥figuring things out. And now￥I'm worried.",
+   "src": "B040:12131",
+   "carry": "exact"
+  },
+  {
+   "off": 12451,
+   "budget": 47,
+   "en": "＠緑Videophone: 90-9085.",
+   "src": "B040:12208",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 72-1012.",
+   "sim": 0.73,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 12498,
+   "budget": 89,
+   "en": "＠緑Noritada \"NOR\" Matsukawa.￥Born September 20, 1969.￥Virgo. Blood type B.",
+   "src": "B040:12255",
+   "carry": "exact"
+  },
+  {
+   "off": 12587,
+   "budget": 73,
+   "en": "＠緑Role: Sound programming.￥Personality: Greasy and￥loves work.",
+   "src": "B040:12344",
+   "carry": "exact"
+  },
+  {
+   "off": 12660,
+   "budget": 65,
+   "en": "＠緑▽Message￥No time to play games all￥day, you lot.",
+   "src": "B040:12417",
+   "carry": "exact",
+   "long": "＠緑Message: You guys can't just￥sit around playing games all￥day!"
+  },
+  {
+   "off": 12725,
+   "budget": 47,
+   "en": "＠緑Videophone: 53-6044.",
+   "src": "B040:12482",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 56-9926.",
+   "sim": 0.82,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 12772,
+   "budget": 73,
+   "en": "＠緑'Takao Yamagishi'￥▽Born￥ February 25, 1971￥▽Pisces, type O",
+   "carry": "new"
+  },
+  {
+   "off": 12845,
+   "budget": 65,
+   "en": "＠緑▽Role￥ scenario etc.￥▽Character￥ haphazard life",
+   "carry": "new"
+  },
+  {
+   "off": 12910,
+   "budget": 101,
+   "en": "＠緑▽Message￥Don't call me 'Yaba'!￥(sob) Folk far more intense￥than me are countless.",
+   "carry": "new"
+  },
+  {
+   "off": 13011,
+   "budget": 79,
+   "en": "＠緑▽Message￥ So glad to join the port of￥'Snatchaa' I'd always￥wanted.",
+   "carry": "new"
+  },
+  {
+   "off": 13090,
+   "budget": 77,
+   "en": "＠緑But the schedule's too￥tight!! (sob) I wanted to￥add more fun...",
+   "carry": "new"
+  },
+  {
+   "off": 13167,
+   "budget": 47,
+   "en": "＠緑Videophone: 28-6682.",
+   "src": "B040:12482",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 56-9926.",
+   "sim": 0.77,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 13214,
+   "budget": 81,
+   "en": "＠緑'Junko Koike'￥▽Born￥ January 23, 1972￥▽Aquarius, type AB",
+   "carry": "new"
+  },
+  {
+   "off": 13295,
+   "budget": 59,
+   "en": "＠緑▽Role￥ massage￥▽Character￥ eat, sleep, dance",
+   "carry": "new"
+  },
+  {
+   "off": 13354,
+   "budget": 43,
+   "en": "＠緑▽Message￥ Be nice to Marukodama too",
+   "carry": "new"
+  },
+  {
+   "off": 13397,
+   "budget": 47,
+   "en": "＠緑Videophone: 03-2128.",
+   "src": "B040:12482",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 56-9926.",
+   "sim": 0.77,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 13444,
+   "budget": 75,
+   "en": "＠緑'Tadaaki Tsunashima'￥▽Born￥ June 29, 1970￥▽Cancer, type O",
+   "carry": "new"
+  },
+  {
+   "off": 13519,
+   "budget": 67,
+   "en": "＠緑▽Role￥ programs and chores￥▽Character￥ kind, terrifying",
+   "carry": "new"
+  },
+  {
+   "off": 13586,
+   "budget": 61,
+   "en": "＠緑▽Message￥ I want to make a game full￥of polygons.",
+   "carry": "new"
+  },
+  {
+   "off": 13647,
+   "budget": 47,
+   "en": "＠緑Videophone: 47-0314.",
+   "src": "B040:12482",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 56-9926.",
+   "sim": 0.73,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 13694,
+   "budget": 79,
+   "en": "＠緑'Mihoko Kimura'￥▽Born￥ January 16, 1970￥▽Southern Fish, type B",
+   "carry": "new",
+   "note": "南の魚座 = Piscis Austrinus, the joke sign"
+  },
+  {
+   "off": 13773,
+   "budget": 45,
+   "en": "＠緑▽Role: design￥▽Character￥ east fox",
+   "carry": "new"
+  },
+  {
+   "off": 13818,
+   "budget": 79,
+   "en": "＠緑▽Message￥ How long have you been￥playing? Time to rest your￥eyes.",
+   "carry": "new"
+  },
+  {
+   "off": 13897,
+   "budget": 47,
+   "en": "＠緑Videophone: 13-5953.",
+   "src": "B040:12482",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 56-9926.",
+   "sim": 0.77,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 13944,
+   "budget": 77,
+   "en": "＠緑'Akinari Takaki'￥▽Born￥ November 13, 1970￥▽Scorpio, type A",
+   "carry": "new"
+  },
+  {
+   "off": 14021,
+   "budget": 51,
+   "en": "＠緑▽Role￥ program￥▽Character￥ mystery x5",
+   "carry": "new"
+  },
+  {
+   "off": 14072,
+   "budget": 95,
+   "en": "＠緑▽Message￥ 8F 6A 81 49￥ 88 C3 8D 86￥ 89 F0 93 C7",
+   "carry": "new",
+   "note": "hex bytes as in the jp (a Shift-JIS puzzle), kept"
+  },
+  {
+   "off": 14167,
+   "budget": 47,
+   "en": "＠緑Videophone: 33-3288.",
+   "src": "B040:12482",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 56-9926.",
+   "sim": 0.77,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 14214,
+   "budget": 77,
+   "en": "＠緑'Shoichiro Hirata'￥▽Born￥ October 14, 1968￥▽Libra, type O",
+   "carry": "new"
+  },
+  {
+   "off": 14291,
+   "budget": 41,
+   "en": "＠緑▽Role: cook￥▽Character: mild",
+   "carry": "new"
+  },
+  {
+   "off": 14332,
+   "budget": 31,
+   "en": "＠緑▽Message￥Had your rice?",
+   "carry": "new"
+  },
+  {
+   "off": 14363,
+   "budget": 47,
+   "en": "＠緑Videophone: 72-9709.",
+   "src": "B040:12482",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 56-9926.",
+   "sim": 0.82,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 14410,
+   "budget": 73,
+   "en": "＠緑'Keizo Nakamura'￥▽Born￥ April 8, 1963￥▽Aries, type O",
+   "carry": "new"
+  },
+  {
+   "off": 14483,
+   "budget": 59,
+   "en": "＠緑▽Role￥ sound FX￥▽Character￥ average Japanese",
+   "carry": "new"
+  },
+  {
+   "off": 14542,
+   "budget": 39,
+   "en": "＠緑▽Message￥Heat and cold pass.",
+   "carry": "new",
+   "note": "暑さ寒さも彼岸まで, the proverb"
+  },
+  {
+   "off": 14581,
+   "budget": 47,
+   "en": "＠緑Videophone: 99-7412.",
+   "src": "B040:12482",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 56-9926.",
+   "sim": 0.82,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 14628,
+   "budget": 75,
+   "en": "＠緑'Akiropito'￥▽Born￥ January 25, 2017￥▽Aquarius, type A",
+   "carry": "new"
+  },
+  {
+   "off": 14703,
+   "budget": 57,
+   "en": "＠緑▽Role￥ special agent￥▽Character￥ scatterbrain",
+   "carry": "new"
+  },
+  {
+   "off": 14760,
+   "budget": 81,
+   "en": "＠緑▽Message￥Died on day one, a bomb slip￥taking 500 civilians with￥him.",
+   "carry": "new"
+  },
+  {
+   "off": 14841,
+   "budget": 47,
+   "en": "＠緑Videophone: 81-5223.",
+   "src": "B040:12482",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 56-9926.",
+   "sim": 0.77,
+   "note": "the Saturn's own number; re-adapted 2026-09-30: own number kept; new PS1 terminal format"
+  },
+  {
+   "off": 14888,
+   "budget": 29,
+   "en": "＠緑￥   N I J I N O 10 !!",
+   "carry": "new",
+   "note": "虫工里予 = 虹野 split into radicals (fan code); spaced letters stand in"
+  },
+  {
+   "off": 14917,
+   "budget": 73,
+   "en": "＠緑'Saki Nijino'￥▽Born￥ January 13￥▽Capricorn, type A",
+   "carry": "new"
+  },
+  {
+   "off": 14990,
+   "budget": 71,
+   "en": "＠緑▽Height￥ 156cm￥▽Measurements￥ B 81cm W 59cm H 82cm",
+   "carry": "new"
+  },
+  {
+   "off": 15061,
+   "budget": 49,
+   "en": "＠緑Videophone:￥ωωωω △×○−△△×",
+   "src": "B040:12482",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Videophone: 56-9926.",
+   "sim": 0.58,
+   "note": "the Saturn's own masked number; the ω codes kept as in the jp; re-adapted 2026-09-30: own masked number + ω kept; new PS1 format"
+  },
+  {
+   "off": 15110,
+   "budget": 77,
+   "en": "＠緑Kazuhisa Hashimoto. Born￥November 16, 1958.￥Scorpio. Blood type B.",
+   "src": "B040:12529",
+   "carry": "exact"
+  },
+  {
+   "off": 15187,
+   "budget": 45,
+   "en": "＠緑Role: Janitor. Personality:￥Harmless.",
+   "src": "B040:12606",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 15232,
+   "budget": 47,
+   "en": "＠緑Message: Keep showing Konami￥some love!",
+   "src": "B040:12653",
+   "carry": "exact"
+  },
+  {
+   "off": 15279,
+   "budget": 23,
+   "en": "    ＠緑'Madoka'",
+   "src": "B040:12700",
+   "carry": "exact"
+  },
+  {
+   "off": 15302,
+   "budget": 75,
+   "en": "＠緑▽Age unknown Schoolgirl￥Granddaughter of Dr Murdock￥ of Donburi",
+   "src": "B040:12723",
+   "carry": "exact",
+   "long": "＠緑Age unknown. Middle school￥student. Granddaughter of￥Dr. Murdock, a scientist on￥Donburi Island."
+  },
+  {
+   "off": 15377,
+   "budget": 103,
+   "en": "＠緑Her hobby is baking cookies.￥But chasing new recipes so￥hard, she has yet to make a￥normal one.",
+   "src": "B040:12798",
+   "carry": "exact",
+   "long": "＠緑She enjoys making cookies,￥but her obsession with new￥recipes means she's never￥made a normal batch.",
+   "note": "row 2 re-wrapped at 14"
+  },
+  {
+   "off": 15480,
+   "budget": 67,
+   "en": "＠緑Reports say they wiped out￥poison gas on the island.",
+   "src": "B040:12901",
+   "carry": "exact",
+   "long": "＠緑Reports say her cookies are￥powerful enough to eliminate￥the poison gas that attacked￥the island."
+  },
+  {
+   "off": 15547,
+   "budget": 59,
+   "en": "＠緑An ordinary girl, yet￥trouble follows her around.",
+   "src": "B040:12968",
+   "carry": "exact",
+   "long": "＠緑She ought to be an ordinary￥girl, but somehow she keeps￥getting caught up in￥trouble."
+  },
+  {
+   "off": 15606,
+   "budget": 31,
+   "en": "＠緑Best work 'Squid Cookie'",
+   "src": "B040:13027",
+   "carry": "exact",
+   "long": "＠緑Signature creation: Squid￥Ink Cookies."
+  },
+  {
+   "off": 15637,
+   "budget": 31,
+   "en": "＠緑Isabella Velvet",
+   "src": "B040:13058",
+   "carry": "exact"
+  },
+  {
+   "off": 15668,
+   "budget": 51,
+   "en": "＠緑Age: 24. Popular Hologram￥Vision actress.",
+   "src": "B040:13089",
+   "carry": "exact"
+  },
+  {
+   "off": 15719,
+   "budget": 105,
+   "en": "＠緑▽Discovered dancing at￥Outer Heaven by director￥Ridley Scotty, who gave her￥her debut.",
+   "src": "B040:13140",
+   "carry": "exact",
+   "long": "＠緑Director Ridley Scotty￥discovered her while she was￥working as a dancer at Outer￥Heaven, launching her acting￥career."
+  },
+  {
+   "off": 15824,
+   "budget": 91,
+   "en": "＠緑'40 Kobe International Film￥Festival Best Actress.￥'41 Cannes Special Jury￥Prize.",
+   "src": "B040:13245",
+   "carry": "exact",
+   "long": "＠緑Best Actress, 2040 Kobe￥International Film Festival.￥Special Jury Prize, 2041￥Cannes Film Festival.",
+   "note": "row 1,2 re-wrapped at 14; 5 rows (box has 4)"
+  },
+  {
+   "off": 15915,
+   "budget": 55,
+   "en": "＠緑Oscar nominee two years￥running, '41 and '42.",
+   "src": "B040:13336",
+   "carry": "exact",
+   "long": "＠緑Oscar nominee for two￥consecutive years, 2041 and￥2042."
+  },
+  {
+   "off": 15970,
+   "budget": 107,
+   "en": "＠緑Notable holograms 'Bolero of￥Dangerous Love (39)' 'Kiss￥of the Bees (41)' 'Beyond￥Sorrow (41)",
+   "src": "B040:13391",
+   "carry": "exact",
+   "long": "＠緑Notable holographic films:￥Bolero of Dangerous Love￥(2039), Kiss of the Honeybee￥(2041), Beyond Sorrow￥(2041)."
+  },
+  {
+   "off": 16077,
+   "budget": 43,
+   "en": "＠緑▽Height 175cm ▽Blood type￥O",
+   "src": "B040:13498",
+   "carry": "exact",
+   "long": "＠緑Height: 175 centimeters.￥Blood type O."
+  },
+  {
+   "off": 16120,
+   "budget": 57,
+   "en": "＠緑▽B 87cm W 59cm H 88cm",
+   "src": "B040:13541",
+   "carry": "exact",
+   "long": "＠緑Bust: 87 centimeters. Waist:￥59 centimeters. Hips: 88￥centimeters."
+  },
+  {
+   "off": 16177,
+   "budget": 29,
+   "en": "＠緑Ivan Rodriguez",
+   "src": "B040:13598",
+   "carry": "exact"
+  },
+  {
+   "off": 16206,
+   "budget": 71,
+   "en": "＠緑Age: 27. Unmarried. Amateur￥aero surfer.",
+   "src": "B040:13627",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Age: 27. Unmarried. Amateur￥air surfer. Family: none.",
+   "sim": 0.89,
+   "note": "re-adapted 2026-09-30: Saturn's 'aero', no family line; new PS1 format"
+  },
+  {
+   "off": 16277,
+   "budget": 99,
+   "en": "＠緑▽Address SN district, South￥ Itayado 5-22￥ (outside data control)￥▽Family: none",
+   "src": "B040:13712",
+   "carry": "exact",
+   "long": "＠緑Address: 5-22 South Itayado,￥SN District. Note: outside￥the information network.￥Family: none."
+  },
+  {
+   "off": 16376,
+   "budget": 57,
+   "en": "＠緑Home searched as a Snatcher￥suspect; held on drug.",
+   "src": "B040:13811",
+   "carry": "exact",
+   "long": "＠緑His home was searched on￥suspicion of being a￥Snatcher. Arrested for￥illegal drug possession."
+  },
+  {
+   "off": 16433,
+   "budget": 71,
+   "en": "＠緑Age: 27. Unmarried. Amateur￥aero surfer.",
+   "src": "B040:13868",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Age: 27. Unmarried. Amateur￥air surfer. Family: none.",
+   "sim": 0.89,
+   "note": "re-adapted 2026-09-30: Saturn's 'aero', no family line; new PS1 format"
+  },
+  {
+   "off": 16504,
+   "budget": 91,
+   "en": "＠緑▽Address SN district, South￥Itayado 5-22￥ (outside data control)￥▽Family: none",
+   "src": "B040:13953",
+   "carry": "exact",
+   "long": "＠緑Address: 5-22 South Itayado,￥SN District. Note: outside￥the information network.￥Family: none."
+  },
+  {
+   "off": 16595,
+   "budget": 25,
+   "en": "＠緑Data search failed.",
+   "src": "B040:14044",
+   "carry": "exact"
+  },
+  {
+   "off": 16620,
+   "budget": 67,
+   "en": "＠緑Your ID cannot clear the￥security level on this data.",
+   "src": "B040:14069",
+   "carry": "exact",
+   "long": "＠緑Your ID does not have the￥security clearance needed to￥access this data."
+  },
+  {
+   "off": 16687,
+   "budget": 69,
+   "en": "＠緑An ID with level 7 clearance￥is required to unlock￥access.",
+   "src": "B040:14136",
+   "carry": "exact"
+  },
+  {
+   "off": 16756,
+   "budget": 45,
+   "en": "Why can't I access my own data?",
+   "src": "B040:14205",
+   "carry": "candidate_ok",
+   "en_candidate": "Why can't I access my own data?",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 16801,
+   "budget": 29,
+   "en": "＠緑Data search failed.",
+   "src": "B040:14248",
+   "carry": "exact"
+  },
+  {
+   "off": 16830,
+   "budget": 65,
+   "en": "＠緑Your ID cannot clear the￥security level on this data",
+   "src": "B040:14277",
+   "carry": "exact",
+   "long": "＠緑Your ID does not have the￥security clearance needed to￥access this data."
+  },
+  {
+   "off": 16895,
+   "budget": 49,
+   "en": "Why can't I access Jamie's data?",
+   "src": "B040:14342",
+   "carry": "exact"
+  },
+  {
+   "off": 16944,
+   "budget": 23,
+   "en": "   ＠緑'Chin Shu Ho'",
+   "src": "B040:14391",
+   "carry": "exact"
+  },
+  {
+   "off": 16967,
+   "budget": 21,
+   "en": "＠緑Jobless Age 41",
+   "src": "B040:14414",
+   "carry": "exact"
+  },
+  {
+   "off": 16988,
+   "budget": 85,
+   "en": "＠緑▽Record￥Mar 2038: charged over￥illegal host-mother work;￥senior licence cut.",
+   "src": "B040:14435",
+   "carry": "exact",
+   "long": "＠緑Record: March 2038. Referred￥for prosecution for illegal￥Host Mother operations.￥Advanced medical license￥revoked.",
+   "note": "row 2 re-wrapped at 14"
+  },
+  {
+   "off": 17073,
+   "budget": 85,
+   "en": "＠緑Sep 2040: arrested for an￥unlicensed clinic (Queen);￥licence gone.",
+   "src": "B040:14520",
+   "carry": "rebroken",
+   "long": "＠緑September 2040. Arrested for￥operating an unlicensed￥clinic, Queen Hospital.￥Intermediate medical license￥suspended.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 17158,
+   "budget": 107,
+   "en": "＠緑May 2041. Permanently barred￥from operating for violating￥physical containment safety￥standards.",
+   "src": "B040:14601",
+   "carry": "exact"
+  },
+  {
+   "off": 17265,
+   "budget": 47,
+   "en": "＠緑Family: none. No updated￥data for 2042.",
+   "src": "B040:14708",
+   "carry": "exact"
+  },
+  {
+   "off": 17312,
+   "budget": 81,
+   "en": "＠緑Sep 2040: arrested for an￥unlicensed clinic (Queen);￥licence gone.",
+   "src": "B040:14520",
+   "carry": "exact",
+   "long": "＠緑September 2040. Arrested for￥operating an unlicensed￥clinic, Queen Hospital.￥Intermediate medical license￥suspended."
+  },
+  {
+   "off": 17393,
+   "budget": 33,
+   "en": "￥ ＠緑Level class ID confirmed",
+   "src": "B040:14755",
+   "carry": "exact",
+   "long": "＠緑ID clearance level￥confirmed."
+  },
+  {
+   "off": 17426,
+   "budget": 87,
+   "en": "＠赤Classified to protect the￥subject and their kin.￥Disclosure is forbidden.",
+   "src": "B040:14788",
+   "carry": "exact",
+   "long": "＠赤This data is strictly confidential￥to protect the subject and their￥relatives. Disclosure is prohibited."
+  },
+  {
+   "off": 17513,
+   "budget": 29,
+   "en": "＠緑Harry Benson",
+   "src": "B040:14875",
+   "carry": "exact"
+  },
+  {
+   "off": 17542,
+   "budget": 93,
+   "en": "＠緑Age: 55. Unmarried. JUNKER￥Mechanic. Former scientific￥staff member of RUG HUNT.",
+   "src": "B040:14904",
+   "carry": "exact"
+  },
+  {
+   "off": 17635,
+   "budget": 89,
+   "en": "＠緑▽Lost his parents in the￥Catastrophe, raised by the￥state.￥Doctorate at 14.",
+   "src": "B040:14997",
+   "carry": "exact",
+   "long": "＠緑Orphaned by the Catastrophe,￥he entered government care￥as a young child. He earned￥his doctorate at just￥fourteen."
+  },
+  {
+   "off": 17724,
+   "budget": 85,
+   "en": "＠緑In World War III he devised￥many new weapons on￥development staff, drawing",
+   "src": "B040:15086",
+   "carry": "exact",
+   "long": "＠緑During World War III, he￥attracted attention by￥designing numerous new￥weapons as a military￥weapons developer."
+  },
+  {
+   "off": 17809,
+   "budget": 67,
+   "en": "＠緑After the war he moved to￥NASA and worked on ramjets.",
+   "src": "B040:15171",
+   "carry": "exact",
+   "long": "＠緑After the war, he moved to￥NASA and worked on ramjet￥engine development."
+  },
+  {
+   "off": 17876,
+   "budget": 53,
+   "en": "＠緑Three Nobel prizes and one￥Fields Medal.",
+   "src": "B040:15238",
+   "carry": "exact",
+   "long": "＠緑He has received three Nobel￥Prizes and one Fields Medal."
+  },
+  {
+   "off": 17929,
+   "budget": 63,
+   "en": "＠緑▽Height 168cm ▽Weight￥65kg ▽Blood type O",
+   "src": "B040:15291",
+   "carry": "exact",
+   "long": "＠緑Height: 168 centimeters.￥Weight: 65 kilograms. Blood￥type O."
+  },
+  {
+   "off": 17992,
+   "budget": 31,
+   "en": "＠緑Freddy Nielsen",
+   "src": "B040:15354",
+   "carry": "exact"
+  },
+  {
+   "off": 18023,
+   "budget": 85,
+   "en": "＠緑Age: 29. Independent taxi￥driver. Wife: Lisa, age 25.",
+   "src": "B040:15385",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 18108,
+   "budget": 79,
+   "en": "＠緑Address: Domitle Okamoto,￥Apartment 202, 3-7 New￥Okamoto, MR District.",
+   "src": "B040:15472",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Address: Doktor Okamoto,￥Apartment 202, 3-8 New￥Okamoto, MR District.",
+   "sim": 0.95,
+   "note": "re-adapted 2026-09-30: own address (Domitle, 3-7) kept; new PS1 format"
+  },
+  {
+   "off": 18187,
+   "budget": 89,
+   "en": "＠緑Identified as a Snatcher and￥disposed of by bounty hunter￥Randam Hajile.",
+   "src": "B040:15551",
+   "carry": "exact",
+   "long": "＠緑Identified as a Snatcher￥during an investigation and￥eliminated by bounty hunter￥Randam Hajile."
+  },
+  {
+   "off": 18276,
+   "budget": 43,
+   "en": "＠緑His own body has not been￥found.",
+   "src": "B040:15640",
+   "carry": "exact",
+   "long": "＠緑The real Freddy's body has￥not yet been found."
+  },
+  {
+   "off": 18319,
+   "budget": 37,
+   "en": "＠緑 ＠緑Level class ID confirmed",
+   "src": "B040:15683",
+   "carry": "exact",
+   "long": "＠緑＠緑ID clearance level￥confirmed."
+  },
+  {
+   "off": 18356,
+   "budget": 31,
+   "en": "＠緑Benson Cunningham",
+   "src": "B040:15720",
+   "carry": "exact"
+  },
+  {
+   "off": 18387,
+   "budget": 33,
+   "en": "＠緑Age: 46. Chief of JUNKER.",
+   "src": "B040:15751",
+   "carry": "exact"
+  },
+  {
+   "off": 18420,
+   "budget": 113,
+   "en": "＠緑▽Snatcher countermeasure￥head in FOX HOUND, then￥anti-Snatcher squad leader,￥then JUNKER Chief.",
+   "src": "B040:15784",
+   "carry": "exact",
+   "long": "＠緑Appointed Chief of JUNKER￥after heading FOXHOUND's￥anti-Snatcher headquarters￥and the special￥anti-Snatcher unit."
+  },
+  {
+   "off": 18533,
+   "budget": 89,
+   "en": "＠緑In his twenties he taught￥strategy with the high-tech￥special force FOX HOUND.",
+   "src": "B040:15897",
+   "carry": "exact",
+   "long": "＠緑In his twenties, he served￥as a strategy instructor in￥the high-tech special forces￥unit FOXHOUND."
+  },
+  {
+   "off": 18622,
+   "budget": 57,
+   "en": "＠緑Competed in judo at the 2028￥Wellington Olympics.",
+   "src": "B040:15986",
+   "carry": "exact"
+  },
+  {
+   "off": 18679,
+   "budget": 63,
+   "en": "＠緑▽Height 180cm ▽Weight￥75kg ▽Blood type B",
+   "src": "B040:16043",
+   "carry": "exact",
+   "long": "＠緑Height: 180 centimeters.￥Weight: 75 kilograms. Blood￥type B."
+  },
+  {
+   "off": 18742,
+   "budget": 29,
+   "en": "＠緑Mika Slayton",
+   "src": "B040:16106",
+   "carry": "exact"
+  },
+  {
+   "off": 18771,
+   "budget": 63,
+   "en": "＠緑▽23, unmarried￥ JUNKER HQ receptionist￥ and operator.",
+   "src": "B040:16135",
+   "carry": "exact",
+   "long": "＠緑Age: 23. Unmarried.￥Receptionist and Operator at￥JUNKER headquarters."
+  },
+  {
+   "off": 18834,
+   "budget": 117,
+   "en": "＠緑▽Studied criminal￥psychology and data￥processing at Kobe Gakuen.￥Kobe crime lab, then JUNKER.",
+   "src": "B040:16198",
+   "carry": "exact",
+   "long": "＠緑Studied criminal psychology￥and social information￥processing at Kobe Gakuen￥City University. After￥graduation, she worked at￥the Kobe Special Crime￥Research Institute before￥joining JUNKER.",
+   "note": "5 rows (box has 4)"
+  },
+  {
+   "off": 18951,
+   "budget": 101,
+   "en": "＠緑At the institute she handled￥many bizarre cases, using￥the risky 'element of crime'￥method.",
+   "src": "B040:16315",
+   "carry": "exact",
+   "long": "＠緑At the institute, she￥handled numerous bizarre￥crimes using the dangerous￥Element of Crime method.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 19052,
+   "budget": 113,
+   "en": "＠緑Every case was solved, but￥the mental strain led her to￥resign. The Chief￥recommended her to JUNKER.",
+   "src": "B040:16416",
+   "carry": "exact",
+   "long": "＠緑She solved every case, but￥the mental strain led her to￥resign. The Chief's￥recommendation brought her￥to JUNKER headquarters.",
+   "note": "row 1 re-wrapped at 14; 5 rows (box has 4)"
+  },
+  {
+   "off": 19165,
+   "budget": 43,
+   "en": "＠緑▽Height 167cm ▽Blood type￥A",
+   "src": "B040:16529",
+   "carry": "exact",
+   "long": "＠緑Height: 167 centimeters.￥Blood type A."
+  },
+  {
+   "off": 19208,
+   "budget": 27,
+   "en": "＠緑Metal Gear",
+   "src": "B040:16572",
+   "carry": "exact"
+  },
+  {
+   "off": 19235,
+   "budget": 45,
+   "en": "＠緑Manufactured September 13,￥2042.",
+   "src": "B040:16599",
+   "carry": "exact"
+  },
+  {
+   "off": 19280,
+   "budget": 89,
+   "en": "＠緑Official designation: NAVI￥Metal Gear Mk. II. Designer:￥Harry Benson.",
+   "src": "B040:16644",
+   "carry": "exact"
+  },
+  {
+   "off": 19369,
+   "budget": 89,
+   "en": "＠緑Height: 980 mm. Length: 310￥mm. Width: 530 mm, including￥monitor.",
+   "src": "B040:16733",
+   "carry": "exact"
+  },
+  {
+   "off": 19458,
+   "budget": 47,
+   "en": "＠緑▽Weight 50kg ▽Load￥capacity 40 liters",
+   "src": "B040:16822",
+   "carry": "exact",
+   "long": "＠緑Weight: 50 kilograms.￥Storage capacity: 40 liters."
+  },
+  {
+   "off": 19505,
+   "budget": 27,
+   "en": "＠緑Little John",
+   "src": "B040:16869",
+   "carry": "exact"
+  },
+  {
+   "off": 19532,
+   "budget": 43,
+   "en": "＠緑Manufactured July 8, 2038.",
+   "src": "B040:16896",
+   "carry": "exact"
+  },
+  {
+   "off": 19575,
+   "budget": 99,
+   "en": "＠緑Official designation: NAVI￥Little John MSX011.￥Designer: Harry Benson.",
+   "src": "B040:16939",
+   "carry": "exact"
+  },
+  {
+   "off": 19674,
+   "budget": 83,
+   "en": "＠緑Height: 720 mm. Length: 420￥mm. Width: 520 mm, including￥monitor.",
+   "src": "B040:17038",
+   "carry": "exact"
+  },
+  {
+   "off": 19757,
+   "budget": 21,
+   "en": "＠緑▽Weight 38kg",
+   "src": "B040:17121",
+   "carry": "exact"
+  },
+  {
+   "off": 19778,
+   "budget": 49,
+   "en": "＠緑Dec 2042 Destroyed in M￥district ruin",
+   "src": "B040:17142",
+   "carry": "exact",
+   "long": "＠緑December 2042: Destroyed at￥the factory ruins in M￥District."
+  },
+  {
+   "off": 19827,
+   "budget": 29,
+   "en": "＠緑Lisa Nielsen",
+   "src": "B040:17191",
+   "carry": "exact"
+  },
+  {
+   "off": 19856,
+   "budget": 45,
+   "en": "＠緑25 years old Housewife￥Husband Freddy",
+   "src": "B040:17220",
+   "carry": "exact",
+   "long": "＠緑Age: 25. Homemaker. Husband:￥Freddy, age 29."
+  },
+  {
+   "off": 19901,
+   "budget": 81,
+   "en": "＠緑Identified as a Snatcher and￥disposed of by JUNKER￥Gillian Seed.",
+   "src": "B040:17265",
+   "carry": "exact",
+   "long": "＠緑Identified as a Snatcher￥during an investigation and￥eliminated by JUNKER Gillian￥Seed."
+  },
+  {
+   "off": 19982,
+   "budget": 47,
+   "en": "Not registered in Alphaville either?",
+   "src": "B040:17346",
+   "carry": "exact",
+   "long": "So he's not registered with￥Alphaville after all?"
+  },
+  {
+   "off": 20029,
+   "budget": 91,
+   "en": "If that's a real name and it's not￥in Alphaville... a drifter or￥illegal immigrant.",
+   "src": "B040:17393",
+   "carry": "exact",
+   "long": "If that's his real name and he's not￥registered with Alphaville, he's￥probably a drifter or an illegal￥immigrant."
+  },
+  {
+   "off": 20120,
+   "budget": 55,
+   "en": "This Randam isn't registered with￥Alphaville?",
+   "src": "B040:17484",
+   "carry": "exact"
+  },
+  {
+   "off": 20175,
+   "budget": 15,
+   "en": "Strange...",
+   "src": "B040:17539",
+   "carry": "exact"
+  },
+  {
+   "off": 20190,
+   "budget": 11,
+   "en": "Odd...",
+   "src": "B040:17554",
+   "carry": "exact"
+  },
+  {
+   "off": 20201,
+   "budget": 31,
+   "en": "＠緑Catherine Gibson",
+   "src": "B040:17565",
+   "carry": "exact"
+  },
+  {
+   "off": 20232,
+   "budget": 55,
+   "en": "＠緑Age: 14. Jean Jack Gibson's￥only daughter.",
+   "src": "B040:17596",
+   "carry": "exact"
+  },
+  {
+   "off": 20287,
+   "budget": 97,
+   "en": "＠緑▽'41: won the Miss Thirteen￥contest.￥Now a popular hologram-sign￥commercial model.",
+   "src": "B040:17651",
+   "carry": "exact",
+   "long": "＠緑Won the Miss Thirteen￥contest in 2041. Now a￥popular model for￥holographic advertisements."
+  },
+  {
+   "off": 20384,
+   "budget": 43,
+   "en": "＠緑▽Height 160cm ▽Blood type￥B",
+   "src": "B040:17748",
+   "carry": "exact",
+   "long": "＠緑Height: 160 centimeters.￥Blood type B."
+  },
+  {
+   "off": 20427,
+   "budget": 57,
+   "en": "＠赤▽B 81cm W 58cm H 83cm",
+   "src": "B040:17791",
+   "carry": "exact",
+   "long": "＠赤Bust: 81 centimeters. Waist:￥58 centimeters. Hips: 83￥centimeters."
+  },
+  {
+   "off": 20484,
+   "budget": 43,
+   "en": "A model, huh? She must be cute.",
+   "src": "B040:17848",
+   "carry": "exact"
+  },
+  {
+   "off": 20527,
+   "budget": 55,
+   "en": "＠緑Jean Jack Gibson",
+   "src": "B040:17891",
+   "carry": "exact"
+  },
+  {
+   "off": 20582,
+   "budget": 103,
+   "en": "＠緑Age: ＠赤55＠緑. JUNKER Runner.￥Wife: Alice, deceased.￥Eldest daughter: Catherine,￥age 14.",
+   "src": "B040:17946",
+   "carry": "exact"
+  },
+  {
+   "off": 20685,
+   "budget": 117,
+   "en": "＠緑▽Science officer from 2010.￥After Snatchers killed his￥wife in the '41 panic, he￥moved to JUNKER.",
+   "src": "B040:18049",
+   "carry": "exact",
+   "long": "＠緑A forensic police officer￥since 2010. After a Snatcher￥killed his wife during the￥2041 Bioroid Panic, he￥requested a transfer to￥JUNKER.",
+   "note": "5 rows (box has 4)"
+  },
+  {
+   "off": 20802,
+   "budget": 63,
+   "en": "＠緑▽Height 185cm ▽Weight￥78kg ▽Blood type O",
+   "src": "B040:18166",
+   "carry": "exact",
+   "long": "＠緑Height: 185 centimeters.￥Weight: 78 kilograms. Blood￥type O."
+  },
+  {
+   "off": 20865,
+   "budget": 51,
+   "en": "＠緑Dec 2042 Killed on duty￥chasing a Snatcher",
+   "src": "B040:18229",
+   "carry": "exact",
+   "long": "＠緑December 2042: Killed in the￥line of duty while pursuing￥a Snatcher."
+  },
+  {
+   "off": 20916,
+   "budget": 29,
+   "en": "＠緑Alice Gibson",
+   "src": "B040:18280",
+   "carry": "exact"
+  },
+  {
+   "off": 20945,
+   "budget": 69,
+   "en": "＠緑▽Wife of Jean Jack Gibson.￥Eldest daughter Catherine,￥14.",
+   "src": "B040:18309",
+   "carry": "exact",
+   "long": "＠緑Wife of Jean Jack Gibson.￥Eldest daughter: Catherine,￥age 14."
+  },
+  {
+   "off": 21014,
+   "budget": 81,
+   "en": "＠緑Killed by a Snatcher during￥the 2041 Bioroid Panic. She￥was forty.",
+   "src": "B040:18378",
+   "carry": "candidate_ok",
+   "en_candidate": "＠緑Killed by a Snatcher during￥the 2041 Bioroid Panic. She￥was forty.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 21095,
+   "budget": 43,
+   "en": "＠緑▽Height 165cm ▽Blood type￥B",
+   "src": "B040:18457",
+   "carry": "exact",
+   "long": "＠緑Height: 165 centimeters.￥Blood type B."
+  },
+  {
+   "off": 21138,
+   "budget": 75,
+   "en": "＠緑'Gabiin' Dubious sayings 1￥ Apparently expresses a￥heavy shock.",
+   "carry": "new"
+  },
+  {
+   "off": 21213,
+   "budget": 69,
+   "en": "＠緑'Not my bug' Dubious sayings￥2￥ It's your bug, mate.￥Yours.",
+   "carry": "new"
+  },
+  {
+   "off": 21282,
+   "budget": 89,
+   "en": "＠緑'A nice picture instead'￥Dubious sayings 3￥ Stop making it a trade, I￥said.",
+   "carry": "new"
+  },
+  {
+   "off": 21371,
+   "budget": 91,
+   "en": "＠緑'It's Act 1' Dubious sayings￥4￥ Mr. So-and-so's words of￥resignation. Too sad...",
+   "carry": "new"
+  },
+  {
+   "off": 21462,
+   "budget": 99,
+   "en": "＠緑'Going home today...'￥Dubious sayings 5 Go game at￥home if you like, but fix￥bugs first.",
+   "carry": "new"
+  },
+  {
+   "off": 21561,
+   "budget": 91,
+   "en": "＠緑'Little elves' Dubious￥sayings 6 ♪I'm a little￥elf, fixing bugs at￥midnight. Sob.",
+   "carry": "new"
+  },
+  {
+   "off": 21652,
+   "budget": 53,
+   "en": "＠緑'By design' Dubious sayings￥7￥ It's a bug!!!",
+   "carry": "new"
+  },
+  {
+   "off": 21705,
+   "budget": 49,
+   "en": "＠緑Mr. Big. Real name unknown.",
+   "src": "B040:18500",
+   "carry": "exact"
+  },
+  {
+   "off": 21754,
+   "budget": 35,
+   "en": "＠緑▽Age unknown ▽Race unknown",
+   "src": "B040:18549",
+   "carry": "exact",
+   "long": "＠緑Age: unknown. Ethnicity:￥unknown."
+  },
+  {
+   "off": 21789,
+   "budget": 95,
+   "en": "＠緑▽Rose from a small southern￥gang to the top of the￥underworld through Liquid￥Sky.",
+   "src": "B040:18584",
+   "carry": "exact",
+   "long": "＠緑Rose from a small southern￥gang to the top of the￥underworld by trafficking￥the hallucinogen Liquid Sky."
+  },
+  {
+   "off": 21884,
+   "budget": 97,
+   "en": "＠緑Said to control Neo Kobe's￥black money, with rumoured￥ties to politics and￥business.",
+   "src": "B040:18679",
+   "carry": "exact",
+   "long": "＠緑He is said to control Neo￥Kobe's illicit money and is￥rumored to have corrupt ties￥to political and business￥leaders."
+  },
+  {
+   "off": 21981,
+   "budget": 99,
+   "en": "＠緑Some say he is a fiction￥built by the syndicate to￥confuse police.￥His identity is unknown.",
+   "src": "B040:18776",
+   "carry": "exact",
+   "long": "＠緑His true identity remains a￥mystery. Some believe the￥organization invented him to￥confuse police￥investigations.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 22080,
+   "budget": 29,
+   "en": "＠緑Lewis Gilmore",
+   "src": "B040:18875",
+   "carry": "exact"
+  },
+  {
+   "off": 22109,
+   "budget": 77,
+   "en": "＠緑▽Served in special force￥FOX HOUND, then volunteered￥for JUNKER.",
+   "src": "B040:18904",
+   "carry": "exact",
+   "long": "＠緑Served in the special forces￥unit FOXHOUND before￥volunteering to join JUNKER."
+  },
+  {
+   "off": 22186,
+   "budget": 83,
+   "en": "＠緑▽October 13, 2042: killed￥by an Insector while￥investigating.￥He was 28.",
+   "src": "B040:18981",
+   "carry": "exact",
+   "long": "＠緑October 13, 2042: Killed by￥an Insector during an￥investigation. He was￥twenty-eight."
+  },
+  {
+   "off": 22269,
+   "budget": 31,
+   "en": "＠緑David Johnson",
+   "src": "B040:19064",
+   "carry": "exact"
+  },
+  {
+   "off": 22300,
+   "budget": 77,
+   "en": "＠緑▽Served in FOX HOUND,￥joined JUNKER on the Chief's￥recommendation.",
+   "src": "B040:19095",
+   "carry": "exact",
+   "long": "＠緑Served in FOXHOUND before￥joining JUNKER on the￥Chief's recommendation."
+  },
+  {
+   "off": 22377,
+   "budget": 117,
+   "en": "＠緑October 19, 2042: Critically￥wounded by a Snatcher's￥cannon blast to the head￥while investigating with￥colleague S. Glazer. Left in￥a vegetative state.",
+   "src": "B040:19172",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑▽October 19, 2042: on a￥case with colleague S.￥Glazer, took a Snatcher￥cannon to the head.￥Left a vegetable.",
+   "sim": 0.97,
+   "note": "re-adapted 2026-09-30: new PS1 long"
+  },
+  {
+   "off": 22494,
+   "budget": 49,
+   "en": "＠緑Still hospitalized at Neo￥Kobe Central.",
+   "src": "B040:19295",
+   "carry": "exact",
+   "long": "＠緑He remains hospitalized at￥Neo Kobe Central Hospital."
+  },
+  {
+   "off": 22543,
+   "budget": 31,
+   "en": "＠緑Schultz Deckard",
+   "src": "B040:19344",
+   "carry": "exact"
+  },
+  {
+   "off": 22574,
+   "budget": 67,
+   "en": "＠緑▽Transferred to JUNKER from￥the Neo Kobe homicide￥division.",
+   "src": "B040:19375",
+   "carry": "exact",
+   "long": "＠緑Requested a transfer to￥JUNKER from Neo Kobe￥Police's homicide division.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 22641,
+   "budget": 115,
+   "en": "＠緑▽October 22, 2042: killed￥coming home from a case by a￥Snatcher lying in wait.￥He was 47.",
+   "src": "B040:19442",
+   "carry": "exact",
+   "long": "＠緑October 22, 2042: Killed by￥a Snatcher hiding in his￥home when he returned from￥an investigation. He was￥forty-seven.",
+   "note": "5 rows (box has 4)"
+  },
+  {
+   "off": 22756,
+   "budget": 111,
+   "en": "＠緑His wife Shinobu (45),￥daughter Rika (17) and son￥Show (13) had already been￥murdered that morning.",
+   "src": "B040:19557",
+   "carry": "exact",
+   "long": "＠緑His wife Shinobu, 45, eldest￥daughter Rika, 17, and￥eldest son Show, 13, had￥already been brutally￥murdered that morning."
+  },
+  {
+   "off": 22867,
+   "budget": 99,
+   "en": "＠緑▽Deckard's resignation was￥accepted; he was to leave￥Oct 25 and move to Hawaii￥with kin.",
+   "src": "B040:19668",
+   "carry": "exact",
+   "long": "＠緑His resignation had been￥accepted. He was due to￥retire on October 25 and￥move to Hawaii with his￥family.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 22966,
+   "budget": 31,
+   "en": "＠緑Shinobu Deckard",
+   "src": "B040:19767",
+   "carry": "exact"
+  },
+  {
+   "off": 22997,
+   "budget": 115,
+   "en": "＠緑Wife of Schultz Deckard.￥October 22, 2042: Attacked￥and killed by a Snatcher at￥home. She was forty-five.",
+   "src": "B040:19798",
+   "carry": "exact"
+  },
+  {
+   "off": 23112,
+   "budget": 113,
+   "en": "＠緑With Rika (17) and Show￥(13), she is thought to have￥been caught up in her JUNKER￥husband's murder.",
+   "src": "B040:19913",
+   "carry": "exact",
+   "long": "＠緑She and her children, Rika,￥17, and Show, 13, are￥believed to have been killed￥as part of the attack on her￥husband, JUNKER Schultz￥Deckard."
+  },
+  {
+   "off": 23225,
+   "budget": 29,
+   "en": "＠緑Rika Deckard",
+   "src": "B040:20026",
+   "carry": "exact"
+  },
+  {
+   "off": 23254,
+   "budget": 71,
+   "en": "＠緑▽Elder daughter of Schultz￥Deckard￥▽Second year, Neo Kobe.",
+   "src": "B040:20055",
+   "carry": "exact",
+   "long": "＠緑Schultz Deckard's eldest￥daughter. Second-year￥student at Neo Kobe High￥School."
+  },
+  {
+   "off": 23325,
+   "budget": 87,
+   "en": "＠緑October 22, 2042: Attacked￥and killed by a Snatcher at￥home. She was seventeen.",
+   "src": "B040:20126",
+   "carry": "exact"
+  },
+  {
+   "off": 23412,
+   "budget": 75,
+   "en": "＠緑Thought to have been caught￥up in the murder of her￥JUNKER father.",
+   "src": "B040:20213",
+   "carry": "exact",
+   "long": "＠緑Believed to have been caught￥in the attack targeting her￥father, JUNKER Schultz￥Deckard."
+  },
+  {
+   "off": 23487,
+   "budget": 29,
+   "en": "＠緑Show Deckard",
+   "src": "B040:20288",
+   "carry": "exact"
+  },
+  {
+   "off": 23516,
+   "budget": 81,
+   "en": "＠緑▽Son of Schultz Deckard￥▽First year, Neo Kobe￥ Junior High School.",
+   "src": "B040:20317",
+   "carry": "exact",
+   "long": "＠緑Schultz Deckard's eldest￥son. First-year student at￥Neo Kobe Junior High School."
+  },
+  {
+   "off": 23597,
+   "budget": 87,
+   "en": "＠緑October 22, 2042: Attacked￥and killed by a Snatcher at￥home. He was thirteen.",
+   "src": "B040:20398",
+   "carry": "exact"
+  },
+  {
+   "off": 23684,
+   "budget": 31,
+   "en": "＠緑Sergio Glazer",
+   "src": "B040:20485",
+   "carry": "exact"
+  },
+  {
+   "off": 23715,
+   "budget": 83,
+   "en": "＠緑Former Secret Service agent￥assigned to Neo Kobe mayor￥Brian O'Connor.",
+   "src": "B040:20516",
+   "carry": "candidate_ok",
+   "en_candidate": "＠緑Former Secret Service agent￥assigned to Neo Kobe mayor￥Brian O'Connor.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 23798,
+   "budget": 115,
+   "en": "＠緑but feeling to blame for￥O'Connor's snatching, he￥joined the anti-Snatcher￥police squad, then JUNKER.",
+   "src": "B040:20601",
+   "carry": "exact",
+   "long": "＠緑Feeling responsible for￥O'Connor's replacement by a￥Snatcher, he volunteered for￥the Metropolitan Police's￥special anti-Snatcher unit￥and later joined JUNKER.",
+   "note": "row 1 re-wrapped at 14; 5 rows (box has 4)"
+  },
+  {
+   "off": 23913,
+   "budget": 111,
+   "en": "＠緑▽October 19, 2042: killed￥by a Snatcher cannon on a￥case with colleague D.￥Johnson. He was 33.",
+   "src": "B040:20716",
+   "carry": "exact",
+   "long": "＠緑October 19, 2042: Killed by￥a Snatcher's cannon while￥investigating with colleague￥D. Johnson. He was￥thirty-three."
+  },
+  {
+   "off": 24024,
+   "budget": 31,
+   "en": "＠緑Brian O'Connor",
+   "src": "B040:20827",
+   "carry": "exact"
+  },
+  {
+   "off": 24055,
+   "budget": 83,
+   "en": "＠緑Mayor of Neo Kobe City from￥2038 to February 2040.",
+   "src": "B040:20858",
+   "carry": "exact"
+  },
+  {
+   "off": 24138,
+   "budget": 67,
+   "en": "＠緑▽Took office at 38, the￥youngest mayor in city￥history.",
+   "src": "B040:20941",
+   "carry": "exact",
+   "long": "＠緑Took office at thirty-eight,￥attracting attention as the￥youngest mayor in the city's￥history."
+  },
+  {
+   "off": 24205,
+   "budget": 113,
+   "en": "＠緑He focused on resolving the￥largely neglected￥North-South divide, but was￥brutally murdered by a￥Snatcher in February 2040.",
+   "src": "B040:21008",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑▽He worked hard on the￥untouched North-South￥divide, but in February 2040￥he was murdered by a￥Snatcher.",
+   "sim": 0.95,
+   "note": "re-adapted 2026-09-30: new PS1 long"
+  },
+  {
+   "off": 24318,
+   "budget": 95,
+   "en": "＠緑▽His body was found at the￥Ina River mouth; autopsy￥showed twelve days dead.",
+   "src": "B040:21125",
+   "carry": "exact",
+   "long": "＠緑His body was found at the￥mouth of the Ina River. The￥autopsy showed he had been￥dead for about twelve days."
+  },
+  {
+   "off": 24413,
+   "budget": 113,
+   "en": "＠緑▽The Snatcher replacing￥O'Connor was arrested after￥the body was found, but￥self-destructed.￥No sample.",
+   "src": "B040:21220",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑▽The Snatcher replacing￥O'Connor was arrested after￥the body was found, but￥self-destructed.￥No sample.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "＠緑The Snatcher impersonating￥him was arrested after his￥body was found, but￥self-destructed without￥leaving a specimen."
+  },
+  {
+   "off": 24526,
+   "budget": 61,
+   "en": "＠緑Napoleon Bonaparte￥(1769-1821)",
+   "src": "B040:21335",
+   "carry": "exact"
+  },
+  {
+   "off": 24587,
+   "budget": 57,
+   "en": "＠緑▽Emperor of the First￥French Empire (1804-14, 15)",
+   "src": "B040:21396",
+   "carry": "exact",
+   "long": "＠緑Emperor of the First French￥Empire, 1804-1814 and 1815."
+  },
+  {
+   "off": 24644,
+   "budget": 97,
+   "en": "＠緑▽Born August 15, 1769,￥second son of minor nobility￥at Ajaccio, west coast of￥Corsica.",
+   "src": "B040:21453",
+   "carry": "exact",
+   "long": "＠緑Born August 15, 1769, in￥Ajaccio on the west coast of￥Genoese Corsica, the second￥son of a minor noble family."
+  },
+  {
+   "off": 24741,
+   "budget": 71,
+   "en": "＠緑After Brienne and Paris,￥sent to a provincial￥artillery unit.",
+   "src": "B040:21550",
+   "carry": "exact",
+   "long": "＠緑Attended military school at￥Brienne, then graduated from￥the Paris military academy￥and was assigned to a￥provincial artillery￥regiment."
+  },
+  {
+   "off": 24812,
+   "budget": 53,
+   "en": "＠緑▽'93: artillery commander￥of the Italy army.",
+   "src": "B040:21621",
+   "carry": "exact",
+   "long": "＠緑1793: Appointed artillery￥commander of the army￥campaigning in Italy."
+  },
+  {
+   "off": 24865,
+   "budget": 65,
+   "en": "＠緑▽November '99: forms the￥Consulate by the Brumaire￥coup.",
+   "src": "B040:21674",
+   "carry": "exact",
+   "long": "＠緑November 1799: Established￥the Consulate through the￥coup of Brumaire.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 24930,
+   "budget": 79,
+   "en": "＠緑The '99 constitution came￥with the words ＠赤'the￥revolution is over'.",
+   "src": "B040:21739",
+   "carry": "exact",
+   "long": "＠緑The 1799 constitution was￥published with the￥proclamation ＠赤\"The￥Revolution is over.\"＠緑"
+  },
+  {
+   "off": 25009,
+   "budget": 55,
+   "en": "＠緑▽March 1815: lands in￥France and enters Paris.",
+   "src": "B040:21818",
+   "carry": "exact",
+   "long": "＠緑March 1815: Landed on the￥French mainland and entered￥Paris."
+  },
+  {
+   "off": 25064,
+   "budget": 117,
+   "en": "＠緑June 18: broken by Blucher￥and Wellington at Waterloo.￥This is called the ＠赤Hundred￥Days＠緑.",
+   "src": "B040:21873",
+   "carry": "exact",
+   "long": "＠緑On June 18, Blucher and￥Wellington defeated him at￥Waterloo. This period is￥known as the ＠赤Hundred Days＠緑."
+  },
+  {
+   "off": 25181,
+   "budget": 49,
+   "en": "So now we understand Napoleon's code.",
+   "src": "B040:21990",
+   "carry": "candidate_ok",
+   "en_candidate": "Now we understand Napoleon's code.",
+   "sim": 0.93,
+   "note": "the PS1 line is part of this one; re-adapted 2026-09-30: new PS1 wording + これで"
+  },
+  {
+   "off": 25230,
+   "budget": 41,
+   "en": "I see. \"Napoleon\" fits him￥perfectly.",
+   "src": "B040:22033",
+   "carry": "exact"
+  },
+  {
+   "off": 25271,
+   "budget": 31,
+   "en": "＠緑No matching person found.",
+   "src": "B040:22074",
+   "carry": "exact"
+  },
+  {
+   "off": 25302,
+   "budget": 65,
+   "en": "My data and Jamie's are locked away￥somehow.",
+   "src": "B040:22105",
+   "carry": "exact",
+   "long": "For some reason, access to my data￥and Jamie's has been blocked."
+  },
+  {
+   "off": 25367,
+   "budget": 55,
+   "en": "Metal, who can access level 7￥information?",
+   "src": "B040:22170",
+   "carry": "exact"
+  },
+  {
+   "off": 25422,
+   "budget": 41,
+   "en": "No one at JUNKER HQ can get near it.",
+   "src": "B040:22225",
+   "carry": "exact",
+   "long": "No one at JUNKER headquarters has￥that clearance."
+  },
+  {
+   "off": 25463,
+   "budget": 13,
+   "en": "The Chief?",
+   "src": "B040:22266",
+   "carry": "exact",
+   "long": "Not even the Chief?"
+  },
+  {
+   "off": 25476,
+   "budget": 17,
+   "en": "That's right....",
+   "src": "B040:22279",
+   "carry": "exact"
+  },
+  {
+   "off": 25493,
+   "budget": 17,
+   "en": "Metal, and you?",
+   "src": "B040:22296",
+   "carry": "exact",
+   "long": "What about you, Metal?"
+  },
+  {
+   "off": 25510,
+   "budget": 13,
+   "en": "......",
+   "src": "B040:22313",
+   "carry": "exact"
+  },
+  {
+   "off": 25523,
+   "budget": 17,
+   "en": "Don't you know?",
+   "src": "B040:22326",
+   "carry": "exact",
+   "long": "Do you know anything?"
+  },
+  {
+   "off": 25540,
+   "budget": 29,
+   "en": "I don't know anything.",
+   "src": "B040:22343",
+   "carry": "exact"
+  },
+  {
+   "off": 25569,
+   "budget": 33,
+   "en": "Mika, what is level 7 data?",
+   "src": "B040:22372",
+   "carry": "exact",
+   "long": "Mika, what's level 7 information?"
+  },
+  {
+   "off": 25602,
+   "budget": 51,
+   "en": "Level 7? Even the Chief can't access￥that.",
+   "src": "B040:22405",
+   "carry": "exact"
+  },
+  {
+   "off": 25653,
+   "budget": 17,
+   "en": "That's strange.",
+   "src": "B040:22456",
+   "carry": "exact"
+  },
+  {
+   "off": 25672,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

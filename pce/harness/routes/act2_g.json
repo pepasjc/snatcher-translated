@@ -1,0 +1,477 @@
+[
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Talk",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"choose": [
+"Move",
+"Go inside"
+]
+},
+{
+"maybe": "Go inside"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"choose": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Door  3",
+"Door 3"
+]
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"submenu": [
+"Use Metal Gear",
+"Turn on light"
+]
+},
+{
+"read": 6000
+},
+{
+"light": [
+57,
+45
+]
+},
+{
+"choose": "Look"
+},
+{
+"read": 6000
+},
+{
+"light": [
+57,
+45
+]
+},
+{
+"choose": "Investigate"
+},
+{
+"read": 12000
+},
+{
+"light": [
+91,
+42
+]
+},
+{
+"choose": "Look"
+},
+{
+"read": 6000
+},
+{
+"light": [
+91,
+42
+]
+},
+{
+"choose": "Investigate"
+},
+{
+"read": 12000
+},
+{
+"light": [
+140,
+44
+]
+},
+{
+"choose": "Look"
+},
+{
+"read": 6000
+},
+{
+"light": [
+140,
+44
+]
+},
+{
+"choose": "Investigate"
+},
+{
+"read": 12000
+},
+{
+"light": [
+200,
+72
+]
+},
+{
+"choose": "Look"
+},
+{
+"read": 6000
+},
+{
+"light": [
+200,
+72
+]
+},
+{
+"choose": "Investigate"
+},
+{
+"read": 12000
+},
+{
+"repeat": [
+{
+"light": [
+118,
+65
+],
+"tol": 2
+},
+{
+"maybe": "Look"
+},
+{
+"read": 6000
+},
+{
+"items": 1
+},
+{
+"light": [
+118,
+65
+],
+"tol": 2
+},
+{
+"maybe": "Investigate"
+},
+{
+"read": 12000
+},
+{
+"items": 1
+}
+],
+"until": "Peek",
+"max": 4
+},
+{
+"items": 1
+},
+{
+"save": "q2_d3"
+},
+{
+"maybe": "Peek"
+},
+{
+"read": 12000
+},
+{
+"items": 1
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 6000
+},
+{
+"items": 1
+},
+{
+"maybe": "Go downstairs"
+},
+{
+"read": 10000
+},
+{
+"items": 1
+},
+{
+"maybe": "Stairs"
+},
+{
+"read": 10000
+},
+{
+"items": 1
+},
+{
+"save": "q2_basement"
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Press switch",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"save": "q2_switched"
+},
+{
+"items": 1
+},
+{
+"aim": [
+"up",
+"head"
+]
+},
+{
+"choose": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Door  1",
+"Door 1"
+]
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"maybe": "Look around"
+},
+{
+"read": 8000
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"maybe": "Look around"
+},
+{
+"read": 15000
+},
+{
+"items": 1
+},
+{
+"save": "q2_d1"
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"choose": [
+"Move",
+"Go out"
+]
+},
+{
+"read": 3000
+},
+{
+"choose": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Door  2",
+"Door 2"
+]
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"save": "q2_d2"
+},
+{
+"choose": "Go out"
+},
+{
+"read": 6000
+},
+{
+"items": 1
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"choose": "Press switch"
+},
+{
+"items": 1
+},
+{
+"choose": "1 and 2"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"choose": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Door  3",
+"Door 3"
+]
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"save": "q2_d3b"
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Smell",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"items": 1
+},
+{
+"maybe": "Reconstruct body"
+},
+{
+"read": 60000
+},
+{
+"items": 1
+},
+{
+"save": "act2_g_end"
+}
+]

@@ -1,0 +1,26 @@
+{
+ "scene": "B080",
+ "note": "call Napoleon from HQ: Use Metal Gear > Videophone > Call, then 39-5644 on the keypad (six digits auto-dial; before Mika's tip he does not answer)",
+ "actions": [
+  {
+   "save": "B080_start"
+  },
+  {
+   "path": [
+    "Use Metal Gear",
+    "Videophone"
+   ]
+  },
+  {
+   "path": [
+    "Call"
+   ]
+  },
+  {
+   "dial": "395644"
+  },
+  {
+   "save": "B080_napoleon"
+  }
+ ]
+}

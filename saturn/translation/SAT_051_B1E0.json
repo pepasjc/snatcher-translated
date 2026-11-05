@@ -1,0 +1,3408 @@
+{
+ "file": "DATA.BIN[51]",
+ "entry": 51,
+ "text_base": 7832,
+ "twins": [
+  "B1E0"
+ ],
+ "strings": [
+  {
+   "off": 7833,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 7837,
+   "budget": 35,
+   "en": "Outside ＠赤'QUEEN' Hospital＠白.",
+   "src": "B1E0:7479",
+   "carry": "exact",
+   "long": "We're outside ＠赤QUEEN Hospital＠白."
+  },
+  {
+   "off": 7872,
+   "budget": 39,
+   "en": "This is ＠赤QUEEN Hospital＠白.",
+   "src": "B1E0:7514",
+   "carry": "exact"
+  },
+  {
+   "off": 7911,
+   "budget": 27,
+   "en": "Look at that neon sign!",
+   "src": "B1E0:7553",
+   "carry": "exact"
+  },
+  {
+   "off": 7938,
+   "budget": 57,
+   "en": "It's the one in Little John's￥memory!",
+   "src": "B1E0:7580",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7995,
+   "budget": 5,
+   "en": "Move",
+   "src": "B1E0:7635",
+   "carry": "exact"
+  },
+  {
+   "off": 8000,
+   "budget": 9,
+   "en": "Get in",
+   "src": "B1E0:7640",
+   "carry": "exact",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 8009,
+   "budget": 9,
+   "en": "Go in",
+   "src": "B1E0:7649",
+   "carry": "exact",
+   "long": "Go inside"
+  },
+  {
+   "off": 8018,
+   "budget": 21,
+   "en": "Let's go, Randam!",
+   "src": "B1E0:7658",
+   "carry": "exact"
+  },
+  {
+   "off": 8039,
+   "budget": 19,
+   "en": "Come any time...",
+   "src": "B1E0:7679",
+   "carry": "exact"
+  },
+  {
+   "off": 8058,
+   "budget": 29,
+   "en": "I'll open the door.",
+   "src": "B1E0:7698",
+   "carry": "exact"
+  },
+  {
+   "off": 8087,
+   "budget": 57,
+   "en": "First I must read the door's￥lock type.",
+   "src": "B1E0:7727",
+   "carry": "rebroken",
+   "long": "First, I need to identify the lock￥before I can open it.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8144,
+   "budget": 5,
+   "en": "Look",
+   "src": "B1E0:7782",
+   "carry": "exact"
+  },
+  {
+   "off": 8149,
+   "budget": 5,
+   "en": "Bldg",
+   "src": "B1E0:7787",
+   "carry": "exact",
+   "long": "Building"
+  },
+  {
+   "off": 8154,
+   "budget": 71,
+   "en": "Built in the 20th century.￥Doesn't look open for business.",
+   "src": "B1E0:7792",
+   "carry": "exact",
+   "long": "It seems to date from the twentieth￥century. It doesn't look open for￥business."
+  },
+  {
+   "off": 8225,
+   "budget": 73,
+   "en": "Doesn't look like a hospital.￥Probably an old office block.",
+   "src": "B1E0:7863",
+   "carry": "rebroken",
+   "long": "It doesn't look like a hospital. It￥was probably an office building￥once.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8298,
+   "budget": 7,
+   "en": "Neon",
+   "src": "B1E0:7934",
+   "carry": "exact",
+   "long": "Neon signs"
+  },
+  {
+   "off": 8305,
+   "budget": 51,
+   "en": "Even up close, it reads OLEEN.",
+   "src": "B1E0:7941",
+   "carry": "rebroken",
+   "long": "This reads as 'OLEEN' even when you￥look at it up close.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8356,
+   "budget": 53,
+   "en": "Preconceptions really can distort￥the truth.",
+   "src": "B1E0:7990",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8409,
+   "budget": 7,
+   "en": "Around",
+   "src": "B1E0:8041",
+   "carry": "exact"
+  },
+  {
+   "off": 8416,
+   "budget": 61,
+   "en": "A main road runs before it.￥Much illegal parking too.",
+   "src": "B1E0:8048",
+   "carry": "exact",
+   "long": "The building faces a main road.￥There are plenty of illegally parked￥cars."
+  },
+  {
+   "off": 8477,
+   "budget": 51,
+   "en": "More people than I thought.￥Heavy traffic.",
+   "src": "B1E0:8109",
+   "carry": "exact",
+   "long": "There are more people than I￥expected. Lots of pedestrians and￥traffic."
+  },
+  {
+   "off": 8528,
+   "budget": 33,
+   "en": "It's their cover.",
+   "src": "B1E0:8160",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8561,
+   "budget": 3,
+   "en": "Dr",
+   "src": "B1E0:8191",
+   "carry": "exact",
+   "long": "Door"
+  },
+  {
+   "off": 8564,
+   "budget": 31,
+   "en": "An old electronic-lock door.",
+   "src": "B1E0:8194",
+   "carry": "exact",
+   "long": "The door has an old electronic lock."
+  },
+  {
+   "off": 8595,
+   "budget": 7,
+   "en": "Check",
+   "src": "B1E0:8225",
+   "carry": "exact",
+   "long": "Investigate"
+  },
+  {
+   "off": 8602,
+   "budget": 49,
+   "en": "A cylindrical block.￥Last century's fashion.",
+   "src": "B1E0:8232",
+   "carry": "exact",
+   "long": "It's a cylindrical building. They￥were popular late last century."
+  },
+  {
+   "off": 8651,
+   "budget": 67,
+   "en": "It's getting old, but it seems well￥maintained.",
+   "src": "B1E0:8281",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8718,
+   "budget": 35,
+   "en": "Nobody'd suspect this old dump.",
+   "src": "B1E0:8346",
+   "carry": "exact",
+   "long": "No one would suspect an old building￥like this."
+  },
+  {
+   "off": 8753,
+   "budget": 35,
+   "en": "Clever... running it underground.",
+   "src": "B1E0:8381",
+   "carry": "exact",
+   "long": "Clever. Running their operation￥underground."
+  },
+  {
+   "off": 8788,
+   "budget": 33,
+   "en": "Only the front door, it seems.",
+   "src": "B1E0:8416",
+   "carry": "candidate_ok",
+   "en_candidate": "Only the front door, it seems.",
+   "sim": 0.97,
+   "long": "The front door seems to be the only￥entrance."
+  },
+  {
+   "off": 8821,
+   "budget": 35,
+   "en": "Part of the neon is broken.",
+   "src": "B1E0:8451",
+   "carry": "exact",
+   "long": "Part of the neon sign is broken,￥just as we thought."
+  },
+  {
+   "off": 8856,
+   "budget": 29,
+   "en": "The neon tube is flickering.",
+   "src": "B1E0:8486",
+   "carry": "exact",
+   "long": "The neon tubes are flickering."
+  },
+  {
+   "off": 8885,
+   "budget": 79,
+   "en": "This area seems to be above the￥abandoned Tube Liner subway.",
+   "src": "B1E0:8515",
+   "carry": "candidate_edit",
+   "en_candidate": "This area seems to be above the￥abandoned Tube Liner subway. It￥apparently declined after the subway￥closed.",
+   "sim": 0.75,
+   "note": "part of the PS1 line; the PS1 line's first part; the rest is the next record; re-adapted 2026-09-30: fragment 1/2 of B1E0:8515"
+  },
+  {
+   "off": 8964,
+   "budget": 53,
+   "en": "It apparently declined after the￥subway closed.",
+   "src": "B1E0:8515",
+   "carry": "candidate_edit",
+   "en_candidate": "This area seems to be above the￥abandoned Tube Liner subway. It￥apparently declined after the subway￥closed.",
+   "sim": 0.57,
+   "note": "part of the PS1 line; re-adapted 2026-09-30: fragment 2/2 of B1E0:8515"
+  },
+  {
+   "off": 9017,
+   "budget": 51,
+   "en": "A subway...￥Suspicious. Jamie's story holds up.",
+   "src": "B1E0:8644",
+   "carry": "exact",
+   "long": "A subway? That's suspicious. Sounds￥like Jamie was right."
+  },
+  {
+   "off": 9068,
+   "budget": 47,
+   "en": "Matched to the map.￥Below is the old subway.",
+   "src": "B1E0:8695",
+   "carry": "exact",
+   "long": "I've checked the map. The old subway￥runs beneath us."
+  },
+  {
+   "off": 9115,
+   "budget": 63,
+   "en": "Most of Neo Kobe's ground is too￥soft to dig tunnels.",
+   "src": "B1E0:8742",
+   "carry": "candidate_ok",
+   "en_candidate": "Most of Neo Kobe's ground is too￥soft to dig tunnels.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 9178,
+   "budget": 65,
+   "en": "It faces the road, but there's￥no development to speak of.",
+   "src": "B1E0:8807",
+   "carry": "rebroken",
+   "long": "It faces the street, but there￥doesn't seem to be much development￥here.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9243,
+   "budget": 41,
+   "en": "Well away from shops or housing.",
+   "src": "B1E0:8870",
+   "carry": "candidate_ok",
+   "en_candidate": "Well away from shops or housing.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "It's quite far from the shopping and￥residential areas."
+  },
+  {
+   "off": 9284,
+   "budget": 59,
+   "en": "I kept the data from before,￥so it opens easily.",
+   "src": "B1E0:8913",
+   "carry": "rebroken",
+   "long": "I saved the data from last time, so￥I can open it easily.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9343,
+   "budget": 51,
+   "en": "I've already recorded this door's￥lock code.",
+   "src": "B1E0:8970",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9394,
+   "budget": 55,
+   "en": "It's locked, but even I can open a￥lock like this.",
+   "src": "B1E0:9019",
+   "carry": "exact"
+  },
+  {
+   "off": 9449,
+   "budget": 29,
+   "en": "Don't set off the alarm.",
+   "src": "B1E0:9074",
+   "carry": "exact"
+  },
+  {
+   "off": 9478,
+   "budget": 5,
+   "en": "Talk",
+   "src": "B1E0:9103",
+   "carry": "exact"
+  },
+  {
+   "off": 9483,
+   "budget": 21,
+   "en": "Randam, your view?",
+   "src": "B1E0:9108",
+   "carry": "exact",
+   "long": "What do you think, Randam?"
+  },
+  {
+   "off": 9504,
+   "budget": 23,
+   "en": "Go in and you'll know.",
+   "src": "B1E0:9129",
+   "carry": "exact",
+   "long": "We'll find out when we go in."
+  },
+  {
+   "off": 9527,
+   "budget": 15,
+   "en": "Feel anything?",
+   "src": "B1E0:9152",
+   "carry": "exact",
+   "long": "Do you sense anything?"
+  },
+  {
+   "off": 9542,
+   "budget": 59,
+   "en": "Yeah. I can feel them breathing. I￥don't need sensors.",
+   "src": "B1E0:9167",
+   "carry": "exact"
+  },
+  {
+   "off": 9601,
+   "budget": 35,
+   "en": "A bounty hunter's instinct?",
+   "src": "B1E0:9226",
+   "carry": "exact"
+  },
+  {
+   "off": 9636,
+   "budget": 55,
+   "en": "No use thinking here.￥Let's go pay them a visit.",
+   "src": "B1E0:9261",
+   "carry": "exact",
+   "long": "No point standing here thinking.￥Let's pay them a visit."
+  },
+  {
+   "off": 9691,
+   "budget": 5,
+   "en": "Item",
+   "src": "B1E0:9316",
+   "carry": "exact"
+  },
+  {
+   "off": 9696,
+   "budget": 7,
+   "en": "Lookω",
+   "src": "B1E0:7782",
+   "carry": "candidate_edit",
+   "en_candidate": "Look",
+   "sim": 0.8,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label"
+  },
+  {
+   "off": 9703,
+   "budget": 9,
+   "en": "Investigateω",
+   "src": "B1E0:8225",
+   "carry": "candidate_edit",
+   "en_candidate": "Check",
+   "sim": 0.86,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label; re-adapted 2026-09-30: PS1 label (long 'Investigate') + ω kept after it"
+  },
+  {
+   "off": 9712,
+   "budget": 15,
+   "en": "Use Metal Gear",
+   "src": "B1E0:9321",
+   "carry": "exact"
+  },
+  {
+   "off": 9727,
+   "budget": 13,
+   "en": "Videophone",
+   "src": "B1E0:9336",
+   "carry": "exact"
+  },
+  {
+   "off": 9740,
+   "budget": 11,
+   "en": "Save",
+   "src": "B1E0:9349",
+   "carry": "exact"
+  },
+  {
+   "off": 9751,
+   "budget": 37,
+   "en": "I'll save your progress now.",
+   "src": "B1E0:9360",
+   "carry": "exact"
+  },
+  {
+   "off": 9788,
+   "budget": 59,
+   "en": "Entering the 'lock program'￥to release it.",
+   "src": "B1E0:9397",
+   "carry": "rebroken",
+   "long": "I'll access Queen Hospital's lock￥program and disable it.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9847,
+   "budget": 47,
+   "en": "I'll disable the lock program now.",
+   "src": "B1E0:9454",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9894,
+   "budget": 27,
+   "en": "It's unlocked.",
+   "src": "B1E0:9499",
+   "carry": "exact"
+  },
+  {
+   "off": 9921,
+   "budget": 23,
+   "en": "Out into the corridor.",
+   "src": "B1E0:9526",
+   "carry": "exact",
+   "long": "We're in the hospital corridor."
+  },
+  {
+   "off": 9944,
+   "budget": 21,
+   "en": "Inside the hospital.",
+   "src": "B1E0:9549",
+   "carry": "exact",
+   "long": "We're inside the hospital."
+  },
+  {
+   "off": 9965,
+   "budget": 17,
+   "en": "It's quiet.",
+   "src": "B1E0:9570",
+   "carry": "exact"
+  },
+  {
+   "off": 9982,
+   "budget": 47,
+   "en": "There must be a way below...",
+   "src": "B1E0:9587",
+   "carry": "candidate_ok",
+   "en_candidate": "There must be a way below...",
+   "sim": 0.98,
+   "long": "There should be an entrance to the￥underground somewhere."
+  },
+  {
+   "off": 10029,
+   "budget": 13,
+   "en": "Dark...",
+   "src": "B1E0:9634",
+   "carry": "exact"
+  },
+  {
+   "off": 10042,
+   "budget": 9,
+   "en": "Go out",
+   "src": "B1E0:9647",
+   "carry": "exact"
+  },
+  {
+   "off": 10051,
+   "budget": 45,
+   "en": "Go back alone if you want!￥I'm carrying on.",
+   "src": "B1E0:9656",
+   "carry": "exact",
+   "long": "Go home alone if you want! I'm￥staying on this case."
+  },
+  {
+   "off": 10096,
+   "budget": 29,
+   "en": "Gillian, running away now?",
+   "src": "B1E0:9701",
+   "carry": "exact",
+   "long": "You're running away now, Gillian?"
+  },
+  {
+   "off": 10125,
+   "budget": 35,
+   "en": "Gillian, let's search within.",
+   "src": "B1E0:9730",
+   "carry": "exact",
+   "long": "Let's investigate the hospital,￥Gillian."
+  },
+  {
+   "off": 10160,
+   "budget": 25,
+   "en": "Let's go outside, then.",
+   "src": "B1E0:9765",
+   "carry": "exact"
+  },
+  {
+   "off": 10185,
+   "budget": 35,
+   "en": "We need to close the door first.",
+   "src": "B1E0:9790",
+   "carry": "exact"
+  },
+  {
+   "off": 10220,
+   "budget": 29,
+   "en": "Bad if they notice us.",
+   "src": "B1E0:9825",
+   "carry": "exact",
+   "long": "We don't want them to notice us."
+  },
+  {
+   "off": 10249,
+   "budget": 15,
+   "en": "First...",
+   "src": "B1E0:9854",
+   "carry": "exact"
+  },
+  {
+   "off": 10264,
+   "budget": 25,
+   "en": "We must shut the door.",
+   "src": "B1E0:9869",
+   "carry": "exact",
+   "long": "We'd better close the door."
+  },
+  {
+   "off": 10289,
+   "budget": 5,
+   "en": "Dr 1",
+   "src": "B1E0:9894",
+   "carry": "exact",
+   "long": "Door 1"
+  },
+  {
+   "off": 10294,
+   "budget": 5,
+   "en": "Dr 2",
+   "src": "B1E0:9899",
+   "carry": "exact",
+   "long": "Door 2"
+  },
+  {
+   "off": 10299,
+   "budget": 5,
+   "en": "Dr 3",
+   "src": "B1E0:9904",
+   "carry": "exact",
+   "long": "Door 3"
+  },
+  {
+   "off": 10304,
+   "budget": 65,
+   "en": "A booth stands at the centre.￥Three doors lie beyond.",
+   "src": "B1E0:9909",
+   "carry": "exact",
+   "long": "The reception booth is in the￥center. There are three doors at the￥back."
+  },
+  {
+   "off": 10369,
+   "budget": 33,
+   "en": "A reception waiting area.",
+   "src": "B1E0:9974",
+   "carry": "exact",
+   "long": "This seems to be the reception￥waiting area."
+  },
+  {
+   "off": 10402,
+   "budget": 3,
+   "en": "Fl",
+   "src": "B1E0:10007",
+   "carry": "exact",
+   "long": "Floor"
+  },
+  {
+   "off": 10405,
+   "budget": 27,
+   "en": "There's dust everywhere.",
+   "src": "B1E0:10010",
+   "carry": "exact",
+   "long": "Everything's covered in dust."
+  },
+  {
+   "off": 10432,
+   "budget": 29,
+   "en": "No footprints either.",
+   "src": "B1E0:10037",
+   "carry": "exact",
+   "long": "There aren't any footprints either."
+  },
+  {
+   "off": 10461,
+   "budget": 35,
+   "en": "Except ours.",
+   "src": "B1E0:10066",
+   "carry": "exact"
+  },
+  {
+   "off": 10496,
+   "budget": 89,
+   "en": "So these are your footprints,￥Gillian? Nice work. It's obvious you￥were here.",
+   "src": "B1E0:10101",
+   "carry": "exact"
+  },
+  {
+   "off": 10585,
+   "budget": 15,
+   "en": ".......",
+   "src": "B1E0:10190",
+   "carry": "exact"
+  },
+  {
+   "off": 10600,
+   "budget": 5,
+   "en": "Desk",
+   "src": "B1E0:10205",
+   "carry": "exact",
+   "long": "Reception"
+  },
+  {
+   "off": 10605,
+   "budget": 51,
+   "en": "Nobody in the booth.￥The monitor is off.",
+   "src": "B1E0:10210",
+   "carry": "exact",
+   "long": "There's no one in the booth. The￥monitor's off too."
+  },
+  {
+   "off": 10656,
+   "budget": 19,
+   "en": "A lonely desk.",
+   "src": "B1E0:10261",
+   "carry": "exact",
+   "long": "Pretty lonely reception desk."
+  },
+  {
+   "off": 10675,
+   "budget": 7,
+   "en": "Button",
+   "src": "B220:21924",
+   "carry": "exact",
+   "note": "from B220"
+  },
+  {
+   "off": 10682,
+   "budget": 23,
+   "en": "There are three buttons.",
+   "src": "B1E0:10289",
+   "carry": "candidate_edit",
+   "en_candidate": "There are three buttons.",
+   "sim": 0.74,
+   "note": "re-adapted 2026-09-30: new PS1 wording (Saturn: button)"
+  },
+  {
+   "off": 10705,
+   "budget": 49,
+   "en": "No motion readings.￥...Nobody here.",
+   "src": "B1E0:10322",
+   "carry": "exact",
+   "long": "No motion detected. There doesn't￥seem to be anyone here."
+  },
+  {
+   "off": 10754,
+   "budget": 49,
+   "en": "Left like this the whole time.",
+   "src": "B1E0:10371",
+   "carry": "rebroken",
+   "long": "It seems to have been left like this￥for a long time.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10803,
+   "budget": 41,
+   "en": "I see. A clever cover.",
+   "src": "B1E0:10418",
+   "carry": "exact"
+  },
+  {
+   "off": 10844,
+   "budget": 49,
+   "en": "If they're closed, why is the sign￥outside lit?",
+   "src": "B1E0:10459",
+   "carry": "candidate_ok",
+   "en_candidate": "If closed, why is the neon lit?",
+   "sim": 0.95,
+   "note": "the PS1 line is part of this one; re-adapted 2026-09-30: new PS1 long"
+  },
+  {
+   "off": 10893,
+   "budget": 73,
+   "en": "Shut it down and the homeless and￥all sorts come in.",
+   "src": "B1E0:10502",
+   "carry": "rebroken",
+   "long": "If it looked closed, homeless people￥and others would start coming in.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10966,
+   "budget": 63,
+   "en": "It's far too dirty to be a working￥hospital corridor.",
+   "src": "B1E0:10573",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 11029,
+   "budget": 75,
+   "en": "No fresh footprints either. It seems￥to have been abandoned for months.",
+   "src": "B1E0:10638",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11104,
+   "budget": 47,
+   "en": "There's a layer of dust, with no￥footprints.",
+   "src": "B1E0:10711",
+   "carry": "exact"
+  },
+  {
+   "off": 11151,
+   "budget": 35,
+   "en": "Nothing's changed since last time.",
+   "src": "B1E0:10758",
+   "carry": "exact"
+  },
+  {
+   "off": 11186,
+   "budget": 41,
+   "en": "Which means no one's been in here.",
+   "src": "B1E0:10793",
+   "carry": "exact"
+  },
+  {
+   "off": 11227,
+   "budget": 57,
+   "en": "Apparently. I can only detect the￥footprints we left.",
+   "src": "B1E0:10834",
+   "carry": "exact"
+  },
+  {
+   "off": 11284,
+   "budget": 31,
+   "en": "There's a button to open the door.",
+   "src": "B1E0:10891",
+   "carry": "candidate_edit",
+   "en_candidate": "A switch to open the doors.",
+   "sim": 0.77,
+   "note": "re-adapted 2026-09-30: new PS1 long, switch -> button (Saturn)"
+  },
+  {
+   "off": 11315,
+   "budget": 63,
+   "en": "Dust lies on it.￥Unused for months.",
+   "src": "B1E0:10924",
+   "carry": "exact",
+   "long": "It's covered in dust. It doesn't￥seem to have been used in months."
+  },
+  {
+   "off": 11378,
+   "budget": 35,
+   "en": "What's this? There's some kind of￥button.",
+   "src": "B1E0:10987",
+   "carry": "candidate_edit",
+   "en_candidate": "Oh? There's some kind of switch.",
+   "sim": 0.79,
+   "note": "re-adapted 2026-09-30: new PS1 long, switch -> button (Saturn)"
+  },
+  {
+   "off": 11413,
+   "budget": 77,
+   "en": "The button is dusty too. No one's￥used it for a long time.",
+   "src": "B1E0:11024",
+   "carry": "candidate_edit",
+   "en_candidate": "The switch is dusty too. No one's￥used it for a long time.",
+   "sim": 0.91,
+   "note": "re-adapted 2026-09-30: new PS1 wording, switch -> button (Saturn)"
+  },
+  {
+   "off": 11490,
+   "budget": 37,
+   "en": "It's a remote button to open and￥close the doors.",
+   "src": "B1E0:11101",
+   "carry": "candidate_edit",
+   "en_candidate": "A switch to work the doors￥by remote.",
+   "sim": 0.67,
+   "note": "re-adapted 2026-09-30: new PS1 long, switch -> button (Saturn)"
+  },
+  {
+   "off": 11527,
+   "budget": 33,
+   "en": "Take a look at this, Gillian.",
+   "src": "B1E0:11144",
+   "carry": "exact"
+  },
+  {
+   "off": 11560,
+   "budget": 45,
+   "en": "It says \"ROOM 1, 2, 3.\"",
+   "src": "B1E0:11177",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11605,
+   "budget": 83,
+   "en": "Buttons for the inner doors.￥Worked from this booth, I'd say.",
+   "src": "B1E0:11220",
+   "carry": "rebroken",
+   "long": "They probably open the doors at the￥back. The controls seem to be in￥this booth.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11688,
+   "budget": 33,
+   "en": "What could these buttons be for?",
+   "src": "B1E0:11301",
+   "carry": "candidate_edit",
+   "en_candidate": "What could these switches be for?",
+   "sim": 0.79,
+   "note": "re-adapted 2026-09-30: new PS1 wording, switch -> button (Saturn)"
+  },
+  {
+   "off": 11721,
+   "budget": 79,
+   "en": "Not an auto door either.￥Worked from somewhere, I'd say...",
+   "src": "B1E0:11336",
+   "carry": "rebroken",
+   "long": "It doesn't seem to be an automatic￥door. There must be a control￥somewhere.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11800,
+   "budget": 31,
+   "en": "What do you make of it?",
+   "src": "B1E0:11413",
+   "carry": "candidate_ok",
+   "en_candidate": "What do you make of it?",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing",
+   "long": "What do you make of this hospital?"
+  },
+  {
+   "off": 11831,
+   "budget": 67,
+   "en": "It does seem unused. But I can sense￥something. Their smell.",
+   "src": "B1E0:11444",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11898,
+   "budget": 29,
+   "en": "All left as it was.",
+   "src": "B1E0:11509",
+   "carry": "exact",
+   "long": "Everything's been left to rot."
+  },
+  {
+   "off": 11927,
+   "budget": 25,
+   "en": "Check the other rooms.",
+   "src": "B1E0:11538",
+   "carry": "exact",
+   "long": "Let's check the other rooms."
+  },
+  {
+   "off": 11952,
+   "budget": 19,
+   "en": "That inner room...",
+   "src": "B1E0:11563",
+   "carry": "exact"
+  },
+  {
+   "off": 11971,
+   "budget": 11,
+   "en": "Press",
+   "src": "B1F0:4293",
+   "carry": "exact",
+   "long": "Press button",
+   "note": "from B1F0"
+  },
+  {
+   "off": 11982,
+   "budget": 9,
+   "en": "Button 1",
+   "src": "B1E0:11595",
+   "carry": "exact"
+  },
+  {
+   "off": 11991,
+   "budget": 17,
+   "en": "Pressing 1.",
+   "src": "B1E0:11604",
+   "carry": "exact",
+   "long": "I'll press number 1."
+  },
+  {
+   "off": 12008,
+   "budget": 31,
+   "en": "Door 1 has closed.",
+   "src": "B1E0:11621",
+   "carry": "exact"
+  },
+  {
+   "off": 12039,
+   "budget": 29,
+   "en": "Door 1 has opened.",
+   "src": "B1E0:11652",
+   "carry": "exact"
+  },
+  {
+   "off": 12068,
+   "budget": 9,
+   "en": "Button 2",
+   "src": "B1E0:11681",
+   "carry": "exact"
+  },
+  {
+   "off": 12077,
+   "budget": 17,
+   "en": "Pressing 2.",
+   "src": "B1E0:11690",
+   "carry": "exact",
+   "long": "I'll press number 2."
+  },
+  {
+   "off": 12094,
+   "budget": 31,
+   "en": "Door 2 has closed.",
+   "src": "B1E0:11707",
+   "carry": "exact"
+  },
+  {
+   "off": 12125,
+   "budget": 29,
+   "en": "Door 2 has opened.",
+   "src": "B1E0:11738",
+   "carry": "exact"
+  },
+  {
+   "off": 12154,
+   "budget": 9,
+   "en": "Button 3",
+   "src": "B1E0:11767",
+   "carry": "exact"
+  },
+  {
+   "off": 12163,
+   "budget": 17,
+   "en": "Pressing 3.",
+   "src": "B1E0:11776",
+   "carry": "exact",
+   "long": "I'll press number 3."
+  },
+  {
+   "off": 12180,
+   "budget": 31,
+   "en": "Door 3 has closed.",
+   "src": "B1E0:11793",
+   "carry": "exact"
+  },
+  {
+   "off": 12211,
+   "budget": 29,
+   "en": "Door 3 has opened.",
+   "src": "B1E0:11824",
+   "carry": "exact"
+  },
+  {
+   "off": 12240,
+   "budget": 39,
+   "en": "All the footprints are ours.",
+   "src": "B1E0:11853",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 12279,
+   "budget": 29,
+   "en": "Only we have come and gone.",
+   "src": "B1E0:11894",
+   "carry": "exact",
+   "long": "So we're the only ones who've been￥in and out."
+  },
+  {
+   "off": 12308,
+   "budget": 23,
+   "en": "That door is open.",
+   "src": "B1E0:11923",
+   "carry": "exact"
+  },
+  {
+   "off": 12331,
+   "budget": 25,
+   "en": "That door is closed.",
+   "src": "B1E0:11946",
+   "carry": "exact"
+  },
+  {
+   "off": 12356,
+   "budget": 21,
+   "en": "We're in Room 1.",
+   "src": "B1E0:11971",
+   "carry": "exact"
+  },
+  {
+   "off": 12377,
+   "budget": 15,
+   "en": "A theatre...",
+   "src": "B1E0:11992",
+   "carry": "exact"
+  },
+  {
+   "off": 12392,
+   "budget": 21,
+   "en": "...To the corridor.",
+   "src": "B1E0:12007",
+   "carry": "exact",
+   "long": "Let's go into the corridor."
+  },
+  {
+   "off": 12413,
+   "budget": 25,
+   "en": "Let's try the corridor.",
+   "src": "B1E0:12028",
+   "carry": "exact"
+  },
+  {
+   "off": 12438,
+   "budget": 37,
+   "en": "＠水Then... out to the corridor.＠白",
+   "src": "B1E0:12053",
+   "carry": "exact",
+   "long": "＠水Let's go into the corridor, then.＠白"
+  },
+  {
+   "off": 12475,
+   "budget": 41,
+   "en": "＠水No help... out to the corridor.＠白",
+   "src": "B1E0:12090",
+   "carry": "exact",
+   "long": "＠水No choice. Let's try the corridor.＠白"
+  },
+  {
+   "off": 12516,
+   "budget": 5,
+   "en": "Room",
+   "src": "B1E0:12131",
+   "carry": "exact",
+   "long": "Inside"
+  },
+  {
+   "off": 12521,
+   "budget": 61,
+   "en": "An operating table.￥A surgery or consulting room.",
+   "src": "B1E0:12136",
+   "carry": "candidate_ok",
+   "en_candidate": "An operating table.￥A surgery or consulting room.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "There's an operating table. This￥seems to be an operating or￥examination room."
+  },
+  {
+   "off": 12582,
+   "budget": 51,
+   "en": "A well-equipped theatre once.",
+   "src": "B1E0:12199",
+   "carry": "rebroken",
+   "long": "It seems to have been a￥well-equipped operating room.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12633,
+   "budget": 5,
+   "en": "Roof",
+   "src": "B1E0:12248",
+   "carry": "exact"
+  },
+  {
+   "off": 12638,
+   "budget": 37,
+   "en": "There's a built-in radiation device.",
+   "src": "B1E0:12253",
+   "carry": "exact"
+  },
+  {
+   "off": 12675,
+   "budget": 49,
+   "en": "Lamps and cameras for surgery.",
+   "src": "B1E0:12290",
+   "carry": "rebroken",
+   "long": "There's an array of surgical lights￥and cameras.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12724,
+   "budget": 9,
+   "en": "Monitor",
+   "src": "B1E0:12337",
+   "carry": "exact"
+  },
+  {
+   "off": 12733,
+   "budget": 61,
+   "en": "A monitor for medical VR to￥support surgery.",
+   "src": "B1E0:12346",
+   "carry": "rebroken",
+   "long": "This monitor projects medical VR to￥assist with operations.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12794,
+   "budget": 31,
+   "en": "Monitors for each endoscope.",
+   "src": "B1E0:12405",
+   "carry": "exact",
+   "long": "These monitors are for various￥endoscopes."
+  },
+  {
+   "off": 12825,
+   "budget": 7,
+   "en": "Table",
+   "src": "B1E0:12436",
+   "carry": "exact",
+   "long": "Operating table"
+  },
+  {
+   "off": 12832,
+   "budget": 23,
+   "en": "An ordinary table.",
+   "src": "B1E0:12443",
+   "carry": "exact",
+   "long": "It's an ordinary operating table."
+  },
+  {
+   "off": 12855,
+   "budget": 35,
+   "en": "The sheet is covered in dust too.",
+   "src": "B1E0:12466",
+   "carry": "exact"
+  },
+  {
+   "off": 12890,
+   "budget": 51,
+   "en": "No motion readings. ...Looks like￥nobody's here.",
+   "src": "B1E0:12501",
+   "carry": "exact",
+   "long": "No motion detected. There doesn't￥seem to be anyone here."
+  },
+  {
+   "off": 12941,
+   "budget": 31,
+   "en": "No Snow Cedar readings either.",
+   "src": "B1E0:12552",
+   "carry": "exact",
+   "long": "No traces of Snow Cedar either."
+  },
+  {
+   "off": 12972,
+   "budget": 31,
+   "en": "They're keeping us on edge!",
+   "src": "B1E0:12583",
+   "carry": "exact"
+  },
+  {
+   "off": 13003,
+   "budget": 75,
+   "en": "It hasn't been maintained at all. It￥isn't ready for use.",
+   "src": "B1E0:12614",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13078,
+   "budget": 23,
+   "en": "The lens is clouded.",
+   "src": "B1E0:12687",
+   "carry": "exact",
+   "long": "The lenses are cloudy too."
+  },
+  {
+   "off": 13101,
+   "budget": 61,
+   "en": "It's covered in dust, with no sign￥of use.",
+   "src": "B1E0:12710",
+   "carry": "candidate_edit",
+   "en_candidate": "It's covered in dust, with no sign￥of use.",
+   "sim": 0.81,
+   "note": "re-adapted 2026-09-30: new PS1 wording"
+  },
+  {
+   "off": 13162,
+   "budget": 25,
+   "en": "The monitor is off.",
+   "src": "B1E0:12767",
+   "carry": "exact"
+  },
+  {
+   "off": 13187,
+   "budget": 79,
+   "en": "An adjustable bed,￥but under dust.￥No sign of use.",
+   "src": "B1E0:12792",
+   "carry": "exact",
+   "long": "It's an adjustable bed, but it's￥covered in dust. It doesn't seem to￥have been used."
+  },
+  {
+   "off": 13266,
+   "budget": 57,
+   "en": "Judging by the dust, it hasn't been￥moved.",
+   "src": "B1E0:12871",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13323,
+   "budget": 47,
+   "en": "We didn't come for a year-end￥clean.",
+   "src": "B1E0:12926",
+   "carry": "rebroken",
+   "long": "We didn't come here to do the￥year-end cleaning.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13370,
+   "budget": 7,
+   "en": "Survey",
+   "src": "B1E0:12971",
+   "carry": "exact",
+   "long": "Look around"
+  },
+  {
+   "off": 13377,
+   "budget": 19,
+   "en": "I'll look around.",
+   "src": "B1E0:12978",
+   "carry": "exact",
+   "long": "I'll look around the room."
+  },
+  {
+   "off": 13396,
+   "budget": 37,
+   "en": "Nothing seems unusual.",
+   "src": "B1E0:12997",
+   "carry": "exact"
+  },
+  {
+   "off": 13433,
+   "budget": 27,
+   "en": "...Nothing's lurking here.",
+   "src": "B1E0:13034",
+   "carry": "exact",
+   "long": "There's nothing hiding here."
+  },
+  {
+   "off": 13460,
+   "budget": 25,
+   "en": "A worrier, our Gillian.",
+   "src": "B1E0:13061",
+   "carry": "exact",
+   "long": "You're a worrier, Gillian."
+  },
+  {
+   "off": 13485,
+   "budget": 43,
+   "en": "I see. Still, something's bothering￥me.",
+   "src": "B1E0:13086",
+   "carry": "exact"
+  },
+  {
+   "off": 13528,
+   "budget": 25,
+   "en": "What is this room?",
+   "src": "B1E0:13129",
+   "carry": "exact",
+   "long": "What do you think this room is?"
+  },
+  {
+   "off": 13553,
+   "budget": 65,
+   "en": "An operating room, right? But it's￥not being used. That's odd.",
+   "src": "B1E0:13154",
+   "carry": "exact"
+  },
+  {
+   "off": 13618,
+   "budget": 29,
+   "en": "Could it be a cover?",
+   "src": "B1E0:13219",
+   "carry": "exact"
+  },
+  {
+   "off": 13647,
+   "budget": 41,
+   "en": "Seeing this, most would go home.",
+   "src": "B1E0:13248",
+   "carry": "exact",
+   "long": "Most people would take one look and￥leave."
+  },
+  {
+   "off": 13688,
+   "budget": 35,
+   "en": "Where is the way below?",
+   "src": "B1E0:13289",
+   "carry": "exact",
+   "long": "Where could the entrance to the￥underground be?"
+  },
+  {
+   "off": 13723,
+   "budget": 25,
+   "en": "Let's see the rest.",
+   "src": "B1E0:13324",
+   "carry": "exact",
+   "long": "Let's check the other rooms."
+  },
+  {
+   "off": 13748,
+   "budget": 29,
+   "en": "It has to be that room.",
+   "src": "B1E0:13349",
+   "carry": "exact"
+  },
+  {
+   "off": 13777,
+   "budget": 21,
+   "en": "We're in Room 2.",
+   "src": "B1E0:13378",
+   "carry": "exact"
+  },
+  {
+   "off": 13798,
+   "budget": 13,
+   "en": "A lab...",
+   "src": "B1E0:13399",
+   "carry": "exact"
+  },
+  {
+   "off": 13811,
+   "budget": 31,
+   "en": "It seems to be a biology lab.",
+   "src": "B1E0:13412",
+   "carry": "exact"
+  },
+  {
+   "off": 13842,
+   "budget": 49,
+   "en": "All sorts of gear stands about.",
+   "src": "B1E0:13443",
+   "carry": "rebroken",
+   "long": "The room contains all kinds of￥specialized equipment.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13891,
+   "budget": 33,
+   "en": "Like a last-century film...",
+   "src": "B1E0:13490",
+   "carry": "exact",
+   "long": "Looks like a science fiction movie￥from last century."
+  },
+  {
+   "off": 13924,
+   "budget": 99,
+   "en": "There are micromanipulators, various￥laser devices, and microsurgery￥systems.",
+   "src": "B1E0:13523",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 14023,
+   "budget": 51,
+   "en": "Fine gear is no use like this.",
+   "src": "B1E0:13618",
+   "carry": "rebroken",
+   "long": "Even expensive equipment is useless￥in this condition.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14074,
+   "budget": 25,
+   "en": "Like a dentist's.",
+   "src": "B1E0:13667",
+   "carry": "exact",
+   "long": "Looks just like a dentist's office."
+  },
+  {
+   "off": 14099,
+   "budget": 3,
+   "en": "Sh",
+   "src": "B1E0:13692",
+   "carry": "exact",
+   "long": "Shelf"
+  },
+  {
+   "off": 14102,
+   "budget": 57,
+   "en": "Formalin jars and other drugs￥stand in a row.",
+   "src": "B1E0:13695",
+   "carry": "rebroken",
+   "long": "There are jars of specimens in￥formalin and other chemicals.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14159,
+   "budget": 7,
+   "en": "Desk",
+   "src": "B1E0:13750",
+   "carry": "exact"
+  },
+  {
+   "off": 14166,
+   "budget": 69,
+   "en": "Biotech gear of every sort.￥Quite the real thing.",
+   "src": "B1E0:13757",
+   "carry": "rebroken",
+   "long": "There's all kinds of biotechnology￥equipment. This was a serious￥operation.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14235,
+   "budget": 41,
+   "en": "These were all proper medical￥monitors.",
+   "src": "B1E0:13824",
+   "carry": "candidate_ok",
+   "en_candidate": "These were all proper medical￥monitors.",
+   "sim": 0.98
+  },
+  {
+   "off": 14276,
+   "budget": 53,
+   "en": "Costly once.￥Special medical monitors.",
+   "src": "B1E0:13867",
+   "carry": "exact",
+   "long": "They were expensive. They're￥specialized medical monitors."
+  },
+  {
+   "off": 14329,
+   "budget": 5,
+   "en": "Jar",
+   "src": "B1E0:13920",
+   "carry": "exact",
+   "long": "Containers"
+  },
+  {
+   "off": 14334,
+   "budget": 41,
+   "en": "Nothing decent in the jars.",
+   "src": "B1E0:13925",
+   "carry": "exact",
+   "long": "There's nothing pleasant in those￥jars."
+  },
+  {
+   "off": 14375,
+   "budget": 51,
+   "en": "A few specimens.￥I'd rather not look.",
+   "src": "B1E0:13966",
+   "carry": "exact",
+   "long": "There are a few specimens inside.￥I'd rather not look."
+  },
+  {
+   "off": 14426,
+   "budget": 27,
+   "en": "Wouldn't go with a drink.",
+   "src": "B1E0:14017",
+   "carry": "exact",
+   "long": "Wouldn't want those with my drink."
+  },
+  {
+   "off": 14453,
+   "budget": 57,
+   "en": "Nothing here.￥...An eerie place.",
+   "src": "B1E0:14044",
+   "carry": "exact",
+   "long": "There doesn't seem to be anything￥here. It's a creepy place."
+  },
+  {
+   "off": 14510,
+   "budget": 45,
+   "en": "Gear and apparatus left as it was.",
+   "src": "B1E0:14101",
+   "carry": "rebroken",
+   "long": "The lab equipment has been left as￥it was.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14555,
+   "budget": 47,
+   "en": "Come on! Show yourselves! I'm￥getting bored.",
+   "src": "B1E0:14144",
+   "carry": "exact"
+  },
+  {
+   "off": 14602,
+   "budget": 59,
+   "en": "It's covered in cobwebs. There's no￥sign it's been used.",
+   "src": "B1E0:14191",
+   "carry": "exact"
+  },
+  {
+   "off": 14661,
+   "budget": 53,
+   "en": "Decay like this would be￥hard to fake.",
+   "src": "B1E0:14250",
+   "carry": "rebroken",
+   "long": "I don't think it would be easy to￥fake this much decay.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14714,
+   "budget": 77,
+   "en": "No jar or drug's been moved￥in a while. The dust shows it.",
+   "src": "B1E0:14301",
+   "carry": "rebroken",
+   "long": "The jars and chemicals haven't been￥moved for a while. You can see their￥outlines in the dust.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14791,
+   "budget": 63,
+   "en": "The equipment is all here, but none￥of it's set up.",
+   "src": "B1E0:14376",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14854,
+   "budget": 31,
+   "en": "Dust as thick as elsewhere.",
+   "src": "B1E0:14437",
+   "carry": "exact",
+   "long": "There's as much dust here as￥everywhere else."
+  },
+  {
+   "off": 14885,
+   "budget": 49,
+   "en": "All would need repair to use.",
+   "src": "B1E0:14468",
+   "carry": "exact",
+   "long": "It would all need repairs before it￥could work properly."
+  },
+  {
+   "off": 14934,
+   "budget": 31,
+   "en": "Oddly, lots of empty jars.",
+   "src": "B1E0:14517",
+   "carry": "exact",
+   "long": "A lot of the jars are empty for some￥reason."
+  },
+  {
+   "off": 14965,
+   "budget": 33,
+   "en": "Some of the jars are broken.",
+   "src": "B1E0:14548",
+   "carry": "exact"
+  },
+  {
+   "off": 14998,
+   "budget": 31,
+   "en": "So this was a laboratory?",
+   "src": "B1E0:14581",
+   "carry": "exact"
+  },
+  {
+   "off": 15029,
+   "budget": 31,
+   "en": "As you see. A storeroom now.",
+   "src": "B1E0:14612",
+   "carry": "rebroken",
+   "long": "Looks like it. Now it's a storeroom.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15060,
+   "budget": 47,
+   "en": "No way below here...",
+   "src": "B1E0:14641",
+   "carry": "rebroken",
+   "long": "There doesn't seem to be an entrance￥underground here.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15107,
+   "budget": 25,
+   "en": "Check the next room.",
+   "src": "B1E0:14686",
+   "carry": "exact",
+   "long": "Let's check the next room."
+  },
+  {
+   "off": 15132,
+   "budget": 29,
+   "en": "The inner room is suspect.",
+   "src": "B1E0:14711",
+   "carry": "exact",
+   "long": "The room at the back is suspicious."
+  },
+  {
+   "off": 15161,
+   "budget": 33,
+   "en": "＠水Hm? Too dark to see.＠白",
+   "src": "B1E0:14740",
+   "carry": "candidate_ok",
+   "en_candidate": "＠水Hm? Too dark to see.＠白",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing",
+   "long": "＠水Huh? It's too dark to see anything.＠白"
+  },
+  {
+   "off": 15194,
+   "budget": 89,
+   "en": "＠水I have a light for situations like￥this. Use it if you need it.＠白",
+   "src": "B1E0:14773",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15283,
+   "budget": 45,
+   "en": "＠水Shall I turn on the light, Gillian?＠白",
+   "src": "B1E0:14860",
+   "carry": "candidate_ok",
+   "en_candidate": "＠水Shall I turn on the light, Gillian?＠白",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 15328,
+   "budget": 39,
+   "en": "＠水It's eerily pitch-black.＠白",
+   "src": "B1E0:14905",
+   "carry": "candidate_edit",
+   "en_candidate": "＠水It's pitch-black.＠白",
+   "sim": 0.7,
+   "note": "re-adapted 2026-09-30: new PS1 wording + 不気味なほど"
+  },
+  {
+   "off": 15367,
+   "budget": 59,
+   "en": "＠水If there's a way below,￥it's here.＠白",
+   "src": "B1E0:14942",
+   "carry": "rebroken",
+   "long": "＠水If there's an entrance underground,￥this must be it.＠白",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15426,
+   "budget": 25,
+   "en": "＠水I think so too.＠白",
+   "src": "B1E0:14999",
+   "carry": "exact"
+  },
+  {
+   "off": 15451,
+   "budget": 37,
+   "en": "Gillian, let's check that vase.",
+   "src": "B1E0:15024",
+   "carry": "exact"
+  },
+  {
+   "off": 15488,
+   "budget": 43,
+   "en": "We're close. Let's search this room.",
+   "src": "B1E0:15061",
+   "carry": "exact"
+  },
+  {
+   "off": 15531,
+   "budget": 31,
+   "en": "I'll douse the light, Gillian.",
+   "src": "B1E0:15104",
+   "carry": "exact",
+   "long": "I'll turn off the light, Gillian."
+  },
+  {
+   "off": 15562,
+   "budget": 29,
+   "en": "A photo of 'Saint Basil's'.",
+   "src": "B1E0:15135",
+   "carry": "exact",
+   "long": "It's a photograph of St. Basil's￥Cathedral."
+  },
+  {
+   "off": 15591,
+   "budget": 39,
+   "en": "What's that castle-like thing?",
+   "src": "B1E0:15164",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15630,
+   "budget": 23,
+   "en": "Like a castle...",
+   "src": "B1E0:15201",
+   "carry": "exact"
+  },
+  {
+   "off": 15653,
+   "budget": 53,
+   "en": "A photo of Saint Basil's, a￥cathedral in Moscow.",
+   "src": "B1E0:15224",
+   "carry": "rebroken",
+   "long": "It's a photograph of St. Basil's￥Cathedral in Moscow.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15706,
+   "budget": 47,
+   "en": "A photo of some temple.￥Islamic, perhaps?",
+   "src": "B1E0:15275",
+   "carry": "exact",
+   "long": "It's a photograph of some kind of￥temple. Islamic, perhaps?"
+  },
+  {
+   "off": 15753,
+   "budget": 61,
+   "en": "I feel like I've seen it somewhere.￥No, I can't remember!",
+   "src": "B1E0:15322",
+   "carry": "candidate_ok",
+   "en_candidate": "I feel like I've seen it somewhere.￥No, I can't remember!",
+   "sim": 0.95,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 15814,
+   "budget": 27,
+   "en": "Nothing on the desk.",
+   "src": "B1E0:15385",
+   "carry": "exact",
+   "long": "There's nothing on the desk."
+  },
+  {
+   "off": 15841,
+   "budget": 23,
+   "en": "Something on the desk.",
+   "src": "B1E0:15412",
+   "carry": "exact",
+   "long": "There's something on the desk."
+  },
+  {
+   "off": 15864,
+   "budget": 21,
+   "en": "It's a drawer.",
+   "src": "B1E0:15435",
+   "carry": "exact"
+  },
+  {
+   "off": 15885,
+   "budget": 21,
+   "en": "Oh!",
+   "src": "B1E0:15456",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15906,
+   "budget": 85,
+   "en": "Face to face. Doesn't it look like￥the picture on the Chief's wall?",
+   "src": "B1E0:15475",
+   "carry": "rebroken",
+   "long": "'Face to Face'... Doesn't it look￥exactly like the picture hanging on￥the wall of the Chief's room!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15991,
+   "budget": 89,
+   "en": "That's the famous illusion, no?￥Their eyes hold no illusion...￥Let's look well.",
+   "src": "B1E0:15558",
+   "carry": "exact",
+   "long": "Isn't that a famous optical￥illusion? Their eyes aren't fooled￥by those. Let's look closely."
+  },
+  {
+   "off": 16080,
+   "budget": 59,
+   "en": "Hard for humans to notice.￥It may be a mark of some kind.",
+   "src": "B1E0:15647",
+   "carry": "exact",
+   "long": "A human could easily miss it. It￥might be some kind of sign."
+  },
+  {
+   "off": 16139,
+   "budget": 83,
+   "en": "I see. \"Face to face.\" There could￥be a connection. Let's check.",
+   "src": "B1E0:15706",
+   "carry": "exact"
+  },
+  {
+   "off": 16222,
+   "budget": 41,
+   "en": "...A vase.￥No flowers in it.",
+   "src": "B1E0:15789",
+   "carry": "exact",
+   "long": "It's a vase. There aren't any￥flowers in it."
+  },
+  {
+   "off": 16263,
+   "budget": 33,
+   "en": "There are rails on the floor.",
+   "src": "B1E0:15830",
+   "carry": "exact"
+  },
+  {
+   "off": 16296,
+   "budget": 45,
+   "en": "Suspicious, all right.￥A way below?",
+   "src": "B1E0:15863",
+   "carry": "exact",
+   "long": "That's suspicious. Could there be an￥entrance underground?"
+  },
+  {
+   "off": 16341,
+   "budget": 47,
+   "en": "Rails?... Suspicious.￥A way below?",
+   "src": "B1E0:15908",
+   "carry": "rebroken",
+   "long": "Rails? That's suspicious. An￥entrance underground?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16388,
+   "budget": 37,
+   "en": "These rails are unnatural.",
+   "src": "B1E0:15953",
+   "carry": "exact",
+   "long": "Those rails are definitely out of￥place."
+  },
+  {
+   "off": 16425,
+   "budget": 33,
+   "en": "Could that vase be a button?",
+   "src": "B1E0:15990",
+   "carry": "candidate_edit",
+   "en_candidate": "Could that vase be a switch?",
+   "sim": 0.79,
+   "note": "re-adapted 2026-09-30: new PS1 wording, switch -> button (Saturn)"
+  },
+  {
+   "off": 16458,
+   "budget": 39,
+   "en": "There must be a button or something￥somewhere.",
+   "src": "B1E0:16025",
+   "carry": "candidate_edit",
+   "en_candidate": "Is there no switch somewhere?",
+   "sim": 0.82,
+   "note": "re-adapted 2026-09-30: new PS1 long, switch -> button (Saturn)"
+  },
+  {
+   "off": 16497,
+   "budget": 21,
+   "en": "It's a monitor.",
+   "src": "B1E0:16066",
+   "carry": "exact"
+  },
+  {
+   "off": 16518,
+   "budget": 33,
+   "en": "Looks like it's for a computer.",
+   "src": "B1E0:16087",
+   "carry": "exact"
+  },
+  {
+   "off": 16551,
+   "budget": 49,
+   "en": "It's a whiteboard... Nothing's￥written on it.",
+   "src": "B1E0:16120",
+   "carry": "rebroken",
+   "long": "It's a whiteboard. There's nothing￥written on it.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16600,
+   "budget": 49,
+   "en": "A board for plans, no doubt...",
+   "src": "B1E0:16167",
+   "carry": "rebroken",
+   "long": "Probably a whiteboard for schedules￥and things.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16649,
+   "budget": 75,
+   "en": "Quite an old photo.￥By the print and elements,￥half a century old.",
+   "src": "B1E0:16214",
+   "carry": "exact",
+   "long": "It's a very old photograph. Judging￥by the print's condition and￥materials, it's half a century old."
+  },
+  {
+   "off": 16724,
+   "budget": 67,
+   "en": "Why is such a photo hung here?￥Metal, where is this?",
+   "src": "B1E0:16289",
+   "carry": "rebroken",
+   "long": "Why would they hang a photo like￥this? Metal, where was it taken?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16791,
+   "budget": 39,
+   "en": "Please wait. I'll search my data.",
+   "src": "B1E0:16354",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16830,
+   "budget": 15,
+   "en": "I've found it.",
+   "src": "B1E0:16391",
+   "carry": "exact"
+  },
+  {
+   "off": 16845,
+   "budget": 85,
+   "en": "It's ＠赤St. Basil's Cathedral＠白, which￥stood in Moscow before the￥Catastrophe.",
+   "src": "B1E0:16406",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 16930,
+   "budget": 89,
+   "en": "St. Basil's Cathedral? That sounds￥familiar, but I can't remember.",
+   "src": "B1E0:16493",
+   "carry": "exact"
+  },
+  {
+   "off": 17019,
+   "budget": 83,
+   "en": "Come to think of it, Freddy Nielsen￥had a map of Moscow in his living￥room.",
+   "src": "B1E0:16582",
+   "carry": "exact"
+  },
+  {
+   "off": 17102,
+   "budget": 59,
+   "en": "Moscow? What's the connection to the￥Snatchers?",
+   "src": "B1E0:16665",
+   "carry": "exact"
+  },
+  {
+   "off": 17161,
+   "budget": 31,
+   "en": "Where the 'matches' were.",
+   "src": "B1E0:16724",
+   "carry": "exact",
+   "long": "This is where the matches were."
+  },
+  {
+   "off": 17192,
+   "budget": 41,
+   "en": "＠赤'Matches'＠白 lay on the desk.",
+   "src": "B1E0:16755",
+   "carry": "exact",
+   "long": "There were ＠赤matches＠白 on the desk."
+  },
+  {
+   "off": 17233,
+   "budget": 55,
+   "en": "Well! They're OUTER HEAVEN matches.",
+   "src": "B1E0:16796",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 17288,
+   "budget": 73,
+   "en": "OUTER HEAVEN seems popular with￥Snatchers.",
+   "src": "B1E0:16847",
+   "carry": "exact"
+  },
+  {
+   "off": 17361,
+   "budget": 73,
+   "en": "They must go there to look for￥people to snatch.",
+   "src": "B1E0:16920",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 17434,
+   "budget": 25,
+   "en": "I'll take the matches.",
+   "src": "B1E0:16991",
+   "carry": "exact"
+  },
+  {
+   "off": 17459,
+   "budget": 39,
+   "en": "We've already checked that drawer.",
+   "src": "B1E0:17016",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 17498,
+   "budget": 29,
+   "en": "Let's check the drawer.",
+   "src": "B1E0:17057",
+   "carry": "exact"
+  },
+  {
+   "off": 17527,
+   "budget": 39,
+   "en": "No luck. There's nothing here.",
+   "src": "B1E0:17086",
+   "carry": "exact"
+  },
+  {
+   "off": 17566,
+   "budget": 45,
+   "en": "Could this vase be a button?",
+   "src": "B1E0:17125",
+   "carry": "candidate_edit",
+   "en_candidate": "Could this vase be a switch?",
+   "sim": 0.84,
+   "note": "re-adapted 2026-09-30: new PS1 wording, switch -> button (Saturn)"
+  },
+  {
+   "off": 17611,
+   "budget": 33,
+   "en": "I'll try lifting it.",
+   "src": "B1E0:17170",
+   "carry": "exact"
+  },
+  {
+   "off": 17644,
+   "budget": 11,
+   "en": "Whoa!＠Ｃ",
+   "src": "B1E0:17203",
+   "carry": "exact"
+  },
+  {
+   "off": 17655,
+   "budget": 47,
+   "en": "The desk slid, and stairs down￥appeared!",
+   "src": "B1E0:17214",
+   "carry": "rebroken",
+   "long": "The desk slid aside, revealing￥stairs underground!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 17702,
+   "budget": 21,
+   "en": "It's just a vase.",
+   "src": "B1E0:17259",
+   "carry": "exact"
+  },
+  {
+   "off": 17723,
+   "budget": 21,
+   "en": "An ordinary vase.",
+   "src": "B1E0:17280",
+   "carry": "exact",
+   "long": "It's an ordinary vase."
+  },
+  {
+   "off": 17744,
+   "budget": 81,
+   "en": "The rails extend from under this￥desk. Could the desk slide along￥them?",
+   "src": "B1E0:17301",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 17825,
+   "budget": 21,
+   "en": "I feel so too.",
+   "src": "B1E0:17380",
+   "carry": "exact",
+   "long": "That's what I was thinking."
+  },
+  {
+   "off": 17846,
+   "budget": 27,
+   "en": "...It won't move.",
+   "src": "B1E0:17401",
+   "carry": "exact",
+   "long": "It won't budge when I push it."
+  },
+  {
+   "off": 17873,
+   "budget": 33,
+   "en": "It's a computer monitor.",
+   "src": "B1E0:17428",
+   "carry": "exact"
+  },
+  {
+   "off": 17906,
+   "budget": 41,
+   "en": "A whiteboard with copy guard.",
+   "src": "B1E0:17461",
+   "carry": "candidate_ok",
+   "en_candidate": "A whiteboard with copy guard.",
+   "sim": 0.83,
+   "long": "It's a whiteboard with a device to￥prevent copying."
+  },
+  {
+   "off": 17947,
+   "budget": 35,
+   "en": "A whiteboard for criminals, huh?",
+   "src": "B1E0:17504",
+   "carry": "exact"
+  },
+  {
+   "off": 17982,
+   "budget": 21,
+   "en": "What of this room?",
+   "src": "B1E0:17539",
+   "carry": "exact",
+   "long": "What do you think of this room?"
+  },
+  {
+   "off": 18003,
+   "budget": 53,
+   "en": "There's no lighting. That's￥definitely strange.",
+   "src": "B1E0:17560",
+   "carry": "exact"
+  },
+  {
+   "off": 18056,
+   "budget": 33,
+   "en": "Because they don't need lights?",
+   "src": "B1E0:17613",
+   "carry": "exact"
+  },
+  {
+   "off": 18089,
+   "budget": 41,
+   "en": "Isn't there some trick to￥this room?",
+   "src": "B1E0:17646",
+   "carry": "candidate_ok",
+   "en_candidate": "Isn't there some trick to￥this room?",
+   "sim": 0.98,
+   "long": "Could there be some hidden mechanism￥in this room?"
+  },
+  {
+   "off": 18130,
+   "budget": 29,
+   "en": "＠水What of this room?＠白",
+   "src": "B1E0:17689",
+   "carry": "exact",
+   "long": "＠水What do you think of this room?＠白"
+  },
+  {
+   "off": 18159,
+   "budget": 61,
+   "en": "＠水There's no lighting. That's￥definitely strange.＠白",
+   "src": "B1E0:17718",
+   "carry": "exact"
+  },
+  {
+   "off": 18220,
+   "budget": 41,
+   "en": "＠水Because they don't need lights?＠白",
+   "src": "B1E0:17779",
+   "carry": "exact"
+  },
+  {
+   "off": 18261,
+   "budget": 49,
+   "en": "＠水Isn't there some trick to￥this room?＠白",
+   "src": "B1E0:17820",
+   "carry": "candidate_ok",
+   "en_candidate": "＠水Isn't there some trick to￥this room?＠白",
+   "sim": 0.98,
+   "long": "＠水Could there be some hidden mechanism￥in this room?＠白"
+  },
+  {
+   "off": 18310,
+   "budget": 19,
+   "en": "What trick?",
+   "src": "B1E0:17871",
+   "carry": "exact",
+   "long": "What kind of mechanism?"
+  },
+  {
+   "off": 18329,
+   "budget": 27,
+   "en": "Let's look carefully.",
+   "src": "B1E0:17890",
+   "carry": "exact"
+  },
+  {
+   "off": 18356,
+   "budget": 23,
+   "en": "＠水What trick?",
+   "src": "B1E0:17917",
+   "carry": "exact",
+   "long": "＠水What kind of mechanism?"
+  },
+  {
+   "off": 18379,
+   "budget": 35,
+   "en": "＠水Let's look carefully.＠白",
+   "src": "B1E0:17940",
+   "carry": "exact"
+  },
+  {
+   "off": 18414,
+   "budget": 13,
+   "en": "Light on",
+   "src": "B1E0:17975",
+   "carry": "exact",
+   "long": "Turn on light"
+  },
+  {
+   "off": 18427,
+   "budget": 29,
+   "en": "Metal, is your light on?",
+   "src": "B1E0:17988",
+   "carry": "exact"
+  },
+  {
+   "off": 18456,
+   "budget": 49,
+   "en": "It's already on! Gillian, are you￥night-blind?",
+   "src": "B1E0:18017",
+   "carry": "exact",
+   "long": "It's already on! Do you have night￥blindness, Gillian?"
+  },
+  {
+   "off": 18505,
+   "budget": 9,
+   "en": "Gulp!",
+   "src": "B1E0:18066",
+   "carry": "exact"
+  },
+  {
+   "off": 18514,
+   "budget": 35,
+   "en": "The light's on, Gillian.",
+   "src": "B1E0:18075",
+   "carry": "exact"
+  },
+  {
+   "off": 18549,
+   "budget": 31,
+   "en": "＠水Right, light on!＠白",
+   "src": "B1E0:18110",
+   "carry": "exact",
+   "long": "＠水All right, turn on the light!＠白"
+  },
+  {
+   "off": 18580,
+   "budget": 45,
+   "en": "＠水Understood. Turning on the light.＠白",
+   "src": "B1E0:18141",
+   "carry": "exact"
+  },
+  {
+   "off": 18625,
+   "budget": 57,
+   "en": "The light is on. You can aim it,￥Gillian.",
+   "src": "B1E0:18186",
+   "carry": "exact"
+  },
+  {
+   "off": 18682,
+   "budget": 99,
+   "en": "Hold the ＠紫Ｂ＠白 button and use the￥directional buttons to move the￥light.",
+   "src": "B1E0:18243",
+   "carry": "candidate_edit",
+   "en_candidate": "Hold the ＠紫cancel＠白 button and use the￥directional buttons to move the￥light.",
+   "sim": 0.98,
+   "note": "re-adapted 2026-09-30: Saturn's B button; new PS1 wording"
+  },
+  {
+   "off": 18781,
+   "budget": 55,
+   "en": "Release the ＠紫Ｂ＠白 button to return￥to the command menu.",
+   "src": "B1E0:18342",
+   "carry": "candidate_edit",
+   "en_candidate": "Release ＠紫cancel＠白 for command mode.",
+   "sim": 0.96,
+   "note": "re-adapted 2026-09-30: Saturn's B button; new PS1 long"
+  },
+  {
+   "off": 18836,
+   "budget": 55,
+   "en": "Make sure the object is fully inside￥the beam.",
+   "src": "B1E0:18480",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18891,
+   "budget": 23,
+   "en": "I count on you!",
+   "src": "B1E0:18533",
+   "carry": "rebroken",
+   "long": "I'm counting on you, Gillian!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18914,
+   "budget": 23,
+   "en": "It's yours, Gillian!",
+   "src": "B1E0:18554",
+   "carry": "rebroken",
+   "long": "It's up to you, Gillian!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18937,
+   "budget": 73,
+   "en": "＠水It's hard to see in the dark, but￥I'll save your progress now.＠白",
+   "src": "B1E0:18575",
+   "carry": "exact"
+  },
+  {
+   "off": 19010,
+   "budget": 41,
+   "en": "Huh? Something moved!",
+   "src": "B1E0:18648",
+   "carry": "exact"
+  },
+  {
+   "off": 19051,
+   "budget": 35,
+   "en": "Where? There's nothing there!",
+   "src": "B1E0:18689",
+   "carry": "exact"
+  },
+  {
+   "off": 19086,
+   "budget": 41,
+   "en": "That's strange. Did I imagine it?",
+   "src": "B1E0:18724",
+   "carry": "exact"
+  },
+  {
+   "off": 19127,
+   "budget": 41,
+   "en": "Gillian! Something is moving after￥all!",
+   "src": "B1E0:18765",
+   "carry": "exact",
+   "long": "Gillian! Something is definitely￥moving!"
+  },
+  {
+   "off": 19168,
+   "budget": 29,
+   "en": "What? A Snatcher?",
+   "src": "B1E0:18806",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19197,
+   "budget": 25,
+   "en": "It's much smaller.",
+   "src": "B1E0:18833",
+   "carry": "exact"
+  },
+  {
+   "off": 19222,
+   "budget": 47,
+   "en": "Another fly? Or another mosquito?",
+   "src": "B1E0:18858",
+   "carry": "exact"
+  },
+  {
+   "off": 19269,
+   "budget": 43,
+   "en": "Wait. It's much larger than that.",
+   "src": "B1E0:18905",
+   "carry": "exact"
+  },
+  {
+   "off": 19312,
+   "budget": 27,
+   "en": "Larger? What is it?",
+   "src": "B1E0:18948",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19339,
+   "budget": 23,
+   "en": "I've identified it.",
+   "src": "B1E0:18973",
+   "carry": "exact"
+  },
+  {
+   "off": 19362,
+   "budget": 17,
+   "en": "A cockroach!!",
+   "src": "B1E0:18996",
+   "carry": "exact",
+   "long": "It's a cockroach!"
+  },
+  {
+   "off": 19379,
+   "budget": 13,
+   "en": "A cockroach!",
+   "src": "B1E0:19013",
+   "carry": "exact"
+  },
+  {
+   "off": 19392,
+   "budget": 27,
+   "en": "What a filthy hospital.",
+   "src": "B1E0:19026",
+   "carry": "exact"
+  },
+  {
+   "off": 19419,
+   "budget": 23,
+   "en": "Phew.... quite so.",
+   "src": "B1E0:19053",
+   "carry": "exact",
+   "long": "Whew. You're telling me."
+  },
+  {
+   "off": 19442,
+   "budget": 49,
+   "en": "Yet not one came out of the￥capsule machine.",
+   "src": "B1E0:19076",
+   "carry": "candidate_ok",
+   "en_candidate": "Yet not one came out of the￥capsule machine.",
+   "sim": 0.96,
+   "long": "And I couldn't get one from that￥capsule machine, no matter how hard￥I tried."
+  },
+  {
+   "off": 19491,
+   "budget": 25,
+   "en": "Did you say something?",
+   "src": "B1E0:19123",
+   "carry": "exact"
+  },
+  {
+   "off": 19516,
+   "budget": 31,
+   "en": "No. Life's complicated.",
+   "src": "B1E0:19148",
+   "carry": "exact"
+  },
+  {
+   "off": 19547,
+   "budget": 55,
+   "en": "The cockroach is gone.￥Off somewhere, no doubt.",
+   "src": "B1E0:19179",
+   "carry": "exact",
+   "long": "The cockroach is gone. It must have￥crawled off somewhere."
+  },
+  {
+   "off": 19602,
+   "budget": 31,
+   "en": "There's nothing there.",
+   "src": "B1E0:19234",
+   "carry": "exact"
+  },
+  {
+   "off": 19633,
+   "budget": 33,
+   "en": "I don't see anything.",
+   "src": "B1E0:19265",
+   "carry": "exact"
+  },
+  {
+   "off": 19666,
+   "budget": 51,
+   "en": "You probably imagined it. That￥happens sometimes.",
+   "src": "B1E0:19298",
+   "carry": "exact"
+  },
+  {
+   "off": 19717,
+   "budget": 45,
+   "en": "The object isn't fully inside the￥beam.",
+   "src": "B1E0:19349",
+   "carry": "candidate_ok",
+   "en_candidate": "The object isn't fully inside the￥beam.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 19762,
+   "budget": 33,
+   "en": "The light is off target.",
+   "src": "B1E0:19394",
+   "carry": "exact"
+  },
+  {
+   "off": 19795,
+   "budget": 41,
+   "en": "Please aim at a specific object.",
+   "src": "B1E0:19427",
+   "carry": "exact"
+  },
+  {
+   "off": 19836,
+   "budget": 31,
+   "en": "You're lighting several.",
+   "src": "B1E0:19468",
+   "carry": "exact",
+   "long": "You're lighting up more than one￥object."
+  },
+  {
+   "off": 19867,
+   "budget": 33,
+   "en": "There's nothing unusual.",
+   "src": "B1E0:19499",
+   "carry": "exact"
+  },
+  {
+   "off": 19900,
+   "budget": 25,
+   "en": "There's nothing there.",
+   "src": "B1E0:19532",
+   "carry": "exact"
+  },
+  {
+   "off": 19925,
+   "budget": 33,
+   "en": "＠水It's too dark to tell.＠白",
+   "src": "B1E0:19557",
+   "carry": "exact"
+  },
+  {
+   "off": 19958,
+   "budget": 33,
+   "en": "＠水Too dark to see.＠白",
+   "src": "B1E0:19590",
+   "carry": "exact",
+   "long": "＠水It's too dark to see anything.＠白"
+  },
+  {
+   "off": 19991,
+   "budget": 35,
+   "en": "I've recorded this photo.",
+   "src": "B1E0:19623",
+   "carry": "exact",
+   "long": "I've stored this photograph in my￥memory."
+  },
+  {
+   "off": 20026,
+   "budget": 47,
+   "en": "I searched before, and nothing￥came of it.",
+   "src": "B1E0:19658",
+   "carry": "rebroken",
+   "long": "We searched here before, but as you￥can see, we found nothing.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20073,
+   "budget": 81,
+   "en": "You must have missed something.￥Let's look carefully. Trust your￥instincts.",
+   "src": "B1E0:19703",
+   "carry": "exact"
+  },
+  {
+   "off": 20154,
+   "budget": 51,
+   "en": "＠水I searched before, and nothing￥came of it.",
+   "src": "B1E0:19784",
+   "carry": "rebroken",
+   "long": "＠水We searched here before, but as you￥can see, we found nothing.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20205,
+   "budget": 85,
+   "en": "＠水You must have missed something.￥Let's look carefully. Trust your￥instincts.",
+   "src": "B1E0:19833",
+   "carry": "exact"
+  },
+  {
+   "off": 20290,
+   "budget": 57,
+   "en": "Shh! Gillian, they'll hear you if￥you make noise!",
+   "src": "B1E0:19918",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20347,
+   "budget": 39,
+   "en": "Quiet, Gillian! They'll notice us.",
+   "src": "B1E0:19973",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20386,
+   "budget": 63,
+   "en": "Enemies could be anywhere.￥Keep talking to a minimum.",
+   "src": "B1E0:20010",
+   "carry": "exact",
+   "long": "They could be hiding anywhere. Let's￥keep the talking to a minimum."
+  },
+  {
+   "off": 20449,
+   "budget": 55,
+   "en": "Please be quiet, Gillian! They'll￥find us.",
+   "src": "B1E0:20073",
+   "carry": "exact"
+  },
+  {
+   "off": 20504,
+   "budget": 61,
+   "en": "＠水Shh! Gillian, they'll hear you if￥you make noise!",
+   "src": "B1E0:20128",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20565,
+   "budget": 43,
+   "en": "＠水Quiet, Gillian! They'll notice us.",
+   "src": "B1E0:20187",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20608,
+   "budget": 67,
+   "en": "＠水Enemies could be anywhere.￥Keep talking to a minimum.",
+   "src": "B1E0:20228",
+   "carry": "exact",
+   "long": "＠水They could be hiding anywhere. Let's￥keep the talking to a minimum."
+  },
+  {
+   "off": 20675,
+   "budget": 59,
+   "en": "＠水Please be quiet, Gillian! They'll￥find us.",
+   "src": "B1E0:20295",
+   "carry": "exact"
+  },
+  {
+   "off": 20734,
+   "budget": 5,
+   "en": "Peek",
+   "src": "B1E0:20354",
+   "carry": "exact"
+  },
+  {
+   "off": 20739,
+   "budget": 33,
+   "en": "It seems to go straight down.",
+   "src": "B1E0:20359",
+   "carry": "exact"
+  },
+  {
+   "off": 20772,
+   "budget": 19,
+   "en": "A door below.",
+   "src": "B1E0:20392",
+   "carry": "exact",
+   "long": "I can see a door at the bottom."
+  },
+  {
+   "off": 20791,
+   "budget": 5,
+   "en": "Str",
+   "src": "B1E0:20411",
+   "carry": "exact",
+   "long": "Stairs"
+  },
+  {
+   "off": 20796,
+   "budget": 63,
+   "en": "Less dust here than the corridor.",
+   "src": "B1E0:20416",
+   "carry": "rebroken",
+   "long": "Unlike the corridor, these stairs￥don't have much dust on them.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20859,
+   "budget": 55,
+   "en": "Which means they've been using them.",
+   "src": "B1E0:20477",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20914,
+   "budget": 37,
+   "en": "It's safe. They're sturdy.",
+   "src": "B1E0:20530",
+   "carry": "exact"
+  },
+  {
+   "off": 20951,
+   "budget": 63,
+   "en": "If a Snatcher goes down safely,￥so may any fat man.",
+   "src": "B1E0:20567",
+   "carry": "rebroken",
+   "long": "If they can hold a Snatcher, they'll￥hold even the fattest guy.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21014,
+   "budget": 9,
+   "en": "Motion",
+   "src": "B1E0:20628",
+   "carry": "exact",
+   "long": "Motion detector"
+  },
+  {
+   "off": 21023,
+   "budget": 29,
+   "en": "No readings so far.",
+   "src": "B1E0:20637",
+   "carry": "exact"
+  },
+  {
+   "off": 21052,
+   "budget": 29,
+   "en": "Nothing on my sensors.",
+   "src": "B1E0:20666",
+   "carry": "exact"
+  },
+  {
+   "off": 21081,
+   "budget": 11,
+   "en": "Go down",
+   "src": "B1E0:20695",
+   "carry": "exact",
+   "long": "Go downstairs"
+  },
+  {
+   "off": 21092,
+   "budget": 15,
+   "en": "Throw rock",
+   "src": "B1E0:20706",
+   "carry": "exact"
+  },
+  {
+   "off": 21107,
+   "budget": 17,
+   "en": "Me, rock?",
+   "src": "B1E0:20721",
+   "carry": "exact",
+   "long": "Me? I picked rock?"
+  },
+  {
+   "off": 21124,
+   "budget": 63,
+   "en": "Quit playing dumb! You lost,￥Gillian. Get in front.",
+   "src": "B1E0:20738",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21187,
+   "budget": 59,
+   "en": "All right, all right. Leave it to￥me! Let's go.",
+   "src": "B1E0:20799",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21246,
+   "budget": 17,
+   "en": "I'm scissors.",
+   "src": "B1E0:20856",
+   "carry": "exact",
+   "long": "I chose scissors."
+  },
+  {
+   "off": 21263,
+   "budget": 13,
+   "en": "I'm paper.",
+   "src": "B1E0:20873",
+   "carry": "exact",
+   "long": "I've got paper."
+  },
+  {
+   "off": 21276,
+   "budget": 17,
+   "en": "Throw scissors",
+   "src": "B1E0:20886",
+   "carry": "exact"
+  },
+  {
+   "off": 21293,
+   "budget": 15,
+   "en": "I chose paper.",
+   "src": "B1E0:20903",
+   "carry": "exact"
+  },
+  {
+   "off": 21308,
+   "budget": 13,
+   "en": "I'm rock.",
+   "src": "B1E0:20918",
+   "carry": "exact",
+   "long": "I've got rock."
+  },
+  {
+   "off": 21321,
+   "budget": 15,
+   "en": "Throw paper",
+   "src": "B1E0:20931",
+   "carry": "exact"
+  },
+  {
+   "off": 21336,
+   "budget": 15,
+   "en": "I chose rock.",
+   "src": "B1E0:20946",
+   "carry": "exact"
+  },
+  {
+   "off": 21351,
+   "budget": 15,
+   "en": "I'm scissors.",
+   "src": "B1E0:20961",
+   "carry": "exact",
+   "long": "I've got scissors."
+  },
+  {
+   "off": 21366,
+   "budget": 13,
+   "en": "Paper too.",
+   "src": "B1E0:20976",
+   "carry": "exact",
+   "long": "I've got paper too."
+  },
+  {
+   "off": 21379,
+   "budget": 13,
+   "en": "Rock too.",
+   "src": "B1E0:20989",
+   "carry": "exact",
+   "long": "I've got rock too."
+  },
+  {
+   "off": 21392,
+   "budget": 11,
+   "en": "Rock!",
+   "src": "B1E0:21002",
+   "carry": "exact"
+  },
+  {
+   "off": 21403,
+   "budget": 23,
+   "en": "It's a tie. Again!",
+   "src": "B1E0:21013",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21426,
+   "budget": 35,
+   "en": "All right. Rock, paper, scissors!",
+   "src": "B1E0:21034",
+   "carry": "exact"
+  },
+  {
+   "off": 21461,
+   "budget": 53,
+   "en": "Me? Scissors? Snip, snip, snip.",
+   "src": "B1E0:21069",
+   "carry": "exact"
+  },
+  {
+   "off": 21514,
+   "budget": 59,
+   "en": "All right, all right. Leave it to￥me! Let's go.",
+   "src": "B1E0:21122",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21573,
+   "budget": 15,
+   "en": "Scissors too.",
+   "src": "B1E0:21179",
+   "carry": "exact",
+   "long": "I've got scissors too."
+  },
+  {
+   "off": 21588,
+   "budget": 13,
+   "en": "Scissors!",
+   "src": "B1E0:21194",
+   "carry": "exact"
+  },
+  {
+   "off": 21601,
+   "budget": 11,
+   "en": "Paper!",
+   "src": "B1E0:21207",
+   "carry": "exact"
+  },
+  {
+   "off": 21612,
+   "budget": 15,
+   "en": "I'm paper?",
+   "src": "B1E0:21218",
+   "carry": "exact"
+  },
+  {
+   "off": 21627,
+   "budget": 61,
+   "en": "Don't play dumb! You lose.￥Off you go, first.",
+   "src": "B1E0:21233",
+   "carry": "rebroken",
+   "long": "Quit playing dumb! You lost,￥Gillian. Get in front already.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21688,
+   "budget": 47,
+   "en": "Something in this room is￥still unexplained.",
+   "src": "B1E0:21292",
+   "carry": "candidate_ok",
+   "en_candidate": "Something in this room is￥still unexplained.",
+   "sim": 0.91,
+   "long": "There's still something in this room￥we haven't figured out."
+  },
+  {
+   "off": 21735,
+   "budget": 31,
+   "en": "Where? Let's check it out.",
+   "src": "B1E0:21341",
+   "carry": "exact"
+  },
+  {
+   "off": 21766,
+   "budget": 55,
+   "en": "＠水Something in this room is￥still unexplained.＠白",
+   "src": "B1E0:21372",
+   "carry": "candidate_ok",
+   "en_candidate": "＠水Something in this room is￥still unexplained.＠白",
+   "sim": 0.93,
+   "long": "＠水There's still something in this room￥we haven't figured out.＠白"
+  },
+  {
+   "off": 21821,
+   "budget": 39,
+   "en": "＠水Where? Let's check it out.＠白",
+   "src": "B1E0:21429",
+   "carry": "exact"
+  },
+  {
+   "off": 21860,
+   "budget": 55,
+   "en": "See, Gillian, those rails￥are still a riddle.",
+   "src": "B1E0:21468",
+   "carry": "rebroken",
+   "long": "Remember, Gillian, we still don't￥know what those rails are for.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21915,
+   "budget": 63,
+   "en": "＠水See, Gillian, the rails' riddle￥is unsolved.＠白",
+   "src": "B1E0:21521",
+   "carry": "rebroken",
+   "long": "＠水Remember, Gillian, we still don't￥know what those rails are for.＠白",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21978,
+   "budget": 67,
+   "en": "Come to think, that third room￥still had things unexplained...",
+   "src": "B1E0:21582",
+   "carry": "rebroken",
+   "long": "Come to think of it, there was still￥something unexplained in Room 3.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 22045,
+   "budget": 37,
+   "en": "Let's check Room 3, Gillian.",
+   "src": "B1E0:21647",
+   "carry": "exact"
+  },
+  {
+   "off": 22082,
+   "budget": 67,
+   "en": "Damn it, there's nobody here. Is￥this really a Snatcher base?",
+   "src": "B1E0:21684",
+   "carry": "exact"
+  },
+  {
+   "off": 22149,
+   "budget": 75,
+   "en": "Calm down, Gillian. We did find a￥few clues.",
+   "src": "B1E0:21751",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 22224,
+   "budget": 51,
+   "en": "Odd, isn't it... not a trace￥of anything here.",
+   "src": "B1E0:21824",
+   "carry": "rebroken",
+   "long": "Doesn't it seem strange? There's no￥sign of anything here.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 22275,
+   "budget": 49,
+   "en": "Let's leave for now and go over the￥clues.",
+   "src": "B1E0:21873",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 22324,
+   "budget": 37,
+   "en": "Gillian, let's leave the hospital.",
+   "src": "B1E0:21920",
+   "carry": "exact",
+   "long": "Let's leave the hospital for now,￥Gillian."
+  },
+  {
+   "off": 22361,
+   "budget": 15,
+   "en": "JUNKER ID",
+   "src": "B1E0:21957",
+   "carry": "exact"
+  },
+  {
+   "off": 22376,
+   "budget": 73,
+   "en": "This ID card proves your full￥authority as a JUNKER. Keep it safe.",
+   "src": "B1E0:21972",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 22449,
+   "budget": 7,
+   "en": "Funds",
+   "src": "B1E0:22041",
+   "carry": "exact"
+  },
+  {
+   "off": 22456,
+   "budget": 35,
+   "en": "This is the money JUNKER gave you.",
+   "src": "B1E0:22048",
+   "carry": "exact"
+  },
+  {
+   "off": 22491,
+   "budget": 5,
+   "en": "Drop",
+   "src": "B1E0:22083",
+   "carry": "exact",
+   "long": "Candy"
+  },
+  {
+   "off": 22496,
+   "budget": 35,
+   "en": "This candy was in Jean's pocket.",
+   "src": "B1E0:22088",
+   "carry": "exact"
+  },
+  {
+   "off": 22531,
+   "budget": 7,
+   "en": "Proof",
+   "src": "B1E0:22123",
+   "carry": "exact",
+   "long": "Evidence"
+  },
+  {
+   "off": 22538,
+   "budget": 3,
+   "en": "Pc",
+   "src": "B1E0:22130",
+   "carry": "exact",
+   "long": "Chess piece"
+  },
+  {
+   "off": 22541,
+   "budget": 61,
+   "en": "Gibson's chess piece, hinting at￥Queen Hospital.",
+   "src": "B1E0:22133",
+   "carry": "exact",
+   "long": "Gibson carried this chess piece as a￥clue to Queen Hospital."
+  },
+  {
+   "off": 22602,
+   "budget": 37,
+   "en": "This is the chess piece Gibson had.",
+   "src": "B1E0:22194",
+   "carry": "exact"
+  },
+  {
+   "off": 22639,
+   "budget": 7,
+   "en": "Chart",
+   "src": "B1E0:22231",
+   "carry": "exact",
+   "long": "Medical chart"
+  },
+  {
+   "off": 22646,
+   "budget": 41,
+   "en": "A chart with a Snatcher's￥name on it.",
+   "src": "B1E0:22238",
+   "carry": "exact",
+   "long": "This medical record gives a￥Snatcher's name."
+  },
+  {
+   "off": 22687,
+   "budget": 37,
+   "en": "Found on a desk at￥Queen Hospital.",
+   "src": "B1E0:22279",
+   "carry": "exact",
+   "long": "We found this in a desk at Queen￥Hospital."
+  },
+  {
+   "off": 22724,
+   "budget": 7,
+   "en": "Match",
+   "src": "B1E0:22316",
+   "carry": "exact",
+   "long": "Matches"
+  },
+  {
+   "off": 22731,
+   "budget": 45,
+   "en": "Old-fashioned matches from￥Queen Hosp.",
+   "src": "B1E0:22323",
+   "carry": "rebroken",
+   "long": "These old-fashioned matches were at￥Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 22776,
+   "budget": 9,
+   "en": "Memo",
+   "src": "B1E0:22366",
+   "carry": "exact"
+  },
+  {
+   "off": 22785,
+   "budget": 31,
+   "en": "A memo in Harry's hand.",
+   "src": "B1E0:22375",
+   "carry": "exact",
+   "long": "Harry seems to have written this￥note."
+  },
+  {
+   "off": 22816,
+   "budget": 45,
+   "en": "This note was in the Mechanic room.",
+   "src": "B1E0:22406",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 22861,
+   "budget": 13,
+   "en": "Video memory",
+   "src": "B1E0:22449",
+   "carry": "exact"
+  },
+  {
+   "off": 22874,
+   "budget": 13,
+   "en": "Little John",
+   "src": "B1E0:22462",
+   "carry": "exact"
+  },
+  {
+   "off": 22887,
+   "budget": 49,
+   "en": "Footage left in Little John's￥memory.",
+   "src": "B1E0:22475",
+   "carry": "rebroken",
+   "long": "This image was stored in Little￥John's memory.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 22936,
+   "budget": 9,
+   "en": "Red Sq.",
+   "src": "B1E0:22522",
+   "carry": "exact",
+   "long": "Red Square"
+  },
+  {
+   "off": 22945,
+   "budget": 39,
+   "en": "A photo hidden in the￥Chief's room.",
+   "src": "B1E0:22531",
+   "carry": "exact",
+   "long": "This photograph was hidden in the￥Chief's office."
+  },
+  {
+   "off": 22984,
+   "budget": 5,
+   "en": "Hall",
+   "src": "B1E0:22570",
+   "carry": "exact",
+   "long": "Temple"
+  },
+  {
+   "off": 22989,
+   "budget": 49,
+   "en": "Temple painting from a￥Queen Hospital room.",
+   "src": "B1E0:22575",
+   "carry": "rebroken",
+   "long": "This picture of a cathedral hung in￥a room at Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23038,
+   "budget": 67,
+   "en": "It has an integrated circuit￥containing all your data, Gillian.",
+   "src": "B1E0:22622",
+   "carry": "exact"
+  },
+  {
+   "off": 23105,
+   "budget": 51,
+   "en": "Case expenses are covered￥as work requires.",
+   "src": "B1E0:22689",
+   "carry": "rebroken",
+   "long": "In principle, there's no limit on￥necessary investigation expenses.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23156,
+   "budget": 47,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "src": "B1E0:22738",
+   "carry": "rebroken",
+   "long": "Jean gave this candy to the children￥at the orphanage.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23203,
+   "budget": 59,
+   "en": "So the piece pointed to the name￥of Queen Hospital.",
+   "src": "B1E0:22783",
+   "carry": "rebroken",
+   "long": "It seems this piece was meant to￥tell us the name of Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23262,
+   "budget": 57,
+   "en": "It's a wooden chess piece. The￥queen.",
+   "src": "B1E0:22840",
+   "carry": "exact"
+  },
+  {
+   "off": 23319,
+   "budget": 85,
+   "en": "A cipher written in Chinese element￥symbols. Decoded, it reads BENSON.",
+   "src": "B1E0:22897",
+   "carry": "rebroken",
+   "long": "It's a code written using Chinese￥symbols for chemical elements. It￥decodes to BENSON.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23404,
+   "budget": 65,
+   "en": "It seems to be part of a medical￥record. What does it say?",
+   "src": "B1E0:22980",
+   "carry": "exact"
+  },
+  {
+   "off": 23469,
+   "budget": 73,
+   "en": "Matches from 'Outer Heaven'.￥A trifle given to regulars,￥surely.",
+   "src": "B1E0:23045",
+   "carry": "rebroken",
+   "long": "These are Outer Heaven matches. They￥probably give them to regular￥customers.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23542,
+   "budget": 63,
+   "en": "'Face to Face'.￥A memo on the illusion￥picture's secret.",
+   "src": "B160:8156",
+   "carry": "exact",
+   "long": "\"Face to face.\" The note reveals￥the secret of the optical illusion.",
+   "note": "from B160"
+  },
+  {
+   "off": 23605,
+   "budget": 77,
+   "en": "\"Face to face.\" It's Harry's￥handwriting, but what does it mean?",
+   "src": "B160:8219",
+   "carry": "rebroken",
+   "note": "from B160; Saturn jp has 1 more break"
+  },
+  {
+   "off": 23682,
+   "budget": 55,
+   "en": "This image shows the QUEEN Hospital￥neon sign.",
+   "src": "B1E0:23254",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23737,
+   "budget": 69,
+   "en": "It reads \"OLEEN Hospital.\" It must￥be a hospital's neon sign.",
+   "src": "B1E0:23307",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23806,
+   "budget": 65,
+   "en": "A still photo of Red Square￥in Moscow, before the Catastrophe.",
+   "src": "B1E0:23374",
+   "carry": "exact",
+   "long": "This is a photograph of Red Square￥in Moscow before the Catastrophe."
+  },
+  {
+   "off": 23871,
+   "budget": 69,
+   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "src": "B1E0:23439",
+   "carry": "rebroken",
+   "long": "It's St. Basil's Cathedral, a famous￥cathedral in Moscow before the￥Catastrophe.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23942,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

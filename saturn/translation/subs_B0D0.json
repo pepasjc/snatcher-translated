@@ -1,0 +1,1018 @@
+{
+ "scene": "B0D0",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B0D0_000",
+   "line": 52,
+   "act": 1,
+   "sector": 1215,
+   "offset": 1860,
+   "size": 31011,
+   "b0": 0,
+   "b1": 31011,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "So you're the new JUNKER.",
+   "rows": [
+    "So you're the new JUNKER."
+   ],
+   "rows_plain": [
+    "So you're the new JUNKER."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0D0_001",
+   "line": 53,
+   "act": 1,
+   "sector": 1229,
+   "offset": 335,
+   "size": 12692,
+   "b0": 0,
+   "b1": 12692,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "You're Napoleon?",
+   "rows": [
+    "You're Napoleon?"
+   ],
+   "rows_plain": [
+    "You're Napoleon?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_002",
+   "line": 54,
+   "act": 1,
+   "sector": 1234,
+   "offset": 1407,
+   "size": 63923,
+   "b0": 0,
+   "b1": 63923,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "Make it quick. If the Snatchers see me here, I'll be the next one they kill.",
+   "rows": [
+    "Make it quick. If the",
+    "Snatchers see me here, I'll",
+    "be the next one they kill."
+   ],
+   "rows_plain": [
+    "Make it quick. If the Snatchers see",
+    "me here, I'll be the next one they",
+    "kill."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0D0_1021",
+   "line": 55,
+   "act": 1,
+   "sector": 1262,
+   "offset": 258,
+   "size": 15607,
+   "b0": 0,
+   "b1": 15607,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "All right, I'll get a reading.",
+   "rows": [
+    "All right, I'll get a",
+    "reading."
+   ],
+   "rows_plain": [
+    "All right, I'll get a reading."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0D0_1022",
+   "line": 56,
+   "act": 1,
+   "sector": 1268,
+   "offset": 1921,
+   "size": 13991,
+   "b0": 0,
+   "b1": 13991,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's join the line.",
+   "rows": [
+    "Let's join the line."
+   ],
+   "rows_plain": [
+    "Let's join the line."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1023",
+   "line": 57,
+   "act": 1,
+   "sector": 1274,
+   "offset": 1968,
+   "size": 16036,
+   "b0": 0,
+   "b1": 16036,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "Next, please!",
+   "rows": [
+    "Next, please!"
+   ],
+   "rows_plain": [
+    "Next, please!"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1024",
+   "line": 58,
+   "act": 1,
+   "sector": 1281,
+   "offset": 1736,
+   "size": 6356,
+   "b0": 0,
+   "b1": 6356,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Y-yes.",
+   "rows": [
+    "Y-yes."
+   ],
+   "rows_plain": [
+    "Y-yes."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1025",
+   "line": 59,
+   "act": 1,
+   "sector": 1284,
+   "offset": 1120,
+   "size": 133556,
+   "b0": 0,
+   "b1": 50527,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "Rest your face here and look straight ahead.",
+   "rows": [
+    "Rest your face here and look",
+    "straight ahead."
+   ],
+   "rows_plain": [
+    "Rest your face here and look",
+    "straight ahead."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1025b",
+   "line": 59,
+   "act": 1,
+   "sector": 1284,
+   "offset": 1120,
+   "size": 133556,
+   "b0": 50527,
+   "b1": 133556,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "I've recorded your retinal pattern. What would you like to ask about?",
+   "rows": [
+    "I've recorded your retinal",
+    "pattern. What would you like",
+    "to ask about?"
+   ],
+   "rows_plain": [
+    "I've recorded your retinal pattern.",
+    "What would you like to ask about?"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1026",
+   "line": 60,
+   "act": 1,
+   "sector": 1341,
+   "offset": 2208,
+   "size": 25583,
+   "b0": 0,
+   "b1": 25583,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Well, how about marriage?",
+   "rows": [
+    "Well, how about marriage?"
+   ],
+   "rows_plain": [
+    "Well, how about marriage?"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1027",
+   "line": 61,
+   "act": 1,
+   "sector": 1352,
+   "offset": 2227,
+   "size": 17442,
+   "b0": 0,
+   "b1": 17442,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Marriage, Gillian?",
+   "rows": [
+    "Marriage, Gillian?"
+   ],
+   "rows_plain": [
+    "Marriage, Gillian?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1028",
+   "line": 62,
+   "act": 1,
+   "sector": 1360,
+   "offset": 1077,
+   "size": 18112,
+   "b0": 0,
+   "b1": 18112,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "It's fine! Don't worry!",
+   "rows": [
+    "It's fine! Don't worry!"
+   ],
+   "rows_plain": [
+    "It's fine! Don't worry!"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1029",
+   "line": 63,
+   "act": 1,
+   "sector": 1368,
+   "offset": 597,
+   "size": 61135,
+   "b0": 0,
+   "b1": 61135,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "Marriage. Let's have a look.",
+   "rows": [
+    "Marriage. Let's have a look."
+   ],
+   "rows_plain": [
+    "Marriage. Let's have a look."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1030",
+   "line": 64,
+   "act": 1,
+   "sector": 1394,
+   "offset": 1308,
+   "size": 44887,
+   "b0": 0,
+   "b1": 44887,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "Mmm... There it is!",
+   "rows": [
+    "Mmm... There it is!"
+   ],
+   "rows_plain": [
+    "Mmm... There it is!"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1031",
+   "line": 65,
+   "act": 1,
+   "sector": 1413,
+   "offset": 2039,
+   "size": 9618,
+   "b0": 0,
+   "b1": 9618,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Well?",
+   "rows": [
+    "Well?"
+   ],
+   "rows_plain": [
+    "Well?"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1032",
+   "line": 66,
+   "act": 1,
+   "sector": 1418,
+   "offset": 37,
+   "size": 24060,
+   "b0": 0,
+   "b1": 24060,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "Your marriage line is disturbed.",
+   "rows": [
+    "Your marriage line is",
+    "disturbed."
+   ],
+   "rows_plain": [
+    "Your marriage line is disturbed."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1033",
+   "line": 67,
+   "act": 1,
+   "sector": 1428,
+   "offset": 857,
+   "size": 19685,
+   "b0": 0,
+   "b1": 19685,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Ha ha. Disturbed?",
+   "rows": [
+    "Ha ha. Disturbed?"
+   ],
+   "rows_plain": [
+    "Ha ha. Disturbed?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0D0_1034",
+   "line": 68,
+   "act": 1,
+   "sector": 1436,
+   "offset": 1950,
+   "size": 57723,
+   "b0": 0,
+   "b1": 57723,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "Divorce, separation... Your marriage has gone wrong.",
+   "rows": [
+    "Divorce, separation... Your",
+    "marriage has gone wrong."
+   ],
+   "rows_plain": [
+    "Divorce, separation... Your marriage",
+    "has gone wrong."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1035",
+   "line": 226,
+   "act": 1,
+   "sector": 4178,
+   "offset": 867,
+   "size": 27704,
+   "b0": 0,
+   "b1": 27704,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Really? Maybe it's my imagination.",
+   "rows": [
+    "Really? Maybe it's my",
+    "imagination."
+   ],
+   "rows_plain": [
+    "Really? Maybe it's my imagination."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0D0_1036",
+   "line": 69,
+   "act": 1,
+   "sector": 1461,
+   "offset": 1573,
+   "size": 12141,
+   "b0": 0,
+   "b1": 12141,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Gulp!",
+   "rows": [
+    "Gulp!"
+   ],
+   "rows_plain": [
+    "Gulp!"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1037",
+   "line": 70,
+   "act": 1,
+   "sector": 1466,
+   "offset": 2094,
+   "size": 71818,
+   "b0": 0,
+   "b1": 71818,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "And you... Yes, you've lost your memory.",
+   "rows": [
+    "And you... Yes, you've lost",
+    "your memory."
+   ],
+   "rows_plain": [
+    "And you... Yes, you've lost your",
+    "memory."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1038",
+   "line": 71,
+   "act": 1,
+   "sector": 1497,
+   "offset": 1868,
+   "size": 9685,
+   "b0": 0,
+   "b1": 9685,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "How did you know?",
+   "rows": [
+    "How did you know?"
+   ],
+   "rows_plain": [
+    "How did you know?"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1039",
+   "line": 72,
+   "act": 1,
+   "sector": 1501,
+   "offset": 2257,
+   "size": 37626,
+   "b0": 0,
+   "b1": 37626,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "Retinal readings reveal everything.",
+   "rows": [
+    "Retinal readings reveal",
+    "everything."
+   ],
+   "rows_plain": [
+    "Retinal readings reveal everything."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1040",
+   "line": 73,
+   "act": 1,
+   "sector": 1518,
+   "offset": 375,
+   "size": 25687,
+   "b0": 0,
+   "b1": 25687,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Then how can I make things work with her?",
+   "rows": [
+    "Then how can I make things",
+    "work with her?"
+   ],
+   "rows_plain": [
+    "Then how can I make things work with",
+    "her?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0D0_1041",
+   "line": 74,
+   "act": 1,
+   "sector": 1529,
+   "offset": 498,
+   "size": 77140,
+   "b0": 0,
+   "b1": 77140,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "That's up to you. If you have no memories, make new ones.",
+   "rows": [
+    "That's up to you. If you",
+    "have no memories, make new",
+    "ones."
+   ],
+   "rows_plain": [
+    "That's up to you. If you have no",
+    "memories, make new ones."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1042",
+   "line": 75,
+   "act": 1,
+   "sector": 1562,
+   "offset": 946,
+   "size": 27174,
+   "b0": 0,
+   "b1": 27174,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Is it that simple?",
+   "rows": [
+    "Is it that simple?"
+   ],
+   "rows_plain": [
+    "Is it that simple?"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1043",
+   "line": 76,
+   "act": 1,
+   "sector": 1574,
+   "offset": 232,
+   "size": 81541,
+   "b0": 0,
+   "b1": 81541,
+   "speaker": "Teller",
+   "colour": 3,
+   "en": "You make your own future! Hmm? Next, please!",
+   "rows": [
+    "You make your own future!",
+    "Hmm? Next, please!"
+   ],
+   "rows_plain": [
+    "You make your own future! Hmm? Next,",
+    "please!"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1044",
+   "line": 77,
+   "act": 1,
+   "sector": 1609,
+   "offset": 433,
+   "size": 12655,
+   "b0": 0,
+   "b1": 12655,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Thank you.",
+   "rows": [
+    "Thank you."
+   ],
+   "rows_plain": [
+    "Thank you."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1045",
+   "line": 78,
+   "act": 1,
+   "sector": 1614,
+   "offset": 1468,
+   "size": 47050,
+   "b0": 0,
+   "b1": 47050,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Hear that, Metal? I doubted fortune-telling, but that was impressive.",
+   "rows": [
+    "Hear that, Metal? I doubted",
+    "fortune-telling, but that",
+    "was impressive."
+   ],
+   "rows_plain": [
+    "Hear that, Metal? I doubted",
+    "fortune-telling, but that was",
+    "impressive."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0D0_1046",
+   "line": 79,
+   "act": 1,
+   "sector": 1634,
+   "offset": 2038,
+   "size": 37839,
+   "b0": 0,
+   "b1": 37839,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian, did you really believe her?",
+   "rows": [
+    "Gillian, did you really",
+    "believe her?"
+   ],
+   "rows_plain": [
+    "Gillian, did you really believe her?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1047",
+   "line": 80,
+   "act": 1,
+   "sector": 1651,
+   "offset": 369,
+   "size": 24092,
+   "b0": 0,
+   "b1": 24092,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Of course. She got so much right.",
+   "rows": [
+    "Of course. She got so much",
+    "right."
+   ],
+   "rows_plain": [
+    "Of course. She got so much right."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1048",
+   "line": 81,
+   "act": 1,
+   "sector": 1661,
+   "offset": 1221,
+   "size": 42613,
+   "b0": 0,
+   "b1": 42613,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Anyone could do that. She read your retinal pattern, didn't she?",
+   "rows": [
+    "Anyone could do that. She",
+    "read your retinal pattern,",
+    "didn't she?"
+   ],
+   "rows_plain": [
+    "Anyone could do that. She read your",
+    "retinal pattern, didn't she?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1049",
+   "line": 82,
+   "act": 1,
+   "sector": 1679,
+   "offset": 2002,
+   "size": 11841,
+   "b0": 0,
+   "b1": 11841,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "So what?",
+   "rows": [
+    "So what?"
+   ],
+   "rows_plain": [
+    "So what?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0D0_1050",
+   "line": 83,
+   "act": 1,
+   "sector": 1684,
+   "offset": 2223,
+   "size": 148919,
+   "b0": 0,
+   "b1": 65965,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Everyone's retinal pattern is registered in Alphaville. Yours too, Gillian.",
+   "rows": [
+    "Everyone's retinal pattern",
+    "is registered in Alphaville.",
+    "Yours too, Gillian."
+   ],
+   "rows_plain": [
+    "Everyone's retinal pattern is",
+    "registered in Alphaville. Yours too,",
+    "Gillian."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1050b",
+   "line": 83,
+   "act": 1,
+   "sector": 1684,
+   "offset": 2223,
+   "size": 148919,
+   "b0": 65965,
+   "b1": 148919,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "She scanned your retina and used it to look up your details in the databank.",
+   "rows": [
+    "She scanned your retina and",
+    "used it to look up your",
+    "details in the databank."
+   ],
+   "rows_plain": [
+    "She scanned your retina and used it",
+    "to look up your details in the",
+    "databank."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0D0_1051",
+   "line": 84,
+   "act": 1,
+   "sector": 1749,
+   "offset": 82,
+   "size": 68722,
+   "b0": 0,
+   "b1": 68722,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "No fortune-telling. She checked your records. She's just a hacker.",
+   "rows": [
+    "No fortune-telling. She",
+    "checked your records. She's",
+    "just a hacker."
+   ],
+   "rows_plain": [
+    "No fortune-telling. She checked your",
+    "records. She's just a hacker."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0D0_1052",
+   "line": 85,
+   "act": 1,
+   "sector": 1778,
+   "offset": 1408,
+   "size": 28397,
+   "b0": 0,
+   "b1": 28397,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Then what about me? What about Jamie and me?",
+   "rows": [
+    "Then what about me? What",
+    "about Jamie and me?"
+   ],
+   "rows_plain": [
+    "Then what about me? What about Jamie",
+    "and me?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B0D0_1053",
+   "line": 86,
+   "act": 1,
+   "sector": 1790,
+   "offset": 1917,
+   "size": 47630,
+   "b0": 0,
+   "b1": 47630,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "As she said, you make your own future.",
+   "rows": [
+    "As she said, you make your",
+    "own future."
+   ],
+   "rows_plain": [
+    "As she said, you make your own",
+    "future."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B0E0_103",
+   "line": 87,
+   "act": 1,
+   "sector": 1811,
+   "offset": 743,
+   "size": 52145,
+   "b0": 0,
+   "b1": 52145,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Ugh, so where's this stand supposed to be, anyway?",
+   "rows": [
+    "Ugh, so where's this stand",
+    "supposed to be, anyway?"
+   ],
+   "rows_plain": [
+    "Ugh, so where's this stand supposed",
+    "to be, anyway?"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    4
+   ],
+   "face_src": "own"
+  }
+ ]
+}

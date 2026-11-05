@@ -1,0 +1,3733 @@
+{
+ "file": "ISZ_B010.BIN",
+ "text_base": 10561,
+ "strings": [
+  {
+   "off": 10561,
+   "budget": 5,
+   "en": ""
+  },
+  {
+   "off": 10566,
+   "budget": 71,
+   "en": "Petrovich here, your dream￥navigator! Just pick any command!",
+   "long": "Hey, it's Petrovich, your guide￥through dreamland!￥Just pick a command, any command!"
+  },
+  {
+   "off": 10637,
+   "budget": 29,
+   "en": "Don't mind me."
+  },
+  {
+   "off": 10666,
+   "budget": 47,
+   "en": "This is JUNKER HQ.￥How can I help you?"
+  },
+  {
+   "off": 10713,
+   "budget": 9,
+   "en": "Go in",
+   "long": "Go inside"
+  },
+  {
+   "off": 10722,
+   "budget": 49,
+   "en": "Only JUNKER personnel may go past￥this point.",
+   "long": "I'm afraid only JUNKER personnel are￥allowed inside the office."
+  },
+  {
+   "off": 10771,
+   "budget": 57,
+   "en": "Authorized personnel only past this￥point."
+  },
+  {
+   "off": 10828,
+   "budget": 45,
+   "en": "I can't let in anyone￥I can't identify.",
+   "long": "I can't let anyone in without proper￥identification."
+  },
+  {
+   "off": 10873,
+   "budget": 33,
+   "en": "Excuse me, but who might you be?",
+   "long": "Excuse me, may I have your name,￥sir?"
+  },
+  {
+   "off": 10906,
+   "budget": 29,
+   "en": "What's your business here?",
+   "long": "May I ask what your business here￥is, sir?"
+  },
+  {
+   "off": 10935,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 10940,
+   "budget": 7,
+   "en": "Lady",
+   "long": "Receptionist"
+  },
+  {
+   "off": 10947,
+   "budget": 27,
+   "en": "An attractive Asian woman."
+  },
+  {
+   "off": 10974,
+   "budget": 35,
+   "en": "She looks like some actress.",
+   "long": "She looks like that actress...￥what's her name?"
+  },
+  {
+   "off": 11009,
+   "budget": 63,
+   "en": "Things are looking up. JUNKER￥has beauties like this?",
+   "long": "This looks promising. Who knew￥JUNKER had beauties on the staff?"
+  },
+  {
+   "off": 11072,
+   "budget": 33,
+   "en": "A far cry from the army staff...",
+   "long": "She's nothing like the women in the￥army..."
+  },
+  {
+   "off": 11105,
+   "budget": 9,
+   "en": "Poster"
+  },
+  {
+   "off": 11114,
+   "budget": 31,
+   "en": "A JUNKER recruitment ad..."
+  },
+  {
+   "off": 11145,
+   "budget": 35,
+   "en": "Can't say it's in good taste.",
+   "long": "Not in the best taste, if you ask￥me."
+  },
+  {
+   "off": 11180,
+   "budget": 3,
+   "en": "Dr",
+   "long": "Door"
+  },
+  {
+   "off": 11183,
+   "budget": 41,
+   "en": "Looks like it leads into HQ."
+  },
+  {
+   "off": 11224,
+   "budget": 41,
+   "en": "Looks like this door is the only way in.",
+   "long": "Looks like this door is the only way￥into HQ."
+  },
+  {
+   "off": 11265,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 11272,
+   "budget": 43,
+   "en": "Govt PR...￥They must be shorthanded.",
+   "long": "A government ad. They must be￥desperate for recruits."
+  },
+  {
+   "off": 11315,
+   "budget": 51,
+   "en": "180-degree hologram...￥Budget must be tight.",
+   "long": "A 180-degree holographic print.￥Money must be tight."
+  },
+  {
+   "off": 11366,
+   "budget": 63,
+   "en": "Locked. Looks like it only opens￥from the reception pod.",
+   "long": "It's locked. Looks like it only￥opens from inside the Front Pod."
+  },
+  {
+   "off": 11429,
+   "budget": 63,
+   "en": "Guess I need this pretty lady to￥open it from the inside."
+  },
+  {
+   "off": 11492,
+   "budget": 5,
+   "en": "Talk"
+  },
+  {
+   "off": 11497,
+   "budget": 49,
+   "en": "Oh well. ...Guess I'll talk to the￥young lady."
+  },
+  {
+   "off": 11546,
+   "budget": 31,
+   "en": "And you are...?"
+  },
+  {
+   "off": 11577,
+   "budget": 27,
+   "en": "May I have your name?"
+  },
+  {
+   "off": 11604,
+   "budget": 7,
+   "en": "Camera"
+  },
+  {
+   "off": 11611,
+   "budget": 29,
+   "en": "A security camera for HQ.",
+   "long": "Looks like one of HQ's security￥cameras."
+  },
+  {
+   "off": 11640,
+   "budget": 23,
+   "en": "Maybe I should wave."
+  },
+  {
+   "off": 11663,
+   "budget": 17,
+   "en": "Front Pod"
+  },
+  {
+   "off": 11680,
+   "budget": 69,
+   "en": "A reception pod. The whole desk is￥inside a shielded capsule."
+  },
+  {
+   "off": 11749,
+   "budget": 37,
+   "en": "Built to keep the receptionist safe.",
+   "long": "It's designed to keep the￥receptionist safe."
+  },
+  {
+   "off": 11786,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 11793,
+   "budget": 57,
+   "en": "The front desk of JUNKER HQ.￥...Security is tight.",
+   "long": "This must be the JUNKER HQ reception￥desk. Security's tight."
+  },
+  {
+   "off": 11850,
+   "budget": 25,
+   "en": "Like a bank vault door.",
+   "long": "Looks like the entrance to a vault."
+  },
+  {
+   "off": 11875,
+   "budget": 33,
+   "en": "Only the receptionist is here.",
+   "long": "The receptionist seems to be the￥only one here."
+  },
+  {
+   "off": 11908,
+   "budget": 35,
+   "en": "They monitor it from inside HQ.",
+   "long": "Someone inside HQ must be watching￥the feed."
+  },
+  {
+   "off": 11943,
+   "budget": 57,
+   "en": "Heat and shock shielding.￥Anti-Snatcher, no doubt.",
+   "long": "Heatproof and shockproof shielding.￥Probably meant to stop Snatchers."
+  },
+  {
+   "off": 12000,
+   "budget": 33,
+   "en": "Not even a tank could break it.",
+   "long": "Even a tank couldn't break through￥that."
+  },
+  {
+   "off": 12033,
+   "budget": 37,
+   "en": "No luck. The shield's in the way."
+  },
+  {
+   "off": 12070,
+   "budget": 43,
+   "en": "Too bad. She's got quite a figure."
+  },
+  {
+   "off": 12113,
+   "budget": 41,
+   "en": "Are you interested in JUNKER?"
+  },
+  {
+   "off": 12154,
+   "budget": 41,
+   "en": "Are you here about joining JUNKER?"
+  },
+  {
+   "off": 12195,
+   "budget": 49,
+   "en": "All this gawking makes a￥bad first impression.",
+   "long": "If I keep looking around, I'll make￥a bad first impression."
+  },
+  {
+   "off": 12244,
+   "budget": 67,
+   "en": "I better stop looking around. It￥makes me look like I have ADHD.",
+   "long": "I must look really uptight. Maybe￥I'd better stop wandering around."
+  },
+  {
+   "off": 12311,
+   "budget": 37,
+   "en": "The Chief sees that camera feed too.",
+   "long": "The Chief's probably watching that￥camera feed too."
+  },
+  {
+   "off": 12348,
+   "budget": 49,
+   "en": "A bit much, but it's￥anti-Snatcher policy.",
+   "long": "It's a bit much, but it's there to￥stop Snatchers."
+  },
+  {
+   "off": 12397,
+   "budget": 35,
+   "en": "Snatchers attack this place?"
+  },
+  {
+   "off": 12432,
+   "budget": 101,
+   "en": "Never here, but back when we were￥part of the police, it happened￥a few times, they say...",
+   "long": "They haven't hit us here yet. But￥back when we were still part of the￥Metropolitan Police, I hear it￥happened a few times."
+  },
+  {
+   "off": 12533,
+   "budget": 81,
+   "en": "Mr. Seed, when you were pacing out￥front, I was actually terrified.",
+   "long": "Mr. Seed, you really scared me when￥you were hanging around the￥reception desk."
+  },
+  {
+   "off": 12614,
+   "budget": 51,
+   "en": "I thought you might be a Snatcher..."
+  },
+  {
+   "off": 12665,
+   "budget": 21,
+   "en": "Sorry about that."
+  },
+  {
+   "off": 12686,
+   "budget": 67,
+   "en": "This gear is no joke.￥This must be one risky outfit.",
+   "long": "This gear is no joke. I think this￥job might be pretty dangerous."
+  },
+  {
+   "off": 12753,
+   "budget": 61,
+   "en": "Well, do you like it? It's almost￥like a little office."
+  },
+  {
+   "off": 12814,
+   "budget": 5,
+   "en": "Mika"
+  },
+  {
+   "off": 12819,
+   "budget": 37,
+   "en": "Lucky me, meeting a beauty like you.",
+   "long": "I'm lucky to have a beauty like you￥around."
+  },
+  {
+   "off": 12856,
+   "budget": 45,
+   "en": "Well thanks...￥I'll take the compliment.",
+   "long": "Well, thanks...￥I'll take that at face value."
+  },
+  {
+   "off": 12901,
+   "budget": 63,
+   "en": "Have we met somewhere before? You￥look familiar."
+  },
+  {
+   "off": 12964,
+   "budget": 49,
+   "en": "Do you always hit on women like￥that?"
+  },
+  {
+   "off": 13013,
+   "budget": 25,
+   "en": "You're really beautiful."
+  },
+  {
+   "off": 13038,
+   "budget": 21,
+   "en": "Thank you."
+  },
+  {
+   "off": 13059,
+   "budget": 9,
+   "en": "Plate"
+  },
+  {
+   "off": 13068,
+   "budget": 59,
+   "en": "It's got JUNKER's official name and￥logo on it."
+  },
+  {
+   "off": 13127,
+   "budget": 41,
+   "en": "A plaque with JUNKER's name on it."
+  },
+  {
+   "off": 13168,
+   "budget": 161,
+   "en": "Let's see. ＠赤J＠白udgement ＠赤U＠白ninfected￥＠赤N＠白aked ＠赤K＠白ind & ＠赤E＠白xecute ＠赤R＠白anger?"
+  },
+  {
+   "off": 13329,
+   "budget": 81,
+   "en": "It means we judge whether someone's￥infected... and then execute them.",
+   "long": "It means a special unit that judges￥whether someone's been infected, and￥then deals with them."
+  },
+  {
+   "off": 13410,
+   "budget": 151,
+   "en": "＠赤J＠白udgement ＠赤U＠白ninfected ＠赤N＠白aked￥＠赤K＠白ind & ＠赤E＠白xecute ＠赤R＠白anger."
+  },
+  {
+   "off": 13561,
+   "budget": 21,
+   "en": "...I'll remember.",
+   "long": "I'll have to remember that."
+  },
+  {
+   "off": 13582,
+   "budget": 21,
+   "en": "I've got it now.",
+   "long": "I've already got it memorized."
+  },
+  {
+   "off": 13603,
+   "budget": 45,
+   "en": "I've been assigned to JUNKER￥as of today...",
+   "long": "I've been assigned to JUNKER,￥starting today."
+  },
+  {
+   "off": 13648,
+   "budget": 37,
+   "en": "You already told me that, Mr. Seed."
+  },
+  {
+   "off": 13685,
+   "budget": 81,
+   "en": "I've got a good memory, Mr. Seed.￥Especially for someone as charming￥as you."
+  },
+  {
+   "off": 13766,
+   "budget": 5,
+   "en": "Ask"
+  },
+  {
+   "off": 13771,
+   "budget": 17,
+   "en": "About JUNKER"
+  },
+  {
+   "off": 13788,
+   "budget": 41,
+   "en": "I'd like you to tell me about￥JUNKER."
+  },
+  {
+   "off": 13829,
+   "budget": 87,
+   "en": "JUNKER is a special police unit￥formed to destroy ＠赤bioroid￥Snatchers＠白."
+  },
+  {
+   "off": 13916,
+   "budget": 33,
+   "en": "We answer to state intelligence.",
+   "long": "We answer directly to the Government￥Intelligence Bureau."
+  },
+  {
+   "off": 13949,
+   "budget": 33,
+   "en": "Tell me more, if you would.",
+   "long": "Could you give me a few more￥details?"
+  },
+  {
+   "off": 13982,
+   "budget": 79,
+   "en": "JUNKER's duty is to identify￥Snatchers posing as citizens and￥remove them.",
+   "long": "JUNKER's mission is to identify the￥Snatchers who've taken the place of￥citizens, and dispose of them."
+  },
+  {
+   "off": 14061,
+   "budget": 47,
+   "en": "That's about it.￥Ask the Chief for the rest?",
+   "long": "That about covers it. Could you ask￥the Chief about the rest?"
+  },
+  {
+   "off": 14108,
+   "budget": 15,
+   "en": "About Neo Kobe"
+  },
+  {
+   "off": 14123,
+   "budget": 29,
+   "en": "I'm new to this city."
+  },
+  {
+   "off": 14152,
+   "budget": 45,
+   "en": "You'll adjust.￥This city turns no one away.",
+   "long": "You'll get used to it soon.￥This city never turns anyone away."
+  },
+  {
+   "off": 14197,
+   "budget": 77,
+   "en": "All races, all kinds of people.￥It's Japan, and yet it isn't.",
+   "long": "People of every race and every walk￥of life live here. It's Japan, but￥it doesn't feel like Japan."
+  },
+  {
+   "off": 14274,
+   "budget": 45,
+   "en": "Hard to believe it's￥a manmade island.",
+   "long": "Looking at it from above... you’d￥never guess it’s an artificial￥island."
+  },
+  {
+   "off": 14319,
+   "budget": 55,
+   "en": "Right.￥It nearly fills the Seto Inland Sea.",
+   "long": "It's true.￥It's so big it fills most of the￥Seto Inland Sea."
+  },
+  {
+   "off": 14374,
+   "budget": 33,
+   "en": "I'm sure you'll love this city."
+  },
+  {
+   "off": 14407,
+   "budget": 31,
+   "en": "If not for the Snatchers.",
+   "long": "If only there were no Snatchers."
+  },
+  {
+   "off": 14438,
+   "budget": 9,
+   "en": "Mika"
+  },
+  {
+   "off": 14447,
+   "budget": 27,
+   "en": "I want to know about you.",
+   "long": "Tell me a little bit about yourself."
+  },
+  {
+   "off": 14474,
+   "budget": 45,
+   "en": "About me? ...Isn't that a bit￥forward?",
+   "long": "About me? Aren't you being a little￥forward?"
+  },
+  {
+   "off": 14519,
+   "budget": 37,
+   "en": "Then I'll tell you about me,￥deal?",
+   "long": "Then if I tell you about me, will￥you let it slide?"
+  },
+  {
+   "off": 14556,
+   "budget": 49,
+   "en": "I can tell you're very smooth with￥the ladies."
+  },
+  {
+   "off": 14605,
+   "budget": 45,
+   "en": "...Some other time.￥When we have a chance.",
+   "long": "Maybe another time.￥If we get the chance to talk."
+  },
+  {
+   "off": 14650,
+   "budget": 25,
+   "en": "Aren't you persistent?",
+   "long": "Aren't you pushing it a little?"
+  },
+  {
+   "off": 14675,
+   "budget": 19,
+   "en": "...Unbelievable.",
+   "long": "You're unbelievable."
+  },
+  {
+   "off": 14694,
+   "budget": 27,
+   "en": "Where shall I take you?",
+   "long": "Where would you like to start the￥tour?"
+  },
+  {
+   "off": 14721,
+   "budget": 41,
+   "en": "Harry's in the Mechanic room. Come￥on.",
+   "long": "Harry's in the Mechanic room. Let's￥go."
+  },
+  {
+   "off": 14762,
+   "budget": 41,
+   "en": "Hurry to Harry in￥the Mechanic room.",
+   "long": "Harry's in the Mechanic room. Let's￥hurry."
+  },
+  {
+   "off": 14803,
+   "budget": 25,
+   "en": "Just Harry left to find.",
+   "long": "Now we just have to find Harry."
+  },
+  {
+   "off": 14828,
+   "budget": 31,
+   "en": "I wonder where Harry's gone."
+  },
+  {
+   "off": 14859,
+   "budget": 27,
+   "en": "Where shall we go next?",
+   "long": "Where would you like to go next?"
+  },
+  {
+   "off": 14886,
+   "budget": 7,
+   "en": "Chief",
+   "long": "Chief's room"
+  },
+  {
+   "off": 14893,
+   "budget": 13,
+   "en": "Mechanic rm",
+   "long": "Mechanic room"
+  },
+  {
+   "off": 14906,
+   "budget": 9,
+   "en": "Squad rm",
+   "long": "Squad room"
+  },
+  {
+   "off": 14915,
+   "budget": 15,
+   "en": "Computer room"
+  },
+  {
+   "off": 14930,
+   "budget": 7,
+   "en": "Range",
+   "long": "Shooting range"
+  },
+  {
+   "off": 14937,
+   "budget": 27,
+   "en": "Harry wasn't there, right?",
+   "long": "Harry wasn't there, remember?"
+  },
+  {
+   "off": 14964,
+   "budget": 33,
+   "en": "He won't be back there just yet.",
+   "long": "There's no point going back now.￥Harry won't be there."
+  },
+  {
+   "off": 14997,
+   "budget": 19,
+   "en": "Check elsewhere.",
+   "long": "Let's try somewhere else."
+  },
+  {
+   "off": 15016,
+   "budget": 37,
+   "en": "As the Chief said, he must be back.",
+   "long": "He should be back by now, just like￥the Chief said."
+  },
+  {
+   "off": 15053,
+   "budget": 55,
+   "en": "Come on. Harry's got to be back by￥now."
+  },
+  {
+   "off": 15108,
+   "budget": 37,
+   "en": "You think?￥...He's a free spirit.",
+   "long": "I wouldn't count on it.￥He does as he pleases."
+  },
+  {
+   "off": 15145,
+   "budget": 13,
+   "en": "Chief's rm.",
+   "long": "This is the Chief's office."
+  },
+  {
+   "off": 15158,
+   "budget": 49,
+   "en": "Seed, do you know what sexual￥harassment is?"
+  },
+  {
+   "off": 15207,
+   "budget": 27,
+   "en": "Er, yes, I know... why?",
+   "long": "Uh, yes, sir. Why do you ask?"
+  },
+  {
+   "off": 15234,
+   "budget": 59,
+   "en": "Interest in Mika is fine,￥but there are limits. Behave.",
+   "long": "I don't mind you taking an interest￥in Mika, but there's a limit. Keep￥yourself under control."
+  },
+  {
+   "off": 15293,
+   "budget": 25,
+   "en": "＠赤(Watching us?)＠白",
+   "long": "＠赤(Was he watching?)＠白"
+  },
+  {
+   "off": 15318,
+   "budget": 85,
+   "en": "You don't get it, Seed.￥Romance is fine, just not on HQ￥grounds.",
+   "long": "You don't seem to get it, Seed.￥Who you date is your business, but￥behave yourself inside HQ."
+  },
+  {
+   "off": 15403,
+   "budget": 43,
+   "en": "And don't waste Gaudi on￥trifles.",
+   "long": "And another thing.￥Don't waste Gaudi's time on￥nonsense."
+  },
+  {
+   "off": 15446,
+   "budget": 31,
+   "en": "＠赤(So he WAS watching.)＠白"
+  },
+  {
+   "off": 15477,
+   "budget": 33,
+   "en": "What is it? Something unclear?",
+   "long": "What is it? Something you don't￥understand?"
+  },
+  {
+   "off": 15510,
+   "budget": 29,
+   "en": "Something you want to ask?",
+   "long": "Is there something you want to ask?"
+  },
+  {
+   "off": 15539,
+   "budget": 9,
+   "en": "Go out"
+  },
+  {
+   "off": 15548,
+   "budget": 33,
+   "en": "The Chief isn't finished yet.",
+   "long": "The Chief hasn't finished talking￥yet."
+  },
+  {
+   "off": 15581,
+   "budget": 45,
+   "en": "Impatient, are we?￥He isn't finished yet.",
+   "long": "Impatient, aren't you? The Chief￥hasn't finished talking yet."
+  },
+  {
+   "off": 15626,
+   "budget": 33,
+   "en": "Why not ask him about the job?",
+   "long": "Why don't you ask the Chief to brief￥you on the mission?"
+  },
+  {
+   "off": 15659,
+   "budget": 5,
+   "en": "Boss",
+   "long": "Chief"
+  },
+  {
+   "off": 15664,
+   "budget": 37,
+   "en": "The Chief... just as I pictured.",
+   "long": "So that's the Chief. Just how I￥pictured him."
+  },
+  {
+   "off": 15701,
+   "budget": 17,
+   "en": "Say something?",
+   "long": "Did you say something?"
+  },
+  {
+   "off": 15718,
+   "budget": 29,
+   "en": "Is something on my face?",
+   "long": "Is there something on my face?"
+  },
+  {
+   "off": 15747,
+   "budget": 47,
+   "en": "What are you staring at?￥Restless fellow.",
+   "long": "What are you staring at Seed? Why￥don't you calm down."
+  },
+  {
+   "off": 15794,
+   "budget": 9,
+   "en": "Monitor"
+  },
+  {
+   "off": 15803,
+   "budget": 45,
+   "en": "Data streams in from all￥over the world.",
+   "long": "Information keeps coming in from all￥over the world."
+  },
+  {
+   "off": 15848,
+   "budget": 3,
+   "en": "Wn",
+   "long": "Window"
+  },
+  {
+   "off": 15851,
+   "budget": 79,
+   "en": "The Neo Kobe night skyline.￥Somewhere out there, the￥Snatchers...",
+   "long": "The lights of Neo Kobe City stretch￥out below. The Snatchers are out￥there somewhere."
+  },
+  {
+   "off": 15930,
+   "budget": 63,
+   "en": "Well? It's not called the 'million￥dollar view' for nothing.",
+   "long": "Well? They don't call it the￥million-dollar view for nothing.￥Beautiful, isn't it?"
+  },
+  {
+   "off": 15993,
+   "budget": 47,
+   "en": "I take it this city's won you over￥too."
+  },
+  {
+   "off": 16040,
+   "budget": 3,
+   "en": "Ar",
+   "long": "Picture"
+  },
+  {
+   "off": 16043,
+   "budget": 31,
+   "en": "A vase painting? Odd piece...",
+   "long": "A painting of a vase. What a strange￥design."
+  },
+  {
+   "off": 16074,
+   "budget": 7,
+   "en": "Sofa"
+  },
+  {
+   "off": 16081,
+   "budget": 33,
+   "en": "Looks like a comfortable sofa.",
+   "long": "Looks like a pretty comfortable￥sofa."
+  },
+  {
+   "off": 16114,
+   "budget": 41,
+   "en": "Seed, I'm not a Snatcher."
+  },
+  {
+   "off": 16155,
+   "budget": 29,
+   "en": "Paranoid! I am the Chief!",
+   "long": "Suspicious, aren't you? I'm the￥Chief."
+  },
+  {
+   "off": 16184,
+   "budget": 49,
+   "en": "Well, I suppose that's part of being￥a JUNKER."
+  },
+  {
+   "off": 16233,
+   "budget": 63,
+   "en": "Doubting people is the job,￥but isn't this going too far?",
+   "long": "Suspicion is part of the job, but￥aren't you taking it too far?"
+  },
+  {
+   "off": 16296,
+   "budget": 35,
+   "en": "All right, I get it. Now stop!"
+  },
+  {
+   "off": 16331,
+   "budget": 93,
+   "en": "A general monitor combining plasma￥display (PDD) and LCD technology.",
+   "long": "A general-purpose monitor that￥combines a plasma display (PDD) with￥a liquid crystal display (LCD)."
+  },
+  {
+   "off": 16424,
+   "budget": 61,
+   "en": "An ultra-fine panel dense enough￥to project holograms.",
+   "long": "The panel's pixels are so small and￥densely packed that it can even￥display holograms."
+  },
+  {
+   "off": 16485,
+   "budget": 35,
+   "en": "...Huh. So this is his taste.",
+   "long": "So this is the Chief's taste in art."
+  },
+  {
+   "off": 16520,
+   "budget": 41,
+   "en": "Hands off the painting!￥My treasure.",
+   "long": "Don't touch that painting! It's￥precious to me."
+  },
+  {
+   "off": 16561,
+   "budget": 61,
+   "en": "Stop! That painting is special. Keep￥your hands off it!"
+  },
+  {
+   "off": 16622,
+   "budget": 17,
+   "en": "Is it expensive?"
+  },
+  {
+   "off": 16639,
+   "budget": 31,
+   "en": "Some things money can't buy.",
+   "long": "Some things can't be bought with￥money."
+  },
+  {
+   "off": 16670,
+   "budget": 31,
+   "en": "How long have you had it?",
+   "long": "By the way, how long have you had￥that painting?"
+  },
+  {
+   "off": 16701,
+   "budget": 35,
+   "en": "This room was far too bare."
+  },
+  {
+   "off": 16736,
+   "budget": 33,
+   "en": "An art lover, Chief? Who knew.",
+   "long": "I didn't know you were into art,￥Chief."
+  },
+  {
+   "off": 16769,
+   "budget": 15,
+   "en": "...Well, yes.",
+   "long": "You could say that."
+  },
+  {
+   "off": 16784,
+   "budget": 31,
+   "en": "A sofa with air cushions."
+  },
+  {
+   "off": 16815,
+   "budget": 47,
+   "en": "A robotic sofa that uses a chaos￥system."
+  },
+  {
+   "off": 16862,
+   "budget": 25,
+   "en": "Care to hear it again?",
+   "long": "Would you like to hear that again?"
+  },
+  {
+   "off": 16887,
+   "budget": 13,
+   "en": "Ask again"
+  },
+  {
+   "off": 16900,
+   "budget": 7,
+   "en": "Others"
+  },
+  {
+   "off": 16907,
+   "budget": 15,
+   "en": "JUNKER law",
+   "long": "JUNKER authority"
+  },
+  {
+   "off": 16922,
+   "budget": 87,
+   "en": "Above all, remember rule (2)! Break￥it and you'll lose your JUNKER￥authority."
+  },
+  {
+   "off": 17009,
+   "budget": 33,
+   "en": "So there's no room for mistakes."
+  },
+  {
+   "off": 17042,
+   "budget": 67,
+   "en": "Right.￥No matter the reason...￥harming people is forbidden.",
+   "long": "That's right. You're never allowed￥to hurt a human, whatever the￥reason."
+  },
+  {
+   "off": 17109,
+   "budget": 53,
+   "en": "A lesson from the 'witch hunt'￥riots years ago.",
+   "long": "That's the lesson we learned from￥the witch hunts a few years ago."
+  },
+  {
+   "off": 17162,
+   "budget": 63,
+   "en": "JUNKER is no ordinary force.￥There can be no failures.",
+   "long": "JUNKER isn't an ordinary police￥force. We can't afford mistakes."
+  },
+  {
+   "off": 17225,
+   "budget": 19,
+   "en": "That's tough."
+  },
+  {
+   "off": 17244,
+   "budget": 17,
+   "en": "Bounty Hunters"
+  },
+  {
+   "off": 17261,
+   "budget": 43,
+   "en": "As you know, there are very few￥JUNKERs."
+  },
+  {
+   "off": 17304,
+   "budget": 71,
+   "en": "So we put bounties on Snatchers to￥get the public's help.",
+   "long": "That's why we put bounties on￥Snatchers, to get the public to￥help."
+  },
+  {
+   "off": 17375,
+   "budget": 115,
+   "en": "Yes. I hear one bounty hunter,￥＠赤Randam Hajile＠白, has already taken￥out three this year."
+  },
+  {
+   "off": 17490,
+   "budget": 11,
+   "en": "JK duties",
+   "long": "JUNKER duties"
+  },
+  {
+   "off": 17501,
+   "budget": 65,
+   "en": "Want to hear about the mission￥again? Or is it something else?",
+   "long": "Do you want to hear about your￥duties again, or did you have￥another question?"
+  },
+  {
+   "off": 17566,
+   "budget": 15,
+   "en": "JUNKER staff"
+  },
+  {
+   "off": 17581,
+   "budget": 77,
+   "en": "Want to hear about the staff￥again? Or ask about someone?",
+   "long": "Should I go over the staff again, or￥do you want to ask about someone in￥particular?"
+  },
+  {
+   "off": 17658,
+   "budget": 15,
+   "en": "About Harry"
+  },
+  {
+   "off": 17673,
+   "budget": 49,
+   "en": "Our star mechanic.￥A bit stubborn, though...",
+   "long": "He's our mechanic, and he's very￥good. A little stubborn, though."
+  },
+  {
+   "off": 17722,
+   "budget": 45,
+   "en": "Get your JUNKER equipment from￥Harry."
+  },
+  {
+   "off": 17767,
+   "budget": 37,
+   "en": "Harry doesn't seem to be around."
+  },
+  {
+   "off": 17804,
+   "budget": 69,
+   "en": "Harry was looking for you.￥He'll be in the mechanic room.",
+   "long": "Harry was looking for you earlier.￥He should be waiting in the Mechanic￥room."
+  },
+  {
+   "off": 17873,
+   "budget": 17,
+   "en": "About Gibson"
+  },
+  {
+   "off": 17890,
+   "budget": 67,
+   "en": "The ace ＠赤Runner＠白 who guarded￥this city alone till now.",
+   "long": "He's an ace ＠赤Runner＠白 who's kept this￥city safe on his own until today."
+  },
+  {
+   "off": 17957,
+   "budget": 59,
+   "en": "He's your senior ＠赤Runner＠白.￥Get along, you two.",
+   "long": "He's your senior ＠赤Runner＠白. I want you￥two to get along."
+  },
+  {
+   "off": 18016,
+   "budget": 13,
+   "en": "About Mika"
+  },
+  {
+   "off": 18029,
+   "budget": 59,
+   "en": "As you can see, smart and lovely.￥...A bit headstrong.",
+   "long": "As you can see, she's beautiful and￥intelligent. A little strong-willed,￥though."
+  },
+  {
+   "off": 18088,
+   "budget": 19,
+   "en": "Oh, Chief!"
+  },
+  {
+   "off": 18107,
+   "budget": 59,
+   "en": "Our only woman at HQ. She keeps￥everyone's spirits up.",
+   "long": "She's the only woman at HQ. She does￥so much to put everyone at ease."
+  },
+  {
+   "off": 18166,
+   "budget": 105,
+   "en": "Now now, Gillian. Interest is￥natural, but she's JUNKER staff.￥One of us. Understood?",
+   "long": "Now, Gillian. I understand you find￥her attractive, but she's a member￥of JUNKER. She's your colleague.￥Understood?"
+  },
+  {
+   "off": 18271,
+   "budget": 17,
+   "en": "Snatchers"
+  },
+  {
+   "off": 18288,
+   "budget": 17,
+   "en": "The Summit"
+  },
+  {
+   "off": 18305,
+   "budget": 79,
+   "en": "The Snatcher problem is on the￥agenda at the upcoming Kyoto Summit."
+  },
+  {
+   "off": 18384,
+   "budget": 59,
+   "en": "That's why I'll be attending as a￥special adviser."
+  },
+  {
+   "off": 18443,
+   "budget": 73,
+   "en": "Stopping the spread of Snatchers￥will be the summit's top issue.",
+   "long": "The main issue at this summit will￥probably be how to stop the spread￥of Snatchers."
+  },
+  {
+   "off": 18516,
+   "budget": 63,
+   "en": "For the Summit's sake too,￥gather all the intel you can.",
+   "long": "I want you to put everything you￥have into gathering information for￥the summit."
+  },
+  {
+   "off": 18579,
+   "budget": 17,
+   "en": "Navigators"
+  },
+  {
+   "off": 18596,
+   "budget": 73,
+   "en": "An analysis robot that supports JUNKER.￥It works as a sensor too.",
+   "long": "It's an analysis robot that supports￥JUNKERs. It can also act as a￥sensor."
+  },
+  {
+   "off": 18669,
+   "budget": 49,
+   "en": "Harry has your navigator.￥Go pick it up.",
+   "long": "Harry has a Navigator ready for you.￥Go and get it."
+  },
+  {
+   "off": 18718,
+   "budget": 13,
+   "en": "About Gaudi"
+  },
+  {
+   "off": 18731,
+   "budget": 45,
+   "en": "Nickname of the AI in the computer￥room.",
+   "long": "That's the nickname of the AI in the￥Computer room."
+  },
+  {
+   "off": 18776,
+   "budget": 43,
+   "en": "It runs all HQ systems and data.",
+   "long": "It manages all of HQ's systems and￥information."
+  },
+  {
+   "off": 18819,
+   "budget": 85,
+   "en": "It's linked to Alphaville, the city￥network. Pull any data you like.",
+   "long": "It's connected to Alphaville, the￥city's information network. You can￥look up all the information you￥want."
+  },
+  {
+   "off": 18904,
+   "budget": 51,
+   "en": "It can find anything registered in￥the city.",
+   "long": "You should be able to find anything￥registered in the city."
+  },
+  {
+   "off": 18955,
+   "budget": 43,
+   "en": "I showed you that room earlier.",
+   "long": "I already showed you the Computer￥room, remember?"
+  },
+  {
+   "off": 18998,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 19003,
+   "budget": 7,
+   "en": "Show"
+  },
+  {
+   "off": 19010,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 19025,
+   "budget": 59,
+   "en": "It proves you're a JUNKER. Take good￥care of it."
+  },
+  {
+   "off": 19084,
+   "budget": 47,
+   "en": "Keep it on you at all times, Seed.",
+   "long": "Seed, make sure you keep it on you￥at all times."
+  },
+  {
+   "off": 19131,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 19138,
+   "budget": 55,
+   "en": "Expenses for the investigation.￥Don't waste a cent.",
+   "long": "It covers your investigation￥expenses. Don't waste it."
+  },
+  {
+   "off": 19193,
+   "budget": 51,
+   "en": "Stray shots like in training￥are unforgivable.",
+   "long": "That's why you can't shoot the wrong￥target like you did in training￥earlier."
+  },
+  {
+   "off": 19244,
+   "budget": 33,
+   "en": "Exactly.￥Even in training...",
+   "long": "Exactly. That goes for training too."
+  },
+  {
+   "off": 19277,
+   "budget": 45,
+   "en": "Everyday habits can show in real combat.",
+   "long": "The habits you develop can carry￥over into real combat."
+  },
+  {
+   "off": 19322,
+   "budget": 63,
+   "en": "Seed, that card is special. Be very￥careful with it."
+  },
+  {
+   "off": 19385,
+   "budget": 45,
+   "en": "With that card you can use￥Gaudi any time.",
+   "long": "That card lets you use Gaudi￥whenever you need to."
+  },
+  {
+   "off": 19430,
+   "budget": 17,
+   "en": "That's handy."
+  },
+  {
+   "off": 19447,
+   "budget": 55,
+   "en": "Gillian, that card is special.￥Be careful with it.",
+   "long": "Gillian, that card is special. Be￥very careful with it."
+  },
+  {
+   "off": 19502,
+   "budget": 43,
+   "en": "Gillian, why do you keep looking￥around?"
+  },
+  {
+   "off": 19545,
+   "budget": 63,
+   "en": "Why do you keep looking around?￥Didn't you come to see me?"
+  },
+  {
+   "off": 19608,
+   "budget": 69,
+   "en": "...Restless fellow.￥It's all new, I know, but￥learn to focus.",
+   "long": "You can't sit still, can you? I know￥it's all new to you, but you need to￥concentrate."
+  },
+  {
+   "off": 19677,
+   "budget": 67,
+   "en": "Quit looking around and￥listen when people talk!",
+   "long": "Why do you keep looking around? Pay￥attention when I'm talking to you!"
+  },
+  {
+   "off": 19744,
+   "budget": 63,
+   "en": "Restless fellow.￥It's all new, I know, but￥learn to focus.",
+   "long": "You can't sit still, can you? I know￥it's all new to you, but you need to￥concentrate."
+  },
+  {
+   "off": 19807,
+   "budget": 69,
+   "en": "I saw you on the camera. You kept￥looking around at reception too."
+  },
+  {
+   "off": 19876,
+   "budget": 37,
+   "en": "So he was watching me after all."
+  },
+  {
+   "off": 19913,
+   "budget": 23,
+   "en": "Settle down a little.",
+   "long": "Try to settle down a little."
+  },
+  {
+   "off": 19936,
+   "budget": 79,
+   "en": "Yes. The Snatchers suddenly appeared￥here in Neo Kobe City three years￥ago."
+  },
+  {
+   "off": 20015,
+   "budget": 67,
+   "en": "Snatchers showed up in Neo Kobe￥three years ago, out of nowhere.",
+   "long": "The Snatchers suddenly appeared here￥in Neo Kobe City three years ago."
+  },
+  {
+   "off": 20082,
+   "budget": 53,
+   "en": "Nobody knows where they're from￥or what they want.",
+   "long": "We don't know where they came from￥or what they want."
+  },
+  {
+   "off": 20135,
+   "budget": 103,
+   "en": "They kill people, copy their￥appearance and secretly take their￥places. Their numbers keep growing."
+  },
+  {
+   "off": 20238,
+   "budget": 67,
+   "en": "We have no idea how many Snatchers￥are in this city right now."
+  },
+  {
+   "off": 20305,
+   "budget": 117,
+   "en": "This is no longer just our city's￥problem. It's on the agenda at the￥upcoming ＠赤Kyoto Summit＠白."
+  },
+  {
+   "off": 20422,
+   "budget": 73,
+   "en": "JUNKER began a year ago as the￥police anti-Snatcher division.",
+   "long": "JUNKER was set up a year ago as a￥special anti-Snatcher division at￥police headquarters."
+  },
+  {
+   "off": 20495,
+   "budget": 81,
+   "en": "Last August we became the special￥force JUNKER, under state intel.",
+   "long": "This August, we became a separate￥special police force, JUNKER,￥reporting directly to the￥government's intelligence￥department."
+  },
+  {
+   "off": 20576,
+   "budget": 41,
+   "en": "Still... that poster's in awful￥taste.",
+   "long": "That poster's in pretty poor taste,￥though."
+  },
+  {
+   "off": 20617,
+   "budget": 39,
+   "en": "You think so? I designed it myself."
+  },
+  {
+   "off": 20656,
+   "budget": 29,
+   "en": "Your taste is dated, Chief.",
+   "long": "Your taste is old-fashioned, Chief."
+  },
+  {
+   "off": 20685,
+   "budget": 85,
+   "en": "JUNKER holds special powers no￥normal officer has.￥They are...",
+   "long": "JUNKERs have special powers that￥ordinary police officers don't. Here￥are the rules."
+  },
+  {
+   "off": 20770,
+   "budget": 77,
+   "en": "(1) JUNKER's purpose is to eliminate￥bioroid Snatchers."
+  },
+  {
+   "off": 20847,
+   "budget": 85,
+   "en": "(2) ＠赤JUNKERs must never harm a human￥being, even to carry out (1)."
+  },
+  {
+   "off": 20932,
+   "budget": 73,
+   "en": "(3) Unless there is conclusive proof￥that a suspect is a Snatcher,"
+  },
+  {
+   "off": 21005,
+   "budget": 41,
+   "en": "no direct search or restraint.",
+   "long": "JUNKERs may not directly investigate￥or physically restrain them."
+  },
+  {
+   "off": 21046,
+   "budget": 95,
+   "en": "(4) JUNKERs must cooperate with and￥support civilian ＠赤bounty hunters＠白."
+  },
+  {
+   "off": 21141,
+   "budget": 53,
+   "en": "(5) To enforce (1), JUNKER may￥carry special gear:",
+   "long": "(5) To carry out (1), JUNKERs have￥special permission"
+  },
+  {
+   "off": 21194,
+   "budget": 101,
+   "en": "to possess a ＠赤Blaster＠白, a ＠赤Navigator＠白￥and a ＠赤Tricycle＠白."
+  },
+  {
+   "off": 21295,
+   "budget": 17,
+   "en": "The five rules.",
+   "long": "Those are the five rules."
+  },
+  {
+   "off": 21312,
+   "budget": 103,
+   "en": "Your duty is to judge whether a￥suspect is human or Snatcher, and if￥Snatcher, dispose of it...",
+   "long": "A JUNKER's job is to determine￥whether a suspect is human or a￥Snatcher, and eliminate them if￥they're a Snatcher."
+  },
+  {
+   "off": 21415,
+   "budget": 93,
+   "en": "This time, use your army experience￥to probe what the Snatchers￥really are.",
+   "long": "But I want you to use your military￥experience to find out what the￥Snatchers really are. Nobody's￥figured that out yet."
+  },
+  {
+   "off": 21508,
+   "budget": 87,
+   "en": "I want to present a plan to wipe￥them out at the approaching ＠赤Kyoto￥Summit＠白."
+  },
+  {
+   "off": 21595,
+   "budget": 73,
+   "en": "JUNKER work is special, and deadly.￥So JUNKER stays very small.",
+   "long": "JUNKER work is specialized and￥dangerous, so there are very few of￥us."
+  },
+  {
+   "off": 21668,
+   "budget": 141,
+   "en": "There's me, ＠赤Harry, our mechanic＠白,￥Mika here, and our field ＠赤Runner,￥Gibson＠白 And... counting you, that's￥five of us.",
+   "long": "There's me, the Chief, ＠赤Harry, our￥mechanic＠白, Mika here, and ＠赤Gibson,￥our Runner＠白, who handles￥investigations. You make five."
+  },
+  {
+   "off": 21809,
+   "budget": 89,
+   "en": "The Runners have the dangerous job.￥Of the five we started with,￥only Gibson is left.",
+   "long": "Being a Runner is particularly￥dangerous. We started with five, and￥Gibson's the only one left."
+  },
+  {
+   "off": 21898,
+   "budget": 63,
+   "en": "Ex-special forces like you should￥manage. Still, be careful.",
+   "long": "With your special forces background,￥I think you'll be all right. But be￥careful."
+  },
+  {
+   "off": 21961,
+   "budget": 71,
+   "en": "If you want more details, look them￥up on ＠赤Gaudi＠白."
+  },
+  {
+   "off": 22032,
+   "budget": 55,
+   "en": "Look up the rest of the data on￥＠赤Gaudi＠白...",
+   "long": "You can find the rest of the￥information on ＠赤Gaudi＠白."
+  },
+  {
+   "off": 22087,
+   "budget": 45,
+   "en": "I'll say it once more.￥Remember it well.",
+   "long": "I'll tell you again, so make sure￥you remember it this time."
+  },
+  {
+   "off": 22132,
+   "budget": 19,
+   "en": "I keep saying..."
+  },
+  {
+   "off": 22151,
+   "budget": 23,
+   "en": "I'll say it again..."
+  },
+  {
+   "off": 22174,
+   "budget": 87,
+   "en": "This is the Mechanic room. All the￥equipment for JUNKER Runners is made￥here."
+  },
+  {
+   "off": 22261,
+   "budget": 53,
+   "en": "Oh?￥＠赤Harry＠白 isn't in right now...",
+   "long": "Oh? It looks like ＠赤Harry＠白 isn't here￥right now."
+  },
+  {
+   "off": 22314,
+   "budget": 25,
+   "en": "It's the Mechanic room.",
+   "long": "This is the Mechanic room."
+  },
+  {
+   "off": 22339,
+   "budget": 45,
+   "en": "Oh? Looks like Harry still isn't￥back."
+  },
+  {
+   "off": 22384,
+   "budget": 45,
+   "en": "He's probably off drinking somewhere￥again."
+  },
+  {
+   "off": 22429,
+   "budget": 35,
+   "en": "He's still not back. That man!"
+  },
+  {
+   "off": 22464,
+   "budget": 35,
+   "en": "...Let's do the other rooms first.",
+   "long": "Let's look around the other rooms￥first."
+  },
+  {
+   "off": 22499,
+   "budget": 57,
+   "en": "Rows of tools and machinery. It's￥like a factory."
+  },
+  {
+   "off": 22556,
+   "budget": 53,
+   "en": "Harry's always like this. He's such￥a slob."
+  },
+  {
+   "off": 22609,
+   "budget": 7,
+   "en": "Harry"
+  },
+  {
+   "off": 22616,
+   "budget": 65,
+   "en": "(Looking at him now, I feel like￥we've met somewhere too.)"
+  },
+  {
+   "off": 22681,
+   "budget": 37,
+   "en": "What? Something on my face?",
+   "long": "What is it? Got something on my￥face?"
+  },
+  {
+   "off": 22718,
+   "budget": 61,
+   "en": "(I'm sure I've met him before. I￥just can't remember.)"
+  },
+  {
+   "off": 22779,
+   "budget": 31,
+   "en": "Quit glaring at me, will you?",
+   "long": "Would you stop glaring at me like￥that?"
+  },
+  {
+   "off": 22810,
+   "budget": 19,
+   "en": "Eyes bad, sonny?",
+   "long": "Something wrong with your eyes?"
+  },
+  {
+   "off": 22829,
+   "budget": 47,
+   "en": "Hard to believe that's￥Harry as a boy.",
+   "long": "I can't believe that photo on the￥wall is Harry as a kid."
+  },
+  {
+   "off": 22876,
+   "budget": 3,
+   "en": "Wl",
+   "long": "Wall"
+  },
+  {
+   "off": 22879,
+   "budget": 37,
+   "en": "Posters and photos cover the wall.",
+   "long": "There's a poster and a photo on the￥wall."
+  },
+  {
+   "off": 22916,
+   "budget": 49,
+   "en": "Diagrams, equations, photos￥everywhere...",
+   "long": "There are plans, equations,￥documents and photos pinned up."
+  },
+  {
+   "off": 22965,
+   "budget": 27,
+   "en": "A late-1900s movie star.",
+   "long": "A movie actress from the late￥twentieth century."
+  },
+  {
+   "off": 22992,
+   "budget": 73,
+   "en": "Oh! You know who she is? Good taste￥for someone so young."
+  },
+  {
+   "off": 23065,
+   "budget": 5,
+   "en": "Pic.",
+   "long": "Photo"
+  },
+  {
+   "off": 23070,
+   "budget": 17,
+   "en": "A boy's photo.",
+   "long": "A photo of a boy."
+  },
+  {
+   "off": 23087,
+   "budget": 51,
+   "en": "That's me as a boy. Before the￥Catastrophe."
+  },
+  {
+   "off": 23138,
+   "budget": 63,
+   "en": "Cute, wasn't I? I was young once￥too."
+  },
+  {
+   "off": 23201,
+   "budget": 11,
+   "en": "Metal Gear"
+  },
+  {
+   "off": 23212,
+   "budget": 31,
+   "en": "You look like a hermit crab."
+  },
+  {
+   "off": 23243,
+   "budget": 27,
+   "en": "A hermit crab? How rude!"
+  },
+  {
+   "off": 23270,
+   "budget": 57,
+   "en": "A hermit crab! Ha, that's a good￥one."
+  },
+  {
+   "off": 23327,
+   "budget": 37,
+   "en": "He does, but isn't he cute?"
+  },
+  {
+   "off": 23364,
+   "budget": 47,
+   "en": "Not much backup in￥a body like that, huh.",
+   "long": "With a body like that, he doesn't￥look like much help."
+  },
+  {
+   "off": 23411,
+   "budget": 73,
+   "en": "Gillian, he's support for data￥processing only.￥Not combat.",
+   "long": "Gillian, he's meant to help you￥process information. He's not built￥for combat."
+  },
+  {
+   "off": 23484,
+   "budget": 55,
+   "en": "Metal Gear...￥Guess we'll be roommates a while.",
+   "long": "Metal Gear. Looks like we'll be￥living together for a while."
+  },
+  {
+   "off": 23539,
+   "budget": 41,
+   "en": "Odd safety suit.￥Mind if I take a look?",
+   "long": "That's an unusual safety suit. Mind￥if I take a look?"
+  },
+  {
+   "off": 23580,
+   "budget": 31,
+   "en": "Hey! What're you doing? Stop!",
+   "long": "Hey! What are you doing? Stop that!"
+  },
+  {
+   "off": 23611,
+   "budget": 47,
+   "en": "So rude!￥Unthinkable in my generation!",
+   "long": "You've got no manners! Nobody in my￥day would have done that!"
+  },
+  {
+   "off": 23658,
+   "budget": 41,
+   "en": "Stop that!￥Kids these days, honestly.",
+   "long": "Stop that! Young people today have￥no manners."
+  },
+  {
+   "off": 23699,
+   "budget": 67,
+   "en": "Want to go, sonny?￥I can still take you young ones!",
+   "long": "You want a fight? I may look old,￥but I can still take you youngsters!"
+  },
+  {
+   "off": 23766,
+   "budget": 45,
+   "en": "Gillian, Harry hates￥that kind of joke.",
+   "long": "Gillian, Harry doesn't like that￥kind of joke."
+  },
+  {
+   "off": 23811,
+   "budget": 15,
+   "en": "I see."
+  },
+  {
+   "off": 23826,
+   "budget": 47,
+   "en": "Really old. The print is from last￥century.",
+   "long": "It's really old. That printing￥method's from the last century."
+  },
+  {
+   "off": 23873,
+   "budget": 49,
+   "en": "Don't touch it. It's getting￥fragile."
+  },
+  {
+   "off": 23922,
+   "budget": 49,
+   "en": "Looks like it was cut out of a￥larger photo."
+  },
+  {
+   "off": 23971,
+   "budget": 51,
+   "en": "The cut-off part likely￥showed his parents...",
+   "long": "His parents seem to have been in the￥part that was cut off."
+  },
+  {
+   "off": 24022,
+   "budget": 53,
+   "en": "Full bipedal walking, huh.￥Just don't slow me down.",
+   "long": "So you walk on two legs. You'd￥better not slow me down."
+  },
+  {
+   "off": 24075,
+   "budget": 67,
+   "en": "I wasn't built for running. But in￥an emergency..."
+  },
+  {
+   "off": 24142,
+   "budget": 17,
+   "en": "In an emergency?"
+  },
+  {
+   "off": 24159,
+   "budget": 25,
+   "en": "Please carry me and run.",
+   "long": "Please pick me up and run."
+  },
+  {
+   "off": 24184,
+   "budget": 33,
+   "en": "Are you serious? Just my luck."
+  },
+  {
+   "off": 24217,
+   "budget": 45,
+   "en": "Part of his body is a storage￥compartment."
+  },
+  {
+   "off": 24262,
+   "budget": 71,
+   "en": "You can keep some of your equipment￥in that compartment."
+  },
+  {
+   "off": 24333,
+   "budget": 43,
+   "en": "Precisely... a capacity of 40￥liters.",
+   "long": "My storage capacity is 40 liters, to￥be exact."
+  },
+  {
+   "off": 24376,
+   "budget": 47,
+   "en": "Small but sturdy.￥It'll manage.",
+   "long": "He's small, but he looks sturdy.￥We'll manage."
+  },
+  {
+   "off": 24423,
+   "budget": 11,
+   "en": "Nanobots",
+   "long": "Nanomachines"
+  },
+  {
+   "off": 24434,
+   "budget": 97,
+   "en": "Nano-sized robots. Inject them and￥they heal damage from the inside.",
+   "long": "They're tiny robots, nanosized.￥Inject them into your body and￥they'll treat whatever's wrong from￥inside."
+  },
+  {
+   "off": 24531,
+   "budget": 53,
+   "en": "So you inject a tiny medical team￥into me?"
+  },
+  {
+   "off": 24584,
+   "budget": 51,
+   "en": "They're coated, so there's￥no immune reaction.",
+   "long": "They're coated so your immune system￥won't attack them."
+  },
+  {
+   "off": 24635,
+   "budget": 55,
+   "en": "A Runner's job is dangerous.￥Nanomachines are a must.",
+   "long": "A Runner's job is dangerous.￥Nanomachines are essential."
+  },
+  {
+   "off": 24690,
+   "budget": 47,
+   "en": "You'll need them yourself sooner or￥later."
+  },
+  {
+   "off": 24737,
+   "budget": 33,
+   "en": "Don't jinx me!"
+  },
+  {
+   "off": 24770,
+   "budget": 55,
+   "en": "Fine machines.￥Can't raise the dead, mind you.",
+   "long": "They're excellent machines. Can't￥bring back the dead, though."
+  },
+  {
+   "off": 24825,
+   "budget": 61,
+   "en": "With nanomachines you won't￥even catch a cold.",
+   "long": "With nanomachines, you won't even￥catch a cold. You'll always be￥healthy."
+  },
+  {
+   "off": 24886,
+   "budget": 85,
+   "en": "Navigators were designed as robots￥to help JUNKERs with their￥investigations."
+  },
+  {
+   "off": 24971,
+   "budget": 85,
+   "en": "Detection, analysis, records, comms,￥field medical aid. All sorts of jobs.",
+   "long": "They can detect things, analyze￥evidence, record data, handle￥communications, even treat injured￥JUNKERs in the field."
+  },
+  {
+   "off": 25056,
+   "budget": 47,
+   "en": "Metal Gear is the latest Navigator￥model."
+  },
+  {
+   "off": 25103,
+   "budget": 43,
+   "en": "Weapons systems?￥Isn't it armed at all?",
+   "long": "What about combat? Does he have any￥weapons?"
+  },
+  {
+   "off": 25146,
+   "budget": 95,
+   "en": "No weapons. A Navigator's job is to￥provide information during￥investigations."
+  },
+  {
+   "off": 25241,
+   "budget": 111,
+   "en": "He does have a save function. ＠黄Choose￥'Use Metal Gear', then 'Save' to￥save your investigation progress."
+  },
+  {
+   "off": 25352,
+   "budget": 105,
+   "en": "You can also use the Light command￥to light things up in the dark.￥That'll come in handy."
+  },
+  {
+   "off": 25457,
+   "budget": 41,
+   "en": "Comm systems?￥Anything like a radio?",
+   "long": "What about communications? Has he￥got a radio?"
+  },
+  {
+   "off": 25498,
+   "budget": 23,
+   "en": "A built-in videophone.",
+   "long": "He's got a built-in videophone."
+  },
+  {
+   "off": 25521,
+   "budget": 15,
+   "en": "A videophone?"
+  },
+  {
+   "off": 25536,
+   "budget": 69,
+   "en": "A video telephone.￥＠黄Use Metal Gear -> Videophone＠白￥to call.",
+   "long": "A telephone with video. Choose 'Use￥Metal Gear', then 'Videophone' to￥use it."
+  },
+  {
+   "off": 25605,
+   "budget": 65,
+   "en": "You can call from anywhere, except￥where the signal's unstable.",
+   "long": "You can call from almost anywhere,￥as long as the signal is stable."
+  },
+  {
+   "off": 25670,
+   "budget": 45,
+   "en": "It heals, you said?￥Does it know medicine?",
+   "long": "You said he treats injuries too.￥Does he know medicine?"
+  },
+  {
+   "off": 25715,
+   "budget": 89,
+   "en": "He can only give first aid, but he￥always carries ＠黄nanomachines＠白."
+  },
+  {
+   "off": 25804,
+   "budget": 13,
+   "en": "Nanobots?",
+   "long": "Nanomachines?"
+  },
+  {
+   "off": 25817,
+   "budget": 81,
+   "en": "You'll find out what he can do once￥you're a proper JUNKER."
+  },
+  {
+   "off": 25898,
+   "budget": 13,
+   "en": "Navigator"
+  },
+  {
+   "off": 25911,
+   "budget": 11,
+   "en": "Blaster"
+  },
+  {
+   "off": 25922,
+   "budget": 47,
+   "en": "Get used to it first. The rest can￥wait."
+  },
+  {
+   "off": 25969,
+   "budget": 53,
+   "en": "Train on the Junker's Eye￥in the shooting range.",
+   "long": "Use the Junker Eye in the Shooting￥range to practice."
+  },
+  {
+   "off": 26022,
+   "budget": 35,
+   "en": "That booth in the range, remember?",
+   "long": "That's the booth you saw in the￥Shooting range earlier."
+  },
+  {
+   "off": 26057,
+   "budget": 37,
+   "en": "I saw your training results."
+  },
+  {
+   "off": 26094,
+   "budget": 19,
+   "en": "Not bad, sonny.",
+   "long": "You're pretty good."
+  },
+  {
+   "off": 26113,
+   "budget": 25,
+   "en": "He is. So reliable.",
+   "long": "He is. We can count on him."
+  },
+  {
+   "off": 26138,
+   "budget": 65,
+   "en": "This gun is designed to make the￥most of the shooter's ability."
+  },
+  {
+   "off": 26203,
+   "budget": 31,
+   "en": "It grows stronger￥with use.",
+   "long": "The more you use it, the more￥powerful it gets."
+  },
+  {
+   "off": 26234,
+   "budget": 87,
+   "en": "Press SELECT on the controller or￥the right mouse button to draw your￥Blaster."
+  },
+  {
+   "off": 26321,
+   "budget": 53,
+   "en": "Right, Gillian.￥You never drew it in the range.",
+   "long": "That's right, Gillian. You didn't￥draw it in the Shooting range."
+  },
+  {
+   "off": 26374,
+   "budget": 25,
+   "en": "Drilled into my head.",
+   "long": "I'll make sure I remember."
+  },
+  {
+   "off": 26399,
+   "budget": 13,
+   "en": "Snatchers"
+  },
+  {
+   "off": 26412,
+   "budget": 69,
+   "en": "As a mechanic, what can you tell me￥about how Snatchers are built?"
+  },
+  {
+   "off": 26481,
+   "budget": 59,
+   "en": "They self-destruct or vanish.￥Never a whole sample.",
+   "long": "They blow themselves up, or someone￥steals the remains. We can't get a￥complete specimen."
+  },
+  {
+   "off": 26540,
+   "budget": 59,
+   "en": "But even the parts show how￥perfectly they're built."
+  },
+  {
+   "off": 26599,
+   "budget": 63,
+   "en": "As a scientist, I can't help envying￥whoever invented them."
+  },
+  {
+   "off": 26662,
+   "budget": 55,
+   "en": "That's why I volunteered for this￥job."
+  },
+  {
+   "off": 26717,
+   "budget": 29,
+   "en": "Any weak points at all?",
+   "long": "What about weaknesses? They must￥have one."
+  },
+  {
+   "off": 26746,
+   "budget": 59,
+   "en": "They're tough to destroy.￥You stop them moving instead.",
+   "long": "They're too tough to destroy easily.￥You have to stop them moving."
+  },
+  {
+   "off": 26805,
+   "budget": 99,
+   "en": "＠赤A slit in the forehead＠白. Hit it￥with the Blaster and you destroy￥their control brain.",
+   "long": "There's a ＠赤slit in the forehead that￥opens and closes＠白. Hit it with your￥Blaster and you can destroy their￥control brain."
+  },
+  {
+   "off": 26904,
+   "budget": 27,
+   "en": "So you need good aim.",
+   "long": "That's why you need to be a good￥shot."
+  },
+  {
+   "off": 26931,
+   "budget": 87,
+   "en": "It galls me, but our science can't￥build a robot to match those monsters.",
+   "long": "I hate to admit it, but our￥technology can't build a robot that￥can stand up to those monsters."
+  },
+  {
+   "off": 27018,
+   "budget": 91,
+   "en": "Their processing speed is beyond us.￥Only a trained human's instinct￥can compete.",
+   "long": "They process information far faster￥than anything we have. Only a￥trained human's instincts can keep￥up."
+  },
+  {
+   "off": 27109,
+   "budget": 57,
+   "en": "We have no idea who makes them,￥where, or why."
+  },
+  {
+   "off": 27166,
+   "budget": 93,
+   "en": "Three Runners were killed trying to￥find out. One's a vegetable now...",
+   "long": "Three Runners have already been￥killed trying to find out, and￥another was left in a vegetative￥state."
+  },
+  {
+   "off": 27259,
+   "budget": 69,
+   "en": "Only the forehead. Anywhere else,￥they won't even flinch.",
+   "long": "The forehead is their only weak￥spot. Shoot anywhere else and they￥won't even flinch."
+  },
+  {
+   "off": 27328,
+   "budget": 9,
+   "en": "Wall pic",
+   "long": "Wall photo"
+  },
+  {
+   "off": 27337,
+   "budget": 37,
+   "en": "Why is that photo torn?"
+  },
+  {
+   "off": 27374,
+   "budget": 67,
+   "en": "Don't know myself.￥...My parents were in it, they say.",
+   "long": "I don't know. My parents were in it￥too, apparently, before they died."
+  },
+  {
+   "off": 27441,
+   "budget": 35,
+   "en": "They died in the Catastrophe?",
+   "long": "I heard they died in the￥Catastrophe."
+  },
+  {
+   "off": 27476,
+   "budget": 75,
+   "en": "Fifty years already. Time flies.￥Nobody even talks about it anymore."
+  },
+  {
+   "off": 27551,
+   "budget": 67,
+   "en": "In that chaos, I was lucky this￥much survived at all.",
+   "long": "With all the chaos of the￥Catastrophe, I was lucky to keep￥even this much of a photo."
+  },
+  {
+   "off": 27618,
+   "budget": 23,
+   "en": "Your parents too?",
+   "long": "Did your parents die in the￥Catastrophe?"
+  },
+  {
+   "off": 27641,
+   "budget": 55,
+   "en": "Yes. Pretty common for people my￥age."
+  },
+  {
+   "off": 27696,
+   "budget": 55,
+   "en": "I barely remember them.￥Can't recall their faces.",
+   "long": "I barely remember my parents. I￥can't even picture their faces￥clearly."
+  },
+  {
+   "off": 27751,
+   "budget": 59,
+   "en": "No memories. In a way, we're in the￥same boat."
+  },
+  {
+   "off": 27810,
+   "budget": 45,
+   "en": "At my age it doesn't￥sting much, mind.",
+   "long": "At my age, I don't get lonely about￥it anymore."
+  },
+  {
+   "off": 27855,
+   "budget": 55,
+   "en": "Come to think of it, maybe only￥in this photo...",
+   "long": "Come to think of it, the days when￥this photo was taken might have been"
+  },
+  {
+   "off": 27910,
+   "budget": 57,
+   "en": "the only truly happy, peaceful time￥in my life."
+  },
+  {
+   "off": 27967,
+   "budget": 53,
+   "en": "So you've got it already. Your￥JUNKER ID?"
+  },
+  {
+   "off": 28020,
+   "budget": 37,
+   "en": "That makes you a proper JUNKER."
+  },
+  {
+   "off": 28057,
+   "budget": 43,
+   "en": "Expense money, eh?￥Keep it stowed safe.",
+   "long": "That's your expense money, isn't it?￥Put it somewhere safe."
+  },
+  {
+   "off": 28100,
+   "budget": 25,
+   "en": "The photo from the wall.",
+   "long": "It's the photo that was on the wall."
+  },
+  {
+   "off": 28125,
+   "budget": 49,
+   "en": "The squad room for JUNKER￥field Runners.",
+   "long": "This is the Squad room for JUNKER￥investigators, the Runners."
+  },
+  {
+   "off": 28174,
+   "budget": 17,
+   "en": "Bleak in here.",
+   "long": "It's pretty bare."
+  },
+  {
+   "off": 28191,
+   "budget": 47,
+   "en": "Yes. There used to be so many desks."
+  },
+  {
+   "off": 28238,
+   "budget": 61,
+   "en": "The files said there were￥five Runners at the peak.",
+   "long": "I read in the files that you had as￥many as five Runners at one point."
+  },
+  {
+   "off": 28299,
+   "budget": 65,
+   "en": "Now there's only one. No, two,￥counting you."
+  },
+  {
+   "off": 28364,
+   "budget": 55,
+   "en": "Gillian, you'll be using the desk at￥the back."
+  },
+  {
+   "off": 28419,
+   "budget": 13,
+   "en": "Near desk?",
+   "long": "What about the desk in front?"
+  },
+  {
+   "off": 28432,
+   "budget": 59,
+   "en": "That's Jean's desk. ＠赤Jean Jack￥Gibson＠白."
+  },
+  {
+   "off": 28491,
+   "budget": 37,
+   "en": "Jean has a daughter, she's 14.",
+   "long": "Jean has a fourteen-year-old￥daughter."
+  },
+  {
+   "off": 28528,
+   "budget": 11,
+   "en": "A kid...",
+   "long": "A daughter..."
+  },
+  {
+   "off": 28539,
+   "budget": 31,
+   "en": "＠赤Catherine＠白's her name.",
+   "long": "Her name's ＠赤Catherine＠白."
+  },
+  {
+   "off": 28570,
+   "budget": 27,
+   "en": "So this desk is Gibson's?",
+   "long": "So the desk in front is Gibson's?"
+  },
+  {
+   "off": 28597,
+   "budget": 9,
+   "en": "Yes.",
+   "long": "That's right."
+  },
+  {
+   "off": 28606,
+   "budget": 33,
+   "en": "The squad room.￥What now?",
+   "long": "This is the Squad room. What would￥you like to do?"
+  },
+  {
+   "off": 28639,
+   "budget": 9,
+   "en": "Go out"
+  },
+  {
+   "off": 28648,
+   "budget": 45,
+   "en": "All kinds of information come in￥here too."
+  },
+  {
+   "off": 28693,
+   "budget": 63,
+   "en": "Gaudi outputs everything￥a Runner is cleared to read.",
+   "long": "Gaudi sends information here that￥the Runners are cleared to read."
+  },
+  {
+   "off": 28756,
+   "budget": 9,
+   "en": "Gibson's",
+   "long": "Gibson's desk"
+  },
+  {
+   "off": 28765,
+   "budget": 23,
+   "en": "An antique desk."
+  },
+  {
+   "off": 28788,
+   "budget": 21,
+   "en": "That's Jean's taste.",
+   "long": "Jean likes that sort of thing."
+  },
+  {
+   "off": 28809,
+   "budget": 41,
+   "en": "Gibson's desk...￥what's he like?",
+   "long": "Gibson's desk. I wonder what he's￥like."
+  },
+  {
+   "off": 28850,
+   "budget": 7,
+   "en": "Mine",
+   "long": "Gillian's desk"
+  },
+  {
+   "off": 28857,
+   "budget": 61,
+   "en": "A fine desk, though I doubt I'll￥work at it much.",
+   "long": "Looks like a comfortable desk, but I￥probably won't do much work here."
+  },
+  {
+   "off": 28918,
+   "budget": 33,
+   "en": "Not your usual squad room.",
+   "long": "Doesn't feel like a normal squad￥room."
+  },
+  {
+   "off": 28951,
+   "budget": 49,
+   "en": "Four of the five who used this￥room are gone...",
+   "long": "Four of the five people who used￥this room were taken out."
+  },
+  {
+   "off": 29000,
+   "budget": 55,
+   "en": "This is JUNKER HQ's Computer room."
+  },
+  {
+   "off": 29055,
+   "budget": 81,
+   "en": "Networked to every database in the￥country. Pull whatever you need.",
+   "long": "It's connected to databases all over￥the country, so you can look up any￥information you need."
+  },
+  {
+   "off": 29136,
+   "budget": 45,
+   "en": "The computer room.￥What now?",
+   "long": "This is the Computer room. What￥would you like to do?"
+  },
+  {
+   "off": 29181,
+   "budget": 13,
+   "en": "Computer"
+  },
+  {
+   "off": 29194,
+   "budget": 43,
+   "en": "Input looks like a classic keyboard.",
+   "long": "Looks like it uses an old-fashioned￥keyboard."
+  },
+  {
+   "off": 29237,
+   "budget": 79,
+   "en": "Smaller than I expected.￥The famous mother computer...￥an RM-1013.",
+   "long": "Smaller than I expected. So this is￥the main computer I've heard about,￥the RM-1013."
+  },
+  {
+   "off": 29316,
+   "budget": 61,
+   "en": "All the terminals connect to the￥main computer."
+  },
+  {
+   "off": 29377,
+   "budget": 43,
+   "en": "It's like a shuttle cockpit."
+  },
+  {
+   "off": 29420,
+   "budget": 5,
+   "en": "Spec",
+   "long": "Functions"
+  },
+  {
+   "off": 29425,
+   "budget": 87,
+   "en": "The main computer is an RM-1013,￥nicknamed ＠赤Gaudi＠白."
+  },
+  {
+   "off": 29512,
+   "budget": 35,
+   "en": "It uses artificial intelligence."
+  },
+  {
+   "off": 29547,
+   "budget": 93,
+   "en": "Gaudi handles auto-programming,￥smart interfaces, translation,￥problem solving...",
+   "long": "Gaudi handles human intellectual￥tasks through automatic programming,￥intelligent interfaces, machine￥translation, problem solving,"
+  },
+  {
+   "off": 29640,
+   "budget": 93,
+   "en": "expert systems and intelligent￥robotics. It's the most advanced AI￥system available."
+  },
+  {
+   "off": 29733,
+   "budget": 89,
+   "en": "Gaudi uses biopolymers and￥protein-designed elements...",
+   "long": "Gaudi uses biochips made from￥biopolymers and functional polymers￥created through protein design."
+  },
+  {
+   "off": 29822,
+   "budget": 57,
+   "en": "That makes it a biocomputer too."
+  },
+  {
+   "off": 29879,
+   "budget": 67,
+   "en": "That's about all I know. The rest is￥too technical for me."
+  },
+  {
+   "off": 29946,
+   "budget": 7,
+   "en": "Usage",
+   "long": "How to use"
+  },
+  {
+   "off": 29953,
+   "budget": 109,
+   "en": "First, insert your ＠赤JUNKER card＠白 to￥verify your identity. Then follow￥Gaudi's instructions."
+  },
+  {
+   "off": 30062,
+   "budget": 37,
+   "en": "...Just follow Gaudi. Easy.",
+   "long": "It's easy. Just follow Gaudi's￥instructions."
+  },
+  {
+   "off": 30099,
+   "budget": 13,
+   "en": "Use Gaudi"
+  },
+  {
+   "off": 30112,
+   "budget": 37,
+   "en": "Go ahead, take a seat here."
+  },
+  {
+   "off": 30149,
+   "budget": 41,
+   "en": "Register once,￥and it's simple after.",
+   "long": "Once you're registered, the rest is￥easy."
+  },
+  {
+   "off": 30190,
+   "budget": 71,
+   "en": "This is the shooting range. JUNKERs￥train here to sharpen their aim.",
+   "long": "This is the Shooting range. JUNKERs￥practice here to improve their aim."
+  },
+  {
+   "off": 30261,
+   "budget": 13,
+   "en": "The range.",
+   "long": "This is the Shooting range."
+  },
+  {
+   "off": 30274,
+   "budget": 53,
+   "en": "Human-shaped targets line the￥shooting booth."
+  },
+  {
+   "off": 30327,
+   "budget": 59,
+   "en": "Less a firing range...￥more like an arcade, no?",
+   "long": "It's more like an arcade than a￥shooting range, isn't it?"
+  },
+  {
+   "off": 30386,
+   "budget": 11,
+   "en": "Training",
+   "long": "How to train"
+  },
+  {
+   "off": 30397,
+   "budget": 15,
+   "en": "How to train?",
+   "long": "How do I practice?"
+  },
+  {
+   "off": 30412,
+   "budget": 77,
+   "en": "＠黄Press ＠赤○＠黄 on the controller or the￥left mouse button to fire."
+  },
+  {
+   "off": 30489,
+   "budget": 101,
+   "en": "The gauge below shows your￥＠赤kill rate＠白 on Snatchers and￥＠赤hit rate＠白 per shot fired,",
+   "long": "The gauges below show your ＠赤kill￥rate＠白, the percentage of Snatchers￥destroyed, your ＠赤hit rate＠白, the￥percentage of shots that hit,"
+  },
+  {
+   "off": 30590,
+   "budget": 39,
+   "en": "plus civilians hit, ＠赤misfires＠白.",
+   "long": "and the number of ＠赤civilians hit＠白."
+  },
+  {
+   "off": 30629,
+   "budget": 115,
+   "en": "＠黄Controller: SELECT to draw, ＠赤○＠黄 to￥fire. Mouse: right button draws,￥left fires.",
+   "long": "＠黄On the controller, press SELECT to￥draw and ＠赤○＠黄 to fire. With a mouse,￥use the right button to draw and the￥left to fire."
+  },
+  {
+   "off": 30744,
+   "budget": 59,
+   "en": "Press SELECT or right mouse￥again to holster.",
+   "long": "Press SELECT or the right mouse￥button again to put it away."
+  },
+  {
+   "off": 30803,
+   "budget": 65,
+   "en": "Just follow the range system,￥＠赤Junker's Eye＠白.",
+   "long": "Just follow the ＠赤Junker Eye＠白 shooting￥system's instructions."
+  },
+  {
+   "off": 30868,
+   "budget": 41,
+   "en": "Why don't you try it for yourself?"
+  },
+  {
+   "off": 30909,
+   "budget": 9,
+   "en": "Train"
+  },
+  {
+   "off": 30918,
+   "budget": 91,
+   "en": "You'll be out in the field soon, so￥you'd better get some practice."
+  },
+  {
+   "off": 31009,
+   "budget": 15,
+   "en": "And a Blaster?",
+   "long": "What about a Blaster?"
+  },
+  {
+   "off": 31024,
+   "budget": 41,
+   "en": "Use the training one￥in this booth.",
+   "long": "Let's use the training gun in this￥booth."
+  },
+  {
+   "off": 31065,
+   "budget": 59,
+   "en": "When you're done, we'll get yours￥from Harry.",
+   "long": "When you're done, we'll go see Harry￥and get your Blaster."
+  },
+  {
+   "off": 31124,
+   "budget": 31,
+   "en": "Now, let's begin the drill.",
+   "long": "Let's start your shooting practice."
+  },
+  {
+   "off": 31155,
+   "budget": 117,
+   "en": "＠黄Controller: SELECT to draw, ＠赤○＠黄 to￥fire. Mouse: right button draws,￥left fires.",
+   "long": "＠黄On the controller, press SELECT to￥draw and ＠赤○＠黄 to fire. With a mouse,￥use the right button to draw and the￥left to fire."
+  },
+  {
+   "off": 31272,
+   "budget": 85,
+   "en": "It also counts ＠赤misfires＠白 on￥civilians.￥Watch that above all.",
+   "long": "It also shows the number of￥＠赤civilians hit＠白. Whatever you do,￥don't shoot civilians."
+  },
+  {
+   "off": 31357,
+   "budget": 49,
+   "en": "Running ＠赤intro level＠白￥training.",
+   "long": "Starting the training program's￥＠赤introductory level＠白."
+  },
+  {
+   "off": 31406,
+   "budget": 15,
+   "en": "Good luck!"
+  },
+  {
+   "off": 31421,
+   "budget": 47,
+   "en": "Yes! Perfect! Nice shooting,￥Gillian!"
+  },
+  {
+   "off": 31468,
+   "budget": 45,
+   "en": "A perfect run, first try!￥Impressive.",
+   "long": "A perfect score on your first try.￥I'm impressed."
+  },
+  {
+   "off": 31513,
+   "budget": 33,
+   "en": "Army training pays off, Mika.",
+   "long": "That's military training for you,￥Mika."
+  },
+  {
+   "off": 31546,
+   "budget": 43,
+   "en": "Perfect again!!￥Wonderful, Gillian!!",
+   "long": "Another perfect score! Wonderful,￥Gillian!"
+  },
+  {
+   "off": 31589,
+   "budget": 31,
+   "en": "＠赤Ha! Am I a genius or what?"
+  },
+  {
+   "off": 31620,
+   "budget": 45,
+   "en": "You did it again! Amazing, Gillian!"
+  },
+  {
+   "off": 31665,
+   "budget": 45,
+   "en": "Superb, zero waste!￥Jean'd be surprised.",
+   "long": "Amazing! Not a single wasted shot.￥Even Jean would be impressed."
+  },
+  {
+   "off": 31710,
+   "budget": 47,
+   "en": "Keep it up.￥Cut the waste and it's perfect!",
+   "long": "Keep it up. Cut down on the wasted￥shots and you'll be perfect!"
+  },
+  {
+   "off": 31757,
+   "budget": 57,
+   "en": "A few too many strays.￥Tighten up and you're set.",
+   "long": "If I'm being picky, you wasted too￥many shots. Cut those down and I'll￥feel better."
+  },
+  {
+   "off": 31814,
+   "budget": 55,
+   "en": "A perfect score is good, but you hit￥civilians too."
+  },
+  {
+   "off": 31869,
+   "budget": 71,
+   "en": "Your aim is good, but shooting￥civilians is never acceptable."
+  },
+  {
+   "off": 31940,
+   "budget": 35,
+   "en": "You need a cooler head...",
+   "long": "You need to stay calm and use your￥judgment."
+  },
+  {
+   "off": 31975,
+   "budget": 51,
+   "en": "Few strays, but...￥never hurt civilians.",
+   "long": "You didn't waste many shots, but you￥can't hurt civilians."
+  },
+  {
+   "off": 32026,
+   "budget": 43,
+   "en": "You have to learn to keep a cool head.",
+   "long": "You need to learn to stay calm and￥make good decisions."
+  },
+  {
+   "off": 32069,
+   "budget": 45,
+   "en": "Lots of strays too.￥A waste of energy.",
+   "long": "You missed a lot of shots too.￥That's wasted energy."
+  },
+  {
+   "off": 32114,
+   "budget": 55,
+   "en": "You need better aim and calmer￥judgment."
+  },
+  {
+   "off": 32169,
+   "budget": 53,
+   "en": "Perfect, but you killed all￥the civilians too.",
+   "long": "You got a perfect score, but you￥killed every civilian too."
+  },
+  {
+   "off": 32222,
+   "budget": 29,
+   "en": "Only shoot the Snatchers."
+  },
+  {
+   "off": 32251,
+   "budget": 81,
+   "en": "Control is fine. Now learn to tell￥civilian from Snatcher, calmly.",
+   "long": "Your aim looks good. Now stay calm￥and make sure you can tell civilians￥from Snatchers."
+  },
+  {
+   "off": 32332,
+   "budget": 77,
+   "en": "Control isn't bad. Now learn to tell￥civilian from Snatcher, calmly.",
+   "long": "Your aim isn't bad. Now stay calm￥and make sure you can tell civilians￥from Snatchers."
+  },
+  {
+   "off": 32409,
+   "budget": 29,
+   "en": "And so many stray shots...",
+   "long": "You missed a lot of shots too."
+  },
+  {
+   "off": 32438,
+   "budget": 49,
+   "en": "Cut the strays and watch￥your targets closely.",
+   "long": "You need to waste fewer shots and be￥more careful about your targets."
+  },
+  {
+   "off": 32487,
+   "budget": 43,
+   "en": "Not bad.￥No civilians hit, either.",
+   "long": "Not bad. You didn't hit any￥civilians, either."
+  },
+  {
+   "off": 32530,
+   "budget": 47,
+   "en": "No waste. Train more and￥you'll be excellent.",
+   "long": "You didn't waste a single shot. Keep￥practicing and you'll get better."
+  },
+  {
+   "off": 32577,
+   "budget": 67,
+   "en": "Few strays, but don't settle.￥Your judgment passes, though.",
+   "long": "You didn't waste many shots, but￥don't settle for this. You're￥choosing your targets well, though."
+  },
+  {
+   "off": 32644,
+   "budget": 69,
+   "en": "I'm worried about all those wasted￥shots. Try to cut them down."
+  },
+  {
+   "off": 32713,
+   "budget": 53,
+   "en": "Quite good.￥But you can't hurt civilians.",
+   "long": "You're doing pretty well, but you￥can't hurt civilians."
+  },
+  {
+   "off": 32766,
+   "budget": 57,
+   "en": "Your aim is good. You just need to￥concentrate."
+  },
+  {
+   "off": 32823,
+   "budget": 69,
+   "en": "Control isn't bad...￥train your judgment and you'll￥improve fast.",
+   "long": "Your aim isn't bad. Work on your￥judgment and you should improve￥quickly."
+  },
+  {
+   "off": 32892,
+   "budget": 63,
+   "en": "Strays stand out...￥a bit more focus should fix it.",
+   "long": "You missed quite a few shots. A￥little more concentration might￥help."
+  },
+  {
+   "off": 32955,
+   "budget": 51,
+   "en": "Not bad, but you killed every￥civilian too."
+  },
+  {
+   "off": 33006,
+   "budget": 65,
+   "en": "No waste, but you seem to shoot￥at anything that moves.",
+   "long": "You didn't waste any shots, but you￥seem to be shooting everything in￥sight."
+  },
+  {
+   "off": 33071,
+   "budget": 31,
+   "en": "Calm down a little.",
+   "long": "You need to stay a little calmer."
+  },
+  {
+   "off": 33102,
+   "budget": 53,
+   "en": "Few wasted shots, so your control￥looks good.",
+   "long": "You didn't waste many shots, so your￥aim looks good."
+  },
+  {
+   "off": 33155,
+   "budget": 51,
+   "en": "Watch your targets.￥A misjudgment can be fatal.",
+   "long": "Be sure of your target. A mistake￥can cost you your life."
+  },
+  {
+   "off": 33206,
+   "budget": 57,
+   "en": "Good dynamic eyesight, too.￥No civilians hit.",
+   "long": "You're good at tracking moving￥targets. You didn't hit any￥civilians."
+  },
+  {
+   "off": 33263,
+   "budget": 55,
+   "en": "No waste, good.￥But that kill count...",
+   "long": "You didn't waste any shots, either.￥But you still aren't destroying￥enough Snatchers."
+  },
+  {
+   "off": 33318,
+   "budget": 73,
+   "en": "Too much waste, too few kills.￥You need more practice.",
+   "long": "You wasted a lot of shots and￥destroyed far too few Snatchers. You￥still need plenty of practice."
+  },
+  {
+   "off": 33391,
+   "budget": 77,
+   "en": "More training needed.￥Low kills, and misfires on￥civilians are forbidden.",
+   "long": "You need more training. You didn't￥destroy many Snatchers, and hitting￥civilians is unacceptable."
+  },
+  {
+   "off": 33468,
+   "budget": 51,
+   "en": "No waste, but you still need￥much more practice.",
+   "long": "You didn't waste any shots, but you￥need a lot more practice."
+  },
+  {
+   "off": 33519,
+   "budget": 59,
+   "en": "Wasting shots too.￥You won't live long like that.",
+   "long": "You wasted a lot of shots too. You￥won't last long like this."
+  },
+  {
+   "off": 33578,
+   "budget": 53,
+   "en": "I'd let it slide, but shooting￥civilians... no.",
+   "long": "I'd like to go easy on you, but I￥can't overlook you shooting￥civilians."
+  },
+  {
+   "off": 33631,
+   "budget": 61,
+   "en": "No waste, but not impressive.￥Too many civilians hit.",
+   "long": "No wasted shots, but I'm not￥impressed. You hit far too many￥civilians."
+  },
+  {
+   "off": 33692,
+   "budget": 71,
+   "en": "You wasted a lot of shots too.￥Remember, only Snatchers are￥targets."
+  },
+  {
+   "off": 33763,
+   "budget": 41,
+   "en": "You didn't pull the trigger once!"
+  },
+  {
+   "off": 33804,
+   "budget": 35,
+   "en": "Get it together, Mr. JUNKER."
+  },
+  {
+   "off": 33839,
+   "budget": 41,
+   "en": "Ugh!￥...'No misfires' is all I can say.",
+   "long": "Oh, brother. Not hitting civilians￥is the only thing you got right."
+  },
+  {
+   "off": 33880,
+   "budget": 27,
+   "en": "Are you even trying?"
+  },
+  {
+   "off": 33907,
+   "budget": 41,
+   "en": "Slack off now and you'll pay later.",
+   "long": "If you don't take training￥seriously, you'll be in real￥trouble."
+  },
+  {
+   "off": 33948,
+   "budget": 61,
+   "en": "So much waste.￥And I heard you were a pro shot.",
+   "long": "You're wasting far too many shots. I￥heard you were an expert marksman."
+  },
+  {
+   "off": 34009,
+   "budget": 53,
+   "en": "Don't spray. Aim carefully,￥then pull the trigger.",
+   "long": "Don't fire at random. Aim carefully￥before you pull the trigger."
+  },
+  {
+   "off": 34062,
+   "budget": 27,
+   "en": "You can't shoot civilians!",
+   "long": "You're not supposed to shoot￥civilians!"
+  },
+  {
+   "off": 34089,
+   "budget": 59,
+   "en": "Your aim doesn't seem bad. Work on￥your judgment first."
+  },
+  {
+   "off": 34148,
+   "budget": 57,
+   "en": "You need more training.￥Look hard... aim well.",
+   "long": "You need more practice. Watch￥carefully and aim carefully."
+  },
+  {
+   "off": 34205,
+   "budget": 51,
+   "en": "You wasted a lot of shots too. Calm￥down."
+  },
+  {
+   "off": 34256,
+   "budget": 41,
+   "en": "Wasteful, and the target￥is Snatchers.",
+   "long": "You're wasting a lot of shots.￥You're supposed to be shooting￥Snatchers."
+  },
+  {
+   "off": 34297,
+   "budget": 79,
+   "en": "Are you joking?￥You aimed ONLY at civilians?￥Funny picture or not...",
+   "long": "Are you kidding me? You aimed only￥at civilians on purpose! I don't￥care how funny the pictures are."
+  },
+  {
+   "off": 34376,
+   "budget": 53,
+   "en": "Again? Stop fooling around!￥Train seriously!!",
+   "long": "Again? Stop fooling around! Take￥your training seriously!"
+  },
+  {
+   "off": 34429,
+   "budget": 27,
+   "en": "...So that's how you are.",
+   "long": "So that's the kind of person you￥are."
+  },
+  {
+   "off": 34456,
+   "budget": 49,
+   "en": "Stop aiming at civilians!￥Take this seriously!",
+   "long": "You're not supposed to aim at￥civilians! Take this seriously!"
+  },
+  {
+   "off": 34505,
+   "budget": 43,
+   "en": "What is with you?￥Shooting civilians?",
+   "long": "What are you thinking? Why are you￥shooting civilians?"
+  },
+  {
+   "off": 34548,
+   "budget": 123,
+   "en": "＠黄Blaster: draw with SELECT (pad) or￥right button (mouse), then fire￥with ＠赤○＠黄 / left button.＠白",
+   "long": "＠黄Draw your Blaster with SELECT on the￥controller or the right mouse￥button. Then fire with ＠赤○＠黄 or the￥left mouse button.＠白"
+  },
+  {
+   "off": 34671,
+   "budget": 87,
+   "en": "＠黄Gillian! Press SELECT on the￥controller or the right mouse￥button!＠白"
+  },
+  {
+   "off": 34758,
+   "budget": 75,
+   "en": "＠黄Listen. Press SELECT on the￥controller or the right mouse￥button."
+  },
+  {
+   "off": 34833,
+   "budget": 41,
+   "en": "It was your first try...￥don't worry.",
+   "long": "It's your first try, though. Don't￥worry about it."
+  },
+  {
+   "off": 34874,
+   "budget": 35,
+   "en": "You'll learn fast...￥real talent.",
+   "long": "You'll get used to it soon. You've￥got talent."
+  },
+  {
+   "off": 34909,
+   "budget": 37,
+   "en": "Your first time.￥It happens.",
+   "long": "It's your first time, though. That's￥to be expected."
+  },
+  {
+   "off": 34946,
+   "budget": 27,
+   "en": "It'll come with practice.",
+   "long": "Keep practicing and you'll get used￥to it soon."
+  },
+  {
+   "off": 34973,
+   "budget": 59,
+   "en": "Not bad for a first run.￥Better with practice.",
+   "long": "It's not bad for your first try.￥You'll improve as you get used to￥it."
+  },
+  {
+   "off": 35032,
+   "budget": 31,
+   "en": "You've trained plenty now.",
+   "long": "You've had quite a bit of practice￥now."
+  },
+  {
+   "off": 35063,
+   "budget": 49,
+   "en": "There's still more to see. Shall we￥move on?"
+  },
+  {
+   "off": 35112,
+   "budget": 43,
+   "en": "So keen, though.￥On your first day!",
+   "long": "You're really working hard. I'm￥impressed, and it's only your first￥day."
+  },
+  {
+   "off": 35155,
+   "budget": 47,
+   "en": "There's more to see.￥Shall we head out?",
+   "long": "There are other places to see. Shall￥we move on?"
+  },
+  {
+   "off": 35202,
+   "budget": 39,
+   "en": "So diligent!￥I should learn from you.",
+   "long": "You're really dedicated. I could￥learn from you."
+  },
+  {
+   "off": 35241,
+   "budget": 51,
+   "en": "There's more to show you.￥Shall we head out?",
+   "long": "I've still got other places to show￥you. Shall we move on?"
+  },
+  {
+   "off": 35292,
+   "budget": 9,
+   "en": "Mika",
+   "long": "Mika's face"
+  },
+  {
+   "off": 35301,
+   "budget": 21,
+   "en": "Truly beautiful..."
+  },
+  {
+   "off": 35322,
+   "budget": 55,
+   "en": "Thank you, Gillian. I'll take that￥as a compliment."
+  },
+  {
+   "off": 35377,
+   "budget": 31,
+   "en": "Quite the bold costume...",
+   "long": "She's wearing such a revealing￥outfit, but"
+  },
+  {
+   "off": 35408,
+   "budget": 33,
+   "en": "(The file's blocking her navel.)",
+   "long": "(I can't see her belly button with￥that folder in the way.)"
+  },
+  {
+   "off": 35441,
+   "budget": 33,
+   "en": "What? Did you say something?"
+  },
+  {
+   "off": 35474,
+   "budget": 49,
+   "en": "The file looked heavy,￥so I wanted to help...",
+   "long": "That folder looked heavy. I was￥going to offer to carry it."
+  },
+  {
+   "off": 35523,
+   "budget": 27,
+   "en": "Oh! You creep."
+  },
+  {
+   "off": 35550,
+   "budget": 11,
+   "en": "Mika..."
+  },
+  {
+   "off": 35561,
+   "budget": 17,
+   "en": "What is it?"
+  },
+  {
+   "off": 35578,
+   "budget": 49,
+   "en": "I have a feeling...￥we'll end up together.",
+   "long": "I've got a feeling you and I could￥fall in love."
+  },
+  {
+   "off": 35627,
+   "budget": 45,
+   "en": "Gillian, no. You're married, aren't￥you?"
+  },
+  {
+   "off": 35672,
+   "budget": 35,
+   "en": "...Okay, I get it. Give it a rest?",
+   "long": "All right, I get it. Give me a￥break, will you?"
+  },
+  {
+   "off": 35707,
+   "budget": 27,
+   "en": "Strange one, Gillian.",
+   "long": "He's a strange man, that Gillian."
+  },
+  {
+   "off": 35734,
+   "budget": 49,
+   "en": "Can he really make it as a JUNKER?"
+  },
+  {
+   "off": 35783,
+   "budget": 9,
+   "en": "Chest",
+   "long": "Mika's chest"
+  },
+  {
+   "off": 35792,
+   "budget": 33,
+   "en": "(More there than I thought...)",
+   "long": "(She's got more up there than I￥thought.)"
+  },
+  {
+   "off": 35825,
+   "budget": 25,
+   "en": "Where are you looking?!",
+   "long": "Where do you think you're looking?￥Honestly!"
+  },
+  {
+   "off": 35850,
+   "budget": 35,
+   "en": "(That folder's blocking my view.)"
+  },
+  {
+   "off": 35885,
+   "budget": 35,
+   "en": "＠赤Keep it up and I'll get angry.",
+   "long": "＠赤Keep this up and I'll get angry."
+  },
+  {
+   "off": 35920,
+   "budget": 23,
+   "en": "That's enough..."
+  },
+  {
+   "off": 35943,
+   "budget": 23,
+   "en": "You're unbelievable."
+  },
+  {
+   "off": 35966,
+   "budget": 29,
+   "en": "Maybe the Chief was right...",
+   "long": "Maybe the Chief was right about you."
+  },
+  {
+   "off": 35995,
+   "budget": 49,
+   "en": "...I think I see why your￥wife left you.",
+   "long": "I think I can see why you and your￥wife separated."
+  },
+  {
+   "off": 36044,
+   "budget": 11,
+   "en": "The Chief"
+  },
+  {
+   "off": 36055,
+   "budget": 77,
+   "en": "He's a boss you can count on. He￥knows a lot and he's a great￥athlete."
+  },
+  {
+   "off": 36132,
+   "budget": 53,
+   "en": "I hear he even competed in judo at￥the Olympics."
+  },
+  {
+   "off": 36185,
+   "budget": 77,
+   "en": "He's very capable. Not just anyone￥gets invited to the summit."
+  },
+  {
+   "off": 36262,
+   "budget": 85,
+   "en": "Talk to him if you get stuck on a￥case. He'll know what you should do."
+  },
+  {
+   "off": 36347,
+   "budget": 13,
+   "en": "Harry"
+  },
+  {
+   "off": 36360,
+   "budget": 59,
+   "en": "Harry Benson is JUNKER's ＠赤mechanic＠白."
+  },
+  {
+   "off": 36419,
+   "budget": 87,
+   "en": "He drinks a bit, but he's kind and￥old-fashioned. Everyone calls him￥Pops."
+  },
+  {
+   "off": 36506,
+   "budget": 65,
+   "en": "Harry's a genius who's won three￥Nobels and a Fields Medal.",
+   "long": "Harry's a genius. He's won three￥Nobel Prizes and a Fields Medal."
+  },
+  {
+   "off": 36571,
+   "budget": 79,
+   "en": "Quite a resume.￥Why JUNKER, of all things? Surely￥he had better offers.",
+   "long": "That's an impressive record. Why￥JUNKER? Surely he could have found a￥better job."
+  },
+  {
+   "off": 36650,
+   "budget": 109,
+   "en": "The Snatchers' design got him￥interested. A scientist can't stand￥to see such skill misused.",
+   "long": "He became interested in how￥Snatchers are built. As a scientist,￥he probably couldn't stand to see￥such advanced technology being￥misused."
+  },
+  {
+   "off": 36759,
+   "budget": 91,
+   "en": "And he's lucky. He was in Moscow￥for the Catastrophe, and was￥miraculously rescued.",
+   "long": "Harry's incredibly lucky. I hear he￥was in Moscow during the￥Catastrophe, and it was a miracle￥they rescued him."
+  },
+  {
+   "off": 36850,
+   "budget": 35,
+   "en": "I hear his parents died then."
+  },
+  {
+   "off": 36885,
+   "budget": 19,
+   "en": "An orphan, then...",
+   "long": "A Catastrophe orphan..."
+  },
+  {
+   "off": 36904,
+   "budget": 57,
+   "en": "Looks like he's stepped out. He￥should be back soon."
+  },
+  {
+   "off": 36961,
+   "budget": 37,
+   "en": "That curious? Why not￥go meet him?",
+   "long": "If you're so curious, why don't you￥meet him?"
+  },
+  {
+   "off": 36998,
+   "budget": 107,
+   "en": "Each JUNKER agent is paired with an￥analysis robot, a partner.￥They're called Navigators.",
+   "long": "Each JUNKER investigator gets an￥analysis robot. They work as￥partners. Those robots are called￥Navigators."
+  },
+  {
+   "off": 37105,
+   "budget": 71,
+   "en": "Jean's Navigator is called ＠赤Little￥John＠白."
+  },
+  {
+   "off": 37176,
+   "budget": 45,
+   "en": "I wonder what navigator you'll get.",
+   "long": "I wonder what kind of Navigator￥you'll get."
+  },
+  {
+   "off": 37221,
+   "budget": 29,
+   "en": "Ask Harry when he gets back."
+  },
+  {
+   "off": 37250,
+   "budget": 45,
+   "en": "Don't worry...￥Harry will give you one.",
+   "long": "Don't worry. Harry will give you one￥if you ask."
+  },
+  {
+   "off": 37295,
+   "budget": 15,
+   "en": "Gibson"
+  },
+  {
+   "off": 37310,
+   "budget": 83,
+   "en": "Snatchers killed his wife two years￥ago. He quit the force and￥became a JUNKER.",
+   "long": "I hear his wife was killed by a￥Snatcher two years ago. He left his￥detective job and joined JUNKER."
+  },
+  {
+   "off": 37393,
+   "budget": 59,
+   "en": "Now he lives with his daughter￥＠赤Catherine＠白.",
+   "long": "He's lived with his only daughter,￥＠赤Catherine＠白, ever since."
+  },
+  {
+   "off": 37452,
+   "budget": 109,
+   "en": "He's out on a case now.￥I'll introduce you when he's back,￥maybe not today. He works hard...",
+   "long": "He seems to be out on a case. I'll￥introduce you when he gets back, but￥you might not see him today. He￥works hard."
+  },
+  {
+   "off": 37561,
+   "budget": 33,
+   "en": "Quiet, but kind at heart.",
+   "long": "He's quiet, but he's very kind at￥heart."
+  },
+  {
+   "off": 37594,
+   "budget": 31,
+   "en": "A demon on a case, though...",
+   "long": "He's relentless on a case, though."
+  },
+  {
+   "off": 37625,
+   "budget": 35,
+   "en": "Well, meet him and you'll see.",
+   "long": "You'll see how good he is when you￥meet him."
+  },
+  {
+   "off": 37660,
+   "budget": 55,
+   "en": "Scary-looking at first,￥but a real softie inside.",
+   "long": "He looks intimidating at first, but￥he has a very kind side."
+  },
+  {
+   "off": 37715,
+   "budget": 67,
+   "en": "He visits the orphanage for kids￥the Snatchers left behind.",
+   "long": "I hear he often visits an orphanage￥for children whose families were￥killed by Snatchers."
+  },
+  {
+   "off": 37782,
+   "budget": 69,
+   "en": "He keeps candy in his pocket￥for the children there.",
+   "long": "He always keeps candy in his coat￥pockets to give to the children￥there."
+  },
+  {
+   "off": 37851,
+   "budget": 17,
+   "en": "Catherine"
+  },
+  {
+   "off": 37868,
+   "budget": 73,
+   "en": "Jean's only daughter.￥She's fourteen.￥And that's not all...",
+   "long": "She's Jean's only daughter. She's￥fourteen. And that's not all."
+  },
+  {
+   "off": 37941,
+   "budget": 71,
+   "en": "Don't be shocked.￥Jean's girl is THE￥Catherine Gibson!",
+   "long": "You're not going to believe this.￥Jean's daughter is the Catherine￥Gibson!"
+  },
+  {
+   "off": 38012,
+   "budget": 7,
+   "en": "Huh?"
+  },
+  {
+   "off": 38019,
+   "budget": 85,
+   "en": "You don't know?!￥The hottest model out there.￥She's in commercials!",
+   "long": "You don't know her? She's the most￥popular model around. She's in￥commercials all the time!"
+  },
+  {
+   "off": 38104,
+   "budget": 25,
+   "en": "Not really my area.",
+   "long": "I don't keep up with that sort of￥thing."
+  },
+  {
+   "off": 38129,
+   "budget": 37,
+   "en": "Oh dear. The kids'll￥laugh at you.",
+   "long": "You should. The younger crowd will￥laugh at you."
+  },
+  {
+   "off": 38166,
+   "budget": 59,
+   "en": "A lovely girl.￥Takes after her late mother.",
+   "long": "She's a very pretty girl. She must￥take after her late mother."
+  },
+  {
+   "off": 38225,
+   "budget": 27,
+   "en": "A bit rude to Gibson?",
+   "long": "Isn't that a little unfair to￥Gibson?"
+  },
+  {
+   "off": 38252,
+   "budget": 79,
+   "en": "Don't get any ideas. Jean will kill￥you if you try anything with her."
+  },
+  {
+   "off": 38331,
+   "budget": 13,
+   "en": "Family",
+   "long": "Family's safety"
+  },
+  {
+   "off": 38344,
+   "budget": 69,
+   "en": "You said Gibson lives with his￥daughter. Is his family protected?"
+  },
+  {
+   "off": 38413,
+   "budget": 97,
+   "en": "Data on JUNKER staff and their￥families is classified top secret,￥so nothing can leak out.",
+   "long": "Information on JUNKER staff and￥their families is top secret. It's￥kept secure so it can't leak."
+  },
+  {
+   "off": 38510,
+   "budget": 91,
+   "en": "If anything leaks, it's by mouth.￥Never reveal yourself to anyone￥you can't trust.",
+   "long": "The only way it could get out is if￥someone talks. Never tell anyone￥you're a JUNKER unless you can trust￥them."
+  },
+  {
+   "off": 38601,
+   "budget": 49,
+   "en": "Has a JUNKER's family ever been￥attacked?"
+  },
+  {
+   "off": 38650,
+   "budget": 45,
+   "en": "Yes. Schultz Deckard's family."
+  },
+  {
+   "off": 38695,
+   "budget": 73,
+   "en": "In the JUNKER hunt two months ago,￥his wife and children died.",
+   "long": "His wife and both children were￥brutally murdered in the JUNKER hunt￥two months ago."
+  },
+  {
+   "off": 38768,
+   "budget": 87,
+   "en": "Schultz was tailed.￥The person he showed his badge to￥was a Snatcher...",
+   "long": "Schultz was being followed. He'd￥told someone he was a JUNKER during￥an investigation, and that person￥was a Snatcher."
+  },
+  {
+   "off": 38855,
+   "budget": 49,
+   "en": "It let him live, then came￥for his family...",
+   "long": "They let him go instead of killing￥him right away, then killed his￥whole family."
+  },
+  {
+   "off": 38904,
+   "budget": 51,
+   "en": "I never hated the Snatchers￥more than that day.",
+   "long": "I've never hated the Snatchers more￥than I did then."
+  },
+  {
+   "off": 38955,
+   "budget": 85,
+   "en": "Keep yourself safe first. That's how￥you protect the people you care￥about too."
+  },
+  {
+   "off": 39040,
+   "budget": 15,
+   "en": "Measurements"
+  },
+  {
+   "off": 39055,
+   "budget": 49,
+   "en": "Maybe another time, if we get the￥chance."
+  },
+  {
+   "off": 39104,
+   "budget": 25,
+   "en": "Use your imagination.",
+   "long": "I'll leave that to your imagination."
+  },
+  {
+   "off": 39129,
+   "budget": 71,
+   "en": "Honestly, Gillian! No, I'm not￥telling you. Find out for yourself."
+  },
+  {
+   "off": 39200,
+   "budget": 31,
+   "en": "Gaudi didn't have them?",
+   "long": "Gaudi didn't have that information."
+  },
+  {
+   "off": 39231,
+   "budget": 31,
+   "en": "Ugh... you actually looked?",
+   "long": "Unbelievable. You actually looked it￥up?"
+  },
+  {
+   "off": 39262,
+   "budget": 39,
+   "en": "I'm the diligent type. But why?",
+   "long": "I'm thorough. But why wasn't it￥there?"
+  },
+  {
+   "off": 39301,
+   "budget": 63,
+   "en": "I went into Alphaville and deleted￥my measurements."
+  },
+  {
+   "off": 39364,
+   "budget": 27,
+   "en": "So they're a cold case?",
+   "long": "So your measurements are an unsolved￥case?"
+  },
+  {
+   "off": 39391,
+   "budget": 35,
+   "en": "I won't be tied down by numbers.",
+   "long": "I don't want numbers like that tying￥me down."
+  },
+  {
+   "off": 39426,
+   "budget": 31,
+   "en": "(I'd like to, if I could.)"
+  },
+  {
+   "off": 39457,
+   "budget": 37,
+   "en": "Gillian, that's enough!"
+  },
+  {
+   "off": 39494,
+   "budget": 31,
+   "en": "...The Chief will scold you.",
+   "long": "The Chief will tell you off again."
+  },
+  {
+   "off": 39525,
+   "budget": 53,
+   "en": "Insert your JUNKER ID and you can￥use Gaudi."
+  },
+  {
+   "off": 39578,
+   "budget": 59,
+   "en": "You'll need that card for Gaudi...￥keep it safe.",
+   "long": "You'll need that card to use Gaudi.￥Take good care of it."
+  },
+  {
+   "off": 39637,
+   "budget": 45,
+   "en": "That's your JUNKER ID. Keep it safe."
+  },
+  {
+   "off": 39682,
+   "budget": 49,
+   "en": "Try not to show it around in public."
+  },
+  {
+   "off": 39731,
+   "budget": 43,
+   "en": "Expenses. Use them as the￥case requires.",
+   "long": "That's your expense money. Use it￥whenever you need to for the￥investigation."
+  },
+  {
+   "off": 39774,
+   "budget": 45,
+   "en": "No cards in this city.￥Cash is what talks.",
+   "long": "Cards won't get you anywhere in this￥city. Cash talks."
+  },
+  {
+   "off": 39819,
+   "budget": 75,
+   "en": "Inside the tricycle.￥The computer does the driving.￥Where to?",
+   "long": "We're inside the Tricycle. The￥computer handles the driving. Where￥would you like to go?"
+  },
+  {
+   "off": 39894,
+   "budget": 9,
+   "en": "Get in",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 39903,
+   "budget": 5,
+   "en": "Body"
+  },
+  {
+   "off": 39908,
+   "budget": 85,
+   "en": "It's a brand-new '42 Interceptor,￥tuned specifically for you, Gillian."
+  },
+  {
+   "off": 39993,
+   "budget": 41,
+   "en": "It's made by a shuttle manufacturer."
+  },
+  {
+   "off": 40034,
+   "budget": 7,
+   "en": "Tires"
+  },
+  {
+   "off": 40041,
+   "budget": 55,
+   "en": "They retract in flight.￥Three wheels on the ground.",
+   "long": "The wheels retract for gliding. On￥the ground, it runs on three wheels."
+  },
+  {
+   "off": 40096,
+   "budget": 69,
+   "en": "This is JUNKER HQ's parking lot.￥Several Tricycles are parked here."
+  },
+  {
+   "off": 40165,
+   "budget": 65,
+   "en": "Super engineering plastic and￥carbon fiber. Not a scratch.",
+   "long": "It's made from high-performance￥engineering plastic and carbon￥fiber. Not a scratch on it."
+  },
+  {
+   "off": 40230,
+   "budget": 33,
+   "en": "It bears an inspection seal.",
+   "long": "There's an inspection stamp showing￥servicing is complete."
+  },
+  {
+   "off": 40263,
+   "budget": 47,
+   "en": "There's no time.￥To the scene, quickly!",
+   "long": "We're running out of time. Let's get￥to the scene!"
+  },
+  {
+   "off": 40310,
+   "budget": 55,
+   "en": "It's fine.￥The tires carry inspection￥seals too.",
+   "long": "They're fine. The tires have a￥service inspection stamp too."
+  },
+  {
+   "off": 40365,
+   "budget": 45,
+   "en": "We're the only ones in the parking￥lot."
+  },
+  {
+   "off": 40410,
+   "budget": 35,
+   "en": "Launch signal, all green.",
+   "long": "All departure indicators are green."
+  },
+  {
+   "off": 40445,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 40460,
+   "budget": 13,
+   "en": "Videophone"
+  },
+  {
+   "off": 40473,
+   "budget": 33,
+   "en": "What are you saying, Gillian?",
+   "long": "What are you talking about, Gillian?"
+  },
+  {
+   "off": 40506,
+   "budget": 41,
+   "en": "We need to hurry to the factory￥ruins!"
+  },
+  {
+   "off": 40547,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 40558,
+   "budget": 37,
+   "en": "I'll save your progress now."
+  },
+  {
+   "off": 40595,
+   "budget": 11,
+   "en": "Get out",
+   "long": "Exit Tricycle"
+  },
+  {
+   "off": 40606,
+   "budget": 41,
+   "en": "No. I'm not ready for this yet."
+  },
+  {
+   "off": 40647,
+   "budget": 7,
+   "en": "Ruins",
+   "long": "Factory ruins"
+  },
+  {
+   "off": 40654,
+   "budget": 11,
+   "en": "Gillian's",
+   "long": "Gillian's home"
+  },
+  {
+   "off": 40665,
+   "budget": 25,
+   "en": "Swing by my place?",
+   "long": "Shall we stop by my place?"
+  },
+  {
+   "off": 40690,
+   "budget": 37,
+   "en": "Jean is waiting. Let's hurry!"
+  },
+  {
+   "off": 40727,
+   "budget": 45,
+   "en": "There's no time. To the scene,￥quickly!",
+   "long": "We're running out of time. Let's get￥to the scene!"
+  },
+  {
+   "off": 40772,
+   "budget": 51,
+   "en": "The ID card that proves all￥a JUNKER's powers.",
+   "long": "An ID card that certifies all my￥authority as a JUNKER."
+  },
+  {
+   "off": 40823,
+   "budget": 37,
+   "en": "This is my ID from today on."
+  },
+  {
+   "off": 40860,
+   "budget": 33,
+   "en": "Cash issued by JUNKER."
+  },
+  {
+   "off": 40893,
+   "budget": 59,
+   "en": "Having to carry cash everywhere.￥What a hassle."
+  },
+  {
+   "off": 40952,
+   "budget": 35,
+   "en": "An ID card with an IC chip.",
+   "long": "An ID card with a built-in IC chip."
+  },
+  {
+   "off": 40987,
+   "budget": 53,
+   "en": "All my data is registered￥on this card, they say.",
+   "long": "Apparently all my information is￥stored on this card."
+  },
+  {
+   "off": 41040,
+   "budget": 19,
+   "en": "Real gold coins."
+  },
+  {
+   "off": 41059,
+   "budget": 33,
+   "en": "This should be more than enough."
+  },
+  {
+   "off": 41092,
+   "budget": 43,
+   "en": "It's fine.￥It's separate from your pay...",
+   "long": "Don't worry, Gillian. It's separate￥from your salary."
+  },
+  {
+   "off": 41135,
+   "budget": 53,
+   "en": "Gillian... relax, it won't￥disappear on you.",
+   "long": "Gillian, it's not going anywhere.￥Stop worrying about it."
+  },
+  {
+   "off": 41190,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

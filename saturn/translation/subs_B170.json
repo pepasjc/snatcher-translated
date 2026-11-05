@@ -1,0 +1,393 @@
+{
+ "scene": "B170",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B170_f14_0",
+   "line": 325,
+   "act": 2,
+   "sector": 1269,
+   "offset": 643,
+   "size": 29323,
+   "b0": 0,
+   "b1": 29323,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "An emergency call from headquarters. I'll put it through.",
+   "rows": [
+    "An emergency call from",
+    "headquarters. I'll put it",
+    "through."
+   ],
+   "rows_plain": [
+    "An emergency call from headquarters.",
+    "I'll put it through."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B170_f15_0",
+   "line": 326,
+   "act": 2,
+   "sector": 1281,
+   "offset": 2078,
+   "size": 69481,
+   "b0": 0,
+   "b1": 44824,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Gillian, I finally reached you! Catherine called a little while ago.",
+   "rows": [
+    "Gillian, I finally reached",
+    "you! Catherine called a",
+    "little while ago."
+   ],
+   "rows_plain": [
+    "Gillian, I finally reached you!",
+    "Catherine called a little while ago."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B170_f15_0b",
+   "line": 326,
+   "act": 2,
+   "sector": 1281,
+   "offset": 2078,
+   "size": 69481,
+   "b0": 44824,
+   "b1": 69481,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "She said she has something to give you.",
+   "rows": [
+    "She said she has something",
+    "to give you."
+   ],
+   "rows_plain": [
+    "She said she has something to give",
+    "you."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B170_f16_0",
+   "line": 327,
+   "act": 2,
+   "sector": 1311,
+   "offset": 1839,
+   "size": 25611,
+   "b0": 0,
+   "b1": 25611,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Something for me? What could it be?",
+   "rows": [
+    "Something for me? What could",
+    "it be?"
+   ],
+   "rows_plain": [
+    "Something for me? What could it be?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B170_f17_0",
+   "line": 328,
+   "act": 2,
+   "sector": 1322,
+   "offset": 1886,
+   "size": 43278,
+   "b0": 0,
+   "b1": 43278,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "She sounded terrified. She said Alice was barking.",
+   "rows": [
+    "She sounded terrified. She",
+    "said Alice was barking."
+   ],
+   "rows_plain": [
+    "She sounded terrified. She said",
+    "Alice was barking."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B170_f18_0",
+   "line": 329,
+   "act": 2,
+   "sector": 1341,
+   "offset": 1008,
+   "size": 7173,
+   "b0": 0,
+   "b1": 7173,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "When was this?!",
+   "rows": [
+    "When was this?!"
+   ],
+   "rows_plain": [
+    "When was this?!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B170_f19_0",
+   "line": 330,
+   "act": 2,
+   "sector": 1344,
+   "offset": 1209,
+   "size": 23396,
+   "b0": 0,
+   "b1": 23396,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "About thirty minutes ago.",
+   "rows": [
+    "About thirty minutes ago."
+   ],
+   "rows_plain": [
+    "About thirty minutes ago."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B170_f20_0",
+   "line": 331,
+   "act": 2,
+   "sector": 1354,
+   "offset": 1365,
+   "size": 6724,
+   "b0": 0,
+   "b1": 6724,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Damn!",
+   "rows": [
+    "Damn!"
+   ],
+   "rows_plain": [
+    "Damn!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B170_f21_0",
+   "line": 332,
+   "act": 2,
+   "sector": 1357,
+   "offset": 1117,
+   "size": 14591,
+   "b0": 0,
+   "b1": 14591,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian, hurry!",
+   "rows": [
+    "Gillian, hurry!"
+   ],
+   "rows_plain": [
+    "Gillian, hurry!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B170_f22_0",
+   "line": 333,
+   "act": 2,
+   "sector": 1363,
+   "offset": 1764,
+   "size": 9351,
+   "b0": 0,
+   "b1": 9351,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Catherine's in danger!",
+   "rows": [
+    "Catherine's in danger!"
+   ],
+   "rows_plain": [
+    "Catherine's in danger!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B170_r_00",
+   "reel": 62,
+   "sdaif": "SDAIF_62.AIF",
+   "rate": 30000,
+   "frames": 890664,
+   "b0": 54,
+   "b1": 240030,
+   "size": 1781382,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Gillian! ...No good, was it?",
+   "rows": [
+    "Gillian! ...No good, was it?"
+   ],
+   "rows_plain": [
+    "Gillian! ...No good, was it?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B170_r_01",
+   "reel": 62,
+   "sdaif": "SDAIF_62.AIF",
+   "rate": 30000,
+   "frames": 890664,
+   "b0": 240030,
+   "b1": 599796,
+   "size": 1781382,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Gillian! Didn't make it?",
+   "rows": [
+    "Gillian! Didn't make it?"
+   ],
+   "rows_plain": [
+    "Gillian! Didn't make it?"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B170_r_02",
+   "reel": 62,
+   "sdaif": "SDAIF_62.AIF",
+   "rate": 30000,
+   "frames": 890664,
+   "b0": 599796,
+   "b1": 809726,
+   "size": 1781382,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Don't be ridiculous! I'm right here!",
+   "rows": [
+    "Don't be ridiculous! I'm",
+    "right here!"
+   ],
+   "rows_plain": [
+    "Don't be ridiculous! I'm right here!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B170_r_03",
+   "reel": 62,
+   "sdaif": "SDAIF_62.AIF",
+   "rate": 30000,
+   "frames": 890664,
+   "b0": 809726,
+   "b1": 990008,
+   "size": 1781382,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian, it's not far now to Queen Hospital.",
+   "rows": [
+    "Gillian, it's not far now to",
+    "Queen Hospital."
+   ],
+   "rows_plain": [
+    "Gillian, it's not far now to Queen",
+    "Hospital."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B170_r_04",
+   "reel": 62,
+   "sdaif": "SDAIF_62.AIF",
+   "rate": 30000,
+   "frames": 890664,
+   "b0": 990008,
+   "b1": 1231988,
+   "size": 1781382,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Gillian! Don't you know how to ride a bike?",
+   "rows": [
+    "Gillian! Don't you know how",
+    "to ride a bike?"
+   ],
+   "rows_plain": [
+    "Gillian! Don't you know how to ride",
+    "a bike?"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B170_r_04b",
+   "reel": 62,
+   "sdaif": "SDAIF_62.AIF",
+   "rate": 30000,
+   "frames": 890664,
+   "b0": 1231988,
+   "b1": 1598884,
+   "size": 1781382,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian, we are almost at Queen Hospital. You could use some exercise.",
+   "rows": [
+    "Gillian, we are almost at",
+    "Queen Hospital. You could",
+    "use some exercise."
+   ],
+   "rows_plain": [
+    "Gillian, we are almost at Queen",
+    "Hospital. You could use some",
+    "exercise."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B170_r_04c",
+   "reel": 62,
+   "sdaif": "SDAIF_62.AIF",
+   "rate": 30000,
+   "frames": 890664,
+   "b0": 1598884,
+   "b1": 1781382,
+   "size": 1781382,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let us keep going like this.",
+   "rows": [
+    "Let us keep going like this."
+   ],
+   "rows_plain": [
+    "Let us keep going like this."
+   ],
+   "enabled": true,
+   "face_char": 5
+  }
+ ]
+}

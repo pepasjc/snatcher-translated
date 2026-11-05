@@ -1,0 +1,49 @@
+{
+ "scene": "B040",
+ "note": "Coverage: Gaudi's name search (B040 - no story route opens it): from the Act 2 HQ scene save, the Computer room, Use card, Load person file (the name search's bank loads), then the list it offers.",
+ "actions": [
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "path": [
+    "Move",
+    "Computer room"
+   ],
+   "optional": true
+  },
+  {
+   "wait_menu": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Use Gaudi"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Use card"
+   ],
+   "optional": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Load person file"
+   ],
+   "optional": true,
+   "patience": 6000
+  },
+  {
+   "wait_menu": true,
+   "patience": 6000
+  },
+  {
+   "idle": 600
+  }
+ ]
+}

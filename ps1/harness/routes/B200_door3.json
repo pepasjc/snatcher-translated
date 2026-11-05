@@ -1,0 +1,28 @@
+{
+ "scene": "B200",
+ "note": "BUG repro: from B200_pre_both, press 1 and 2, enter door 3 and sit through the morgue reel.",
+ "actions": [
+  {
+   "path": [
+    "Press switch",
+    "1 and 2 together"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "idle": 600
+  },
+  {
+   "path": [
+    "Move",
+    "Door 3"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "idle": 7000
+  }
+ ]
+}

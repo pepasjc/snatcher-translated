@@ -1,0 +1,245 @@
+{
+ "file": "DATA.BIN[31]",
+ "entry": 31,
+ "text_base": 1225,
+ "twins": [
+  "B0A0"
+ ],
+ "strings": [
+  {
+   "off": 1225,
+   "budget": 4,
+   "en": "",
+   "src": "B0A0:1160",
+   "carry": "exact"
+  },
+  {
+   "off": 1230,
+   "budget": 51,
+   "en": "You board the tricycle.￥Where to?",
+   "src": "B0A0:1165",
+   "carry": "exact",
+   "long": "We've boarded the tricycle.￥Where would you like to go?"
+  },
+  {
+   "off": 1281,
+   "budget": 17,
+   "en": "JUNKER HQ",
+   "src": "B0A0:1216",
+   "carry": "exact"
+  },
+  {
+   "off": 1298,
+   "budget": 11,
+   "en": "Gillian's",
+   "src": "B0A0:1233",
+   "carry": "exact",
+   "long": "Gillian's home"
+  },
+  {
+   "off": 1309,
+   "budget": 11,
+   "en": "Gibson's",
+   "src": "B0A0:1244",
+   "carry": "exact",
+   "long": "Gibson's home"
+  },
+  {
+   "off": 1320,
+   "budget": 13,
+   "en": "Altamira",
+   "src": "B0A0:1255",
+   "carry": "exact"
+  },
+  {
+   "off": 1333,
+   "budget": 15,
+   "en": "Outer Heaven",
+   "src": "B0A0:1268",
+   "carry": "exact"
+  },
+  {
+   "off": 1348,
+   "budget": 17,
+   "en": "Joy Division",
+   "src": "B0A0:1283",
+   "carry": "exact"
+  },
+  {
+   "off": 1365,
+   "budget": 9,
+   "en": "Ivan's",
+   "src": "B0A0:1300",
+   "carry": "exact",
+   "long": "Ivan's home"
+  },
+  {
+   "off": 1374,
+   "budget": 11,
+   "en": "Freddy's",
+   "src": "B0A0:1309",
+   "carry": "exact",
+   "long": "Freddy's home"
+  },
+  {
+   "off": 1385,
+   "budget": 11,
+   "en": "Get out",
+   "src": "B0A0:1320",
+   "carry": "exact",
+   "long": "Exit Tricycle"
+  },
+  {
+   "off": 1396,
+   "budget": 43,
+   "en": "Ivan is clean.￥No business with him now.",
+   "src": "B0A0:1331",
+   "carry": "exact",
+   "long": "Ivan's in the clear. We've got no￥more business with him."
+  },
+  {
+   "off": 1439,
+   "budget": 27,
+   "en": "Hurry to Freddy's place.",
+   "src": "B0A0:1374",
+   "carry": "exact",
+   "long": "Let's hurry to Freddy's place."
+  },
+  {
+   "off": 1466,
+   "budget": 45,
+   "en": "We've reached JUNKER HQ.￥What now?",
+   "src": "B0A0:1401",
+   "carry": "exact"
+  },
+  {
+   "off": 1511,
+   "budget": 41,
+   "en": "We're at your place.￥What now?",
+   "src": "B0A0:1446",
+   "carry": "exact"
+  },
+  {
+   "off": 1552,
+   "budget": 61,
+   "en": "We're at Jean Jack Gibson's house.￥What now?",
+   "src": "B0A0:1487",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 1613,
+   "budget": 41,
+   "en": "We're at Altamira.￥What now?",
+   "src": "B0A0:1544",
+   "carry": "exact"
+  },
+  {
+   "off": 1654,
+   "budget": 45,
+   "en": "We're at Outer Heaven.￥What now?",
+   "src": "B0A0:1585",
+   "carry": "candidate_ok",
+   "en_candidate": "We're at Outer Heaven.￥What now?",
+   "sim": 0.95
+  },
+  {
+   "off": 1699,
+   "budget": 51,
+   "en": "We're at Joy Division. What now?",
+   "src": "B0A0:1630",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 1750,
+   "budget": 51,
+   "en": "We're at Ivan Rodriguez's apartment.￥What now?",
+   "src": "B0A0:1679",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 1801,
+   "budget": 53,
+   "en": "We're at Freddy Nielsen's apartment.￥What now?",
+   "src": "B0A0:1728",
+   "carry": "exact"
+  },
+  {
+   "off": 1854,
+   "budget": 41,
+   "en": "All right. We're heading to JUNKER￥HQ.",
+   "src": "B0A0:1781",
+   "carry": "exact"
+  },
+  {
+   "off": 1895,
+   "budget": 35,
+   "en": "Heading for Gillian's home, then.",
+   "src": "B0A0:1822",
+   "carry": "exact",
+   "long": "All right. We're heading to your￥place."
+  },
+  {
+   "off": 1930,
+   "budget": 53,
+   "en": "Heading for Jean Jack Gibson's home,￥then.",
+   "src": "B0A0:1857",
+   "carry": "exact",
+   "long": "All right. We're heading to Jean￥Jack Gibson's house."
+  },
+  {
+   "off": 1983,
+   "budget": 35,
+   "en": "Heading for Altamira, then.",
+   "src": "B0A0:1910",
+   "carry": "exact",
+   "long": "All right. We're heading to￥Altamira."
+  },
+  {
+   "off": 2018,
+   "budget": 37,
+   "en": "Heading for Outer Heaven, then.",
+   "src": "B0A0:1945",
+   "carry": "candidate_ok",
+   "en_candidate": "Heading for Outer Heaven, then.",
+   "sim": 0.94,
+   "long": "All right. We're heading to Outer￥Heaven."
+  },
+  {
+   "off": 2055,
+   "budget": 41,
+   "en": "All right. We're heading to Joy￥Division.",
+   "src": "B0A0:1982",
+   "carry": "candidate_ok",
+   "en_candidate": "All right. We're heading to Joy Division.",
+   "sim": 0.93,
+   "note": "part of the PS1 line; re-adapted 2026-09-30: new PS1 long"
+  },
+  {
+   "off": 2096,
+   "budget": 47,
+   "en": "Heading for Ivan Rodriguez's home,￥then.",
+   "src": "B0A0:2025",
+   "carry": "rebroken",
+   "long": "All right. We're heading to Ivan￥Rodriguez's apartment.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 2143,
+   "budget": 49,
+   "en": "Heading for Freddy Nielsen's home,￥then.",
+   "src": "B0A0:2070",
+   "carry": "rebroken",
+   "long": "All right. We're heading to Freddy￥Nielsen's apartment.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 2194,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

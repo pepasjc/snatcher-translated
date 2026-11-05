@@ -1,0 +1,10 @@
+{
+ "scene": "B080",
+ "note": "BUG-022 repro: from B080_arrived, straight to the Mechanic room and Harry's drunk conversation (S000 chan 0 f9), then the room's verbs, to catch text left behind after the conversation.",
+ "actions": [
+  {"sweep": ["Ask", "Look", "Investigate", "Talk"], "rounds": 1, "why": "the Chief's office after the arrival"},
+  {"path": ["Move", "Mechanic room"], "why": "MOVE to ENGINEERING ROOM"},
+  {"sweep": ["Look", "Investigate", "Ask", "Talk", "Listen"], "rounds": 2, "why": "LOOK at HARRY, the BRANDY BOTTLE"},
+  {"idle": 600, "why": "settle"}
+ ]
+}

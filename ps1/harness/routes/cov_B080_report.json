@@ -1,0 +1,171 @@
+{
+ "scene": "B100",
+ "note": "Coverage: B080_2_* (Metal Gear's replay of the Act 1 report, S000 ch6 f18). From wg/wg08_B100: back to JUNKER HQ, the Chief's office before and after the montage.",
+ "actions": [
+  {
+   "section": "JUNKER HQ: the montage (Gaudi)"
+  },
+  {
+   "path": [
+    "Move",
+    "Go out"
+   ],
+   "optional": true,
+   "patience": 1200
+  },
+  {
+   "path": [
+    "Go out"
+   ],
+   "optional": true,
+   "patience": 1200
+  },
+  {
+   "path": [
+    "Move",
+    "Board Tricycle"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Board Tricycle"
+   ],
+   "patience": 1500,
+   "optional": true
+  },
+  {
+   "path": [
+    "JUNKER HQ"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Go inside"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Move",
+    "Chief's room"
+   ],
+   "patience": 3000,
+   "why": "the Chief's office after Outer Heaven"
+  },
+  {
+   "sweep": [
+    "Talk",
+    "Ask",
+    "Look",
+    "Investigate",
+    "Report"
+   ],
+   "rounds": 2,
+   "why": "is the report replay (S000 ch6 f18, B080_2_*) offered here?"
+  },
+  {
+   "idle": 2000
+  },
+  {
+   "path": [
+    "Move",
+    "Computer room"
+   ],
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Use Gaudi",
+    "Use card"
+   ],
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Create montage"
+   ],
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Outline",
+    "Outline 3"
+   ],
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Eyes",
+    "Eyes 6"
+   ],
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Nose",
+    "Nose 1"
+   ],
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Mouth",
+    "Mouth 3"
+   ],
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Hair",
+    "Hair 2"
+   ],
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Match"
+   ],
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Log off"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Move",
+    "Chief's room"
+   ],
+   "patience": 3000,
+   "why": "the Chief's office after Outer Heaven"
+  },
+  {
+   "sweep": [
+    "Talk",
+    "Ask",
+    "Look",
+    "Investigate",
+    "Report"
+   ],
+   "rounds": 2,
+   "why": "is the report replay (S000 ch6 f18, B080_2_*) offered here?"
+  },
+  {
+   "idle": 2000
+  }
+ ]
+}

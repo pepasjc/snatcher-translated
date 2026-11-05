@@ -1,0 +1,93 @@
+{
+ "scene": "B200",
+ "note": "BUG-047/048 repro: from the B200_fight bookmark (the second snatcher in room 1) through room 2 to USE SWITCHES > 1 and 2 at the same time. The two shootouts take different aims - the head first, then cell 6.",
+ "fight": [
+  "cell6",
+  "cell6",
+  "cell6"
+ ],
+ "actions": [
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Look around"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "save": "B200_room1_done"
+  },
+  {
+   "path": [
+    "Go out"
+   ],
+   "optional": true,
+   "patience": 1200
+  },
+  {
+   "path": [
+    "Move",
+    "Door 2"
+   ],
+   "optional": true,
+   "patience": 1200
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "save": "B200_room2_done"
+  },
+  {
+   "path": [
+    "Go out"
+   ],
+   "optional": true,
+   "patience": 1200
+  },
+  {
+   "path": [
+    "Investigate",
+    "Switches"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "save": "B200_pre_both"
+  },
+  {
+   "path": [
+    "Press switch",
+    "1 and 2 together"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "idle": 2500
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "idle": 900
+  }
+ ]
+}

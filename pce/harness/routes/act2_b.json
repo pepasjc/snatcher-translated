@@ -1,0 +1,528 @@
+[
+{
+"choose": "Oleen Hospital"
+},
+{
+"read": 8000
+},
+{
+"choose": "Exit Tricycle"
+},
+{
+"read": 8000
+},
+{
+"save": "oleen0"
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"choose": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": "Go inside"
+},
+{
+"read": 10000
+},
+{
+"save": "oleen_in"
+},
+{
+"items": 1
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Ask",
+"rounds": 3
+},
+{
+"read": 3000
+},
+{
+"sweep": "Smell",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"choose": "Item"
+},
+{
+"choose": "Show"
+},
+{
+"choose": "Video memory"
+},
+{
+"maybe": "Little John"
+},
+{
+"read": 12000
+},
+{
+"save": "oleen_done"
+},
+{
+"items": 1
+},
+{
+"choose": "Gillian's home"
+},
+{
+"read": 8000
+},
+{
+"choose": "Exit Tricycle"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"phone": "393444"
+},
+{
+"wait": 900
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"maybe": "Don't call"
+},
+{
+"read": 3000
+},
+{
+"phone": "391009"
+},
+{
+"wait": 900
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"save": "jamie2"
+},
+{
+"sweep": "Ask",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Talk",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"maybe": "Hang up"
+},
+{
+"read": 4000
+},
+{
+"maybe": "Don't call"
+},
+{
+"read": 3000
+},
+{
+"save": "jamie2_done"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Board Tricycle",
+"Move"
+]
+},
+{
+"maybe": "Board Tricycle"
+},
+{
+"read": 12000
+},
+{
+"items": 1
+},
+{
+"save": "emergency"
+},
+{
+"choose": [
+"Gibson's home",
+"Exit Tricycle"
+]
+},
+{
+"read": 8000
+},
+{
+"maybe": "Exit Tricycle"
+},
+{
+"read": 8000
+},
+{
+"save": "gib2"
+},
+{
+"items": 1
+},
+{
+"maybe": "Knock"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Investigate",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"choose": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": "Go inside"
+},
+{
+"read": 8000
+},
+{
+"save": "gib2_in"
+},
+{
+"items": 1
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Window"
+},
+{
+"read": 6000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Shelf"
+},
+{
+"read": 6000
+},
+{
+"choose": "Look"
+},
+{
+"choose": "Model"
+},
+{
+"read": 6000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Model"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Study"
+},
+{
+"read": 6000
+},
+{
+"save": "gib2_study"
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Backyard"
+},
+{
+"read": 6000
+},
+{
+"save": "gib2_yard"
+},
+{
+"choose": "Look"
+},
+{
+"choose": "Around"
+},
+{
+"read": 6000
+},
+{
+"choose": "Look"
+},
+{
+"choose": "Darkness"
+},
+{
+"read": 6000
+},
+{
+"choose": "Look"
+},
+{
+"choose": "Ground"
+},
+{
+"read": 6000
+},
+{
+"choose": "Look"
+},
+{
+"choose": "Collar"
+},
+{
+"read": 6000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Around"
+},
+{
+"read": 6000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Darkness"
+},
+{
+"read": 6000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Collar"
+},
+{
+"read": 6000
+},
+{
+"choose": "Back to study"
+},
+{
+"read": 6000
+},
+{
+"choose": "Look"
+},
+{
+"choose": "Inside"
+},
+{
+"read": 6000
+},
+{
+"choose": "Look"
+},
+{
+"choose": "PC68"
+},
+{
+"read": 6000
+},
+{
+"choose": "Look"
+},
+{
+"choose": "Sofa"
+},
+{
+"read": 6000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Inside"
+},
+{
+"read": 6000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "PC68"
+},
+{
+"read": 6000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Sofa"
+},
+{
+"read": 6000
+},
+{
+"choose": "Look"
+},
+{
+"choose": "Inside"
+},
+{
+"read": 6000
+},
+{
+"choose": "Look"
+},
+{
+"choose": "PC68"
+},
+{
+"read": 6000
+},
+{
+"save": "gib2_sneezed"
+},
+{
+"choose": "Move"
+},
+{
+"choose": ["To living room", "Living room"]
+},
+{
+"read": 6000
+},
+{
+"choose": "Call"
+},
+{
+"choose": "Catherine"
+},
+{
+"read": 6000
+},
+{
+"choose": "Call"
+},
+{
+"choose": "Alice"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Study"
+},
+{
+"read": 6000
+},
+{
+"read": 20000
+},
+{
+"items": 1
+},
+{
+"save": "act2_b_end"
+}
+]

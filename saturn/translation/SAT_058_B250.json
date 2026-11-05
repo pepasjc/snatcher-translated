@@ -1,0 +1,1548 @@
+{
+ "file": "DATA.BIN[58]",
+ "entry": 58,
+ "text_base": 4850,
+ "twins": [
+  "B250"
+ ],
+ "strings": [
+  {
+   "off": 4851,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 4855,
+   "budget": 33,
+   "en": "This is the last Tricycle.",
+   "src": "B250:4758",
+   "carry": "exact"
+  },
+  {
+   "off": 4888,
+   "budget": 9,
+   "en": "Get in",
+   "src": "B250:4791",
+   "carry": "exact",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 4897,
+   "budget": 35,
+   "en": "Let's get into the Tricycle.",
+   "src": "B250:4800",
+   "carry": "exact"
+  },
+  {
+   "off": 4932,
+   "budget": 49,
+   "en": "We're in the Tricycle. Where shall￥we go?",
+   "src": "B250:4835",
+   "carry": "exact"
+  },
+  {
+   "off": 4981,
+   "budget": 59,
+   "en": "Though we already know where we're￥headed.",
+   "src": "B250:4884",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5040,
+   "budget": 5,
+   "en": "Look",
+   "src": "B250:4941",
+   "carry": "exact"
+  },
+  {
+   "off": 5045,
+   "budget": 5,
+   "en": "Body",
+   "src": "B250:4946",
+   "carry": "exact"
+  },
+  {
+   "off": 5050,
+   "budget": 81,
+   "en": "A spare tricycle, so unpainted, but￥it runs well enough.",
+   "src": "B250:4951",
+   "carry": "candidate_ok",
+   "en_candidate": "A spare tricycle, so unpainted, but￥it runs well enough.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "It's a spare Tricycle, so it hasn't￥been painted. It runs perfectly￥well."
+  },
+  {
+   "off": 5131,
+   "budget": 65,
+   "en": "Take a good look. In 12 hours￥this vehicle's finished too.",
+   "src": "B250:5028",
+   "carry": "rebroken",
+   "long": "Take a good look. In twelve hours,￥we won't be able to use this vehicle￥either.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5196,
+   "budget": 7,
+   "en": "Around",
+   "src": "B250:5091",
+   "carry": "exact"
+  },
+  {
+   "off": 5203,
+   "budget": 35,
+   "en": "This parking lot looks bleak now.",
+   "src": "B250:5098",
+   "carry": "exact"
+  },
+  {
+   "off": 5238,
+   "budget": 27,
+   "en": "No car or soul but us...",
+   "src": "B250:5133",
+   "carry": "exact",
+   "long": "Ours is the only vehicle. We're the￥only ones here."
+  },
+  {
+   "off": 5265,
+   "budget": 7,
+   "en": "Check",
+   "src": "B250:5160",
+   "carry": "exact",
+   "long": "Investigate"
+  },
+  {
+   "off": 5272,
+   "budget": 43,
+   "en": "It seems sound.￥Nothing done to it.",
+   "src": "B250:5167",
+   "carry": "exact",
+   "long": "It looks safe. It hasn't been￥tampered with."
+  },
+  {
+   "off": 5315,
+   "budget": 37,
+   "en": "No worry. Nothing amiss.",
+   "src": "B250:5210",
+   "carry": "rebroken",
+   "long": "Don't worry. Nothing is wrong with￥it.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5352,
+   "budget": 57,
+   "en": "No movement detected. You and I are￥alone here.",
+   "src": "B250:5245",
+   "carry": "exact"
+  },
+  {
+   "off": 5409,
+   "budget": 33,
+   "en": "Nobody here. It's quiet.",
+   "src": "B250:5302",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5442,
+   "budget": 15,
+   "en": "Use Metal Gear",
+   "src": "B250:5333",
+   "carry": "exact"
+  },
+  {
+   "off": 5457,
+   "budget": 11,
+   "en": "Save",
+   "src": "B250:5348",
+   "carry": "exact"
+  },
+  {
+   "off": 5468,
+   "budget": 27,
+   "en": "We're nearing the end.",
+   "src": "B250:5359",
+   "carry": "exact"
+  },
+  {
+   "off": 5495,
+   "budget": 37,
+   "en": "I'll save our progress so far.",
+   "src": "B250:5386",
+   "carry": "exact"
+  },
+  {
+   "off": 5532,
+   "budget": 23,
+   "en": "Hurry to the church!!",
+   "src": "B250:5423",
+   "carry": "exact",
+   "long": "Let's hurry to the church!"
+  },
+  {
+   "off": 5555,
+   "budget": 37,
+   "en": "We can't waste time, Gillian!",
+   "src": "B250:5446",
+   "carry": "exact"
+  },
+  {
+   "off": 5592,
+   "budget": 17,
+   "en": "Hurry, Gillian!",
+   "src": "B250:5483",
+   "carry": "exact"
+  },
+  {
+   "off": 5609,
+   "budget": 5,
+   "en": "Chur",
+   "src": "B250:5500",
+   "carry": "exact",
+   "long": "Church"
+  },
+  {
+   "off": 5614,
+   "budget": 11,
+   "en": "Get out",
+   "src": "B250:5505",
+   "carry": "exact",
+   "long": "Exit Tricycle"
+  },
+  {
+   "off": 5625,
+   "budget": 17,
+   "en": "JUNKER HQ",
+   "src": "B250:5516",
+   "carry": "exact"
+  },
+  {
+   "off": 5642,
+   "budget": 41,
+   "en": "Going in by ourselves is crazy.",
+   "src": "B250:5533",
+   "carry": "candidate_ok",
+   "en_candidate": "Going in by ourselves is crazy.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 5683,
+   "budget": 19,
+   "en": "At the church.",
+   "src": "B250:5576",
+   "carry": "exact",
+   "long": "We've reached the church."
+  },
+  {
+   "off": 5702,
+   "budget": 27,
+   "en": "It really is the Kremlin!",
+   "src": "B250:5595",
+   "carry": "exact"
+  },
+  {
+   "off": 5729,
+   "budget": 9,
+   "en": "Go in",
+   "src": "B250:5622",
+   "carry": "exact",
+   "long": "Go inside"
+  },
+  {
+   "off": 5738,
+   "budget": 5,
+   "en": "Bldg",
+   "src": "B250:5631",
+   "carry": "exact",
+   "long": "Building"
+  },
+  {
+   "off": 5743,
+   "budget": 55,
+   "en": "An old church... rather like Saint￥Basil's.",
+   "src": "B250:5636",
+   "carry": "rebroken",
+   "long": "An old church. It looks a little￥like St. Basil's Cathedral.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5798,
+   "budget": 37,
+   "en": "They must have thought so, too.",
+   "src": "B250:5689",
+   "carry": "exact"
+  },
+  {
+   "off": 5835,
+   "budget": 59,
+   "en": "Built after a Russian Orthodox￥church?￥Quite old.",
+   "src": "B250:5726",
+   "carry": "rebroken",
+   "long": "It may be modeled on a Russian￥Orthodox church. It looks very old.",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 5894,
+   "budget": 3,
+   "en": "Sn",
+   "src": "B250:5787",
+   "carry": "exact",
+   "long": "Snow"
+  },
+  {
+   "off": 5897,
+   "budget": 79,
+   "en": "It looks like snow but is Snow￥Cedar. Take care not to breathe it.",
+   "src": "B250:5790",
+   "carry": "rebroken",
+   "long": "It looks like snow, but it's Snow￥Cedar pollen. Be careful not to￥breathe it in.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5976,
+   "budget": 37,
+   "en": "Pollen, so far finer than snow.",
+   "src": "B250:5867",
+   "carry": "exact",
+   "long": "Since it's pollen, it's much finer￥than snow."
+  },
+  {
+   "off": 6013,
+   "budget": 31,
+   "en": "Ringed by tall cedar woods.",
+   "src": "B250:5904",
+   "carry": "exact",
+   "long": "We're surrounded by tall cedar￥trees."
+  },
+  {
+   "off": 6044,
+   "budget": 37,
+   "en": "No homeless will come near this.",
+   "src": "B250:5935",
+   "carry": "exact",
+   "long": "Even the homeless would stay away￥from this."
+  },
+  {
+   "off": 6081,
+   "budget": 49,
+   "en": "Christmas lights would suit the￥season.",
+   "src": "B250:5972",
+   "carry": "exact",
+   "long": "Christmas lights would look nice￥here this time of year."
+  },
+  {
+   "off": 6130,
+   "budget": 49,
+   "en": "You can't see this church￥except from above.",
+   "src": "B250:6021",
+   "carry": "rebroken",
+   "long": "The church seems to be visible only￥from above.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6179,
+   "budget": 57,
+   "en": "Half a century old, but braced here￥and there.",
+   "src": "B250:6068",
+   "carry": "rebroken",
+   "long": "The building is half a century old,￥but some parts have been reinforced.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6236,
+   "budget": 9,
+   "en": "Where's the entrance?",
+   "src": "B250:6123",
+   "carry": "candidate_edit",
+   "en_candidate": "Entrance?",
+   "sim": 0.89,
+   "note": "re-adapted 2026-09-30: new PS1 long (label)"
+  },
+  {
+   "off": 6245,
+   "budget": 11,
+   "en": "In front.",
+   "src": "B250:6134",
+   "carry": "exact",
+   "long": "At the front."
+  },
+  {
+   "off": 6256,
+   "budget": 41,
+   "en": "The carving is eaten by acid rain.",
+   "src": "B250:6145",
+   "carry": "candidate_ok",
+   "en_candidate": "The carving is eaten by acid rain.",
+   "sim": 0.88,
+   "long": "Acid rain has eaten away the￥carvings on the surface."
+  },
+  {
+   "off": 6297,
+   "budget": 43,
+   "en": "These are definitely Snow Cedars.",
+   "src": "B250:6188",
+   "carry": "exact"
+  },
+  {
+   "off": 6340,
+   "budget": 49,
+   "en": "Hard to believe it breeds so in the￥city.",
+   "src": "B250:6231",
+   "carry": "rebroken",
+   "long": "I can't believe so many are growing￥in the city.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6389,
+   "budget": 75,
+   "en": "My scan shows the Tube Liner runs￥beneath us.",
+   "src": "B250:6278",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6464,
+   "budget": 33,
+   "en": "So... no mistake, then.",
+   "src": "B250:6351",
+   "carry": "exact",
+   "long": "As I thought. This must be the￥place."
+  },
+  {
+   "off": 6497,
+   "budget": 53,
+   "en": "Above ground there is nothing but￥this church.",
+   "src": "B250:6384",
+   "carry": "candidate_ok",
+   "en_candidate": "Above ground there is nothing but￥this church.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "The church seems to be the only￥structure above ground."
+  },
+  {
+   "off": 6550,
+   "budget": 9,
+   "en": "Motion",
+   "src": "B250:6433",
+   "carry": "exact",
+   "long": "Motion detector"
+  },
+  {
+   "off": 6559,
+   "budget": 5,
+   "en": "Hear",
+   "src": "B250:6442",
+   "carry": "exact",
+   "long": "Listen"
+  },
+  {
+   "off": 6564,
+   "budget": 25,
+   "en": "Only the wind.",
+   "src": "B250:6447",
+   "carry": "exact",
+   "long": "All I can hear is the wind."
+  },
+  {
+   "off": 6589,
+   "budget": 13,
+   "en": "Videophone",
+   "src": "B250:6472",
+   "carry": "exact"
+  },
+  {
+   "off": 6602,
+   "budget": 61,
+   "en": "Gillian, the Snow Cedar level here￥is too high to save.",
+   "carry": "new"
+  },
+  {
+   "off": 6663,
+   "budget": 15,
+   "en": "What?!",
+   "src": "B1F0:3065",
+   "carry": "exact",
+   "note": "from B1F0"
+  },
+  {
+   "off": 6678,
+   "budget": 29,
+   "en": "Let's go inside for now.",
+   "carry": "new"
+  },
+  {
+   "off": 6707,
+   "budget": 29,
+   "en": "Snow Cedar level too high.",
+   "carry": "new"
+  },
+  {
+   "off": 6736,
+   "budget": 25,
+   "en": "Let's enter the church.",
+   "carry": "new"
+  },
+  {
+   "off": 6761,
+   "budget": 27,
+   "en": "Gillian, running away?",
+   "src": "B250:6512",
+   "carry": "exact",
+   "long": "Are you running away, Gillian?"
+  },
+  {
+   "off": 6788,
+   "budget": 39,
+   "en": "What's wrong? Be brave.",
+   "src": "B250:6539",
+   "carry": "exact"
+  },
+  {
+   "off": 6827,
+   "budget": 37,
+   "en": "Where are you going, Gillian?",
+   "src": "B250:6578",
+   "carry": "exact"
+  },
+  {
+   "off": 6864,
+   "budget": 41,
+   "en": "So the videophone is no use here.",
+   "src": "B250:6615",
+   "carry": "exact",
+   "long": "As expected, the videophone won't￥work here."
+  },
+  {
+   "off": 6905,
+   "budget": 23,
+   "en": "No readings at all.",
+   "src": "B250:6656",
+   "carry": "exact"
+  },
+  {
+   "off": 6928,
+   "budget": 29,
+   "en": "Nothing unusual so far.",
+   "src": "B250:6679",
+   "carry": "exact"
+  },
+  {
+   "off": 6957,
+   "budget": 33,
+   "en": "Large motion readings... none.",
+   "src": "B250:6708",
+   "carry": "exact",
+   "long": "No significant movement detected."
+  },
+  {
+   "off": 6990,
+   "budget": 23,
+   "en": "I can't hear a sound.",
+   "src": "B250:6741",
+   "carry": "exact"
+  },
+  {
+   "off": 7013,
+   "budget": 37,
+   "en": "I hear nothing. It's quiet.",
+   "src": "B250:6764",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7050,
+   "budget": 29,
+   "en": "It's completely silent.",
+   "src": "B250:6799",
+   "carry": "exact"
+  },
+  {
+   "off": 7079,
+   "budget": 15,
+   "en": "This place...?",
+   "src": "B250:6828",
+   "carry": "exact",
+   "long": "What is this place?"
+  },
+  {
+   "off": 7094,
+   "budget": 35,
+   "en": "A chapel for the Snatchers?",
+   "src": "B250:6843",
+   "carry": "exact"
+  },
+  {
+   "off": 7129,
+   "budget": 39,
+   "en": "You think they pray? To what?",
+   "src": "B250:6878",
+   "carry": "exact"
+  },
+  {
+   "off": 7168,
+   "budget": 67,
+   "en": "See, a portrait hangs at the front.￥Do they pray to that man?",
+   "src": "B250:6917",
+   "carry": "rebroken",
+   "long": "Look. There's a portrait at the￥front. Do they pray to that man?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7235,
+   "budget": 9,
+   "en": "Go in",
+   "src": "B250:6982",
+   "carry": "exact",
+   "long": "Go further in"
+  },
+  {
+   "off": 7244,
+   "budget": 25,
+   "en": "Into the inner room...",
+   "src": "B250:6991",
+   "carry": "exact",
+   "long": "Let's enter the room at the back."
+  },
+  {
+   "off": 7269,
+   "budget": 7,
+   "en": "Portrt",
+   "src": "B250:7016",
+   "carry": "exact",
+   "long": "Portrait"
+  },
+  {
+   "off": 7276,
+   "budget": 53,
+   "en": "Is this the creator the Snatchers￥speak of?",
+   "src": "B250:7023",
+   "carry": "rebroken",
+   "long": "Could this be the creator the￥Snatchers spoke of?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7329,
+   "budget": 45,
+   "en": "Isn't that ＠黄Randam＠白?",
+   "src": "B250:7074",
+   "carry": "exact"
+  },
+  {
+   "off": 7374,
+   "budget": 51,
+   "en": "Wait. I'll compare the portrait with￥our data.",
+   "src": "B250:7119",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7425,
+   "budget": 91,
+   "en": "The frame ratios do match Randam's￥own data, but it's no photograph, so￥I can't be sure.",
+   "src": "B250:7168",
+   "carry": "exact",
+   "long": "The bone proportions and other￥features match Randam's, but it's a￥painting, so I can't be certain."
+  },
+  {
+   "off": 7516,
+   "budget": 29,
+   "en": "That's no chance likeness...",
+   "src": "B250:7259",
+   "carry": "exact",
+   "long": "That's too close to be a￥coincidence."
+  },
+  {
+   "off": 7545,
+   "budget": 51,
+   "en": "Come to think...￥it looks like Randam Hajile.",
+   "src": "B250:7288",
+   "carry": "exact",
+   "long": "Now that you mention it, he does￥look like Randam Hajile."
+  },
+  {
+   "off": 7596,
+   "budget": 5,
+   "en": "Seat",
+   "src": "B250:7339",
+   "carry": "exact",
+   "long": "Chair"
+  },
+  {
+   "off": 7601,
+   "budget": 27,
+   "en": "Seats for worshippers.",
+   "src": "B250:7344",
+   "carry": "exact",
+   "long": "These must be seats for worshippers."
+  },
+  {
+   "off": 7628,
+   "budget": 55,
+   "en": "There's no dust on them. They seem￥to be used often.",
+   "src": "B250:7371",
+   "carry": "exact"
+  },
+  {
+   "off": 7683,
+   "budget": 21,
+   "en": "Tidy place...",
+   "src": "B250:7426",
+   "carry": "exact"
+  },
+  {
+   "off": 7704,
+   "budget": 41,
+   "en": "The old USSR before its fall,￥rebuilt.",
+   "src": "B250:7447",
+   "carry": "candidate_ok",
+   "en_candidate": "The old USSR before its fall,￥rebuilt.",
+   "sim": 0.93,
+   "long": "It looks like a recreation of the￥Soviet Union before its collapse."
+  },
+  {
+   "off": 7745,
+   "budget": 29,
+   "en": "Not church ornament.",
+   "src": "B250:7490",
+   "carry": "exact",
+   "long": "These don't look like church￥decorations."
+  },
+  {
+   "off": 7774,
+   "budget": 47,
+   "en": "It's labeled ＠赤Madnar, Our Creator＠白.",
+   "src": "B250:7519",
+   "carry": "candidate_edit",
+   "en_candidate": "The picture reads ＠赤'Creator Madnar'＠白.",
+   "sim": 0.96,
+   "note": "part of the PS1 line; re-adapted 2026-09-30: fragment of B250:7519 (no 絵に)"
+  },
+  {
+   "off": 7821,
+   "budget": 25,
+   "en": "That's Dr. Madnar?",
+   "src": "B250:7570",
+   "carry": "exact"
+  },
+  {
+   "off": 7846,
+   "budget": 29,
+   "en": "The one they spoke of?",
+   "src": "B250:7595",
+   "carry": "exact",
+   "long": "The one the Snatchers mentioned?"
+  },
+  {
+   "off": 7875,
+   "budget": 35,
+   "en": "A portrait of that man...",
+   "src": "B250:7624",
+   "carry": "exact",
+   "long": "It appears to be a portrait of him."
+  },
+  {
+   "off": 7910,
+   "budget": 91,
+   "en": "Judging by the paint and canvas, it￥was painted about half a century￥ago.",
+   "src": "B250:7659",
+   "carry": "candidate_ok",
+   "en_candidate": "Judging by the paint and canvas, it￥was painted about half a century￥ago.",
+   "sim": 0.95
+  },
+  {
+   "off": 8001,
+   "budget": 79,
+   "en": "There are many scratches on the￥surface. Could they be from￥Snatchers?",
+   "src": "B250:7742",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8080,
+   "budget": 59,
+   "en": "Something very heavy stood on it.￥Quite worn.",
+   "src": "B250:7819",
+   "carry": "rebroken",
+   "long": "It must have held something very￥heavy. It's badly worn.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8139,
+   "budget": 69,
+   "en": "Oddly tidy, with no human feel. Oh,￥a room lies beyond.",
+   "src": "B250:7876",
+   "carry": "rebroken",
+   "long": "It's so orderly it doesn't feel￥human. Oh, there's a room at the￥back.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8208,
+   "budget": 49,
+   "en": "Not a speck of dust. It's too clean.",
+   "src": "B250:7943",
+   "carry": "exact"
+  },
+  {
+   "off": 8257,
+   "budget": 33,
+   "en": "They... all out at the summit?",
+   "src": "B250:7992",
+   "carry": "exact",
+   "long": "Have they all gone to the summit?"
+  },
+  {
+   "off": 8290,
+   "budget": 17,
+   "en": "What is this?",
+   "src": "B250:8025",
+   "carry": "exact",
+   "long": "What is this place?"
+  },
+  {
+   "off": 8307,
+   "budget": 57,
+   "en": "＠赤Insectors! Use your Blaster!＠Ｃ",
+   "src": "B250:8042",
+   "carry": "exact"
+  },
+  {
+   "off": 8364,
+   "budget": 13,
+   "en": "Here!　＠Ｃ",
+   "src": "B250:8099",
+   "carry": "exact",
+   "long": "Here they come!＠Ｃ"
+  },
+  {
+   "off": 8377,
+   "budget": 29,
+   "en": "All right this time?　　＠Ｃ",
+   "src": "B250:8112",
+   "carry": "exact",
+   "long": "Can you handle them this time?＠Ｃ"
+  },
+  {
+   "off": 8406,
+   "budget": 15,
+   "en": "Leave it!＠Ｃ",
+   "src": "B250:8141",
+   "carry": "exact",
+   "long": "Leave it to me!＠Ｃ"
+  },
+  {
+   "off": 8421,
+   "budget": 35,
+   "en": "Surely all right this time?　＠Ｃ",
+   "src": "B250:8156",
+   "carry": "exact",
+   "long": "Are you sure you can handle them￥this time?＠Ｃ"
+  },
+  {
+   "off": 8456,
+   "budget": 17,
+   "en": "Shut up!＠Ｃ",
+   "src": "B250:8191",
+   "carry": "exact"
+  },
+  {
+   "off": 8473,
+   "budget": 29,
+   "en": "No more movement detected.",
+   "src": "B250:8208",
+   "carry": "exact"
+  },
+  {
+   "off": 8502,
+   "budget": 55,
+   "en": "There's no doubt Snatchers are￥hiding here.",
+   "src": "B250:8237",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8557,
+   "budget": 57,
+   "en": "Aye, and that many of them.￥This must be a major base.",
+   "src": "B250:8290",
+   "carry": "exact",
+   "long": "Yeah. With that many guards, this￥must be an important base."
+  },
+  {
+   "off": 8614,
+   "budget": 21,
+   "en": "Let's go carefully.",
+   "src": "B250:8347",
+   "carry": "exact",
+   "long": "Let's proceed carefully."
+  },
+  {
+   "off": 8635,
+   "budget": 25,
+   "en": "Snatchers!",
+   "src": "B250:8368",
+   "carry": "exact"
+  },
+  {
+   "off": 8660,
+   "budget": 19,
+   "en": "So many!",
+   "src": "B250:8393",
+   "carry": "exact"
+  },
+  {
+   "off": 8679,
+   "budget": 73,
+   "en": "No energy readings. They're all￥inactive, in storage.",
+   "src": "B250:8412",
+   "carry": "exact"
+  },
+  {
+   "off": 8752,
+   "budget": 23,
+   "en": "Their storeroom?",
+   "src": "B250:8485",
+   "carry": "exact",
+   "long": "Is this their storage facility?"
+  },
+  {
+   "off": 8775,
+   "budget": 51,
+   "en": "Hundreds, it seems.￥They stretch far back.",
+   "src": "B250:8508",
+   "carry": "rebroken",
+   "long": "There must be hundreds. They go all￥the way to the back.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8826,
+   "budget": 45,
+   "en": "But this doesn't look like a￥factory.",
+   "src": "B250:8557",
+   "carry": "exact"
+  },
+  {
+   "off": 8871,
+   "budget": 41,
+   "en": "Ready? Let's move into the next￥room.",
+   "src": "B250:8602",
+   "carry": "exact"
+  },
+  {
+   "off": 8912,
+   "budget": 13,
+   "en": "Snatchers",
+   "src": "B250:8643",
+   "carry": "exact"
+  },
+  {
+   "off": 8925,
+   "budget": 107,
+   "en": "Endoskeletons, before the skin goes￥on. The frames are shrunk to least￥size at the slits.",
+   "src": "B250:8656",
+   "carry": "exact",
+   "long": "They're endoskeletons without￥artificial skin. The adjustable￥slots in their frames are contracted￥to the smallest size."
+  },
+  {
+   "off": 9032,
+   "budget": 77,
+   "en": "They haven't chosen their victims￥yet. Waiting their turn to snatch￥someone?",
+   "src": "B250:8763",
+   "carry": "candidate_ok",
+   "en_candidate": "They haven't chosen their victims￥yet. Waiting their turn to snatch￥someone?",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 9109,
+   "budget": 89,
+   "en": "They look ready to move.￥If this many moved at once, nothing￥could be done.",
+   "src": "B250:8844",
+   "carry": "rebroken",
+   "long": "They look ready to move at any￥moment. If they all started at once,￥we'd be helpless.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9198,
+   "budget": 49,
+   "en": "Containers are stacked at the back.",
+   "src": "B250:8931",
+   "carry": "rebroken",
+   "long": "There are several containers stacked￥at the back.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9247,
+   "budget": 35,
+   "en": "Nothing but containers here.",
+   "src": "B250:8978",
+   "carry": "exact",
+   "long": "There's nothing else here besides￥the containers."
+  },
+  {
+   "off": 9282,
+   "budget": 25,
+   "en": "Letters on the floor.",
+   "src": "B250:9013",
+   "carry": "exact",
+   "long": "There's writing on the floor."
+  },
+  {
+   "off": 9307,
+   "budget": 23,
+   "en": "Russian letters.",
+   "src": "B250:9038",
+   "carry": "exact",
+   "long": "It appears to be Russian."
+  },
+  {
+   "off": 9330,
+   "budget": 9,
+   "en": "Crate",
+   "src": "B250:9061",
+   "carry": "exact",
+   "long": "Container"
+  },
+  {
+   "off": 9339,
+   "budget": 15,
+   "en": "This size?",
+   "src": "B250:9070",
+   "carry": "exact",
+   "long": "What about the size?"
+  },
+  {
+   "off": 9354,
+   "budget": 89,
+   "en": "By its volume, this container surely￥carried the Snatchers here.",
+   "src": "B250:9085",
+   "carry": "candidate_ok",
+   "en_candidate": "By its volume, this container surely￥carried the Snatchers here.",
+   "sim": 0.99,
+   "long": "Judging by their capacity, these￥containers must have brought the￥Snatchers here."
+  },
+  {
+   "off": 9443,
+   "budget": 71,
+   "en": "All these endoskeletons arrived in￥those containers.",
+   "src": "B250:9168",
+   "carry": "exact"
+  },
+  {
+   "off": 9514,
+   "budget": 67,
+   "en": "Nothing is broken. They only need￥power to function.",
+   "src": "B250:9239",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9581,
+   "budget": 49,
+   "en": "They haven't had sex units installed￥yet.",
+   "src": "B250:9304",
+   "carry": "candidate_ok",
+   "en_candidate": "They haven't had sex units installed￥yet.",
+   "sim": 0.89
+  },
+  {
+   "off": 9630,
+   "budget": 63,
+   "en": "Well kept, too. Maintained￥regularly, it seems.",
+   "src": "B250:9347",
+   "carry": "rebroken",
+   "long": "They're well preserved. They seem to￥receive regular maintenance.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9693,
+   "budget": 95,
+   "en": "No maintenance gear or tools to be￥seen. This is only a Snatcher store.",
+   "src": "B250:9408",
+   "carry": "candidate_ok",
+   "en_candidate": "No maintenance gear or tools to be￥seen. This is only a Snatcher store.",
+   "sim": 0.97,
+   "long": "I see no maintenance equipment or￥tools. This seems to be only a￥Snatcher storage facility."
+  },
+  {
+   "off": 9788,
+   "budget": 47,
+   "en": "Unlike the chapel, it's dusty in￥here.",
+   "src": "B250:9497",
+   "carry": "candidate_ok",
+   "en_candidate": "Unlike the chapel, it's dusty in￥here.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 9835,
+   "budget": 33,
+   "en": "There's a label on it.",
+   "src": "B250:9540",
+   "carry": "exact"
+  },
+  {
+   "off": 9868,
+   "budget": 41,
+   "en": "＠黄Nineteenth Siberian Expedition＠白.",
+   "src": "B250:9573",
+   "carry": "exact"
+  },
+  {
+   "off": 9909,
+   "budget": 31,
+   "en": "＠黄Siberia Survey Team＠白?",
+   "src": "B250:9614",
+   "carry": "exact",
+   "long": "The ＠黄Siberian expedition＠白?"
+  },
+  {
+   "off": 9940,
+   "budget": 45,
+   "en": "So, from the neutral zone to this￥city...",
+   "src": "B250:9645",
+   "carry": "exact",
+   "long": "It looks like they came from the￥neutral zone to this city."
+  },
+  {
+   "off": 9985,
+   "budget": 47,
+   "en": "The expedition teams appear to be￥transporting Snatchers.",
+   "src": "B250:9690",
+   "carry": "candidate_ok",
+   "en_candidate": "The survey team carries the￥Snatchers.",
+   "sim": 0.98,
+   "note": "the PS1 line is part of this one; re-adapted 2026-09-30: new PS1 long"
+  },
+  {
+   "off": 10032,
+   "budget": 75,
+   "en": "So, as with us, the survey team is￥being snatched.",
+   "src": "B250:9733",
+   "carry": "rebroken",
+   "long": "So the team members are being￥snatched, just like when we were￥rescued.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10107,
+   "budget": 93,
+   "en": "No doubt the Siberia team brought￥them. Soil peculiar to that region￥clings to it.",
+   "src": "B250:9806",
+   "carry": "rebroken",
+   "long": "The Siberian expedition definitely￥brought them here. They're covered￥in contaminated soil unique to that￥region.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10200,
+   "budget": 77,
+   "en": "I see. The Siberian expeditions￥bring Snatchers here to be stored.",
+   "src": "B250:9897",
+   "carry": "exact"
+  },
+  {
+   "off": 10277,
+   "budget": 83,
+   "en": "So it seems.￥Here they wait their turn to snatch,￥kept idle till then.",
+   "src": "B250:9974",
+   "carry": "rebroken",
+   "long": "Apparently. They wait here for their￥turn to snatch someone, kept￥inactive until then.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10360,
+   "budget": 57,
+   "en": "Efficient. But where do they do the￥snatching?",
+   "src": "B250:10055",
+   "carry": "exact"
+  },
+  {
+   "off": 10417,
+   "budget": 33,
+   "en": "Maybe we'll find out further in.",
+   "src": "B250:10112",
+   "carry": "exact"
+  },
+  {
+   "off": 10450,
+   "budget": 35,
+   "en": "A Snatcher cultivation room.",
+   "src": "B250:10145",
+   "carry": "exact"
+  },
+  {
+   "off": 10485,
+   "budget": 27,
+   "en": "The equipment is running.",
+   "src": "B250:10180",
+   "carry": "exact"
+  },
+  {
+   "off": 10512,
+   "budget": 11,
+   "en": "Cylinder",
+   "src": "B250:10207",
+   "carry": "exact"
+  },
+  {
+   "off": 10523,
+   "budget": 69,
+   "en": "Gillian, within you can see the skin￥being laid on a Snatcher.",
+   "src": "B250:10218",
+   "carry": "candidate_ok",
+   "en_candidate": "Gillian, within you can see the skin￥being laid on a Snatcher.",
+   "sim": 0.97,
+   "long": "Gillian, you can see artificial skin￥being applied to the Snatchers￥inside."
+  },
+  {
+   "off": 10592,
+   "budget": 49,
+   "en": "A Snatcher in the snatch process is￥inside.",
+   "src": "B250:10287",
+   "carry": "rebroken",
+   "long": "There are Snatchers inside,￥undergoing the snatching process.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10641,
+   "budget": 13,
+   "en": "Snatch proc",
+   "src": "B250:10334",
+   "carry": "exact",
+   "long": "Snatch process"
+  },
+  {
+   "off": 10654,
+   "budget": 65,
+   "en": "Each cylinder has a computer￥terminal attached.",
+   "src": "B250:10347",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10719,
+   "budget": 77,
+   "en": "Tubes and cables run everywhere.￥Watch your step.",
+   "src": "B250:10410",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 10796,
+   "budget": 3,
+   "en": "Dr",
+   "src": "B250:10483",
+   "carry": "exact",
+   "long": "Door"
+  },
+  {
+   "off": 10799,
+   "budget": 37,
+   "en": "It's a small iron door with a knob.",
+   "src": "B250:10486",
+   "carry": "exact"
+  },
+  {
+   "off": 10836,
+   "budget": 31,
+   "en": "A room lies beyond this.",
+   "src": "B250:10523",
+   "carry": "exact",
+   "long": "There must be a room beyond it."
+  },
+  {
+   "off": 10867,
+   "budget": 5,
+   "en": "Term",
+   "src": "B250:10554",
+   "carry": "exact",
+   "long": "Terminal"
+  },
+  {
+   "off": 10872,
+   "budget": 93,
+   "en": "A terminal linked to the host￥computer. It runs the cylinders too,￥it seems.",
+   "src": "B250:10559",
+   "carry": "exact",
+   "long": "This terminal is probably connected￥to a host computer. It also seems to￥control the cylinder."
+  },
+  {
+   "off": 10965,
+   "budget": 55,
+   "en": "Data, charts and figures show on the￥monitor.",
+   "src": "B250:10652",
+   "carry": "exact",
+   "long": "The monitor displays various data,￥diagrams and shapes."
+  },
+  {
+   "off": 11020,
+   "budget": 93,
+   "en": "It's a cylinder for growing￥artificial skin. You can see an￥endoskeleton submerged inside.",
+   "src": "B250:10707",
+   "carry": "candidate_edit",
+   "en_candidate": "A cylinder for culturing the skin.￥An endoskeleton soaks within.",
+   "sim": 0.94,
+   "note": "re-adapted 2026-09-30: new PS1 long + 見える"
+  },
+  {
+   "off": 11113,
+   "budget": 69,
+   "en": "It's made of thick, reinforced￥glass. It won't break easily.",
+   "src": "B250:10790",
+   "carry": "exact"
+  },
+  {
+   "off": 11182,
+   "budget": 5,
+   "en": "Roof",
+   "src": "B250:10859",
+   "carry": "exact"
+  },
+  {
+   "off": 11187,
+   "budget": 41,
+   "en": "Weak ultraviolet is cast from above.",
+   "src": "B250:10864",
+   "carry": "exact",
+   "long": "Weak ultraviolet light appears to￥shine down from above."
+  },
+  {
+   "off": 11228,
+   "budget": 45,
+   "en": "Serious... a cut above￥Queen Hospital.",
+   "src": "B250:10905",
+   "carry": "rebroken",
+   "long": "A serious operation. Queen Hospital￥had nothing like this.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11273,
+   "budget": 65,
+   "en": "The entire room is a clean room.￥There's a door at the back.",
+   "src": "B250:10948",
+   "carry": "candidate_ok",
+   "en_candidate": "The entire room is a clean room.￥There's a door at the back.",
+   "sim": 0.98
+  },
+  {
+   "off": 11338,
+   "budget": 67,
+   "en": "Fine gear. It surprises me they have￥so much.",
+   "src": "B250:11017",
+   "carry": "candidate_ok",
+   "en_candidate": "Fine gear. It surprises me they have￥so much.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "Remarkable equipment. I'm surprised￥they managed to assemble all this."
+  },
+  {
+   "off": 11405,
+   "budget": 31,
+   "en": "Where do they get the money?",
+   "src": "B250:11078",
+   "carry": "exact"
+  },
+  {
+   "off": 11436,
+   "budget": 61,
+   "en": "Snatchers are likely sent into the￥money sources too.",
+   "src": "B250:11109",
+   "carry": "rebroken",
+   "long": "They've probably placed Snatchers￥wherever they get their funding,￥too.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11497,
+   "budget": 53,
+   "en": "It's locked, but we can open it from￥this side.",
+   "src": "B250:11168",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11550,
+   "budget": 49,
+   "en": "It seems it cannot be opened from￥within.",
+   "src": "B250:11219",
+   "carry": "rebroken",
+   "long": "It seems designed so it can't be￥opened from inside.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11599,
+   "budget": 89,
+   "en": "The power is on. Look! It contains￥data on the people they're going to￥snatch.",
+   "src": "B250:11266",
+   "carry": "candidate_ok",
+   "en_candidate": "The power is on. Look! It contains￥data on the people they're going to￥snatch.",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 11688,
+   "budget": 51,
+   "en": "From this data the skin is￥reproduced, it seems.",
+   "src": "B250:11355",
+   "carry": "exact",
+   "long": "They appear to use this data to￥reproduce the victims' skin."
+  },
+  {
+   "off": 11739,
+   "budget": 41,
+   "en": "Nothing but bubbling in the￥cylinders.",
+   "src": "B250:11406",
+   "carry": "exact",
+   "long": "All I can hear is bubbling from the￥cylinders."
+  },
+  {
+   "off": 11780,
+   "budget": 57,
+   "en": "For now, only the steady sounds of￥the gear here.",
+   "src": "B250:11447",
+   "carry": "exact",
+   "long": "So far, all I hear is the steady￥sound of the equipment."
+  },
+  {
+   "off": 11837,
+   "budget": 37,
+   "en": "This may be our last chance to save.",
+   "src": "B250:11504",
+   "carry": "exact"
+  },
+  {
+   "off": 11874,
+   "budget": 55,
+   "en": "The signal won't hold. No sending￥from this area.",
+   "src": "B250:11541",
+   "carry": "rebroken",
+   "long": "The signal is unstable. We can't￥transmit from this area.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11929,
+   "budget": 17,
+   "en": "Snow Cedar?",
+   "src": "B250:11594",
+   "carry": "exact"
+  },
+  {
+   "off": 11946,
+   "budget": 35,
+   "en": "Snow Cedar is extremely dense.",
+   "src": "B250:11611",
+   "carry": "exact",
+   "long": "The Snow Cedar pollen concentration￥is extremely high."
+  },
+  {
+   "off": 11981,
+   "budget": 25,
+   "en": "No calling for backup.",
+   "src": "B250:11646",
+   "carry": "exact",
+   "long": "We can't call for help, then."
+  },
+  {
+   "off": 12006,
+   "budget": 21,
+   "en": "That's right.",
+   "src": "B250:11671",
+   "carry": "exact"
+  },
+  {
+   "off": 12027,
+   "budget": 49,
+   "en": "But how did Jamie's videophone reach￥us?",
+   "src": "B250:11692",
+   "carry": "rebroken",
+   "long": "Then how did Jamie's videophone call￥get through?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12076,
+   "budget": 57,
+   "en": "By a large high-output transmitter,￥likely.",
+   "src": "B250:11739",
+   "carry": "rebroken",
+   "long": "They probably used a large,￥high-powered transmitter.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12133,
+   "budget": 39,
+   "en": "No sending at all from this area.",
+   "src": "B250:11794",
+   "carry": "candidate_ok",
+   "en_candidate": "No sending at all from this area.",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing",
+   "long": "We can't transmit anything from this￥area."
+  },
+  {
+   "off": 12172,
+   "budget": 53,
+   "en": "Snow Cedar is too dense for the￥videophone.",
+   "src": "B250:11835",
+   "carry": "exact",
+   "long": "The Snow Cedar pollen is too dense￥for the videophone to work."
+  },
+  {
+   "off": 12225,
+   "budget": 37,
+   "en": "Huh? Another room?＠Ｃ",
+   "src": "B250:11888",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12262,
+   "budget": 11,
+   "en": "Huh!＠Ｃ",
+   "src": "B250:11923",
+   "carry": "exact"
+  },
+  {
+   "off": 12273,
+   "budget": 25,
+   "en": "Whew. Did we get them?",
+   "src": "B250:11934",
+   "carry": "exact"
+  },
+  {
+   "off": 12298,
+   "budget": 33,
+   "en": "They don't let us pass easily.",
+   "src": "B250:11959",
+   "carry": "exact",
+   "long": "They're not letting us through￥easily."
+  },
+  {
+   "off": 12331,
+   "budget": 11,
+   "en": "Next door.",
+   "src": "B250:11992",
+   "carry": "exact",
+   "long": "The next door."
+  },
+  {
+   "off": 12342,
+   "budget": 13,
+   "en": "Continue",
+   "src": "B250:12003",
+   "carry": "exact"
+  },
+  {
+   "off": 12355,
+   "budget": 13,
+   "en": "Quit game",
+   "src": "B250:12016",
+   "carry": "exact"
+  },
+  {
+   "off": 12370,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

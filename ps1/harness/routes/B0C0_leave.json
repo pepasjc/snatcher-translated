@@ -1,0 +1,30 @@
+{
+ "scene": "B0C0",
+ "note": "From the B0C0_garden bookmark: back through the study to the living room and out (Move > Go out) for the goodbye lines (BUG-027: M000 ch0 f50-52).",
+ "actions": [
+  {
+   "path": [
+    "Back to study"
+   ],
+   "why": "back inside"
+  },
+  {
+   "path": [
+    "Move",
+    "Living room"
+   ],
+   "why": "the living room"
+  },
+  {
+   "path": [
+    "Move",
+    "Go out"
+   ],
+   "why": "leaving the house"
+  },
+  {
+   "idle": 1500,
+   "why": "the goodbye"
+  }
+ ]
+}

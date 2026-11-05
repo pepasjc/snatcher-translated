@@ -1,0 +1,688 @@
+{
+ "file": "DATA.BIN[52]",
+ "entry": 52,
+ "text_base": 2165,
+ "twins": [
+  "B1F0"
+ ],
+ "strings": [
+  {
+   "off": 2165,
+   "budget": 3,
+   "en": "",
+   "src": "B1F0:2115",
+   "carry": "exact"
+  },
+  {
+   "off": 2168,
+   "budget": 2,
+   "en": "",
+   "src": "B1F0:2118",
+   "carry": "exact"
+  },
+  {
+   "off": 2170,
+   "budget": 19,
+   "en": "Put your feet out",
+   "src": "B1F0:2120",
+   "carry": "exact"
+  },
+  {
+   "off": 2189,
+   "budget": 51,
+   "en": "We're in the Tricycle. Where shall￥we go?",
+   "src": "B1F0:2139",
+   "carry": "exact"
+  },
+  {
+   "off": 2240,
+   "budget": 11,
+   "en": "Get out",
+   "src": "B1F0:2190",
+   "carry": "exact",
+   "long": "Exit Tricycle"
+  },
+  {
+   "off": 2251,
+   "budget": 37,
+   "en": "Let's search headquarters again.",
+   "src": "B1F0:2201",
+   "carry": "exact"
+  },
+  {
+   "off": 2288,
+   "budget": 11,
+   "en": "Gillian's",
+   "src": "B1F0:2238",
+   "carry": "exact",
+   "long": "Gillian's home"
+  },
+  {
+   "off": 2299,
+   "budget": 23,
+   "en": "Stop at my place.",
+   "src": "B1F0:2249",
+   "carry": "exact",
+   "long": "Let's stop by my place."
+  },
+  {
+   "off": 2322,
+   "budget": 13,
+   "en": "Altamira",
+   "src": "B1F0:2272",
+   "carry": "exact"
+  },
+  {
+   "off": 2335,
+   "budget": 33,
+   "en": "Let's stop at Altamira first.",
+   "src": "B1F0:2285",
+   "carry": "exact"
+  },
+  {
+   "off": 2368,
+   "budget": 13,
+   "en": "Queen Hosp",
+   "src": "B1F0:2318",
+   "carry": "exact",
+   "long": "Queen Hospital"
+  },
+  {
+   "off": 2381,
+   "budget": 35,
+   "en": "Heading to Queen Hospital.",
+   "src": "B1F0:2331",
+   "carry": "exact"
+  },
+  {
+   "off": 2416,
+   "budget": 63,
+   "en": "Gillian, where are you going!￥Hurry to Queen Hospital!!",
+   "src": "B1F0:2366",
+   "carry": "exact",
+   "long": "Where are you going, Gillian? We￥need to hurry to Queen Hospital!"
+  },
+  {
+   "off": 2479,
+   "budget": 41,
+   "en": "It's too late to get cold feet now!",
+   "src": "B1F0:2429",
+   "carry": "exact"
+  },
+  {
+   "off": 2520,
+   "budget": 47,
+   "en": "Let's head for the Snatchers' base!",
+   "src": "B1F0:2470",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 2567,
+   "budget": 69,
+   "en": "There's no time, Gillian! Let's go￥straight to Queen Hospital.",
+   "src": "B1F0:2515",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 2636,
+   "budget": 29,
+   "en": "It's no good! It's over!",
+   "src": "B1F0:2582",
+   "carry": "candidate_ok",
+   "en_candidate": "It's no good! It's over!",
+   "sim": 0.96,
+   "note": "differs only in punctuation/spacing",
+   "long": "It's hopeless! We're finished!"
+  },
+  {
+   "off": 2665,
+   "budget": 53,
+   "en": "Don't give up yet! There has to be a￥way out!",
+   "src": "B1F0:2611",
+   "carry": "exact"
+  },
+  {
+   "off": 2718,
+   "budget": 25,
+   "en": "What will you do?",
+   "src": "B1F0:2664",
+   "carry": "exact",
+   "long": "What are you going to do?"
+  },
+  {
+   "off": 2743,
+   "budget": 45,
+   "en": "No good! Gillian!￥A short while, but...",
+   "src": "B1F0:2689",
+   "carry": "candidate_ok",
+   "en_candidate": "No good! Gillian!￥A short while, but...",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "It's no use, Gillian! We haven't￥known each other long, but"
+  },
+  {
+   "off": 2788,
+   "budget": 31,
+   "en": "Quiet! There must be a way!",
+   "src": "B1F0:2734",
+   "carry": "candidate_ok",
+   "en_candidate": "Quiet! There must be a way!",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing",
+   "long": "Shut up! There has to be a way!"
+  },
+  {
+   "off": 2819,
+   "budget": 73,
+   "en": "Impossible.￥We're at 250 kph...￥There's no surviving it!",
+   "src": "B1F0:2765",
+   "carry": "exact",
+   "long": "Impossible! We're going over 250￥kilometers an hour. We can't survive￥this!"
+  },
+  {
+   "off": 2892,
+   "budget": 31,
+   "en": "Damn! Faster and faster.",
+   "src": "B1F0:2838",
+   "carry": "candidate_ok",
+   "en_candidate": "Damn! Faster and faster.",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing",
+   "long": "Damn it! We're going faster and￥faster!"
+  },
+  {
+   "off": 2923,
+   "budget": 45,
+   "en": "It won't stop!￥I'm out of ideas...!",
+   "src": "B1F0:2869",
+   "carry": "candidate_ok",
+   "en_candidate": "It won't stop!￥I'm out of ideas...!",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "I can't stop! I can't take this! I￥don't know anymore!"
+  },
+  {
+   "off": 2968,
+   "budget": 31,
+   "en": "Is this it? Jamie!",
+   "src": "B1F0:2914",
+   "carry": "candidate_ok",
+   "en_candidate": "Is this it? Jamie!",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 2999,
+   "budget": 37,
+   "en": "I'll do anything to stay alive!",
+   "src": "B1F0:2945",
+   "carry": "exact"
+  },
+  {
+   "off": 3036,
+   "budget": 11,
+   "en": "Jump off",
+   "src": "B1F0:2982",
+   "carry": "exact"
+  },
+  {
+   "off": 3047,
+   "budget": 23,
+   "en": "That won't work now.",
+   "src": "B1F0:2993",
+   "carry": "exact"
+  },
+  {
+   "off": 3070,
+   "budget": 49,
+   "en": "No good!￥The door is rigged and won't open!",
+   "src": "B1F0:3016",
+   "carry": "exact",
+   "long": "No! The door's been tampered with￥too. It won't open!"
+  },
+  {
+   "off": 3119,
+   "budget": 15,
+   "en": "What?!",
+   "src": "B1F0:3065",
+   "carry": "exact"
+  },
+  {
+   "off": 3134,
+   "budget": 75,
+   "en": "Even if it opened, we'd be torn￥apart at this speed!",
+   "src": "B1F0:3080",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3209,
+   "budget": 53,
+   "en": "Blast the lock and the door￥should open!",
+   "src": "B1F0:3153",
+   "carry": "exact",
+   "long": "If I shoot the lock with my Blaster,￥the door should open!"
+  },
+  {
+   "off": 3262,
+   "budget": 59,
+   "en": "Open or not, jumping at this￥speed is certain death!!",
+   "src": "B1F0:3206",
+   "carry": "exact",
+   "long": "Even if it opens, jumping out at￥this speed would kill you!"
+  },
+  {
+   "off": 3321,
+   "budget": 51,
+   "en": "Breaking the door only adds￥danger!!",
+   "src": "B1F0:3265",
+   "carry": "rebroken",
+   "long": "Destroying the door will only make￥things more dangerous!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3372,
+   "budget": 83,
+   "en": "Don't do anything reckless! That's￥really taking a leap of faith!",
+   "src": "B1F0:3314",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3455,
+   "budget": 25,
+   "en": "Am I using it wrong?",
+   "src": "B1F0:3395",
+   "carry": "exact",
+   "long": "Isn't that the wrong expression?"
+  },
+  {
+   "off": 3480,
+   "budget": 9,
+   "en": "Glide",
+   "src": "B1F0:3420",
+   "carry": "exact"
+  },
+  {
+   "off": 3489,
+   "budget": 69,
+   "en": "No good.￥Past 80 kph the safety trips￥and we can't lift off.",
+   "src": "B1F0:3429",
+   "carry": "rebroken",
+   "long": "No. The safety system prevents￥takeoff above 80 kilometers an hour.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3558,
+   "budget": 53,
+   "en": "What! Some safety!￥Sticking useless junk on it!",
+   "src": "B1F0:3496",
+   "carry": "rebroken",
+   "long": "What? Some safety system! Why'd they￥put that damn thing in?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3611,
+   "budget": 49,
+   "en": "Releasing the safety needs￥a special tool!",
+   "src": "B1F0:3547",
+   "carry": "rebroken",
+   "long": "We need special tools to disable the￥safety system!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3660,
+   "budget": 25,
+   "en": "No tool, so it's no go.",
+   "src": "B1F0:3594",
+   "carry": "exact",
+   "long": "We can't without the tools."
+  },
+  {
+   "off": 3685,
+   "budget": 51,
+   "en": "Why didn't you bring the tools,￥＠赤idiot?!",
+   "src": "B1F0:3619",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3736,
+   "budget": 55,
+   "en": "The one saying fool is a fool!￥Gillian, ＠赤fool!",
+   "src": "B1F0:3668",
+   "carry": "exact",
+   "long": "Takes one to know one! You're the￥＠赤idiot, Gillian!"
+  },
+  {
+   "off": 3791,
+   "budget": 7,
+   "en": "Quit",
+   "src": "B1F0:3723",
+   "carry": "exact",
+   "long": "Give up"
+  },
+  {
+   "off": 3798,
+   "budget": 29,
+   "en": "What? You're giving up?",
+   "src": "B1F0:3730",
+   "carry": "candidate_ok",
+   "en_candidate": "What? You're giving up?",
+   "sim": 0.96,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 3827,
+   "budget": 59,
+   "en": "Gillian's given up! We're doomed!",
+   "src": "B1F0:3759",
+   "carry": "candidate_ok",
+   "en_candidate": "Gillian's given up! We're doomed!",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 3886,
+   "budget": 57,
+   "en": "Shut up, will you? All right, I'll￥do something!",
+   "src": "B1F0:3818",
+   "carry": "exact"
+  },
+  {
+   "off": 3943,
+   "budget": 17,
+   "en": "Pull the lever",
+   "src": "B1F0:3875",
+   "carry": "exact"
+  },
+  {
+   "off": 3960,
+   "budget": 37,
+   "en": "Metal! Pull that lever!",
+   "src": "B1F0:3892",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3997,
+   "budget": 19,
+   "en": "Right! Pulling it!",
+   "src": "B1F0:3927",
+   "carry": "exact"
+  },
+  {
+   "off": 4016,
+   "budget": 27,
+   "en": "It came off.",
+   "src": "B1F0:3946",
+   "carry": "exact"
+  },
+  {
+   "off": 4043,
+   "budget": 25,
+   "en": "Oh, give me a break!",
+   "src": "B1F0:3973",
+   "carry": "exact",
+   "long": "You've got to be kidding me!"
+  },
+  {
+   "off": 4068,
+   "budget": 11,
+   "en": "Hit wall",
+   "src": "B1F0:3998",
+   "carry": "exact"
+  },
+  {
+   "off": 4079,
+   "budget": 47,
+   "en": "Right! We hit the wall!￥Metal, hold on!",
+   "src": "B1F0:4009",
+   "carry": "candidate_ok",
+   "en_candidate": "Right! We hit the wall!￥Metal, hold on!",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "All right! I'm hitting the wall!￥Hold on, Metal!"
+  },
+  {
+   "off": 4126,
+   "budget": 45,
+   "en": "I'll hit the wall again! Here goes!",
+   "src": "B1F0:4056",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4171,
+   "budget": 15,
+   "en": "Aaaah!",
+   "src": "B1F0:4099",
+   "carry": "exact"
+  },
+  {
+   "off": 4186,
+   "budget": 43,
+   "en": "No good!￥We'll break up before we stop!",
+   "src": "B1F0:4114",
+   "carry": "exact",
+   "long": "No good! We'll fall apart before we￥stop!"
+  },
+  {
+   "off": 4229,
+   "budget": 15,
+   "en": "Hit sand",
+   "src": "B1F0:4157",
+   "carry": "exact",
+   "long": "Drive into sand"
+  },
+  {
+   "off": 4244,
+   "budget": 53,
+   "en": "I'm heading into the sand! Hold on￥tight!",
+   "src": "B1F0:4172",
+   "carry": "candidate_ok",
+   "en_candidate": "I'm heading into the sand! Hold on￥tight!",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 4297,
+   "budget": 49,
+   "en": "I'll try the sand again! Here goes!",
+   "src": "B1F0:4225",
+   "carry": "exact"
+  },
+  {
+   "off": 4346,
+   "budget": 17,
+   "en": "Damn! No good!",
+   "src": "B1F0:4274",
+   "carry": "candidate_ok",
+   "en_candidate": "Damn! No good!",
+   "sim": 0.88,
+   "note": "differs only in punctuation/spacing",
+   "long": "Damn it! Still no good!"
+  },
+  {
+   "off": 4363,
+   "budget": 11,
+   "en": "Press",
+   "src": "B1F0:4293",
+   "carry": "exact",
+   "long": "Press button"
+  },
+  {
+   "off": 4374,
+   "budget": 47,
+   "en": "All or nothing. I'll try this￥button!",
+   "src": "B1F0:4304",
+   "carry": "exact"
+  },
+  {
+   "off": 4421,
+   "budget": 53,
+   "en": "The radio came on, Gillian! What are￥you doing!",
+   "src": "B1F0:4351",
+   "carry": "exact",
+   "long": "You've turned on the radio, Gillian!￥What are you doing?"
+  },
+  {
+   "off": 4474,
+   "budget": 25,
+   "en": "Right, this button next!",
+   "src": "B1F0:4404",
+   "carry": "exact",
+   "long": "All right, this button next!"
+  },
+  {
+   "off": 4499,
+   "budget": 47,
+   "en": "Wait! That's the afterburner switch!",
+   "src": "B1F0:4429",
+   "carry": "exact"
+  },
+  {
+   "off": 4546,
+   "budget": 23,
+   "en": "Damn it! My mistake!",
+   "src": "B1F0:4476",
+   "carry": "candidate_ok",
+   "en_candidate": "Damn it! My mistake!",
+   "sim": 0.95,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 4569,
+   "budget": 59,
+   "en": "Thrust is up 23 percent! What now,￥Gillian?",
+   "src": "B1F0:4499",
+   "carry": "exact"
+  },
+  {
+   "off": 4628,
+   "budget": 25,
+   "en": "How about this button?",
+   "src": "B1F0:4558",
+   "carry": "exact"
+  },
+  {
+   "off": 4653,
+   "budget": 75,
+   "en": "Climate control activated! Cabin￥temperature rising. 24, 25, 26￥degrees.",
+   "src": "B1F0:4583",
+   "carry": "exact"
+  },
+  {
+   "off": 4728,
+   "budget": 25,
+   "en": "A comfortable heat!",
+   "src": "B1F0:4658",
+   "carry": "exact",
+   "long": "We've reached a comfortable￥temperature!"
+  },
+  {
+   "off": 4753,
+   "budget": 29,
+   "en": "Who cares about that now?",
+   "src": "B1F0:4683",
+   "carry": "exact"
+  },
+  {
+   "off": 4782,
+   "budget": 9,
+   "en": "Imagine",
+   "src": "B1F0:4712",
+   "carry": "exact"
+  },
+  {
+   "off": 4791,
+   "budget": 49,
+   "en": "How would Jamie feel if I died?",
+   "src": "B1F0:4721",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4840,
+   "budget": 15,
+   "en": "Gillian...",
+   "src": "B1F0:4768",
+   "carry": "exact"
+  },
+  {
+   "off": 4855,
+   "budget": 55,
+   "en": "She'd cry. But maybe she'd forget me￥right away.",
+   "src": "B1F0:4783",
+   "carry": "exact"
+  },
+  {
+   "off": 4910,
+   "budget": 97,
+   "en": "Then she'd marry another man. He￥might even be a violent bastard.",
+   "src": "B1F0:4838",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 5007,
+   "budget": 65,
+   "en": "Poor Jamie would hide from her￥husband and cry over my picture.",
+   "src": "B1F0:4931",
+   "carry": "exact"
+  },
+  {
+   "off": 5072,
+   "budget": 13,
+   "en": "......",
+   "src": "B1F0:4996",
+   "carry": "exact"
+  },
+  {
+   "off": 5085,
+   "budget": 29,
+   "en": "I'm not dying! No way!",
+   "src": "B1F0:5009",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5114,
+   "budget": 61,
+   "en": "If we don't stop, I'm going to die.",
+   "src": "B1F0:5036",
+   "carry": "exact"
+  },
+  {
+   "off": 5175,
+   "budget": 53,
+   "en": "Every bone would shatter...￥It would hurt...",
+   "src": "B1F0:5097",
+   "carry": "exact",
+   "long": "Every bone in my body will break.￥It's going to hurt."
+  },
+  {
+   "off": 5228,
+   "budget": 35,
+   "en": "No! I don't want to die!",
+   "src": "B1F0:5150",
+   "carry": "exact"
+  },
+  {
+   "off": 5263,
+   "budget": 9,
+   "en": "Feet",
+   "src": "B1F0:5185",
+   "carry": "exact",
+   "long": "Stick feet out"
+  },
+  {
+   "off": 5274,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

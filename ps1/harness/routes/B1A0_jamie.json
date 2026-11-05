@@ -1,0 +1,25 @@
+{
+ "scene": "B1A0",
+ "note": "BUG-039 (#17): inside Gillian's flat in Act 2 (B1A0_inside, Catherine still in the shower), call Jamie (39-3444) - she is out; census the streams",
+ "actions": [
+  {
+   "path": [
+    "Use Metal Gear",
+    "Videophone"
+   ]
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "dial": "393444"
+  },
+  {
+   "idle": 3000
+  }
+ ]
+}

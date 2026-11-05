@@ -1,0 +1,2286 @@
+{
+ "file": "ISZ_B110.BIN",
+ "text_base": 6508,
+ "strings": [
+  {
+   "off": 6509,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 6513,
+   "budget": 21,
+   "en": "Some music, then."
+  },
+  {
+   "off": 6534,
+   "budget": 33,
+   "en": "Near Ivan Rodriguez's home.",
+   "long": "We're near Ivan Rodriguez's home."
+  },
+  {
+   "off": 6567,
+   "budget": 45,
+   "en": "By Gaudi's data, it's￥around here.",
+   "long": "According to Gaudi's records, it￥should be around here."
+  },
+  {
+   "off": 6612,
+   "budget": 21,
+   "en": "Quite the slum..."
+  },
+  {
+   "off": 6633,
+   "budget": 41,
+   "en": "No zoning work has reached￥this area.",
+   "long": "This area hasn't seen much￥redevelopment."
+  },
+  {
+   "off": 6674,
+   "budget": 95,
+   "en": "That's why Neo Kobe's neural￥computer, Alphaville, has no records￥of it."
+  },
+  {
+   "off": 6769,
+   "budget": 45,
+   "en": "Cut off entirely from data￥control.",
+   "long": "It's completely outside the￥information management system."
+  },
+  {
+   "off": 6814,
+   "budget": 27,
+   "en": "Those guys are still here."
+  },
+  {
+   "off": 6841,
+   "budget": 5,
+   "en": "Move"
+  },
+  {
+   "off": 6846,
+   "budget": 9,
+   "en": "Get in",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 6855,
+   "budget": 11,
+   "en": "Room 301"
+  },
+  {
+   "off": 6866,
+   "budget": 33,
+   "en": "Let's head for apartment 301."
+  },
+  {
+   "off": 6899,
+   "budget": 33,
+   "en": "3rd floor... no window escape.",
+   "long": "The third floor. He can't escape￥through a window."
+  },
+  {
+   "off": 6932,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 6937,
+   "budget": 5,
+   "en": "Bldg",
+   "long": "Building"
+  },
+  {
+   "off": 6942,
+   "budget": 41,
+   "en": "Do people really live here?"
+  },
+  {
+   "off": 6983,
+   "budget": 59,
+   "en": "No maintenance either, by the￥look. Wholly abandoned.",
+   "long": "It doesn't look as if anyone￥maintains the place. It's been￥completely neglected."
+  },
+  {
+   "off": 7042,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 7049,
+   "budget": 57,
+   "en": "This place is filthy. There are a￥few Freemen here."
+  },
+  {
+   "off": 7106,
+   "budget": 29,
+   "en": "Freemen? Free men, huh?"
+  },
+  {
+   "off": 7135,
+   "budget": 45,
+   "en": "The North-South divide,￥up close.",
+   "long": "Neo Kobe's north-south divide is￥plain to see here."
+  },
+  {
+   "off": 7180,
+   "budget": 11,
+   "en": "Freeman"
+  },
+  {
+   "off": 7191,
+   "budget": 79,
+   "en": "Day-to-day vagrants, 'home-less',￥it seems.￥They gather at the fire.",
+   "long": "They seem to be homeless people,￥living from day to day. They're￥gathered around a fire."
+  },
+  {
+   "off": 7270,
+   "budget": 15,
+   "en": "Homeless?"
+  },
+  {
+   "off": 7285,
+   "budget": 77,
+   "en": "They flee managed society for￥a free life.￥One of our age's ills.",
+   "long": "They reject our regulated society￥and advocate living freely. It's one￥of the problems of modern society."
+  },
+  {
+   "off": 7362,
+   "budget": 23,
+   "en": "Let's ask them."
+  },
+  {
+   "off": 7385,
+   "budget": 7,
+   "en": "Fire",
+   "long": "Bonfire"
+  },
+  {
+   "off": 7392,
+   "budget": 45,
+   "en": "A drum stuffed with anything,￥burning.",
+   "long": "They're stuffing everything they can￥into an oil drum and burning it."
+  },
+  {
+   "off": 7437,
+   "budget": 31,
+   "en": "Nights turn cold this season.",
+   "long": "The nights get cold this time of￥year."
+  },
+  {
+   "off": 7468,
+   "budget": 31,
+   "en": "I hope it starts no fire.",
+   "long": "I hope they don't start a fire."
+  },
+  {
+   "off": 7499,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 7506,
+   "budget": 47,
+   "en": "It seems safe. The structure is￥sound."
+  },
+  {
+   "off": 7553,
+   "budget": 57,
+   "en": "Altered here and there.￥Against building code.",
+   "long": "Parts of it have been altered. Those￥changes violate the building code."
+  },
+  {
+   "off": 7610,
+   "budget": 69,
+   "en": "A government-sanctioned slum.￥Designated 'outside data control'.",
+   "long": "The government officially recognizes￥this as a slum. It's exempt from￥centralized information control."
+  },
+  {
+   "off": 7679,
+   "budget": 43,
+   "en": "Less illegal parking￥than abandoned cars.",
+   "long": "These cars look abandoned, not just￥illegally parked."
+  },
+  {
+   "off": 7722,
+   "budget": 61,
+   "en": "Many live inside them, so￥removal never progresses.",
+   "long": "Many people seem to live in them, so￥removing them has been slow work."
+  },
+  {
+   "off": 7783,
+   "budget": 81,
+   "en": "There's no way to tell who lives￥where from the records."
+  },
+  {
+   "off": 7864,
+   "budget": 31,
+   "en": "Ehh!?￥I have to check it?",
+   "long": "What? You want me to search them?"
+  },
+  {
+   "off": 7895,
+   "budget": 9,
+   "en": "You are.",
+   "long": "That's right."
+  },
+  {
+   "off": 7904,
+   "budget": 17,
+   "en": "Please spare me."
+  },
+  {
+   "off": 7921,
+   "budget": 17,
+   "en": "Check it well!",
+   "long": "Search them thoroughly!"
+  },
+  {
+   "off": 7938,
+   "budget": 19,
+   "en": "Ugh! That smell!"
+  },
+  {
+   "off": 7957,
+   "budget": 21,
+   "en": "Oi! What's this!",
+   "long": "Hey! What the hell are you doing?"
+  },
+  {
+   "off": 7978,
+   "budget": 65,
+   "en": "I found nothing suspicious. Just a￥lot of grime."
+  },
+  {
+   "off": 8043,
+   "budget": 27,
+   "en": "Then it's ＠赤grim＠白!",
+   "long": "＠赤Grime＠白 doesn't pay!"
+  },
+  {
+   "off": 8070,
+   "budget": 49,
+   "en": "Gillian! Please stop making those￥awful jokes."
+  },
+  {
+   "off": 8119,
+   "budget": 17,
+   "en": "Hm? A smell.",
+   "long": "Hmm. Something smells."
+  },
+  {
+   "off": 8136,
+   "budget": 25,
+   "en": "Yes. They stink."
+  },
+  {
+   "off": 8161,
+   "budget": 57,
+   "en": "They have nothing on them. My nose￥can't take any more."
+  },
+  {
+   "off": 8218,
+   "budget": 31,
+   "en": "You don't even have a nose."
+  },
+  {
+   "off": 8249,
+   "budget": 45,
+   "en": "I mean my sensors are about to￥malfunction."
+  },
+  {
+   "off": 8294,
+   "budget": 51,
+   "en": "Be careful. Some of that smoke is￥toxic."
+  },
+  {
+   "off": 8345,
+   "budget": 73,
+   "en": "They burn anything at all.￥The cars round here will burn￥one day too.",
+   "long": "That's what happens when you burn￥everything. They'll probably burn￥these cars someday too."
+  },
+  {
+   "off": 8418,
+   "budget": 57,
+   "en": "Wait. There are lots of syringes in￥the ashes."
+  },
+  {
+   "off": 8475,
+   "budget": 25,
+   "en": "Drugs, even here?"
+  },
+  {
+   "off": 8500,
+   "budget": 47,
+   "en": "I'm detecting Liquid Sky. It's a￥narcotic."
+  },
+  {
+   "off": 8547,
+   "budget": 41,
+   "en": "They probably keep it burning all￥day."
+  },
+  {
+   "off": 8588,
+   "budget": 5,
+   "en": "Ask"
+  },
+  {
+   "off": 8593,
+   "budget": 15,
+   "en": "About Ivan"
+  },
+  {
+   "off": 8608,
+   "budget": 33,
+   "en": "Where does Ivan live?"
+  },
+  {
+   "off": 8641,
+   "budget": 79,
+   "en": "He lives in ＠黄'room 301'＠白 here.￥A lad mad for some sort of board.",
+   "long": "He lives in ＠黄apartment 301＠白 here. The￥kid's crazy about some kind of￥board."
+  },
+  {
+   "off": 8720,
+   "budget": 43,
+   "en": "You mean a siphon, don't you?"
+  },
+  {
+   "off": 8763,
+   "budget": 21,
+   "en": "Was it now..."
+  },
+  {
+   "off": 8784,
+   "budget": 25,
+   "en": "I can't follow this.",
+   "long": "I can't make much sense of this￥conversation."
+  },
+  {
+   "off": 8809,
+   "budget": 37,
+   "en": "He's been flush lately.",
+   "long": "He seems to have come into some￥money lately."
+  },
+  {
+   "off": 8846,
+   "budget": 37,
+   "en": "That one... I can't figure him.",
+   "long": "I've never really understood that￥kid."
+  },
+  {
+   "off": 8883,
+   "budget": 27,
+   "en": "Did you find Ivan?"
+  },
+  {
+   "off": 8910,
+   "budget": 49,
+   "en": "By the by... did you meet Ivan￥the other day?",
+   "long": "By the way, did you manage to see￥Ivan last time?"
+  },
+  {
+   "off": 8959,
+   "budget": 23,
+   "en": "No. He wasn't home."
+  },
+  {
+   "off": 8982,
+   "budget": 37,
+   "en": "Oh. That's a shame."
+  },
+  {
+   "off": 9019,
+   "budget": 53,
+   "en": "Can you tell me about a man named￥Ivan Rodriguez?"
+  },
+  {
+   "off": 9072,
+   "budget": 23,
+   "en": "Was there one?",
+   "long": "Do we know anyone by that name?"
+  },
+  {
+   "off": 9095,
+   "budget": 29,
+   "en": "Lie and you'll regret it!",
+   "long": "You'll regret it if you lie to me!"
+  },
+  {
+   "off": 9124,
+   "budget": 53,
+   "en": "Now, don't be like that. I'm trying￥to remember."
+  },
+  {
+   "off": 9177,
+   "budget": 19,
+   "en": "Remember anything?"
+  },
+  {
+   "off": 9196,
+   "budget": 19,
+   "en": "Hmm. Not yet."
+  },
+  {
+   "off": 9215,
+   "budget": 25,
+   "en": "Seen it somewhere...",
+   "long": "I think I've seen him somewhere."
+  },
+  {
+   "off": 9240,
+   "budget": 29,
+   "en": "He's plainly having us on.",
+   "long": "They're obviously messing with us."
+  },
+  {
+   "off": 9269,
+   "budget": 37,
+   "en": "Why not show him the montage photo?",
+   "long": "Why don't you show them the￥composite photo?"
+  },
+  {
+   "off": 9306,
+   "budget": 17,
+   "en": "About Gibson"
+  },
+  {
+   "off": 9323,
+   "budget": 15,
+   "en": "Who's that?"
+  },
+  {
+   "off": 9338,
+   "budget": 49,
+   "en": "No idea... I can't recall￥my own name now.",
+   "long": "No idea. These days I can barely￥remember my own name."
+  },
+  {
+   "off": 9387,
+   "budget": 15,
+   "en": "Far gone..."
+  },
+  {
+   "off": 9402,
+   "budget": 13,
+   "en": "Snatchers"
+  },
+  {
+   "off": 9415,
+   "budget": 41,
+   "en": "Any talk of Snatchers round￥here?",
+   "long": "Heard any rumors about Snatchers￥around here?"
+  },
+  {
+   "off": 9456,
+   "budget": 49,
+   "en": "Snatchers? Don't be ridiculous."
+  },
+  {
+   "off": 9505,
+   "budget": 59,
+   "en": "Even a Snatcher wouldn't snatch the￥likes of us."
+  },
+  {
+   "off": 9564,
+   "budget": 61,
+   "en": "Nobody here is worth enough for them￥to bother with."
+  },
+  {
+   "off": 9625,
+   "budget": 43,
+   "en": "Nobody here is scared of them."
+  },
+  {
+   "off": 9668,
+   "budget": 9,
+   "en": "His tale"
+  },
+  {
+   "off": 9677,
+   "budget": 25,
+   "en": "Since when are you here?",
+   "long": "How long have you been here?"
+  },
+  {
+   "off": 9702,
+   "budget": 79,
+   "en": "I used to be a systems engineer on￥the team that designed Alphaville."
+  },
+  {
+   "off": 9781,
+   "budget": 37,
+   "en": "A programmer... and then?",
+   "long": "A programmer? How did you end up￥here?"
+  },
+  {
+   "off": 9818,
+   "budget": 61,
+   "en": "One day, I took a peek at the data￥inside Alphaville."
+  },
+  {
+   "off": 9879,
+   "budget": 23,
+   "en": "That's impossible."
+  },
+  {
+   "off": 9902,
+   "budget": 89,
+   "en": "For me it was possible... so I￥saw a lifetime of the filth in￥men and society.",
+   "long": "It wasn't for me. I saw enough of￥the ugly side of people and society￥to last a lifetime."
+  },
+  {
+   "off": 9991,
+   "budget": 51,
+   "en": "People are dull things,￥for all their swagger.",
+   "long": "People aren't worth much, however￥important they act."
+  },
+  {
+   "off": 10042,
+   "budget": 23,
+   "en": "Maybe you're right."
+  },
+  {
+   "off": 10065,
+   "budget": 71,
+   "en": "Come be a free man yourself?￥When you tire of it, come along.",
+   "long": "Why don't you join us and become a￥Freeman? Come by whenever you've had￥enough."
+  },
+  {
+   "off": 10136,
+   "budget": 49,
+   "en": "To be free... I must take back￥my past.",
+   "long": "I'll have to get my past back before￥I can be free."
+  },
+  {
+   "off": 10185,
+   "budget": 89,
+   "en": "Well, Alphaville has records on us￥developers. Look us up next time you￥access it."
+  },
+  {
+   "off": 10274,
+   "budget": 35,
+   "en": "How long do you plan to stay here?"
+  },
+  {
+   "off": 10309,
+   "budget": 77,
+   "en": "Not like him. I want work.￥I'm willing but there's no job.",
+   "long": "Unlike him, I want a job. I'm￥willing to work, but there's no work￥for me."
+  },
+  {
+   "off": 10386,
+   "budget": 19,
+   "en": "No ID, have you?",
+   "long": "You don't have an ID, do you?"
+  },
+  {
+   "off": 10405,
+   "budget": 53,
+   "en": "Aye.￥No job centre for me.￥Come on, give me work.",
+   "long": "That's right. I can't even go to the￥employment office. Come on, give me￥a job."
+  },
+  {
+   "off": 10458,
+   "budget": 9,
+   "en": "Migrant?",
+   "long": "An immigrant?"
+  },
+  {
+   "off": 10467,
+   "budget": 85,
+   "en": "I came in illegally. I had dreams￥when I came to this city. Look at me￥now."
+  },
+  {
+   "off": 10552,
+   "budget": 11,
+   "en": "And you?",
+   "long": "What about you?"
+  },
+  {
+   "off": 10563,
+   "budget": 63,
+   "en": "Me? I vanished of my own will.￥Sick of family and company.",
+   "long": "Me? I chose to disappear. I got sick￥of my family and my company."
+  },
+  {
+   "off": 10626,
+   "budget": 97,
+   "en": "Here it's like being a child￥again. I wake and always think:￥'what shall I do today?'...",
+   "long": "Being here makes me feel like a kid￥again. Every morning I wake up and￥wonder, \"What should I do today?\""
+  },
+  {
+   "off": 10723,
+   "budget": 55,
+   "en": "No schedule, no shackles. Every￥day's a blank page.",
+   "long": "No schedules, nothing tying me down.￥Every day is a blank page."
+  },
+  {
+   "off": 10778,
+   "budget": 15,
+   "en": "A blank page?"
+  },
+  {
+   "off": 10793,
+   "budget": 43,
+   "en": "Yeah. I really feel alive."
+  },
+  {
+   "off": 10836,
+   "budget": 19,
+   "en": "And the old man?",
+   "long": "What about that old man?"
+  },
+  {
+   "off": 10855,
+   "budget": 51,
+   "en": "Oh, his son and daughter-in-law￥dumped him here."
+  },
+  {
+   "off": 10906,
+   "budget": 13,
+   "en": "Dumped him?"
+  },
+  {
+   "off": 10919,
+   "budget": 25,
+   "en": "That elder-care trouble.",
+   "long": "It's that whole problem with care￥for the elderly."
+  },
+  {
+   "off": 10944,
+   "budget": 89,
+   "en": "Nursing fees unpaid, the hospital￥put him out. Then his son￥dumped him here.",
+   "long": "He couldn't pay for his care, so the￥hospital threw him out. His son and￥daughter-in-law brought him here and￥abandoned him."
+  },
+  {
+   "off": 11033,
+   "budget": 23,
+   "en": "Left out to die.",
+   "long": "A dumping ground for old people, I￥guess."
+  },
+  {
+   "off": 11056,
+   "budget": 17,
+   "en": "How cruel..."
+  },
+  {
+   "off": 11073,
+   "budget": 87,
+   "en": "We look after him. Even after what￥they did, he still calls his son's￥name at night."
+  },
+  {
+   "off": 11160,
+   "budget": 37,
+   "en": "We know his son's phone number."
+  },
+  {
+   "off": 11197,
+   "budget": 31,
+   "en": "Would you call them for us?"
+  },
+  {
+   "off": 11228,
+   "budget": 39,
+   "en": "Let's see. ＠赤30-2501＠白."
+  },
+  {
+   "off": 11267,
+   "budget": 21,
+   "en": "If I find time..."
+  },
+  {
+   "off": 11288,
+   "budget": 41,
+   "en": "Please... the old man's￥a sad case.",
+   "long": "We're counting on you. I feel so￥sorry for him."
+  },
+  {
+   "off": 11329,
+   "budget": 65,
+   "en": "They have their own ways of living.￥Let's leave it at that."
+  },
+  {
+   "off": 11394,
+   "budget": 51,
+   "en": "You called the old man's son￥for him, then.",
+   "long": "You called the old man's son and his￥wife, didn't you?"
+  },
+  {
+   "off": 11445,
+   "budget": 17,
+   "en": "Come for him?",
+   "long": "Did they come for him?"
+  },
+  {
+   "off": 11462,
+   "budget": 33,
+   "en": "Yeah. He was so happy."
+  },
+  {
+   "off": 11495,
+   "budget": 39,
+   "en": "Thank you. You're a good man."
+  },
+  {
+   "off": 11534,
+   "budget": 23,
+   "en": "...That's good, no?",
+   "long": "I'm glad it worked out."
+  },
+  {
+   "off": 11557,
+   "budget": 33,
+   "en": "But Ivan is our main concern."
+  },
+  {
+   "off": 11590,
+   "budget": 41,
+   "en": "Let's leave it at that, Gillian."
+  },
+  {
+   "off": 11631,
+   "budget": 5,
+   "en": "Drug"
+  },
+  {
+   "off": 11636,
+   "budget": 35,
+   "en": "Can you get drugs around here?"
+  },
+  {
+   "off": 11671,
+   "budget": 49,
+   "en": "Yeah, but they're too expensive for￥us."
+  },
+  {
+   "off": 11720,
+   "budget": 35,
+   "en": "A few buyers about, it seems.",
+   "long": "Seems there are a few dealers around￥here."
+  },
+  {
+   "off": 11755,
+   "budget": 27,
+   "en": "Everyday business here.",
+   "long": "It's an everyday thing here."
+  },
+  {
+   "off": 11782,
+   "budget": 11,
+   "en": "Find Ivan"
+  },
+  {
+   "off": 11793,
+   "budget": 43,
+   "en": "Find him, you say... but where￥is he?",
+   "long": "You want me to find him, but I have￥no idea where he is."
+  },
+  {
+   "off": 11836,
+   "budget": 65,
+   "en": "My records are no use here. Let's￥ask around."
+  },
+  {
+   "off": 11901,
+   "budget": 27,
+   "en": "Shall we ask that lot?",
+   "long": "Let's try asking those guys."
+  },
+  {
+   "off": 11928,
+   "budget": 51,
+   "en": "Let's ask the folk about here.￥...Anyone there?",
+   "long": "Let's ask the people around here. Is￥anyone there?"
+  },
+  {
+   "off": 11979,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 11984,
+   "budget": 7,
+   "en": "Show"
+  },
+  {
+   "off": 11991,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 12006,
+   "budget": 23,
+   "en": "Somethin' happen?",
+   "long": "Has something happened?"
+  },
+  {
+   "off": 12029,
+   "budget": 83,
+   "en": "My wife sent you to bring me back,￥didn't she? Well, I'm not going￥home!"
+  },
+  {
+   "off": 12112,
+   "budget": 29,
+   "en": "We haven't done anything."
+  },
+  {
+   "off": 12141,
+   "budget": 17,
+   "en": "What's this?"
+  },
+  {
+   "off": 12158,
+   "budget": 23,
+   "en": "Get me a job, eh?",
+   "long": "Find me a job, will you?"
+  },
+  {
+   "off": 12181,
+   "budget": 5,
+   "en": "Drop",
+   "long": "Candy"
+  },
+  {
+   "off": 12186,
+   "budget": 33,
+   "en": "That won't fill my belly."
+  },
+  {
+   "off": 12219,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 12226,
+   "budget": 29,
+   "en": "Best not show cash about.",
+   "long": "It would be wiser not to show them￥cash."
+  },
+  {
+   "off": 12255,
+   "budget": 57,
+   "en": "Showing cash to men like these...￥only stirs them up.",
+   "long": "Showing people like this cash will￥only get them worked up."
+  },
+  {
+   "off": 12312,
+   "budget": 7,
+   "en": "Proof",
+   "long": "Evidence"
+  },
+  {
+   "off": 12319,
+   "budget": 7,
+   "en": "Paper",
+   "long": "Scrap of paper"
+  },
+  {
+   "off": 12326,
+   "budget": 5,
+   "en": "Key"
+  },
+  {
+   "off": 12331,
+   "budget": 3,
+   "en": "Pc",
+   "long": "Chess piece"
+  },
+  {
+   "off": 12334,
+   "budget": 9,
+   "en": "Disk"
+  },
+  {
+   "off": 12343,
+   "budget": 11,
+   "en": "Sunblock"
+  },
+  {
+   "off": 12354,
+   "budget": 7,
+   "en": "Mask"
+  },
+  {
+   "off": 12361,
+   "budget": 25,
+   "en": "Oh! That's a good one!"
+  },
+  {
+   "off": 12386,
+   "budget": 27,
+   "en": "Whoa! You startled me!"
+  },
+  {
+   "off": 12413,
+   "budget": 31,
+   "en": "Is it Halloween today?"
+  },
+  {
+   "off": 12444,
+   "budget": 5,
+   "en": "Pic",
+   "long": "Photo"
+  },
+  {
+   "off": 12449,
+   "budget": 15,
+   "en": "Gibson's photo"
+  },
+  {
+   "off": 12464,
+   "budget": 41,
+   "en": "A photo? It all brings back￥memories."
+  },
+  {
+   "off": 12505,
+   "budget": 17,
+   "en": "Montage photo"
+  },
+  {
+   "off": 12522,
+   "budget": 21,
+   "en": "Know this man?",
+   "long": "Do you know this man?"
+  },
+  {
+   "off": 12543,
+   "budget": 33,
+   "en": "Hmm? That's that idiot Ivan."
+  },
+  {
+   "off": 12576,
+   "budget": 37,
+   "en": "Yeah, that's him. That fool."
+  },
+  {
+   "off": 12613,
+   "budget": 27,
+   "en": "No mistake.￥It's Ivan.",
+   "long": "No doubt about it. It's Ivan."
+  },
+  {
+   "off": 12640,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 12655,
+   "budget": 13,
+   "en": "Videophone"
+  },
+  {
+   "off": 12668,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 12679,
+   "budget": 37,
+   "en": "I'll save your progress now."
+  },
+  {
+   "off": 12716,
+   "budget": 25,
+   "en": "Excuse me, you there."
+  },
+  {
+   "off": 12741,
+   "budget": 11,
+   "en": "Huh, what?",
+   "long": "What is it?"
+  },
+  {
+   "off": 12752,
+   "budget": 25,
+   "en": "I'd like a word...",
+   "long": "I'd like to ask you something."
+  },
+  {
+   "off": 12777,
+   "budget": 5,
+   "en": "Huh?"
+  },
+  {
+   "off": 12782,
+   "budget": 13,
+   "en": "For me?",
+   "long": "Is that for me?"
+  },
+  {
+   "off": 12795,
+   "budget": 25,
+   "en": "Got anything better?"
+  },
+  {
+   "off": 12820,
+   "budget": 19,
+   "en": "Nothing to eat?",
+   "long": "Got anything to eat?"
+  },
+  {
+   "off": 12839,
+   "budget": 25,
+   "en": "Outside room 301.",
+   "long": "We're outside apartment 301."
+  },
+  {
+   "off": 12864,
+   "budget": 79,
+   "en": "No movement detected. He seems to be￥out. Let's come back later, Gillian."
+  },
+  {
+   "off": 12943,
+   "budget": 61,
+   "en": "No motion response at all.￥Out, then... let's come again.",
+   "long": "I'm detecting no movement at all.￥He's out. Let's come back later."
+  },
+  {
+   "off": 13004,
+   "budget": 55,
+   "en": "No help for it.￥Home to your place for a rest?",
+   "long": "There's nothing we can do. Why don't￥we go back to your place for a￥break?"
+  },
+  {
+   "off": 13059,
+   "budget": 23,
+   "en": "You work too hard.",
+   "long": "You've been working a little too￥hard."
+  },
+  {
+   "off": 13082,
+   "budget": 25,
+   "en": "Aye, that sounds good.",
+   "long": "Yeah. That's a good idea."
+  },
+  {
+   "off": 13107,
+   "budget": 43,
+   "en": "Ring your wife now and then?",
+   "long": "Why don't you give your wife a call￥for a change?"
+  },
+  {
+   "off": 13150,
+   "budget": 45,
+   "en": "No help for it.￥Off to Gibson's house...",
+   "long": "There's nothing we can do here.￥Let's go to Gibson's house."
+  },
+  {
+   "off": 13195,
+   "budget": 49,
+   "en": "We could find out a little more￥about Gibson."
+  },
+  {
+   "off": 13244,
+   "budget": 9,
+   "en": "Go out"
+  },
+  {
+   "off": 13253,
+   "budget": 33,
+   "en": "Someone inside.￥Let's check.",
+   "long": "Someone's inside. Let's investigate."
+  },
+  {
+   "off": 13286,
+   "budget": 23,
+   "en": "Just going back?",
+   "long": "Are we just going to leave?"
+  },
+  {
+   "off": 13309,
+   "budget": 27,
+   "en": "Oh well. Come again...",
+   "long": "We have no choice. Let's come back￥later."
+  },
+  {
+   "off": 13336,
+   "budget": 11,
+   "en": "Knock"
+  },
+  {
+   "off": 13347,
+   "budget": 15,
+   "en": "I'll knock."
+  },
+  {
+   "off": 13362,
+   "budget": 21,
+   "en": "No answer."
+  },
+  {
+   "off": 13383,
+   "budget": 13,
+   "en": "Odd, that.",
+   "long": "That's strange."
+  },
+  {
+   "off": 13396,
+   "budget": 13,
+   "en": "Who's there?"
+  },
+  {
+   "off": 13409,
+   "budget": 21,
+   "en": "Let's go."
+  },
+  {
+   "off": 13430,
+   "budget": 33,
+   "en": "Let's come back another day."
+  },
+  {
+   "off": 13463,
+   "budget": 9,
+   "en": "Plate"
+  },
+  {
+   "off": 13472,
+   "budget": 57,
+   "en": "It says, \"301, ＠赤Ivan Rodriguez＠白.\""
+  },
+  {
+   "off": 13529,
+   "budget": 5,
+   "en": "Door"
+  },
+  {
+   "off": 13534,
+   "budget": 37,
+   "en": "It's an old door with a peephole."
+  },
+  {
+   "off": 13571,
+   "budget": 49,
+   "en": "A man peers from beyond it.￥Ivan, perhaps?",
+   "long": "A man is looking out through it.￥Could that be Ivan?"
+  },
+  {
+   "off": 13620,
+   "budget": 41,
+   "en": "Peer from inside and an eye￥shows.",
+   "long": "If someone looks through from￥inside, we should be able to see his￥eye."
+  },
+  {
+   "off": 13661,
+   "budget": 57,
+   "en": "There is an electric meter.￥This room's, no doubt.",
+   "long": "There's an electricity meter. It￥probably belongs to this apartment."
+  },
+  {
+   "off": 13718,
+   "budget": 31,
+   "en": "A small window by the door.",
+   "long": "There's a small window beside the￥door."
+  },
+  {
+   "off": 13749,
+   "budget": 31,
+   "en": "Nobody lives on either side.",
+   "long": "The apartments on either side seem￥empty."
+  },
+  {
+   "off": 13780,
+   "budget": 7,
+   "en": "Meter",
+   "long": "Power meter"
+  },
+  {
+   "off": 13787,
+   "budget": 69,
+   "en": "An old-style power meter. It￥shows usage in visible form.",
+   "long": "It's an old electricity meter. It￥has a display showing how much power￥is being used."
+  },
+  {
+   "off": 13856,
+   "budget": 73,
+   "en": "A power meter. Outside the data￥area, power is collected￥by hand.",
+   "long": "It's an electricity meter. Since￥this area is outside the data￥network, someone apparently comes to￥collect payment."
+  },
+  {
+   "off": 13929,
+   "budget": 3,
+   "en": "Wn",
+   "long": "Window"
+  },
+  {
+   "off": 13932,
+   "budget": 45,
+   "en": "Something's pasted inside;￥nothing shows.",
+   "long": "Something's stuck over the inside,￥so I can't see in."
+  },
+  {
+   "off": 13977,
+   "budget": 47,
+   "en": "We can't even tell if the lights are￥on."
+  },
+  {
+   "off": 14024,
+   "budget": 65,
+   "en": "The plate for room 301.￥Handwritten, but no mistake.",
+   "long": "It's the plate for apartment 301.￥The name is handwritten, but this is￥definitely the place."
+  },
+  {
+   "off": 14089,
+   "budget": 31,
+   "en": "The door is locked."
+  },
+  {
+   "off": 14120,
+   "budget": 41,
+   "en": "No warrant, no key,￥no entry.",
+   "long": "Without a warrant, we can't open it￥unless we have a key."
+  },
+  {
+   "off": 14161,
+   "budget": 31,
+   "en": "Hm? Power's being used!",
+   "long": "Hmm? Electricity is being used!"
+  },
+  {
+   "off": 14192,
+   "budget": 39,
+   "en": "Motion readings!￥Someone is inside.",
+   "long": "Movement detected! Someone appears￥to be inside."
+  },
+  {
+   "off": 14231,
+   "budget": 41,
+   "en": "As the meter showed, someone￥was in.",
+   "long": "Someone was inside, just as the￥meter suggested."
+  },
+  {
+   "off": 14272,
+   "budget": 19,
+   "en": "Someone's inside."
+  },
+  {
+   "off": 14291,
+   "budget": 61,
+   "en": "No living-level power use.￥Nobody seems to be in.",
+   "long": "Power usage is below normal￥household levels. No one seems to be￥home."
+  },
+  {
+   "off": 14352,
+   "budget": 51,
+   "en": "It is locked.￥Shut for a long while, it seems.",
+   "long": "It's locked. It looks as if it's￥been shut for a long time."
+  },
+  {
+   "off": 14403,
+   "budget": 45,
+   "en": "It's too small for us to get￥through."
+  },
+  {
+   "off": 14448,
+   "budget": 5,
+   "en": "Talk"
+  },
+  {
+   "off": 14453,
+   "budget": 37,
+   "en": "At a time like this? Later.",
+   "long": "This is a critical moment. Let's do￥that later."
+  },
+  {
+   "off": 14490,
+   "budget": 43,
+   "en": "This is no time to use the￥videophone."
+  },
+  {
+   "off": 14533,
+   "budget": 79,
+   "en": "Ivan Rodriguez! JUNKER! We have some￥questions. Open the door!"
+  },
+  {
+   "off": 14612,
+   "budget": 21,
+   "en": "What! So sudden?",
+   "long": "What's this all about?"
+  },
+  {
+   "off": 14633,
+   "budget": 25,
+   "en": "Just open the door!"
+  },
+  {
+   "off": 14658,
+   "budget": 47,
+   "en": "All right, all right! Don't get so￥worked up."
+  },
+  {
+   "off": 14705,
+   "budget": 67,
+   "en": "Listen, be careful.￥This isn't like the Insector.",
+   "long": "Be careful, understand? This won't￥be like fighting the Insectors."
+  },
+  {
+   "off": 14772,
+   "budget": 59,
+   "en": "I know. I don't want to need those￥nanomachines again."
+  },
+  {
+   "off": 14831,
+   "budget": 17,
+   "en": "Sorry to wait...",
+   "long": "Sorry for the wait..."
+  },
+  {
+   "off": 14848,
+   "budget": 49,
+   "en": "No mistake.￥This is Ivan Rodriguez's room.",
+   "long": "No doubt about it. This is Ivan￥Rodriguez's apartment."
+  },
+  {
+   "off": 14897,
+   "budget": 35,
+   "en": "Let's knock, Gillian."
+  },
+  {
+   "off": 14932,
+   "budget": 27,
+   "en": "Gillian, look out!＠Ｃ"
+  },
+  {
+   "off": 14959,
+   "budget": 7,
+   "en": "Ivan"
+  },
+  {
+   "off": 14966,
+   "budget": 67,
+   "en": "He looks just like the composite￥photo! But he's very tanned."
+  },
+  {
+   "off": 15033,
+   "budget": 47,
+   "en": "Could he be a Snatcher with a tan￥like that?"
+  },
+  {
+   "off": 15080,
+   "budget": 5,
+   "en": "Room",
+   "long": "Inside"
+  },
+  {
+   "off": 15085,
+   "budget": 49,
+   "en": "A dark room... nothing￥suspicious, though?",
+   "long": "It's dark in here. I don't see￥anything particularly suspicious."
+  },
+  {
+   "off": 15134,
+   "budget": 65,
+   "en": "What a filthy room. Oh! There's a￥trophy over there."
+  },
+  {
+   "off": 15199,
+   "budget": 27,
+   "en": "Filthy any way you look.",
+   "long": "This room looks filthy no matter how￥many times I look."
+  },
+  {
+   "off": 15226,
+   "budget": 3,
+   "en": "Gn",
+   "long": "Gun"
+  },
+  {
+   "off": 15229,
+   "budget": 41,
+   "en": "A cheap raygun off the black￥market.",
+   "long": "It's a cheap ray gun sold on the￥black market."
+  },
+  {
+   "off": 15270,
+   "budget": 11,
+   "en": "Trophy"
+  },
+  {
+   "off": 15281,
+   "budget": 75,
+   "en": "It says, \"Runner-up, 12th Neo Kobe￥Aero-Surfing Championship.\""
+  },
+  {
+   "off": 15356,
+   "budget": 49,
+   "en": "So he's an aero-surfer."
+  },
+  {
+   "off": 15405,
+   "budget": 41,
+   "en": "Not stolen; his own,￥by the look.",
+   "long": "It seems to be his own trophy, not￥stolen."
+  },
+  {
+   "off": 15446,
+   "budget": 73,
+   "en": "We can't do a thorough examination￥without a ＠赤scanning warrant＠白."
+  },
+  {
+   "off": 15519,
+   "budget": 67,
+   "en": "At first glance, there's no sign of￥cancer despite his tan."
+  },
+  {
+   "off": 15586,
+   "budget": 37,
+   "en": "No black tumours on the skin.",
+   "long": "There are no black tumors on his￥skin."
+  },
+  {
+   "off": 15623,
+   "budget": 83,
+   "en": "For safety I checked the surface￥sphingoglycolipid groups too.￥No mutation.",
+   "long": "To be safe, I checked the functional￥glycosphingolipid macromolecules on￥his cell surfaces. There are no￥mutations."
+  },
+  {
+   "off": 15706,
+   "budget": 35,
+   "en": "His skin has a healthy tan."
+  },
+  {
+   "off": 15741,
+   "budget": 45,
+   "en": "No Snatcher evidence on the￥skin.",
+   "long": "There's no evidence in his skin that￥he's a Snatcher."
+  },
+  {
+   "off": 15786,
+   "budget": 81,
+   "en": "Much dust in the old static￥collector.￥Not a tidy sort, it seems.",
+   "long": "The old electrostatic collector is￥full of dust. He doesn't seem to￥like cleaning."
+  },
+  {
+   "off": 15867,
+   "budget": 85,
+   "en": "No reaction to Snow Cedar, either. I￥see no evidence of a Snatcher in￥this room."
+  },
+  {
+   "off": 15952,
+   "budget": 83,
+   "en": "A Saturday Night RG-11. It's a￥modified gun even kids can get hold￥of."
+  },
+  {
+   "off": 16035,
+   "budget": 41,
+   "en": "Gillian, a weak gun. Lucky￥for you.",
+   "long": "You're lucky it wasn't a powerful￥gun, Gillian."
+  },
+  {
+   "off": 16076,
+   "budget": 23,
+   "en": "He hit me five times."
+  },
+  {
+   "off": 16099,
+   "budget": 33,
+   "en": "Gillian, a small mercy.",
+   "long": "It could have been worse, Gillian."
+  },
+  {
+   "off": 16132,
+   "budget": 41,
+   "en": "Four rounds...￥but this will do.",
+   "long": "I took four hits, but I'll be fine￥if that's all it can do."
+  },
+  {
+   "off": 16173,
+   "budget": 25,
+   "en": "Gillian, with this...",
+   "long": "Gillian, with a gun like this,"
+  },
+  {
+   "off": 16198,
+   "budget": 31,
+   "en": "Three rounds should be fine.",
+   "long": "I should be fine even after three￥hits."
+  },
+  {
+   "off": 16229,
+   "budget": 53,
+   "en": "Don't worry, Gillian. With this￥little firepower,"
+  },
+  {
+   "off": 16282,
+   "budget": 33,
+   "en": "Yeah, even two hits are nothing."
+  },
+  {
+   "off": 16315,
+   "budget": 33,
+   "en": "Gillian, the damage is light.",
+   "long": "Your injuries are minor, Gillian."
+  },
+  {
+   "off": 16348,
+   "budget": 37,
+   "en": "One round, but this gun is fine.",
+   "long": "I took one hit, but I'll be fine￥with a gun like that."
+  },
+  {
+   "off": 16385,
+   "budget": 53,
+   "en": "Wounds this slight the￥nanomachines heal at once.",
+   "long": "The nanomachines will treat wounds￥this minor in no time."
+  },
+  {
+   "off": 16438,
+   "budget": 49,
+   "en": "Still, let's inject nanomachines￥to be safe.",
+   "long": "Still, I'll inject some nanomachines￥just to be safe."
+  },
+  {
+   "off": 16487,
+   "budget": 43,
+   "en": "Nanomachines? Right, Harry's￥invention."
+  },
+  {
+   "off": 16530,
+   "budget": 53,
+   "en": "Harry's ultra-small nano-sized￥medical robots.",
+   "long": "They're the tiny, nanoscale medical￥robots Harry invented."
+  },
+  {
+   "off": 16583,
+   "budget": 37,
+   "en": "They treat damage inside your body."
+  },
+  {
+   "off": 16620,
+   "budget": 31,
+   "en": "Hold out your arm, Gillian."
+  },
+  {
+   "off": 16651,
+   "budget": 17,
+   "en": "Ugh!"
+  },
+  {
+   "off": 16668,
+   "budget": 15,
+   "en": "Whew."
+  },
+  {
+   "off": 16683,
+   "budget": 19,
+   "en": "That should do it.",
+   "long": "You'll be all right now."
+  },
+  {
+   "off": 16702,
+   "budget": 65,
+   "en": "A Saturday Night RG-11. It's a￥widely available modified gun."
+  },
+  {
+   "off": 16767,
+   "budget": 29,
+   "en": "The trophy seems genuine."
+  },
+  {
+   "off": 16796,
+   "budget": 43,
+   "en": "It's plated, so it has no value as￥gold.",
+   "long": "It's only plated, so the gold isn't￥worth anything."
+  },
+  {
+   "off": 16839,
+   "budget": 5,
+   "en": "Dust",
+   "long": "Trash"
+  },
+  {
+   "off": 16844,
+   "budget": 87,
+   "en": "Bodily waste... secretions￥confirmed. The dust gives no￥Snatcher evidence.",
+   "long": "I'm detecting biological waste and￥secretions. There's no evidence of a￥Snatcher in the trash."
+  },
+  {
+   "off": 16931,
+   "budget": 59,
+   "en": "A Snatcher's dust should give￥some reading, though...",
+   "long": "If he were a Snatcher, I'd expect to￥detect something in the trash."
+  },
+  {
+   "off": 16990,
+   "budget": 9,
+   "en": "Grill",
+   "long": "Interrogate"
+  },
+  {
+   "off": 16999,
+   "budget": 29,
+   "en": "You! Why'd you shoot at me?!",
+   "long": "Why the hell did you shoot at me?"
+  },
+  {
+   "off": 17028,
+   "budget": 31,
+   "en": "You hit me five times!"
+  },
+  {
+   "off": 17059,
+   "budget": 31,
+   "en": "You hit me four times!"
+  },
+  {
+   "off": 17090,
+   "budget": 29,
+   "en": "You hit me three times!"
+  },
+  {
+   "off": 17119,
+   "budget": 29,
+   "en": "You hit me twice!"
+  },
+  {
+   "off": 17148,
+   "budget": 27,
+   "en": "You shot me!"
+  },
+  {
+   "off": 17175,
+   "budget": 33,
+   "en": "Why did you try to shoot me?"
+  },
+  {
+   "off": 17208,
+   "budget": 19,
+   "en": "A Snatcher, no?",
+   "long": "You're a Snatcher, aren't you?"
+  },
+  {
+   "off": 17227,
+   "budget": 17,
+   "en": "Show yourself!",
+   "long": "Show your true form!"
+  },
+  {
+   "off": 17244,
+   "budget": 21,
+   "en": "I-I know nothing!",
+   "long": "I don't know anything!"
+  },
+  {
+   "off": 17265,
+   "budget": 25,
+   "en": "It's not me! Not me...",
+   "long": "I've got nothing to do with it!￥Nothing!"
+  },
+  {
+   "off": 17290,
+   "budget": 13,
+   "en": "......"
+  },
+  {
+   "off": 17303,
+   "budget": 47,
+   "en": "Something's odd here.￥Keep your guard up.",
+   "long": "Something's wrong with him. Keep￥your guard up."
+  },
+  {
+   "off": 17350,
+   "budget": 9,
+   "en": "Threaten"
+  },
+  {
+   "off": 17359,
+   "budget": 21,
+   "en": "Aah! Stop!"
+  },
+  {
+   "off": 17380,
+   "budget": 21,
+   "en": "Don't shoot me!"
+  },
+  {
+   "off": 17401,
+   "budget": 37,
+   "en": "Stop! Please, don't! Help!"
+  },
+  {
+   "off": 17438,
+   "budget": 29,
+   "en": "Please, give me a break."
+  },
+  {
+   "off": 17467,
+   "budget": 41,
+   "en": "Terrified.￥The gun makes it worse.",
+   "long": "He's terrified. The gun is making￥things worse."
+  },
+  {
+   "off": 17508,
+   "budget": 19,
+   "en": "Ivan's bathroom.",
+   "long": "This is Ivan's bathroom."
+  },
+  {
+   "off": 17527,
+   "budget": 49,
+   "en": "As filthy as the living room...￥...Really!",
+   "long": "It's just as filthy as the living￥room. Honestly!"
+  },
+  {
+   "off": 17576,
+   "budget": 59,
+   "en": "There's an aero-surfing board￥leaning against the wall."
+  },
+  {
+   "off": 17635,
+   "budget": 51,
+   "en": "Caked in mud.￥He washes his gear in here too.",
+   "long": "There's mud everywhere. He seems to￥wash his equipment in the bathroom￥too."
+  },
+  {
+   "off": 17686,
+   "budget": 5,
+   "en": "Tub",
+   "long": "Bathtub"
+  },
+  {
+   "off": 17691,
+   "budget": 29,
+   "en": "Filthy scum has built up.",
+   "long": "There's a thick layer of filthy￥scum."
+  },
+  {
+   "off": 17720,
+   "budget": 35,
+   "en": "Not fit for anyone to bathe in.",
+   "long": "It doesn't look fit for anyone to￥bathe in."
+  },
+  {
+   "off": 17755,
+   "budget": 3,
+   "en": "Sh",
+   "long": "Shelf"
+  },
+  {
+   "off": 17758,
+   "budget": 61,
+   "en": "Ah! This!￥There's a bottle here!￥Sunblock, perhaps?",
+   "long": "Oh! What's this? There's a bottle￥here. Could it be sunscreen?"
+  },
+  {
+   "off": 17819,
+   "budget": 3,
+   "en": "Bo",
+   "long": "Bottle"
+  },
+  {
+   "off": 17822,
+   "budget": 51,
+   "en": "Not sunblock, but￥a tanning oil that speeds it.",
+   "long": "It's tanning oil, which helps you￥tan, rather than sunscreen."
+  },
+  {
+   "off": 17873,
+   "budget": 65,
+   "en": "No label at all. Not the same￥as the one at Jean's house.",
+   "long": "There's no label. It seems different￥from the one at Jean's house."
+  },
+  {
+   "off": 17938,
+   "budget": 13,
+   "en": "Surfboard"
+  },
+  {
+   "off": 17951,
+   "budget": 77,
+   "en": "It's a board for aero surfing. It's￥designed on aerodynamic principles.",
+   "long": "It's an aero-surfing board, designed￥using the principles of￥aerodynamics."
+  },
+  {
+   "off": 18028,
+   "budget": 57,
+   "en": "Quite a costly item, this.￥Out of place in this room.",
+   "long": "It's quite expensive. It looks out￥of place in this room."
+  },
+  {
+   "off": 18085,
+   "budget": 41,
+   "en": "No wonder only the board￥looked classy.",
+   "long": "No wonder the board seemed different￥from everything else here."
+  },
+  {
+   "off": 18126,
+   "budget": 11,
+   "en": "Bag",
+   "long": "Plastic bag"
+  },
+  {
+   "off": 18137,
+   "budget": 45,
+   "en": "There's powdered Liquid Sky inside."
+  },
+  {
+   "off": 18182,
+   "budget": 33,
+   "en": "Some powder is inside.",
+   "long": "There's some kind of powder inside."
+  },
+  {
+   "off": 18215,
+   "budget": 77,
+   "en": "There's an aero-surfing helmet,￥protective gear and aero-fins."
+  },
+  {
+   "off": 18292,
+   "budget": 61,
+   "en": "The floor is sludge. Bathroom￥or washer, who can tell.",
+   "long": "The floor is covered in mud. I can't￥tell if this is a bathroom or the￥inside of a washing machine."
+  },
+  {
+   "off": 18353,
+   "budget": 59,
+   "en": "Never washed at all, by the look.￥Grime in stripes.",
+   "long": "It looks as though it's never been￥cleaned. There are rings of grime."
+  },
+  {
+   "off": 18412,
+   "budget": 19,
+   "en": "What on earth?"
+  },
+  {
+   "off": 18431,
+   "budget": 39,
+   "en": "What is it? Find some snake scales?"
+  },
+  {
+   "off": 18470,
+   "budget": 31,
+   "en": "...So filthy... nightmares.",
+   "long": "It's filthy. I'll have nightmares￥about this."
+  },
+  {
+   "off": 18501,
+   "budget": 37,
+   "en": "It's filthy and discolored."
+  },
+  {
+   "off": 18538,
+   "budget": 35,
+   "en": "Metal, check what's inside this!"
+  },
+  {
+   "off": 18573,
+   "budget": 91,
+   "en": "...I was wrong.￥Tanning oil, ＠赤sun oil＠白.￥No sign of recent use.",
+   "long": "No, it isn't. It's ＠赤tanning oil＠白. It￥doesn't look as if it's been used￥recently."
+  },
+  {
+   "off": 18664,
+   "budget": 79,
+   "en": "There's a world of difference￥between sunscreen and tanning oil!"
+  },
+  {
+   "off": 18743,
+   "budget": 61,
+   "en": "A shop-bought tanning oil.￥The label says as much.",
+   "long": "It's definitely ordinary tanning￥oil. The instructions on the bottle￥say so too."
+  },
+  {
+   "off": 18804,
+   "budget": 43,
+   "en": "Something's off?￥Search it thoroughly.",
+   "long": "Something's wrong here. Check it￥thoroughly."
+  },
+  {
+   "off": 18847,
+   "budget": 87,
+   "en": "Ah, a crack on the board's back.￥Something is poking out.￥A plastic bag, it seems.",
+   "long": "There's a crack on the back of the￥board. Something's sticking out. It￥looks like a plastic bag."
+  },
+  {
+   "off": 18934,
+   "budget": 47,
+   "en": "The board seems to be hollow."
+  },
+  {
+   "off": 18981,
+   "budget": 81,
+   "en": "He does keep his board clean, at￥least. It's waxed to a shine."
+  },
+  {
+   "off": 19062,
+   "budget": 31,
+   "en": "This is LSD!"
+  },
+  {
+   "off": 19093,
+   "budget": 85,
+   "en": "And a super tripper that surely￥wrecks the habitual user,￥neuro-LSD...",
+   "long": "And it's Neuro-LSD, a￥super-hallucinogen said to leave￥habitual users permanently disabled."
+  },
+  {
+   "off": 19178,
+   "budget": 37,
+   "en": "They call it Liquid Sky."
+  },
+  {
+   "off": 19215,
+   "budget": 35,
+   "en": "...The talk outside was true.",
+   "long": "So the men outside were telling the￥truth."
+  },
+  {
+   "off": 19250,
+   "budget": 45,
+   "en": "It's the powdered version of Liquid￥Sky."
+  },
+  {
+   "off": 19295,
+   "budget": 5,
+   "en": "Scum",
+   "long": "Scum in tub"
+  },
+  {
+   "off": 19300,
+   "budget": 83,
+   "en": "Bodily waste and secretions in￥the scum as well. No trace of a￥Snatcher.",
+   "long": "I'm detecting biological waste and￥secretions in the scum too. No￥traces of a Snatcher."
+  },
+  {
+   "off": 19383,
+   "budget": 55,
+   "en": "The scum reads normal,￥as the dust did.",
+   "long": "The scum gives normal readings, just￥like the trash did."
+  },
+  {
+   "off": 19438,
+   "budget": 11,
+   "en": "Sniff"
+  },
+  {
+   "off": 19449,
+   "budget": 21,
+   "en": "...A vile stench.",
+   "long": "What a horrible smell."
+  },
+  {
+   "off": 19470,
+   "budget": 71,
+   "en": "Judging by your reaction, there's no￥Snow Cedar pollen here either."
+  },
+  {
+   "off": 19541,
+   "budget": 61,
+   "en": "No pollen to lead us to a￥Snatcher in this room.",
+   "long": "There's none of the pollen that￥could link this room to a Snatcher."
+  },
+  {
+   "off": 19602,
+   "budget": 69,
+   "en": "The ID card proving all JUNKER￥authority. Keep it safe.",
+   "long": "This ID card certifies all your￥authority as a JUNKER. Take good￥care of it."
+  },
+  {
+   "off": 19671,
+   "budget": 35,
+   "en": "It's the money JUNKER provided."
+  },
+  {
+   "off": 19706,
+   "budget": 35,
+   "en": "It's the candy from Jean's pocket."
+  },
+  {
+   "off": 19741,
+   "budget": 79,
+   "en": "Gibson's memo on where the￥computer data on the Snatcher￥weakness is kept.",
+   "long": "Gibson's note tells us where to find￥his computer data on the Snatchers'￥weakness."
+  },
+  {
+   "off": 19820,
+   "budget": 47,
+   "en": "What does \"Search the house!\" mean?"
+  },
+  {
+   "off": 19867,
+   "budget": 33,
+   "en": "The key to Gibson's desk drawer.",
+   "long": "It's the key to Gibson's desk￥drawer."
+  },
+  {
+   "off": 19900,
+   "budget": 33,
+   "en": "It's quite an antique."
+  },
+  {
+   "off": 19933,
+   "budget": 37,
+   "en": "A chess piece Gibson carried.",
+   "long": "It's the chess piece Gibson was￥carrying."
+  },
+  {
+   "off": 19970,
+   "budget": 45,
+   "en": "A chess piece found in￥Gibson's coat.",
+   "long": "It's the chess piece we found in￥Gibson's coat."
+  },
+  {
+   "off": 20015,
+   "budget": 45,
+   "en": "The disk with the Snatchers'￥weakness.",
+   "long": "It's the disk with data on the￥Snatchers' weakness."
+  },
+  {
+   "off": 20060,
+   "budget": 37,
+   "en": "It's a computer floppy disk."
+  },
+  {
+   "off": 20097,
+   "budget": 81,
+   "en": "It's the sunscreen the Snatchers￥use, if Gibson was right."
+  },
+  {
+   "off": 20178,
+   "budget": 41,
+   "en": "And we confirmed it at Joy Division."
+  },
+  {
+   "off": 20219,
+   "budget": 71,
+   "en": "Plain sunblock.￥The seal carries the logo of￥the shop it came from.",
+   "long": "It's just sunscreen. The sticker has￥the logo of the store that sold it."
+  },
+  {
+   "off": 20290,
+   "budget": 47,
+   "en": "It's a costume mask bought at Joy￥Division.",
+   "long": "It's the costume mask we bought at￥Joy Division."
+  },
+  {
+   "off": 20337,
+   "budget": 21,
+   "en": "It's a Moai mask."
+  },
+  {
+   "off": 20358,
+   "budget": 25,
+   "en": "It's a Koitsu mask."
+  },
+  {
+   "off": 20383,
+   "budget": 41,
+   "en": "It's a photo of Jean Jack Gibson."
+  },
+  {
+   "off": 20424,
+   "budget": 47,
+   "en": "A montage built from a￥witness account.",
+   "long": "It's the composite photo we made￥from the witness's description."
+  },
+  {
+   "off": 20471,
+   "budget": 67,
+   "en": "It has a built-in chip containing￥all your records, Gillian."
+  },
+  {
+   "off": 20538,
+   "budget": 49,
+   "en": "Case expenses are covered￥as work requires.",
+   "long": "In principle, there's no limit on￥reimbursement for necessary￥investigation expenses."
+  },
+  {
+   "off": 20587,
+   "budget": 45,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "long": "It's the candy Jean used to give the￥children at the orphanage."
+  },
+  {
+   "off": 20632,
+   "budget": 25,
+   "en": "It's the note Jean left."
+  },
+  {
+   "off": 20657,
+   "budget": 55,
+   "en": "Plain paper. It's certainly￥Jean's handwriting.",
+   "long": "It's written on ordinary paper. It's￥definitely Jean's handwriting."
+  },
+  {
+   "off": 20712,
+   "budget": 35,
+   "en": "Key to Gibson's squad desk.",
+   "long": "It's the key to Gibson's desk in the￥Squad room."
+  },
+  {
+   "off": 20747,
+   "budget": 85,
+   "en": "What does this key open? Does anyone￥still use keys like this?"
+  },
+  {
+   "off": 20832,
+   "budget": 57,
+   "en": "It's a wooden chess piece. The￥queen."
+  },
+  {
+   "off": 20889,
+   "budget": 37,
+   "en": "It's a carved wooden chess piece."
+  },
+  {
+   "off": 20926,
+   "budget": 45,
+   "en": "The disk holding Gibson's￥case data.",
+   "long": "It's the disk containing Gibson's￥investigation data."
+  },
+  {
+   "off": 20971,
+   "budget": 37,
+   "en": "It's a five-inch floppy disk."
+  },
+  {
+   "off": 21008,
+   "budget": 67,
+   "en": "The bottle says, \"Joy Division, the￥store that has everything.\""
+  },
+  {
+   "off": 21075,
+   "budget": 49,
+   "en": "It was definitely sold at Joy￥Division."
+  },
+  {
+   "off": 21124,
+   "budget": 53,
+   "en": "Tracing where it was bought￥may give us a lead.",
+   "long": "We might find a clue if we look into￥where it was bought."
+  },
+  {
+   "off": 21177,
+   "budget": 63,
+   "en": "A fine special-effects mask by￥Rick Bakery, all the rage now.",
+   "long": "It's one of the popular, detailed￥special-effects masks by Rick￥Bakery."
+  },
+  {
+   "off": 21240,
+   "budget": 41,
+   "en": "A 2D composite photo by Gaudi.",
+   "long": "It's a two-dimensional composite￥photo generated by Gaudi."
+  },
+  {
+   "off": 21281,
+   "budget": 73,
+   "en": "Gibson took it from the chessboard￥at his home. What could it mean?"
+  },
+  {
+   "off": 21354,
+   "budget": 37,
+   "en": "Jean loved riddles."
+  },
+  {
+   "off": 21391,
+   "budget": 31,
+   "en": "Is it hinting at something?",
+   "long": "Could it be a clue to something?"
+  },
+  {
+   "off": 21422,
+   "budget": 35,
+   "en": "It really does look like Ivan."
+  },
+  {
+   "off": 21457,
+   "budget": 53,
+   "en": "We can hardly blame Alphaville's￥matching for that.",
+   "long": "We can't fault Alphaville's matching￥accuracy for that."
+  },
+  {
+   "off": 21510,
+   "budget": 49,
+   "en": "House? Come to think...￥I've no home either.",
+   "long": "Home, huh? Come to think of it, I￥don't have a home to go back to."
+  },
+  {
+   "off": 21559,
+   "budget": 65,
+   "en": "Cheer up. Someday you'll be able to￥live with Jamie again."
+  },
+  {
+   "off": 21624,
+   "budget": 55,
+   "en": "Family life? Maybe that doesn't suit￥a JUNKER."
+  },
+  {
+   "off": 21679,
+   "budget": 21,
+   "en": "Plenty left, surely?",
+   "long": "There's still plenty left, right?"
+  },
+  {
+   "off": 21700,
+   "budget": 47,
+   "en": "It's dropped a bit, with￥your food and drink.",
+   "long": "You've spent quite a lot on all that￥eating and drinking, Gillian."
+  },
+  {
+   "off": 21747,
+   "budget": 45,
+   "en": "Don't make it sound bad.￥They're expenses.",
+   "long": "Don't make me sound bad. Those were￥necessary investigation expenses."
+  },
+  {
+   "off": 21792,
+   "budget": 79,
+   "en": "The truth is...￥(It's cash, so nobody knows how much￥I spend.)",
+   "long": "Actually, (it's cash. If I keep￥quiet, they'll never know how much I￥spent.)"
+  },
+  {
+   "off": 21871,
+   "budget": 19,
+   "en": "Did you say that?",
+   "long": "Did you say something?"
+  },
+  {
+   "off": 21890,
+   "budget": 21,
+   "en": "No. Never mind."
+  },
+  {
+   "off": 21911,
+   "budget": 63,
+   "en": "You shouldn't flash cash around￥here."
+  },
+  {
+   "off": 21974,
+   "budget": 23,
+   "en": "Marked, you mean?",
+   "long": "Someone might come after me?"
+  },
+  {
+   "off": 21997,
+   "budget": 35,
+   "en": "Whether you're a JUNKER or not."
+  },
+  {
+   "off": 22032,
+   "budget": 13,
+   "en": "Continue"
+  },
+  {
+   "off": 22045,
+   "budget": 31,
+   "en": "Then... we continue the case.",
+   "long": "Let's continue the investigation."
+  },
+  {
+   "off": 22076,
+   "budget": 13,
+   "en": "Quit game"
+  },
+  {
+   "off": 22089,
+   "budget": 33,
+   "en": "Then... we end the case here.",
+   "long": "We'll end the investigation here."
+  },
+  {
+   "off": 22124,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

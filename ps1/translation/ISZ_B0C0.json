@@ -1,0 +1,3285 @@
+{
+ "file": "ISZ_B0C0.BIN",
+ "text_base": 10316,
+ "strings": [
+  {
+   "off": 10316,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 10321,
+   "budget": 27,
+   "en": "....Outside Gibson's home.",
+   "long": "We're outside Gibson's house."
+  },
+  {
+   "off": 10348,
+   "budget": 41,
+   "en": "Do you think Catherine is still￥angry?"
+  },
+  {
+   "off": 10389,
+   "budget": 43,
+   "en": "She threw us out. What now?"
+  },
+  {
+   "off": 10432,
+   "budget": 55,
+   "en": "She threw us out again. Please￥behave yourself!"
+  },
+  {
+   "off": 10487,
+   "budget": 25,
+   "en": "You step outside.",
+   "long": "We're back outside Gibson's house."
+  },
+  {
+   "off": 10512,
+   "budget": 19,
+   "en": "Outside the home.",
+   "long": "We're outside Gibson's house."
+  },
+  {
+   "off": 10531,
+   "budget": 9,
+   "en": "Get in",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 10540,
+   "budget": 13,
+   "en": "Come later",
+   "long": "Shall we come back later?"
+  },
+  {
+   "off": 10553,
+   "budget": 19,
+   "en": "Another time.",
+   "long": "Let's try another time."
+  },
+  {
+   "off": 10572,
+   "budget": 11,
+   "en": "Knock"
+  },
+  {
+   "off": 10583,
+   "budget": 33,
+   "en": "You again.￥What is it? Go away!",
+   "long": "You again? What do you want? Go￥away!"
+  },
+  {
+   "off": 10616,
+   "budget": 23,
+   "en": "You're persistent! Go!",
+   "long": "Won't you leave me alone? Go away!"
+  },
+  {
+   "off": 10639,
+   "budget": 49,
+   "en": "No! You said that then￥did something awful!",
+   "long": "No! You said that last time and then￥acted like a creep!"
+  },
+  {
+   "off": 10688,
+   "budget": 23,
+   "en": "I don't believe you!",
+   "long": "I don't trust you anymore! Liar!"
+  },
+  {
+   "off": 10711,
+   "budget": 27,
+   "en": "Go away! I hate you!"
+  },
+  {
+   "off": 10738,
+   "budget": 29,
+   "en": "You really won't be weird?",
+   "long": "You really won't do anything creepy￥again?"
+  },
+  {
+   "off": 10767,
+   "budget": 29,
+   "en": "Never again. I swear."
+  },
+  {
+   "off": 10796,
+   "budget": 35,
+   "en": "Promise... then I'll let you in.",
+   "long": "You promised. All right, I'll let￥you in."
+  },
+  {
+   "off": 10831,
+   "budget": 21,
+   "en": "No more weird stuff?",
+   "long": "You won't do anything creepy again?"
+  },
+  {
+   "off": 10852,
+   "budget": 27,
+   "en": "I won't. I swear."
+  },
+  {
+   "off": 10879,
+   "budget": 35,
+   "en": "All right. Come in."
+  },
+  {
+   "off": 10914,
+   "budget": 45,
+   "en": "It's me, Gillian, Catherine. Open￥up."
+  },
+  {
+   "off": 10959,
+   "budget": 27,
+   "en": "Oh, Gillian? Come in."
+  },
+  {
+   "off": 10986,
+   "budget": 33,
+   "en": "Oh, Gillian. Come in."
+  },
+  {
+   "off": 11019,
+   "budget": 71,
+   "en": "You again? If you're really a￥JUNKER, answer my questions."
+  },
+  {
+   "off": 11090,
+   "budget": 43,
+   "en": "Show me your JUNKER ID again first."
+  },
+  {
+   "off": 11133,
+   "budget": 87,
+   "en": "You again? Prove you're a JUNKER or￥I won't let you in."
+  },
+  {
+   "off": 11220,
+   "budget": 63,
+   "en": "Anyone can say that! Show me some￥identification!"
+  },
+  {
+   "off": 11283,
+   "budget": 21,
+   "en": "Who is it?"
+  },
+  {
+   "off": 11304,
+   "budget": 21,
+   "en": "Who's there?"
+  },
+  {
+   "off": 11325,
+   "budget": 21,
+   "en": "Tell me your name."
+  },
+  {
+   "off": 11346,
+   "budget": 29,
+   "en": "Enough! What do you want?"
+  },
+  {
+   "off": 11375,
+   "budget": 21,
+   "en": "Honestly, who is it?",
+   "long": "Stop it! Who are you?"
+  },
+  {
+   "off": 11396,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 11401,
+   "budget": 5,
+   "en": "Bldg",
+   "long": "Building"
+  },
+  {
+   "off": 11406,
+   "budget": 47,
+   "en": "A stylish house in the early￥American style."
+  },
+  {
+   "off": 11453,
+   "budget": 25,
+   "en": "This is Jean's house."
+  },
+  {
+   "off": 11478,
+   "budget": 3,
+   "en": "Wn",
+   "long": "Window"
+  },
+  {
+   "off": 11481,
+   "budget": 25,
+   "en": "Light from the window.",
+   "long": "Light is coming through the window."
+  },
+  {
+   "off": 11506,
+   "budget": 55,
+   "en": "Not blind glass, it seems.￥You can see inside well.",
+   "long": "It doesn't seem to be dimming glass.￥I can see inside clearly."
+  },
+  {
+   "off": 11561,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 11568,
+   "budget": 43,
+   "en": "A northern district.￥Unlike the South.",
+   "long": "A northern residential district.￥Very different from the south."
+  },
+  {
+   "off": 11611,
+   "budget": 53,
+   "en": "The plots are large, so￥neighbours are far off.",
+   "long": "The lots are large here, so the￥neighbors are far away."
+  },
+  {
+   "off": 11664,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 11671,
+   "budget": 51,
+   "en": "The front door faces you.￥No doorbell in sight.",
+   "long": "That's the front door. There doesn't￥seem to be a doorbell."
+  },
+  {
+   "off": 11722,
+   "budget": 21,
+   "en": "Shall I knock?"
+  },
+  {
+   "off": 11743,
+   "budget": 25,
+   "en": "A replica timber house.",
+   "long": "It's a replica of a wooden house."
+  },
+  {
+   "off": 11768,
+   "budget": 65,
+   "en": "The windows are securely locked. The￥glass appears reinforced."
+  },
+  {
+   "off": 11833,
+   "budget": 33,
+   "en": "Sensor reading. Someone inside.",
+   "long": "My sensors detect someone inside."
+  },
+  {
+   "off": 11866,
+   "budget": 41,
+   "en": "Of course. Catherine's inside."
+  },
+  {
+   "off": 11907,
+   "budget": 45,
+   "en": "A quiet, rich street.￥Nobody in sight.",
+   "long": "A quiet, wealthy neighborhood. No￥one in sight."
+  },
+  {
+   "off": 11952,
+   "budget": 41,
+   "en": "The roads and trees are well kept.",
+   "long": "The roads and trees are well￥maintained."
+  },
+  {
+   "off": 11993,
+   "budget": 5,
+   "en": "Talk"
+  },
+  {
+   "off": 11998,
+   "budget": 39,
+   "en": "Catherine? I'm a JUNKER."
+  },
+  {
+   "off": 12037,
+   "budget": 61,
+   "en": "Gillian Seed. I've just been￥assigned to JUNKER HQ."
+  },
+  {
+   "off": 12098,
+   "budget": 37,
+   "en": "The Chief should have called you."
+  },
+  {
+   "off": 12135,
+   "budget": 73,
+   "en": "Really? You're a JUNKER? Then prove￥it!"
+  },
+  {
+   "off": 12208,
+   "budget": 13,
+   "en": "Prove it?"
+  },
+  {
+   "off": 12221,
+   "budget": 31,
+   "en": "She means your JUNKER ID."
+  },
+  {
+   "off": 12252,
+   "budget": 47,
+   "en": "I won't believe you without proof!"
+  },
+  {
+   "off": 12299,
+   "budget": 55,
+   "en": "Catherine? It's Gillian from JUNKER.￥Open up."
+  },
+  {
+   "off": 12354,
+   "budget": 21,
+   "en": "No! You creep!"
+  },
+  {
+   "off": 12375,
+   "budget": 25,
+   "en": "The joke went too far.",
+   "long": "You took the joke too far."
+  },
+  {
+   "off": 12400,
+   "budget": 81,
+   "en": "Catherine seems badly shaken. She￥probably can't trust anyone now."
+  },
+  {
+   "off": 12481,
+   "budget": 13,
+   "en": "Answer"
+  },
+  {
+   "off": 12494,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 12499,
+   "budget": 7,
+   "en": "Show"
+  },
+  {
+   "off": 12506,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 12521,
+   "budget": 37,
+   "en": "You're the only Runner left now."
+  },
+  {
+   "off": 12558,
+   "budget": 33,
+   "en": "It looks genuine."
+  },
+  {
+   "off": 12591,
+   "budget": 95,
+   "en": "That's not enough. Tell me how old￥my father was. A JUNKER should know."
+  },
+  {
+   "off": 12686,
+   "budget": 31,
+   "en": "It does look genuine."
+  },
+  {
+   "off": 12717,
+   "budget": 41,
+   "en": "But that alone...￥answer my questions!",
+   "long": "But that's not enough. Answer my￥questions!"
+  },
+  {
+   "off": 12758,
+   "budget": 9,
+   "en": "Manhood"
+  },
+  {
+   "off": 12767,
+   "budget": 35,
+   "en": "What are you showing her!",
+   "long": "What are you showing her?! Honestly!"
+  },
+  {
+   "off": 12802,
+   "budget": 43,
+   "en": "Sorry. I got carried away."
+  },
+  {
+   "off": 12845,
+   "budget": 9,
+   "en": "Pervert!"
+  },
+  {
+   "off": 12854,
+   "budget": 45,
+   "en": "Stop that! You'll only lose her￥trust."
+  },
+  {
+   "off": 12899,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 12914,
+   "budget": 13,
+   "en": "Videophone"
+  },
+  {
+   "off": 12927,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 12938,
+   "budget": 37,
+   "en": "I'll save your progress now."
+  },
+  {
+   "off": 12975,
+   "budget": 23,
+   "en": "Catherine! Are you in?",
+   "long": "Catherine! Are you there?"
+  },
+  {
+   "off": 12998,
+   "budget": 33,
+   "en": "Catherine! Won't you open up!?",
+   "long": "Catherine! Will you open the door?"
+  },
+  {
+   "off": 13031,
+   "budget": 29,
+   "en": "Open up, Catherine!"
+  },
+  {
+   "off": 13060,
+   "budget": 49,
+   "en": "If you're a JUNKER, show me proof!"
+  },
+  {
+   "off": 13109,
+   "budget": 15,
+   "en": "Gibson's age"
+  },
+  {
+   "off": 13124,
+   "budget": 19,
+   "en": "...Father's age?",
+   "long": "How old was my father?"
+  },
+  {
+   "off": 13143,
+   "budget": 113,
+   "en": "Use the directional buttons to￥choose numbers. Press ＠赤START＠白 or￥select ＠赤OK＠白 to answer."
+  },
+  {
+   "off": 13256,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13263,
+   "budget": 5,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13268,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13275,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13282,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13289,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13296,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13303,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13310,
+   "budget": 19,
+   "en": "F-fifty-five!"
+  },
+  {
+   "off": 13329,
+   "budget": 29,
+   "en": "Again. Fifty-five!"
+  },
+  {
+   "off": 13358,
+   "budget": 9,
+   "en": "Correct."
+  },
+  {
+   "off": 13367,
+   "budget": 81,
+   "en": "That's still not enough. Tell me my￥measurements!"
+  },
+  {
+   "off": 13448,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13455,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13462,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13469,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13476,
+   "budget": 13,
+   "en": "Measurements"
+  },
+  {
+   "off": 13489,
+   "budget": 31,
+   "en": "Why ask a question like that?",
+   "long": "Why is she asking all these￥questions?"
+  },
+  {
+   "off": 13520,
+   "budget": 77,
+   "en": "She knows JUNKERs can access￥Alphaville."
+  },
+  {
+   "off": 13597,
+   "budget": 37,
+   "en": "You saw her data on Gaudi?",
+   "long": "You saw her data on Gaudi, didn't￥you?"
+  },
+  {
+   "off": 13634,
+   "budget": 55,
+   "en": "So Gaudi has her data."
+  },
+  {
+   "off": 13689,
+   "budget": 19,
+   "en": "A clever girl.",
+   "long": "She's a clever girl."
+  },
+  {
+   "off": 13708,
+   "budget": 31,
+   "en": "First, my bust measurement."
+  },
+  {
+   "off": 13739,
+   "budget": 35,
+   "en": "Again, starting with my bust."
+  },
+  {
+   "off": 13774,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13781,
+   "budget": 9,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13790,
+   "budget": 25,
+   "en": "You don't need the zero.",
+   "long": "You don't need the zero in front."
+  },
+  {
+   "off": 13815,
+   "budget": 33,
+   "en": "Three digits, no? Drop the zero.",
+   "long": "That's three digits. Remove the zero￥in front."
+  },
+  {
+   "off": 13848,
+   "budget": 5,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13853,
+   "budget": 33,
+   "en": "It can hardly be one digit!!",
+   "long": "It couldn't possibly be a single￥digit!"
+  },
+  {
+   "off": 13886,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13893,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 13900,
+   "budget": 47,
+   "en": "I'm good at this. Eighty-one!"
+  },
+  {
+   "off": 13947,
+   "budget": 27,
+   "en": "Let's see. Eighty-one!"
+  },
+  {
+   "off": 13974,
+   "budget": 45,
+   "en": "Correct. Now my waist?"
+  },
+  {
+   "off": 14019,
+   "budget": 19,
+   "en": "Fifty-eight!"
+  },
+  {
+   "off": 14038,
+   "budget": 37,
+   "en": "That's easy. Fifty-eight!"
+  },
+  {
+   "off": 14075,
+   "budget": 49,
+   "en": "Correct again. Last one. My hips?"
+  },
+  {
+   "off": 14124,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 14131,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 14138,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 14145,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 14152,
+   "budget": 47,
+   "en": "I know this! Eighty-three!"
+  },
+  {
+   "off": 14199,
+   "budget": 41,
+   "en": "...All correct.￥You seem genuine.",
+   "long": "All correct. You seem to be the real￥thing."
+  },
+  {
+   "off": 14240,
+   "budget": 23,
+   "en": "Wait, I'll open up.",
+   "long": "Wait. I'll open the door."
+  },
+  {
+   "off": 14263,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 14270,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 14277,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 14284,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 14291,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 14298,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 14305,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 14312,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 14319,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 14326,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 14333,
+   "budget": 9,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 14342,
+   "budget": 39,
+   "en": "And three digits! How rude!"
+  },
+  {
+   "off": 14381,
+   "budget": 37,
+   "en": "And three digits!!￥...Joking?",
+   "long": "Three digits?! You've got to be￥joking!"
+  },
+  {
+   "off": 14418,
+   "budget": 33,
+   "en": "You haven't entered anything."
+  },
+  {
+   "off": 14451,
+   "budget": 45,
+   "en": "You need to enter something,￥Gillian!"
+  },
+  {
+   "off": 14496,
+   "budget": 37,
+   "en": "Please enter something, Gillian!"
+  },
+  {
+   "off": 14533,
+   "budget": 31,
+   "en": "How's that? Right, isn't it?"
+  },
+  {
+   "off": 14564,
+   "budget": 25,
+   "en": "About this, maybe?"
+  },
+  {
+   "off": 14589,
+   "budget": 29,
+   "en": "Roughly like this...?",
+   "long": "I think it's something like this."
+  },
+  {
+   "off": 14618,
+   "budget": 23,
+   "en": "A wild guess?",
+   "long": "You're just guessing, aren't you?"
+  },
+  {
+   "off": 14641,
+   "budget": 23,
+   "en": "Do you really know?"
+  },
+  {
+   "off": 14664,
+   "budget": 29,
+   "en": "No, that's wrong."
+  },
+  {
+   "off": 14693,
+   "budget": 37,
+   "en": "If you're a JUNKER, try again.",
+   "long": "If you're really a JUNKER, try￥again."
+  },
+  {
+   "off": 14730,
+   "budget": 25,
+   "en": "You were close, though."
+  },
+  {
+   "off": 14755,
+   "budget": 35,
+   "en": "You nearly had it."
+  },
+  {
+   "off": 14790,
+   "budget": 35,
+   "en": "So Papa's age was just a guess!",
+   "long": "So you just guessed my father's age!"
+  },
+  {
+   "off": 14825,
+   "budget": 55,
+   "en": "That's completely wrong. You're no￥JUNKER!"
+  },
+  {
+   "off": 14880,
+   "budget": 37,
+   "en": "So you prefer them large, Gillian?",
+   "long": "Do you prefer women with large￥breasts, Gillian?"
+  },
+  {
+   "off": 14917,
+   "budget": 37,
+   "en": "Well, yes, I suppose I do."
+  },
+  {
+   "off": 14954,
+   "budget": 29,
+   "en": "Then what about Jamie?"
+  },
+  {
+   "off": 14983,
+   "budget": 15,
+   "en": "S-shut up!"
+  },
+  {
+   "off": 14998,
+   "budget": 25,
+   "en": "Am I really that chubby?",
+   "long": "Do you think I'm that fat?"
+  },
+  {
+   "off": 15023,
+   "budget": 23,
+   "en": "I'm not that big!"
+  },
+  {
+   "off": 15046,
+   "budget": 21,
+   "en": "That can't be right!"
+  },
+  {
+   "off": 15067,
+   "budget": 21,
+   "en": "I'm not that thin!"
+  },
+  {
+   "off": 15088,
+   "budget": 47,
+   "en": "You saw Catherine's measurements on￥Gaudi."
+  },
+  {
+   "off": 15135,
+   "budget": 23,
+   "en": "Come on, think hard.",
+   "long": "Come on, try to remember."
+  },
+  {
+   "off": 15158,
+   "budget": 63,
+   "en": "Gaudi's records will tell us￥Catherine's measurements."
+  },
+  {
+   "off": 15221,
+   "budget": 27,
+   "en": "It knows even that?",
+   "long": "It even has that information?"
+  },
+  {
+   "off": 15248,
+   "budget": 33,
+   "en": "...Then other girls' too?",
+   "long": "Does it have other girls'￥measurements, too?"
+  },
+  {
+   "off": 15281,
+   "budget": 29,
+   "en": "What are you thinking?!"
+  },
+  {
+   "off": 15310,
+   "budget": 41,
+   "en": "Shall we go back and check Gaudi?",
+   "long": "Shall we go back and check Gaudi's￥records?"
+  },
+  {
+   "off": 15351,
+   "budget": 43,
+   "en": "We might find out by checking Gaudi."
+  },
+  {
+   "off": 15394,
+   "budget": 41,
+   "en": "You saw Gibson's age on Gaudi?",
+   "long": "You saw Gibson's age on Gaudi,￥didn't you?"
+  },
+  {
+   "off": 15435,
+   "budget": 57,
+   "en": "Gaudi's records will tell us￥Gibson's age."
+  },
+  {
+   "off": 15492,
+   "budget": 23,
+   "en": "Don't you know, Metal?"
+  },
+  {
+   "off": 15515,
+   "budget": 69,
+   "en": "That particular detail is missing￥from my data. I'm sorry."
+  },
+  {
+   "off": 15584,
+   "budget": 37,
+   "en": "Shall we go back to Gaudi's data?",
+   "long": "Shall we go back and check Gaudi's￥records?"
+  },
+  {
+   "off": 15621,
+   "budget": 41,
+   "en": "We might find out by checking Gaudi."
+  },
+  {
+   "off": 15662,
+   "budget": 55,
+   "en": "All right, but don't show me such￥things again...",
+   "long": "All right. But don't show me￥anything like that again."
+  },
+  {
+   "off": 15717,
+   "budget": 23,
+   "en": "That's right, Gillian.",
+   "long": "You heard her, Gillian."
+  },
+  {
+   "off": 15740,
+   "budget": 29,
+   "en": "(What a strong girl.)"
+  },
+  {
+   "off": 15769,
+   "budget": 21,
+   "en": "Gibson's living rm.",
+   "long": "Gibson's living room."
+  },
+  {
+   "off": 15790,
+   "budget": 33,
+   "en": "Gillian... come to apologize?",
+   "long": "Gillian, have you come back to￥apologize?"
+  },
+  {
+   "off": 15823,
+   "budget": 29,
+   "en": "Gillian... something more?",
+   "long": "Gillian, is there something else?"
+  },
+  {
+   "off": 15852,
+   "budget": 41,
+   "en": "I can't say I'm pleased, but come￥in."
+  },
+  {
+   "off": 15893,
+   "budget": 29,
+   "en": "Gillian... what is it today?",
+   "long": "Gillian, what brings you here today?"
+  },
+  {
+   "off": 15922,
+   "budget": 17,
+   "en": "Forget one?",
+   "long": "Oh, did you forget something?"
+  },
+  {
+   "off": 15939,
+   "budget": 45,
+   "en": "What is it, Gillian? I'm glad to see￥you."
+  },
+  {
+   "off": 15984,
+   "budget": 33,
+   "en": "Welcome. We meet again...",
+   "long": "Come in. It's good to see you again."
+  },
+  {
+   "off": 16017,
+   "budget": 47,
+   "en": "Come in, Gillian. I'm glad to see￥you."
+  },
+  {
+   "off": 16064,
+   "budget": 5,
+   "en": "Move"
+  },
+  {
+   "off": 16069,
+   "budget": 9,
+   "en": "Go out"
+  },
+  {
+   "off": 16078,
+   "budget": 75,
+   "en": "Leaving already? You'll come again,￥won't you? I'll be waiting, Gillian."
+  },
+  {
+   "off": 16153,
+   "budget": 5,
+   "en": "Desk",
+   "long": "Study"
+  },
+  {
+   "off": 16158,
+   "budget": 41,
+   "en": "Might I see the study, for￥reference?",
+   "long": "Could I look at his study? It might￥help the investigation."
+  },
+  {
+   "off": 16199,
+   "budget": 13,
+   "en": "Go ahead..."
+  },
+  {
+   "off": 16212,
+   "budget": 43,
+   "en": "Could I look at the study again?"
+  },
+  {
+   "off": 16255,
+   "budget": 11,
+   "en": "Yes..."
+  },
+  {
+   "off": 16266,
+   "budget": 5,
+   "en": "Room",
+   "long": "Inside"
+  },
+  {
+   "off": 16271,
+   "budget": 35,
+   "en": "The room is full of antiques."
+  },
+  {
+   "off": 16306,
+   "budget": 35,
+   "en": "Jean was fussy about furniture.",
+   "long": "Jean seems to have been quite￥interested in furniture."
+  },
+  {
+   "off": 16341,
+   "budget": 5,
+   "en": "Sofa",
+   "long": "Furniture"
+  },
+  {
+   "off": 16346,
+   "budget": 27,
+   "en": "These are all fine pieces."
+  },
+  {
+   "off": 16373,
+   "budget": 81,
+   "en": "The house is rather full, no?￥He kept buying with nowhere￥to put them...",
+   "long": "The house is rather crowded, isn't￥it? He kept buying things when there￥was nowhere to put them."
+  },
+  {
+   "off": 16454,
+   "budget": 51,
+   "en": "He took care over the decor￥and layout.",
+   "long": "He seems to have put a lot of￥thought into the decor and layout."
+  },
+  {
+   "off": 16505,
+   "budget": 37,
+   "en": "Silly, for just two people?",
+   "long": "Rather silly for just two people,￥isn't it?"
+  },
+  {
+   "off": 16542,
+   "budget": 33,
+   "en": "All genuine, not replicas.",
+   "long": "They're all genuine, not replicas."
+  },
+  {
+   "off": 16575,
+   "budget": 47,
+   "en": "Nothing expensive.￥All secondhand, he said...",
+   "long": "They're nothing expensive. He said￥they were all secondhand."
+  },
+  {
+   "off": 16622,
+   "budget": 5,
+   "en": "Ask"
+  },
+  {
+   "off": 16627,
+   "budget": 9,
+   "en": "Do",
+   "long": "Do something"
+  },
+  {
+   "off": 16636,
+   "budget": 11,
+   "en": "Give candy"
+  },
+  {
+   "off": 16647,
+   "budget": 73,
+   "en": "Catherine.￥Must have been a shock...￥Have this candy and take heart.",
+   "long": "Catherine, this must have been a￥terrible shock. Have some candy. It￥might cheer you up."
+  },
+  {
+   "off": 16720,
+   "budget": 65,
+   "en": "Thank you. Oh, this was my favorite￥candy when I was little!"
+  },
+  {
+   "off": 16785,
+   "budget": 21,
+   "en": "How did you know?"
+  },
+  {
+   "off": 16806,
+   "budget": 45,
+   "en": "I didn't. So this was your favorite?"
+  },
+  {
+   "off": 16851,
+   "budget": 21,
+   "en": "Still want candy?",
+   "long": "Would you like some more?"
+  },
+  {
+   "off": 16872,
+   "budget": 79,
+   "en": "Yes, thank you. It's strange. Just￥holding this candy makes me feel￥better."
+  },
+  {
+   "off": 16951,
+   "budget": 57,
+   "en": "Maybe it does. Here, Catherine. Take￥it all."
+  },
+  {
+   "off": 17008,
+   "budget": 55,
+   "en": "Have some when the loneliness gets￥too much to bear."
+  },
+  {
+   "off": 17063,
+   "budget": 13,
+   "en": "Candy talk",
+   "long": "Talk about candy"
+  },
+  {
+   "off": 17076,
+   "budget": 49,
+   "en": "Your father was carrying this candy,￥actually."
+  },
+  {
+   "off": 17125,
+   "budget": 7,
+   "en": "Father",
+   "long": "My father?"
+  },
+  {
+   "off": 17132,
+   "budget": 59,
+   "en": "He gave this candy to the￥children at the orphanage.",
+   "long": "Apparently, he used to give it to￥the children at the orphanage."
+  },
+  {
+   "off": 17191,
+   "budget": 23,
+   "en": "Father did that..."
+  },
+  {
+   "off": 17214,
+   "budget": 71,
+   "en": "It was in his coat when he died."
+  },
+  {
+   "off": 17285,
+   "budget": 11,
+   "en": "Papa..."
+  },
+  {
+   "off": 17296,
+   "budget": 21,
+   "en": "Gibson's study."
+  },
+  {
+   "off": 17317,
+   "budget": 31,
+   "en": "It's all right, only a crow.",
+   "long": "It's all right. It was only a crow."
+  },
+  {
+   "off": 17348,
+   "budget": 13,
+   "en": "I see."
+  },
+  {
+   "off": 17361,
+   "budget": 75,
+   "en": "Father's study.￥Nothing touched since￥yesterday. As he left it.",
+   "long": "This is my father's study. I haven't￥touched anything since yesterday.￥It's just as he left it."
+  },
+  {
+   "off": 17436,
+   "budget": 5,
+   "en": "Yard",
+   "long": "Backyard"
+  },
+  {
+   "off": 17441,
+   "budget": 31,
+   "en": "Could I see the backyard?"
+  },
+  {
+   "off": 17472,
+   "budget": 25,
+   "en": "A small garden, bare.",
+   "long": "It's only a small, empty yard."
+  },
+  {
+   "off": 17497,
+   "budget": 23,
+   "en": "Watch out for Alice."
+  },
+  {
+   "off": 17520,
+   "budget": 9,
+   "en": "Alice?"
+  },
+  {
+   "off": 17529,
+   "budget": 25,
+   "en": "My dog."
+  },
+  {
+   "off": 17554,
+   "budget": 11,
+   "en": "All right."
+  },
+  {
+   "off": 17565,
+   "budget": 5,
+   "en": "Room",
+   "long": "Living room"
+  },
+  {
+   "off": 17570,
+   "budget": 59,
+   "en": "A study that suits Jean. Oh, there's￥a ＠赤computer＠白."
+  },
+  {
+   "off": 17629,
+   "budget": 3,
+   "en": "De",
+   "long": "Desk"
+  },
+  {
+   "off": 17632,
+   "budget": 61,
+   "en": "On the desk, a ＠赤bottle＠白,￥＠赤photo＠白, chess set.",
+   "long": "There's a ＠赤bottle＠白, a ＠赤photo＠白 and a￥chessboard on the desk."
+  },
+  {
+   "off": 17693,
+   "budget": 25,
+   "en": "A view of the garden.",
+   "long": "You can see the backyard from here."
+  },
+  {
+   "off": 17718,
+   "budget": 33,
+   "en": "A garden!? ...A house with one.",
+   "long": "A yard? A whole house with its own￥yard!"
+  },
+  {
+   "off": 17751,
+   "budget": 59,
+   "en": "It faces north, and it's tiny."
+  },
+  {
+   "off": 17810,
+   "budget": 9,
+   "en": "Computer"
+  },
+  {
+   "off": 17819,
+   "budget": 51,
+   "en": "Quite an old computer.￥Never seen one before.",
+   "long": "That's a very old computer. I've￥never seen one like it."
+  },
+  {
+   "off": 17870,
+   "budget": 59,
+   "en": "Father used it. Got it from￥a junk shop and repaired it.",
+   "long": "My father used it. He apparently￥found it at a junk shop and repaired￥it."
+  },
+  {
+   "off": 17929,
+   "budget": 3,
+   "en": "Bo",
+   "long": "Bottle"
+  },
+  {
+   "off": 17932,
+   "budget": 45,
+   "en": "It's still full. It looks new."
+  },
+  {
+   "off": 17977,
+   "budget": 5,
+   "en": "Pic",
+   "long": "Photo"
+  },
+  {
+   "off": 17982,
+   "budget": 45,
+   "en": "A photo of Jean Jack Gibson."
+  },
+  {
+   "off": 18027,
+   "budget": 9,
+   "en": "Chessmen",
+   "long": "Chessboard"
+  },
+  {
+   "off": 18036,
+   "budget": 41,
+   "en": "The chess pieces are neatly￥arranged."
+  },
+  {
+   "off": 18077,
+   "budget": 85,
+   "en": "My father loved chess. I can't play,￥though, so he seemed bored."
+  },
+  {
+   "off": 18162,
+   "budget": 37,
+   "en": "A wood-grain aluminium window.",
+   "long": "The window has an aluminum frame￥with a wood finish."
+  },
+  {
+   "off": 18199,
+   "budget": 31,
+   "en": "It has a double lock."
+  },
+  {
+   "off": 18230,
+   "budget": 27,
+   "en": "Father was cautious...",
+   "long": "My father was very careful."
+  },
+  {
+   "off": 18257,
+   "budget": 45,
+   "en": "It has a five-inch disk drive."
+  },
+  {
+   "off": 18302,
+   "budget": 63,
+   "en": "Five-inch? That disk must be for￥this computer."
+  },
+  {
+   "off": 18365,
+   "budget": 49,
+   "en": "Gillian, let's try loading the disk."
+  },
+  {
+   "off": 18414,
+   "budget": 21,
+   "en": "I'll analyze it."
+  },
+  {
+   "off": 18435,
+   "budget": 77,
+   "en": "I have it. It's sunscreen, for￥protection against ultraviolet rays."
+  },
+  {
+   "off": 18512,
+   "budget": 71,
+   "en": "There's a seal on it.￥From the shop where it was bought,￥perhaps?",
+   "long": "There's also a sticker. Could it be￥from the shop where he bought it?"
+  },
+  {
+   "off": 18583,
+   "budget": 71,
+   "en": "It says, \"＠赤JOY DIVISION＠白. The store￥that has everything.\""
+  },
+  {
+   "off": 18654,
+   "budget": 61,
+   "en": "Joy Division. Now we have a￥connection."
+  },
+  {
+   "off": 18715,
+   "budget": 43,
+   "en": "A sunscreen against￥ultraviolet light.",
+   "long": "It's sunscreen, for protection￥against ultraviolet rays."
+  },
+  {
+   "off": 18758,
+   "budget": 63,
+   "en": "This photo was taken some time ago.￥Jean looks younger."
+  },
+  {
+   "off": 18821,
+   "budget": 31,
+   "en": "The queen's square is empty."
+  },
+  {
+   "off": 18852,
+   "budget": 35,
+   "en": "So the queen's missing.",
+   "long": "You're right. The queen is missing."
+  },
+  {
+   "off": 18887,
+   "budget": 61,
+   "en": "This set matches the piece we found￥in Jean's coat."
+  },
+  {
+   "off": 18948,
+   "budget": 45,
+   "en": "The piece I have must belong to this￥set."
+  },
+  {
+   "off": 18993,
+   "budget": 23,
+   "en": "How did you know?"
+  },
+  {
+   "off": 19016,
+   "budget": 45,
+   "en": "I didn't. So this was your favorite￥candy."
+  },
+  {
+   "off": 19061,
+   "budget": 5,
+   "en": "Use"
+  },
+  {
+   "off": 19066,
+   "budget": 9,
+   "en": "Disk"
+  },
+  {
+   "off": 19075,
+   "budget": 63,
+   "en": "Let's turn on the computer and load￥the disk."
+  },
+  {
+   "off": 19138,
+   "budget": 51,
+   "en": "Let's load the disk again."
+  },
+  {
+   "off": 19189,
+   "budget": 57,
+   "en": "'Search the house' in the memo￥meant Gibson's house...",
+   "long": "The note said to search the house.￥It meant Gibson's house."
+  },
+  {
+   "off": 19246,
+   "budget": 57,
+   "en": "And the \"!\" on this note wasn't an￥exclamation mark."
+  },
+  {
+   "off": 19303,
+   "budget": 53,
+   "en": "It was a drawing of a five-inch￥disk."
+  },
+  {
+   "off": 19356,
+   "budget": 87,
+   "en": "Look closely. The index hole￥marking the start of a read￥is drawn on it.",
+   "long": "Look closely. He even drew the index￥hole that marks where the disk￥begins reading and writing."
+  },
+  {
+   "off": 19443,
+   "budget": 55,
+   "en": "So he meant us to put the disk in￥the computer."
+  },
+  {
+   "off": 19498,
+   "budget": 99,
+   "en": "Jean must have realized he was a￥target and kept this disk in case￥something happened."
+  },
+  {
+   "off": 19597,
+   "budget": 49,
+   "en": "Catherine, could I borrow this￥photo?"
+  },
+  {
+   "off": 19646,
+   "budget": 37,
+   "en": "Let's show this photo to Isabella."
+  },
+  {
+   "off": 19683,
+   "budget": 37,
+   "en": "I've taken Jean's photo."
+  },
+  {
+   "off": 19720,
+   "budget": 43,
+   "en": "So this is the sunblock Gibson￥meant.",
+   "long": "So this is the sunscreen Gibson￥mentioned."
+  },
+  {
+   "off": 19763,
+   "budget": 13,
+   "en": "But..."
+  },
+  {
+   "off": 19776,
+   "budget": 55,
+   "en": "Why has Gibson sunblock?￥It must mean something.",
+   "long": "Why did Gibson have sunscreen? It￥must be connected somehow."
+  },
+  {
+   "off": 19831,
+   "budget": 27,
+   "en": "Can I take this?"
+  },
+  {
+   "off": 19858,
+   "budget": 19,
+   "en": "Yes, of course."
+  },
+  {
+   "off": 19877,
+   "budget": 31,
+   "en": "I've taken the sunscreen."
+  },
+  {
+   "off": 19908,
+   "budget": 33,
+   "en": "Reading the disk."
+  },
+  {
+   "off": 19941,
+   "budget": 15,
+   "en": "Here it is..."
+  },
+  {
+   "off": 19956,
+   "budget": 35,
+   "en": "So that's it. Their weakness."
+  },
+  {
+   "off": 19991,
+   "budget": 59,
+   "en": "Was Jean killed because he found￥that hospital?"
+  },
+  {
+   "off": 20052,
+   "budget": 11,
+   "en": "Garden.",
+   "long": "The backyard."
+  },
+  {
+   "off": 20063,
+   "budget": 11,
+   "en": "To study",
+   "long": "Back to study"
+  },
+  {
+   "off": 20074,
+   "budget": 35,
+   "en": "Motion reading! Something nears!",
+   "long": "Motion detected! Something's￥approaching!"
+  },
+  {
+   "off": 20109,
+   "budget": 21,
+   "en": "What?! Ahead of us?",
+   "long": "What?! In front of us?"
+  },
+  {
+   "off": 20130,
+   "budget": 41,
+   "en": "Yes. Seven meters away. Six. Five."
+  },
+  {
+   "off": 20171,
+   "budget": 29,
+   "en": "Nothing there! A fly again?",
+   "long": "There's nothing there! Another fly?"
+  },
+  {
+   "off": 20200,
+   "budget": 33,
+   "en": "No! It's a mosquito."
+  },
+  {
+   "off": 20233,
+   "budget": 13,
+   "en": "......"
+  },
+  {
+   "off": 20246,
+   "budget": 37,
+   "en": "Oh! Alice caught it."
+  },
+  {
+   "off": 20283,
+   "budget": 25,
+   "en": "...A mosquito hound...",
+   "long": "A mosquito-catching dog, huh?"
+  },
+  {
+   "off": 20308,
+   "budget": 27,
+   "en": "What was that, Gillian?"
+  },
+  {
+   "off": 20335,
+   "budget": 23,
+   "en": "No, nothing..."
+  },
+  {
+   "off": 20358,
+   "budget": 7,
+   "en": "Alice"
+  },
+  {
+   "off": 20365,
+   "budget": 29,
+   "en": "She seems frightened.",
+   "long": "She seems frightened of something."
+  },
+  {
+   "off": 20394,
+   "budget": 25,
+   "en": "A purebred Doberman.",
+   "long": "She's a purebred Doberman."
+  },
+  {
+   "off": 20419,
+   "budget": 41,
+   "en": "The top breed in￥Neo Kobe now.",
+   "long": "They're the most popular breed in￥Neo Kobe right now."
+  },
+  {
+   "off": 20460,
+   "budget": 47,
+   "en": "Guard dogs rose with the￥Snatcher problem?",
+   "long": "The Snatcher problem made guard dogs￥popular, right?"
+  },
+  {
+   "off": 20507,
+   "budget": 45,
+   "en": "Yes. Before that, people preferred￥lapdogs."
+  },
+  {
+   "off": 20552,
+   "budget": 47,
+   "en": "Pricey, with pedigree and￥genes guaranteed.",
+   "long": "An expensive breed with a guaranteed￥pedigree and genetic purity."
+  },
+  {
+   "off": 20599,
+   "budget": 7,
+   "en": "Bushes"
+  },
+  {
+   "off": 20606,
+   "budget": 27,
+   "en": "The bushes are rustling."
+  },
+  {
+   "off": 20633,
+   "budget": 51,
+   "en": "It isn't the wind.￥Something is in there.",
+   "long": "It's not the wind. Something seems￥to be in there."
+  },
+  {
+   "off": 20684,
+   "budget": 33,
+   "en": "The yard is well kept."
+  },
+  {
+   "off": 20717,
+   "budget": 5,
+   "en": "Dark"
+  },
+  {
+   "off": 20722,
+   "budget": 33,
+   "en": "No readings beyond the wall.",
+   "long": "No readings from beyond the wall."
+  },
+  {
+   "off": 20755,
+   "budget": 45,
+   "en": "The lamp's glare is jamming￥my sensor.",
+   "long": "The streetlight is interfering with￥my sensors."
+  },
+  {
+   "off": 20800,
+   "budget": 35,
+   "en": "I can't see well in this￥light.",
+   "long": "The streetlight isn't bright enough￥to see by."
+  },
+  {
+   "off": 20835,
+   "budget": 35,
+   "en": "I'm not good with dogs,￥sorry.",
+   "long": "Sorry, but I don't get along with￥dogs."
+  },
+  {
+   "off": 20870,
+   "budget": 53,
+   "en": "Dogs hate Navigators. Please don't￥make me."
+  },
+  {
+   "off": 20923,
+   "budget": 31,
+   "en": "Something lurks in the bushes!",
+   "long": "Something's hiding in the bushes!"
+  },
+  {
+   "off": 20954,
+   "budget": 35,
+   "en": "I can't tell what it is from here."
+  },
+  {
+   "off": 20989,
+   "budget": 25,
+   "en": "Ouch! Thorns?"
+  },
+  {
+   "off": 21014,
+   "budget": 41,
+   "en": "Gene-spliced thorns,￥grown to guard.",
+   "long": "They're thorny plants genetically￥engineered for security."
+  },
+  {
+   "off": 21055,
+   "budget": 37,
+   "en": "Common in the wealthy districts.",
+   "long": "They're common in expensive￥neighborhoods."
+  },
+  {
+   "off": 21092,
+   "budget": 19,
+   "en": "Guarded by shrub",
+   "long": "Plants for security, huh..."
+  },
+  {
+   "off": 21111,
+   "budget": 31,
+   "en": "...Nothing there now, surely.",
+   "long": "There's nothing left in there now."
+  },
+  {
+   "off": 21142,
+   "budget": 37,
+   "en": "Motion detected! Something's moving!"
+  },
+  {
+   "off": 21179,
+   "budget": 37,
+   "en": "It's too dark to see clearly."
+  },
+  {
+   "off": 21216,
+   "budget": 15,
+   "en": "Calm Alice"
+  },
+  {
+   "off": 21231,
+   "budget": 39,
+   "en": "Easy, Alice. Good girl. What's￥wrong?"
+  },
+  {
+   "off": 21270,
+   "budget": 35,
+   "en": "What is it, Alice?￥Something?",
+   "long": "What is it, Alice? Is something￥there?"
+  },
+  {
+   "off": 21305,
+   "budget": 21,
+   "en": "...Nothing there.",
+   "long": "There's nothing there."
+  },
+  {
+   "off": 21326,
+   "budget": 29,
+   "en": "Nothing on my sensors."
+  },
+  {
+   "off": 21355,
+   "budget": 27,
+   "en": "Nothing out of order.",
+   "long": "I don't see anything unusual."
+  },
+  {
+   "off": 21382,
+   "budget": 21,
+   "en": "No motion detected."
+  },
+  {
+   "off": 21403,
+   "budget": 11,
+   "en": "Catherine"
+  },
+  {
+   "off": 21414,
+   "budget": 67,
+   "en": "Rather alluring for fourteen...￥She is a model, after all.",
+   "long": "She's pretty alluring for￥fourteen... She's not a model for￥nothing."
+  },
+  {
+   "off": 21481,
+   "budget": 29,
+   "en": "Rather alluring for 14...",
+   "long": "She's pretty alluring for￥fourteen..."
+  },
+  {
+   "off": 21510,
+   "budget": 23,
+   "en": "What are you thinking?"
+  },
+  {
+   "off": 21533,
+   "budget": 49,
+   "en": "Don't stare. My makeup's a mess,￥isn't it?"
+  },
+  {
+   "off": 21582,
+   "budget": 67,
+   "en": "I'm used to people looking at me,￥but usually through a camera."
+  },
+  {
+   "off": 21649,
+   "budget": 41,
+   "en": "Right,￥then let's have you undress.",
+   "long": "All right, then let's have you take￥your clothes off."
+  },
+  {
+   "off": 21690,
+   "budget": 23,
+   "en": "Not at such a time!",
+   "long": "This is no time for that!"
+  },
+  {
+   "off": 21713,
+   "budget": 45,
+   "en": "Thank you for trying to make me￥laugh."
+  },
+  {
+   "off": 21758,
+   "budget": 27,
+   "en": "(I meant it, though.)"
+  },
+  {
+   "off": 21785,
+   "budget": 35,
+   "en": "Then let's have you take that off.",
+   "long": "Well then, how about you get out of￥those clothes."
+  },
+  {
+   "off": 21820,
+   "budget": 23,
+   "en": "That's no joke!",
+   "long": "That goes beyond a joke!"
+  },
+  {
+   "off": 21843,
+   "budget": 17,
+   "en": "Off with it!",
+   "long": "Come on, take it off?!"
+  },
+  {
+   "off": 21860,
+   "budget": 25,
+   "en": "If you can't, I'll help?",
+   "long": "If you can't get it off, want me to￥help?"
+  },
+  {
+   "off": 21885,
+   "budget": 13,
+   "en": "About Gibson"
+  },
+  {
+   "off": 21898,
+   "budget": 57,
+   "en": "My father was a great JUNKER. Wasn't￥he, Gillian?"
+  },
+  {
+   "off": 21955,
+   "budget": 25,
+   "en": "Yes, he was."
+  },
+  {
+   "off": 21980,
+   "budget": 37,
+   "en": "I'm proud of my father."
+  },
+  {
+   "off": 22017,
+   "budget": 93,
+   "en": "We hadn't talked much lately. He was￥always researching something, alone￥in his study."
+  },
+  {
+   "off": 22110,
+   "budget": 25,
+   "en": "Dad... *sniff*"
+  },
+  {
+   "off": 22135,
+   "budget": 41,
+   "en": "I'm sorry. I brought it all back."
+  },
+  {
+   "off": 22176,
+   "budget": 51,
+   "en": "If I'd known, I would have been￥kinder to him."
+  },
+  {
+   "off": 22227,
+   "budget": 59,
+   "en": "Same goes for you, Gillian.￥You never know when.",
+   "long": "That goes for you too, Gillian. You￥never know what might happen."
+  },
+  {
+   "off": 22286,
+   "budget": 53,
+   "en": "You should tell your wife how you￥feel."
+  },
+  {
+   "off": 22339,
+   "budget": 59,
+   "en": "You haven't seen her, have you?￥Why not videophone her?",
+   "long": "You haven't seen her, have you? Why￥not give her a video call?"
+  },
+  {
+   "off": 22398,
+   "budget": 27,
+   "en": "All right. All right."
+  },
+  {
+   "off": 22425,
+   "budget": 29,
+   "en": "About his work, nothing...",
+   "long": "I don't know anything about my￥father's work."
+  },
+  {
+   "off": 22454,
+   "budget": 15,
+   "en": "Catherine",
+   "long": "About Catherine"
+  },
+  {
+   "off": 22469,
+   "budget": 27,
+   "en": "Used to being alone yet?",
+   "long": "How are you doing? Getting used to￥being on your own?"
+  },
+  {
+   "off": 22496,
+   "budget": 25,
+   "en": "Yes, more or less."
+  },
+  {
+   "off": 22521,
+   "budget": 91,
+   "en": "Let's go into town together￥sometime. I'd like to go shopping.￥Can we, Gillian?"
+  },
+  {
+   "off": 22612,
+   "budget": 13,
+   "en": "Of course."
+  },
+  {
+   "off": 22625,
+   "budget": 53,
+   "en": "To Altamira?￥The Christmas lights are nice.",
+   "long": "How about Altamira? The Christmas￥decorations are beautiful."
+  },
+  {
+   "off": 22678,
+   "budget": 37,
+   "en": "Altamira? Do you go there often?"
+  },
+  {
+   "off": 22715,
+   "budget": 69,
+   "en": "Yes. My father said it was too￥crowded, but I love the atmosphere."
+  },
+  {
+   "off": 22784,
+   "budget": 23,
+   "en": "I see. Shall we go?",
+   "long": "All right. Let's go sometime."
+  },
+  {
+   "off": 22807,
+   "budget": 13,
+   "en": "I'd be glad.",
+   "long": "I'd love that."
+  },
+  {
+   "off": 22820,
+   "budget": 51,
+   "en": "I haven't been out lately,￥so I'd like to go out.",
+   "long": "I haven't been out lately. I'd like￥to go somewhere."
+  },
+  {
+   "off": 22871,
+   "budget": 53,
+   "en": "Catherine, isn't it lonely alone?￥If so...",
+   "long": "Aren't you lonely here by yourself,￥Catherine? If you are..."
+  },
+  {
+   "off": 22924,
+   "budget": 29,
+   "en": "It's fine. Better alone...",
+   "long": "I'm all right. I'd rather be alone￥for now."
+  },
+  {
+   "off": 22953,
+   "budget": 19,
+   "en": "How have you been?",
+   "long": "What have you been doing lately?"
+  },
+  {
+   "off": 22972,
+   "budget": 55,
+   "en": "Staying home. Listening to music,￥reading books."
+  },
+  {
+   "off": 23027,
+   "budget": 81,
+   "en": "School's off for Christmas week.￥I've cancelled my modelling jobs for￥a while.",
+   "long": "School's closed for Christmas week,￥and I've canceled my modeling work￥for a while."
+  },
+  {
+   "off": 23108,
+   "budget": 35,
+   "en": "So I have some time to myself."
+  },
+  {
+   "off": 23143,
+   "budget": 35,
+   "en": "Modeling? You're a model?"
+  },
+  {
+   "off": 23178,
+   "budget": 21,
+   "en": "Yes, didn't you?",
+   "long": "Yes. Didn't you know?"
+  },
+  {
+   "off": 23199,
+   "budget": 37,
+   "en": "Sorry, I'm weak on such things.",
+   "long": "Sorry. I don't know much about that￥sort of thing."
+  },
+  {
+   "off": 23236,
+   "budget": 37,
+   "en": "Being alone calms me￥right now...",
+   "long": "Being alone helps me feel calmer￥right now."
+  },
+  {
+   "off": 23273,
+   "budget": 37,
+   "en": "Me?￥...A bad, cheeky daughter...",
+   "long": "Me? A brat who never appreciated her￥father."
+  },
+  {
+   "off": 23310,
+   "budget": 45,
+   "en": "I'd rather people didn't pry."
+  },
+  {
+   "off": 23355,
+   "budget": 15,
+   "en": "Whale food",
+   "long": "Whale restaurant"
+  },
+  {
+   "off": 23370,
+   "budget": 37,
+   "en": "Whale?￥We've never eaten it.",
+   "long": "Whale meat? We've never eaten that￥at home."
+  },
+  {
+   "off": 23407,
+   "budget": 29,
+   "en": "...Imagine, eating whale.",
+   "long": "I can't imagine eating whales."
+  },
+  {
+   "off": 23436,
+   "budget": 37,
+   "en": "A whale? Isn't that Minilla's dad?"
+  },
+  {
+   "off": 23473,
+   "budget": 27,
+   "en": "Why is she making jokes?"
+  },
+  {
+   "off": 23500,
+   "budget": 51,
+   "en": "Metal! She's trying to make us￥laugh."
+  },
+  {
+   "off": 23551,
+   "budget": 29,
+   "en": "Oh! Yes, of course."
+  },
+  {
+   "off": 23580,
+   "budget": 27,
+   "en": "No, I'm sorry."
+  },
+  {
+   "off": 23607,
+   "budget": 37,
+   "en": "Eating whales is cruel."
+  },
+  {
+   "off": 23644,
+   "budget": 17,
+   "en": "Outer Heaven"
+  },
+  {
+   "off": 23661,
+   "budget": 49,
+   "en": "First I've heard.￥Father went to such a place.",
+   "long": "I had no idea my father went to a￥place like that."
+  },
+  {
+   "off": 23710,
+   "budget": 27,
+   "en": "He must have had a reason."
+  },
+  {
+   "off": 23737,
+   "budget": 47,
+   "en": "To think places serving whale￥still exist...",
+   "long": "I can't believe there are still￥places serving whale meat."
+  },
+  {
+   "off": 23784,
+   "budget": 45,
+   "en": "I wish someone would shut that place￥down."
+  },
+  {
+   "off": 23829,
+   "budget": 45,
+   "en": "Gillian ate it. All by himself."
+  },
+  {
+   "off": 23874,
+   "budget": 37,
+   "en": "Gillian! You ate whale meat?!"
+  },
+  {
+   "off": 23911,
+   "budget": 23,
+   "en": "Barbarian! ...Cruel!!",
+   "long": "You barbarian! That's cruel!"
+  },
+  {
+   "off": 23934,
+   "budget": 35,
+   "en": "Catherine!￥It's a joke... a joke.",
+   "long": "Catherine! He's joking. It's a joke."
+  },
+  {
+   "off": 23969,
+   "budget": 21,
+   "en": "Oh. What a relief."
+  },
+  {
+   "off": 23990,
+   "budget": 15,
+   "en": "About Napoleon"
+  },
+  {
+   "off": 24005,
+   "budget": 33,
+   "en": "That Father used an informant...",
+   "long": "I didn't know my father used an￥informant."
+  },
+  {
+   "off": 24038,
+   "budget": 47,
+   "en": "He never mentioned anyone named￥Napoleon."
+  },
+  {
+   "off": 24085,
+   "budget": 59,
+   "en": "I know Napoleon colour. Isn't that￥this winter's fashion?",
+   "long": "I know about Napoleon collars.￥They're in fashion this winter,￥aren't they?"
+  },
+  {
+   "off": 24144,
+   "budget": 57,
+   "en": "I know Napoleon Bonaparte,￥but that's not it, surely?",
+   "long": "I've heard of Napoleon Bonaparte,￥but that's not who you mean, is it?"
+  },
+  {
+   "off": 24201,
+   "budget": 11,
+   "en": "On Alice",
+   "long": "About Alice"
+  },
+  {
+   "off": 24212,
+   "budget": 53,
+   "en": "Alice is our dog.￥Named for my late mother.",
+   "long": "Alice is our dog. I named her after￥my late mother."
+  },
+  {
+   "off": 24265,
+   "budget": 69,
+   "en": "We had two dogs at first. The other￥was called Teles, but he died."
+  },
+  {
+   "off": 24334,
+   "budget": 79,
+   "en": "We used to call them Aristotle￥together. Alice and Teles. Funny,￥isn't it?"
+  },
+  {
+   "off": 24413,
+   "budget": 53,
+   "en": "Huh? Oh, yes, very funny. Laugh,￥Metal!"
+  },
+  {
+   "off": 24466,
+   "budget": 19,
+   "en": "Ha ha ha! Huh?"
+  },
+  {
+   "off": 24485,
+   "budget": 45,
+   "en": "You've seen her, Gillian. Isn't she￥cute?"
+  },
+  {
+   "off": 24530,
+   "budget": 17,
+   "en": "Joy Division"
+  },
+  {
+   "off": 24547,
+   "budget": 87,
+   "en": "That must be the black market Father￥visited. He said there were￥good antiques.",
+   "long": "I think that's the black market my￥father used to visit. He said you￥could find some great antiques￥there."
+  },
+  {
+   "off": 24634,
+   "budget": 55,
+   "en": "I've never been, but it sounds quite￥dangerous."
+  },
+  {
+   "off": 24689,
+   "budget": 17,
+   "en": "The computer"
+  },
+  {
+   "off": 24706,
+   "budget": 37,
+   "en": "The computer Father used as a diary.",
+   "long": "My father used that computer as a￥diary."
+  },
+  {
+   "off": 24743,
+   "budget": 85,
+   "en": "A model half a century old.￥He said only one was left￥on earth, kept it safe.",
+   "long": "It's a fifty-year-old model. He took￥great care of it. He said it was the￥last one in the world."
+  },
+  {
+   "off": 24828,
+   "budget": 45,
+   "en": "To think Father left such a￥message...",
+   "long": "I had no idea he'd left a message￥like that."
+  },
+  {
+   "off": 24873,
+   "budget": 33,
+   "en": "It's on that desk. Take a look."
+  },
+  {
+   "off": 24906,
+   "budget": 33,
+   "en": "The computer is in the study.",
+   "long": "The computer is in my father's￥study."
+  },
+  {
+   "off": 24939,
+   "budget": 41,
+   "en": "Know a place called￥Outer Heaven?",
+   "long": "Have you heard of a place called￥Outer Heaven?"
+  },
+  {
+   "off": 24980,
+   "budget": 45,
+   "en": "The whale restaurant I mentioned.",
+   "long": "It's the place serving whale meat I￥mentioned before."
+  },
+  {
+   "off": 25025,
+   "budget": 49,
+   "en": "The only place in the city￥serving whale.",
+   "long": "Apparently, it's the only place in￥the city that serves whale meat."
+  },
+  {
+   "off": 25074,
+   "budget": 47,
+   "en": "We found whale meat in your father's￥stomach."
+  },
+  {
+   "off": 25121,
+   "budget": 35,
+   "en": "Do you know a place serving whale?",
+   "long": "Do you know a place that serves￥whale meat?"
+  },
+  {
+   "off": 25156,
+   "budget": 7,
+   "en": "Cheer",
+   "long": "Comfort"
+  },
+  {
+   "off": 25163,
+   "budget": 79,
+   "en": "Catherine.￥It must have been a shock...￥Shall I stay beside you a while?",
+   "long": "Catherine, this must have been a￥terrible shock. Would you like me to￥stay with you?"
+  },
+  {
+   "off": 25242,
+   "budget": 15,
+   "en": "How insincere."
+  },
+  {
+   "off": 25257,
+   "budget": 45,
+   "en": "Thank you. You're very kind,￥Gillian."
+  },
+  {
+   "off": 25302,
+   "budget": 41,
+   "en": "Stay strong, Catherine."
+  },
+  {
+   "off": 25343,
+   "budget": 45,
+   "en": "Yes... Gillian.￥You'll hear me out?",
+   "long": "I will, Gillian. Will you be there￥if I need someone to talk to?"
+  },
+  {
+   "off": 25388,
+   "budget": 19,
+   "en": "(Excellent...)"
+  },
+  {
+   "off": 25407,
+   "budget": 33,
+   "en": "Gillian, it shows on your face.",
+   "long": "Your ulterior motives are written￥all over your face, Gillian."
+  },
+  {
+   "off": 25440,
+   "budget": 31,
+   "en": "Cheer up, Catherine."
+  },
+  {
+   "off": 25471,
+   "budget": 21,
+   "en": "I'm fine, somehow.",
+   "long": "I'm managing, somehow."
+  },
+  {
+   "off": 25492,
+   "budget": 15,
+   "en": "Take advantage"
+  },
+  {
+   "off": 25507,
+   "budget": 53,
+   "en": "Of course I could never do that!￥Especially now!"
+  },
+  {
+   "off": 25560,
+   "budget": 35,
+   "en": "(I can't... but I'd like to try.)"
+  },
+  {
+   "off": 25595,
+   "budget": 49,
+   "en": "Did I mishear?￥You meant 'comfort', surely?",
+   "long": "Did I hear you wrong? Surely you￥meant to comfort her?"
+  },
+  {
+   "off": 25644,
+   "budget": 39,
+   "en": "＠赤Yes, don't scold... sorry.＠白",
+   "long": "＠赤All right, stop scolding me. I'm￥sorry.＠白"
+  },
+  {
+   "off": 25683,
+   "budget": 7,
+   "en": "Tears",
+   "long": "Wipe her tears"
+  },
+  {
+   "off": 25690,
+   "budget": 35,
+   "en": "Shall I dry your tears, Catherine?"
+  },
+  {
+   "off": 25725,
+   "budget": 83,
+   "en": "Gillian, have a handkerchief?￥You didn't dry your hands in￥the toilet... I saw.",
+   "long": "Do you have a handkerchief, Gillian?￥I saw you leave the bathroom without￥drying your hands."
+  },
+  {
+   "off": 25808,
+   "budget": 61,
+   "en": "Quiet! (That's right. I don't have a￥handkerchief.)"
+  },
+  {
+   "off": 25869,
+   "budget": 61,
+   "en": "I don't carry one because I have a￥hand dryer at home."
+  },
+  {
+   "off": 25930,
+   "budget": 45,
+   "en": "That's true. You do have one at￥home."
+  },
+  {
+   "off": 25975,
+   "budget": 49,
+   "en": "But carrying one is basic courtesy."
+  },
+  {
+   "off": 26024,
+   "budget": 27,
+   "en": "Thank you, Gillian."
+  },
+  {
+   "off": 26051,
+   "budget": 27,
+   "en": "I'm all right now. Thanks.",
+   "long": "I'm all right now. Thank you."
+  },
+  {
+   "off": 26078,
+   "budget": 7,
+   "en": "Flirt"
+  },
+  {
+   "off": 26085,
+   "budget": 41,
+   "en": "Catherine, how about tonight?￥Join me?",
+   "long": "Catherine, what about tonight? Care￥to keep me company?"
+  },
+  {
+   "off": 26126,
+   "budget": 43,
+   "en": "How about it?￥Hotel dinner for a change?",
+   "long": "What do you say? Dinner at a hotel,￥for a change of mood?"
+  },
+  {
+   "off": 26169,
+   "budget": 27,
+   "en": "Catherine. I want you!!"
+  },
+  {
+   "off": 26196,
+   "budget": 47,
+   "en": "What are you saying?! And with such￥feeling!"
+  },
+  {
+   "off": 26243,
+   "budget": 5,
+   "en": "Feel",
+   "long": "Touch"
+  },
+  {
+   "off": 26248,
+   "budget": 33,
+   "en": "Catherine, a mosquito here.",
+   "long": "Catherine, there's a mosquito right￥here."
+  },
+  {
+   "off": 26281,
+   "budget": 35,
+   "en": "Catherine, there's a thread here.",
+   "long": "Catherine, there's a bit of thread￥right here."
+  },
+  {
+   "off": 26316,
+   "budget": 37,
+   "en": "Catherine, there's a raindrop here.",
+   "long": "Catherine, there's a drop of rain￥right here."
+  },
+  {
+   "off": 26353,
+   "budget": 11,
+   "en": "Aah!"
+  },
+  {
+   "off": 26364,
+   "budget": 25,
+   "en": "Where are you touching!?",
+   "long": "Where do you think you're touching￥her?!"
+  },
+  {
+   "off": 26389,
+   "budget": 27,
+   "en": "Gillian, what are you at!",
+   "long": "Gillian, what are you doing?!"
+  },
+  {
+   "off": 26416,
+   "budget": 9,
+   "en": "Push"
+  },
+  {
+   "off": 26425,
+   "budget": 31,
+   "en": "Catherine, look out! Get down!"
+  },
+  {
+   "off": 26456,
+   "budget": 29,
+   "en": "Get down!! Catherine!",
+   "long": "Get down, I said!! Catherine!"
+  },
+  {
+   "off": 26485,
+   "budget": 25,
+   "en": "Eeek!! ...Ow!"
+  },
+  {
+   "off": 26510,
+   "budget": 25,
+   "en": "Aah! ...Honestly!"
+  },
+  {
+   "off": 26535,
+   "budget": 41,
+   "en": "What are you doing? What danger?!"
+  },
+  {
+   "off": 26576,
+   "budget": 53,
+   "en": "Such a transparent lie...￥pushing Catherine down!",
+   "long": "You told that obvious lie just to￥knock Catherine down!"
+  },
+  {
+   "off": 26629,
+   "budget": 11,
+   "en": "Grope"
+  },
+  {
+   "off": 26640,
+   "budget": 47,
+   "en": "Catherine, you little!￥Shall I squeeze you!",
+   "long": "Catherine, you little...! How about￥I give you a good squeeze all over?!"
+  },
+  {
+   "off": 26687,
+   "budget": 43,
+   "en": "Squeeze?￥...What does that mean!?",
+   "long": "A good squeeze? ...What's that￥supposed to mean?!"
+  },
+  {
+   "off": 26730,
+   "budget": 33,
+   "en": "＠赤...I got carried away.＠白"
+  },
+  {
+   "off": 26763,
+   "budget": 45,
+   "en": "Honestly! Show some self-control."
+  },
+  {
+   "off": 26808,
+   "budget": 17,
+   "en": "Quite so..."
+  },
+  {
+   "off": 26825,
+   "budget": 21,
+   "en": "...Is that a joke?",
+   "long": "You're joking, right?"
+  },
+  {
+   "off": 26846,
+   "budget": 17,
+   "en": "Are you serious?"
+  },
+  {
+   "off": 26863,
+   "budget": 37,
+   "en": "I've decided to ignore you."
+  },
+  {
+   "off": 26900,
+   "budget": 17,
+   "en": "Good idea."
+  },
+  {
+   "off": 26917,
+   "budget": 41,
+   "en": "You'll be a creep till the day you￥die!"
+  },
+  {
+   "off": 26958,
+   "budget": 17,
+   "en": "Waaait!"
+  },
+  {
+   "off": 26975,
+   "budget": 43,
+   "en": "＠赤GAME OVER＠白!!!!!"
+  },
+  {
+   "off": 27018,
+   "budget": 29,
+   "en": "I'm sorry, Catherine."
+  },
+  {
+   "off": 27047,
+   "budget": 15,
+   "en": "Learned it?",
+   "long": "Learned your lesson?"
+  },
+  {
+   "off": 27062,
+   "budget": 25,
+   "en": "Don't do it again."
+  },
+  {
+   "off": 27087,
+   "budget": 41,
+   "en": "Guard this city for￥my father, yes?",
+   "long": "Please protect the city in my￥father's place."
+  },
+  {
+   "off": 27128,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 27135,
+   "budget": 49,
+   "en": "Money is no worry...￥Father left savings.",
+   "long": "I don't need to worry about money. I￥have my father's savings."
+  },
+  {
+   "off": 27184,
+   "budget": 51,
+   "en": "It's fine. If need be,￥I can model and earn.",
+   "long": "I'll be all right. I can go back to￥modeling if I need money."
+  },
+  {
+   "off": 27235,
+   "budget": 35,
+   "en": "Modeling? You were a model?"
+  },
+  {
+   "off": 27270,
+   "budget": 5,
+   "en": "Drop",
+   "long": "Candy"
+  },
+  {
+   "off": 27275,
+   "budget": 13,
+   "en": "Father's own",
+   "long": "My father's candy."
+  },
+  {
+   "off": 27288,
+   "budget": 19,
+   "en": "The drop you gave.",
+   "long": "That's the candy you gave me."
+  },
+  {
+   "off": 27307,
+   "budget": 25,
+   "en": "I've seen that drop.",
+   "long": "I've seen that candy somewhere."
+  },
+  {
+   "off": 27332,
+   "budget": 7,
+   "en": "Proof",
+   "long": "Evidence"
+  },
+  {
+   "off": 27339,
+   "budget": 7,
+   "en": "Paper",
+   "long": "Scrap of paper"
+  },
+  {
+   "off": 27346,
+   "budget": 35,
+   "en": "So it was Father's message.",
+   "long": "So it was a message from my father."
+  },
+  {
+   "off": 27381,
+   "budget": 61,
+   "en": "I'm glad you solved his message. I'm￥sure he'd be relieved."
+  },
+  {
+   "off": 27442,
+   "budget": 63,
+   "en": "Father's handwriting.￥...What can it mean?￥He loved notes.",
+   "long": "That's my father's handwriting. What￥does it mean? He was always writing￥notes."
+  },
+  {
+   "off": 27505,
+   "budget": 43,
+   "en": "Father's handwriting, but￥the meaning...",
+   "long": "It's his handwriting, but I don't￥know what it means."
+  },
+  {
+   "off": 27548,
+   "budget": 5,
+   "en": "Key"
+  },
+  {
+   "off": 27553,
+   "budget": 27,
+   "en": "Isn't it Father's...",
+   "long": "I think that might be my father's."
+  },
+  {
+   "off": 27580,
+   "budget": 45,
+   "en": "Yes. It was the key to his desk."
+  },
+  {
+   "off": 27625,
+   "budget": 45,
+   "en": "I see. Nobody uses keys like that￥anymore."
+  },
+  {
+   "off": 27670,
+   "budget": 3,
+   "en": "Pc",
+   "long": "Chess piece"
+  },
+  {
+   "off": 27673,
+   "budget": 41,
+   "en": "This! It's Father's.￥Where was it?",
+   "long": "That's my father's! Where did you￥find it?"
+  },
+  {
+   "off": 27714,
+   "budget": 31,
+   "en": "It's definitely his."
+  },
+  {
+   "off": 27745,
+   "budget": 45,
+   "en": "I'd looked for it.￥Gone from the board.",
+   "long": "It was missing from his chessboard.￥I'd been looking for it."
+  },
+  {
+   "off": 27790,
+   "budget": 43,
+   "en": "So it was the disk from his￥computer.",
+   "long": "So it was a disk for my father's￥computer."
+  },
+  {
+   "off": 27833,
+   "budget": 51,
+   "en": "Could this disk be for my father's￥computer?"
+  },
+  {
+   "off": 27884,
+   "budget": 11,
+   "en": "Sunblock"
+  },
+  {
+   "off": 27895,
+   "budget": 61,
+   "en": "I can't believe Snatchers use this￥stuff."
+  },
+  {
+   "off": 27956,
+   "budget": 49,
+   "en": "In deep winter, too.￥What was Father thinking?",
+   "long": "What was my father thinking, using￥this in the middle of winter?"
+  },
+  {
+   "off": 28005,
+   "budget": 7,
+   "en": "Mask"
+  },
+  {
+   "off": 28012,
+   "budget": 27,
+   "en": "Oh, a Moai mask!"
+  },
+  {
+   "off": 28039,
+   "budget": 29,
+   "en": "I like those thick lips."
+  },
+  {
+   "off": 28068,
+   "budget": 43,
+   "en": "Catherine is quite a fan, isn't she?"
+  },
+  {
+   "off": 28111,
+   "budget": 19,
+   "en": "So it seems..."
+  },
+  {
+   "off": 28130,
+   "budget": 31,
+   "en": "Oh, a Koitsu mask!"
+  },
+  {
+   "off": 28161,
+   "budget": 65,
+   "en": "I like that blue face. He looks so￥intellectual."
+  },
+  {
+   "off": 28226,
+   "budget": 19,
+   "en": "An intellect..."
+  },
+  {
+   "off": 28245,
+   "budget": 15,
+   "en": "Gibson's photo"
+  },
+  {
+   "off": 28260,
+   "budget": 41,
+   "en": "Sorry. Did I bring it all back?"
+  },
+  {
+   "off": 28301,
+   "budget": 21,
+   "en": "So thoughtless.",
+   "long": "That was insensitive."
+  },
+  {
+   "off": 28322,
+   "budget": 45,
+   "en": "Father's photo... use it￥for the case.",
+   "long": "My father's photo. Please use it to￥help your investigation."
+  },
+  {
+   "off": 28367,
+   "budget": 17,
+   "en": "Montage photo"
+  },
+  {
+   "off": 28384,
+   "budget": 19,
+   "en": "My... a hard face.",
+   "long": "What a frightening face."
+  },
+  {
+   "off": 28403,
+   "budget": 37,
+   "en": "Who is he? His face gives me chills."
+  },
+  {
+   "off": 28440,
+   "budget": 37,
+   "en": "Have you met him? Father's￥friend?",
+   "long": "Have you met him? Was he a friend of￥your father's?"
+  },
+  {
+   "off": 28477,
+   "budget": 39,
+   "en": "No, I've never seen him. Who is he?"
+  },
+  {
+   "off": 28516,
+   "budget": 37,
+   "en": "This man... killed your...",
+   "long": "This man was the one who... your￥father..."
+  },
+  {
+   "off": 28553,
+   "budget": 11,
+   "en": "Gillian!"
+  },
+  {
+   "off": 28564,
+   "budget": 29,
+   "en": "Oh, never mind."
+  },
+  {
+   "off": 28593,
+   "budget": 37,
+   "en": "I see. Sorry I couldn't help."
+  },
+  {
+   "off": 28630,
+   "budget": 69,
+   "en": "This ID confirms all your authority￥as a JUNKER. Keep it safe."
+  },
+  {
+   "off": 28699,
+   "budget": 35,
+   "en": "The money issued to you by JUNKER."
+  },
+  {
+   "off": 28734,
+   "budget": 35,
+   "en": "The candy from Jean's pocket."
+  },
+  {
+   "off": 28769,
+   "budget": 79,
+   "en": "Gibson's memo on where the￥computer data on the Snatcher￥weakness is kept.",
+   "long": "Gibson's note tells us where to find￥his computer data on the Snatchers'￥weakness."
+  },
+  {
+   "off": 28848,
+   "budget": 45,
+   "en": "What does \"Search the house!\" mean?"
+  },
+  {
+   "off": 28893,
+   "budget": 33,
+   "en": "The key to Gibson's desk drawer."
+  },
+  {
+   "off": 28926,
+   "budget": 33,
+   "en": "Quite an antique."
+  },
+  {
+   "off": 28959,
+   "budget": 37,
+   "en": "The chess piece Gibson was carrying."
+  },
+  {
+   "off": 28996,
+   "budget": 45,
+   "en": "The chess piece we found in Gibson's￥coat."
+  },
+  {
+   "off": 29041,
+   "budget": 45,
+   "en": "The disk with the Snatchers'￥weakness.",
+   "long": "The disk containing the Snatchers'￥weakness."
+  },
+  {
+   "off": 29086,
+   "budget": 37,
+   "en": "A computer floppy disk."
+  },
+  {
+   "off": 29123,
+   "budget": 81,
+   "en": "Sunscreen used by the Snatchers, if￥Gibson was right."
+  },
+  {
+   "off": 29204,
+   "budget": 41,
+   "en": "And we confirmed it at Joy Division."
+  },
+  {
+   "off": 29245,
+   "budget": 71,
+   "en": "Plain sunblock.￥The seal carries the logo of the￥shop it came from.",
+   "long": "Ordinary sunscreen. The sticker has￥the logo of the shop that sold it."
+  },
+  {
+   "off": 29316,
+   "budget": 47,
+   "en": "A costume mask bought at Joy￥Division."
+  },
+  {
+   "off": 29363,
+   "budget": 21,
+   "en": "A Moai mask."
+  },
+  {
+   "off": 29384,
+   "budget": 25,
+   "en": "A Koitsu mask."
+  },
+  {
+   "off": 29409,
+   "budget": 41,
+   "en": "A photo of Jean Jack Gibson."
+  },
+  {
+   "off": 29450,
+   "budget": 47,
+   "en": "A montage built from a￥witness account.",
+   "long": "A composite portrait based on a￥witness's description."
+  },
+  {
+   "off": 29497,
+   "budget": 67,
+   "en": "Its built-in chip stores all your￥data, Gillian."
+  },
+  {
+   "off": 29564,
+   "budget": 49,
+   "en": "Case expenses are covered￥as work requires.",
+   "long": "In principle, there's no limit on￥expenses necessary for the￥investigation."
+  },
+  {
+   "off": 29613,
+   "budget": 45,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "long": "The candy Jean gave to the children￥at the orphanage."
+  },
+  {
+   "off": 29658,
+   "budget": 25,
+   "en": "The note Jean left."
+  },
+  {
+   "off": 29683,
+   "budget": 55,
+   "en": "Plain paper. It's certainly Jean's￥handwriting.",
+   "long": "It's on ordinary paper. Definitely￥Jean's handwriting."
+  },
+  {
+   "off": 29738,
+   "budget": 35,
+   "en": "Key to Gibson's squad desk.",
+   "long": "The key to Gibson's desk in the￥Squad room."
+  },
+  {
+   "off": 29773,
+   "budget": 83,
+   "en": "What does it open? Does anyone still￥use keys like this?"
+  },
+  {
+   "off": 29856,
+   "budget": 57,
+   "en": "A wooden chess piece. The queen."
+  },
+  {
+   "off": 29913,
+   "budget": 37,
+   "en": "A carved wooden chess piece."
+  },
+  {
+   "off": 29950,
+   "budget": 45,
+   "en": "The disk holding Gibson's￥case data.",
+   "long": "The disk containing Gibson's￥investigation data."
+  },
+  {
+   "off": 29995,
+   "budget": 37,
+   "en": "A five-inch floppy disk."
+  },
+  {
+   "off": 30032,
+   "budget": 69,
+   "en": "The bottle says, \"JOY DIVISION. The￥store that has everything.\""
+  },
+  {
+   "off": 30101,
+   "budget": 49,
+   "en": "It certainly looks like Joy Division￥sold it."
+  },
+  {
+   "off": 30150,
+   "budget": 53,
+   "en": "Tracing where it was bought￥may give us a lead.",
+   "long": "Finding out where it was bought￥might give us a lead."
+  },
+  {
+   "off": 30203,
+   "budget": 63,
+   "en": "A fine special-effects mask by￥Rick Bakery, all the rage now.",
+   "long": "A detailed special-effects mask by￥Rick Bakery. They're very popular￥now."
+  },
+  {
+   "off": 30266,
+   "budget": 41,
+   "en": "A 2D photo composited on CG by￥Gaudi.",
+   "long": "A computer-generated 2D portrait￥made by Gaudi."
+  },
+  {
+   "off": 30307,
+   "budget": 73,
+   "en": "Gibson took it from his chessboard￥at home. What could it mean?"
+  },
+  {
+   "off": 30380,
+   "budget": 37,
+   "en": "Jean liked riddles."
+  },
+  {
+   "off": 30417,
+   "budget": 31,
+   "en": "Is it hinting at something?",
+   "long": "Could it be a clue to something?"
+  },
+  {
+   "off": 30448,
+   "budget": 35,
+   "en": "He really does look like Ivan."
+  },
+  {
+   "off": 30483,
+   "budget": 53,
+   "en": "We can hardly blame Alphaville's￥matching system."
+  },
+  {
+   "off": 30536,
+   "budget": 47,
+   "en": "House? Come to think...￥I've no home either.",
+   "long": "Home. Come to think of it, I don't￥have a home to return to."
+  },
+  {
+   "off": 30583,
+   "budget": 67,
+   "en": "Cheer up. You'll live with Jamie￥again someday."
+  },
+  {
+   "off": 30650,
+   "budget": 53,
+   "en": "A family life might not suit a￥JUNKER anyway."
+  },
+  {
+   "off": 30703,
+   "budget": 21,
+   "en": "Plenty left, surely?",
+   "long": "We've still got plenty, right?"
+  },
+  {
+   "off": 30724,
+   "budget": 47,
+   "en": "It's dropped a bit, with￥your food and drink.",
+   "long": "You've spent quite a lot on eating￥and drinking, Gillian."
+  },
+  {
+   "off": 30771,
+   "budget": 45,
+   "en": "Don't make it sound bad.￥They're expenses.",
+   "long": "Don't make it sound so bad. Those￥were necessary investigation￥expenses."
+  },
+  {
+   "off": 30816,
+   "budget": 79,
+   "en": "The truth is...￥(It's cash, so nobody knows how much￥I spend.)",
+   "long": "Actually... (It's cash. If I keep￥quiet, nobody will know how much I￥spent.)"
+  },
+  {
+   "off": 30895,
+   "budget": 19,
+   "en": "Did you say that?",
+   "long": "Did you say something?"
+  },
+  {
+   "off": 30914,
+   "budget": 21,
+   "en": "No, never mind."
+  },
+  {
+   "off": 30935,
+   "budget": 19,
+   "en": "Do take care of it",
+   "long": "Take good care of it."
+  },
+  {
+   "off": 30954,
+   "budget": 17,
+   "en": "Catherine..."
+  },
+  {
+   "off": 30973,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

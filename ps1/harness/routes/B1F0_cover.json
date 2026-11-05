@@ -1,0 +1,436 @@
+{
+ "scene": "B160",
+ "note": "Coverage of the runaway Tricycle (B1F0), from the B160_auto card (JUNKER HQ after Outer Heaven): HQ as in whole_game.route.json 488-499, then every option of the runaway sequence in turn, five times over (one pick each; an option not offered yet is skipped), until the Feet climax and Randam's rescue play out.",
+ "actions": [
+  {
+   "path": [
+    "Move",
+    "Board Tricycle"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Board Tricycle"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Move",
+    "Board Tricycle"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "JUNKER HQ"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Talk",
+    "Ask",
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Mechanic room"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Chief's room"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Front desk"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Move",
+    "Board Tricycle"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Queen Hosp"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Pull the lever"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Jump off"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Give up"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Glide"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Hit wall"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Drive into sand"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Press button"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Imagine|Muse"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Stick feet out"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Pull the lever"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Jump off"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Give up"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Glide"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Hit wall"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Drive into sand"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Press button"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Imagine|Muse"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Stick feet out"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Pull the lever"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Jump off"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Give up"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Glide"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Hit wall"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Drive into sand"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Press button"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Imagine|Muse"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Stick feet out"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Pull the lever"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Jump off"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Give up"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Glide"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Hit wall"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Drive into sand"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Press button"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Imagine|Muse"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Stick feet out"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Pull the lever"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Jump off"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Give up"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Glide"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Hit wall"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Drive into sand"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Press button"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Imagine|Muse"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "path": [
+    "Stick feet out"
+   ],
+   "optional": true,
+   "patience": 400
+  },
+  {
+   "idle": 3000
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Move",
+    "Talk",
+    "Ask"
+   ],
+   "rounds": 2
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "scene": "B020",
+ "note": "The factory ruins for the subtitle check (subs_run.py --scene B020 --route --state B020_lj --inject-blob): from the harness agent's B020_lj bookmark (at Little John: Move/Look/Check/Hear/Item/Use Metal Gear), the examinations the run_B020 log shows (Metal Gear's and Gillian's lines - S000 reels on the PS1 = SDAIF streams under the band), then two screens forward to Gibson's body and its first lines. Every voiced line in B020 is a reel.",
+ "actions": [
+  {"path": ["Look", "Roof"], "settle": 400},
+  {"path": ["Look", "Feet"], "settle": 400},
+  {"path": ["Look", "Little John"], "settle": 1500},
+  {"path": ["Investigate", "Roof"], "settle": 600},
+  {"path": ["Investigate", "Little John"], "settle": 2400},
+  {"path": ["Investigate", "Motion"], "settle": 800},
+  {"path": ["Listen"], "settle": 800},
+  {"path": ["Investigate", "Memory"], "settle": 2400},
+  {"path": ["Use Metal Gear", "Analysis", "Little John's memory"], "settle": 2400},
+  {"path": ["Move", "Forward"], "settle": 1800},
+  {"path": ["Move", "Forward"], "settle": 3000},
+  {"save": "B020_gibson_subs"},
+  {"path": ["Look", "Gibson"], "settle": 1500},
+  {"path": ["Investigate", "Gibson"], "settle": 2400},
+  {"idle": 600}
+ ]
+}

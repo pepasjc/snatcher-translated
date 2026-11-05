@@ -1,0 +1,101 @@
+{
+ "_comment": "The intro credit roll (CXD_BX30.BIN), drawn by the same data-driven blitter as the red disclaimer: a 128x512 4bpp glyph atlas of 16x16 cells plus one draw list per screen. One entry per screen, in the order the roll plays; the number of lines must match the original screen's line count. Runs of two or more spaces become separate columns on the same line, so the gap costs no atlas space. Rendered by tools/staffroll.py; the atlas holds 32 shelves x 128px and the tool reports how much is used.",
+ "screens": [
+  [
+   "2042.12",
+   "NEO KOBE CITY"
+  ],
+  [
+   "CAST"
+  ],
+  [
+   "GILLIAN SEED",
+   "Yusaku Yara"
+  ],
+  [
+   "METAL GEAR Mk.II",
+   "Mami Koyama"
+  ],
+  [
+   "JAMIE SEED",
+   "Kikuko Inoue"
+  ],
+  [
+   "RANDAM HAJILE",
+   "Kaneto Shiozawa"
+  ],
+  [
+   "MIKA SLAYTON",
+   "Mina Tominaga"
+  ],
+  [
+   "HARRY BENSON",
+   "Ryuji Saikachi"
+  ],
+  [
+   "JEAN JACK GIBSON",
+   "Isao Inokuchi"
+  ],
+  [
+   "BENSON CUNNINGHAM",
+   "Goro Naya"
+  ],
+  [
+   "STAFF"
+  ],
+  [
+   "ORIGINAL STORY & SCRIPT",
+   "Hideo Kojima"
+  ],
+  [
+   "CHARACTER DESIGN",
+   "Tomiharu Kinoshita"
+  ],
+  [
+   "GRAPHICS",
+   "Shin Toyama    Naoya Hatsumi",
+   "Takayuki Ando    Jun Asami"
+  ],
+  [
+   "GRAPHICS",
+   "Yohei Kiyohara    Rieko Komatsubara",
+   "Yumiko Takahashi"
+  ],
+  [
+   "PROGRAM",
+   "Masayuki Aizawa    Kazuki Araki",
+   "Hiroyuki Asata    Atsushi Mizutani"
+  ],
+  [
+   "SCRIPT ADAPTATION",
+   "Kensuke Yoshitomi",
+   "PUBLICITY",
+   "Taeko Hayasaka"
+  ],
+  [
+   "SOUND PROGRAM",
+   "Noritada \"NOB\" Matsukawa",
+   "SOUND MIXING",
+   "Gott Adachi"
+  ],
+  [
+   "MUSIC",
+   "Kidasun",
+   "SOUND EFFECTS",
+   "Hiroe Noguchi"
+  ],
+  [
+   "DIRECTOR",
+   "Masayuki Aizawa"
+  ],
+  [
+   "PRODUCERS",
+   "Ichizo Kitakami",
+   "Kazuhisa Hashimoto"
+  ],
+  [
+   "PRODUCED BY",
+   "KONAMI CORPORATION"
+  ]
+ ]
+}

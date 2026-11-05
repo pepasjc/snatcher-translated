@@ -1,0 +1,434 @@
+{
+ "file": "DATA.BIN[44]",
+ "entry": 44,
+ "text_base": 1799,
+ "twins": [
+  "B170"
+ ],
+ "strings": [
+  {
+   "off": 1799,
+   "budget": 5,
+   "en": "",
+   "src": "B170:1729",
+   "carry": "exact"
+  },
+  {
+   "off": 1804,
+   "budget": 51,
+   "en": "We are aboard the Tricycle. Where￥shall we go?",
+   "src": "B170:1734",
+   "carry": "exact"
+  },
+  {
+   "off": 1855,
+   "budget": 63,
+   "en": "Gillian! Videophone from Jamie.￥...Putting it through!",
+   "src": "B170:1785",
+   "carry": "candidate_ok",
+   "en_candidate": "Gillian! Videophone from Jamie.￥...Putting it through!",
+   "sim": 0.95,
+   "long": "Gillian! Jamie is calling on the￥videophone. I'll put her through!"
+  },
+  {
+   "off": 1918,
+   "budget": 17,
+   "en": "JUNKER HQ",
+   "src": "B170:1848",
+   "carry": "exact"
+  },
+  {
+   "off": 1935,
+   "budget": 11,
+   "en": "Gillian's",
+   "src": "B170:1865",
+   "carry": "exact",
+   "long": "Gillian's home"
+  },
+  {
+   "off": 1946,
+   "budget": 11,
+   "en": "Gibson's",
+   "src": "B170:1876",
+   "carry": "exact",
+   "long": "Gibson's home"
+  },
+  {
+   "off": 1957,
+   "budget": 13,
+   "en": "Altamira",
+   "src": "B170:1887",
+   "carry": "exact"
+  },
+  {
+   "off": 1970,
+   "budget": 13,
+   "en": "Oleen Hosp.",
+   "src": "B170:1900",
+   "carry": "exact",
+   "long": "Oleen Hospital"
+  },
+  {
+   "off": 1983,
+   "budget": 13,
+   "en": "Queen Hosp",
+   "src": "B170:1913",
+   "carry": "exact",
+   "long": "Queen Hospital"
+  },
+  {
+   "off": 1996,
+   "budget": 15,
+   "en": "Outer Heaven",
+   "src": "B170:1926",
+   "carry": "exact"
+  },
+  {
+   "off": 2011,
+   "budget": 11,
+   "en": "Get out",
+   "src": "B170:1941",
+   "carry": "exact",
+   "long": "Exit Tricycle"
+  },
+  {
+   "off": 2022,
+   "budget": 41,
+   "en": "No use going back to the flats.",
+   "src": "B170:1952",
+   "carry": "exact",
+   "long": "There's no point going back to the￥apartment."
+  },
+  {
+   "off": 2063,
+   "budget": 59,
+   "en": "I've already asked the Kobe Police￥to protect Catherine.",
+   "src": "B170:1993",
+   "carry": "exact"
+  },
+  {
+   "off": 2122,
+   "budget": 29,
+   "en": "Hurry to Queen Hospital.",
+   "src": "B170:2052",
+   "carry": "exact",
+   "long": "Let's hurry to Queen Hospital."
+  },
+  {
+   "off": 2151,
+   "budget": 31,
+   "en": "Let's go to Queen Hospital.",
+   "src": "B170:2081",
+   "carry": "exact"
+  },
+  {
+   "off": 2182,
+   "budget": 57,
+   "en": "What's wrong? Aren't we going to see￥Catherine?",
+   "src": "B170:2112",
+   "carry": "exact"
+  },
+  {
+   "off": 2239,
+   "budget": 51,
+   "en": "Catherine isn't here. Let's look￥elsewhere!",
+   "src": "B170:2169",
+   "carry": "exact"
+  },
+  {
+   "off": 2290,
+   "budget": 67,
+   "en": "The Snatchers will get there first￥if we waste time. Hurry!",
+   "src": "B170:2220",
+   "carry": "candidate_ok",
+   "en_candidate": "The Snatchers will get there first￥if we waste time. Hurry!",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 2357,
+   "budget": 49,
+   "en": "We're finished here. Let's get￥going!",
+   "src": "B170:2285",
+   "carry": "exact"
+  },
+  {
+   "off": 2406,
+   "budget": 79,
+   "en": "What are you doing!￥Let's learn whose chart that is,￥and quickly!!",
+   "src": "B170:2334",
+   "carry": "rebroken",
+   "long": "What are you doing? We need to find￥out whose medical record that is,￥right away!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 2485,
+   "budget": 47,
+   "en": "Gillian, hurry to JUNKER￥headquarters!",
+   "src": "B170:2411",
+   "carry": "exact"
+  },
+  {
+   "off": 2532,
+   "budget": 45,
+   "en": "You arrive at JUNKER HQ.￥What will you do?",
+   "src": "B170:2458",
+   "carry": "exact",
+   "long": "We've arrived at JUNKER￥headquarters. What will you do?"
+  },
+  {
+   "off": 2577,
+   "budget": 41,
+   "en": "You arrive at Gillian's.￥What now?",
+   "src": "B170:2503",
+   "carry": "exact",
+   "long": "We've arrived at your home. What￥will you do?"
+  },
+  {
+   "off": 2618,
+   "budget": 61,
+   "en": "We're at Jean Jack Gibson's house.￥What now?",
+   "src": "B0A0:1487",
+   "carry": "rebroken",
+   "note": "from B0A0; Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 2679,
+   "budget": 41,
+   "en": "You arrive outside Altamira.￥What now?",
+   "src": "B170:2603",
+   "carry": "exact",
+   "long": "We've arrived outside Altamira. What￥will you do?"
+  },
+  {
+   "off": 2720,
+   "budget": 45,
+   "en": "You reach 'Oleen' Hospital.￥What now?",
+   "src": "B170:2644",
+   "carry": "exact",
+   "long": "We've arrived at Oleen Hospital.￥What will you do?"
+  },
+  {
+   "off": 2765,
+   "budget": 41,
+   "en": "You reach Queen Hospital.￥What now?",
+   "src": "B170:2689",
+   "carry": "candidate_ok",
+   "en_candidate": "You reach Queen Hospital.￥What now?",
+   "sim": 0.95,
+   "long": "We've arrived at Queen Hospital.￥What will you do?"
+  },
+  {
+   "off": 2806,
+   "budget": 49,
+   "en": "You reach 'Outer Heaven'.￥What will you do?",
+   "src": "B170:2730",
+   "carry": "candidate_ok",
+   "en_candidate": "You reach 'Outer Heaven'.￥What will you do?",
+   "sim": 0.94,
+   "long": "We've arrived at Outer Heaven. What￥will you do?"
+  },
+  {
+   "off": 2855,
+   "budget": 41,
+   "en": "Then we're heading for JUNKER HQ.",
+   "src": "B170:2779",
+   "carry": "exact",
+   "long": "Setting course for JUNKER￥headquarters."
+  },
+  {
+   "off": 2896,
+   "budget": 25,
+   "en": "Let's head home once.",
+   "src": "B170:2820",
+   "carry": "exact",
+   "long": "Let's head home for a while."
+  },
+  {
+   "off": 2921,
+   "budget": 61,
+   "en": "Yes, that reader's words nag at￥me too...",
+   "src": "B170:2845",
+   "carry": "rebroken",
+   "long": "Yes, I'm concerned about what that￥fortune teller said, too.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 2982,
+   "budget": 55,
+   "en": "Yes, it might be worth searching the￥neighborhood.",
+   "src": "B170:2904",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3037,
+   "budget": 21,
+   "en": "Off we go, Metal!",
+   "src": "B170:2957",
+   "carry": "exact",
+   "long": "All right, let's go, Metal!"
+  },
+  {
+   "off": 3058,
+   "budget": 33,
+   "en": "Understood, to your home.",
+   "src": "B170:2978",
+   "carry": "exact",
+   "long": "Understood. Setting course for your￥home."
+  },
+  {
+   "off": 3091,
+   "budget": 35,
+   "en": "Setting course for your home.",
+   "src": "B170:3011",
+   "carry": "exact"
+  },
+  {
+   "off": 3126,
+   "budget": 81,
+   "en": "Why would you go home at a time like￥this? We need to find Catherine!",
+   "src": "B170:3046",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3207,
+   "budget": 73,
+   "en": "Gillian! Find Catherine first. You￥can go home afterward!",
+   "src": "B170:3125",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 3280,
+   "budget": 81,
+   "en": "Hurry to Gibson's house!￥Set the traffic system to top￥priority for it!!",
+   "src": "B170:3194",
+   "carry": "rebroken",
+   "long": "Hurry to Gibson's house! Get us top￥priority in the automatic traffic￥system all the way there!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3361,
+   "budget": 7,
+   "en": "Roger!",
+   "src": "B170:3273",
+   "carry": "exact",
+   "long": "Understood!"
+  },
+  {
+   "off": 3368,
+   "budget": 29,
+   "en": "Catherine, please be safe!",
+   "src": "B170:3280",
+   "carry": "exact"
+  },
+  {
+   "off": 3397,
+   "budget": 55,
+   "en": "Setting course for Jean Jack￥Gibson's home.",
+   "src": "B170:3309",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3452,
+   "budget": 35,
+   "en": "Setting course for Altamira.",
+   "src": "B170:3362",
+   "carry": "exact"
+  },
+  {
+   "off": 3487,
+   "budget": 41,
+   "en": "Setting course for Oleen Hospital.",
+   "src": "B170:3397",
+   "carry": "exact"
+  },
+  {
+   "off": 3528,
+   "budget": 33,
+   "en": "Right, to Queen Hospital!",
+   "src": "B170:3438",
+   "carry": "exact",
+   "long": "All right, let's go to Queen￥Hospital!"
+  },
+  {
+   "off": 3561,
+   "budget": 23,
+   "en": "At last, then...",
+   "src": "B170:3471",
+   "carry": "exact"
+  },
+  {
+   "off": 3584,
+   "budget": 35,
+   "en": "Heading to Queen Hospital.",
+   "src": "B1F0:2331",
+   "carry": "exact",
+   "note": "from B1F0"
+  },
+  {
+   "off": 3619,
+   "budget": 45,
+   "en": "Setting course for Outer Heaven.",
+   "src": "B170:3529",
+   "carry": "candidate_ok",
+   "en_candidate": "Setting course for Outer Heaven.",
+   "sim": 0.95
+  },
+  {
+   "off": 3664,
+   "budget": 65,
+   "en": "Where are you going, Gillian?￥Catherine is in danger!",
+   "src": "B170:3574",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3729,
+   "budget": 39,
+   "en": "Gillian! Hurry to Gibson's house!",
+   "src": "B170:3637",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3768,
+   "budget": 51,
+   "en": "Where are you going?￥Hurry to Queen Hospital.",
+   "src": "B170:3674",
+   "carry": "exact",
+   "long": "Where are you going? We need to￥hurry to Queen Hospital."
+  },
+  {
+   "off": 3819,
+   "budget": 47,
+   "en": "Let's go to Queen Hospital first.",
+   "src": "B170:3725",
+   "carry": "exact"
+  },
+  {
+   "off": 3866,
+   "budget": 45,
+   "en": "Hurry to JUNKER headquarters,￥Gillian!",
+   "src": "B170:3772",
+   "carry": "exact"
+  },
+  {
+   "off": 3911,
+   "budget": 27,
+   "en": "Running away, Gillian!",
+   "src": "B170:3817",
+   "carry": "exact",
+   "long": "Are you running away, Gillian?"
+  },
+  {
+   "off": 3940,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

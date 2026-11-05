@@ -1,0 +1,18 @@
+{
+ "scene": "B010",
+ "note": "JUNKER HQ, Act 1 opening - the PS1's ps1/harness/routes/B010.json on the Saturn build. From New Game (--new) or the B010_start bookmark. All conversation, so the route is sweeps (every verb twice, Luiz's method). The room list is a persistent menu: the tour is a sweep OF `Go out` with each room's verbs swept on arrival. The Chief's room first (JUNKER ID and cash), Mechanics (Metal Gear and the Blaster), then Gibson's call and the tricycle to the ruins.",
+ "actions": [
+  {"wait_menu": true},
+  {"save": "B010_start"},
+  {"sweep": ["Go inside", "Talk", "Ask", "Look", "Investigate"], "rounds": 2},
+  {"path": ["Go inside|Go out", "Mechanic room"]},
+  {"sweep": ["Ask", "Talk", "Look", "Investigate"], "rounds": 2},
+  {"save": "B010_chief"},
+  {"sweep": ["Go out"], "each": ["Talk", "Ask", "Look", "Investigate", "Listen"], "each_rounds": 2, "rounds": 3},
+  {"save": "B010_toured"},
+  {"path": ["Go out", "Front|Exit Tricycle|Exit"], "optional": true},
+  {"path": ["Board Tricycle|Exit Tricycle"], "optional": true},
+  {"path": ["Factory ruins|Ruins"], "optional": true},
+  {"idle": 4000}
+ ]
+}

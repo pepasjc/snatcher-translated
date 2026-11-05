@@ -1,0 +1,1039 @@
+{
+ "scene": "B1A0",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B1A0_f34_0",
+   "line": 345,
+   "act": 2,
+   "sector": 1550,
+   "offset": 374,
+   "size": 73975,
+   "b0": 0,
+   "b1": 51339,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Huh? The light's on in my apartment. That's odd.",
+   "rows": [
+    "Huh? The light's on in my",
+    "apartment. That's odd."
+   ],
+   "rows_plain": [
+    "Huh? The light's on in my apartment.",
+    "That's odd."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1A0_f34_0b",
+   "line": 345,
+   "act": 2,
+   "sector": 1550,
+   "offset": 374,
+   "size": 73975,
+   "b0": 51339,
+   "b1": 73975,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I'm sure I turned it off when I left.",
+   "rows": [
+    "I'm sure I turned it off",
+    "when I left."
+   ],
+   "rows_plain": [
+    "I'm sure I turned it off when I",
+    "left."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1A0_f35_0",
+   "line": 346,
+   "act": 2,
+   "sector": 1581,
+   "offset": 2305,
+   "size": 32639,
+   "b0": 0,
+   "b1": 32639,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Don't tell me a Snatcher got into your apartment too?",
+   "rows": [
+    "Don't tell me a Snatcher got",
+    "into your apartment too?"
+   ],
+   "rows_plain": [
+    "Don't tell me a Snatcher got into",
+    "your apartment too?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_f36_0",
+   "line": 347,
+   "act": 2,
+   "sector": 1596,
+   "offset": 84,
+   "size": 33808,
+   "b0": 0,
+   "b1": 33808,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Searching my place? I don't keep any evidence at home.",
+   "rows": [
+    "Searching my place? I don't",
+    "keep any evidence at home."
+   ],
+   "rows_plain": [
+    "Searching my place? I don't keep any",
+    "evidence at home."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_f37_0",
+   "line": 348,
+   "act": 2,
+   "sector": 1610,
+   "offset": 1356,
+   "size": 16045,
+   "b0": 0,
+   "b1": 16045,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I hear something.",
+   "rows": [
+    "I hear something."
+   ],
+   "rows_plain": [
+    "I hear something."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1A0_f38_0",
+   "line": 349,
+   "act": 2,
+   "sector": 1617,
+   "offset": 1133,
+   "size": 12380,
+   "b0": 0,
+   "b1": 12380,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Now I can hear it too.",
+   "rows": [
+    "Now I can hear it too."
+   ],
+   "rows_plain": [
+    "Now I can hear it too."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_f39_0",
+   "line": 350,
+   "act": 2,
+   "sector": 1622,
+   "offset": 1893,
+   "size": 22167,
+   "b0": 0,
+   "b1": 22167,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Motion detected! Something's in there!",
+   "rows": [
+    "Motion detected! Something's",
+    "in there!"
+   ],
+   "rows_plain": [
+    "Motion detected! Something's in",
+    "there!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_f40_0",
+   "line": 351,
+   "act": 2,
+   "sector": 1632,
+   "offset": 820,
+   "size": 53923,
+   "b0": 0,
+   "b1": 53923,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Right, Metal. I'm locking the front door. Now it can't get away.",
+   "rows": [
+    "Right, Metal. I'm locking",
+    "the front door. Now it can't",
+    "get away."
+   ],
+   "rows_plain": [
+    "Right, Metal. I'm locking the front",
+    "door. Now it can't get away."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_f41_0",
+   "line": 352,
+   "act": 2,
+   "sector": 1655,
+   "offset": 1291,
+   "size": 35131,
+   "b0": 0,
+   "b1": 35131,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Then I'll put a charge through the blind glass. Ready?",
+   "rows": [
+    "Then I'll put a charge",
+    "through the blind glass.",
+    "Ready?"
+   ],
+   "rows_plain": [
+    "Then I'll put a charge through the",
+    "blind glass. Ready?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1A0_f42_0",
+   "line": 353,
+   "act": 2,
+   "sector": 1670,
+   "offset": 1562,
+   "size": 12384,
+   "b0": 0,
+   "b1": 12384,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Okay, do it!",
+   "rows": [
+    "Okay, do it!"
+   ],
+   "rows_plain": [
+    "Okay, do it!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_f43_0",
+   "line": 354,
+   "act": 2,
+   "sector": 1676,
+   "offset": 2,
+   "size": 53685,
+   "b0": 0,
+   "b1": 38405,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Oh, and before that, please put what you stuffed",
+   "rows": [
+    "Oh, and before that, please",
+    "put what you stuffed"
+   ],
+   "rows_plain": [
+    "Oh, and before that, please put what",
+    "you stuffed"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_f43_0b",
+   "line": 354,
+   "act": 2,
+   "sector": 1676,
+   "offset": 2,
+   "size": 53685,
+   "b0": 38405,
+   "b1": 53685,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "in your pocket back where it belongs.",
+   "rows": [
+    "in your pocket back where it",
+    "belongs."
+   ],
+   "rows_plain": [
+    "in your pocket back where it",
+    "belongs."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_f44_0",
+   "line": 355,
+   "act": 2,
+   "sector": 1699,
+   "offset": 235,
+   "size": 39766,
+   "b0": 0,
+   "b1": 39766,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Fine, I'll put it back. Happy now?",
+   "rows": [
+    "Fine, I'll put it back.",
+    "Happy now?"
+   ],
+   "rows_plain": [
+    "Fine, I'll put it back. Happy now?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_f45_0",
+   "line": 356,
+   "act": 2,
+   "sector": 1716,
+   "offset": 493,
+   "size": 17291,
+   "b0": 0,
+   "b1": 17291,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Then I'll open the blinds.",
+   "rows": [
+    "Then I'll open the blinds."
+   ],
+   "rows_plain": [
+    "Then I'll open the blinds."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f46_0",
+   "line": 357,
+   "act": 2,
+   "sector": 1723,
+   "offset": 1516,
+   "size": 10750,
+   "b0": 0,
+   "b1": 10750,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Whoaaaaa!",
+   "rows": [
+    "Whoaaaaa!"
+   ],
+   "rows_plain": [
+    "Whoaaaaa!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f47_0",
+   "line": 358,
+   "act": 2,
+   "sector": 1728,
+   "offset": 646,
+   "size": 17943,
+   "b0": 0,
+   "b1": 17943,
+   "speaker": "Woman",
+   "colour": 7,
+   "en": "Eeek! Pervert!",
+   "rows": [
+    "Eeek! Pervert!"
+   ],
+   "rows_plain": [
+    "Eeek! Pervert!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f48_0",
+   "line": 359,
+   "act": 2,
+   "sector": 1735,
+   "offset": 2321,
+   "size": 12980,
+   "b0": 0,
+   "b1": 12980,
+   "speaker": "Woman",
+   "colour": 7,
+   "en": "Get out of here, now!",
+   "rows": [
+    "Get out of here, now!"
+   ],
+   "rows_plain": [
+    "Get out of here, now!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f49_0",
+   "line": 360,
+   "act": 2,
+   "sector": 1741,
+   "offset": 1357,
+   "size": 22690,
+   "b0": 0,
+   "b1": 22690,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Looks like we got thrown out.",
+   "rows": [
+    "Looks like we got thrown",
+    "out."
+   ],
+   "rows_plain": [
+    "Looks like we got thrown out."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1A0_c5f50_0",
+   "line": 361,
+   "act": 2,
+   "sector": 1751,
+   "offset": 807,
+   "size": 39712,
+   "b0": 0,
+   "b1": 39712,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Ngh... aargh...",
+   "rows": [
+    "Ngh... aargh..."
+   ],
+   "rows_plain": [
+    "Ngh... aargh..."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f51_0",
+   "line": 362,
+   "act": 2,
+   "sector": 1768,
+   "offset": 1011,
+   "size": 15316,
+   "b0": 0,
+   "b1": 15316,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "You brought that on yourself.",
+   "rows": [
+    "You brought that on",
+    "yourself."
+   ],
+   "rows_plain": [
+    "You brought that on yourself."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1A0_c5f52_0",
+   "line": 363,
+   "act": 2,
+   "sector": 1775,
+   "offset": 59,
+   "size": 40498,
+   "b0": 0,
+   "b1": 40498,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Why, you! You were leering just as hard!",
+   "rows": [
+    "Why, you! You were leering",
+    "just as hard!"
+   ],
+   "rows_plain": [
+    "Why, you! You were leering just as",
+    "hard!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f53_0",
+   "line": 364,
+   "act": 2,
+   "sector": 1792,
+   "offset": 1049,
+   "size": 32763,
+   "b0": 0,
+   "b1": 32763,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Sorry to disappoint. I have no face to leer with.",
+   "rows": [
+    "Sorry to disappoint. I have",
+    "no face to leer with."
+   ],
+   "rows_plain": [
+    "Sorry to disappoint. I have no face",
+    "to leer with."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f54_0",
+   "line": 365,
+   "act": 2,
+   "sector": 1806,
+   "offset": 1276,
+   "size": 14798,
+   "b0": 0,
+   "b1": 14798,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Robot's always got an excuse.",
+   "rows": [
+    "Robot's always got an",
+    "excuse."
+   ],
+   "rows_plain": [
+    "Robot's always got an excuse."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f55_0",
+   "line": 366,
+   "act": 2,
+   "sector": 1812,
+   "offset": 2130,
+   "size": 21632,
+   "b0": 0,
+   "b1": 21632,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Oh, Catherine's come out.",
+   "rows": [
+    "Oh, Catherine's come out."
+   ],
+   "rows_plain": [
+    "Oh, Catherine's come out."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f56_0",
+   "line": 367,
+   "act": 2,
+   "sector": 1822,
+   "offset": 522,
+   "size": 29381,
+   "b0": 0,
+   "b1": 29381,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "Honestly, Gillian, you're such a pervert.",
+   "rows": [
+    "Honestly, Gillian, you're",
+    "such a pervert."
+   ],
+   "rows_plain": [
+    "Honestly, Gillian, you're such a",
+    "pervert."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1A0_c5f57_0",
+   "line": 368,
+   "act": 2,
+   "sector": 1834,
+   "offset": 2015,
+   "size": 23719,
+   "b0": 0,
+   "b1": 23719,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Ah, no, I... that was...",
+   "rows": [
+    "Ah, no, I... that was..."
+   ],
+   "rows_plain": [
+    "Ah, no, I... that was..."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f58_0",
+   "line": 369,
+   "act": 2,
+   "sector": 1845,
+   "offset": 170,
+   "size": 18152,
+   "b0": 0,
+   "b1": 18152,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "That's not very manly.",
+   "rows": [
+    "That's not very manly."
+   ],
+   "rows_plain": [
+    "That's not very manly."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f59_0",
+   "line": 370,
+   "act": 2,
+   "sector": 1852,
+   "offset": 2054,
+   "size": 43415,
+   "b0": 0,
+   "b1": 43415,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Why, you...! Well, I'm glad Catherine's safe.",
+   "rows": [
+    "Why, you...! Well, I'm glad",
+    "Catherine's safe."
+   ],
+   "rows_plain": [
+    "Why, you...! Well, I'm glad",
+    "Catherine's safe."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f60_0",
+   "line": 371,
+   "act": 2,
+   "sector": 1871,
+   "offset": 1313,
+   "size": 88040,
+   "b0": 0,
+   "b1": 70640,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "I was scared, so I looked up your address, Gillian, and let myself in. I'm sorry.",
+   "rows": [
+    "I was scared, so I looked up",
+    "your address, Gillian, and",
+    "let myself in. I'm sorry."
+   ],
+   "rows_plain": [
+    "I was scared, so I looked up your",
+    "address, Gillian, and let myself in.",
+    "I'm sorry."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f60_0b",
+   "line": 371,
+   "act": 2,
+   "sector": 1871,
+   "offset": 1313,
+   "size": 88040,
+   "b0": 70640,
+   "b1": 88040,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "Did I startle you?",
+   "rows": [
+    "Did I startle you?"
+   ],
+   "rows_plain": [
+    "Did I startle you?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f61_0",
+   "line": 372,
+   "act": 2,
+   "sector": 1909,
+   "offset": 1041,
+   "size": 18887,
+   "b0": 0,
+   "b1": 18887,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Startle me? You bet you did!",
+   "rows": [
+    "Startle me? You bet you did!"
+   ],
+   "rows_plain": [
+    "Startle me? You bet you did!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f62_0",
+   "line": 373,
+   "act": 2,
+   "sector": 1917,
+   "offset": 1336,
+   "size": 10142,
+   "b0": 0,
+   "b1": 10142,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "I'm sorry.",
+   "rows": [
+    "I'm sorry."
+   ],
+   "rows_plain": [
+    "I'm sorry."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f63_0",
+   "line": 374,
+   "act": 2,
+   "sector": 1921,
+   "offset": 2182,
+   "size": 33071,
+   "b0": 0,
+   "b1": 33071,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Ha, never mind that. But how did you get in?",
+   "rows": [
+    "Ha, never mind that. But how",
+    "did you get in?"
+   ],
+   "rows_plain": [
+    "Ha, never mind that. But how did you",
+    "get in?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f64_0",
+   "line": 375,
+   "act": 2,
+   "sector": 1936,
+   "offset": 393,
+   "size": 57591,
+   "b0": 0,
+   "b1": 57591,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "I'm a JUNKER's daughter, you know. Picking a lock is child's play.",
+   "rows": [
+    "I'm a JUNKER's daughter, you",
+    "know. Picking a lock is",
+    "child's play."
+   ],
+   "rows_plain": [
+    "I'm a JUNKER's daughter, you know.",
+    "Picking a lock is child's play."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f65_0",
+   "line": 376,
+   "act": 2,
+   "sector": 1960,
+   "offset": 2208,
+   "size": 38850,
+   "b0": 0,
+   "b1": 38850,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I see. You didn't even trip the sensors. You've got a bright future.",
+   "rows": [
+    "I see. You didn't even trip",
+    "the sensors. You've got a",
+    "bright future."
+   ],
+   "rows_plain": [
+    "I see. You didn't even trip the",
+    "sensors. You've got a bright future."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f68_0",
+   "line": 379,
+   "act": 2,
+   "sector": 1991,
+   "offset": 1756,
+   "size": 17747,
+   "b0": 0,
+   "b1": 17747,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "And the hospital's address?",
+   "rows": [
+    "And the hospital's address?"
+   ],
+   "rows_plain": [
+    "And the hospital's address?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f69_0",
+   "line": 380,
+   "act": 2,
+   "sector": 1999,
+   "offset": 911,
+   "size": 76409,
+   "b0": 0,
+   "b1": 76409,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "CX district, PHC-77. The director is Chin Shu Ho, of Chinese descent.",
+   "rows": [
+    "CX district, PHC-77. The",
+    "director is Chin Shu Ho, of",
+    "Chinese descent."
+   ],
+   "rows_plain": [
+    "CX district, PHC-77. The director is",
+    "Chin Shu Ho, of Chinese descent."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f70_0",
+   "line": 381,
+   "act": 2,
+   "sector": 2032,
+   "offset": 628,
+   "size": 71311,
+   "b0": 0,
+   "b1": 51309,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Chin Shu Ho, huh? He's probably a Snatcher too. This is it, then.",
+   "rows": [
+    "Chin Shu Ho, huh? He's",
+    "probably a Snatcher too.",
+    "This is it, then."
+   ],
+   "rows_plain": [
+    "Chin Shu Ho, huh? He's probably a",
+    "Snatcher too. This is it, then."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f70_0b",
+   "line": 381,
+   "act": 2,
+   "sector": 2032,
+   "offset": 628,
+   "size": 71311,
+   "b0": 51309,
+   "b1": 71311,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The enemy's stronghold.",
+   "rows": [
+    "The enemy's stronghold."
+   ],
+   "rows_plain": [
+    "The enemy's stronghold."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f71_0",
+   "line": 382,
+   "act": 2,
+   "sector": 2062,
+   "offset": 2219,
+   "size": 19811,
+   "b0": 0,
+   "b1": 19811,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "Gillian, be careful.",
+   "rows": [
+    "Gillian, be careful."
+   ],
+   "rows_plain": [
+    "Gillian, be careful."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f72_0",
+   "line": 383,
+   "act": 2,
+   "sector": 2071,
+   "offset": 1114,
+   "size": 47852,
+   "b0": 0,
+   "b1": 47852,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Catherine, you're safe now. They shouldn't come after you anymore.",
+   "rows": [
+    "Catherine, you're safe now.",
+    "They shouldn't come after",
+    "you anymore."
+   ],
+   "rows_plain": [
+    "Catherine, you're safe now. They",
+    "shouldn't come after you anymore."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f73_0",
+   "line": 384,
+   "act": 2,
+   "sector": 2092,
+   "offset": 162,
+   "size": 26431,
+   "b0": 0,
+   "b1": 26431,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Just to be safe, I'll have the Kobe Police guard her.",
+   "rows": [
+    "Just to be safe, I'll have",
+    "the Kobe Police guard her."
+   ],
+   "rows_plain": [
+    "Just to be safe, I'll have the Kobe",
+    "Police guard her."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f74_0",
+   "line": 385,
+   "act": 2,
+   "sector": 2103,
+   "offset": 1029,
+   "size": 45984,
+   "b0": 0,
+   "b1": 45984,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "Gillian, I'm not mad at all about earlier.",
+   "rows": [
+    "Gillian, I'm not mad at all",
+    "about earlier."
+   ],
+   "rows_plain": [
+    "Gillian, I'm not mad at all about",
+    "earlier."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f75_0",
+   "line": 386,
+   "act": 2,
+   "sector": 2123,
+   "offset": 533,
+   "size": 44890,
+   "b0": 0,
+   "b1": 44890,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Catherine, don't worry about us. We won't do anything reckless.",
+   "rows": [
+    "Catherine, don't worry about",
+    "us. We won't do anything",
+    "reckless."
+   ],
+   "rows_plain": [
+    "Catherine, don't worry about us. We",
+    "won't do anything reckless."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f76_0",
+   "line": 387,
+   "act": 2,
+   "sector": 2142,
+   "offset": 1267,
+   "size": 52242,
+   "b0": 0,
+   "b1": 52242,
+   "speaker": "Catherine",
+   "colour": 3,
+   "en": "I just... don't want to lose anyone else.",
+   "rows": [
+    "I just... don't want to lose",
+    "anyone else."
+   ],
+   "rows_plain": [
+    "I just... don't want to lose anyone",
+    "else."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1A0_c5f77_0",
+   "line": 388,
+   "act": 2,
+   "sector": 2165,
+   "offset": 57,
+   "size": 18972,
+   "b0": 0,
+   "b1": 18972,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Let's go, Metal! To Queen Hospital!",
+   "rows": [
+    "Let's go, Metal! To Queen",
+    "Hospital!"
+   ],
+   "rows_plain": [
+    "Let's go, Metal! To Queen Hospital!"
+   ],
+   "enabled": true
+  }
+ ]
+}

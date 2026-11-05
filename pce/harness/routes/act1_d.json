@@ -1,0 +1,467 @@
+[
+{
+"choose": "Joy Division"
+},
+{
+"read": 8000
+},
+{
+"choose": "Exit Tricycle"
+},
+{
+"read": 8000
+},
+{
+"save": "jd0"
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"maybe": "Smell"
+},
+{
+"read": 4000
+},
+{
+"sweep": "Investigate",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"maybe": "Smell"
+},
+{
+"read": 4000
+},
+{
+"maybe": "Eat Kobe-yaki"
+},
+{
+"read": 8000
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"save": "jd_street"
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Enter shop"
+},
+{
+"read": 8000
+},
+{
+"save": "jd_shop"
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 3
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 3
+},
+{
+"read": 3000
+},
+{
+"sweep": "Ask",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"choose": "Item"
+},
+{
+"choose": "Show"
+},
+{
+"items": 1
+},
+{
+"choose": "Photo"
+},
+{
+"maybe": "Gibson's photo"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Ask",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"choose": "Buy something"
+},
+{
+"items": 1
+},
+{
+"choose": "Mask"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Moai",
+"Mummy"
+]
+},
+{
+"read": 6000
+},
+{
+"save": "jd_mask"
+},
+{
+"sweep": "Buy something",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"choose": "Go out"
+},
+{
+"read": 6000
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Board Tricycle"
+},
+{
+"read": 3000
+},
+{
+"save": "jd_done"
+},
+{
+"items": 1
+},
+{
+"choose": "Outer Heaven"
+},
+{
+"read": 8000
+},
+{
+"choose": "Exit Tricycle"
+},
+{
+"read": 8000
+},
+{
+"save": "oh0"
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Talk",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Ask",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"choose": "Item"
+},
+{
+"choose": "Use"
+},
+{
+"items": 1
+},
+{
+"choose": "Mask"
+},
+{
+"read": 6000
+},
+{
+"save": "oh_masked"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Move",
+"Do something",
+"Go inside"
+]
+},
+{
+"items": 1
+},
+{
+"maybe": "Go inside"
+},
+{
+"read": 12000
+},
+{
+"save": "oh_in"
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"choose": "Call"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Dancer",
+"Isabella"
+]
+},
+{
+"read": 8000
+},
+{
+"save": "oh_isabella"
+},
+{
+"items": 1
+},
+{
+"choose": "Ask"
+},
+{
+"items": 1
+},
+{
+"choose": "About Gibson"
+},
+{
+"read": 6000
+},
+{
+"choose": "Item"
+},
+{
+"choose": "Show"
+},
+{
+"choose": "Photo"
+},
+{
+"maybe": "Gibson's photo"
+},
+{
+"read": 6000
+},
+{
+"choose": "Item"
+},
+{
+"choose": "Show"
+},
+{
+"choose": "Photo"
+},
+{
+"maybe": "Gibson's photo"
+},
+{
+"read": 6000
+},
+{
+"choose": "Ask"
+},
+{
+"choose": "About Gibson"
+},
+{
+"read": 6000
+},
+{
+"choose": "Ask"
+},
+{
+"items": 1
+},
+{
+"choose": "About that man"
+},
+{
+"items": 1
+},
+{
+"read": 6000
+},
+{
+"save": "oh_thatman"
+},
+{
+"sweep": "Ask",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Ask",
+"rounds": 5
+},
+{
+"read": 3000
+},
+{
+"save": "oh_asked"
+},
+{
+"choose": "End questions"
+},
+{
+"read": 4000
+},
+{
+"sweep": "Order",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Call",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"maybe": "End questions"
+},
+{
+"read": 3000
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"save": "oh_done"
+},
+{
+"items": 1
+},
+{
+"choose": "Item"
+},
+{
+"choose": "Show"
+},
+{
+"choose": "JUNKER ID"
+},
+{
+"read": 10000
+},
+{
+"save": "oh_out"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Board Tricycle",
+"Move"
+]
+},
+{
+"maybe": "Board Tricycle"
+},
+{
+"read": 3000
+},
+{
+"save": "act1_d_end"
+},
+{
+"items": 1
+}
+]

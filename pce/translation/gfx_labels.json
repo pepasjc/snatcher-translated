@@ -1,0 +1,33 @@
+{
+ "_comment": "English for small Japanese labels baked into PCE pictures (pce/tools/pcelabels.py; the PS1's ps1/translation/gfx_labels.json and the Saturn's carry the approved wording). Coordinates and colours are palette indices on the composed picture (screens: palette*16 + index). The videophone cards stay with pcecards.py; background signage, the BENSON chart, the newspaper's vertical columns and side box are left as Konami drew them.",
+ "note": {"tag": "note", "kind": "sprite", "block": [750, 8, 3], "list": "0x3dff", "also_at": [[722, "0x28cf"]],
+  "keep": [[33, 11, 44, 36]], "edits": [
+   {"inpaint": [3, 12, 32, 31], "values": [1]},
+   {"remap": [3, 11, 32, 34], "map": {"6": 7}},
+   {"text": "Search", "y": 13, "span": [3, 32], "ink": 1, "font": "5x7"},
+   {"text": "the", "y": 20, "span": [3, 32], "ink": 1, "font": "5x7"},
+   {"text": "house", "y": 27, "span": [3, 32], "ink": 1, "font": "5x7"}
+ ]},
+ "poster": {"tag": "poster", "kind": "object", "block": 5, "list": "0x70", "frames": "0xab54", "frame": 4, "palette": "0xadd7",
+  "also": [[13, "0x1d7"], [33, "0x63"]],
+  "_note": "the reception's Look > Poster close-up (block 5 rec 1010, again in blocks 13 and 33): JUNKER stays where Konami drew it, BE A / TOO! hand-set in its 4x5 1-px lettering with the dark-red drop shadow one row under, as the PS1 and Saturn posters",
+  "edits": [
+   {"inpaint": [10, 12, 48, 37], "values": [2, 4]},
+   {"copy": [11, 22, 41, 27], "to": [11, 22], "source": "original", "only": [2, 4]},
+   {"pixels": ["###..####....##.",
+               "#..#.#......#..#",
+               "###..###....####",
+               "#..#.#......#..#",
+               "###..####...#..#"], "x": "center", "span": [11, 40], "y": 14, "ink": 2, "drop": 4},
+   {"pixels": ["###..##...##..#",
+               ".#..#..#.#..#.#",
+               ".#..#..#.#..#.#",
+               ".#..#..#.#..#..",
+               ".#...##...##..#"], "x": "center", "span": [11, 40], "y": 30, "ink": 2, "drop": 4}
+ ]},
+ "_newspaper": "headline only (Luiz, 2026-10-14): the date line, the vertical columns and the side box stay Japanese - the date did not fit (the BAT patches 0x7cd..0x8d1 keep 0x11b-0x11e).",
+ "newspaper": {"tag": "newspaper", "kind": "screen", "screen": [3, 7], "list": "0x2dd", "edits": [
+   {"erase": [70, 98, 161, 113], "fill": 1},
+   {"text": "MYSTERY BIOROID", "y": 100, "span": [70, 161], "ink": 3}
+ ]}
+}

@@ -1,0 +1,123 @@
+{
+ "scene": "B100",
+ "note": "coverage A_videophone / the Chief's expenses scolding (M000 ch0 f1-f6): order whale and drinks at Outer Heaven (from card B100_auto), go out, ride to JUNKER HQ, Move > Chief's room - the Chief scolds Gillian in his office (bank B080). The cards sit in subs_B060/B070 (videophone banks), so on 2026-11-07 the six lines played with an empty box.",
+ "actions": [
+  {
+   "path": [
+    "End questions"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Order",
+    "Whale dishes"
+   ]
+  },
+  {
+   "idle": 300
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 200
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 200
+  },
+  {
+   "path": [
+    "Order",
+    "Drinks"
+   ],
+   "optional": true
+  },
+  {
+   "idle": 300
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 200
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 200
+  },
+  {
+   "path": [
+    "Order",
+    "Drinks"
+   ],
+   "optional": true
+  },
+  {
+   "idle": 300
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 200
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 200
+  },
+  {
+   "path": [
+    "Go out"
+   ],
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Move",
+    "Board Tricycle"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "JUNKER HQ"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "idle": 1500
+  },
+  {
+   "path": [
+    "Move",
+    "Chief's room"
+   ],
+   "patience": 3000
+  },
+  {
+   "idle": 2500
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 600
+  }
+ ]
+}

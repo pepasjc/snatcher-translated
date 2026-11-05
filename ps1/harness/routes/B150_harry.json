@@ -1,0 +1,1 @@
+{"scene":"B150","actions":[{"path":["Move","Mechanic room"]},{"save":"B150_harry"},{"sweep":["Look","Investigate","Ask","Talk"],"rounds":2,"avoid":["Go out"]}]}

@@ -1,0 +1,3194 @@
+{
+ "file": "ISZ_B100.BIN",
+ "text_base": 11821,
+ "strings": [
+  {
+   "off": 11821,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 11826,
+   "budget": 29,
+   "en": "We're inside Outer Heaven."
+  },
+  {
+   "off": 11855,
+   "budget": 9,
+   "en": "Go out"
+  },
+  {
+   "off": 11864,
+   "budget": 25,
+   "en": "Thank you very much."
+  },
+  {
+   "off": 11889,
+   "budget": 47,
+   "en": "Let's see. Your total is 10,000￥credits."
+  },
+  {
+   "off": 11936,
+   "budget": 33,
+   "en": "Or so I would say, but...",
+   "long": "That's what I'd normally charge,￥but..."
+  },
+  {
+   "off": 11969,
+   "budget": 59,
+   "en": "You're a fellow Konami fan, so it's￥on the house today."
+  },
+  {
+   "off": 12028,
+   "budget": 11,
+   "en": "Really?!"
+  },
+  {
+   "off": 12039,
+   "budget": 11,
+   "en": "Really."
+  },
+  {
+   "off": 12050,
+   "budget": 19,
+   "en": "Metal, hear that?",
+   "long": "Did you hear that, Metal?"
+  },
+  {
+   "off": 12069,
+   "budget": 25,
+   "en": "Nice going, Gillian!"
+  },
+  {
+   "off": 12094,
+   "budget": 37,
+   "en": "Ah, I'm so glad I'm a Konami fan.",
+   "long": "Yeah. I'm sure glad I'm a Konami￥fan."
+  },
+  {
+   "off": 12131,
+   "budget": 29,
+   "en": "Huh?! It's not on the house?",
+   "long": "What?! Isn't it on the house?"
+  },
+  {
+   "off": 12160,
+   "budget": 47,
+   "en": "That was it.￥We're a business, after all.",
+   "long": "That offer ended with your last￥order. I have a business to run."
+  },
+  {
+   "off": 12207,
+   "budget": 51,
+   "en": "You'll have to pay the full 10,000￥credits."
+  },
+  {
+   "off": 12258,
+   "budget": 43,
+   "en": "Yikes! 10,000? Metal, buddy?"
+  },
+  {
+   "off": 12301,
+   "budget": 33,
+   "en": "Wh-what's that smile for?"
+  },
+  {
+   "off": 12334,
+   "budget": 37,
+   "en": "Silly me. I forgot my wallet."
+  },
+  {
+   "off": 12371,
+   "budget": 35,
+   "en": "Again? I just saw it."
+  },
+  {
+   "off": 12406,
+   "budget": 53,
+   "en": "Expenses. Necessary expenses...￥eh, Metal?",
+   "long": "It's a business expense. A necessary￥business expense! Right, Metal, old￥pal?"
+  },
+  {
+   "off": 12459,
+   "budget": 25,
+   "en": "Leave me out of it...",
+   "long": "Fine, but don't blame me."
+  },
+  {
+   "off": 12484,
+   "budget": 33,
+   "en": "10,000 credits. Thank you."
+  },
+  {
+   "off": 12517,
+   "budget": 55,
+   "en": "Expenses... all necessary...￥eh?￥Metal, old chum?",
+   "long": "It's a business expense. A necessary￥business expense! Right, Metal, old￥pal?"
+  },
+  {
+   "off": 12572,
+   "budget": 35,
+   "en": "10,000 credits. Thank you."
+  },
+  {
+   "off": 12607,
+   "budget": 41,
+   "en": "Let's see. That comes to 5,000￥credits."
+  },
+  {
+   "off": 12648,
+   "budget": 21,
+   "en": "Metal, hear that?!",
+   "long": "Did you hear that, Metal?!"
+  },
+  {
+   "off": 12669,
+   "budget": 49,
+   "en": "You'll have to pay the full 5,000￥credits."
+  },
+  {
+   "off": 12718,
+   "budget": 25,
+   "en": "Pay the bill, Metal."
+  },
+  {
+   "off": 12743,
+   "budget": 35,
+   "en": "Surely not on expenses again?",
+   "long": "You're not planning to put this on￥expenses, are you?"
+  },
+  {
+   "off": 12778,
+   "budget": 37,
+   "en": "Of course. Any complaints?",
+   "long": "You bet I am. Got a problem with￥that?"
+  },
+  {
+   "off": 12815,
+   "budget": 43,
+   "en": "Don't blame me if the Chief finds￥out."
+  },
+  {
+   "off": 12858,
+   "budget": 31,
+   "en": "5,000 credits. Thank you."
+  },
+  {
+   "off": 12889,
+   "budget": 45,
+   "en": "Let's see. That comes to 2,000￥credits."
+  },
+  {
+   "off": 12934,
+   "budget": 15,
+   "en": "Was that all?!",
+   "long": "Oh, that's right!"
+  },
+  {
+   "off": 12949,
+   "budget": 45,
+   "en": "Blast!￥I should have eaten more!",
+   "long": "Damn! I should have ordered more￥food and drinks!"
+  },
+  {
+   "off": 12994,
+   "budget": 33,
+   "en": "Gillian, you're ＠赤so cheap."
+  },
+  {
+   "off": 13027,
+   "budget": 19,
+   "en": "＠赤Damn it!!"
+  },
+  {
+   "off": 13046,
+   "budget": 23,
+   "en": "Eh, not free then?",
+   "long": "Huh? Isn't it on the house?"
+  },
+  {
+   "off": 13069,
+   "budget": 55,
+   "en": "The service ended with that.￥We are a business.",
+   "long": "That offer ended with your last￥order. I have a business to run."
+  },
+  {
+   "off": 13124,
+   "budget": 23,
+   "en": "That really stings!"
+  },
+  {
+   "off": 13147,
+   "budget": 31,
+   "en": "2,000 credits. Thank you."
+  },
+  {
+   "off": 13178,
+   "budget": 13,
+   "en": "2,000?"
+  },
+  {
+   "off": 13191,
+   "budget": 27,
+   "en": "Here you go. 2,000."
+  },
+  {
+   "off": 13218,
+   "budget": 59,
+   "en": "Let's see...￥just the cover charge, 500 credits.",
+   "long": "Let's see. Just the cover charge,￥then. That's 500 credits."
+  },
+  {
+   "off": 13277,
+   "budget": 9,
+   "en": "What?!"
+  },
+  {
+   "off": 13286,
+   "budget": 35,
+   "en": "(No more freebies, huh?)"
+  },
+  {
+   "off": 13321,
+   "budget": 29,
+   "en": "500 credits. Thank you."
+  },
+  {
+   "off": 13350,
+   "budget": 35,
+   "en": "500? Here you go."
+  },
+  {
+   "off": 13385,
+   "budget": 29,
+   "en": "We only just got here."
+  },
+  {
+   "off": 13414,
+   "budget": 35,
+   "en": "We haven't found any clues yet."
+  },
+  {
+   "off": 13449,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 13454,
+   "budget": 5,
+   "en": "Club",
+   "long": "Inside club"
+  },
+  {
+   "off": 13459,
+   "budget": 69,
+   "en": "People in all sorts of costume.￥It seems to be show time now.",
+   "long": "People are wearing all kinds of￥costumes. It looks like the show's￥on now."
+  },
+  {
+   "off": 13528,
+   "budget": 51,
+   "en": "What's that grotesque thing behind￥the counter?"
+  },
+  {
+   "off": 13579,
+   "budget": 25,
+   "en": "That's the master.",
+   "long": "That's the owner we just met."
+  },
+  {
+   "off": 13604,
+   "budget": 27,
+   "en": "That must be the owner."
+  },
+  {
+   "off": 13631,
+   "budget": 67,
+   "en": "It's nearly full. This place really￥is popular."
+  },
+  {
+   "off": 13698,
+   "budget": 3,
+   "en": "Cu",
+   "long": "Customers"
+  },
+  {
+   "off": 13701,
+   "budget": 11,
+   "en": "PowerPro"
+  },
+  {
+   "off": 13712,
+   "budget": 85,
+   "en": "That's him! PowerPro, gaming's￥number one for biggest head and￥fewest joints!",
+   "long": "There! That's Pawapuro-kun. No one￥in video games has a bigger head or￥fewer joints."
+  },
+  {
+   "off": 13797,
+   "budget": 15,
+   "en": "Oh, him."
+  },
+  {
+   "off": 13812,
+   "budget": 75,
+   "en": "Nothing below the ankles, yet he￥pulls off a pendulum swing.",
+   "long": "He has no legs, just feet, but he￥can still pull off a pendulum swing.￥Pretty cool."
+  },
+  {
+   "off": 13887,
+   "budget": 85,
+   "en": "When a close pitch is a strike,￥he eyes the umpire as if to say￥'seriously?'",
+   "long": "When a close pitch gets called a￥strike, he gives the umpire this￥cheeky 'Seriously?' look."
+  },
+  {
+   "off": 13972,
+   "budget": 79,
+   "en": "Yeah! When I play, it feels like￥those eyes are blaming me, too."
+  },
+  {
+   "off": 14051,
+   "budget": 47,
+   "en": "A customer in PowerPro costume.",
+   "long": "A customer dressed as Pawapuro-kun,￥with that huge head."
+  },
+  {
+   "off": 14098,
+   "budget": 9,
+   "en": "Goemon"
+  },
+  {
+   "off": 14107,
+   "budget": 81,
+   "en": "Oh! That's a character from the hit￥game Goemon. Part 53 just came out."
+  },
+  {
+   "off": 14188,
+   "budget": 71,
+   "en": "Oh, right. The thief who runs around￥in that flashy outfit."
+  },
+  {
+   "off": 14259,
+   "budget": 61,
+   "en": "Kids in Neo Kobe love him and his￥punk hairstyle."
+  },
+  {
+   "off": 14320,
+   "budget": 45,
+   "en": "A customer in Goemon costume.",
+   "long": "A customer dressed as Goemon, from￥the hit game."
+  },
+  {
+   "off": 14365,
+   "budget": 17,
+   "en": "Light & Pastel"
+  },
+  {
+   "off": 14382,
+   "budget": 33,
+   "en": "Those two are Light and Pastel."
+  },
+  {
+   "off": 14415,
+   "budget": 57,
+   "en": "They're the pilots of TwinBee and￥WinBee."
+  },
+  {
+   "off": 14472,
+   "budget": 35,
+   "en": "So those two are the pilots."
+  },
+  {
+   "off": 14507,
+   "budget": 31,
+   "en": "Both are middle schoolers.",
+   "long": "They're both in junior high,￥actually."
+  },
+  {
+   "off": 14538,
+   "budget": 43,
+   "en": "What!￥Schoolkids allowed in here?",
+   "long": "What?! Are junior high kids allowed￥in a place like this?"
+  },
+  {
+   "off": 14581,
+   "budget": 23,
+   "en": "I'll have a word!",
+   "long": "I'll go have a word with them!"
+  },
+  {
+   "off": 14604,
+   "budget": 65,
+   "en": "Gillian, it's cosplay.￥＠赤Inside＠白 they are surely adults.",
+   "long": "They're costumes, Gillian. The￥＠赤people inside＠白 are probably adults."
+  },
+  {
+   "off": 14669,
+   "budget": 49,
+   "en": "Such adults exist?￥Not friends I'd want.",
+   "long": "Adults do that? I wouldn't want them￥as friends."
+  },
+  {
+   "off": 14718,
+   "budget": 41,
+   "en": "Customers dressed as Light and￥Pastel."
+  },
+  {
+   "off": 14759,
+   "budget": 11,
+   "en": "Dracula"
+  },
+  {
+   "off": 14770,
+   "budget": 27,
+   "en": "Oh, that's Dracula."
+  },
+  {
+   "off": 14797,
+   "budget": 57,
+   "en": "The vampire who dies and dies￥and still comes back?",
+   "long": "The vampire who keeps coming back,￥no matter how many times he dies?"
+  },
+  {
+   "off": 14854,
+   "budget": 47,
+   "en": "'Care for a bite?' That gag was￥popular.",
+   "long": "Remember that old 'I'll suck your￥blood!' gag?"
+  },
+  {
+   "off": 14901,
+   "budget": 23,
+   "en": "I wouldn't know.",
+   "long": "I've never heard of it."
+  },
+  {
+   "off": 14924,
+   "budget": 35,
+   "en": "A customer dressed as Dracula."
+  },
+  {
+   "off": 14959,
+   "budget": 7,
+   "en": "Simon"
+  },
+  {
+   "off": 14966,
+   "budget": 69,
+   "en": "That's Simon Belmont! His whole￥family fights Dracula."
+  },
+  {
+   "off": 15035,
+   "budget": 71,
+   "en": "His greatest weapon is a whip,￥an odd hero, even for Konami.",
+   "long": "His main weapon is a whip. That￥makes him unusual even among Konami￥heroes."
+  },
+  {
+   "off": 15106,
+   "budget": 29,
+   "en": "Friendly with Dracula, no?",
+   "long": "He seems pretty friendly with￥Dracula."
+  },
+  {
+   "off": 15135,
+   "budget": 59,
+   "en": "Fight for generations and a man's￥friendship grows?",
+   "long": "Maybe fighting for generations￥brings men closer together."
+  },
+  {
+   "off": 15194,
+   "budget": 85,
+   "en": "They're costumes, Gillian. Just￥ordinary people wearing masks."
+  },
+  {
+   "off": 15279,
+   "budget": 31,
+   "en": "A customer dressed as Simon."
+  },
+  {
+   "off": 15310,
+   "budget": 13,
+   "en": "DesignMan"
+  },
+  {
+   "off": 15323,
+   "budget": 49,
+   "en": "That's Design Man, the legendary￥game designer."
+  },
+  {
+   "off": 15372,
+   "budget": 15,
+   "en": "Design Man?"
+  },
+  {
+   "off": 15387,
+   "budget": 63,
+   "en": "A super designer who never let go￥of paper and pencil.",
+   "long": "A brilliant designer who was never￥without his pencil and paper."
+  },
+  {
+   "off": 15450,
+   "budget": 29,
+   "en": "See, drawing even now.",
+   "long": "Look, he's drawing something right￥now."
+  },
+  {
+   "off": 15479,
+   "budget": 37,
+   "en": "DesignMan...￥A model developer.",
+   "long": "Design Man. A role model for￥developers everywhere."
+  },
+  {
+   "off": 15516,
+   "budget": 49,
+   "en": "A customer as DesignMan, the￥model developer.",
+   "long": "A customer dressed as Design Man, a￥role model for developers￥everywhere."
+  },
+  {
+   "off": 15565,
+   "budget": 45,
+   "en": "Like a Konami character reunion.",
+   "long": "It's like a reunion of Konami game￥characters."
+  },
+  {
+   "off": 15610,
+   "budget": 57,
+   "en": "Pawapuro-kun, Goemon, Light and￥Pastel from TwinBee,"
+  },
+  {
+   "off": 15667,
+   "budget": 97,
+   "en": "Dracula and Simon from Castlevania,￥and Design Man. Everyone's really in￥character."
+  },
+  {
+   "off": 15764,
+   "budget": 33,
+   "en": "The owner here favours Konami.",
+   "long": "Whoever runs this place sure loves￥Konami."
+  },
+  {
+   "off": 15797,
+   "budget": 9,
+   "en": "Dancer"
+  },
+  {
+   "off": 15806,
+   "budget": 13,
+   "en": ".........."
+  },
+  {
+   "off": 15819,
+   "budget": 45,
+   "en": "Gillian!￥How long will you stand gaping?",
+   "long": "Gillian! How long are you going to￥stand there staring?"
+  },
+  {
+   "off": 15864,
+   "budget": 29,
+   "en": "Her dancing is superb.",
+   "long": "She's a fantastic dancer, too."
+  },
+  {
+   "off": 15893,
+   "budget": 25,
+   "en": "I want another chat...",
+   "long": "I'd like to talk to her again."
+  },
+  {
+   "off": 15918,
+   "budget": 71,
+   "en": "The bewitching dance of the star￥Isabella Velvet.￥Marvellous!",
+   "long": "Isabella Velvet, the star of the￥moment, doing her seductive dance.￥What a sight!"
+  },
+  {
+   "off": 15989,
+   "budget": 33,
+   "en": "Well, you weren't kidding."
+  },
+  {
+   "off": 16022,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 16029,
+   "budget": 23,
+   "en": "Hands off, you!",
+   "long": "Hey! Watch where you put your hands!"
+  },
+  {
+   "off": 16052,
+   "budget": 31,
+   "en": "Keep your hands to yourself!"
+  },
+  {
+   "off": 16083,
+   "budget": 17,
+   "en": "What's the idea!",
+   "long": "What the hell are you doing?!"
+  },
+  {
+   "off": 16100,
+   "budget": 23,
+   "en": "Eek! You pervert!"
+  },
+  {
+   "off": 16123,
+   "budget": 15,
+   "en": "Stop that!",
+   "long": "What are you doing?!"
+  },
+  {
+   "off": 16138,
+   "budget": 13,
+   "en": "Light..."
+  },
+  {
+   "off": 16151,
+   "budget": 29,
+   "en": "Who!￥I'll bite you!!",
+   "long": "Who the hell are you?! I'll suck￥your blood!"
+  },
+  {
+   "off": 16180,
+   "budget": 17,
+   "en": "Watch it, you!",
+   "long": "Watch where you put your hands!"
+  },
+  {
+   "off": 16197,
+   "budget": 29,
+   "en": "Who are you?! How rude!"
+  },
+  {
+   "off": 16226,
+   "budget": 39,
+   "en": "Watch those hands! I'll whip you!"
+  },
+  {
+   "off": 16265,
+   "budget": 29,
+   "en": "Don't interrupt my drawing!"
+  },
+  {
+   "off": 16294,
+   "budget": 25,
+   "en": "You! I'll sketch you!"
+  },
+  {
+   "off": 16319,
+   "budget": 5,
+   "en": "Call"
+  },
+  {
+   "off": 16324,
+   "budget": 9,
+   "en": "Master",
+   "long": "Bartender"
+  },
+  {
+   "off": 16333,
+   "budget": 25,
+   "en": "I'll call the owner."
+  },
+  {
+   "off": 16358,
+   "budget": 41,
+   "en": "Welcome. Can I help you?"
+  },
+  {
+   "off": 16399,
+   "budget": 25,
+   "en": "Oh, it's you."
+  },
+  {
+   "off": 16424,
+   "budget": 23,
+   "en": "You again?"
+  },
+  {
+   "off": 16447,
+   "budget": 25,
+   "en": "I'll call Isabella."
+  },
+  {
+   "off": 16472,
+   "budget": 25,
+   "en": "Isabella!"
+  },
+  {
+   "off": 16497,
+   "budget": 35,
+   "en": "Oh, you two?￥Need something?",
+   "long": "Oh, you two again? What can I do for￥you?"
+  },
+  {
+   "off": 16532,
+   "budget": 51,
+   "en": "Hi! I'm Isabella Velvet. Can I help￥you?"
+  },
+  {
+   "off": 16583,
+   "budget": 43,
+   "en": "A JUNKER and a robot?"
+  },
+  {
+   "off": 16626,
+   "budget": 33,
+   "en": "A Moai statue and a robot?"
+  },
+  {
+   "off": 16659,
+   "budget": 33,
+   "en": "Koitsu and a robot?"
+  },
+  {
+   "off": 16692,
+   "budget": 27,
+   "en": "I'll call Pawapuro-kun."
+  },
+  {
+   "off": 16719,
+   "budget": 15,
+   "en": "You need me?",
+   "long": "Need something?"
+  },
+  {
+   "off": 16734,
+   "budget": 25,
+   "en": "I'll call Goemon."
+  },
+  {
+   "off": 16759,
+   "budget": 27,
+   "en": "Pipe down!￥What is it?",
+   "long": "Keep it down! What do you want?"
+  },
+  {
+   "off": 16786,
+   "budget": 33,
+   "en": "I'll call Light and Pastel."
+  },
+  {
+   "off": 16819,
+   "budget": 11,
+   "en": "What's up?",
+   "long": "What is it?"
+  },
+  {
+   "off": 16830,
+   "budget": 13,
+   "en": "What is it?",
+   "long": "What's wrong?"
+  },
+  {
+   "off": 16843,
+   "budget": 27,
+   "en": "I'll call Dracula."
+  },
+  {
+   "off": 16870,
+   "budget": 11,
+   "en": "What?",
+   "long": "What do you want?"
+  },
+  {
+   "off": 16881,
+   "budget": 23,
+   "en": "Calling Simon..."
+  },
+  {
+   "off": 16904,
+   "budget": 13,
+   "en": "Need me?",
+   "long": "Need something?"
+  },
+  {
+   "off": 16917,
+   "budget": 29,
+   "en": "I'll call Design Man."
+  },
+  {
+   "off": 16946,
+   "budget": 9,
+   "en": "What?",
+   "long": "What is it?"
+  },
+  {
+   "off": 16955,
+   "budget": 9,
+   "en": "Order"
+  },
+  {
+   "off": 16964,
+   "budget": 45,
+   "en": "Go easy, or the Chief scolds￥us again.",
+   "long": "Take it easy, or the Chief will get￥angry with you again."
+  },
+  {
+   "off": 17009,
+   "budget": 7,
+   "en": "Whale",
+   "long": "Whale dishes"
+  },
+  {
+   "off": 17016,
+   "budget": 35,
+   "en": "You just ate!"
+  },
+  {
+   "off": 17051,
+   "budget": 29,
+   "en": "Master! Whale, please?",
+   "long": "Hey, can I get some whale meat?"
+  },
+  {
+   "off": 17080,
+   "budget": 23,
+   "en": "Here you are!"
+  },
+  {
+   "off": 17103,
+   "budget": 35,
+   "en": "Hm? Mmm! That's good!"
+  },
+  {
+   "off": 17138,
+   "budget": 21,
+   "en": "Master! Seconds!",
+   "long": "Another helping, please!"
+  },
+  {
+   "off": 17159,
+   "budget": 21,
+   "en": "Master! Another!",
+   "long": "One more plate, please!"
+  },
+  {
+   "off": 17180,
+   "budget": 3,
+   "en": "Dr",
+   "long": "Drinks"
+  },
+  {
+   "off": 17183,
+   "budget": 49,
+   "en": "Aren't you still feeling that last￥drink?"
+  },
+  {
+   "off": 17232,
+   "budget": 39,
+   "en": "That's it! I'm done drinking!"
+  },
+  {
+   "off": 17271,
+   "budget": 49,
+   "en": "Bartender! A shot of Moonsalt!"
+  },
+  {
+   "off": 17320,
+   "budget": 37,
+   "en": "Another Moonsalt, bartender!"
+  },
+  {
+   "off": 17357,
+   "budget": 29,
+   "en": "You're on duty! Honestly!"
+  },
+  {
+   "off": 17386,
+   "budget": 37,
+   "en": "I'm starting to feel a little drunk."
+  },
+  {
+   "off": 17423,
+   "budget": 29,
+   "en": "Please stop drinking."
+  },
+  {
+   "off": 17452,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 17457,
+   "budget": 7,
+   "en": "Show"
+  },
+  {
+   "off": 17464,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 17479,
+   "budget": 7,
+   "en": "Remove"
+  },
+  {
+   "off": 17486,
+   "budget": 13,
+   "en": "My mask"
+  },
+  {
+   "off": 17499,
+   "budget": 31,
+   "en": "Maybe I'll take off my mask."
+  },
+  {
+   "off": 17530,
+   "budget": 25,
+   "en": "Sir! You can't do that."
+  },
+  {
+   "off": 17555,
+   "budget": 103,
+   "en": "Please keep your mask on during￥Masquerade Hour, or I'll have to ask￥you to leave."
+  },
+  {
+   "off": 17658,
+   "budget": 27,
+   "en": "I see, I'll leave it...",
+   "long": "All right. I'll leave it on."
+  },
+  {
+   "off": 17685,
+   "budget": 33,
+   "en": "Maybe I'll take off my mask."
+  },
+  {
+   "off": 17718,
+   "budget": 55,
+   "en": "Sir! Those are the rules. You'll￥have to leave!"
+  },
+  {
+   "off": 17773,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 17788,
+   "budget": 27,
+   "en": "No one takes our order.",
+   "long": "Nobody comes to take your order,￥huh?"
+  },
+  {
+   "off": 17815,
+   "budget": 47,
+   "en": "Why don't you ask the owner over￥there?"
+  },
+  {
+   "off": 17862,
+   "budget": 63,
+   "en": "At cosplay time all are made up.￥Faces are hard to read.",
+   "long": "It's Masquerade Hour. Everyone's￥wearing makeup, so I can't make out￥their faces."
+  },
+  {
+   "off": 17925,
+   "budget": 41,
+   "en": "Everyone here but us￥looks suspicious.",
+   "long": "Everyone here looks suspicious￥except us."
+  },
+  {
+   "off": 17966,
+   "budget": 43,
+   "en": "He wasn't carrying anything￥suspicious.",
+   "long": "They weren't carrying anything￥suspicious."
+  },
+  {
+   "off": 18009,
+   "budget": 33,
+   "en": "No clues, unfortunately."
+  },
+  {
+   "off": 18042,
+   "budget": 29,
+   "en": "Mmm! That's good!"
+  },
+  {
+   "off": 18071,
+   "budget": 43,
+   "en": "Gulp, gulp. Ahh! That hits the spot!"
+  },
+  {
+   "off": 18114,
+   "budget": 11,
+   "en": "Finish",
+   "long": "End questions"
+  },
+  {
+   "off": 18125,
+   "budget": 53,
+   "en": "Ah, Isabella.￥Sorry.￥Nothing in particular.",
+   "long": "Sorry, Isabella. I don't really have￥anything to talk about."
+  },
+  {
+   "off": 18178,
+   "budget": 19,
+   "en": "Well! How rude."
+  },
+  {
+   "off": 18197,
+   "budget": 37,
+   "en": "You've been a big help. Thank you."
+  },
+  {
+   "off": 18234,
+   "budget": 29,
+   "en": "I'm glad. See you."
+  },
+  {
+   "off": 18263,
+   "budget": 37,
+   "en": "Thanks. That was helpful."
+  },
+  {
+   "off": 18300,
+   "budget": 27,
+   "en": "Really? Well, see you."
+  },
+  {
+   "off": 18327,
+   "budget": 51,
+   "en": "Thanks. That helped a little."
+  },
+  {
+   "off": 18378,
+   "budget": 17,
+   "en": "Bye, then."
+  },
+  {
+   "off": 18395,
+   "budget": 29,
+   "en": "Do call on the videophone.",
+   "long": "I'll be waiting for your videophone￥call."
+  },
+  {
+   "off": 18424,
+   "budget": 89,
+   "en": "＠黄Let's make a montage with HQ's￥'Gaudi' and match the data.",
+   "long": "＠黄Let's use this information to make a￥composite portrait on Gaudi back at￥headquarters and check it against￥the database."
+  },
+  {
+   "off": 18513,
+   "budget": 33,
+   "en": "Build a composite photo, eh?",
+   "long": "So we're making a composite￥portrait?"
+  },
+  {
+   "off": 18546,
+   "budget": 61,
+   "en": "Really she ought to come￥to HQ with us.",
+   "long": "It would be better if Isabella could￥come to headquarters with us."
+  },
+  {
+   "off": 18607,
+   "budget": 45,
+   "en": "Can't be helped...￥We'll ask her later.",
+   "long": "Can't be helped. We can check with￥her afterward."
+  },
+  {
+   "off": 18652,
+   "budget": 9,
+   "en": "Isabella"
+  },
+  {
+   "off": 18661,
+   "budget": 55,
+   "en": "Mmm, poison to the eyes!￥Bondage fashion, is it?",
+   "long": "Wow, that's distracting! Is that the￥bondage look everyone's wearing?"
+  },
+  {
+   "off": 18716,
+   "budget": 33,
+   "en": "What is it?￥...Am I pretty?",
+   "long": "What's the matter? Do you think I'm￥pretty?"
+  },
+  {
+   "off": 18749,
+   "budget": 49,
+   "en": "Don't stare so.￥Strange ideas will come.",
+   "long": "Don't stare at me like that. You'll￥give me ideas."
+  },
+  {
+   "off": 18798,
+   "budget": 21,
+   "en": "Quite a fine man.",
+   "long": "You're quite handsome."
+  },
+  {
+   "off": 18819,
+   "budget": 27,
+   "en": "Long face, good tan...",
+   "long": "That long, tanned face of yours."
+  },
+  {
+   "off": 18846,
+   "budget": 33,
+   "en": "(It's just a mask, though.)"
+  },
+  {
+   "off": 18879,
+   "budget": 31,
+   "en": "A plain face; just my type.",
+   "long": "I like your simple features. You're￥my type."
+  },
+  {
+   "off": 18910,
+   "budget": 45,
+   "en": "I might let you take me out to￥dinner."
+  },
+  {
+   "off": 18955,
+   "budget": 23,
+   "en": "And a-after dinner?"
+  },
+  {
+   "off": 18978,
+   "budget": 33,
+   "en": "That depends on you."
+  },
+  {
+   "off": 19011,
+   "budget": 31,
+   "en": "Did you hear that, Metal?!"
+  },
+  {
+   "off": 19042,
+   "budget": 25,
+   "en": "Should you?￥The case?",
+   "long": "Are you sure about this? What about￥the investigation?"
+  },
+  {
+   "off": 19067,
+   "budget": 83,
+   "en": "Don't be jealous. I'll buy you a￥cute little robot sometime. So,￥when?"
+  },
+  {
+   "off": 19150,
+   "budget": 43,
+   "en": "Oh, you took me seriously? I was￥joking."
+  },
+  {
+   "off": 19193,
+   "budget": 39,
+   "en": "Huh? Joking?"
+  },
+  {
+   "off": 19232,
+   "budget": 35,
+   "en": "That moai mask￥hides your face.",
+   "long": "I can't see your face under that￥Moai mask, can I?"
+  },
+  {
+   "off": 19267,
+   "budget": 39,
+   "en": "That 'thing' mask￥hides your face.",
+   "long": "I can't see your face under that￥Koitsu mask, can I?"
+  },
+  {
+   "off": 19306,
+   "budget": 43,
+   "en": "Heh heh heh! (Thump!) Ouch!"
+  },
+  {
+   "off": 19349,
+   "budget": 69,
+   "en": "Enough, no?￥Count yourself lucky just to￥see me up close...",
+   "long": "Haven't you had enough? You should￥feel lucky just to see me this￥close."
+  },
+  {
+   "off": 19418,
+   "budget": 13,
+   "en": "Her chest"
+  },
+  {
+   "off": 19431,
+   "budget": 67,
+   "en": "A-amazing!￥...Are those real?￥The 21st century of curves...",
+   "long": "W-wow! Are those real? Big breasts￥are still in fashion in the 21st￥century, huh?"
+  },
+  {
+   "off": 19498,
+   "budget": 35,
+   "en": "What's wrong, Gillian?"
+  },
+  {
+   "off": 19533,
+   "budget": 71,
+   "en": "(No wonder she's a star. Jamie can't￥even compare.)"
+  },
+  {
+   "off": 19604,
+   "budget": 43,
+   "en": "What are you muttering about,￥Gillian?"
+  },
+  {
+   "off": 19647,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 19654,
+   "budget": 47,
+   "en": "Looking away, with a beauty￥before you?",
+   "long": "How can you look away with a beauty￥like me right in front of you?"
+  },
+  {
+   "off": 19701,
+   "budget": 17,
+   "en": "Oh, sorry."
+  },
+  {
+   "off": 19718,
+   "budget": 23,
+   "en": "No! Look only at me!",
+   "long": "No! Keep your eyes on me!"
+  },
+  {
+   "off": 19741,
+   "budget": 13,
+   "en": "I'll do it!",
+   "long": "I'll check her out!"
+  },
+  {
+   "off": 19754,
+   "budget": 15,
+   "en": "I'll do it!"
+  },
+  {
+   "off": 19769,
+   "budget": 11,
+   "en": "I'm on it!",
+   "long": "I'm doing it!"
+  },
+  {
+   "off": 19780,
+   "budget": 29,
+   "en": "Well?￥Get on with it?",
+   "long": "What's wrong? Go on, examine me."
+  },
+  {
+   "off": 19809,
+   "budget": 21,
+   "en": "No, it's all right."
+  },
+  {
+   "off": 19830,
+   "budget": 45,
+   "en": "This could take a while to examine."
+  },
+  {
+   "off": 19875,
+   "budget": 27,
+   "en": "You're terrible at jokes."
+  },
+  {
+   "off": 19902,
+   "budget": 27,
+   "en": "Try living a bit smarter?",
+   "long": "Why not try being a little smoother?"
+  },
+  {
+   "off": 19929,
+   "budget": 5,
+   "en": "Ask"
+  },
+  {
+   "off": 19934,
+   "budget": 17,
+   "en": "Phone number"
+  },
+  {
+   "off": 19951,
+   "budget": 17,
+   "en": "Give it a rest!"
+  },
+  {
+   "off": 19968,
+   "budget": 45,
+   "en": "Isabella, your videophone number?",
+   "long": "Isabella, could I have your￥videophone number?"
+  },
+  {
+   "off": 20013,
+   "budget": 13,
+   "en": "No."
+  },
+  {
+   "off": 20026,
+   "budget": 19,
+   "en": "I can't tell you."
+  },
+  {
+   "off": 20045,
+   "budget": 23,
+   "en": "After all... no.",
+   "long": "No, I really shouldn't."
+  },
+  {
+   "off": 20068,
+   "budget": 17,
+   "en": "Give it up..."
+  },
+  {
+   "off": 20085,
+   "budget": 59,
+   "en": "I give in...￥Listen, it's special, for￥you alone.",
+   "long": "All right, you win. But this is a￥special favor. I'm only giving it to￥you."
+  },
+  {
+   "off": 20144,
+   "budget": 91,
+   "en": "I'll only say it once. ＠赤39-6004＠白.￥Don't call before the afternoon."
+  },
+  {
+   "off": 20235,
+   "budget": 35,
+   "en": "Yes! Heh heh heh!"
+  },
+  {
+   "off": 20270,
+   "budget": 29,
+   "en": "What's that laugh for?"
+  },
+  {
+   "off": 20299,
+   "budget": 13,
+   "en": "About Gibson"
+  },
+  {
+   "off": 20312,
+   "budget": 79,
+   "en": "Just the other day.￥It wasn't cosplay time, so I recall￥his face.",
+   "long": "It was just the other day. It wasn't￥Masquerade Hour, so I remember his￥face."
+  },
+  {
+   "off": 20391,
+   "budget": 57,
+   "en": "He seemed to be meeting one of our￥＠赤regulars＠白."
+  },
+  {
+   "off": 20448,
+   "budget": 7,
+   "en": "A reg?",
+   "long": "A regular?"
+  },
+  {
+   "off": 20455,
+   "budget": 63,
+   "en": "He forced down the whale and￥spat blood. It startled me...",
+   "long": "He forced himself to eat the whale￥meat and threw up blood. It gave me￥quite a shock."
+  },
+  {
+   "off": 20518,
+   "budget": 13,
+   "en": "Waiting?",
+   "long": "Meeting someone?"
+  },
+  {
+   "off": 20531,
+   "budget": 67,
+   "en": "Actually, it was more like he￥followed the man out."
+  },
+  {
+   "off": 20598,
+   "budget": 27,
+   "en": "I haven't seen him since."
+  },
+  {
+   "off": 20625,
+   "budget": 31,
+   "en": "Can I see the photo again?"
+  },
+  {
+   "off": 20656,
+   "budget": 33,
+   "en": "Who? No idea.￥Have a photo?",
+   "long": "Who? I don't know him. Do you have a￥photo?"
+  },
+  {
+   "off": 20689,
+   "budget": 7,
+   "en": "Photo?",
+   "long": "A photo?"
+  },
+  {
+   "off": 20696,
+   "budget": 41,
+   "en": "She's right. We need a photo of￥Jean."
+  },
+  {
+   "off": 20737,
+   "budget": 47,
+   "en": "There should be a photo of Jean at￥his house."
+  },
+  {
+   "off": 20784,
+   "budget": 23,
+   "en": "At Gibson's house..."
+  },
+  {
+   "off": 20807,
+   "budget": 15,
+   "en": "About that man"
+  },
+  {
+   "off": 20822,
+   "budget": 9,
+   "en": "His life",
+   "long": "His background"
+  },
+  {
+   "off": 20831,
+   "budget": 55,
+   "en": "He came at odd hours. No steady￥job. Freelance?",
+   "long": "He came in at odd hours. He probably￥didn't have a steady job, or worked￥for himself."
+  },
+  {
+   "off": 20886,
+   "budget": 69,
+   "en": "I didn't know him personally, so I￥can't tell you much."
+  },
+  {
+   "off": 20955,
+   "budget": 9,
+   "en": "Features",
+   "long": "His features"
+  },
+  {
+   "off": 20964,
+   "budget": 37,
+   "en": "Try to remember what he looked like."
+  },
+  {
+   "off": 21001,
+   "budget": 85,
+   "en": "＠黄Gillian, note the features.￥We'll build the montage from￥them later.",
+   "long": "＠黄Remember these details, Gillian.￥We'll use them to make a composite￥portrait later."
+  },
+  {
+   "off": 21086,
+   "budget": 49,
+   "en": "So Dracula's story was nonsense￥after all."
+  },
+  {
+   "off": 21135,
+   "budget": 9,
+   "en": "Face"
+  },
+  {
+   "off": 21144,
+   "budget": 21,
+   "en": "His face shape?",
+   "long": "What shape was his face?"
+  },
+  {
+   "off": 21165,
+   "budget": 21,
+   "en": "Bony, I'd say."
+  },
+  {
+   "off": 21186,
+   "budget": 9,
+   "en": "Eyes"
+  },
+  {
+   "off": 21195,
+   "budget": 15,
+   "en": "His eyes?",
+   "long": "What were his eyes like?"
+  },
+  {
+   "off": 21210,
+   "budget": 37,
+   "en": "He had a sharp, threatening look."
+  },
+  {
+   "off": 21247,
+   "budget": 9,
+   "en": "Nose"
+  },
+  {
+   "off": 21256,
+   "budget": 15,
+   "en": "And his nose?",
+   "long": "What was his nose like?"
+  },
+  {
+   "off": 21271,
+   "budget": 37,
+   "en": "Er, pointed, like an eagle's.",
+   "long": "It was pointed, like an eagle's￥beak."
+  },
+  {
+   "off": 21308,
+   "budget": 9,
+   "en": "Mouth"
+  },
+  {
+   "off": 21317,
+   "budget": 15,
+   "en": "His mouth?",
+   "long": "What was his mouth like?"
+  },
+  {
+   "off": 21332,
+   "budget": 25,
+   "en": "His lips were thin."
+  },
+  {
+   "off": 21357,
+   "budget": 11,
+   "en": "Hair"
+  },
+  {
+   "off": 21368,
+   "budget": 17,
+   "en": "His hair?",
+   "long": "How did he wear his hair?"
+  },
+  {
+   "off": 21385,
+   "budget": 37,
+   "en": "Smooth, sort of swept back."
+  },
+  {
+   "off": 21422,
+   "budget": 33,
+   "en": "And he had a widow's peak."
+  },
+  {
+   "off": 21455,
+   "budget": 9,
+   "en": "His age"
+  },
+  {
+   "off": 21464,
+   "budget": 17,
+   "en": "How old was he?"
+  },
+  {
+   "off": 21481,
+   "budget": 23,
+   "en": "Thirties, surely..."
+  },
+  {
+   "off": 21504,
+   "budget": 13,
+   "en": "Change",
+   "long": "Change subject"
+  },
+  {
+   "off": 21517,
+   "budget": 29,
+   "en": "Thank you. That helped.",
+   "long": "Thanks. You've been a big help."
+  },
+  {
+   "off": 21546,
+   "budget": 27,
+   "en": "Was that any help?"
+  },
+  {
+   "off": 21573,
+   "budget": 33,
+   "en": "Can you tell me about that man?"
+  },
+  {
+   "off": 21606,
+   "budget": 49,
+   "en": "The owner said you knew quite a bit￥about him."
+  },
+  {
+   "off": 21655,
+   "budget": 35,
+   "en": "I wouldn't say I knew that much."
+  },
+  {
+   "off": 21690,
+   "budget": 81,
+   "en": "Hm, no name, but he came often.￥Mostly outside cosplay time.",
+   "long": "I don't know his name, but he comes￥here often. Usually outside￥Masquerade Hour."
+  },
+  {
+   "off": 21771,
+   "budget": 45,
+   "en": "Not cosplay time, so you￥recall his face?",
+   "long": "Outside Masquerade Hour? Then do you￥remember his face?"
+  },
+  {
+   "off": 21816,
+   "budget": 15,
+   "en": "Maybe."
+  },
+  {
+   "off": 21831,
+   "budget": 81,
+   "en": "Right, Metal.￥Let's have her come to HQ.￥We'll build a montage on Gaudi.",
+   "long": "All right, Metal. Let's ask her to￥come to headquarters. We'll make a￥composite on Gaudi."
+  },
+  {
+   "off": 21912,
+   "budget": 41,
+   "en": "We can't take her to headquarters."
+  },
+  {
+   "off": 21953,
+   "budget": 21,
+   "en": "Why not?"
+  },
+  {
+   "off": 21974,
+   "budget": 71,
+   "en": "You heard the owner. She's a major￥movie star."
+  },
+  {
+   "off": 22045,
+   "budget": 65,
+   "en": "If the press found out, she'd never￥help us again."
+  },
+  {
+   "off": 22110,
+   "budget": 81,
+   "en": "She's famous. A media fuss could￥interfere with our investigation."
+  },
+  {
+   "off": 22191,
+   "budget": 55,
+   "en": "And if the Snatchers found out who￥we were..."
+  },
+  {
+   "off": 22246,
+   "budget": 23,
+   "en": "Muttering what?",
+   "long": "What are you two muttering about?"
+  },
+  {
+   "off": 22269,
+   "budget": 21,
+   "en": "A delicate one..."
+  },
+  {
+   "off": 22290,
+   "budget": 45,
+   "en": "A bother, but ask her￥the features...",
+   "long": "It's more work, but let's get her￥description."
+  },
+  {
+   "off": 22335,
+   "budget": 41,
+   "en": "and put the montage together￥ourselves.",
+   "long": "Then we'll make the composite￥ourselves."
+  },
+  {
+   "off": 22376,
+   "budget": 11,
+   "en": "Her work",
+   "long": "Upcoming work"
+  },
+  {
+   "off": 22387,
+   "budget": 91,
+   "en": "My hologram movie starts filming￥next month. I need to start￥preparing for the role."
+  },
+  {
+   "off": 22478,
+   "budget": 49,
+   "en": "There's a holo-sign advert job as￥well...",
+   "long": "I've got a holographic billboard￥ad to do, too."
+  },
+  {
+   "off": 22527,
+   "budget": 37,
+   "en": "And talk of a two-way TV drama...",
+   "long": "And there's talk of an interactive￥TV drama."
+  },
+  {
+   "off": 22564,
+   "budget": 21,
+   "en": "Busy indeed..."
+  },
+  {
+   "off": 22585,
+   "budget": 41,
+   "en": "...I can't come here￥for a while now.",
+   "long": "I won't be able to come here for a￥while."
+  },
+  {
+   "off": 22626,
+   "budget": 11,
+   "en": "In men",
+   "long": "Taste in men"
+  },
+  {
+   "off": 22637,
+   "budget": 23,
+   "en": "Your type of man?",
+   "long": "What kind of man do you like?"
+  },
+  {
+   "off": 22660,
+   "budget": 67,
+   "en": "Someone manly and dependable. The￥kind who takes charge."
+  },
+  {
+   "off": 22727,
+   "budget": 63,
+   "en": "One with clear opinions.￥I loathe indecisive men.",
+   "long": "Someone who knows his own mind. I￥can't stand indecisive men."
+  },
+  {
+   "off": 22790,
+   "budget": 41,
+   "en": "You'd better give up, Gillian."
+  },
+  {
+   "off": 22831,
+   "budget": 23,
+   "en": "Shh! Shut up!"
+  },
+  {
+   "off": 22854,
+   "budget": 15,
+   "en": "And work?",
+   "long": "What about his job?"
+  },
+  {
+   "off": 22869,
+   "budget": 47,
+   "en": "Detectives are so manly and cool."
+  },
+  {
+   "off": 22916,
+   "budget": 41,
+   "en": "I loved cop shows when I was little."
+  },
+  {
+   "off": 22957,
+   "budget": 45,
+   "en": "Though in love,￥none of it matters.",
+   "long": "But none of that matters once you￥fall in love."
+  },
+  {
+   "off": 23002,
+   "budget": 9,
+   "en": "Do",
+   "long": "Do something"
+  },
+  {
+   "off": 23011,
+   "budget": 13,
+   "en": "Autograph",
+   "long": "Get autograph"
+  },
+  {
+   "off": 23024,
+   "budget": 37,
+   "en": "Um, could I have your autograph?"
+  },
+  {
+   "off": 23061,
+   "budget": 73,
+   "en": "I don't have anything to write with.￥I know! How about this? Mwah!"
+  },
+  {
+   "off": 23134,
+   "budget": 17,
+   "en": "＠赤Whoa!!"
+  },
+  {
+   "off": 23151,
+   "budget": 41,
+   "en": "Hey! I'm telling Jamie."
+  },
+  {
+   "off": 23192,
+   "budget": 13,
+   "en": "Ask her out"
+  },
+  {
+   "off": 23205,
+   "budget": 43,
+   "en": "Isabella, look at my eyes...￥open up.",
+   "long": "Look into my eyes, Isabella. Open￥your heart to me."
+  },
+  {
+   "off": 23248,
+   "budget": 33,
+   "en": "Pff... what a corny line.",
+   "long": "Pfft! What kind of corny line is￥that?"
+  },
+  {
+   "off": 23281,
+   "budget": 43,
+   "en": "Oh, Isabella. My feelings for you..."
+  },
+  {
+   "off": 23324,
+   "budget": 41,
+   "en": "I'd rather not hear such￥corny lines.",
+   "long": "I don't want to hear lines that￥corny in real life."
+  },
+  {
+   "off": 23365,
+   "budget": 47,
+   "en": "I prefer younger men."
+  },
+  {
+   "off": 23412,
+   "budget": 75,
+   "en": "Keep this quiet, but I'm a JUNKER.￥How about a date?"
+  },
+  {
+   "off": 23487,
+   "budget": 25,
+   "en": "I don't like JUNKERs."
+  },
+  {
+   "off": 23512,
+   "budget": 29,
+   "en": "Always doubting people?",
+   "long": "You're always suspicious of￥everyone."
+  },
+  {
+   "off": 23541,
+   "budget": 45,
+   "en": "A man who can't trust folk?￥No, thanks.",
+   "long": "I don't want a man whose job means￥he can't trust people."
+  },
+  {
+   "off": 23586,
+   "budget": 41,
+   "en": "If that's true...￥I'll say no more.",
+   "long": "If that's true, I've got nothing￥more to say."
+  },
+  {
+   "off": 23627,
+   "budget": 43,
+   "en": "Nor do I fancy questioning￥on a date.",
+   "long": "I don't want to be interrogated on a￥date, either."
+  },
+  {
+   "off": 23670,
+   "budget": 27,
+   "en": "Isabella! Come with me!"
+  },
+  {
+   "off": 23697,
+   "budget": 35,
+   "en": "Heh... simple!￥Just an example.",
+   "long": "Heh. You're so predictable! That was￥just an example."
+  },
+  {
+   "off": 23732,
+   "budget": 67,
+   "en": "Where would you take me?￥If it isn't thrilling, I go home.",
+   "long": "Where are you taking me? It had￥better be exciting, or I'm going￥home."
+  },
+  {
+   "off": 23799,
+   "budget": 31,
+   "en": "Thrilling?￥Where is that?",
+   "long": "Somewhere exciting? Where would that￥be?"
+  },
+  {
+   "off": 23830,
+   "budget": 21,
+   "en": "That won't do.",
+   "long": "That's not going to work."
+  },
+  {
+   "off": 23851,
+   "budget": 35,
+   "en": "Um, what time do you finish today?"
+  },
+  {
+   "off": 23886,
+   "budget": 59,
+   "en": "Is that an invitation?￥It hasn't enough punch.",
+   "long": "Is that your way of asking me out?￥You'll have to try harder."
+  },
+  {
+   "off": 23945,
+   "budget": 23,
+   "en": "If you'd like..."
+  },
+  {
+   "off": 23968,
+   "budget": 37,
+   "en": "The usual ask... won't do it.",
+   "long": "The usual lines won't get a yes from￥me."
+  },
+  {
+   "off": 24005,
+   "budget": 37,
+   "en": "A kiss wasn't enough for you?"
+  },
+  {
+   "off": 24042,
+   "budget": 41,
+   "en": "Rejected again. First Jamie, now￥her."
+  },
+  {
+   "off": 24083,
+   "budget": 33,
+   "en": "Maybe I'm asking the wrong way."
+  },
+  {
+   "off": 24116,
+   "budget": 45,
+   "en": "No, Gillian. The problem is you."
+  },
+  {
+   "off": 24161,
+   "budget": 49,
+   "en": "Well... they say handsome men￥get passed over.",
+   "long": "Well, they say women can be put off￥by good looks."
+  },
+  {
+   "off": 24210,
+   "budget": 15,
+   "en": "Oh dear..."
+  },
+  {
+   "off": 24225,
+   "budget": 13,
+   "en": "What?!!"
+  },
+  {
+   "off": 24238,
+   "budget": 5,
+   "en": "Drop",
+   "long": "Candy"
+  },
+  {
+   "off": 24243,
+   "budget": 45,
+   "en": "Candy?￥That won't catch my interest.",
+   "long": "Candy? You won't get my attention￥with that."
+  },
+  {
+   "off": 24288,
+   "budget": 7,
+   "en": "Proof",
+   "long": "Evidence"
+  },
+  {
+   "off": 24295,
+   "budget": 7,
+   "en": "Paper",
+   "long": "Scrap of paper"
+  },
+  {
+   "off": 24302,
+   "budget": 5,
+   "en": "Key"
+  },
+  {
+   "off": 24307,
+   "budget": 3,
+   "en": "Pc",
+   "long": "Chess piece"
+  },
+  {
+   "off": 24310,
+   "budget": 9,
+   "en": "Disk"
+  },
+  {
+   "off": 24319,
+   "budget": 11,
+   "en": "Sunblock"
+  },
+  {
+   "off": 24330,
+   "budget": 65,
+   "en": "My skin cells are UV-coated￥directly, so... I don't use it.",
+   "long": "I have UV protection applied￥directly to my skin cells, so I￥don't use it."
+  },
+  {
+   "off": 24395,
+   "budget": 31,
+   "en": "Nasty, no?￥The summer UV...",
+   "long": "Summer UV rays are awful, aren't￥they?"
+  },
+  {
+   "off": 24426,
+   "budget": 5,
+   "en": "Pic.",
+   "long": "Photo"
+  },
+  {
+   "off": 24431,
+   "budget": 15,
+   "en": "Gibson's photo"
+  },
+  {
+   "off": 24446,
+   "budget": 63,
+   "en": "This man ate the whale and took￥ill. I recall him well.",
+   "long": "He's the man who got sick after￥eating whale meat. I remember him￥well."
+  },
+  {
+   "off": 24509,
+   "budget": 65,
+   "en": "This man? He looks familiar, but I￥can't remember."
+  },
+  {
+   "off": 24574,
+   "budget": 77,
+   "en": "You're looking for this man? He￥looks familiar, but I can't￥remember."
+  },
+  {
+   "off": 24651,
+   "budget": 27,
+   "en": "She may yet recall.",
+   "long": "I think she's about to remember."
+  },
+  {
+   "off": 24678,
+   "budget": 21,
+   "en": "Take a closer look?",
+   "long": "Could you take a closer look?"
+  },
+  {
+   "off": 24699,
+   "budget": 19,
+   "en": "Ah, this man..."
+  },
+  {
+   "off": 24718,
+   "budget": 71,
+   "en": "...That's right. He ate whale￥and took ill. I recall him well.",
+   "long": "That's right! He's the man who got￥sick after eating whale meat. I￥remember him well."
+  },
+  {
+   "off": 24789,
+   "budget": 17,
+   "en": "Montage photo"
+  },
+  {
+   "off": 24806,
+   "budget": 31,
+   "en": "...Rather like this, I think.",
+   "long": "I think he looked something like￥this."
+  },
+  {
+   "off": 24837,
+   "budget": 35,
+   "en": "Yes, that's him. I'm pretty sure."
+  },
+  {
+   "off": 24872,
+   "budget": 33,
+   "en": "This is why I hate officials.",
+   "long": "This is why I hate civil servants."
+  },
+  {
+   "off": 24905,
+   "budget": 43,
+   "en": "No need to examine that, is there,￥Metal?"
+  },
+  {
+   "off": 24948,
+   "budget": 33,
+   "en": "Oh, really? Yes, you're right."
+  },
+  {
+   "off": 24981,
+   "budget": 29,
+   "en": "(That's not like him.)"
+  },
+  {
+   "off": 25010,
+   "budget": 55,
+   "en": "Don't be so vulgar, Metal. Grow up."
+  },
+  {
+   "off": 25065,
+   "budget": 17,
+   "en": "W-why me?",
+   "long": "Why are you blaming me?"
+  },
+  {
+   "off": 25082,
+   "budget": 35,
+   "en": "Gillian... you do like it, no?",
+   "long": "You really do like this, don't you,￥Gillian?"
+  },
+  {
+   "off": 25117,
+   "budget": 27,
+   "en": "What?￥You yourself...",
+   "long": "What are you talking about? You're￥the one who..."
+  },
+  {
+   "off": 25144,
+   "budget": 37,
+   "en": "No more scoldings from the Chief.",
+   "long": "We'd better keep the Chief from￥getting angry again."
+  },
+  {
+   "off": 25181,
+   "budget": 15,
+   "en": "...A threat?",
+   "long": "Is that a threat?"
+  },
+  {
+   "off": 25196,
+   "budget": 15,
+   "en": "United front.",
+   "long": "We're in this together."
+  },
+  {
+   "off": 25211,
+   "budget": 21,
+   "en": "...A fearsome one.",
+   "long": "You're a scary little thing."
+  },
+  {
+   "off": 25232,
+   "budget": 41,
+   "en": "Enough, no?￥...That was special.",
+   "long": "Haven't you had enough? That was a￥special favor."
+  },
+  {
+   "off": 25273,
+   "budget": 19,
+   "en": "B-but why?"
+  },
+  {
+   "off": 25292,
+   "budget": 57,
+   "en": "Men are always like that. Always￥wanting more."
+  },
+  {
+   "off": 25349,
+   "budget": 45,
+   "en": "No second time, see?￥No second time.",
+   "long": "It won't happen twice. Understand?￥It won't happen twice."
+  },
+  {
+   "off": 25394,
+   "budget": 33,
+   "en": "Relax, or you'll get stiff.",
+   "long": "Keep tensing up like that and your￥shoulders will ache."
+  },
+  {
+   "off": 25427,
+   "budget": 23,
+   "en": "Sorry, I don't know."
+  },
+  {
+   "off": 25450,
+   "budget": 25,
+   "en": "What? I don't know."
+  },
+  {
+   "off": 25475,
+   "budget": 85,
+   "en": "Whew. (First I can't look at her,￥then I can't look away. What a￥fickle woman.)"
+  },
+  {
+   "off": 25560,
+   "budget": 29,
+   "en": "Thanks. Sorry to bother you."
+  },
+  {
+   "off": 25589,
+   "budget": 47,
+   "en": "No good.￥Nothing solid to be had here.",
+   "long": "No luck. I don't think we'll learn￥anything useful."
+  },
+  {
+   "off": 25636,
+   "budget": 21,
+   "en": "What? This guy?"
+  },
+  {
+   "off": 25657,
+   "budget": 15,
+   "en": "Scary face.",
+   "long": "Whoa, what a scary face."
+  },
+  {
+   "off": 25672,
+   "budget": 17,
+   "en": "What of it?",
+   "long": "What's this about?"
+  },
+  {
+   "off": 25689,
+   "budget": 19,
+   "en": "What do you mean?"
+  },
+  {
+   "off": 25708,
+   "budget": 15,
+   "en": "Who is this?",
+   "long": "Who are you talking about?"
+  },
+  {
+   "off": 25723,
+   "budget": 13,
+   "en": "No idea.",
+   "long": "I don't know him."
+  },
+  {
+   "off": 25736,
+   "budget": 11,
+   "en": "Hm?"
+  },
+  {
+   "off": 25747,
+   "budget": 47,
+   "en": "I know him! I've talked to him￥before."
+  },
+  {
+   "off": 25794,
+   "budget": 57,
+   "en": "An odd one.￥He'd dig into your business￥endlessly.",
+   "long": "Strange guy. Always digging into￥other people's business."
+  },
+  {
+   "off": 25851,
+   "budget": 33,
+   "en": "I haven't seen him much lately."
+  },
+  {
+   "off": 25884,
+   "budget": 13,
+   "en": "His features"
+  },
+  {
+   "off": 25897,
+   "budget": 39,
+   "en": "Features?￥I don't recall.￥Sorry.",
+   "long": "What did he look like? Sorry, I￥don't remember."
+  },
+  {
+   "off": 25936,
+   "budget": 21,
+   "en": "No memory at all.",
+   "long": "I don't remember at all."
+  },
+  {
+   "off": 25957,
+   "budget": 51,
+   "en": "Let's ask about the man Isabella￥mentioned."
+  },
+  {
+   "off": 26008,
+   "budget": 43,
+   "en": "Ask about the man Isabella￥described?",
+   "long": "Let's ask about the man Isabella￥described."
+  },
+  {
+   "off": 26051,
+   "budget": 17,
+   "en": "Who is this?"
+  },
+  {
+   "off": 26068,
+   "budget": 15,
+   "en": "Who's this?"
+  },
+  {
+   "off": 26083,
+   "budget": 15,
+   "en": "What's this?"
+  },
+  {
+   "off": 26098,
+   "budget": 15,
+   "en": "What's that?"
+  },
+  {
+   "off": 26113,
+   "budget": 27,
+   "en": "I'll tell you something.",
+   "long": "Want to hear something interesting?"
+  },
+  {
+   "off": 26140,
+   "budget": 83,
+   "en": "He brawled here, took an iron￥pipe to the head,￥and never flinched.",
+   "long": "He got into a fight with a customer￥here. Took an iron pipe to the head￥and didn't even flinch."
+  },
+  {
+   "off": 26223,
+   "budget": 59,
+   "en": "He's not human. Then again, neither￥am I."
+  },
+  {
+   "off": 26282,
+   "budget": 23,
+   "en": "You take care too.",
+   "long": "You'd better be careful, too."
+  },
+  {
+   "off": 26305,
+   "budget": 19,
+   "en": "Big and round.",
+   "long": "His face? A big circle."
+  },
+  {
+   "off": 26324,
+   "budget": 11,
+   "en": "Two eyes."
+  },
+  {
+   "off": 26335,
+   "budget": 15,
+   "en": "Two nostrils."
+  },
+  {
+   "off": 26350,
+   "budget": 11,
+   "en": "Square.",
+   "long": "A square mouth."
+  },
+  {
+   "off": 26361,
+   "budget": 15,
+   "en": "His hair.",
+   "long": "What about his hair?"
+  },
+  {
+   "off": 26376,
+   "budget": 15,
+   "en": "Bald."
+  },
+  {
+   "off": 26391,
+   "budget": 13,
+   "en": "Pardon me.",
+   "long": "Old enough to know better!"
+  },
+  {
+   "off": 26404,
+   "budget": 35,
+   "en": "Thanks. You've been a big help."
+  },
+  {
+   "off": 26439,
+   "budget": 27,
+   "en": "I've seen this guy before."
+  },
+  {
+   "off": 26466,
+   "budget": 41,
+   "en": "Quite at odds with Isabella.",
+   "long": "That completely contradicts￥Isabella's description."
+  },
+  {
+   "off": 26507,
+   "budget": 39,
+   "en": "It's obviously nonsense. Ignore him."
+  },
+  {
+   "off": 26546,
+   "budget": 31,
+   "en": "Is this man's account true?",
+   "long": "Do you think he's telling the truth?"
+  },
+  {
+   "off": 26577,
+   "budget": 53,
+   "en": "Sounds fishy. He must be messing￥with us."
+  },
+  {
+   "off": 26630,
+   "budget": 23,
+   "en": "Well, I don't know."
+  },
+  {
+   "off": 26653,
+   "budget": 15,
+   "en": "Hmm..."
+  },
+  {
+   "off": 26668,
+   "budget": 13,
+   "en": "Beats me.",
+   "long": "I don't know."
+  },
+  {
+   "off": 26681,
+   "budget": 17,
+   "en": "Don't know..."
+  },
+  {
+   "off": 26698,
+   "budget": 21,
+   "en": "Leave me alone..."
+  },
+  {
+   "off": 26719,
+   "budget": 23,
+   "en": "Ah, a film actor?",
+   "long": "Oh, is he a movie actor?"
+  },
+  {
+   "off": 26742,
+   "budget": 25,
+   "en": "Scary face. Who is he?"
+  },
+  {
+   "off": 26767,
+   "budget": 15,
+   "en": "No idea, me.",
+   "long": "I don't know him."
+  },
+  {
+   "off": 26782,
+   "budget": 19,
+   "en": "Never seen him.",
+   "long": "I've never seen him."
+  },
+  {
+   "off": 26801,
+   "budget": 43,
+   "en": "Sorry to bother you. Never mind."
+  },
+  {
+   "off": 26844,
+   "budget": 19,
+   "en": "Oh, all right."
+  },
+  {
+   "off": 26863,
+   "budget": 43,
+   "en": "That's all, thanks."
+  },
+  {
+   "off": 26906,
+   "budget": 33,
+   "en": "All right. Enjoy yourselves!"
+  },
+  {
+   "off": 26939,
+   "budget": 49,
+   "en": "Thanks. That helped a little."
+  },
+  {
+   "off": 26988,
+   "budget": 27,
+   "en": "Enjoy yourselves!"
+  },
+  {
+   "off": 27015,
+   "budget": 29,
+   "en": "You're even uglier up close!"
+  },
+  {
+   "off": 27044,
+   "budget": 51,
+   "en": "It's called a Golem. You haven't￥heard of it?"
+  },
+  {
+   "off": 27095,
+   "budget": 9,
+   "en": "I know"
+  },
+  {
+   "off": 27104,
+   "budget": 51,
+   "en": "Of course!￥A familiar face in Konami games.",
+   "long": "Of course I have! They're in Konami￥games all the time."
+  },
+  {
+   "off": 27155,
+   "budget": 87,
+   "en": "You really know your Konami games!￥I'm glad to hear it. Today's on the￥house."
+  },
+  {
+   "off": 27242,
+   "budget": 9,
+   "en": "Don't",
+   "long": "I don't know"
+  },
+  {
+   "off": 27251,
+   "budget": 77,
+   "en": "You don't know it? You should play￥more Konami games."
+  },
+  {
+   "off": 27328,
+   "budget": 43,
+   "en": "...Hmm.￥Those eyes, those hands. Vile.",
+   "long": "Ugh. Those eyes, those hands. It's￥creepy."
+  },
+  {
+   "off": 27371,
+   "budget": 27,
+   "en": "Artistic, don't you think?",
+   "long": "Don't you think it's artistic?"
+  },
+  {
+   "off": 27398,
+   "budget": 41,
+   "en": "It's well made, but creepy."
+  },
+  {
+   "off": 27439,
+   "budget": 29,
+   "en": "Let me take a closer look."
+  },
+  {
+   "off": 27468,
+   "budget": 47,
+   "en": "Oh! Sir, are you into that sort of￥thing?"
+  },
+  {
+   "off": 27515,
+   "budget": 41,
+   "en": "That's creepy. Please stop."
+  },
+  {
+   "off": 27556,
+   "budget": 37,
+   "en": "Your mask is what's creepy."
+  },
+  {
+   "off": 27593,
+   "budget": 27,
+   "en": "Surprisingly well built.",
+   "long": "He's surprisingly well built."
+  },
+  {
+   "off": 27620,
+   "budget": 29,
+   "en": "Nothing unusual."
+  },
+  {
+   "off": 27649,
+   "budget": 45,
+   "en": "Oh, him? The man who got sick."
+  },
+  {
+   "off": 27694,
+   "budget": 57,
+   "en": "Rather old-fashioned. It seemed￥his first visit.",
+   "long": "He seemed rather old-fashioned. I￥think it was his first visit."
+  },
+  {
+   "off": 27751,
+   "budget": 49,
+   "en": "Sadly, no details.￥My memory is poor.",
+   "long": "Sorry, I don't remember the details.￥My memory isn't very good."
+  },
+  {
+   "off": 27800,
+   "budget": 95,
+   "en": "I still can't say... in this￥trade one cannot remember every￥face one meets...",
+   "long": "I'm afraid I still don't know. I￥deal with customers all day. I can't￥remember everyone I meet."
+  },
+  {
+   "off": 27895,
+   "budget": 37,
+   "en": "I'm not sure."
+  },
+  {
+   "off": 27932,
+   "budget": 53,
+   "en": "Isabella might know."
+  },
+  {
+   "off": 27985,
+   "budget": 61,
+   "en": "Who is it?￥I couldn't say...￥Have you a photo?",
+   "long": "Who? I'm not sure who you mean. Do￥you have a photo or something?"
+  },
+  {
+   "off": 28046,
+   "budget": 13,
+   "en": "Isabella"
+  },
+  {
+   "off": 28059,
+   "budget": 69,
+   "en": "She dances here all this month.￥There, she's dancing now.",
+   "long": "She's dancing here through the end￥of the month. Look, she's on right￥now."
+  },
+  {
+   "off": 28128,
+   "budget": 67,
+   "en": "Her holo-movie work is off just￥now, so we have her in.",
+   "long": "She's on a break from her hologram￥movies, so we asked her to come."
+  },
+  {
+   "off": 28195,
+   "budget": 73,
+   "en": "A great star now, yet she still￥shows her face here for us.",
+   "long": "She's a huge star now, but this is￥the only club she still makes time￥for."
+  },
+  {
+   "off": 28268,
+   "budget": 135,
+   "en": "She's great, isn't she? She used to￥dance here before she was famous.￥That's why she still comes back now￥and then."
+  },
+  {
+   "off": 28403,
+   "budget": 59,
+   "en": "I knew her when she was young.￥Hasn't changed. Fine girl.",
+   "long": "I knew her when she was young. She's￥still the same sweet girl."
+  },
+  {
+   "off": 28462,
+   "budget": 71,
+   "en": "Yes. I just talked to her myself.￥Now that's what I call lucky."
+  },
+  {
+   "off": 28533,
+   "budget": 43,
+   "en": "I hear you've been pestering￥Isabella."
+  },
+  {
+   "off": 28576,
+   "budget": 7,
+   "en": "Huh?"
+  },
+  {
+   "off": 28583,
+   "budget": 47,
+   "en": "That won't do.￥This is no cabaret.",
+   "long": "We can't have that. This isn't a￥hostess club."
+  },
+  {
+   "off": 28630,
+   "budget": 25,
+   "en": "Heh heh heh."
+  },
+  {
+   "off": 28655,
+   "budget": 15,
+   "en": "On whale",
+   "long": "About whale food"
+  },
+  {
+   "off": 28670,
+   "budget": 71,
+   "en": "Thank you. The whale meat's pretty￥good, isn't it?"
+  },
+  {
+   "off": 28741,
+   "budget": 65,
+   "en": "Keep it quiet, though. They're very￥strict about whale meat."
+  },
+  {
+   "off": 28806,
+   "budget": 47,
+   "en": "You certainly ate a lot."
+  },
+  {
+   "off": 28853,
+   "budget": 37,
+   "en": "You did. A little too much."
+  },
+  {
+   "off": 28890,
+   "budget": 45,
+   "en": "Shall I bring some?￥Quite the delicacy.",
+   "long": "Shall I bring you some? It's quite a￥delicacy."
+  },
+  {
+   "off": 28935,
+   "budget": 99,
+   "en": "Oh, that man? He started coming here￥regularly about three months ago."
+  },
+  {
+   "off": 29034,
+   "budget": 137,
+   "en": "He ate nothing, drank only￥Moonsalts, and stared at the other￥guests.￥Notable people come here, you know.",
+   "long": "He never ate anything. Just drank￥Moonsalt and stared at the other￥customers. We get quite a few famous￥people here, believe it or not."
+  },
+  {
+   "off": 29171,
+   "budget": 67,
+   "en": "Politicians, doctors, business￥men... so that sort troubles us.",
+   "long": "Politicians, doctors,￥businesspeople. So that kind of￥behavior is a problem."
+  },
+  {
+   "off": 29238,
+   "budget": 59,
+   "en": "And so cosplay time caught on￥with such guests.",
+   "long": "So that's why Masquerade Hour caught￥on with those customers."
+  },
+  {
+   "off": 29297,
+   "budget": 89,
+   "en": "Exactly. But that man only ever came￥outside Masquerade Hour."
+  },
+  {
+   "off": 29386,
+   "budget": 65,
+   "en": "＠黄In the end odd rumours rose￥that he was a Snatcher.",
+   "long": "＠黄Eventually, people even started￥saying he might be a Snatcher."
+  },
+  {
+   "off": 29451,
+   "budget": 51,
+   "en": "Not seen of late...￥What became of him?",
+   "long": "I haven't seen him lately. I wonder￥what happened to him."
+  },
+  {
+   "off": 29502,
+   "budget": 51,
+   "en": "I think Isabella knows more about￥him than I do."
+  },
+  {
+   "off": 29553,
+   "budget": 37,
+   "en": "I'm always wearing this."
+  },
+  {
+   "off": 29590,
+   "budget": 35,
+   "en": "I saw that man's face poorly.",
+   "long": "So I didn't get a good look at his￥face."
+  },
+  {
+   "off": 29625,
+   "budget": 29,
+   "en": "(Where does he see from?)",
+   "long": "(How does he see out of that?)"
+  },
+  {
+   "off": 29654,
+   "budget": 11,
+   "en": "What?!"
+  },
+  {
+   "off": 29665,
+   "budget": 39,
+   "en": "Yes, that's what he looked like."
+  },
+  {
+   "off": 29704,
+   "budget": 33,
+   "en": "Yes! That's him!"
+  },
+  {
+   "off": 29737,
+   "budget": 31,
+   "en": "Who?￥No memory of him.",
+   "long": "Who is he? I don't remember him."
+  },
+  {
+   "off": 29768,
+   "budget": 95,
+   "en": "It's Masquerade Hour half the week￥here. Even if he came in, I wouldn't￥know."
+  },
+  {
+   "off": 29863,
+   "budget": 73,
+   "en": "Isabella might know. She spends the￥most time with the customers."
+  },
+  {
+   "off": 29936,
+   "budget": 31,
+   "en": "Who is it?￥Some criminal?",
+   "long": "Who is he? Some kind of criminal?"
+  },
+  {
+   "off": 29967,
+   "budget": 21,
+   "en": "What is that?"
+  },
+  {
+   "off": 29988,
+   "budget": 35,
+   "en": "Sorry I can't help."
+  },
+  {
+   "off": 30023,
+   "budget": 67,
+   "en": "Inside this club runs a signal￥that blocks satellite searches.",
+   "long": "There are radio signals inside this￥club that interfere with satellite￥searches."
+  },
+  {
+   "off": 30090,
+   "budget": 17,
+   "en": "Careful place.",
+   "long": "They sure take precautions."
+  },
+  {
+   "off": 30107,
+   "budget": 59,
+   "en": "These days guests shun a club￥without scan blocking.",
+   "long": "People won't visit a club without￥protection against scans these days."
+  },
+  {
+   "off": 30166,
+   "budget": 27,
+   "en": "Backlash to data control?",
+   "long": "A backlash against a society that￥monitors everything?"
+  },
+  {
+   "off": 30193,
+   "budget": 41,
+   "en": "We can't use the videophone here."
+  },
+  {
+   "off": 30234,
+   "budget": 41,
+   "en": "No videophone signal from inside.",
+   "long": "We can't make videophone calls from￥inside the club."
+  },
+  {
+   "off": 30275,
+   "budget": 45,
+   "en": "We'll get thrown out again. Let's￥not."
+  },
+  {
+   "off": 30320,
+   "budget": 41,
+   "en": "You never learn.￥We'll be thrown out.",
+   "long": "You never learn, do you? You'll get￥thrown out."
+  },
+  {
+   "off": 30361,
+   "budget": 69,
+   "en": "This ID card confirms all your￥powers as a JUNKER. Keep it safe."
+  },
+  {
+   "off": 30430,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 30437,
+   "budget": 35,
+   "en": "Money issued by JUNKER."
+  },
+  {
+   "off": 30472,
+   "budget": 35,
+   "en": "Candy from Jean's pocket."
+  },
+  {
+   "off": 30507,
+   "budget": 79,
+   "en": "Gibson's memo telling where the data￥on Snatcher weaknesses is kept.",
+   "long": "Gibson's note tells us where to find￥computer data on the Snatchers'￥weakness."
+  },
+  {
+   "off": 30586,
+   "budget": 45,
+   "en": "What does 'Search the house!' mean?"
+  },
+  {
+   "off": 30631,
+   "budget": 33,
+   "en": "The key to Gibson's desk drawer."
+  },
+  {
+   "off": 30664,
+   "budget": 33,
+   "en": "Quite an antique."
+  },
+  {
+   "off": 30697,
+   "budget": 37,
+   "en": "The chess piece Gibson was carrying."
+  },
+  {
+   "off": 30734,
+   "budget": 45,
+   "en": "The chess piece we found in Gibson's￥coat."
+  },
+  {
+   "off": 30779,
+   "budget": 45,
+   "en": "A disk recording Snatcher￥weaknesses.",
+   "long": "A disk containing information on the￥Snatchers' weakness."
+  },
+  {
+   "off": 30824,
+   "budget": 37,
+   "en": "A computer floppy disk."
+  },
+  {
+   "off": 30861,
+   "budget": 81,
+   "en": "Sunscreen used by Snatchers, if￥Gibson was right."
+  },
+  {
+   "off": 30942,
+   "budget": 41,
+   "en": "And Joy Division confirmed it."
+  },
+  {
+   "off": 30983,
+   "budget": 71,
+   "en": "Merely a sunblock.￥The label bears the shop's logo.",
+   "long": "Ordinary sunscreen. The label has￥the logo of the store that sold it."
+  },
+  {
+   "off": 31054,
+   "budget": 7,
+   "en": "Mask"
+  },
+  {
+   "off": 31061,
+   "budget": 47,
+   "en": "A costume mask from Joy Division."
+  },
+  {
+   "off": 31108,
+   "budget": 21,
+   "en": "A Moai mask."
+  },
+  {
+   "off": 31129,
+   "budget": 25,
+   "en": "A Koitsu mask."
+  },
+  {
+   "off": 31154,
+   "budget": 41,
+   "en": "A photo of Jean Jack Gibson."
+  },
+  {
+   "off": 31195,
+   "budget": 47,
+   "en": "A montage built from witness￥testimony.",
+   "long": "A composite portrait based on￥witness descriptions."
+  },
+  {
+   "off": 31242,
+   "budget": 67,
+   "en": "Its built-in chip stores all your￥personal data, Gillian."
+  },
+  {
+   "off": 31309,
+   "budget": 49,
+   "en": "Any needed case expense may￥be claimed.",
+   "long": "In principle, you can claim any￥amount for necessary investigation￥expenses."
+  },
+  {
+   "off": 31358,
+   "budget": 45,
+   "en": "The candy Jean gave out￥to the orphans.",
+   "long": "Candy Jean gave to children at the￥orphanage."
+  },
+  {
+   "off": 31403,
+   "budget": 25,
+   "en": "The note Jean left."
+  },
+  {
+   "off": 31428,
+   "budget": 55,
+   "en": "Plain paper. It's certainly￥Jean's handwriting.",
+   "long": "It's written on ordinary paper.￥Definitely Jean's handwriting."
+  },
+  {
+   "off": 31483,
+   "budget": 35,
+   "en": "Key to Gibson's squad-room desk.",
+   "long": "The key to Gibson's desk in the￥Squad room."
+  },
+  {
+   "off": 31518,
+   "budget": 85,
+   "en": "What's it a key to? Does anyone￥still use keys like this?"
+  },
+  {
+   "off": 31603,
+   "budget": 57,
+   "en": "A wooden chess piece. The queen."
+  },
+  {
+   "off": 31660,
+   "budget": 37,
+   "en": "A carved wooden chess piece."
+  },
+  {
+   "off": 31697,
+   "budget": 45,
+   "en": "A disk left with Gibson's case￥data.",
+   "long": "A disk containing Gibson's￥investigation data."
+  },
+  {
+   "off": 31742,
+   "budget": 37,
+   "en": "A five-inch floppy disk."
+  },
+  {
+   "off": 31779,
+   "budget": 67,
+   "en": "The bottle says, 'Joy Division: The￥store that has everything.'"
+  },
+  {
+   "off": 31846,
+   "budget": 49,
+   "en": "It was definitely sold at Joy￥Division."
+  },
+  {
+   "off": 31895,
+   "budget": 53,
+   "en": "Trace the seller and a lead￥may turn up.",
+   "long": "Finding out where it was bought￥might give us a lead."
+  },
+  {
+   "off": 31948,
+   "budget": 63,
+   "en": "A fine special make-up mask by￥the fashionable Rick Bakery.",
+   "long": "An elaborate special effects mask by￥Rick Bakery. His work is very￥popular now."
+  },
+  {
+   "off": 32011,
+   "budget": 41,
+   "en": "A 2D computer composite made by￥Gaudi."
+  },
+  {
+   "off": 32052,
+   "budget": 73,
+   "en": "Gibson took it from his chessboard￥at home. What could it mean?"
+  },
+  {
+   "off": 32125,
+   "budget": 37,
+   "en": "Jean loved riddles."
+  },
+  {
+   "off": 32162,
+   "budget": 31,
+   "en": "Could it be a hint?"
+  },
+  {
+   "off": 32193,
+   "budget": 35,
+   "en": "Still... he looks a lot like Ivan.",
+   "long": "He really does look like Ivan,￥though."
+  },
+  {
+   "off": 32228,
+   "budget": 53,
+   "en": "We can't blame Alphaville's￥matching for this.",
+   "long": "We can't blame Alphaville's matching￥system for getting it wrong."
+  },
+  {
+   "off": 32281,
+   "budget": 47,
+   "en": "House? Come to think...￥I've no home either.",
+   "long": "Home. Come to think of it, I don't￥have a home to go back to."
+  },
+  {
+   "off": 32328,
+   "budget": 67,
+   "en": "Cheer up. You'll be living with￥Jamie again someday."
+  },
+  {
+   "off": 32395,
+   "budget": 53,
+   "en": "A home and family. Maybe that's not￥for a JUNKER."
+  },
+  {
+   "off": 32448,
+   "budget": 29,
+   "en": "Some is still left, no?",
+   "long": "There's still some money left,￥right?"
+  },
+  {
+   "off": 32477,
+   "budget": 49,
+   "en": "A lot less after all your eating and￥drinking."
+  },
+  {
+   "off": 32526,
+   "budget": 39,
+   "en": "Did I eat that much? Wasn't it you?"
+  },
+  {
+   "off": 32565,
+   "budget": 33,
+   "en": "Hmph! I can't eat anything."
+  },
+  {
+   "off": 32598,
+   "budget": 43,
+   "en": "Learn to take the blame￥sometimes.",
+   "long": "Learn to take the blame for your￥partner once in a while."
+  },
+  {
+   "off": 32641,
+   "budget": 45,
+   "en": "My job is to report my partner's￥offenses."
+  },
+  {
+   "off": 32686,
+   "budget": 61,
+   "en": "Y-you...￥don't say you send this￥talk to the Chief too?",
+   "long": "Wait. You're not sending this￥conversation to the Chief, are you?"
+  },
+  {
+   "off": 32747,
+   "budget": 21,
+   "en": "Who knows?"
+  },
+  {
+   "off": 32768,
+   "budget": 23,
+   "en": "＠赤(You little...!)"
+  },
+  {
+   "off": 32791,
+   "budget": 37,
+   "en": "Don't make the same mistake again."
+  },
+  {
+   "off": 32828,
+   "budget": 29,
+   "en": "Always harping on it....",
+   "long": "You're never going to let me forget￥that, are you?"
+  },
+  {
+   "off": 32857,
+   "budget": 49,
+   "en": "Gillian, you must never show that￥here."
+  },
+  {
+   "off": 32906,
+   "budget": 35,
+   "en": "I know. We're undercover."
+  },
+  {
+   "off": 32941,
+   "budget": 55,
+   "en": "Under no circumstances. Don't do￥anything rash."
+  },
+  {
+   "off": 32996,
+   "budget": 13,
+   "en": "Videophone"
+  },
+  {
+   "off": 33009,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 33020,
+   "budget": 37,
+   "en": "I'll save our progress."
+  },
+  {
+   "off": 33057,
+   "budget": 31,
+   "en": "You're wearing it right now."
+  },
+  {
+   "off": 33088,
+   "budget": 25,
+   "en": "Oh, right."
+  },
+  {
+   "off": 33115,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

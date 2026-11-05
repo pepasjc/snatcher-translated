@@ -1,0 +1,230 @@
+{
+ "scene": "B220",
+ "note": "cov: from cov_B220_duct (the dark duct after the escape, = B220_auto of the basement regression): the whole-game route's B220 stretch (actions 570-598: light, sweeps, the maze path, the insectors, Freddy's bathroom and flat, the black taxi), 'Take a taxi' added to the taxi path. The button room is swept twice before Press button (it is offered only then, as in work/issues/i95/routes/maze2.json); bookmarks cov_B220_button_room, cov_B220_blasted, cov_B220_bathroom. The dead end is swept (Investigate x2) before Hit wall (offered only then; maze3.json).",
+ "fight": "cell5",
+ "actions": [
+  {
+   "path": [
+    "Use Metal Gear",
+    "Turn on light"
+   ],
+   "patience": 900
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Forward"
+   ],
+   "patience": 900
+  },
+  {
+   "path": [
+    "Go straight"
+   ],
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Move",
+    "Go straight"
+   ],
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Turn right"
+   ],
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Turn left"
+   ],
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Investigate",
+    "Button"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "sweep": [
+    "Investigate"
+   ],
+   "rounds": 2
+  },
+  {
+   "save": "cov_B220_button_room"
+  },
+  {
+   "path": [
+    "Press button"
+   ],
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Move",
+    "Go straight"
+   ],
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Turn left"
+   ],
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Go straight"
+   ],
+   "patience": 1500
+  },
+  {
+   "sweep": [
+    "Investigate"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Hit wall"
+   ],
+   "patience": 1500,
+   "optional": true
+  },
+  {
+   "path": [
+    "Ram wall"
+   ],
+   "patience": 1500,
+   "optional": true
+  },
+  {
+   "path": [
+    "Fire Blaster"
+   ],
+   "patience": 1500,
+   "optional": true
+  },
+  {
+   "save": "cov_B220_blasted"
+  },
+  {
+   "path": [
+    "Go straight"
+   ],
+   "patience": 1500
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen",
+    "Talk"
+   ],
+   "rounds": 1
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen",
+    "Talk"
+   ],
+   "rounds": 1
+  },
+  {
+   "save": "cov_B220_bathroom"
+  },
+  {
+   "path": [
+    "Move",
+    "Living room|Go to living room"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Move",
+    "Go out|Exit"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Move",
+    "Take a taxi|Get in taxi|Ride taxi|Taxi"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Give destination"
+   ],
+   "patience": 900
+  },
+  {
+   "path": [
+    "Give destination"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "path": [
+    "Give destination"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "path": [
+    "Give destination"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "idle": 3000
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk"
+   ],
+   "rounds": 1
+  },
+  {
+   "idle": 3000
+  }
+ ]
+}

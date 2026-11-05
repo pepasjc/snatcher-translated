@@ -1,0 +1,1145 @@
+{
+ "41": {
+  "speaker": "Gillian",
+  "en": "Huh? What's this?",
+  "ps1": [
+   "B200_f78_0"
+  ],
+  "cards": [
+   "Huh? What's this?"
+  ]
+ },
+ "42": {
+  "speaker": "Metal Gear",
+  "en": "Isn't this the hospital corridor?",
+  "ps1": [
+   "B200_f79_0"
+  ],
+  "cards": [
+   "Isn't this the|hospital corridor?"
+  ]
+ },
+ "43": {
+  "speaker": "Gillian",
+  "en": "It looks the same, but this isn't the ground floor.",
+  "ps1": [
+   "B200_f80_0",
+   "B200_f80_0b"
+  ],
+  "cards": [
+   "It looks the same,|but this isn't the|ground floor."
+  ]
+ },
+ "44": {
+  "speaker": "Gillian",
+  "en": "What's going on?",
+  "ps1": [
+   "B200_f81_0"
+  ],
+  "cards": [
+   "What's going on?"
+  ]
+ },
+ "45": {
+  "speaker": "Metal Gear",
+  "en": "A whole floor of Queen Hospital is duplicated underground.",
+  "ps1": [
+   "B200_f82_0"
+  ],
+  "cards": [
+   "A whole floor of|Queen Hospital is|duplicated|underground."
+  ]
+ },
+ "46": {
+  "speaker": "Gillian",
+  "en": "So there are identical floors above and below ground.",
+  "ps1": [
+   "B200_f83_0",
+   "B200_f83_0b"
+  ],
+  "cards": [
+   "So there are|identical floors|above and below|ground."
+  ]
+ },
+ "47": {
+  "speaker": "Gillian",
+  "en": "The run-down ground floor is a decoy to hide this level. They made it look abandoned, while working around the clock underground.",
+  "ps1": [
+   "B200_f84_0",
+   "B200_f84_1",
+   "B200_f84_1b"
+  ],
+  "cards": [
+   "The run-down ground|floor is a decoy to|hide this level.",
+   "They made it look|abandoned, while|working around the|clock underground."
+  ],
+  "turns": [
+   4.48
+  ]
+ },
+ "48": {
+  "speaker": "Metal Gear",
+  "en": "That means we're already inside the Snatchers' base, Gillian. Let's proceed carefully.",
+  "ps1": [
+   "B200_f85_0",
+   "B200_f85_0b"
+  ],
+  "cards": [
+   "That means we're|already inside the|Snatchers' base,|Gillian.",
+   "Let's proceed|carefully."
+  ],
+  "turns": [
+   4.98
+  ]
+ },
+ "49": {
+  "speaker": "Metal Gear",
+  "en": "Let's try pressing both buttons at once.",
+  "ps1": [
+   "B200_f86_0"
+  ],
+  "cards": [
+   "Let's try pressing|both buttons at|once."
+  ]
+ },
+ "4a": {
+  "speaker": "Gillian",
+  "en": "They're too far apart for one person to press both. But two people might manage it.",
+  "ps1": [
+   "B200_c7f1_0",
+   "B200_c7f1_0b"
+  ],
+  "cards": [
+   "They're too far|apart for one|person to press|both.",
+   "But two people|might manage it."
+  ],
+  "turns": [
+   4.58
+  ]
+ },
+ "4b": {
+  "speaker": "Randam",
+  "en": "That's it, Gillian. A popular method in the late twentieth century. Nuclear silos used it to prevent unauthorized launches.",
+  "ps1": [
+   "B200_c7f2_0",
+   "B200_c7f2_0b",
+   "B200_c7f2_0c"
+  ],
+  "cards": [
+   "That's it, Gillian.|A popular method in|the late twentieth|century.",
+   "Nuclear silos used|it to prevent|unauthorized|launches."
+  ],
+  "turns": [
+   4.36
+  ]
+ },
+ "4c": {
+  "speaker": "Gillian",
+  "en": "Hard to say for sure. Let's try it anyway. I'll press number 1. Randam, you press number 2.",
+  "ps1": [
+   "B200_c7f3_0",
+   "B200_c7f3_0b",
+   "B200_c7f3_0c"
+  ],
+  "cards": [
+   "Hard to say for|sure. Let's try it|anyway. I'll press|number 1.",
+   "Randam, you press|number 2."
+  ],
+  "turns": [
+   7.92
+  ]
+ },
+ "4d": {
+  "speaker": "Gillian",
+  "en": "Ready? Now!",
+  "ps1": [
+   "B200_c7f4_0"
+  ],
+  "cards": [
+   "Ready? Now!"
+  ]
+ },
+ "4e": {
+  "speaker": "Randam",
+  "en": "Now!",
+  "ps1": [
+   "B200_c7f5_0"
+  ],
+  "cards": [
+   "Now!"
+  ]
+ },
+ "4f": {
+  "speaker": "Metal Gear",
+  "en": "It worked! Door 3 is open!",
+  "ps1": [
+   "B200_c7f6_0"
+  ],
+  "cards": [
+   "It worked! Door 3|is open!"
+  ]
+ },
+ "50": {
+  "speaker": "Randam",
+  "en": "Must be a pretty important room.",
+  "ps1": [
+   "B200_c7f7_0"
+  ],
+  "cards": [
+   "Must be a pretty|important room."
+  ]
+ },
+ "51": {
+  "speaker": "Gillian",
+  "en": "Did we get him?",
+  "ps1": [
+   "B220_c8f13"
+  ],
+  "cards": [
+   "Did we get him?"
+  ]
+ },
+ "52": {
+  "speaker": "Metal Gear",
+  "en": "The Snatcher has shut down.",
+  "ps1": [
+   "B200_c7f9_0"
+  ],
+  "cards": [
+   "The Snatcher has|shut down."
+  ]
+ },
+ "53": {
+  "speaker": "Metal Gear",
+  "en": "So this really is their maintenance hospital. This Snatcher probably hadn't been covered with artificial skin yet.",
+  "ps1": [
+   "B200_c7f10_0",
+   "B200_c7f10_0b",
+   "B200_c7f10_0bb"
+  ],
+  "cards": [
+   "So this really is|their maintenance|hospital.",
+   "This Snatcher|probably hadn't|been covered with|artificial skin yet."
+  ],
+  "turns": [
+   4.54
+  ]
+ },
+ "54": {
+  "speaker": "Gillian",
+  "en": "So this is what a Snatcher really looks like.",
+  "ps1": [
+   "B200_c7f11_0"
+  ],
+  "cards": [
+   "So this is what a|Snatcher really|looks like."
+  ]
+ },
+ "55": {
+  "speaker": "Metal Gear",
+  "en": "This must be their original form. An endoskeleton. They snatch people and put on false skin, adjusting their bodies to fit.",
+  "ps1": [
+   "B200_c7f12_0",
+   "B200_c7f12_0b",
+   "B200_c7f12_0c"
+  ],
+  "cards": [
+   "This must be their|original form. An|endoskeleton.",
+   "They snatch people|and put on false|skin, adjusting|their bodies to fit."
+  ],
+  "turns": [
+   3.74
+  ]
+ },
+ "56": {
+  "speaker": "Metal Gear",
+  "en": "What's truly frightening is that once covered in skin, they're indistinguishable from humans.",
+  "ps1": [
+   "B200_c7f13_0",
+   "B200_c7f13_0b"
+  ],
+  "cards": [
+   "What's truly|frightening is that|once covered in|skin,",
+   "they're|indistinguishable|from humans."
+  ],
+  "turns": [
+   4.9
+  ]
+ },
+ "57": {
+  "speaker": "Randam",
+  "en": "Human or Snatcher? Human weakness leads to mistakes.",
+  "ps1": [
+   "B200_c7f14_0"
+  ],
+  "cards": [
+   "Human or Snatcher?|Human weakness|leads to mistakes."
+  ]
+ },
+ "58": {
+  "speaker": "Metal Gear",
+  "en": "And they take advantage of that weakness.",
+  "ps1": [
+   "B200_c7f15_0"
+  ],
+  "cards": [
+   "And they take|advantage of that|weakness."
+  ]
+ },
+ "59": {
+  "speaker": "Gillian",
+  "en": "Let's go, Metal, Randam. HQ's junk squad can handle this. We have an investigation to finish.",
+  "ps1": [
+   "B200_c7f16_0",
+   "B200_c7f16_0b"
+  ],
+  "cards": [
+   "Let's go, Metal,|Randam.",
+   "HQ's junk squad can|handle this.",
+   "We have an|investigation to finish."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.48,
+   4.02
+  ]
+ },
+ "5a": {
+  "speaker": "Metal Gear",
+  "en": "Behind you, Gillian!",
+  "ps1": [
+   "B200_c7f17_0"
+  ],
+  "cards": [
+   "Behind you, Gillian!"
+  ]
+ },
+ "5b": {
+  "speaker": "Gillian",
+  "en": "Ugh... what the hell.",
+  "ps1": [],
+  "cards": [
+   "Ugh... what the|hell."
+  ]
+ },
+ "5c": {
+  "speaker": "Metal Gear",
+  "en": "Four skeletal bodies.",
+  "ps1": [
+   "B200_m_00"
+  ],
+  "cards": [
+   "Four skeletal|bodies."
+  ]
+ },
+ "5d": {
+  "speaker": "Randam",
+  "en": "It's a morgue, all right.",
+  "ps1": [
+   "B200_m_01"
+  ],
+  "cards": [
+   "It's a morgue, all|right."
+  ]
+ },
+ "5e": {
+  "speaker": "Metal Gear",
+  "en": "Could they be Snatcher victims?",
+  "ps1": [
+   "B200_m_02"
+  ],
+  "cards": [
+   "Could they be|Snatcher victims?"
+  ]
+ },
+ "5f": {
+  "speaker": "Randam",
+  "en": "These guys sure aren't resting in peace.",
+  "ps1": [
+   "B200_m_03"
+  ],
+  "cards": [
+   "These guys sure|aren't resting in|peace."
+  ]
+ },
+ "60": {
+  "speaker": "Gillian",
+  "en": "So they are Snatcher victims?",
+  "ps1": [
+   "B200_m_04"
+  ],
+  "cards": [
+   "So they are|Snatcher victims?"
+  ]
+ },
+ "61": {
+  "speaker": "Metal Gear",
+  "en": "The Snatchers chose their victims at places like Outer Heaven, then killed them. After taking their places, they hid the originals' bodies here?",
+  "ps1": [
+   "B200_m_05",
+   "B200_m_05b",
+   "B200_m_05c",
+   "B200_m_05cb"
+  ],
+  "cards": [
+   "The Snatchers chose|their victims at|places",
+   "like Outer Heaven,|then killed them.",
+   "After taking their|places, they hid|the originals'|bodies here?"
+  ],
+  "turns": [
+   3.42,
+   6.5
+  ]
+ },
+ "62": {
+  "speaker": "Gillian",
+  "en": "They chose Outer Heaven to find targets because VIPs from all walks of life gather there. And costume time lets them hide their faces.",
+  "ps1": [
+   "B200_m_09",
+   "B200_m_09b",
+   "B200_m_09c"
+  ],
+  "cards": [
+   "They chose Outer|Heaven to find|targets",
+   "because VIPs from|all walks of life|gather there.",
+   "And costume time|lets them hide|their faces."
+  ],
+  "turns": [
+   4.3,
+   6.4
+  ]
+ },
+ "63": {
+  "speaker": "Randam",
+  "en": "Their link to Outer Heaven was Freddy, the taxi driver. They didn't snatch him for who he was. They wanted to use his taxi. It brought them into contact with plenty of customers. That's how they learned about Outer Heaven and Joy Division.",
+  "ps1": [
+   "B200_m_11",
+   "B200_m_11b",
+   "B200_m_11c",
+   "B200_m_11d",
+   "B200_m_11e",
+   "B200_m_11f"
+  ],
+  "cards": [
+   "Their link to Outer|Heaven was Freddy,|the taxi driver.",
+   "They didn't snatch|him for who he was.|They wanted to use|his taxi.",
+   "It brought them|into contact with|plenty of|customers.",
+   "That's how they|learned about Outer|Heaven and Joy|Division."
+  ],
+  "turns": [
+   7.76,
+   10.44,
+   16.32
+  ]
+ },
+ "64": {
+  "speaker": "Gillian",
+  "en": "Until now, we didn't know how they disposed of their victims' bodies.",
+  "ps1": [
+   "B200_m_14",
+   "B200_m_14b"
+  ],
+  "cards": [
+   "Until now, we|didn't know how|they disposed",
+   "of their victims'|bodies."
+  ],
+  "turns": [
+   3.66
+  ]
+ },
+ "65": {
+  "speaker": "Randam",
+  "en": "Hide a needle in a pincushion, and a body in a morgue. Is that it?",
+  "ps1": [
+   "B200_m_15",
+   "B200_m_15b"
+  ],
+  "cards": [
+   "Hide a needle in a|pincushion, and a|body in a morgue.|Is that it?"
+  ]
+ },
+ "66": {
+  "speaker": "Gillian",
+  "en": "Finding the bodies would expose them. If someone known to be dead walks around, anyone could see what they really are.",
+  "ps1": [
+   "B200_m_16",
+   "B200_m_16b",
+   "B200_m_16c"
+  ],
+  "cards": [
+   "Finding the bodies|would expose them.",
+   "If someone known to|be dead walks|around,",
+   "anyone could see|what they really|are."
+  ],
+  "turns": [
+   4.96,
+   6.38
+  ]
+ },
+ "67": {
+  "speaker": "Randam",
+  "en": "So if we identify these four bodies, we'll know which four people the Snatchers have replaced.",
+  "ps1": [
+   "B200_m_18",
+   "B200_m_18b"
+  ],
+  "cards": [
+   "So if we identify|these four bodies,",
+   "we'll know which|four people the|Snatchers have|replaced."
+  ],
+  "turns": [
+   4.22
+  ]
+ },
+ "68": {
+  "speaker": "Metal Gear",
+  "en": "I'll reconstruct each victim's head in turn.",
+  "ps1": [
+   "B200_c7f18_0"
+  ],
+  "cards": [
+   "I'll reconstruct|each victim's head|in turn."
+  ]
+ },
+ "69": {
+  "speaker": "Metal Gear",
+  "en": "First, body number one.",
+  "ps1": [
+   "B200_c7f19_0"
+  ],
+  "cards": [
+   "First, body number|one."
+  ]
+ },
+ "6a": {
+  "speaker": "Metal Gear",
+  "en": "Creating skull data using X-rays, sectional X-rays, MRI, and positron CT scans.",
+  "ps1": [
+   "B200_c7f20_0",
+   "B200_c7f20_0b"
+  ],
+  "cards": [
+   "Creating skull data|using X-rays,",
+   "sectional X-rays,|MRI, and positron|CT scans."
+  ],
+  "turns": [
+   5.78
+  ]
+ },
+ "6b": {
+  "speaker": "Metal Gear",
+  "en": "Head data complete.",
+  "ps1": [
+   "B200_c7f52_0"
+  ],
+  "cards": [
+   "Head data complete."
+  ]
+ },
+ "6c": {
+  "speaker": "Metal Gear",
+  "en": "I'll reconstruct the face from this skull data.",
+  "ps1": [
+   "B200_c7f22_0"
+  ],
+  "cards": [
+   "I'll reconstruct|the face from this|skull data."
+  ]
+ },
+ "6d": {
+  "speaker": "Metal Gear",
+  "en": "First, the victim's age. 1. Whether fontanelles remain, and skull suture clarity. 2. The area of the facial skeleton. 3. The height of the upper and lower jaws, and development of the tooth-bearing ridges. 4. The skull's center of gravity.",
+  "ps1": [
+   "B200_c7f23_0",
+   "B200_c7f23_0b",
+   "B200_c7f23_0c",
+   "B200_c7f23_0d",
+   "B200_c7f23_0db",
+   "B200_c7f23_0e"
+  ],
+  "cards": [
+   "First, the victim's|age.",
+   "1. Whether|fontanelles remain,|and skull suture|clarity.",
+   "2. The area of the|facial skeleton.",
+   "3. The height of|the upper and lower|jaws,",
+   "and development of|the tooth-bearing|ridges.",
+   "4. The skull's|center of gravity."
+  ],
+  "turns": [
+   2.72,
+   8.0,
+   11.26,
+   14.26,
+   17.2
+  ]
+ },
+ "6e": {
+  "speaker": "Metal Gear",
+  "en": "Next, sex. 1. Overall skull size. 2. The angle and slope of the crown. 3. Development of the facial skeleton.",
+  "ps1": [
+   "B200_c7f24_0",
+   "B200_c7f24_0b",
+   "B200_c7f24_0c",
+   "B200_c7f24_0d"
+  ],
+  "cards": [
+   "Next, sex.",
+   "1. Overall skull|size.",
+   "2. The angle and|slope of the crown.",
+   "3. Development of|the facial skeleton."
+  ],
+  "turns": [
+   3.4,
+   6.1,
+   10.4
+  ]
+ },
+ "6f": {
+  "speaker": "Metal Gear",
+  "en": "Finally, race. 1. Skull measurements. 2. Cranial cavity volume. 3. Skull weight.",
+  "ps1": [
+   "B200_c7f25_0",
+   "B200_c7f25_0b",
+   "B200_c7f25_0c",
+   "B200_c7f25_0d"
+  ],
+  "cards": [
+   "Finally, race.",
+   "1. Skull|measurements.",
+   "2. Cranial cavity|volume.",
+   "3. Skull weight."
+  ],
+  "turns": [
+   2.8,
+   6.26,
+   10.48
+  ]
+ },
+ "70": {
+  "speaker": "Metal Gear",
+  "en": "From these results, I'll add flesh using average measurements for each part.",
+  "ps1": [
+   "B200_c7f26_0",
+   "B200_c7f26_0b"
+  ],
+  "cards": [
+   "From these results,|I'll add flesh",
+   "using average|measurements for|each part."
+  ],
+  "turns": [
+   2.76
+  ]
+ },
+ "71": {
+  "speaker": "Metal Gear",
+  "en": "First stage of reconstruction complete. Ten percent margin of error from racial averages. Adding estimated hairstyle and eyes.",
+  "ps1": [
+   "B200_c7f43_0",
+   "B200_c7f43_0b",
+   "B200_c7f43_0c"
+  ],
+  "cards": [
+   "First stage of|reconstruction|complete.",
+   "Ten percent margin|of error from|racial averages.",
+   "Adding estimated|hairstyle and eyes."
+  ],
+  "turns": [
+   5.08,
+   8.16
+  ]
+ },
+ "72": {
+  "speaker": "Metal Gear",
+  "en": "The first victim's head is reconstructed.",
+  "ps1": [
+   "B200_c7f28_0"
+  ],
+  "cards": [
+   "The first victim's|head is|reconstructed."
+  ]
+ },
+ "73": {
+  "speaker": "Gillian",
+  "en": "It's Freddy Nielsen.",
+  "ps1": [
+   "B200_c7f29_0"
+  ],
+  "cards": [
+   "It's Freddy Nielsen."
+  ]
+ },
+ "74": {
+  "speaker": "Metal Gear",
+  "en": "Now I'll reconstruct the second victim.",
+  "ps1": [
+   "B200_c7f30_0"
+  ],
+  "cards": [
+   "Now I'll|reconstruct the|second victim."
+  ]
+ },
+ "75": {
+  "speaker": "Metal Gear",
+  "en": "Body number two.",
+  "ps1": [
+   "B200_c7f31_0"
+  ],
+  "cards": [
+   "Body number two."
+  ]
+ },
+ "76": {
+  "speaker": "Metal Gear",
+  "en": "Creating skull data using the same process.",
+  "ps1": [
+   "B200_c7f32_0"
+  ],
+  "cards": [
+   "Creating skull data|using the same|process."
+  ]
+ },
+ "77": {
+  "speaker": "Metal Gear",
+  "en": "Head data complete.",
+  "ps1": [
+   "B200_c7f52_0"
+  ],
+  "cards": [
+   "Head data complete."
+  ]
+ },
+ "78": {
+  "speaker": "Metal Gear",
+  "en": "Reconstructing from the skull data as before.",
+  "ps1": [
+   "B200_c7f53_0"
+  ],
+  "cards": [
+   "Reconstructing from|the skull data as|before."
+  ]
+ },
+ "79": {
+  "speaker": "Metal Gear",
+  "en": "First stage of reconstruction complete. Ten percent margin of error from racial averages. Adding estimated hairstyle and eyes.",
+  "ps1": [
+   "B200_c7f43_0",
+   "B200_c7f43_0b",
+   "B200_c7f43_0c"
+  ],
+  "cards": [
+   "First stage of|reconstruction|complete.",
+   "Ten percent margin|of error from|racial averages.",
+   "Adding estimated|hairstyle and eyes."
+  ],
+  "turns": [
+   4.76,
+   7.96
+  ]
+ },
+ "7a": {
+  "speaker": "Metal Gear",
+  "en": "The second victim's head is reconstructed.",
+  "ps1": [
+   "B200_c7f36_0"
+  ],
+  "cards": [
+   "The second victim's|head is|reconstructed."
+  ]
+ },
+ "7b": {
+  "speaker": "Gillian",
+  "en": "This is Lisa Nielsen.",
+  "ps1": [],
+  "cards": [
+   "This is Lisa|Nielsen."
+  ]
+ },
+ "7c": {
+  "speaker": "Metal Gear",
+  "en": "Now I'll reconstruct the third victim.",
+  "ps1": [
+   "B200_c7f38_0"
+  ],
+  "cards": [
+   "Now I'll|reconstruct the|third victim."
+  ]
+ },
+ "7d": {
+  "speaker": "Metal Gear",
+  "en": "Body number three.",
+  "ps1": [
+   "B200_c7f39_0"
+  ],
+  "cards": [
+   "Body number three."
+  ]
+ },
+ "7e": {
+  "speaker": "Metal Gear",
+  "en": "Creating skull data using the same process.",
+  "ps1": [
+   "B200_c7f32_0"
+  ],
+  "cards": [
+   "Creating skull data|using the same|process."
+  ]
+ },
+ "7f": {
+  "speaker": "Metal Gear",
+  "en": "Head data complete.",
+  "ps1": [
+   "B200_c7f52_0"
+  ],
+  "cards": [
+   "Head data complete."
+  ]
+ },
+ "80": {
+  "speaker": "Metal Gear",
+  "en": "Reconstructing from the skull data as before.",
+  "ps1": [
+   "B200_c7f53_0"
+  ],
+  "cards": [
+   "Reconstructing from|the skull data as|before."
+  ]
+ },
+ "81": {
+  "speaker": "Metal Gear",
+  "en": "First stage of reconstruction complete. Ten percent margin of error from racial averages. Adding estimated hairstyle and eyes.",
+  "ps1": [
+   "B200_c7f43_0",
+   "B200_c7f43_0b",
+   "B200_c7f43_0c"
+  ],
+  "cards": [
+   "First stage of|reconstruction|complete.",
+   "Ten percent margin|of error from|racial averages.",
+   "Adding estimated|hairstyle and eyes."
+  ],
+  "turns": [
+   3.78,
+   8.48
+  ]
+ },
+ "82": {
+  "speaker": "Metal Gear",
+  "en": "The third victim's head is reconstructed.",
+  "ps1": [
+   "B200_c7f44_0"
+  ],
+  "cards": [
+   "The third victim's|head is|reconstructed."
+  ]
+ },
+ "83": {
+  "speaker": "Gillian",
+  "en": "Who's this guy?",
+  "ps1": [
+   "B200_c7f45_0"
+  ],
+  "cards": [
+   "Who's this guy?"
+  ],
+  "layout": "plain"
+ },
+ "84": {
+  "speaker": "Randam",
+  "en": "That's the director of Queen Hospital.",
+  "ps1": [
+   "B200_c7f46_0"
+  ],
+  "cards": [
+   "That's the director of|Queen Hospital."
+  ],
+  "layout": "plain"
+ },
+ "85": {
+  "speaker": "Metal Gear",
+  "en": "Chin Shu Ho.",
+  "ps1": [],
+  "cards": [
+   "Chin Shu Ho."
+  ]
+ },
+ "86.0": {
+  "speaker": "Metal Gear",
+  "en": "Promise you'll come back.",
+  "ps1": [
+   "B250_c10f52"
+  ],
+  "cards": [
+   "Promise you'll come|back."
+  ]
+ },
+ "86.3": {
+  "speaker": "Metal Gear",
+  "en": "Now I'll reconstruct the last victim.",
+  "ps1": [
+   "B200_c7f48_0"
+  ],
+  "cards": [
+   "Now I'll|reconstruct the|last victim."
+  ]
+ },
+ "87": {
+  "speaker": "Gillian",
+  "en": "The most recent body. Still decomposing.",
+  "ps1": [
+   "B200_c7f49_0"
+  ],
+  "cards": [
+   "The most recent|body. Still|decomposing."
+  ]
+ },
+ "88": {
+  "speaker": "Metal Gear",
+  "en": "The last body.",
+  "ps1": [
+   "B200_c7f50_0"
+  ],
+  "cards": [
+   "The last body."
+  ]
+ },
+ "89": {
+  "speaker": "Metal Gear",
+  "en": "Creating skull data using the same process.",
+  "ps1": [
+   "B200_c7f51_0"
+  ],
+  "cards": [
+   "Creating skull data|using the same|process."
+  ]
+ },
+ "8a": {
+  "speaker": "Metal Gear",
+  "en": "Head data complete.",
+  "ps1": [
+   "B200_c7f52_0"
+  ],
+  "cards": [
+   "Head data complete."
+  ]
+ },
+ "8b": {
+  "speaker": "Metal Gear",
+  "en": "Reconstructing from the skull data as before.",
+  "ps1": [
+   "B200_c7f53_0"
+  ],
+  "cards": [
+   "Reconstructing from|the skull data as|before."
+  ]
+ },
+ "8c": {
+  "speaker": "Metal Gear",
+  "en": "First stage of reconstruction complete. Ten percent margin of error from racial averages. Adding estimated hairstyle and eyes.",
+  "ps1": [
+   "B200_c7f43_0",
+   "B200_c7f43_0b",
+   "B200_c7f43_0c"
+  ],
+  "cards": [
+   "First stage of|reconstruction|complete.",
+   "Ten percent margin|of error from|racial averages.",
+   "Adding estimated|hairstyle and eyes."
+  ],
+  "turns": [
+   5.62,
+   8.84
+  ]
+ },
+ "8d": {
+  "speaker": "Metal Gear",
+  "en": "The last victim's head is reconstructed.",
+  "ps1": [
+   "B200_c7f55_0"
+  ],
+  "cards": [
+   "The last victim's|head is|reconstructed."
+  ]
+ },
+ "8e": {
+  "speaker": "Gillian",
+  "en": "The Chief?",
+  "ps1": [
+   "B010_006"
+  ],
+  "cards": [
+   "The Chief?"
+  ],
+  "layout": "plain"
+ },
+ "8f": {
+  "speaker": "Randam",
+  "en": "What?!",
+  "ps1": [
+   "B200_c7f57_0"
+  ],
+  "cards": [
+   "What?!"
+  ],
+  "layout": "plain"
+ },
+ "90": {
+  "speaker": "Gillian",
+  "en": "The Chief was a Snatcher! The Benson in the record was Benson Cunningham?",
+  "ps1": [
+   "B200_c7f58_0",
+   "B200_c7f58_0b"
+  ],
+  "cards": [
+   "The Chief was a|Snatcher!",
+   "The Benson in the|record was Benson|Cunningham?"
+  ],
+  "turns": [
+   2.88
+  ]
+ },
+ "91": {
+  "speaker": "Metal Gear",
+  "en": "Judging by the body's condition, he was snatched about a month ago.",
+  "ps1": [
+   "B200_c7f59_0",
+   "B200_c7f59_0b"
+  ],
+  "cards": [
+   "Judging by the|body's condition,|he was snatched|about a month ago."
+  ]
+ },
+ "92": {
+  "speaker": "Gillian",
+  "en": "The Chief sabotaged the Tricycle too. The Outer Heaven matches in Harry's room were planted to frame him.",
+  "ps1": [
+   "B200_c7f60_0",
+   "B200_c7f60_0b",
+   "B200_c7f60_0bb"
+  ],
+  "cards": [
+   "The Chief sabotaged|the Tricycle too.",
+   "The Outer Heaven|matches in Harry's|room were planted|to frame him."
+  ],
+  "turns": [
+   3.44
+  ]
+ },
+ "93": {
+  "speaker": "Metal Gear",
+  "en": "Harry must have realized and left the \"Face to face\" note.",
+  "ps1": [
+   "B200_c7f61_0"
+  ],
+  "cards": [
+   "Harry must have|realized and left|the \"Face to face\"|note."
+  ]
+ },
+ "94": {
+  "speaker": "Metal Gear",
+  "en": "Wait! Mika said Harry followed the Chief. That's right!",
+  "ps1": [
+   "B200_c7f62_0",
+   "B200_c7f62_0b"
+  ],
+  "cards": [
+   "Wait! Mika said|Harry followed the|Chief. That's right!"
+  ]
+ },
+ "95": {
+  "speaker": "Gillian",
+  "en": "So he went looking for evidence against the Chief.",
+  "ps1": [
+   "B200_c7f63_0"
+  ],
+  "cards": [
+   "So he went looking|for evidence|against the Chief."
+  ]
+ },
+ "96": {
+  "speaker": "Randam",
+  "en": "That old man's in danger, Gillian.",
+  "ps1": [
+   "B200_c7f64_0"
+  ],
+  "cards": [
+   "That old man's in|danger, Gillian."
+  ],
+  "layout": "plain"
+ },
+ "97": {
+  "speaker": "Metal Gear",
+  "en": "If the Chief sabotaged the Tricycle, he must already know we've discovered what he is.",
+  "ps1": [
+   "B200_c7f65_0",
+   "B200_c7f65_0b",
+   "B200_c7f65_0bb"
+  ],
+  "cards": [
+   "If the Chief|sabotaged the|Tricycle,",
+   "he must already|know we've|discovered what he|is."
+  ],
+  "turns": [
+   4.56
+  ]
+ },
+ "98": {
+  "speaker": "Gillian",
+  "en": "Damn it! Harry and Mika are in danger!",
+  "ps1": [
+   "B200_c7f66_0"
+  ],
+  "cards": [
+   "Damn it! Harry and|Mika are in danger!"
+  ],
+  "layout": "plain"
+ },
+ "99": {
+  "speaker": "Chin",
+  "en": "That's far enough, JUNKER. Your detective game is over.",
+  "ps1": [
+   "B200_c_00"
+  ],
+  "cards": [
+   "That's far enough,|JUNKER. Your detective game is over."
+  ],
+  "layout": "plain"
+ },
+ "9a": {
+  "speaker": "Gillian",
+  "en": "It's them!",
+  "ps1": [
+   "B220_c8f1"
+  ],
+  "cards": [
+   "It's them!"
+  ],
+  "layout": "plain"
+ },
+ "9b": {
+  "speaker": "Metal Gear",
+  "en": "Snatchers!",
+  "ps1": [
+   "B220_c8f2"
+  ],
+  "cards": [
+   "Snatchers!"
+  ],
+  "layout": "plain"
+ },
+ "9c": {
+  "speaker": "Gillian",
+  "en": "Get them!",
+  "ps1": [
+   "B220_c8f3"
+  ],
+  "cards": [
+   "Get them!"
+  ],
+  "layout": "plain"
+ },
+ "_unmatched": {
+  "19": "0.06 XAS_S000.XA[116]",
+  "9d": "0.00 XAS_S000.XA[97]",
+  "9e": "0.17 XAS_S000.XA[39]"
+ }
+}

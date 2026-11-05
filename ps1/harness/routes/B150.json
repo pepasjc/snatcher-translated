@@ -1,0 +1,20 @@
+{"scene":"B150","note":"JUNKER HQ, Act 2 (guides/ps1.txt ACT 2 JUNKER HEADQUARTERS): the debrief with the Chief plays on arrival, then the Chief's questions (posting, Siberia, Catherine, Randam Hajile), the mechanic room for Little John's video memory (Harry), the squad room, the range, Mika at the front. The Napoleon call needs the password keyboard - not driven; the run ends at the videophone.",
+ "source":"guides/ps1.txt ACT 2 JUNKER HEADQUARTERS",
+ "actions":[
+  {"save":"B150_arrived"},
+  {"sweep":["Ask","Look","Investigate","Talk"],"rounds":2,"why":"the Chief's office"},
+  {"path":["Move","Mechanic room"],"why":"MOVE to ENGINEERING ROOM (Video Memory acquired)"},
+  {"sweep":["Look","Investigate","Ask","Talk"],"rounds":2,"avoid":["Go out"]},
+  {"save":"B150_mech"},
+  {"path":["Move","Squad rm|Squad room"],"optional":true},
+  {"sweep":["Look","Investigate"],"rounds":2,"avoid":["Go out"]},
+  {"path":["Move","Computer room"],"optional":true},
+  {"sweep":["Look","Investigate","Ask"],"rounds":1,"avoid":["Go out","Use Gaudi"]},
+  {"path":["Move","Shooting range"],"optional":true},
+  {"sweep":["Look","Investigate"],"rounds":1,"avoid":["Go out"]},
+  {"path":["Move","Front Pod|Front desk"],"optional":true},
+  {"sweep":["Look","Investigate","Ask","Talk"],"rounds":2,"avoid":["Go out"]},
+  {"path":["Move","Chief's room"],"optional":true},
+  {"sweep":["Ask","Talk"],"rounds":1},
+  {"save":"B150_done"}
+ ]}

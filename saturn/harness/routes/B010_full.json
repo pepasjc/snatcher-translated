@@ -1,0 +1,181 @@
+{
+ "scene": "B010",
+ "note": "JUNKER HQ from New Game, the regression's Act 1 opening: the reception's Talk/Asks, the Chief's five topics and staff, every room once (Harry only turns up after the tour), then the Mechanic room: Ask > Navigator (Metal Gear's introduction reel, whose last card froze the screen over the verb menu in v1.0 - 2026-10-01), every verb three times, out to the tricycle and the ruins. The `new` action is added by --new.",
+ "actions": [
+  {
+   "wait_menu": true
+  },
+  {
+   "path": [
+    "Go inside"
+   ]
+  },
+  {
+   "path": [
+    "Talk"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "About JUNKER"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "About Neo Kobe"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "Mika"
+   ]
+  },
+  {
+   "path": [
+    "Go inside",
+    "Chief's room"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "About JUNKER"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "JUNKER authority"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "JUNKER duties"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "JUNKER staff"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "JUNKER staff",
+    "About Gibson"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "JUNKER staff",
+    "About Mika"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "Snatchers"
+   ]
+  },
+  {
+   "path": [
+    "Go out",
+    "Mechanic room"
+   ]
+  },
+  {
+   "path": [
+    "Go out",
+    "Squad room"
+   ]
+  },
+  {
+   "path": [
+    "Go out",
+    "Computer room"
+   ]
+  },
+  {
+   "path": [
+    "Go out",
+    "Shooting range"
+   ]
+  },
+  {
+   "path": [
+    "Go out",
+    "Chief's room"
+   ]
+  },
+  {
+   "path": [
+    "Go out",
+    "Mechanic room"
+   ]
+  },
+  {
+   "wait_menu": true
+  },
+  {
+   "path": [
+    "Ask",
+    "Navigator"
+   ]
+  },
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Look",
+    "Investigate",
+    "Talk"
+   ],
+   "rounds": 3
+  },
+  {
+   "sweep": [
+    "Go out"
+   ],
+   "each": [
+    "Talk",
+    "Ask",
+    "Look",
+    "Investigate",
+    "Listen"
+   ],
+   "each_rounds": 1,
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Go out",
+    "Front|Exit Tricycle|Exit"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Board Tricycle|Exit Tricycle"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Factory ruins|Ruins"
+   ],
+   "optional": true
+  },
+  {
+   "idle": 4000
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+ "scene": "B0E0",
+ "note": "Coverage: B0E0_103 (Gillian looking for the Neo Kobe-yaki stand, M000 ch1 f19). From the B0E0_auto card (Joy Division street): Sniff until Eat Kobe-yaki is offered, then eat WITHOUT having looked at or investigated the food stall first.",
+ "actions": [
+  {"path": ["Sniff"], "reps": 4, "optional": true, "patience": 2000},
+  {"path": ["Eat Kobe-yaki|Eat"], "optional": true, "patience": 3000},
+  {"idle": 4000}
+ ]
+}

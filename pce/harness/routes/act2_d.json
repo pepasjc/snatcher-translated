@@ -1,0 +1,401 @@
+[
+{
+"choose": "Queen Hospital"
+},
+{
+"read": 8000
+},
+{
+"choose": "Exit Tricycle"
+},
+{
+"read": 8000
+},
+{
+"save": "queen0"
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"choose": [
+"Move",
+"Go inside"
+]
+},
+{
+"maybe": "Go inside"
+},
+{
+"read": 10000
+},
+{
+"save": "queen_in"
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Press switch",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"save": "queen_switched"
+},
+{
+"items": 1
+},
+{
+"choose": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Door 1",
+"Door  1"
+]
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"submenu": [
+"Use Metal Gear",
+"Turn on light"
+]
+},
+{
+"read": 6000
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"save": "queen_d1"
+},
+{
+"choose": [
+"Move",
+"Go out"
+]
+},
+{
+"maybe": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Door 2",
+"Door  2",
+"Reception",
+"Inside"
+]
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"submenu": [
+"Use Metal Gear",
+"Turn on light"
+]
+},
+{
+"read": 6000
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"save": "queen_d2"
+},
+{
+"choose": [
+"Move",
+"Go out"
+]
+},
+{
+"maybe": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Door 3",
+"Door  3",
+"Reception",
+"Inside"
+]
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"submenu": [
+"Use Metal Gear",
+"Turn on light"
+]
+},
+{
+"read": 6000
+},
+{
+"items": 1
+},
+{
+"light_scan": {
+"xs": [
+24,
+56,
+88,
+120,
+152,
+184,
+216
+],
+"ys": [
+20,
+52,
+84,
+116,
+140
+]
+}
+},
+{
+"save": "queen_d3"
+},
+{
+"items": 1
+},
+{
+"choose": "Go out"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"choose": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": "Go out"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"choose": "Item"
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Evidence"
+},
+{
+"choose": "Medical chart"
+},
+{
+"read": 8000
+},
+{
+"choose": "Item"
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Evidence"
+},
+{
+"choose": "Matches"
+},
+{
+"read": 8000
+},
+{
+"phone": "391009"
+},
+{
+"wait": 900
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"choose": "Show an item"
+},
+{
+"choose": "Medical chart"
+},
+{
+"read": 12000
+},
+{
+"sweep": "Ask",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"maybe": "Hang up"
+},
+{
+"read": 4000
+},
+{
+"maybe": "Don't call"
+},
+{
+"read": 3000
+},
+{
+"save": "jamie_chart"
+},
+{
+"items": 1
+},
+{
+"phone": "395644"
+},
+{
+"wait": 900
+},
+{
+"read": 15000
+},
+{
+"items": 1
+},
+{
+"maybe": "Don't call"
+},
+{
+"read": 8000
+},
+{
+"save": "queen_called"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Move",
+"Board Tricycle"
+]
+},
+{
+"maybe": "Board Tricycle"
+},
+{
+"read": 3000
+},
+{
+"items": 1
+},
+{
+"save": "act2_d_end"
+}
+]

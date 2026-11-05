@@ -1,0 +1,1045 @@
+[
+ {
+  "track": 10,
+  "start": 0.94,
+  "end": 6.7,
+  "speaker": "Gillian",
+  "en": "My arm! My Blaster! My leg's been hit!",
+  "ps1": "B200_r_00",
+  "cards": [
+   "My arm! My Blaster!|My leg's been hit!"
+  ],
+  "reveal_end": 5.52,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 6.7,
+  "end": 10.24,
+  "speaker": "Chin",
+  "en": "What a sorry sight, JUNKER!",
+  "ps1": "B200_r_01",
+  "cards": [
+   "What a sorry sight,|JUNKER!"
+  ],
+  "reveal_end": 10.16,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 10.24,
+  "end": 17.04,
+  "speaker": "Gillian",
+  "en": "Who's there? Chin! Chin Shu Ho, you bastard!",
+  "ps1": "B200_r_02",
+  "cards": [
+   "Who's there? Chin!|Chin Shu Ho, you bastard!"
+  ],
+  "reveal_end": 16.44,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 17.04,
+  "end": 23.46,
+  "speaker": "Chin",
+  "en": "Still have some fight left, JUNKER?",
+  "ps1": "B200_r_04",
+  "cards": [
+   "Still have some fight|left, JUNKER?"
+  ],
+  "reveal_end": 23.34,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 23.46,
+  "end": 31.96,
+  "speaker": "Chin",
+  "en": "You're finished. Our plan is entering its second phase, Level 2.",
+  "ps1": "B200_r_04b",
+  "cards": [
+   "You're finished.",
+   "Our plan is entering its|second phase, Level 2."
+  ],
+  "reveal_end": 31.52,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 31.96,
+  "end": 37.62,
+  "speaker": "Chin",
+  "en": "Then this city and the entire world will be ours.",
+  "ps1": "B200_r_04c",
+  "cards": [
+   "Then this city and the|entire world will be ours."
+  ],
+  "reveal_end": 36.72,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 37.62,
+  "end": 41.36,
+  "speaker": "Gillian",
+  "en": "Second phase? What do you mean?",
+  "ps1": "B200_r_07",
+  "cards": [
+   "Second phase? What do|you mean?"
+  ],
+  "reveal_end": 40.58,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 41.36,
+  "end": 46.5,
+  "speaker": "Chin",
+  "en": "As you know, our movements have been restricted",
+  "ps1": "B200_r_08",
+  "cards": [
+   "As you know, our|movements have been restricted"
+  ],
+  "reveal_end": 46.38,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 46.5,
+  "end": 48.84,
+  "speaker": "Chin",
+  "en": "by our imperfect artificial skin.",
+  "ps1": "B200_r_08b",
+  "cards": [
+   "by our imperfect|artificial skin."
+  ],
+  "reveal_end": 48.42,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 48.84,
+  "end": 54.92,
+  "speaker": "Chin",
+  "en": "It forces us to avoid ultraviolet rays and hide underground.",
+  "ps1": "B200_r_08c",
+  "ps1_more": [
+   "B200_r_08d"
+  ],
+  "cards": [
+   "It forces us to avoid|ultraviolet rays",
+   "and hide underground."
+  ],
+  "reveal_end": 54.4,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 54.92,
+  "end": 66.02,
+  "speaker": "Chin",
+  "en": "We can only operate on winter nights. We even need a hospital like this.",
+  "ps1": "B200_r_08e",
+  "ps1_more": [
+   "B200_r_08f"
+  ],
+  "cards": [
+   "We can only operate on|winter nights.",
+   "We even need a hospital|like this."
+  ],
+  "reveal_end": 65.22,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 66.02,
+  "end": 70.26,
+  "speaker": "Chin",
+  "en": "All because of our imperfect artificial skin.",
+  "ps1": "B200_r_08g",
+  "cards": [
+   "All because of our|imperfect artificial skin."
+  ],
+  "reveal_end": 69.46,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 70.26,
+  "end": 74.74,
+  "speaker": "Chin",
+  "en": "It is the only difference between us and humans.",
+  "ps1": "B200_r_08h",
+  "cards": [
+   "It is the only difference|between us and humans."
+  ],
+  "reveal_end": 73.4,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 74.74,
+  "end": 80.9,
+  "speaker": "Chin",
+  "en": "But at last, we can overcome that tiresome limitation.",
+  "ps1": "B200_r_08i",
+  "cards": [
+   "But at last, we can|overcome that tiresome limitation."
+  ],
+  "reveal_end": 80.38,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 80.9,
+  "end": 81.94,
+  "speaker": "Gillian",
+  "en": "What?",
+  "ps1": "B200_r_15",
+  "cards": [
+   "What?"
+  ],
+  "reveal_end": 81.7,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 81.94,
+  "end": 90.7,
+  "speaker": "Chin",
+  "en": "We've found the key to perfect artificial skin, thanks to a new collaborator.",
+  "ps1": "B200_r_16",
+  "ps1_more": [
+   "B200_r_16b"
+  ],
+  "cards": [
+   "We've found the key to|perfect artificial skin,",
+   "thanks to a new|collaborator."
+  ],
+  "reveal_end": 89.38,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 90.7,
+  "end": 95.64,
+  "speaker": "Gillian",
+  "en": "Perfect artificial skin? A new collaborator?",
+  "ps1": "B200_r_17",
+  "cards": [
+   "Perfect artificial|skin? A new collaborator?"
+  ],
+  "reveal_end": 95.1,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 95.64,
+  "end": 101.16,
+  "speaker": "Chin",
+  "en": "Once it's complete, nothing will hold us back.",
+  "ps1": "B200_r_18",
+  "cards": [
+   "Once it's complete,|nothing will hold us back."
+  ],
+  "reveal_end": 100.3,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 101.16,
+  "end": 110.2,
+  "speaker": "Chin",
+  "en": "With that skin, our snatching plan will enter its second phase, Level 2.",
+  "ps1": "B200_r_18b",
+  "ps1_more": [
+   "B200_r_18c"
+  ],
+  "cards": [
+   "With that skin,",
+   "our snatching plan will|enter its second phase, Level 2."
+  ],
+  "reveal_end": 109.44,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 110.2,
+  "end": 115.14,
+  "speaker": "Chin",
+  "en": "Our experiment in this city will become a full-scale invasion of the world.",
+  "ps1": "B200_r_18d",
+  "cards": [
+   "Our experiment in this|city will become",
+   "a full-scale invasion of|the world."
+  ],
+  "reveal_end": 114.84,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 115.14,
+  "end": 120.56,
+  "speaker": "Randam",
+  "en": "Don't get carried away. You won't leave this city so easily.",
+  "ps1": "B200_r_21",
+  "cards": [
+   "Don't get carried away.|You won't leave this city so easily."
+  ],
+  "reveal_end": 118.54,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 120.56,
+  "end": 124.54,
+  "speaker": "Chin",
+  "en": "Humans are such hopeless fools.",
+  "ps1": "B200_r_22",
+  "cards": [
+   "Humans are such hopeless|fools."
+  ],
+  "reveal_end": 123.98,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 124.54,
+  "end": 126.72,
+  "speaker": "Randam",
+  "en": "What?!",
+  "ps1": "B200_r_23",
+  "cards": [
+   "What?!"
+  ],
+  "reveal_end": 125.22,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 126.72,
+  "end": 133.7,
+  "speaker": "Chin",
+  "en": "You know tomorrow's Kyoto summit will discuss the Snatchers.",
+  "ps1": "B200_r_24",
+  "cards": [
+   "You know tomorrow's Kyoto|summit will discuss the Snatchers."
+  ],
+  "reveal_end": 133.5,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 133.7,
+  "end": 135.5,
+  "speaker": "Gillian",
+  "en": "Metal! Is that true?",
+  "layout": "plain",
+  "reveal_end": 135.5,
+  "note": "PCE-only line (no PS1 card), translated 2026-10-18",
+  "cards": [
+   "Metal! Is that true?"
+  ]
+ },
+ {
+  "track": 10,
+  "start": 135.5,
+  "end": 145.64,
+  "speaker": "Metal Gear",
+  "en": "Yes, it is. The whole world is watching the Snatcher problem. It's a major item on the agenda at the upcoming Kyoto summit.",
+  "layout": "plain",
+  "reveal_end": 145.64,
+  "note": "PCE-only line (no PS1 card), translated 2026-10-18",
+  "cards": [
+   "Yes, it is.",
+   "The whole world is|watching the Snatcher problem.",
+   "It's a major item|on the agenda",
+   "at the upcoming|Kyoto summit."
+  ]
+ },
+ {
+  "track": 10,
+  "start": 145.98,
+  "end": 152.68,
+  "speaker": "Chin",
+  "en": "That's right. Tomorrow we attack the summit.",
+  "ps1": "B200_r_24b",
+  "cards": [
+   "That's right. Tomorrow we|attack the summit."
+  ],
+  "reveal_end": 151.9,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 152.68,
+  "end": 158.48,
+  "speaker": "Gillian",
+  "en": "Fool! Security's too tight. You won't even get close, let alone inside.",
+  "ps1": "B200_r_26",
+  "ps1_more": [
+   "B200_r_26b"
+  ],
+  "cards": [
+   "Fool! Security's too|tight.",
+   "You won't even get|close, let alone inside."
+  ],
+  "reveal_end": 157.92,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 158.48,
+  "end": 163.74,
+  "speaker": "Chin",
+  "en": "Must I explain everything, JUNKER?",
+  "ps1": "B200_r_27",
+  "cards": [
+   "Must I explain|everything, JUNKER?"
+  ],
+  "reveal_end": 162.16,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 163.74,
+  "end": 172.42,
+  "speaker": "Chin",
+  "en": "Surely you've heard that a JUNKER will attend as a special adviser.",
+  "ps1": "B200_r_27b",
+  "cards": [
+   "Surely you've heard that|a JUNKER will attend",
+   "as a special adviser."
+  ],
+  "reveal_end": 172.2,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 172.42,
+  "end": 177.96,
+  "speaker": "Gillian",
+  "en": "The Chief! Cunningham! That's why you snatched him!",
+  "ps1": "B200_r_29",
+  "cards": [
+   "The Chief!|Cunningham!",
+   "That's why you|snatched him!"
+  ],
+  "reveal_end": 177.08,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 177.96,
+  "end": 182.16,
+  "speaker": "Chin",
+  "en": "We've known for six months that the Chief would attend.",
+  "ps1": "B200_r_30",
+  "cards": [
+   "We've known for six|months that the Chief would attend."
+  ],
+  "reveal_end": 182.02,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 182.16,
+  "end": 185.4,
+  "speaker": "Metal Gear",
+  "en": "The summit is tomorrow, Gillian. We must hurry!",
+  "ps1": "B200_r_31",
+  "cards": [
+   "The summit is|tomorrow, Gillian. We must hurry!"
+  ],
+  "reveal_end": 185.32,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 185.4,
+  "end": 200.52,
+  "speaker": "Chin",
+  "en": "The Chief and all of JUNKER are in our hands. This city too. Tomorrow, the whole world. No one remains to stand in our way.",
+  "ps1": "B200_r_32",
+  "cards": [
+   "The Chief and all of|JUNKER are in our hands.",
+   "This city too. Tomorrow,|the whole world.",
+   "No one remains to stand|in our way."
+  ],
+  "seams": [
+   [
+    10,
+    191.58
+   ]
+  ],
+  "ps1_more": [
+   "B200_r_32b",
+   "B200_r_32c"
+  ],
+  "reveal_end": 200.36,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 200.52,
+  "end": 206.32,
+  "speaker": "Chin",
+  "en": "At last, we will avenge what happened fifty years ago.",
+  "ps1": "B200_r_32d",
+  "cards": [
+   "At last, we will avenge|what happened fifty years ago."
+  ],
+  "reveal_end": 205.24,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 206.32,
+  "end": 209.26,
+  "speaker": "Gillian",
+  "en": "Who the hell are you?",
+  "ps1": "B200_r_37",
+  "cards": [
+   "Who the hell are you?"
+  ],
+  "reveal_end": 208.38,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 209.26,
+  "end": 218.32,
+  "speaker": "Chin",
+  "en": "Us? Deep within the Kremlin, our creator Madnar gave us life.",
+  "ps1": "B200_r_38",
+  "ps1_more": [
+   "B200_r_38b"
+  ],
+  "cards": [
+   "Us?",
+   "Deep within the Kremlin,|our creator Madnar gave us life."
+  ],
+  "reveal_end": 218.32,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 218.32,
+  "end": 222.46,
+  "speaker": "Chin",
+  "en": "We are the chosen people, the next stage of evolution.",
+  "ps1": "B200_r_38c",
+  "cards": [
+   "We are the chosen people,|the next stage of evolution."
+  ],
+  "reveal_end": 221.96,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 222.46,
+  "end": 229.24,
+  "speaker": "Gillian",
+  "en": "Madnar? Kremlin? Those names sound familiar.",
+  "ps1": "B200_r_41",
+  "cards": [
+   "Madnar? Kremlin?|Those names sound familiar."
+  ],
+  "reveal_end": 228.96,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 229.24,
+  "end": 233.48,
+  "speaker": "Chin",
+  "en": "Our goal is to snatch the world's VIPs.",
+  "ps1": "B200_r_43",
+  "cards": [
+   "Our goal is to snatch the|world's VIPs."
+  ],
+  "reveal_end": 233.24,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 233.48,
+  "end": 238.7,
+  "speaker": "Chin",
+  "en": "Then control the thoughts of every race, everywhere, and unite all peoples.",
+  "ps1": "B200_r_44",
+  "ps1_more": [
+   "B200_r_44b"
+  ],
+  "cards": [
+   "Then control the thoughts|of every race,",
+   "everywhere, and unite all|peoples."
+  ],
+  "reveal_end": 238.7,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 238.7,
+  "end": 243.14,
+  "speaker": "Gillian",
+  "en": "Who's controlling you?",
+  "ps1": "B200_r_45",
+  "cards": [
+   "Who's controlling you?"
+  ],
+  "reveal_end": 242.14,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 243.14,
+  "end": 252.2,
+  "speaker": "Chin",
+  "en": "Like the Nazis, we begin our invasion by terrorizing the human mind.",
+  "ps1": "B200_r_46",
+  "ps1_more": [
+   "B200_r_46b"
+  ],
+  "cards": [
+   "Like the Nazis, we begin|our invasion",
+   "by terrorizing the human|mind."
+  ],
+  "reveal_end": 251.96,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 252.2,
+  "end": 260.44,
+  "speaker": "Chin",
+  "en": "We provoke and amplify doubt, the weakness at the root of the human psyche.",
+  "ps1": "B200_r_46c",
+  "ps1_more": [
+   "B200_r_46d",
+   "B200_r_46e"
+  ],
+  "cards": [
+   "We provoke and amplify|doubt,",
+   "the weakness at the root|of the human psyche."
+  ],
+  "reveal_end": 260.44,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 260.44,
+  "end": 268.2,
+  "speaker": "Chin",
+  "en": "That destroys trust, the foundation of human society.",
+  "ps1": "B200_r_46f",
+  "cards": [
+   "That destroys trust, the|foundation of human society."
+  ],
+  "reveal_end": 266.22,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 268.2,
+  "end": 274.32,
+  "speaker": "Chin",
+  "en": "Doubt is humanity's most primitive, and most fragile, weakness.",
+  "ps1": "B200_r_46g",
+  "ps1_more": [
+   "B200_r_46h"
+  ],
+  "cards": [
+   "Doubt is humanity's most|primitive,",
+   "and most fragile,|weakness."
+  ],
+  "reveal_end": 273.29,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 274.32,
+  "end": 280.66,
+  "speaker": "Chin",
+  "en": "Our plan needs only a gentle touch at that point.",
+  "ps1": "B200_r_46i",
+  "cards": [
+   "Our plan needs only a|gentle touch at that point."
+  ],
+  "reveal_end": 279.22,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 280.66,
+  "end": 284.98,
+  "speaker": "Randam",
+  "en": "We'll all die if this goes on, Gillian.",
+  "ps1": "B200_r_50",
+  "cards": [
+   "We'll all die if this|goes on, Gillian."
+  ],
+  "reveal_end": 284.28,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 284.98,
+  "end": 289.52,
+  "speaker": "Randam",
+  "en": "You have to make it back alive. You're a JUNKER.",
+  "ps1": "B200_r_50b",
+  "cards": [
+   "You have to make it|back alive. You're a JUNKER."
+  ],
+  "reveal_end": 288.76,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 289.52,
+  "end": 291.52,
+  "speaker": "Gillian",
+  "en": "What are you planning, Randam?",
+  "ps1": "B200_r_53",
+  "cards": [
+   "What are you|planning, Randam?"
+  ],
+  "reveal_end": 291.02,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 291.52,
+  "end": 294.56,
+  "speaker": "Randam",
+  "en": "Some big fireworks.",
+  "ps1": "B200_r_54",
+  "cards": [
+   "Some big fireworks."
+  ],
+  "reveal_end": 294.38,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 294.56,
+  "end": 299.1,
+  "speaker": "Gillian",
+  "en": "You'll blow yourself up before you let them snatch you?",
+  "ps1": "B200_r_55",
+  "cards": [
+   "You'll blow yourself|up before you let them snatch you?"
+  ],
+  "reveal_end": 298.42,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 299.1,
+  "end": 301.0,
+  "speaker": "Gillian",
+  "en": "Let's fight them together, Randam!",
+  "ps1": "B200_r_56",
+  "cards": [
+   "Let's fight them|together, Randam!"
+  ],
+  "reveal_end": 300.84,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 301.0,
+  "end": 310.46,
+  "speaker": "Randam",
+  "en": "No. My thigh's been hit. Damn it. A leg wound's fatal for a bounty hunter.",
+  "ps1": "B200_r_57",
+  "ps1_more": [
+   "B200_r_57b"
+  ],
+  "cards": [
+   "No. My thigh's been|hit. Damn it.",
+   "A leg wound's fatal for|a bounty hunter."
+  ],
+  "reveal_end": 309.5,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 310.46,
+  "end": 312.66,
+  "speaker": "Gillian",
+  "en": "Do you have a chance?",
+  "ps1": "B200_r_59",
+  "cards": [
+   "Do you have a chance?"
+  ],
+  "reveal_end": 312.04,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 312.66,
+  "end": 316.62,
+  "speaker": "Randam",
+  "en": "I'm not a bounty hunter for nothing.",
+  "ps1": "B200_r_60",
+  "cards": [
+   "I'm not a bounty hunter|for nothing."
+  ],
+  "reveal_end": 315.68,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 316.62,
+  "end": 325.58,
+  "speaker": "Randam",
+  "en": "I've prepared for situations like this. I've always held on to things.",
+  "ps1": "B200_r_60b",
+  "ps1_more": [
+   "B200_r_60c"
+  ],
+  "cards": [
+   "I've prepared for|situations like this.",
+   "I've always held on to|things."
+  ],
+  "reveal_end": 324.3,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 325.58,
+  "end": 336.82,
+  "speaker": "Randam",
+  "en": "December's late for fireworks. Call it a year-end show.",
+  "ps1": "B200_r_60d",
+  "cards": [
+   "December's late for|fireworks. Call it a year-end show."
+  ],
+  "reveal_end": 334.56,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 336.82,
+  "end": 340.4,
+  "speaker": "Randam",
+  "en": "My belt is packed with TNT-PX.",
+  "ps1": "B200_r_60e",
+  "cards": [
+   "My belt is packed with|TNT-PX."
+  ],
+  "reveal_end": 339.74,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 340.4,
+  "end": 344.2,
+  "speaker": "Randam",
+  "en": "Powerful stuff. They use it in the mines on Mars.",
+  "ps1": "B200_r_60f",
+  "cards": [
+   "Powerful stuff. They|use it in the mines on Mars."
+  ],
+  "reveal_end": 343.78,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 344.2,
+  "end": 354.52,
+  "speaker": "Randam",
+  "en": "One button will blow this hospital sky-high. No time to think. Go, JUNKER!",
+  "ps1": "B200_r_60g",
+  "ps1_more": [
+   "B200_r_60h"
+  ],
+  "cards": [
+   "One button will blow|this hospital sky-high.",
+   "No time to think. Go,|JUNKER!"
+  ],
+  "reveal_end": 352.94,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 354.52,
+  "end": 358.94,
+  "speaker": "Randam",
+  "en": "What are you waiting for, coward? Escape through this vent!",
+  "ps1": "B200_r_60i",
+  "cards": [
+   "What are you waiting|for, coward?",
+   "Escape through this|vent!"
+  ],
+  "reveal_end": 358.52,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 358.94,
+  "end": 362.86,
+  "speaker": "Randam",
+  "en": "I'll set off a powerful flash to confuse their sensors.",
+  "ps1": "B200_r_60j",
+  "cards": [
+   "I'll set off a powerful|flash to confuse their sensors."
+  ],
+  "reveal_end": 362.54,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 362.86,
+  "end": 365.44,
+  "speaker": "Randam",
+  "en": "Use that chance to get as far away as you can.",
+  "ps1": "B200_r_60k",
+  "cards": [
+   "Use that chance to get|as far away as you can."
+  ],
+  "reveal_end": 364.64,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 365.44,
+  "end": 371.42,
+  "speaker": "Randam",
+  "en": "Got it? Watch the fireworks from a distance, Gillian.",
+  "ps1": "B200_r_60l",
+  "cards": [
+   "Got it? Watch the|fireworks from a distance, Gillian."
+  ],
+  "reveal_end": 370.08,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 371.42,
+  "end": 381.08,
+  "speaker": "Chin",
+  "en": "Finished your goodbyes? Then it's time for you to die. We have work to do.",
+  "ps1": "B200_r_74",
+  "ps1_more": [
+   "B200_r_74b"
+  ],
+  "cards": [
+   "Finished your goodbyes?|Then it's time for you to die.",
+   "We have work to do."
+  ],
+  "reveal_end": 380.78,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 381.08,
+  "end": 387.4,
+  "speaker": "Randam",
+  "en": "On my signal, break through the vent and run. Don't forget your Blaster.",
+  "ps1": "B200_r_77",
+  "ps1_more": [
+   "B200_r_77b"
+  ],
+  "cards": [
+   "On my signal, break|through the vent and run.",
+   "Don't forget your|Blaster."
+  ],
+  "reveal_end": 386.48,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 387.4,
+  "end": 388.72,
+  "speaker": "Gillian",
+  "en": "Stay with me, Metal.",
+  "ps1": "B200_r_79",
+  "cards": [
+   "Stay with me, Metal."
+  ],
+  "reveal_end": 388.56,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 388.72,
+  "end": 389.76,
+  "speaker": "Metal Gear",
+  "en": "Yes.",
+  "ps1": "B200_r_80",
+  "cards": [
+   "Yes."
+  ],
+  "reveal_end": 389.18,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 389.76,
+  "end": 391.46,
+  "speaker": "Gillian",
+  "en": "Randam!",
+  "ps1": "B200_r_81",
+  "cards": [
+   "Randam!"
+  ],
+  "reveal_end": 390.9,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 391.46,
+  "end": 398.82,
+  "speaker": "Randam",
+  "en": "Looks like you'll still owe me one, Gillian.",
+  "ps1": "B200_r_82",
+  "cards": [
+   "Looks like you'll still|owe me one, Gillian."
+  ],
+  "reveal_end": 397.54,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 398.82,
+  "end": 404.36,
+  "speaker": "Gillian",
+  "en": "I'll pay them back for both of us.",
+  "ps1": "B200_r_83",
+  "cards": [
+   "I'll pay them back|for both of us."
+  ],
+  "reveal_end": 403.54,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 404.36,
+  "end": 406.12,
+  "speaker": "Randam",
+  "en": "Go!",
+  "ps1": "B200_r_84",
+  "cards": [
+   "Go!"
+  ],
+  "reveal_end": 405.12,
+  "layout": "plain"
+ },
+ {
+  "track": 10,
+  "start": 406.96,
+  "end": 408.54,
+  "speaker": "Randam",
+  "en": "Run, Gillian.",
+  "layout": "plain",
+  "reveal_end": 408.54,
+  "note": "PCE-only line (no PS1 card), translated 2026-10-18",
+  "cards": [
+   "Run, Gillian."
+  ]
+ }
+]

@@ -1,0 +1,152 @@
+{
+ "scene": "B1B0",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B1B0_f8_0",
+   "line": 319,
+   "act": 2,
+   "sector": 1161,
+   "offset": 581,
+   "size": 75137,
+   "b0": 0,
+   "b1": 75137,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Snatchers hate dogs. This can't be their maintenance hospital.",
+   "rows": [
+    "Snatchers hate dogs. This",
+    "can't be their maintenance",
+    "hospital."
+   ],
+   "rows_plain": [
+    "Snatchers hate dogs. This can't be",
+    "their maintenance hospital."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1B0_f9_0",
+   "line": 320,
+   "act": 2,
+   "sector": 1193,
+   "offset": 1350,
+   "size": 51162,
+   "b0": 0,
+   "b1": 51162,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Looks like we got the wrong place. So we're back to square one.",
+   "rows": [
+    "Looks like we got the wrong",
+    "place. So we're back to",
+    "square one."
+   ],
+   "rows_plain": [
+    "Looks like we got the wrong place.",
+    "So we're back to square one."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1B0_f10_0",
+   "line": 321,
+   "act": 2,
+   "sector": 1215,
+   "offset": 1384,
+   "size": 58573,
+   "b0": 0,
+   "b1": 58573,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Don't lose hope. We're just getting started. Let's return to the Tricycle.",
+   "rows": [
+    "Don't lose hope. We're just",
+    "getting started. Let's",
+    "return to the Tricycle."
+   ],
+   "rows_plain": [
+    "Don't lose hope. We're just getting",
+    "started. Let's return to the",
+    "Tricycle."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1B0_f11_0",
+   "line": 322,
+   "act": 2,
+   "sector": 1240,
+   "offset": 1857,
+   "size": 18682,
+   "b0": 0,
+   "b1": 18682,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Oleen Hospital, huh?",
+   "rows": [
+    "Oleen Hospital, huh?"
+   ],
+   "rows_plain": [
+    "Oleen Hospital, huh?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1B0_f12_0",
+   "line": 323,
+   "act": 2,
+   "sector": 1248,
+   "offset": 1947,
+   "size": 25533,
+   "b0": 0,
+   "b1": 25533,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Unfortunately, it seems we were on the wrong track.",
+   "rows": [
+    "Unfortunately, it seems we",
+    "were on the wrong track."
+   ],
+   "rows_plain": [
+    "Unfortunately, it seems we were on",
+    "the wrong track."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1B0_f13_0",
+   "line": 324,
+   "act": 2,
+   "sector": 1259,
+   "offset": 1916,
+   "size": 21967,
+   "b0": 0,
+   "b1": 21967,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Yeah. Let's go, Metal.",
+   "rows": [
+    "Yeah. Let's go, Metal."
+   ],
+   "rows_plain": [
+    "Yeah. Let's go, Metal."
+   ],
+   "enabled": true
+  }
+ ]
+}

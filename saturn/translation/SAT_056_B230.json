@@ -1,0 +1,1516 @@
+{
+ "file": "DATA.BIN[56]",
+ "entry": 56,
+ "text_base": 5681,
+ "twins": [
+  "B230"
+ ],
+ "strings": [
+  {
+   "off": 5682,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 5686,
+   "budget": 13,
+   "en": "Look up.",
+   "src": "B230:5630",
+   "carry": "exact",
+   "long": "Look at the ceiling."
+  },
+  {
+   "off": 5699,
+   "budget": 65,
+   "en": "Arrived at JUNKER HQ.￥Are Mika and Harry safe?",
+   "src": "B230:5643",
+   "carry": "exact",
+   "long": "We've reached JUNKER headquarters. I￥hope Mika and Harry are safe."
+  },
+  {
+   "off": 5764,
+   "budget": 27,
+   "en": "Metal, now we face him!",
+   "src": "B230:5708",
+   "carry": "exact",
+   "long": "Metal, it's time to face him!"
+  },
+  {
+   "off": 5791,
+   "budget": 31,
+   "en": "Gillian, how's your right arm?",
+   "src": "B230:5735",
+   "carry": "exact"
+  },
+  {
+   "off": 5822,
+   "budget": 45,
+   "en": "All right now!￥The nanomachines did well!",
+   "src": "B230:5766",
+   "carry": "exact",
+   "long": "Good as new! Those nanomachines did￥the trick!"
+  },
+  {
+   "off": 5867,
+   "budget": 65,
+   "en": "He's fooled us all this time.￥Not a moment's carelessness!",
+   "src": "B230:5811",
+   "carry": "candidate_ok",
+   "en_candidate": "He's fooled us all this time.￥Not a moment's carelessness!",
+   "sim": 0.86,
+   "long": "He's fooled us all this time. We￥can't let our guard down for a￥moment!"
+  },
+  {
+   "off": 5932,
+   "budget": 61,
+   "en": "I know! I'll finish him with one￥shot! Ready? Let's go!",
+   "src": "B230:5878",
+   "carry": "candidate_ok",
+   "en_candidate": "I know! I'll finish him with one￥shot! Ready? Let's go!",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 5993,
+   "budget": 15,
+   "en": "Front desk.",
+   "src": "B230:5939",
+   "carry": "exact",
+   "long": "This is reception."
+  },
+  {
+   "off": 6008,
+   "budget": 55,
+   "en": "Oh! The reception booth's shutter is￥down.",
+   "src": "B230:5954",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6063,
+   "budget": 33,
+   "en": "Can't the booth be opened?",
+   "src": "B230:6007",
+   "carry": "exact",
+   "long": "Can't we open the booth from￥outside?"
+  },
+  {
+   "off": 6096,
+   "budget": 71,
+   "en": "We can, if there's an ＠赤emergency￥external connector＠白.",
+   "src": "B230:6040",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6167,
+   "budget": 17,
+   "en": "Let's find it!",
+   "src": "B230:6109",
+   "carry": "exact"
+  },
+  {
+   "off": 6184,
+   "budget": 13,
+   "en": "Go inside",
+   "src": "B230:6126",
+   "carry": "exact"
+  },
+  {
+   "off": 6197,
+   "budget": 49,
+   "en": "To get inside HQ, we have to open￥the door.",
+   "src": "B230:6139",
+   "carry": "rebroken",
+   "long": "We need to open the door to get￥inside headquarters.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6246,
+   "budget": 45,
+   "en": "It opens only from the booth.",
+   "src": "B230:6186",
+   "carry": "rebroken",
+   "long": "The door can only be opened from the￥booth.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6291,
+   "budget": 5,
+   "en": "Look",
+   "src": "B230:6229",
+   "carry": "exact"
+  },
+  {
+   "off": 6296,
+   "budget": 7,
+   "en": "Around",
+   "src": "B230:6234",
+   "carry": "exact"
+  },
+  {
+   "off": 6303,
+   "budget": 71,
+   "en": "It looks like someone attacked it.￥The booth's shutter is down.",
+   "src": "B230:6241",
+   "carry": "exact"
+  },
+  {
+   "off": 6374,
+   "budget": 31,
+   "en": "Several energy marks.",
+   "src": "B230:6312",
+   "carry": "exact",
+   "long": "There are several energy blast￥marks."
+  },
+  {
+   "off": 6405,
+   "budget": 21,
+   "en": "Mika's in there!",
+   "src": "B230:6343",
+   "carry": "exact"
+  },
+  {
+   "off": 6426,
+   "budget": 21,
+   "en": "Where's Mika?",
+   "src": "B230:6364",
+   "carry": "exact"
+  },
+  {
+   "off": 6447,
+   "budget": 11,
+   "en": "Shutter",
+   "src": "B230:6385",
+   "carry": "exact"
+  },
+  {
+   "off": 6458,
+   "budget": 51,
+   "en": "This shutter protects the reception￥booth.",
+   "src": "B230:6396",
+   "carry": "candidate_edit",
+   "en_candidate": "This shutter protects the reception￥booth. It closes automatically in an￥emergency.",
+   "sim": 0.58,
+   "note": "the PS1 line's first part; the rest is the next record; re-adapted 2026-09-30: fragment 1/2 of B230:6396"
+  },
+  {
+   "off": 6509,
+   "budget": 59,
+   "en": "It closes automatically in an￥emergency.",
+   "src": "B230:6396",
+   "carry": "candidate_edit",
+   "en_candidate": "This shutter protects the reception￥booth. It closes automatically in an￥emergency.",
+   "sim": 0.73,
+   "note": "part of the PS1 line; re-adapted 2026-09-30: fragment 2/2 of B230:6396"
+  },
+  {
+   "off": 6568,
+   "budget": 65,
+   "en": "It serves as a shield too, so we￥can't see in.",
+   "src": "B230:6495",
+   "carry": "rebroken",
+   "long": "It also acts as a protective shield,￥so we can't see inside while it's￥closed.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6633,
+   "budget": 13,
+   "en": "HQ door",
+   "src": "B230:6558",
+   "carry": "exact"
+  },
+  {
+   "off": 6646,
+   "budget": 37,
+   "en": "The door checker is on emergency!",
+   "src": "B230:6571",
+   "carry": "exact",
+   "long": "The door's security indicator is￥flashing an emergency warning!"
+  },
+  {
+   "off": 6683,
+   "budget": 23,
+   "en": "An emergency alert?",
+   "src": "B230:6608",
+   "carry": "exact"
+  },
+  {
+   "off": 6706,
+   "budget": 7,
+   "en": "Booth",
+   "src": "B230:6631",
+   "carry": "exact"
+  },
+  {
+   "off": 6713,
+   "budget": 51,
+   "en": "The protective shutter is down. We￥can't see inside.",
+   "src": "B230:6638",
+   "carry": "candidate_edit",
+   "en_candidate": "Guard shutter down; no seeing in.",
+   "sim": 0.89,
+   "note": "re-adapted 2026-09-30: new PS1 long"
+  },
+  {
+   "off": 6764,
+   "budget": 21,
+   "en": "I fear for Mika...",
+   "src": "B230:6681",
+   "carry": "exact"
+  },
+  {
+   "off": 6785,
+   "budget": 7,
+   "en": "Check",
+   "src": "B230:6702",
+   "carry": "exact",
+   "long": "Investigate"
+  },
+  {
+   "off": 6792,
+   "budget": 67,
+   "en": "Marks of a Blaster or Cannon on the￥entrance shield.",
+   "src": "B230:6709",
+   "carry": "rebroken",
+   "long": "There are marks on the entrance￥shield from a Blaster or cannon.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6859,
+   "budget": 57,
+   "en": "No movement detected. We're alone￥here.",
+   "src": "B230:6774",
+   "carry": "exact"
+  },
+  {
+   "off": 6916,
+   "budget": 71,
+   "en": "A hole blown in the entrance shield.￥A Blaster or Cannon.",
+   "src": "B230:6831",
+   "carry": "rebroken",
+   "long": "There's a hole in the entrance￥shield, probably from a Blaster or￥cannon.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6987,
+   "budget": 45,
+   "en": "A cannon? Then it was a Snatcher?",
+   "src": "B230:6900",
+   "carry": "exact"
+  },
+  {
+   "off": 7032,
+   "budget": 67,
+   "en": "The shutter has been hit by a￥Blaster or cannon.",
+   "src": "B230:6945",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7099,
+   "budget": 55,
+   "en": "The shots didn't penetrate, but I￥hope Mika's safe.",
+   "src": "B230:7010",
+   "carry": "exact"
+  },
+  {
+   "off": 7154,
+   "budget": 85,
+   "en": "There are energy blast marks on the￥shutter, from a Blaster or cannon.",
+   "src": "B230:7065",
+   "carry": "exact"
+  },
+  {
+   "off": 7239,
+   "budget": 61,
+   "en": "Locked from within.￥It opens only from the booth.",
+   "src": "B230:7150",
+   "carry": "exact",
+   "long": "It's locked from inside. It can only￥be opened from the booth."
+  },
+  {
+   "off": 7300,
+   "budget": 47,
+   "en": "To open the door,￥open the booth first...",
+   "src": "B230:7211",
+   "carry": "exact",
+   "long": "We have to open the booth before we￥can open the door."
+  },
+  {
+   "off": 7347,
+   "budget": 39,
+   "en": "Metal, an external connector!?",
+   "src": "B230:7258",
+   "carry": "exact",
+   "long": "Metal, is there an external￥connector?"
+  },
+  {
+   "off": 7386,
+   "budget": 11,
+   "en": "Ah...",
+   "src": "B230:7297",
+   "carry": "exact"
+  },
+  {
+   "off": 7397,
+   "budget": 87,
+   "en": "An external connector on the booth￥side.￥It will open the shutter.",
+   "src": "B230:7308",
+   "carry": "exact",
+   "long": "There's an emergency external￥connector on the side of the booth.￥We can use it to open the shutter."
+  },
+  {
+   "off": 7484,
+   "budget": 67,
+   "en": "I found the emergency external￥connector. Let's open the shutter.",
+   "src": "B230:7395",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 7551,
+   "budget": 31,
+   "en": "The guard shutter is down.",
+   "src": "B230:7464",
+   "carry": "exact",
+   "long": "The protective shutter is down."
+  },
+  {
+   "off": 7582,
+   "budget": 37,
+   "en": "Movement detected! Someone's inside!",
+   "src": "B230:7495",
+   "carry": "exact"
+  },
+  {
+   "off": 7619,
+   "budget": 53,
+   "en": "Motion readings in the booth.￥Something is there.",
+   "src": "B230:7532",
+   "carry": "exact",
+   "long": "I'm detecting movement in the booth.￥Something is inside."
+  },
+  {
+   "off": 7672,
+   "budget": 17,
+   "en": "Open shutter",
+   "src": "B230:7585",
+   "carry": "exact"
+  },
+  {
+   "off": 7689,
+   "budget": 51,
+   "en": "Connecting to the shutter's￥emergency unit.....",
+   "src": "B230:7602",
+   "carry": "exact",
+   "long": "Connecting to the shutter's￥emergency external connector."
+  },
+  {
+   "off": 7740,
+   "budget": 21,
+   "en": "Lock forced...",
+   "src": "B230:7653",
+   "carry": "exact"
+  },
+  {
+   "off": 7761,
+   "budget": 29,
+   "en": "Opening the shutter.",
+   "src": "B230:7674",
+   "carry": "exact"
+  },
+  {
+   "off": 7790,
+   "budget": 15,
+   "en": "Use Metal Gear",
+   "src": "B230:7703",
+   "carry": "exact"
+  },
+  {
+   "off": 7805,
+   "budget": 11,
+   "en": "Save",
+   "src": "B230:7718",
+   "carry": "exact"
+  },
+  {
+   "off": 7816,
+   "budget": 37,
+   "en": "I'll save our progress so far.",
+   "src": "B230:7729",
+   "carry": "exact"
+  },
+  {
+   "off": 7853,
+   "budget": 19,
+   "en": "The HQ corridor.",
+   "src": "B230:7766",
+   "carry": "exact",
+   "long": "We're in the hallway at￥headquarters."
+  },
+  {
+   "off": 7872,
+   "budget": 27,
+   "en": "Ah!￥Someone is down.",
+   "src": "B230:7785",
+   "carry": "exact",
+   "long": "Oh! Someone's lying on the floor."
+  },
+  {
+   "off": 7899,
+   "budget": 33,
+   "en": "That hat! Harry?＠Ｃ",
+   "src": "B230:7812",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7932,
+   "budget": 19,
+   "en": "Where shall we go?",
+   "src": "B230:7843",
+   "carry": "exact"
+  },
+  {
+   "off": 7951,
+   "budget": 7,
+   "en": "Chief",
+   "src": "B230:7862",
+   "carry": "exact",
+   "long": "Chief's room"
+  },
+  {
+   "off": 7958,
+   "budget": 13,
+   "en": "Mechanic rm",
+   "src": "B230:7869",
+   "carry": "exact",
+   "long": "Mechanic room"
+  },
+  {
+   "off": 7971,
+   "budget": 9,
+   "en": "Squad rm",
+   "src": "B230:7882",
+   "carry": "exact",
+   "long": "Squad room"
+  },
+  {
+   "off": 7980,
+   "budget": 7,
+   "en": "Range",
+   "src": "B230:7891",
+   "carry": "exact",
+   "long": "Shooting range"
+  },
+  {
+   "off": 7987,
+   "budget": 15,
+   "en": "Computer room",
+   "src": "B230:7898",
+   "carry": "exact"
+  },
+  {
+   "off": 8002,
+   "budget": 9,
+   "en": "Front",
+   "src": "B230:7913",
+   "carry": "exact",
+   "long": "Front desk"
+  },
+  {
+   "off": 8011,
+   "budget": 33,
+   "en": "Should we check reception?",
+   "src": "B230:7922",
+   "carry": "exact"
+  },
+  {
+   "off": 8044,
+   "budget": 17,
+   "en": "Reception?",
+   "src": "B230:7955",
+   "carry": "exact"
+  },
+  {
+   "off": 8061,
+   "budget": 23,
+   "en": "It's possible.",
+   "src": "B230:7972",
+   "carry": "exact"
+  },
+  {
+   "off": 8084,
+   "budget": 43,
+   "en": "But we definitely closed the shield.",
+   "src": "B230:7995",
+   "carry": "candidate_ok",
+   "en_candidate": "But we definitely closed the shield.",
+   "sim": 0.95
+  },
+  {
+   "off": 8127,
+   "budget": 53,
+   "en": "We've searched the rest.￥To be sure... let's go!",
+   "src": "B230:8038",
+   "carry": "exact",
+   "long": "We've searched everywhere else.￥Let's go, just to be sure!"
+  },
+  {
+   "off": 8180,
+   "budget": 5,
+   "en": "Hall",
+   "src": "B230:8091",
+   "carry": "exact",
+   "long": "Hallway"
+  },
+  {
+   "off": 8185,
+   "budget": 17,
+   "en": "The HQ corridor.",
+   "src": "B230:8096",
+   "carry": "exact",
+   "long": "This is the hallway at headquarters."
+  },
+  {
+   "off": 8202,
+   "budget": 25,
+   "en": "Damn!￥Where is he?",
+   "src": "B230:8113",
+   "carry": "exact",
+   "long": "Damn it! Where's he hiding?"
+  },
+  {
+   "off": 8227,
+   "budget": 37,
+   "en": "He can't leave the HQ, but...",
+   "src": "B230:8138",
+   "carry": "exact",
+   "long": "He shouldn't be able to leave￥headquarters."
+  },
+  {
+   "off": 8264,
+   "budget": 35,
+   "en": "There must be a room unsearched!",
+   "src": "B230:8175",
+   "carry": "exact",
+   "long": "There must be a room we haven't￥searched!"
+  },
+  {
+   "off": 8299,
+   "budget": 29,
+   "en": "Where? ...Where is he!",
+   "src": "B230:8210",
+   "carry": "rebroken",
+   "long": "Where is he? Where are you?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8328,
+   "budget": 41,
+   "en": "Isn't there a room we haven't￥searched?",
+   "src": "B230:8237",
+   "carry": "candidate_ok",
+   "en_candidate": "Isn't there a room we haven't￥searched?",
+   "sim": 0.98
+  },
+  {
+   "off": 8369,
+   "budget": 35,
+   "en": "He wouldn't go outside the HQ?",
+   "src": "B230:8280",
+   "carry": "exact",
+   "long": "He can't get out of headquarters,￥can he?"
+  },
+  {
+   "off": 8404,
+   "budget": 55,
+   "en": "I've searched every room.￥Where has he hidden!?",
+   "src": "B230:8315",
+   "carry": "exact",
+   "long": "We've searched every room! Where the￥hell is he hiding?"
+  },
+  {
+   "off": 8459,
+   "budget": 37,
+   "en": "Let's search each room again.",
+   "src": "B230:8370",
+   "carry": "exact"
+  },
+  {
+   "off": 8496,
+   "budget": 21,
+   "en": "Where did he go?",
+   "src": "B230:8407",
+   "carry": "exact"
+  },
+  {
+   "off": 8517,
+   "budget": 37,
+   "en": "Anyway, he's in this HQ.",
+   "src": "B230:8428",
+   "carry": "exact",
+   "long": "He must still be somewhere in￥headquarters."
+  },
+  {
+   "off": 8554,
+   "budget": 5,
+   "en": "Move",
+   "src": "B230:8465",
+   "carry": "exact"
+  },
+  {
+   "off": 8559,
+   "budget": 29,
+   "en": "Harry is lying on the floor.",
+   "src": "B230:8470",
+   "carry": "exact"
+  },
+  {
+   "off": 8588,
+   "budget": 29,
+   "en": "Only Harry's body is here.",
+   "src": "B230:8499",
+   "carry": "exact"
+  },
+  {
+   "off": 8617,
+   "budget": 69,
+   "en": "Wait here a little longer, old man.￥I'll go finish him.",
+   "src": "B230:8528",
+   "carry": "exact"
+  },
+  {
+   "off": 8686,
+   "budget": 69,
+   "en": "Nothing amiss with Harry's body. No￥sign of anyone touching it.",
+   "src": "B230:8597",
+   "carry": "exact",
+   "long": "There's nothing unusual about￥Harry's body. No sign that anyone￥has touched it."
+  },
+  {
+   "off": 8755,
+   "budget": 29,
+   "en": "The scene is as before.",
+   "src": "B230:8666",
+   "carry": "exact",
+   "long": "The scene is just as we left it."
+  },
+  {
+   "off": 8784,
+   "budget": 5,
+   "en": "Find",
+   "src": "B230:8695",
+   "carry": "exact",
+   "long": "Search"
+  },
+  {
+   "off": 8789,
+   "budget": 33,
+   "en": "Snatcher, where did he go!?",
+   "src": "B230:8700",
+   "carry": "exact",
+   "long": "Where did that Snatcher disappear￥to?"
+  },
+  {
+   "off": 8822,
+   "budget": 35,
+   "en": "Odd. He must be in the HQ!",
+   "src": "B230:8733",
+   "carry": "exact",
+   "long": "This doesn't make sense. He has to￥be in headquarters!"
+  },
+  {
+   "off": 8857,
+   "budget": 9,
+   "en": "Motion",
+   "src": "B230:8768",
+   "carry": "exact",
+   "long": "Motion detector"
+  },
+  {
+   "off": 8866,
+   "budget": 23,
+   "en": "Any readings here?",
+   "src": "B230:8777",
+   "carry": "exact",
+   "long": "Any movement in this hallway?"
+  },
+  {
+   "off": 8889,
+   "budget": 83,
+   "en": "The Snatcher doesn't seem to be in￥here. Let's search another room.",
+   "src": "B230:8800",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8972,
+   "budget": 55,
+   "en": "This doesn't seem to be the room.￥Let's try another.",
+   "src": "B230:8881",
+   "carry": "exact"
+  },
+  {
+   "off": 9027,
+   "budget": 51,
+   "en": "He knows every inch of headquarters.",
+   "src": "B230:8936",
+   "carry": "exact"
+  },
+  {
+   "off": 9078,
+   "budget": 25,
+   "en": "It's the Mechanic room.",
+   "src": "B230:8987",
+   "carry": "exact",
+   "long": "This is the Mechanic room."
+  },
+  {
+   "off": 9103,
+   "budget": 13,
+   "en": "Behind it",
+   "src": "B230:9012",
+   "carry": "exact",
+   "long": "Behind worktable"
+  },
+  {
+   "off": 9116,
+   "budget": 49,
+   "en": "The only hiding place in this room?",
+   "src": "B230:9025",
+   "carry": "rebroken",
+   "long": "This is about the only hiding place￥in here, isn't it?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9165,
+   "budget": 11,
+   "en": "Under it",
+   "src": "B230:9072",
+   "carry": "exact",
+   "long": "Under worktable"
+  },
+  {
+   "off": 9176,
+   "budget": 7,
+   "en": "Desk",
+   "src": "B230:9083",
+   "carry": "exact",
+   "long": "Under desk"
+  },
+  {
+   "off": 9183,
+   "budget": 5,
+   "en": "Bld.",
+   "src": "B230:9090",
+   "carry": "exact",
+   "long": "Bloodstain"
+  },
+  {
+   "off": 9188,
+   "budget": 33,
+   "en": "Readings in the mechanic room?",
+   "src": "B230:9095",
+   "carry": "exact",
+   "long": "Any movement in the Mechanic room?"
+  },
+  {
+   "off": 9221,
+   "budget": 27,
+   "en": "This is the Computer room.",
+   "src": "B230:9128",
+   "carry": "exact"
+  },
+  {
+   "off": 9248,
+   "budget": 9,
+   "en": "Behind",
+   "src": "B230:9155",
+   "carry": "exact",
+   "long": "Behind terminal"
+  },
+  {
+   "off": 9257,
+   "budget": 35,
+   "en": "Any movement in the Computer room?",
+   "src": "B230:9164",
+   "carry": "exact"
+  },
+  {
+   "off": 9292,
+   "budget": 13,
+   "en": "Use Gaudi",
+   "src": "B230:9199",
+   "carry": "exact"
+  },
+  {
+   "off": 9305,
+   "budget": 69,
+   "en": "Gillian, I'm removing the Use Gaudi￥command.",
+   "src": "B230:9212",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9374,
+   "budget": 15,
+   "en": "Squad room.",
+   "src": "B230:9279",
+   "carry": "exact",
+   "long": "This is the Squad room."
+  },
+  {
+   "off": 9389,
+   "budget": 13,
+   "en": "In locker",
+   "src": "B230:9294",
+   "carry": "exact",
+   "long": "In the locker"
+  },
+  {
+   "off": 9402,
+   "budget": 29,
+   "en": "I'll check the lockers.",
+   "src": "B230:9307",
+   "carry": "exact"
+  },
+  {
+   "off": 9431,
+   "budget": 33,
+   "en": "No luck. Nobody inside.",
+   "src": "B230:9336",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9464,
+   "budget": 17,
+   "en": "Again?",
+   "src": "B230:9367",
+   "carry": "exact"
+  },
+  {
+   "off": 9481,
+   "budget": 19,
+   "en": "To be sure.....",
+   "src": "B230:9384",
+   "carry": "exact"
+  },
+  {
+   "off": 9500,
+   "budget": 35,
+   "en": "The Snatcher isn't in here.",
+   "src": "B230:9403",
+   "carry": "exact"
+  },
+  {
+   "off": 9535,
+   "budget": 13,
+   "en": "Gibson's",
+   "src": "B230:9438",
+   "carry": "exact",
+   "long": "Under Gibson's desk"
+  },
+  {
+   "off": 9548,
+   "budget": 11,
+   "en": "Gillian's",
+   "src": "B230:9451",
+   "carry": "exact",
+   "long": "Under Gillian's desk"
+  },
+  {
+   "off": 9559,
+   "budget": 23,
+   "en": "Squad room readings?",
+   "src": "B230:9462",
+   "carry": "exact",
+   "long": "Any movement in the Squad room?"
+  },
+  {
+   "off": 9582,
+   "budget": 17,
+   "en": "Shooting range.",
+   "src": "B230:9485",
+   "carry": "exact",
+   "long": "This is the shooting range."
+  },
+  {
+   "off": 9599,
+   "budget": 11,
+   "en": "Behind",
+   "src": "B230:9502",
+   "carry": "exact",
+   "long": "Behind booth"
+  },
+  {
+   "off": 9610,
+   "budget": 35,
+   "en": "A likely place to hide.",
+   "src": "B230:9513",
+   "carry": "exact",
+   "long": "This looks like a likely hiding￥place."
+  },
+  {
+   "off": 9645,
+   "budget": 11,
+   "en": "Inside",
+   "src": "B230:9548",
+   "carry": "exact",
+   "long": "Inside booth"
+  },
+  {
+   "off": 9656,
+   "budget": 11,
+   "en": "Booth top",
+   "src": "B230:9559",
+   "carry": "exact",
+   "long": "Top of the booth"
+  },
+  {
+   "off": 9667,
+   "budget": 25,
+   "en": "Range readings?",
+   "src": "B230:9570",
+   "carry": "exact",
+   "long": "Any movement in the shooting range?"
+  },
+  {
+   "off": 9692,
+   "budget": 9,
+   "en": "Train",
+   "src": "B230:9595",
+   "carry": "exact"
+  },
+  {
+   "off": 9701,
+   "budget": 19,
+   "en": "Shooting drill?",
+   "src": "B230:9604",
+   "carry": "exact",
+   "long": "How about some target practice?"
+  },
+  {
+   "off": 9720,
+   "budget": 65,
+   "en": "Gillian, I'm removing the Train￥command.",
+   "src": "B230:9623",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9785,
+   "budget": 13,
+   "en": "Chief's rm.",
+   "src": "B230:9686",
+   "carry": "exact",
+   "long": "This is the chief's office."
+  },
+  {
+   "off": 9798,
+   "budget": 21,
+   "en": "In the Chief's room.",
+   "src": "B230:9699",
+   "carry": "exact",
+   "long": "We've entered the chief's office."
+  },
+  {
+   "off": 9819,
+   "budget": 35,
+   "en": "Hm? There's something on the desk.",
+   "src": "B230:9720",
+   "carry": "exact",
+   "long": "What's that? There's something on￥the desk."
+  },
+  {
+   "off": 9854,
+   "budget": 9,
+   "en": "Huh?",
+   "src": "B230:9755",
+   "carry": "exact"
+  },
+  {
+   "off": 9863,
+   "budget": 37,
+   "en": "Chief's room.￥Blood on the desk.",
+   "src": "B230:9764",
+   "carry": "exact",
+   "long": "This is the chief's office. There's￥blood on the desk."
+  },
+  {
+   "off": 9900,
+   "budget": 45,
+   "en": "Chief's room.￥...Something on the desk.",
+   "src": "B230:9801",
+   "carry": "exact",
+   "long": "This is the chief's office. There's￥something on the desk."
+  },
+  {
+   "off": 9945,
+   "budget": 25,
+   "en": "Check the ceiling?",
+   "src": "B230:9846",
+   "carry": "exact",
+   "long": "Aren't you going to check the￥ceiling?"
+  },
+  {
+   "off": 9970,
+   "budget": 29,
+   "en": "Find the cause of it?",
+   "src": "B230:9871",
+   "carry": "exact",
+   "long": "Let's find out where this blood came￥from."
+  },
+  {
+   "off": 9999,
+   "budget": 59,
+   "en": "Gillian, something's wrong in here.￥Let's investigate.",
+   "src": "B230:9900",
+   "carry": "exact"
+  },
+  {
+   "off": 10058,
+   "budget": 33,
+   "en": "Don't you find this room odd?",
+   "src": "B230:9959",
+   "carry": "exact",
+   "long": "Don't you think there's something￥suspicious about this room?"
+  },
+  {
+   "off": 10091,
+   "budget": 3,
+   "en": "De",
+   "src": "B230:9992",
+   "carry": "exact",
+   "long": "Desk"
+  },
+  {
+   "off": 10094,
+   "budget": 35,
+   "en": "There's a stain on the desk.",
+   "src": "B230:9995",
+   "carry": "exact"
+  },
+  {
+   "off": 10129,
+   "budget": 31,
+   "en": "The stain keeps spreading.",
+   "src": "B230:10030",
+   "carry": "exact"
+  },
+  {
+   "off": 10160,
+   "budget": 11,
+   "en": "Desk stain",
+   "src": "B230:10061",
+   "carry": "exact",
+   "long": "Stain on desk"
+  },
+  {
+   "off": 10171,
+   "budget": 23,
+   "en": "It's blood!",
+   "src": "B230:10072",
+   "carry": "exact"
+  },
+  {
+   "off": 10194,
+   "budget": 31,
+   "en": "Blood is pooling on the desk.",
+   "src": "B230:10095",
+   "carry": "exact"
+  },
+  {
+   "off": 10225,
+   "budget": 5,
+   "en": "Roof",
+   "src": "B230:10126",
+   "carry": "exact"
+  },
+  {
+   "off": 10230,
+   "budget": 31,
+   "en": "Let's look at the ceiling.",
+   "src": "B230:10131",
+   "carry": "exact"
+  },
+  {
+   "off": 10261,
+   "budget": 19,
+   "en": "Cunningham!＠Ｃ",
+   "src": "B230:10162",
+   "carry": "exact"
+  },
+  {
+   "off": 10280,
+   "budget": 41,
+   "en": "That stain wasn't here a moment ago!",
+   "src": "B230:10181",
+   "carry": "candidate_ok",
+   "en_candidate": "That stain wasn't here a moment ago!",
+   "sim": 0.98
+  },
+  {
+   "off": 10321,
+   "budget": 41,
+   "en": "That stain wasn't here before.",
+   "src": "B230:10224",
+   "carry": "exact"
+  },
+  {
+   "off": 10362,
+   "budget": 37,
+   "en": "Blood drips from the ceiling.",
+   "src": "B230:10265",
+   "carry": "exact",
+   "long": "Blood seems to be dripping from the￥ceiling."
+  },
+  {
+   "off": 10399,
+   "budget": 45,
+   "en": "So...￥the blood drips from the ceiling.",
+   "src": "B230:10302",
+   "carry": "exact",
+   "long": "Yes, the blood seems to be dripping￥from the ceiling."
+  },
+  {
+   "off": 10444,
+   "budget": 33,
+   "en": "Let's examine the ceiling.",
+   "src": "B230:10347",
+   "carry": "exact"
+  },
+  {
+   "off": 10477,
+   "budget": 7,
+   "en": "Window",
+   "src": "B230:10380",
+   "carry": "exact",
+   "long": "Outside window"
+  },
+  {
+   "off": 10484,
+   "budget": 23,
+   "en": "Surely not here?",
+   "src": "B230:10387",
+   "carry": "exact",
+   "long": "He couldn't be hiding here, could￥he?"
+  },
+  {
+   "off": 10507,
+   "budget": 11,
+   "en": "Under sofa",
+   "src": "B230:10410",
+   "carry": "exact",
+   "long": "Under the sofa"
+  },
+  {
+   "off": 10518,
+   "budget": 39,
+   "en": "The Snatcher's blood leads outside.",
+   "src": "B230:10421",
+   "carry": "exact",
+   "long": "The Snatcher's blood trail leads￥outside."
+  },
+  {
+   "off": 10557,
+   "budget": 29,
+   "en": "No new bloodstains found.",
+   "src": "B230:10460",
+   "carry": "exact",
+   "long": "I can't find any new bloodstains."
+  },
+  {
+   "off": 10586,
+   "budget": 33,
+   "en": "All right. I'll check.",
+   "src": "B230:10489",
+   "carry": "exact"
+  },
+  {
+   "off": 10619,
+   "budget": 39,
+   "en": "I'll check now. Be careful.",
+   "src": "B230:10522",
+   "carry": "exact"
+  },
+  {
+   "off": 10658,
+   "budget": 37,
+   "en": "I'll check it. Ready?",
+   "src": "B230:10561",
+   "carry": "exact"
+  },
+  {
+   "off": 10695,
+   "budget": 33,
+   "en": "No luck. Nothing there.",
+   "src": "B230:10598",
+   "carry": "exact"
+  },
+  {
+   "off": 10728,
+   "budget": 25,
+   "en": "So... not there.",
+   "src": "B230:10631",
+   "carry": "exact",
+   "long": "As I thought. He's not here."
+  },
+  {
+   "off": 10753,
+   "budget": 43,
+   "en": "Oh! No, there's nothing there.",
+   "src": "B230:10656",
+   "carry": "exact"
+  },
+  {
+   "off": 10796,
+   "budget": 25,
+   "en": "He's not here.",
+   "src": "B230:10699",
+   "carry": "exact"
+  },
+  {
+   "off": 10821,
+   "budget": 31,
+   "en": "We already checked there.",
+   "src": "B230:10724",
+   "carry": "exact"
+  },
+  {
+   "off": 10852,
+   "budget": 27,
+   "en": "He wasn't there.",
+   "src": "B230:10755",
+   "carry": "exact"
+  },
+  {
+   "off": 10879,
+   "budget": 33,
+   "en": "I'll look, just to be sure.",
+   "src": "B230:10782",
+   "carry": "exact"
+  },
+  {
+   "off": 10912,
+   "budget": 27,
+   "en": "I'll take another look.",
+   "src": "B230:10815",
+   "carry": "exact"
+  },
+  {
+   "off": 10939,
+   "budget": 37,
+   "en": "No sign of the Snatcher.",
+   "src": "B230:10842",
+   "carry": "exact"
+  },
+  {
+   "off": 10976,
+   "budget": 41,
+   "en": "...No trace of the Snatcher either.",
+   "src": "B230:10879",
+   "carry": "candidate_ok",
+   "en_candidate": "...No trace of the Snatcher either.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "I can't find any trace of the￥Snatcher, either."
+  },
+  {
+   "off": 11017,
+   "budget": 41,
+   "en": "There's no sign of the Snatcher￥here.",
+   "src": "B230:10922",
+   "carry": "candidate_ok",
+   "en_candidate": "There's no sign of the Snatcher￥here.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 11058,
+   "budget": 31,
+   "en": "No bloodstain anywhere.",
+   "src": "B230:10965",
+   "carry": "exact",
+   "long": "I don't see any bloodstains￥anywhere."
+  },
+  {
+   "off": 11089,
+   "budget": 33,
+   "en": "No bloodstain found.",
+   "src": "B230:10996",
+   "carry": "candidate_ok",
+   "en_candidate": "No bloodstain found.",
+   "sim": 0.97,
+   "long": "I can't find anything that looks￥like blood."
+  },
+  {
+   "off": 11122,
+   "budget": 43,
+   "en": "No. Nothing that looks like blood.",
+   "src": "B230:11027",
+   "carry": "exact"
+  },
+  {
+   "off": 11165,
+   "budget": 53,
+   "en": "He's wounded. There must be blood￥somewhere.",
+   "src": "B230:11070",
+   "carry": "exact"
+  },
+  {
+   "off": 11218,
+   "budget": 45,
+   "en": "That's strange. I'm sure I hit him.",
+   "src": "B230:11123",
+   "carry": "exact"
+  },
+  {
+   "off": 11263,
+   "budget": 29,
+   "en": "He's not here anymore.",
+   "src": "B230:11168",
+   "carry": "exact"
+  },
+  {
+   "off": 11292,
+   "budget": 29,
+   "en": "He's not in this room.",
+   "src": "B230:11197",
+   "carry": "exact"
+  },
+  {
+   "off": 11321,
+   "budget": 29,
+   "en": "The Snatcher is elsewhere.",
+   "src": "B230:11226",
+   "carry": "exact",
+   "long": "The Snatcher is in another room."
+  },
+  {
+   "off": 11350,
+   "budget": 29,
+   "en": "Same however often I look...",
+   "src": "B230:11255",
+   "carry": "exact",
+   "long": "Checking again won't change￥anything."
+  },
+  {
+   "off": 11379,
+   "budget": 21,
+   "en": "Same result...",
+   "src": "B230:11284",
+   "carry": "exact"
+  },
+  {
+   "off": 11400,
+   "budget": 55,
+   "en": "No movement detected. We appear to￥be alone.",
+   "src": "B230:11305",
+   "carry": "exact"
+  },
+  {
+   "off": 11455,
+   "budget": 33,
+   "en": "No motion readings but ours.",
+   "src": "B230:11360",
+   "carry": "exact",
+   "long": "I detect no movement except our own."
+  },
+  {
+   "off": 11488,
+   "budget": 23,
+   "en": "No movement detected.",
+   "src": "B230:11393",
+   "carry": "exact"
+  },
+  {
+   "off": 11511,
+   "budget": 59,
+   "en": "Nothing is moving except the ceiling￥fan.",
+   "src": "B230:11416",
+   "carry": "exact"
+  },
+  {
+   "off": 11570,
+   "budget": 61,
+   "en": "At a time like this? Let's find the￥chief! The Snatcher!",
+   "src": "B230:11475",
+   "carry": "exact"
+  },
+  {
+   "off": 11631,
+   "budget": 63,
+   "en": "There's no time! We have to find the￥Snatcher, quickly!",
+   "src": "B230:11536",
+   "carry": "exact"
+  },
+  {
+   "off": 11694,
+   "budget": 49,
+   "en": "Shouldn't finding the Snatcher come￥first?",
+   "src": "B230:11599",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11743,
+   "budget": 35,
+   "en": "Record the case so far?",
+   "src": "B230:11646",
+   "carry": "exact",
+   "long": "Would you like to record our￥progress so far?"
+  },
+  {
+   "off": 11778,
+   "budget": 41,
+   "en": "I'll save our progress so far.",
+   "src": "B230:11681",
+   "carry": "exact"
+  },
+  {
+   "off": 11819,
+   "budget": 13,
+   "en": "Don't save",
+   "src": "B230:11722",
+   "carry": "exact"
+  },
+  {
+   "off": 11832,
+   "budget": 13,
+   "en": "Continue",
+   "src": "B230:11735",
+   "carry": "exact"
+  },
+  {
+   "off": 11845,
+   "budget": 31,
+   "en": "Resuming the investigation.",
+   "src": "B230:11748",
+   "carry": "exact"
+  },
+  {
+   "off": 11876,
+   "budget": 13,
+   "en": "Quit game",
+   "src": "B230:11779",
+   "carry": "exact"
+  },
+  {
+   "off": 11889,
+   "budget": 33,
+   "en": "Ending the investigation.",
+   "src": "B230:11792",
+   "carry": "exact"
+  },
+  {
+   "off": 11924,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

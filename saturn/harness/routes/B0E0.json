@@ -1,0 +1,76 @@
+{
+ "scene": "B0E0",
+ "note": "Joy Division from the B080_front bookmark: the tricycle to Joy Division, then the PS1's B0E0 sweeps (the food stand: sniff, check, eat; the store: look at the wall, buy a mask; the fortune teller).",
+ "actions": [
+  {
+   "path": [
+    "Move|Go out|Board Tricycle",
+    "Board Tricycle|Tricycle|Front"
+   ],
+   "patience": 4000,
+   "optional": true
+  },
+  {
+   "path": [
+    "Board Tricycle|Tricycle"
+   ],
+   "optional": true,
+   "patience": 2000
+  },
+  {
+   "path": [
+    "Joy Division"
+   ],
+   "patience": 4000
+  },
+  {
+   "idle": 600
+  },
+  {
+   "wait_menu": true,
+   "patience": 12000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true,
+   "patience": 4000
+  },
+  {
+   "save": "B0E0_start"
+  },
+  {
+   "sweep": [
+    "Sniff",
+    "Investigate",
+    "Sniff",
+    "Eat",
+    "Look",
+    "Listen",
+    "Talk",
+    "Ask"
+   ],
+   "rounds": 3
+  },
+  {
+   "save": "B0E0_street"
+  },
+  {
+   "sweep": [
+    "Move"
+   ],
+   "each": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Ask",
+    "Buy",
+    "Sniff",
+    "Eat"
+   ],
+   "each_rounds": 2,
+   "rounds": 2
+  }
+ ]
+}

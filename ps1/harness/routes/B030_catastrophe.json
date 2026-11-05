@@ -1,0 +1,96 @@
+{
+ "scene": "B150",
+ "note": "wordwrap check (#14): read the Catastrophe entry on Gaudi's 14-cell terminal",
+ "actions": [
+  {
+   "path": [
+    "Move",
+    "Computer room"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Use Gaudi",
+    "Use card"
+   ],
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Load fact file",
+    "History"
+   ],
+   "patience": 2000
+  },
+  {
+   "path": [
+    "The Catastrophe|Ruin"
+   ],
+   "patience": 2000
+  },
+  {
+   "idle": 150
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 150
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 150
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 150
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 150
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 150
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 150
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 150
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 150
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 150
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 150
+  }
+ ]
+}

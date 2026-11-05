@@ -1,0 +1,2341 @@
+{
+ "file": "ISZ_B1A0.BIN",
+ "text_base": 6003,
+ "strings": [
+  {
+   "off": 6003,
+   "budget": 3,
+   "en": ""
+  },
+  {
+   "off": 6006,
+   "budget": 2,
+   "en": ""
+  },
+  {
+   "off": 6008,
+   "budget": 37,
+   "en": "Gillian, your apartment block.",
+   "long": "We're outside your apartment￥building, Gillian."
+  },
+  {
+   "off": 6045,
+   "budget": 47,
+   "en": "Perhaps the fortune teller was￥right?"
+  },
+  {
+   "off": 6092,
+   "budget": 21,
+   "en": "I hope so."
+  },
+  {
+   "off": 6113,
+   "budget": 5,
+   "en": "Move"
+  },
+  {
+   "off": 6118,
+   "budget": 9,
+   "en": "Get in",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 6127,
+   "budget": 43,
+   "en": "Are you leaving already, Gillian?"
+  },
+  {
+   "off": 6170,
+   "budget": 49,
+   "en": "Let's catch whoever broke into your￥apartment."
+  },
+  {
+   "off": 6219,
+   "budget": 9,
+   "en": "Go in",
+   "long": "Go inside"
+  },
+  {
+   "off": 6228,
+   "budget": 29,
+   "en": "I'll open the door. Ready?"
+  },
+  {
+   "off": 6257,
+   "budget": 29,
+   "en": "Ready! Open it!"
+  },
+  {
+   "off": 6286,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 6291,
+   "budget": 11,
+   "en": "Apartments"
+  },
+  {
+   "off": 6302,
+   "budget": 79,
+   "en": "Gillian's flats, no mistake.￥Your window shows from here.",
+   "long": "This is definitely your building,￥Gillian. We can see your apartment￥window from here."
+  },
+  {
+   "off": 6381,
+   "budget": 41,
+   "en": "The flat the government gave you.",
+   "long": "It's the apartment the government￥provided for you."
+  },
+  {
+   "off": 6422,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 6429,
+   "budget": 45,
+   "en": "There aren't many people out at this￥hour."
+  },
+  {
+   "off": 6474,
+   "budget": 29,
+   "en": "No odd cars on the road.",
+   "long": "No suspicious vehicles on the￥street, either."
+  },
+  {
+   "off": 6503,
+   "budget": 15,
+   "en": "Gillian's room"
+  },
+  {
+   "off": 6518,
+   "budget": 57,
+   "en": "Hard to see from here, but￥a light is certainly on.",
+   "long": "It's hard to see from here, but the￥light is definitely on."
+  },
+  {
+   "off": 6575,
+   "budget": 27,
+   "en": "Could it be Catherine?"
+  },
+  {
+   "off": 6602,
+   "budget": 77,
+   "en": "Stay alert. The Snatchers may have￥followed us."
+  },
+  {
+   "off": 6679,
+   "budget": 25,
+   "en": "Someone is in the room.",
+   "long": "Someone seems to be in your￥apartment."
+  },
+  {
+   "off": 6704,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 6711,
+   "budget": 59,
+   "en": "The security system is on. No sign￥of anything unusual."
+  },
+  {
+   "off": 6770,
+   "budget": 35,
+   "en": "Nothing tripped the guard system?",
+   "long": "How did they get past the security￥system?"
+  },
+  {
+   "off": 6805,
+   "budget": 35,
+   "en": "I don't see any unusual traces."
+  },
+  {
+   "off": 6840,
+   "budget": 49,
+   "en": "No suspicious person or motion￥about.",
+   "long": "No suspicious people or movement￥detected nearby."
+  },
+  {
+   "off": 6889,
+   "budget": 67,
+   "en": "I can't limit the motion sensor's￥range to your apartment alone."
+  },
+  {
+   "off": 6956,
+   "budget": 27,
+   "en": "The infrared sensor, then?",
+   "long": "What about the infrared sensor?"
+  },
+  {
+   "off": 6983,
+   "budget": 53,
+   "en": "Nothing. No one seems to be near the￥window."
+  },
+  {
+   "off": 7036,
+   "budget": 37,
+   "en": "I can't check from here."
+  },
+  {
+   "off": 7073,
+   "budget": 3,
+   "en": "Dr",
+   "long": "Door"
+  },
+  {
+   "off": 7076,
+   "budget": 47,
+   "en": "Metal, check my apartment door from￥here."
+  },
+  {
+   "off": 7123,
+   "budget": 57,
+   "en": "Understood.￥Entering the block's security.",
+   "long": "Understood. I'll access the￥building's security system."
+  },
+  {
+   "off": 7180,
+   "budget": 33,
+   "en": "The door isn't locked, Gillian."
+  },
+  {
+   "off": 7213,
+   "budget": 29,
+   "en": "No sign of forcing either.",
+   "long": "There are no signs of forced entry."
+  },
+  {
+   "off": 7242,
+   "budget": 49,
+   "en": "What?! I'm sure I locked it!"
+  },
+  {
+   "off": 7291,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 7296,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 7311,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 7322,
+   "budget": 37,
+   "en": "I'll save our progress so far."
+  },
+  {
+   "off": 7359,
+   "budget": 25,
+   "en": "Gillian's living room.",
+   "long": "Your living room, Gillian.＠Ｃ"
+  },
+  {
+   "off": 7384,
+   "budget": 11,
+   "en": "Enter bath"
+  },
+  {
+   "off": 7395,
+   "budget": 33,
+   "en": "Let's search this room first."
+  },
+  {
+   "off": 7428,
+   "budget": 57,
+   "en": "Don't rush, Gillian.￥After we search this room.",
+   "long": "Don't rush, Gillian. We need to￥search this room first."
+  },
+  {
+   "off": 7485,
+   "budget": 89,
+   "en": "If an enemy broke in, they may have￥set a trap."
+  },
+  {
+   "off": 7574,
+   "budget": 9,
+   "en": "Go out"
+  },
+  {
+   "off": 7583,
+   "budget": 5,
+   "en": "Room",
+   "long": "Inside"
+  },
+  {
+   "off": 7588,
+   "budget": 33,
+   "en": "Nobody seems to be in this room."
+  },
+  {
+   "off": 7621,
+   "budget": 61,
+   "en": "There's no one here, and nowhere to￥hide."
+  },
+  {
+   "off": 7682,
+   "budget": 51,
+   "en": "Odd...￥chairs and things sit a little￥off.",
+   "long": "Strange. The chair and a few small￥things have been moved."
+  },
+  {
+   "off": 7733,
+   "budget": 43,
+   "en": "Traces of things being moved...",
+   "long": "The chair and some small objects￥have clearly been moved."
+  },
+  {
+   "off": 7776,
+   "budget": 3,
+   "en": "Fl",
+   "long": "Floor"
+  },
+  {
+   "off": 7779,
+   "budget": 41,
+   "en": "Faint footprints on the carpet.",
+   "long": "There are faint footprints in the￥carpet."
+  },
+  {
+   "off": 7820,
+   "budget": 37,
+   "en": "Plainly not your shoe prints.",
+   "long": "They're clearly different from your￥shoe prints, Gillian."
+  },
+  {
+   "off": 7857,
+   "budget": 35,
+   "en": "No sign the room was ransacked.",
+   "long": "The room doesn't appear to have been￥ransacked."
+  },
+  {
+   "off": 7892,
+   "budget": 71,
+   "en": "The sofa is still warm.￥Someone sat there moments ago.",
+   "long": "The sofa is still warm. Someone was￥sitting here until very recently."
+  },
+  {
+   "off": 7963,
+   "budget": 37,
+   "en": "Nothing taken, by the look?",
+   "long": "Nothing seems to be missing, at￥least."
+  },
+  {
+   "off": 8000,
+   "budget": 29,
+   "en": "No motion in the room.",
+   "long": "No movement detected inside the￥room."
+  },
+  {
+   "off": 8029,
+   "budget": 5,
+   "en": "Step",
+   "long": "Footprints"
+  },
+  {
+   "off": 8034,
+   "budget": 53,
+   "en": "Quite a sharp mark.￥As if weight bore on a point.",
+   "long": "The impressions are very sharp, as￥if the weight was concentrated at a￥single point."
+  },
+  {
+   "off": 8087,
+   "budget": 23,
+   "en": "Sharp? A Snatcher?"
+  },
+  {
+   "off": 8110,
+   "budget": 37,
+   "en": "So it wasn't Catherine after all?"
+  },
+  {
+   "off": 8147,
+   "budget": 13,
+   "en": "......"
+  },
+  {
+   "off": 8160,
+   "budget": 19,
+   "en": "It's possible."
+  },
+  {
+   "off": 8179,
+   "budget": 29,
+   "en": "The prints lead to the bath.",
+   "long": "The footprints lead to the bathroom."
+  },
+  {
+   "off": 8208,
+   "budget": 11,
+   "en": "Listen"
+  },
+  {
+   "off": 8219,
+   "budget": 33,
+   "en": "The sound comes from the bath.",
+   "long": "The sound is coming from the￥bathroom."
+  },
+  {
+   "off": 8252,
+   "budget": 33,
+   "en": "The sound is from the bath...",
+   "long": "The sound definitely comes from the￥bathroom."
+  },
+  {
+   "off": 8285,
+   "budget": 11,
+   "en": "Sniff"
+  },
+  {
+   "off": 8296,
+   "budget": 21,
+   "en": "Hm? A smell...",
+   "long": "Hmm? I smell something."
+  },
+  {
+   "off": 8317,
+   "budget": 19,
+   "en": "Snow Cedar?"
+  },
+  {
+   "off": 8336,
+   "budget": 37,
+   "en": "I can't tell... a smell I know.",
+   "long": "I don't know. I've smelled it￥somewhere before."
+  },
+  {
+   "off": 8373,
+   "budget": 51,
+   "en": "Sniff... something smells.￥Something's there?!",
+   "long": "Sniff, sniff. Yes, there's a smell.￥Something's here!"
+  },
+  {
+   "off": 8424,
+   "budget": 47,
+   "en": "Don't you want to know what￥that noise is!",
+   "long": "Aren't you going to find out what's￥making that noise, Gillian?"
+  },
+  {
+   "off": 8471,
+   "budget": 47,
+   "en": "Gillian! You can't keep running￥away."
+  },
+  {
+   "off": 8518,
+   "budget": 47,
+   "en": "The enemy can't escape! Be brave!"
+  },
+  {
+   "off": 8565,
+   "budget": 21,
+   "en": "Gillian's bathroom.",
+   "long": "Your bathroom, Gillian."
+  },
+  {
+   "off": 8586,
+   "budget": 49,
+   "en": "Whew, it's stuffy in here. The￥room's hot."
+  },
+  {
+   "off": 8635,
+   "budget": 31,
+   "en": "Something's in the shower!",
+   "long": "There's something in the shower￥booth!"
+  },
+  {
+   "off": 8666,
+   "budget": 59,
+   "en": "No one in sight. They must be in the￥shower booth."
+  },
+  {
+   "off": 8725,
+   "budget": 41,
+   "en": "Underwear on the floor.￥Whose is it?",
+   "long": "There's underwear on the floor.￥Whose could it be?"
+  },
+  {
+   "off": 8766,
+   "budget": 23,
+   "en": "Your taste, Gillian?",
+   "long": "Is this your taste, Gillian?"
+  },
+  {
+   "off": 8789,
+   "budget": 23,
+   "en": "Daft! No idea!",
+   "long": "Don't be ridiculous! I don't know￥anything about it!"
+  },
+  {
+   "off": 8812,
+   "budget": 31,
+   "en": "Oh, something on the floor.",
+   "long": "Oh, there's something on the floor."
+  },
+  {
+   "off": 8843,
+   "budget": 25,
+   "en": "Something on the floor.",
+   "long": "Something is lying on the floor."
+  },
+  {
+   "off": 8868,
+   "budget": 15,
+   "en": "Shower booth"
+  },
+  {
+   "off": 8883,
+   "budget": 59,
+   "en": "The privacy glass is down. I can't￥tell what's inside."
+  },
+  {
+   "off": 8942,
+   "budget": 47,
+   "en": "The window displays an Occupied￥sign."
+  },
+  {
+   "off": 8989,
+   "budget": 5,
+   "en": "Wear",
+   "long": "Underwear"
+  },
+  {
+   "off": 8994,
+   "budget": 29,
+   "en": "Hmm... pretty underwear.",
+   "long": "Well now... that's cute underwear."
+  },
+  {
+   "off": 9023,
+   "budget": 47,
+   "en": "Why is underwear like this in my￥apartment?"
+  },
+  {
+   "off": 9070,
+   "budget": 37,
+   "en": "Playing innocent, are we, Gillian?"
+  },
+  {
+   "off": 9107,
+   "budget": 55,
+   "en": "There is a motion response.￥In this room, indeed.",
+   "long": "Motion detected. There's definitely￥something moving in this room."
+  },
+  {
+   "off": 9162,
+   "budget": 37,
+   "en": "Room heat and damp rising oddly.",
+   "long": "The temperature and humidity in here￥are rising abnormally."
+  },
+  {
+   "off": 9199,
+   "budget": 37,
+   "en": "Nothing but that underwear.",
+   "long": "Nothing here except the underwear we￥saw."
+  },
+  {
+   "off": 9236,
+   "budget": 55,
+   "en": "Are those ＠赤panties? A b-bra?＠白"
+  },
+  {
+   "off": 9291,
+   "budget": 7,
+   "en": "What?"
+  },
+  {
+   "off": 9298,
+   "budget": 41,
+   "en": "U-Underwear! Women's underwear!"
+  },
+  {
+   "off": 9339,
+   "budget": 13,
+   "en": "Women's!",
+   "long": "Women's underwear!"
+  },
+  {
+   "off": 9352,
+   "budget": 27,
+   "en": "Women's underwear there.",
+   "long": "Women's underwear is lying on the￥floor."
+  },
+  {
+   "off": 9379,
+   "budget": 81,
+   "en": "By the thermo sensor it holds heat.￥Hot water is in use, it seems.",
+   "long": "The thermal sensor shows a heat￥source. Someone appears to be using￥hot water."
+  },
+  {
+   "off": 9460,
+   "budget": 33,
+   "en": "Motion response within! Moving.",
+   "long": "Motion detected inside! It's moving!"
+  },
+  {
+   "off": 9493,
+   "budget": 19,
+   "en": "Silk underwear.",
+   "long": "It's silk underwear."
+  },
+  {
+   "off": 9512,
+   "budget": 83,
+   "en": "The owner clearly minds￥how she dresses.￥A woman's last weapon.",
+   "long": "I can predict the owner is someone￥who takes a good deal of care over￥how she dresses. Underwear is a￥woman's ultimate weapon, you see."
+  },
+  {
+   "off": 9595,
+   "budget": 91,
+   "en": "This kind is often worn by wealthy￥women or women in professions such￥as modeling."
+  },
+  {
+   "off": 9686,
+   "budget": 27,
+   "en": "Modeling? Catherine?"
+  },
+  {
+   "off": 9713,
+   "budget": 25,
+   "en": "Th-This is hers?"
+  },
+  {
+   "off": 9738,
+   "budget": 33,
+   "en": "Then... Catherine's naked?"
+  },
+  {
+   "off": 9771,
+   "budget": 33,
+   "en": "Stay alert, Gillian."
+  },
+  {
+   "off": 9804,
+   "budget": 37,
+   "en": "What if it's a Snatcher?"
+  },
+  {
+   "off": 9841,
+   "budget": 5,
+   "en": "Take"
+  },
+  {
+   "off": 9846,
+   "budget": 9,
+   "en": "My cloth",
+   "long": "My clothes"
+  },
+  {
+   "off": 9855,
+   "budget": 33,
+   "en": "Undressing? What for?",
+   "long": "Why are you taking off your clothes?"
+  },
+  {
+   "off": 9888,
+   "budget": 29,
+   "en": "I'll put this underwear on.",
+   "long": "I'm going to put this underwear on."
+  },
+  {
+   "off": 9917,
+   "budget": 19,
+   "en": "I'm taking a bath."
+  },
+  {
+   "off": 9936,
+   "budget": 13,
+   "en": "Joking?",
+   "long": "You're joking, right?"
+  },
+  {
+   "off": 9949,
+   "budget": 11,
+   "en": "Aye..."
+  },
+  {
+   "off": 9960,
+   "budget": 25,
+   "en": "Perhaps I'll keep it...",
+   "long": "Think I'll hang on to it..."
+  },
+  {
+   "off": 9985,
+   "budget": 23,
+   "en": "I'll tell the Chief!"
+  },
+  {
+   "off": 10008,
+   "budget": 67,
+   "en": "Metal!￥For the case I must examine￥this underwear. Fetch it!!",
+   "long": "Metal! We have to examine the￥underwear for the investigation.￥Pick it up!"
+  },
+  {
+   "off": 10075,
+   "budget": 53,
+   "en": "If you insist. But you must return￥it."
+  },
+  {
+   "off": 10128,
+   "budget": 43,
+   "en": "You're already holding it, aren't￥you?"
+  },
+  {
+   "off": 10171,
+   "budget": 11,
+   "en": "Taken wear",
+   "long": "Taken underwear"
+  },
+  {
+   "off": 10182,
+   "budget": 61,
+   "en": "Right! Let's sniff.￥Sniff, sniff...￥Mmm! A fine scent.",
+   "long": "Right! Let's have a sniff. Sniff,￥sniff... Mmm! What a lovely scent."
+  },
+  {
+   "off": 10243,
+   "budget": 21,
+   "en": "Wait. This scent?"
+  },
+  {
+   "off": 10264,
+   "budget": 35,
+   "en": "So you had such tastes...",
+   "long": "So that's the kind of thing you're￥into..."
+  },
+  {
+   "off": 10299,
+   "budget": 77,
+   "en": "Tell nobody...￥Oi! That's not it......￥This scent, could it be?",
+   "long": "Don't tell anyone... Hey! It's not￥like that...... This scent, could it￥be?"
+  },
+  {
+   "off": 10376,
+   "budget": 17,
+   "en": "What's wrong?"
+  },
+  {
+   "off": 10393,
+   "budget": 21,
+   "en": "That's the scent!",
+   "long": "Yes, that's the scent!"
+  },
+  {
+   "off": 10414,
+   "budget": 19,
+   "en": "Catherine?"
+  },
+  {
+   "off": 10433,
+   "budget": 21,
+   "en": "I hope so."
+  },
+  {
+   "off": 10454,
+   "budget": 45,
+   "en": "That's it! I've got it, Metal! That￥scent!"
+  },
+  {
+   "off": 10499,
+   "budget": 5,
+   "en": "Self",
+   "long": "Myself"
+  },
+  {
+   "off": 10504,
+   "budget": 31,
+   "en": "Sniff, sniff. I smell sweaty."
+  },
+  {
+   "off": 10535,
+   "budget": 49,
+   "en": "Buried in the case, no baths?",
+   "long": "You've been so busy investigating￥that you haven't bathed, have you?"
+  },
+  {
+   "off": 10584,
+   "budget": 33,
+   "en": "Come to think of it, I haven't."
+  },
+  {
+   "off": 10617,
+   "budget": 11,
+   "en": "I smell?",
+   "long": "Do I smell?"
+  },
+  {
+   "off": 10628,
+   "budget": 23,
+   "en": "I don't mind, but..."
+  },
+  {
+   "off": 10651,
+   "budget": 59,
+   "en": "No washing either.￥Girls will loathe me for this.",
+   "long": "I haven't done the laundry, either.￥No woman will like me like this."
+  },
+  {
+   "off": 10710,
+   "budget": 13,
+   "en": "Open booth"
+  },
+  {
+   "off": 10723,
+   "budget": 15,
+   "en": "Her face",
+   "long": "Catherine's face"
+  },
+  {
+   "off": 10738,
+   "budget": 55,
+   "en": "(Looking at her now,￥she's quite coquettish...)",
+   "long": "(Looking at her like this, she's￥pretty coquettish...)"
+  },
+  {
+   "off": 10793,
+   "budget": 17,
+   "en": "(......)"
+  },
+  {
+   "off": 10810,
+   "budget": 29,
+   "en": "(Somehow... a strange air..)",
+   "long": "(This feels... kinda weird...)"
+  },
+  {
+   "off": 10839,
+   "budget": 25,
+   "en": "Something on my face?",
+   "long": "Is there something on my face?"
+  },
+  {
+   "off": 10864,
+   "budget": 33,
+   "en": "Oh! Are you angry, Gillian?"
+  },
+  {
+   "off": 10897,
+   "budget": 15,
+   "en": "Her chest"
+  },
+  {
+   "off": 10912,
+   "budget": 33,
+   "en": "(Hmm. Pretty glamorous!)"
+  },
+  {
+   "off": 10945,
+   "budget": 31,
+   "en": "(Poison to a single man....)",
+   "long": "(Too much for a single man's￥eyes....)"
+  },
+  {
+   "off": 10976,
+   "budget": 7,
+   "en": "Nape",
+   "long": "Her neck"
+  },
+  {
+   "off": 10983,
+   "budget": 23,
+   "en": "(How alluring...)"
+  },
+  {
+   "off": 11006,
+   "budget": 23,
+   "en": "(...Women are demons.)"
+  },
+  {
+   "off": 11029,
+   "budget": 11,
+   "en": "Bath towel"
+  },
+  {
+   "off": 11040,
+   "budget": 41,
+   "en": "Might I examine that towel?",
+   "long": "Could you let me examine that towel￥for a moment?"
+  },
+  {
+   "off": 11081,
+   "budget": 65,
+   "en": "Really!!￥Always saying such things!￥You want to see me bare!",
+   "long": "Oh, come on!! You keep saying things￥like that! You want to see me naked,￥don't you!"
+  },
+  {
+   "off": 11146,
+   "budget": 35,
+   "en": "Gillian... you're... so... mean."
+  },
+  {
+   "off": 11181,
+   "budget": 11,
+   "en": "Hosp. list",
+   "long": "Hospital list"
+  },
+  {
+   "off": 11192,
+   "budget": 27,
+   "en": "That hospital list, may I?",
+   "long": "May I see that hospital list?"
+  },
+  {
+   "off": 11219,
+   "budget": 33,
+   "en": "Sure. Take a look."
+  },
+  {
+   "off": 11252,
+   "budget": 37,
+   "en": "Well then, should I take a bath too?"
+  },
+  {
+   "off": 11289,
+   "budget": 37,
+   "en": "Gillian! This isn't the time!"
+  },
+  {
+   "off": 11326,
+   "budget": 63,
+   "en": "Really!! Always such things!￥You want to see me bare!",
+   "long": "Oh, come on!! You keep saying things￥like that! You want to see me naked,￥don't you!"
+  },
+  {
+   "off": 11389,
+   "budget": 59,
+   "en": "MetalGear mk_2, a favour.￥Fetch the bath towel!",
+   "long": "Metal Gear Mk. II, I've got a favor￥to ask. Get me a bath towel!"
+  },
+  {
+   "off": 11448,
+   "budget": 85,
+   "en": "Using my full name won't help. Why￥should I do that?"
+  },
+  {
+   "off": 11533,
+   "budget": 29,
+   "en": "What are you two saying?",
+   "long": "What are you two talking about?"
+  },
+  {
+   "off": 11562,
+   "budget": 33,
+   "en": "Gillian! That's enough!"
+  },
+  {
+   "off": 11595,
+   "budget": 11,
+   "en": "Give candy"
+  },
+  {
+   "off": 11606,
+   "budget": 73,
+   "en": "Catherine. It must have been a￥shock... Have this candy and cheer￥up.",
+   "long": "This must have been a terrible￥shock, Catherine. Have some candy.￥It might cheer you up."
+  },
+  {
+   "off": 11679,
+   "budget": 65,
+   "en": "Thank you. Oh, I loved this candy￥when I was little!"
+  },
+  {
+   "off": 11744,
+   "budget": 21,
+   "en": "How did you know?"
+  },
+  {
+   "off": 11765,
+   "budget": 45,
+   "en": "I didn't. So this was your favorite?"
+  },
+  {
+   "off": 11810,
+   "budget": 45,
+   "en": "Catherine. Have this candy and cheer￥up.",
+   "long": "Catherine, have some candy. It might￥cheer you up."
+  },
+  {
+   "off": 11855,
+   "budget": 79,
+   "en": "Dad's candy. I couldn't eat it. I￥want to keep it with me always."
+  },
+  {
+   "off": 11934,
+   "budget": 23,
+   "en": "I see. That's best.",
+   "long": "Yes, that's a good idea."
+  },
+  {
+   "off": 11957,
+   "budget": 35,
+   "en": "That candy.￥I love these.",
+   "long": "The candy from before! I love this￥kind."
+  },
+  {
+   "off": 11992,
+   "budget": 31,
+   "en": "Right, it's your favorite."
+  },
+  {
+   "off": 12023,
+   "budget": 21,
+   "en": "Still want candy?",
+   "long": "Would you like some more?"
+  },
+  {
+   "off": 12044,
+   "budget": 79,
+   "en": "Yes, thank you. It's strange. Just￥holding it makes me feel better."
+  },
+  {
+   "off": 12123,
+   "budget": 57,
+   "en": "I can understand that. You can have￥it all, Catherine."
+  },
+  {
+   "off": 12180,
+   "budget": 55,
+   "en": "When the loneliness gets too much,￥have one of these.",
+   "long": "Have some whenever the loneliness￥gets too much for you."
+  },
+  {
+   "off": 12235,
+   "budget": 13,
+   "en": "Candy talk",
+   "long": "Talk about candy"
+  },
+  {
+   "off": 12248,
+   "budget": 49,
+   "en": "Actually, your father had this candy￥with him."
+  },
+  {
+   "off": 12297,
+   "budget": 7,
+   "en": "Father",
+   "long": "Dad did?"
+  },
+  {
+   "off": 12304,
+   "budget": 59,
+   "en": "He gave this candy to the￥children at the orphanage.",
+   "long": "He apparently used to give it to the￥children at the orphanage."
+  },
+  {
+   "off": 12363,
+   "budget": 23,
+   "en": "Father did that..."
+  },
+  {
+   "off": 12386,
+   "budget": 71,
+   "en": "It was in his coat when he died."
+  },
+  {
+   "off": 12457,
+   "budget": 11,
+   "en": "Papa..."
+  },
+  {
+   "off": 12468,
+   "budget": 5,
+   "en": "Talk"
+  },
+  {
+   "off": 12473,
+   "budget": 11,
+   "en": "Catherine"
+  },
+  {
+   "off": 12484,
+   "budget": 25,
+   "en": "Put something on?",
+   "long": "Could you put something on?"
+  },
+  {
+   "off": 12509,
+   "budget": 69,
+   "en": "What? I'm hot from the shower. Can't￥I stay like this?"
+  },
+  {
+   "off": 12578,
+   "budget": 37,
+   "en": "Catherine, I've clothes if...",
+   "long": "You can borrow my clothes,￥Catherine."
+  },
+  {
+   "off": 12615,
+   "budget": 27,
+   "en": "Okay, in a little while."
+  },
+  {
+   "off": 12642,
+   "budget": 37,
+   "en": "(No... just as you are.)",
+   "long": "(No... you're fine just the way you￥are.)"
+  },
+  {
+   "off": 12679,
+   "budget": 25,
+   "en": "You'll catch cold.",
+   "long": "You'll catch a cold, Catherine."
+  },
+  {
+   "off": 12704,
+   "budget": 35,
+   "en": "Then, Gillian... may I borrow?",
+   "long": "Then can I borrow your clothes,￥Gillian?"
+  },
+  {
+   "off": 12739,
+   "budget": 51,
+   "en": "No, wait a moment.￥Let's talk first.",
+   "long": "No, hang on... wait. Before that,￥let's hear what you've got to say."
+  },
+  {
+   "off": 12790,
+   "budget": 11,
+   "en": "On Alice",
+   "long": "About Alice"
+  },
+  {
+   "off": 12801,
+   "budget": 29,
+   "en": "It's about Alice."
+  },
+  {
+   "off": 12830,
+   "budget": 21,
+   "en": "What about Alice?",
+   "long": "Is something wrong with Alice?"
+  },
+  {
+   "off": 12851,
+   "budget": 15,
+   "en": "Alice is..."
+  },
+  {
+   "off": 12866,
+   "budget": 13,
+   "en": "Gillian?!"
+  },
+  {
+   "off": 12879,
+   "budget": 13,
+   "en": "What is it?",
+   "long": "What's wrong?"
+  },
+  {
+   "off": 12892,
+   "budget": 27,
+   "en": "No... I'll tell you later.",
+   "long": "Nothing. I'll tell you later."
+  },
+  {
+   "off": 12919,
+   "budget": 13,
+   "en": "How odd..."
+  },
+  {
+   "off": 12932,
+   "budget": 41,
+   "en": "Alice is a very good dog."
+  },
+  {
+   "off": 12973,
+   "budget": 57,
+   "en": "Yes, clever...￥and now my only family.",
+   "long": "Yes, she's so clever. She's the only￥family I have left now."
+  },
+  {
+   "off": 13030,
+   "budget": 47,
+   "en": "(I can't tell her Alice is dead.)"
+  },
+  {
+   "off": 13077,
+   "budget": 9,
+   "en": "Retina",
+   "long": "Retina Reading"
+  },
+  {
+   "off": 13086,
+   "budget": 41,
+   "en": "A fortune teller￥led me here.",
+   "long": "Actually, a fortune teller helped us￥find you."
+  },
+  {
+   "off": 13127,
+   "budget": 7,
+   "en": "Fate?",
+   "long": "A fortune teller?"
+  },
+  {
+   "off": 13134,
+   "budget": 35,
+   "en": "The retina reading... by Altamira.",
+   "long": "The retinal fortune teller outside￥Altamira."
+  },
+  {
+   "off": 13169,
+   "budget": 27,
+   "en": "Oh, that fake."
+  },
+  {
+   "off": 13196,
+   "budget": 23,
+   "en": "You knew?"
+  },
+  {
+   "off": 13219,
+   "budget": 93,
+   "en": "She's famous. Nobody goes to her￥since the news exposed her as a￥fraud."
+  },
+  {
+   "off": 13312,
+   "budget": 21,
+   "en": "What?!"
+  },
+  {
+   "off": 13333,
+   "budget": 59,
+   "en": "You're behind the times.￥Paying for such a thing...",
+   "long": "You're behind the times, Gillian.￥Paying for something like that!"
+  },
+  {
+   "off": 13392,
+   "budget": 11,
+   "en": "....."
+  },
+  {
+   "off": 13403,
+   "budget": 5,
+   "en": "Ask"
+  },
+  {
+   "off": 13408,
+   "budget": 11,
+   "en": "The call",
+   "long": "About the call"
+  },
+  {
+   "off": 13419,
+   "budget": 41,
+   "en": "About that call, tell me the￥details?",
+   "long": "Can you tell me more about why you￥called?"
+  },
+  {
+   "off": 13460,
+   "budget": 75,
+   "en": "That's it!￥Tidying the living room, this￥came out of the house model.",
+   "long": "Oh, right! I was tidying the living￥room and found this inside the model￥of our house."
+  },
+  {
+   "off": 13535,
+   "budget": 69,
+   "en": "Come to think, a miniature of the￥Gibson house sat on the shelf.",
+   "long": "There was a miniature of the Gibson￥house on the living room shelf."
+  },
+  {
+   "off": 13604,
+   "budget": 25,
+   "en": "This is a hospital list!"
+  },
+  {
+   "off": 13629,
+   "budget": 45,
+   "en": "And a black-route one at that,￥by the look.",
+   "long": "A list of underground hospitals, by￥the looks of it."
+  },
+  {
+   "off": 13674,
+   "budget": 45,
+   "en": "Name, director, address, field￥are written.",
+   "long": "It lists the hospital names,￥directors, addresses, and￥specialties."
+  },
+  {
+   "off": 13719,
+   "budget": 89,
+   "en": "Then the Snatchers' hospital is on￥this list. The one Gibson found."
+  },
+  {
+   "off": 13808,
+   "budget": 83,
+   "en": "So this is another thing Gibson￥meant by 'Search the house!'"
+  },
+  {
+   "off": 13891,
+   "budget": 19,
+   "en": "Too neat..."
+  },
+  {
+   "off": 13910,
+   "budget": 31,
+   "en": "Will this list help?"
+  },
+  {
+   "off": 13941,
+   "budget": 91,
+   "en": "There are over three thousand￥entries. We can't search every one.￥We need a clue."
+  },
+  {
+   "off": 14032,
+   "budget": 69,
+   "en": "I think the image in Little John's￥memory is the key."
+  },
+  {
+   "off": 14101,
+   "budget": 69,
+   "en": "If you enter a hospital name,￥Gillian, I'll search the list."
+  },
+  {
+   "off": 14170,
+   "budget": 41,
+   "en": "Someone was following me."
+  },
+  {
+   "off": 14211,
+   "budget": 85,
+   "en": "I'm sure they wanted Dad's hospital￥list. And I couldn't reach you,￥Gillian."
+  },
+  {
+   "off": 14296,
+   "budget": 59,
+   "en": "I'm sorry. I should have given you￥Metal Gear's number."
+  },
+  {
+   "off": 14355,
+   "budget": 61,
+   "en": "I called before coming inside, but I￥couldn't reach you."
+  },
+  {
+   "off": 14416,
+   "budget": 29,
+   "en": "Any idea about this list?",
+   "long": "Have you seen this hospital list￥before?"
+  },
+  {
+   "off": 14445,
+   "budget": 81,
+   "en": "No. But Dad must have treasured it￥if he kept it in that model."
+  },
+  {
+   "off": 14526,
+   "budget": 43,
+   "en": "The hospital father found is in￥here.",
+   "long": "I'm sure the hospital he found is on￥here."
+  },
+  {
+   "off": 14569,
+   "budget": 65,
+   "en": "Since he didn't mark it, he must￥have left some other clue."
+  },
+  {
+   "off": 14634,
+   "budget": 5,
+   "en": "Age"
+  },
+  {
+   "off": 14639,
+   "budget": 31,
+   "en": "How old were you, Catherine?",
+   "long": "How old are you again, Catherine?"
+  },
+  {
+   "off": 14670,
+   "budget": 15,
+   "en": "Fourteen now.",
+   "long": "I'm fourteen now."
+  },
+  {
+   "off": 14685,
+   "budget": 41,
+   "en": "Really?￥(Girls this age are quite...)",
+   "long": "Really? (Girls this age are￥something else...)"
+  },
+  {
+   "off": 14726,
+   "budget": 35,
+   "en": "That's considered old in modeling."
+  },
+  {
+   "off": 14761,
+   "budget": 49,
+   "en": "(Good grief. Then what does that￥make Jamie?)"
+  },
+  {
+   "off": 14810,
+   "budget": 63,
+   "en": "Gillian!￥There are things to ask before her￥age, surely?",
+   "long": "Gillian! There are more important￥things to ask than her age!"
+  },
+  {
+   "off": 14873,
+   "budget": 63,
+   "en": "Be careful, Gillian, or you'll upset￥Catherine again."
+  },
+  {
+   "off": 14936,
+   "budget": 21,
+   "en": "Right. Of course."
+  },
+  {
+   "off": 14957,
+   "budget": 27,
+   "en": "Gillian has a record.",
+   "long": "Gillian's got a record, after all."
+  },
+  {
+   "off": 14984,
+   "budget": 27,
+   "en": "Don't call me a criminal.",
+   "long": "Don't talk about me like I'm a￥criminal."
+  },
+  {
+   "off": 15011,
+   "budget": 15,
+   "en": "Check the list"
+  },
+  {
+   "off": 15026,
+   "budget": 11,
+   "en": "Address",
+   "long": "Its address"
+  },
+  {
+   "off": 15037,
+   "budget": 71,
+   "en": "All right, Gillian. Let's find the￥Snatchers' hospital on this list."
+  },
+  {
+   "off": 15108,
+   "budget": 51,
+   "en": "Is the hospital from Little￥John's memory here?",
+   "long": "Is the hospital from Little John's￥memory somewhere in here?"
+  },
+  {
+   "off": 15159,
+   "budget": 47,
+   "en": "Gillian, try saying a likely￥hospital name.",
+   "long": "Gillian, try giving me a hospital￥name that seems likely."
+  },
+  {
+   "off": 15206,
+   "budget": 49,
+   "en": "A name that neon sign might bring to￥mind..."
+  },
+  {
+   "off": 15255,
+   "budget": 45,
+   "en": "The sign said ＠赤'OLEEN'＠白..."
+  },
+  {
+   "off": 15300,
+   "budget": 45,
+   "en": "Then type the hospital name.",
+   "long": "Then type in the name of the￥hospital you want me to look up."
+  },
+  {
+   "off": 15345,
+   "budget": 13,
+   "en": "",
+   "lock": false,
+   "long": "ＱＵＥＥＮ以外"
+  },
+  {
+   "off": 15358,
+   "budget": 5,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 15363,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＱＵＥＥＮ"
+  },
+  {
+   "off": 15372,
+   "budget": 45,
+   "en": "＠赤'QUEEN'＠白? Understood."
+  },
+  {
+   "off": 15417,
+   "budget": 39,
+   "en": "Tried nearly every piece?",
+   "long": "You've tried almost every kind of￥chess piece, haven't you?"
+  },
+  {
+   "off": 15456,
+   "budget": 25,
+   "en": "Then I'll search.",
+   "long": "All right, I'll search for it."
+  },
+  {
+   "off": 15481,
+   "budget": 37,
+   "en": "Found it! ＠赤QUEEN Hospital!＠白"
+  },
+  {
+   "off": 15518,
+   "budget": 21,
+   "en": "You did it, Gillian!"
+  },
+  {
+   "off": 15539,
+   "budget": 31,
+   "en": "Just as Catherine said.",
+   "long": "It was exactly as Catherine said."
+  },
+  {
+   "off": 15570,
+   "budget": 15,
+   "en": "I'm glad..."
+  },
+  {
+   "off": 15585,
+   "budget": 47,
+   "en": "I see...￥the neon was broken after all.",
+   "long": "I see... So the neon sign was broken￥after all."
+  },
+  {
+   "off": 15632,
+   "budget": 61,
+   "en": "＠黄'QUEEN'＠白 looked like ＠黄'OLEEN'＠白."
+  },
+  {
+   "off": 15693,
+   "budget": 37,
+   "en": "That's what the chess piece meant.",
+   "long": "That's what the chess piece was￥trying to tell us."
+  },
+  {
+   "off": 15730,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＣＲＡＮＥ"
+  },
+  {
+   "off": 15739,
+   "budget": 45,
+   "en": "＠赤'CRANE'＠白, right? I'll look it up."
+  },
+  {
+   "off": 15784,
+   "budget": 47,
+   "en": "Hmm, I think you're getting close,￥but..."
+  },
+  {
+   "off": 15831,
+   "budget": 37,
+   "en": "I do like crane games, but..."
+  },
+  {
+   "off": 15868,
+   "budget": 37,
+   "en": "Then next time... win me one?",
+   "long": "Oh, really? Then next time... win￥one for me too?"
+  },
+  {
+   "off": 15905,
+   "budget": 19,
+   "en": "...Catherine."
+  },
+  {
+   "off": 15924,
+   "budget": 21,
+   "en": "Oh, I'm sorry."
+  },
+  {
+   "off": 15945,
+   "budget": 9,
+   "en": "ＯＷＥＮ",
+   "lock": false
+  },
+  {
+   "off": 15954,
+   "budget": 45,
+   "en": "＠赤'OWEN'＠白, right? I'll look it up."
+  },
+  {
+   "off": 15999,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＯＲＬＩＮ"
+  },
+  {
+   "off": 16008,
+   "budget": 45,
+   "en": "＠赤'ORLIN'＠白, right? I'll look it up."
+  },
+  {
+   "off": 16053,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＯＬＥＥＮ"
+  },
+  {
+   "off": 16062,
+   "budget": 45,
+   "en": "＠赤'OLEEN'＠白, right? I'll look it up."
+  },
+  {
+   "off": 16107,
+   "budget": 35,
+   "en": "The animal hospital, of course.",
+   "long": "Needless to say, that's the animal￥hospital."
+  },
+  {
+   "off": 16142,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＯＬＥＡＮ"
+  },
+  {
+   "off": 16151,
+   "budget": 43,
+   "en": "＠赤'OLEAN'＠白, right? I'll look it up."
+  },
+  {
+   "off": 16194,
+   "budget": 37,
+   "en": "Read straight, it does say that...",
+   "long": "If you read it straight, that's what￥it says, but..."
+  },
+  {
+   "off": 16231,
+   "budget": 41,
+   "en": "Was there once￥a song like that?",
+   "long": "...Come to think of it, wasn't there￥a song like that, way back when?"
+  },
+  {
+   "off": 16272,
+   "budget": 51,
+   "en": "Olean, Olean, Oleee... Oleeeean...?"
+  },
+  {
+   "off": 16323,
+   "budget": 25,
+   "en": "That's Jolene, surely?",
+   "long": "That's Jolene you're thinking of."
+  },
+  {
+   "off": 16348,
+   "budget": 19,
+   "en": "Was it now..."
+  },
+  {
+   "off": 16367,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＯＬＩＥＮ"
+  },
+  {
+   "off": 16376,
+   "budget": 45,
+   "en": "In kana it nearly is, but...",
+   "long": "Spelled out phonetically, it might￥come to that, but..."
+  },
+  {
+   "off": 16421,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＯＬＩＮＡ"
+  },
+  {
+   "off": 16430,
+   "budget": 59,
+   "en": "All right, as Catherine says...￥Olina, then..."
+  },
+  {
+   "off": 16489,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＯＬＩＮＯ"
+  },
+  {
+   "off": 16498,
+   "budget": 59,
+   "en": "All right, as Catherine says...￥Olino, then..."
+  },
+  {
+   "off": 16557,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＯＬＩＮＥ"
+  },
+  {
+   "off": 16566,
+   "budget": 19,
+   "en": "Oline, huh...?"
+  },
+  {
+   "off": 16585,
+   "budget": 33,
+   "en": "Rather like Catherine, somehow?",
+   "long": "Somehow that sounds a lot like￥Catherine."
+  },
+  {
+   "off": 16618,
+   "budget": 19,
+   "en": "Not alike..."
+  },
+  {
+   "off": 16637,
+   "budget": 19,
+   "en": "I see, Oline?",
+   "long": "Is that right, Oline?"
+  },
+  {
+   "off": 16656,
+   "budget": 15,
+   "en": "Catherine!",
+   "long": "It's Catherine!"
+  },
+  {
+   "off": 16671,
+   "budget": 7,
+   "en": "",
+   "lock": false,
+   "long": "ＯＲＩＮ"
+  },
+  {
+   "off": 16678,
+   "budget": 31,
+   "en": "...Orin? ...O-rin?"
+  },
+  {
+   "off": 16709,
+   "budget": 25,
+   "en": "What is it, Gillian?"
+  },
+  {
+   "off": 16734,
+   "budget": 49,
+   "en": "I've heard such a name.￥Kito, was it...",
+   "long": "I've heard a name like that before.￥Kito, I think it was..."
+  },
+  {
+   "off": 16783,
+   "budget": 25,
+   "en": "...From some novel?",
+   "long": "...That's from some novel, isn't it?"
+  },
+  {
+   "off": 16808,
+   "budget": 25,
+   "en": "Do be serious, please.",
+   "long": "Come on, take this seriously."
+  },
+  {
+   "off": 16833,
+   "budget": 7,
+   "en": "",
+   "lock": false,
+   "long": "ＫＩＮＧ"
+  },
+  {
+   "off": 16840,
+   "budget": 19,
+   "en": "King, is it..."
+  },
+  {
+   "off": 16859,
+   "budget": 11,
+   "en": "",
+   "lock": false,
+   "long": "ＢＩＳＨＯＰ"
+  },
+  {
+   "off": 16870,
+   "budget": 23,
+   "en": "Bishop, is it..."
+  },
+  {
+   "off": 16893,
+   "budget": 7,
+   "en": "",
+   "lock": false,
+   "long": "ＫＮＩＧＨＴ"
+  },
+  {
+   "off": 16900,
+   "budget": 19,
+   "en": "Knight, is it..."
+  },
+  {
+   "off": 16919,
+   "budget": 13,
+   "en": "Ask a clue",
+   "long": "Ask for a clue"
+  },
+  {
+   "off": 16932,
+   "budget": 17,
+   "en": "L.J. memory",
+   "long": "Little John's memory"
+  },
+  {
+   "off": 16949,
+   "budget": 47,
+   "en": "A name suggested by the neon￥'OLEEN'?",
+   "long": "A name that could come out of the￥neon sign 'OLEEN'?"
+  },
+  {
+   "off": 16996,
+   "budget": 53,
+   "en": "That sign is surely the￥hospital's own?",
+   "long": "That sign has to belong to the￥hospital itself, doesn't it?"
+  },
+  {
+   "off": 17049,
+   "budget": 47,
+   "en": "What we saw, 'OLEEN', is all but￥certain."
+  },
+  {
+   "off": 17096,
+   "budget": 59,
+   "en": "...'OLEEN' is the base.￥A matter of reading, perhaps?",
+   "long": "...'OLEEN' is the starting point.￥Could it be a matter of how it's￥read?"
+  },
+  {
+   "off": 17155,
+   "budget": 63,
+   "en": "If a neon tube is out...￥the letters change too?",
+   "long": "If one of the neon tubes is burnt￥out... that changes the letters too."
+  },
+  {
+   "off": 17218,
+   "budget": 45,
+   "en": "Then 'OLEEN' itself is in doubt.",
+   "long": "That would make the 'OLEEN' reading￥suspect as well."
+  },
+  {
+   "off": 17263,
+   "budget": 45,
+   "en": "A broken neon may read￥other letters...",
+   "long": "Maybe the neon's broken and it's￥showing different letters..."
+  },
+  {
+   "off": 17308,
+   "budget": 47,
+   "en": "Try adding a stroke or two to￥'OLEEN'?",
+   "long": "What if you tried adding a few￥strokes to 'OLEEN'?"
+  },
+  {
+   "off": 17355,
+   "budget": 43,
+   "en": "And...￥a name meaning the queen piece?",
+   "long": "And on top of that... a name that￥means the queen piece?"
+  },
+  {
+   "off": 17398,
+   "budget": 41,
+   "en": "And...￥a name meaning a chess piece?",
+   "long": "And on top of that... a name that￥means a chess piece?"
+  },
+  {
+   "off": 17439,
+   "budget": 43,
+   "en": "...The question's how we read￥'OLEEN'."
+  },
+  {
+   "off": 17482,
+   "budget": 75,
+   "en": "It's not a glitch in the image... so￥the neon really does say 'OLEEN'?"
+  },
+  {
+   "off": 17557,
+   "budget": 11,
+   "en": "Chess man",
+   "long": "Chess piece"
+  },
+  {
+   "off": 17568,
+   "budget": 57,
+   "en": "A wooden chess piece.￥This one is the queen.",
+   "long": "It's a wooden chess piece. This is￥the queen from the set."
+  },
+  {
+   "off": 17625,
+   "budget": 25,
+   "en": "...It's a queen piece."
+  },
+  {
+   "off": 17650,
+   "budget": 27,
+   "en": "What does this piece mean?",
+   "long": "Any idea what this piece means?"
+  },
+  {
+   "off": 17677,
+   "budget": 95,
+   "en": "A clue to the hospital, surely?￥Why else would Father carry￥a chess piece?",
+   "long": "Maybe it's a clue to that hospital.￥It's odd that Father would go around￥carrying a chess piece he treasured."
+  },
+  {
+   "off": 17772,
+   "budget": 41,
+   "en": "Maybe the kind of piece has a￥meaning."
+  },
+  {
+   "off": 17813,
+   "budget": 55,
+   "en": "He left the hospital clue with this￥piece, surely?",
+   "long": "Maybe he left us a clue to the￥hospital in this piece."
+  },
+  {
+   "off": 17868,
+   "budget": 35,
+   "en": "The piece is a 'queen', isn't it?"
+  },
+  {
+   "off": 17903,
+   "budget": 17,
+   "en": "Catherine's view"
+  },
+  {
+   "off": 17920,
+   "budget": 27,
+   "en": "Catherine, your view?",
+   "long": "Catherine, what do you think?"
+  },
+  {
+   "off": 17947,
+   "budget": 65,
+   "en": "Isn't it 'Queen'? I think it's a￥hospital called Queen."
+  },
+  {
+   "off": 18012,
+   "budget": 53,
+   "en": "Gillian, look for a hospital called￥'Queen'?",
+   "long": "Gillian, why not look for a hospital￥called 'Queen'?"
+  },
+  {
+   "off": 18065,
+   "budget": 33,
+   "en": "Gillian?! Where are you looking?",
+   "long": "Gillian?! Where are you looking?!"
+  },
+  {
+   "off": 18098,
+   "budget": 57,
+   "en": "Looking there again!!￥You're thinking dirty thoughts!!",
+   "long": "You're looking at that weird spot￥again!! I bet you're thinking dirty￥thoughts!!"
+  },
+  {
+   "off": 18155,
+   "budget": 37,
+   "en": "Gillian... don't stare so.",
+   "long": "Honestly, Gillian... don't stare at￥me like that."
+  },
+  {
+   "off": 18192,
+   "budget": 27,
+   "en": "Please enter something!?",
+   "long": "Type something in, will you?!"
+  },
+  {
+   "off": 18219,
+   "budget": 37,
+   "en": "You haven't typed anything!"
+  },
+  {
+   "off": 18256,
+   "budget": 21,
+   "en": "...There isn't one."
+  },
+  {
+   "off": 18277,
+   "budget": 23,
+   "en": "...Not it, it seems.",
+   "long": "...That doesn't seem to be it."
+  },
+  {
+   "off": 18300,
+   "budget": 25,
+   "en": "A different name.",
+   "long": "It must be a different name after￥all."
+  },
+  {
+   "off": 18325,
+   "budget": 43,
+   "en": "Think back to that image￥in the memory.",
+   "long": "Think back carefully to that memory￥footage."
+  },
+  {
+   "off": 18368,
+   "budget": 63,
+   "en": "I'll play back Little John's memory.￥Think it over carefully."
+  },
+  {
+   "off": 18431,
+   "budget": 53,
+   "en": "Maybe there's more after the 'N'."
+  },
+  {
+   "off": 18484,
+   "budget": 51,
+   "en": "OLEEN-something... Oleena? Oleeno?"
+  },
+  {
+   "off": 18535,
+   "budget": 83,
+   "en": "Come to think, the pachinko neon￥in Altamira was broken, reading￥a risky word.",
+   "long": "Come to think of it, the neon at￥that pachinko parlor in Altamira was￥broken and spelled out something￥naughty, didn't it?"
+  },
+  {
+   "off": 18618,
+   "budget": 69,
+   "en": "Might the broken pachinko neon in￥Altamira be a hint?",
+   "long": "Couldn't the broken neon at the￥Altamira pachinko parlor be a hint?"
+  },
+  {
+   "off": 18687,
+   "budget": 65,
+   "en": "That's it! The neon's broken. Part￥of it must have gone out."
+  },
+  {
+   "off": 18752,
+   "budget": 37,
+   "en": "A broken neon makes other letters.",
+   "long": "When neon breaks, it spells￥different letters."
+  },
+  {
+   "off": 18789,
+   "budget": 57,
+   "en": "Of course! The neon's broken... Now￥I'm getting it!"
+  },
+  {
+   "off": 18846,
+   "budget": 83,
+   "en": "Oh yes, Jean had a chess piece. It￥has to mean something."
+  },
+  {
+   "off": 18929,
+   "budget": 33,
+   "en": "What was that chess piece again?"
+  },
+  {
+   "off": 18962,
+   "budget": 25,
+   "en": "Now, think carefully.",
+   "long": "Now, think it over carefully."
+  },
+  {
+   "off": 18987,
+   "budget": 47,
+   "en": "That no hospital called 'OLEEN'￥exists...",
+   "long": "That there's no real hospital called￥'OLEEN'..."
+  },
+  {
+   "off": 19034,
+   "budget": 65,
+   "en": "...that the neon sign might be￥partly broken..."
+  },
+  {
+   "off": 19099,
+   "budget": 53,
+   "en": "...and what that chess piece￥means..."
+  },
+  {
+   "off": 19152,
+   "budget": 21,
+   "en": "Oh! Could it be...?"
+  },
+  {
+   "off": 19173,
+   "budget": 11,
+   "en": "What's up?",
+   "long": "What is it?"
+  },
+  {
+   "off": 19184,
+   "budget": 41,
+   "en": "Well, something just came to me..."
+  },
+  {
+   "off": 19225,
+   "budget": 41,
+   "en": "Why not try Catherine's idea too?"
+  },
+  {
+   "off": 19266,
+   "budget": 49,
+   "en": "I see, the name of a chess piece?￥...Gillian.",
+   "long": "I see, so it's the name of a chess￥piece? ...Gillian."
+  },
+  {
+   "off": 19315,
+   "budget": 45,
+   "en": "That's all the pieces￥I can think of.",
+   "long": "Yeah, that's about all a chess piece￥brings to mind."
+  },
+  {
+   "off": 19360,
+   "budget": 49,
+   "en": "A bit different from the￥memory image.",
+   "long": "That seems a little different from￥the memory footage."
+  },
+  {
+   "off": 19409,
+   "budget": 39,
+   "en": "It seems unlike Gibson's piece.",
+   "long": "I don't think that's the same as￥Gibson's piece, though."
+  },
+  {
+   "off": 19448,
+   "budget": 29,
+   "en": "We already checked that one."
+  },
+  {
+   "off": 19477,
+   "budget": 15,
+   "en": "To be sure.",
+   "long": "Just to be sure."
+  },
+  {
+   "off": 19492,
+   "budget": 29,
+   "en": "Check this one again."
+  },
+  {
+   "off": 19521,
+   "budget": 47,
+   "en": "Again? I don't think you'll find￥anything..."
+  },
+  {
+   "off": 19568,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 19583,
+   "budget": 69,
+   "en": "The ID card proving all JUNKER￥authority. Keep it safe.",
+   "long": "An ID card proving your full JUNKER￥authority. Take good care of it."
+  },
+  {
+   "off": 19652,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 19659,
+   "budget": 35,
+   "en": "Money issued to you by JUNKER."
+  },
+  {
+   "off": 19694,
+   "budget": 5,
+   "en": "Drop",
+   "long": "Candy"
+  },
+  {
+   "off": 19699,
+   "budget": 35,
+   "en": "The candy from Jean's pocket.",
+   "long": "The candy that was in Jean's pocket."
+  },
+  {
+   "off": 19734,
+   "budget": 7,
+   "en": "Proof",
+   "long": "Evidence"
+  },
+  {
+   "off": 19741,
+   "budget": 3,
+   "en": "Pc",
+   "long": "Chess piece"
+  },
+  {
+   "off": 19744,
+   "budget": 61,
+   "en": "Gibson's chess piece, hinting at￥Queen Hospital.",
+   "long": "The chess piece Gibson carried. It￥points to Queen Hospital."
+  },
+  {
+   "off": 19805,
+   "budget": 37,
+   "en": "The chess piece Gibson carried."
+  },
+  {
+   "off": 19842,
+   "budget": 7,
+   "en": "Chart",
+   "long": "Medical chart"
+  },
+  {
+   "off": 19849,
+   "budget": 41,
+   "en": "A chart with a Snatcher's￥name on it.",
+   "long": "A medical chart with a Snatcher's￥name on it."
+  },
+  {
+   "off": 19890,
+   "budget": 37,
+   "en": "Found on a desk at￥Queen Hospital.",
+   "long": "Something we found in a desk at￥Queen Hospital."
+  },
+  {
+   "off": 19927,
+   "budget": 7,
+   "en": "Match",
+   "long": "Matches"
+  },
+  {
+   "off": 19934,
+   "budget": 43,
+   "en": "Old-fashioned matches from Queen￥Hosp.",
+   "long": "Old-fashioned matches from Queen￥Hospital."
+  },
+  {
+   "off": 19977,
+   "budget": 9,
+   "en": "Memo"
+  },
+  {
+   "off": 19986,
+   "budget": 31,
+   "en": "A memo in Harry's hand.",
+   "long": "A memo Harry seems to have written."
+  },
+  {
+   "off": 20017,
+   "budget": 43,
+   "en": "A memo left in the Mechanic room."
+  },
+  {
+   "off": 20060,
+   "budget": 13,
+   "en": "Video memory"
+  },
+  {
+   "off": 20073,
+   "budget": 13,
+   "en": "Little John"
+  },
+  {
+   "off": 20086,
+   "budget": 47,
+   "en": "Footage left in Little John's￥memory."
+  },
+  {
+   "off": 20133,
+   "budget": 9,
+   "en": "Red Sq.",
+   "long": "Red Square"
+  },
+  {
+   "off": 20142,
+   "budget": 39,
+   "en": "A photo hidden in the￥Chief's room.",
+   "long": "A still photo hidden in the Chief's￥room."
+  },
+  {
+   "off": 20181,
+   "budget": 5,
+   "en": "Hall",
+   "long": "Temple"
+  },
+  {
+   "off": 20186,
+   "budget": 47,
+   "en": "Temple painting from a￥Queen Hospital room.",
+   "long": "A painting of a cathedral that hung￥in a room at Queen Hospital."
+  },
+  {
+   "off": 20233,
+   "budget": 67,
+   "en": "It has an IC chip with all of your￥data on it, Gillian."
+  },
+  {
+   "off": 20300,
+   "budget": 49,
+   "en": "Case expenses are covered￥as work requires.",
+   "long": "As a rule, any investigation expense￥can be charged, however much it￥comes to."
+  },
+  {
+   "off": 20349,
+   "budget": 45,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "long": "Candy Jean handed out to the￥children at the orphanage."
+  },
+  {
+   "off": 20394,
+   "budget": 57,
+   "en": "So the piece pointed to the name￥of Queen Hospital.",
+   "long": "It looks like this piece was telling￥us the name Queen Hospital."
+  },
+  {
+   "off": 20451,
+   "budget": 83,
+   "en": "A code written in Chinese element￥symbols. Decoded, it reads BENSON."
+  },
+  {
+   "off": 20534,
+   "budget": 65,
+   "en": "Part of a hospital medical chart, it￥seems. What does it say?"
+  },
+  {
+   "off": 20599,
+   "budget": 71,
+   "en": "Matches from 'Outer Heaven'.￥A trifle given to regulars,￥surely.",
+   "long": "Matches from 'Outer Heaven'.￥Probably a freebie they give their￥regulars."
+  },
+  {
+   "off": 20670,
+   "budget": 63,
+   "en": "'face to face'.￥A memo telling the secret￥of the illusion.",
+   "long": "'face to face'. A memo that gives￥away the secret of the optical￥illusion painting."
+  },
+  {
+   "off": 20733,
+   "budget": 75,
+   "en": "'face to face'. It's Harry's￥handwriting, but what does it mean?"
+  },
+  {
+   "off": 20808,
+   "budget": 53,
+   "en": "Footage of the 'QUEEN' Hospital neon￥sign."
+  },
+  {
+   "off": 20861,
+   "budget": 67,
+   "en": "It reads Hospital 'OLEEN'. Must be a￥hospital's neon sign."
+  },
+  {
+   "off": 20928,
+   "budget": 65,
+   "en": "A still photo of Red Square in￥Moscow, before the Catastrophe."
+  },
+  {
+   "off": 20993,
+   "budget": 67,
+   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "long": "St. Basil's Cathedral. A famous￥cathedral in Moscow before the￥Catastrophe."
+  },
+  {
+   "off": 21062,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

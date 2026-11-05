@@ -1,0 +1,8 @@
+{"scene":"B150",
+ "note":"GitHub #12, Act 2 side: open Gaudi's name search from the B150 bookmark (computer room) so the keyboard panel loads from disc.",
+ "actions":[{"path":["Move","Computer room"],"optional":true},
+            {"path":["Use Gaudi","Use card"],"patience":3000},
+            {"path":["Load person file"],"patience":3000},
+            {"idle":400},
+            {"type":"GAUDI","then":"start"},
+            {"idle":300}]}

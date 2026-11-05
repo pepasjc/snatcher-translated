@@ -1,0 +1,16 @@
+{"scene":"B1E0","actions":[
+  {"path":["Go out"],"optional":true,"patience":600},
+  {"path":["Use Metal Gear","Videophone"],"patience":1500},
+  {"path":["Call"],"optional":true,"patience":1500},
+  {"dial":"395644"},
+  {"save":"B1E0_called"},
+  {"path":["Hang up"],"optional":true,"patience":1500},
+  {"path":["Don't call"],"optional":true,"patience":600},
+  {"path":["Go out"],"optional":true,"patience":600},
+  {"path":["Move","Go out"],"optional":true,"patience":600},
+  {"path":["Board Tricycle"],"optional":true,"patience":3000},
+  {"path":["Move","Board Tricycle"],"optional":true,"patience":600},
+  {"path":["Outer Heaven"],"patience":6000},
+  {"path":["Exit Tricycle"],"optional":true},
+  {"save":"B1D0_arrive"}
+ ]}

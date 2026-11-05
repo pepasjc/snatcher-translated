@@ -1,0 +1,18 @@
+{"scene":"B190",
+ "note":"Oleen Hospital (guides/ps1.txt Act 2 OLEEN HOSPITAL), reached from Altamira after Napoleon: Look at the building, sign, window, neon, door; Check building and window; Move > Enter; inside: Check around, Look/Check the reception, the people, the animals (parrot, penguin, dog, cat); Ask about Snatchers, the hospital's line x2, the doctor; show Little John. It is a pet clinic and cannot be revisited.",
+ "source":"guides/ps1.txt Act 2 OLEEN HOSPITAL",
+ "actions":[
+  {"path":["Board Tricycle"]},
+  {"path":["Oleen Hospital|OLEEN Hospital|Oleen"],"patience":6000},
+  {"path":["Exit Tricycle"],"optional":true},
+  {"save":"B1B0_arrive"},
+  {"sweep":["Look","Investigate","Smell"],"rounds":2},
+  {"path":["Move","Go inside"],"optional":true},
+  {"path":["Go inside"],"optional":true},
+  {"save":"B1B0_inside"},
+  {"sweep":["Look","Investigate","Ask","Smell"],"rounds":2,"avoid":["Go out"]},
+  {"path":["Ask","Its specialty"],"optional":true,"reps":2},
+  {"path":["Item","Show","Video memory","Little John"],"optional":true},
+  {"sweep":["Look","Investigate","Ask"],"rounds":1,"avoid":["Go out"]},
+  {"save":"B1B0_done"}
+ ]}

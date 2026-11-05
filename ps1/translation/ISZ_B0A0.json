@@ -1,0 +1,171 @@
+{
+ "file": "ISZ_B0A0.BIN",
+ "text_base": 1160,
+ "strings": [
+  {
+   "off": 1160,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 1165,
+   "budget": 51,
+   "en": "You board the tricycle.￥Where to?",
+   "long": "We've boarded the tricycle.￥Where would you like to go?"
+  },
+  {
+   "off": 1216,
+   "budget": 17,
+   "en": "JUNKER HQ"
+  },
+  {
+   "off": 1233,
+   "budget": 11,
+   "en": "Gillian's",
+   "long": "Gillian's home"
+  },
+  {
+   "off": 1244,
+   "budget": 11,
+   "en": "Gibson's",
+   "long": "Gibson's home"
+  },
+  {
+   "off": 1255,
+   "budget": 13,
+   "en": "Altamira"
+  },
+  {
+   "off": 1268,
+   "budget": 15,
+   "en": "Outer Heaven"
+  },
+  {
+   "off": 1283,
+   "budget": 17,
+   "en": "Joy Division"
+  },
+  {
+   "off": 1300,
+   "budget": 9,
+   "en": "Ivan's",
+   "long": "Ivan's home"
+  },
+  {
+   "off": 1309,
+   "budget": 11,
+   "en": "Freddy's",
+   "long": "Freddy's home"
+  },
+  {
+   "off": 1320,
+   "budget": 11,
+   "en": "Get out",
+   "long": "Exit Tricycle"
+  },
+  {
+   "off": 1331,
+   "budget": 43,
+   "en": "Ivan is clean.￥No business with him now.",
+   "long": "Ivan's in the clear. We've got no￥more business with him."
+  },
+  {
+   "off": 1374,
+   "budget": 27,
+   "en": "Hurry to Freddy's place.",
+   "long": "Let's hurry to Freddy's place."
+  },
+  {
+   "off": 1401,
+   "budget": 45,
+   "en": "We've reached JUNKER HQ.￥What now?"
+  },
+  {
+   "off": 1446,
+   "budget": 41,
+   "en": "We're at your place.￥What now?"
+  },
+  {
+   "off": 1487,
+   "budget": 57,
+   "en": "We're at Jean Jack Gibson's house.￥What now?"
+  },
+  {
+   "off": 1544,
+   "budget": 41,
+   "en": "We're at Altamira.￥What now?"
+  },
+  {
+   "off": 1585,
+   "budget": 45,
+   "en": "We're at Outer Heaven.￥What now?"
+  },
+  {
+   "off": 1630,
+   "budget": 49,
+   "en": "We're at Joy Division. What now?"
+  },
+  {
+   "off": 1679,
+   "budget": 49,
+   "en": "We're at Ivan Rodriguez's apartment.￥What now?"
+  },
+  {
+   "off": 1728,
+   "budget": 53,
+   "en": "We're at Freddy Nielsen's apartment.￥What now?"
+  },
+  {
+   "off": 1781,
+   "budget": 41,
+   "en": "All right. We're heading to JUNKER￥HQ."
+  },
+  {
+   "off": 1822,
+   "budget": 35,
+   "en": "Heading for Gillian's home, then.",
+   "long": "All right. We're heading to your￥place."
+  },
+  {
+   "off": 1857,
+   "budget": 53,
+   "en": "Heading for Jean Jack Gibson's home,￥then.",
+   "long": "All right. We're heading to Jean￥Jack Gibson's house."
+  },
+  {
+   "off": 1910,
+   "budget": 35,
+   "en": "Heading for Altamira, then.",
+   "long": "All right. We're heading to￥Altamira."
+  },
+  {
+   "off": 1945,
+   "budget": 37,
+   "en": "Heading for Outer Heaven, then.",
+   "long": "All right. We're heading to Outer￥Heaven."
+  },
+  {
+   "off": 1982,
+   "budget": 43,
+   "en": "All right. We're heading to Joy Division.",
+   "long": "All right. We're heading to Joy￥Division."
+  },
+  {
+   "off": 2025,
+   "budget": 45,
+   "en": "Heading for Ivan Rodriguez's home,￥then.",
+   "long": "All right. We're heading to Ivan￥Rodriguez's apartment."
+  },
+  {
+   "off": 2070,
+   "budget": 47,
+   "en": "Heading for Freddy Nielsen's home,￥then.",
+   "long": "All right. We're heading to Freddy￥Nielsen's apartment."
+  },
+  {
+   "off": 2119,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

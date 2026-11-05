@@ -1,0 +1,128 @@
+{
+ "scene": "B1E0",
+ "note": "cov: from the wg18_B1E0_random card (FILE 2: Queen Hospital with Randam, outside, after the runaway Tricycle): the whole-game route's actions 548-561 with 'Door 3' (the route's 'Dr 3' no longer matches). Gets as far as Door 3 with Metal's light on (bookmark cov_B1E0_dr3_lit) and STOPS there: the light never reaches the floor rails and the vase (light_to's blob measure sticks at (86,66)), so Peep and the stairway down to the basement (B200: f78-f86, the room-1 snatcher c7f8-c7f17) are not offered.",
+ "actions": [
+  {
+   "path": [
+    "Move",
+    "Go inside"
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "sweep": [
+    "Press switch"
+   ],
+   "rounds": 1,
+   "why": "the doors are shut again on this visit"
+  },
+  {
+   "path": [
+    "Move",
+    "Door 3|Dr 3"
+   ]
+  },
+  {
+   "path": [
+    "Use Metal Gear",
+    "Turn on light"
+   ],
+   "optional": true
+  },
+  {
+   "light_to": [
+    49,
+    122
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "reps": 2
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "reps": 2
+  },
+  {
+   "light_to": [
+    80,
+    81
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "reps": 2
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "reps": 2
+  },
+  {
+   "sweep": [
+    "Peep",
+    "Look",
+    "Investigate",
+    "Look around"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out",
+    "Save",
+    "Turn on light"
+   ]
+  },
+  {
+   "sweep": [
+    "Move"
+   ],
+   "each": [
+    "Look",
+    "Investigate",
+    "Look around",
+    "Talk"
+   ],
+   "each_rounds": 2,
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Press switch",
+    "Talk",
+    "Look around"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "idle": 2000
+  },
+  {
+   "save": "cov_B1E0_dr3_lit"
+  }
+ ]
+}

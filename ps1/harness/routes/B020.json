@@ -1,0 +1,133 @@
+{
+ "scene": "B020",
+ "note": "The ruins, following guides/ps1.txt ABANDONED FACTORY. Movement and the Metal Gear analysis are explicit paths; every examination is a `sweep` - open each listed verb and pick every item it offers, `rounds` times - which is how Luiz says the game is played (a second visit to a verb often yields the line that moves the scene on) and needs no guessed labels. Gibson's body is TWO screens past Little John. The scene ends in an insector shootout after retreating, which the harness fights by holding the enemy's cell from ctx+0x1DF5.",
+ "source": "guides/ps1.txt ABANDONED FACTORY",
+ "actions": [
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "why": "EXIT TURBOCYCLE"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2,
+   "why": "LOOK or INVESTIGATE any option (x8) until a scream is heard"
+  },
+  {
+   "path": [
+    "Go inside"
+   ],
+   "why": "ENTER the factory"
+  },
+  {
+   "path": [
+    "Move",
+    "Forward"
+   ],
+   "why": "MOVE and ADVANCE"
+  },
+  {
+   "save": "B020_lj"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen"
+   ],
+   "rounds": 2,
+   "why": "LOOK at LITTLE JOHN, INVESTIGATE LITTLE JOHN, then MEMORY CHIP"
+  },
+  {
+   "path": [
+    "Use Metal Gear",
+    "Analysis",
+    "Little John's memory"
+   ],
+   "optional": true,
+   "why": "USE METAL GEAR to REPORT ANALYSIS RESULTS"
+  },
+  {
+   "path": [
+    "Move",
+    "Forward"
+   ],
+   "reps": 2,
+   "why": "MOVE and ADVANCE (x2) - Gibson is two screens past Little John"
+  },
+  {
+   "save": "B020_gibson"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Item",
+    "Listen"
+   ],
+   "rounds": 3,
+   "why": "the whole autopsy: corpse x2, right hand, organic compounds, clothing x2, key, scrap of paper, then Item -> hair and skin sample analysis"
+  },
+  {
+   "path": [
+    "Move",
+    "Forward"
+   ],
+   "why": "MOVE and ADVANCE"
+  },
+  {
+   "save": "B020_front"
+  },
+  {
+   "sweep": [
+    "Listen",
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2,
+   "why": "LISTEN, LOOK and INVESTIGATE the FRONT, the MOTION DETECTOR"
+  },
+  {
+   "path": [
+    "Back"
+   ],
+   "why": "RETREAT (the front offers Back as a verb)"
+  },
+  {
+   "path": [
+    "Move",
+    "Back"
+   ],
+   "reps": 2,
+   "why": "MOVE and RETREAT (x2)"
+  },
+  {
+   "path": [
+    "Look",
+    "Little John"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B020_prefight"
+  },
+  {
+   "path": [
+    "Move",
+    "Back"
+   ],
+   "why": "RETREAT - the insector fight"
+  },
+  {
+   "path": [
+    "Move",
+    "Go out|Forward"
+   ],
+   "why": "MOVE to the EXIT - the factory blows up behind them"
+  }
+ ]
+}

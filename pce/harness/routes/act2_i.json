@@ -1,0 +1,444 @@
+[
+{
+"items": 1
+},
+{
+"save": "hq6"
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Booth"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"maybe": "Open shutter"
+},
+{
+"read": 20000
+},
+{
+"items": 1
+},
+{
+"save": "hq6_hall"
+},
+{
+"maybe": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": "Mechanic room"
+},
+{
+"read": 8000
+},
+{
+"maybe": "Motion detector"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Search",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"maybe": "Look"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": "Computer room"
+},
+{
+"read": 8000
+},
+{
+"maybe": "Motion detector"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Use Gaudi"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"sweep": "Search",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"maybe": "Look"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": "Squad room"
+},
+{
+"read": 8000
+},
+{
+"maybe": "Motion detector"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Search",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"maybe": "Look"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": "Shooting range"
+},
+{
+"read": 8000
+},
+{
+"maybe": "Motion detector"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Train"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"sweep": "Search",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"maybe": "Look"
+},
+{
+"read": 6000
+},
+{
+"save": "hq6_rooms"
+},
+{
+"aim": "head"
+},
+{
+"chief_room": true
+},
+{
+"choose": [
+"On the desk",
+"Desk"
+]
+},
+{
+"read": 6000
+},
+{
+"choose": "Look"
+},
+{
+"choose": "Stain on desk"
+},
+{
+"read": 6000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Stain on desk"
+},
+{
+"read": 8000
+},
+{
+"choose": "Search"
+},
+{
+"choose": "Ceiling"
+},
+{
+"read": 25000
+},
+{
+"items": 1
+},
+{
+"save": "hq6_chief"
+},
+{
+"read": 15000
+},
+{
+"items": 1
+},
+{
+"maybe": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": "Mechanic room"
+},
+{
+"read": 8000
+},
+{
+"maybe": "Motion detector"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Search",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"maybe": "Look"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": "Computer room"
+},
+{
+"read": 8000
+},
+{
+"maybe": "Motion detector"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Search",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"maybe": "Look"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": "Squad room"
+},
+{
+"read": 8000
+},
+{
+"maybe": "Motion detector"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Search",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"maybe": "Look"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": "Shooting range"
+},
+{
+"read": 8000
+},
+{
+"maybe": "Motion detector"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Search",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"maybe": "Look"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Move"
+},
+{
+"items": 1
+},
+{
+"maybe": "Hallway"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"save": "hq6_hall2"
+},
+{
+"aim": "sides"
+},
+{
+"maybe": "Move"
+},
+{
+"items": 1
+},
+{
+"maybe": "Front desk"
+},
+{
+"read": 30000
+},
+{
+"items": 1
+},
+{
+"save": "hq6_fight"
+},
+{
+"repeat": [
+{
+"aim": "sides"
+},
+{
+"choose": "Continue"
+},
+{
+"read": 30000
+}
+],
+"until": "Don't save",
+"max": 12
+},
+{
+"read": 30000
+},
+{
+"items": 1
+},
+{
+"save": "act2_end"
+},
+{
+"choose": "Don't save"
+},
+{
+"read": 40000
+},
+{
+"items": 1
+},
+{
+"save": "act3_start"
+}
+]

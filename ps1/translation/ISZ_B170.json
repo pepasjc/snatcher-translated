@@ -1,0 +1,302 @@
+{
+ "file": "ISZ_B170.BIN",
+ "text_base": 1729,
+ "strings": [
+  {
+   "off": 1729,
+   "budget": 5,
+   "en": ""
+  },
+  {
+   "off": 1734,
+   "budget": 51,
+   "en": "We are aboard the Tricycle. Where￥shall we go?"
+  },
+  {
+   "off": 1785,
+   "budget": 63,
+   "en": "Gillian! Videophone from Jamie.￥...Putting it through!",
+   "long": "Gillian! Jamie is calling on the￥videophone. I'll put her through!"
+  },
+  {
+   "off": 1848,
+   "budget": 17,
+   "en": "JUNKER HQ"
+  },
+  {
+   "off": 1865,
+   "budget": 11,
+   "en": "Gillian's",
+   "long": "Gillian's home"
+  },
+  {
+   "off": 1876,
+   "budget": 11,
+   "en": "Gibson's",
+   "long": "Gibson's home"
+  },
+  {
+   "off": 1887,
+   "budget": 13,
+   "en": "Altamira"
+  },
+  {
+   "off": 1900,
+   "budget": 13,
+   "en": "Oleen Hosp.",
+   "long": "Oleen Hospital"
+  },
+  {
+   "off": 1913,
+   "budget": 13,
+   "en": "Queen Hosp",
+   "long": "Queen Hospital"
+  },
+  {
+   "off": 1926,
+   "budget": 15,
+   "en": "Outer Heaven"
+  },
+  {
+   "off": 1941,
+   "budget": 11,
+   "en": "Get out",
+   "long": "Exit Tricycle"
+  },
+  {
+   "off": 1952,
+   "budget": 41,
+   "en": "No use going back to the flats.",
+   "long": "There's no point going back to the￥apartment."
+  },
+  {
+   "off": 1993,
+   "budget": 59,
+   "en": "I've already asked the Kobe Police￥to protect Catherine."
+  },
+  {
+   "off": 2052,
+   "budget": 29,
+   "en": "Hurry to Queen Hospital.",
+   "long": "Let's hurry to Queen Hospital."
+  },
+  {
+   "off": 2081,
+   "budget": 31,
+   "en": "Let's go to Queen Hospital."
+  },
+  {
+   "off": 2112,
+   "budget": 57,
+   "en": "What's wrong? Aren't we going to see￥Catherine?"
+  },
+  {
+   "off": 2169,
+   "budget": 51,
+   "en": "Catherine isn't here. Let's look￥elsewhere!"
+  },
+  {
+   "off": 2220,
+   "budget": 65,
+   "en": "The Snatchers will get there first￥if we waste time. Hurry!"
+  },
+  {
+   "off": 2285,
+   "budget": 49,
+   "en": "We're finished here. Let's get￥going!"
+  },
+  {
+   "off": 2334,
+   "budget": 77,
+   "en": "What are you doing!￥Let's learn whose chart that is,￥and quickly!!",
+   "long": "What are you doing? We need to find￥out whose medical record that is,￥right away!"
+  },
+  {
+   "off": 2411,
+   "budget": 47,
+   "en": "Gillian, hurry to JUNKER￥headquarters!"
+  },
+  {
+   "off": 2458,
+   "budget": 45,
+   "en": "You arrive at JUNKER HQ.￥What will you do?",
+   "long": "We've arrived at JUNKER￥headquarters. What will you do?"
+  },
+  {
+   "off": 2503,
+   "budget": 41,
+   "en": "You arrive at Gillian's.￥What now?",
+   "long": "We've arrived at your home. What￥will you do?"
+  },
+  {
+   "off": 2544,
+   "budget": 59,
+   "en": "You reach Jean Jack Gibson's￥home. What will you do?",
+   "long": "We've arrived at Jean Jack Gibson's￥home. What will you do?"
+  },
+  {
+   "off": 2603,
+   "budget": 41,
+   "en": "You arrive outside Altamira.￥What now?",
+   "long": "We've arrived outside Altamira. What￥will you do?"
+  },
+  {
+   "off": 2644,
+   "budget": 45,
+   "en": "You reach 'Oleen' Hospital.￥What now?",
+   "long": "We've arrived at Oleen Hospital.￥What will you do?"
+  },
+  {
+   "off": 2689,
+   "budget": 41,
+   "en": "You reach Queen Hospital.￥What now?",
+   "long": "We've arrived at Queen Hospital.￥What will you do?"
+  },
+  {
+   "off": 2730,
+   "budget": 49,
+   "en": "You reach 'Outer Heaven'.￥What will you do?",
+   "long": "We've arrived at Outer Heaven. What￥will you do?"
+  },
+  {
+   "off": 2779,
+   "budget": 41,
+   "en": "Then we're heading for JUNKER HQ.",
+   "long": "Setting course for JUNKER￥headquarters."
+  },
+  {
+   "off": 2820,
+   "budget": 25,
+   "en": "Let's head home once.",
+   "long": "Let's head home for a while."
+  },
+  {
+   "off": 2845,
+   "budget": 59,
+   "en": "Yes, that reader's words nag at￥me too...",
+   "long": "Yes, I'm concerned about what that￥fortune teller said, too."
+  },
+  {
+   "off": 2904,
+   "budget": 53,
+   "en": "Yes, it might be worth searching the￥neighborhood."
+  },
+  {
+   "off": 2957,
+   "budget": 21,
+   "en": "Off we go, Metal!",
+   "long": "All right, let's go, Metal!"
+  },
+  {
+   "off": 2978,
+   "budget": 33,
+   "en": "Understood, to your home.",
+   "long": "Understood. Setting course for your￥home."
+  },
+  {
+   "off": 3011,
+   "budget": 35,
+   "en": "Setting course for your home."
+  },
+  {
+   "off": 3046,
+   "budget": 79,
+   "en": "Why would you go home at a time like￥this? We need to find Catherine!"
+  },
+  {
+   "off": 3125,
+   "budget": 69,
+   "en": "Gillian! Find Catherine first. You￥can go home afterward!"
+  },
+  {
+   "off": 3194,
+   "budget": 79,
+   "en": "Hurry to Gibson's house!￥Set the traffic system to top￥priority for it!!",
+   "long": "Hurry to Gibson's house! Get us top￥priority in the automatic traffic￥system all the way there!"
+  },
+  {
+   "off": 3273,
+   "budget": 7,
+   "en": "Roger!",
+   "long": "Understood!"
+  },
+  {
+   "off": 3280,
+   "budget": 29,
+   "en": "Catherine, please be safe!"
+  },
+  {
+   "off": 3309,
+   "budget": 53,
+   "en": "Setting course for Jean Jack￥Gibson's home."
+  },
+  {
+   "off": 3362,
+   "budget": 35,
+   "en": "Setting course for Altamira."
+  },
+  {
+   "off": 3397,
+   "budget": 41,
+   "en": "Setting course for Oleen Hospital."
+  },
+  {
+   "off": 3438,
+   "budget": 33,
+   "en": "Right, to Queen Hospital!",
+   "long": "All right, let's go to Queen￥Hospital!"
+  },
+  {
+   "off": 3471,
+   "budget": 23,
+   "en": "At last, then..."
+  },
+  {
+   "off": 3494,
+   "budget": 35,
+   "en": "Setting course for Queen Hospital."
+  },
+  {
+   "off": 3529,
+   "budget": 45,
+   "en": "Setting course for Outer Heaven."
+  },
+  {
+   "off": 3574,
+   "budget": 63,
+   "en": "Where are you going, Gillian?￥Catherine is in danger!"
+  },
+  {
+   "off": 3637,
+   "budget": 37,
+   "en": "Gillian! Hurry to Gibson's house!"
+  },
+  {
+   "off": 3674,
+   "budget": 51,
+   "en": "Where are you going?￥Hurry to Queen Hospital.",
+   "long": "Where are you going? We need to￥hurry to Queen Hospital."
+  },
+  {
+   "off": 3725,
+   "budget": 47,
+   "en": "Let's go to Queen Hospital first."
+  },
+  {
+   "off": 3772,
+   "budget": 45,
+   "en": "Hurry to JUNKER headquarters,￥Gillian!"
+  },
+  {
+   "off": 3817,
+   "budget": 27,
+   "en": "Running away, Gillian!",
+   "long": "Are you running away, Gillian?"
+  },
+  {
+   "off": 3846,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

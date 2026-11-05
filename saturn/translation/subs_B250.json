@@ -1,0 +1,1858 @@
+{
+ "scene": "B250",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B250_c9f83",
+   "line": 737,
+   "act": 3,
+   "sector": 2005,
+   "offset": 265,
+   "size": 43325,
+   "b0": 0,
+   "b1": 43325,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Kremlin map data entered. Heading for the church.",
+   "rows": [
+    "Kremlin map data entered.",
+    "Heading for the church."
+   ],
+   "rows_plain": [
+    "Kremlin map data entered. Heading",
+    "for the church."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B250_c9f84",
+   "line": 738,
+   "act": 3,
+   "sector": 2023,
+   "offset": 1758,
+   "size": 22727,
+   "b0": 0,
+   "b1": 22727,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Flight mode. Ascending.",
+   "rows": [
+    "Flight mode. Ascending."
+   ],
+   "rows_plain": [
+    "Flight mode. Ascending."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c9f85",
+   "line": 739,
+   "act": 3,
+   "sector": 2033,
+   "offset": 1245,
+   "size": 20419,
+   "b0": 0,
+   "b1": 20419,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Jamie, please be safe.",
+   "rows": [
+    "Jamie, please be safe."
+   ],
+   "rows_plain": [
+    "Jamie, please be safe."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B250_c9f86",
+   "line": 740,
+   "act": 3,
+   "sector": 2042,
+   "offset": 748,
+   "size": 33231,
+   "b0": 0,
+   "b1": 33231,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Remember our time limit, Gillian.",
+   "rows": [
+    "Remember our time limit,",
+    "Gillian."
+   ],
+   "rows_plain": [
+    "Remember our time limit, Gillian."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f1",
+   "line": 741,
+   "act": 3,
+   "sector": 2056,
+   "offset": 1443,
+   "size": 41925,
+   "b0": 0,
+   "b1": 41925,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Fifty years to make up for in just twelve hours.",
+   "rows": [
+    "Fifty years to make up for",
+    "in just twelve hours."
+   ],
+   "rows_plain": [
+    "Fifty years to make up for in just",
+    "twelve hours."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f2",
+   "line": 742,
+   "act": 3,
+   "sector": 2074,
+   "offset": 1536,
+   "size": 5271,
+   "b0": 0,
+   "b1": 5271,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Snow!",
+   "rows": [
+    "Snow!"
+   ],
+   "rows_plain": [
+    "Snow!"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B250_c10f3",
+   "line": 743,
+   "act": 3,
+   "sector": 2076,
+   "offset": 2159,
+   "size": 97899,
+   "b0": 0,
+   "b1": 75216,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Snow Cedar. We've entered the Snow Cedar area. Put on your nasal filters.",
+   "rows": [
+    "Snow Cedar. We've entered",
+    "the Snow Cedar area. Put on",
+    "your nasal filters."
+   ],
+   "rows_plain": [
+    "Snow Cedar. We've entered the Snow",
+    "Cedar area. Put on your nasal",
+    "filters."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f3b",
+   "line": 743,
+   "act": 3,
+   "sector": 2076,
+   "offset": 2159,
+   "size": 97899,
+   "b0": 75216,
+   "b1": 97899,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Inhaling it is dangerous.",
+   "rows": [
+    "Inhaling it is dangerous."
+   ],
+   "rows_plain": [
+    "Inhaling it is dangerous."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f4",
+   "line": 744,
+   "act": 3,
+   "sector": 2119,
+   "offset": 126,
+   "size": 3818,
+   "b0": 0,
+   "b1": 3818,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Understood.",
+   "rows": [
+    "Understood."
+   ],
+   "rows_plain": [
+    "Understood."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f5",
+   "line": 745,
+   "act": 3,
+   "sector": 2120,
+   "offset": 1620,
+   "size": 29441,
+   "b0": 0,
+   "b1": 29441,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Radio contact will be impossible from here. Ready?",
+   "rows": [
+    "Radio contact will be",
+    "impossible from here. Ready?"
+   ],
+   "rows_plain": [
+    "Radio contact will be impossible",
+    "from here. Ready?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f6",
+   "line": 746,
+   "act": 3,
+   "sector": 2133,
+   "offset": 849,
+   "size": 43823,
+   "b0": 0,
+   "b1": 43823,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Descending. Switched to hover mode.",
+   "rows": [
+    "Descending. Switched to",
+    "hover mode."
+   ],
+   "rows_plain": [
+    "Descending. Switched to hover mode."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f7",
+   "line": 747,
+   "act": 3,
+   "sector": 2152,
+   "offset": 516,
+   "size": 21930,
+   "b0": 0,
+   "b1": 21930,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We've arrived, Gillian. What now?",
+   "rows": [
+    "We've arrived, Gillian. What",
+    "now?"
+   ],
+   "rows_plain": [
+    "We've arrived, Gillian. What now?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f8",
+   "line": 748,
+   "act": 3,
+   "sector": 2161,
+   "offset": 1530,
+   "size": 19755,
+   "b0": 0,
+   "b1": 19755,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll open the door.",
+   "rows": [
+    "I'll open the door."
+   ],
+   "rows_plain": [
+    "I'll open the door."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B250_c10f9",
+   "line": 749,
+   "act": 3,
+   "sector": 2170,
+   "offset": 369,
+   "size": 24129,
+   "b0": 0,
+   "b1": 24129,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Huh? It won't open.",
+   "rows": [
+    "Huh? It won't open."
+   ],
+   "rows_plain": [
+    "Huh? It won't open."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f10",
+   "line": 750,
+   "act": 3,
+   "sector": 2180,
+   "offset": 1258,
+   "size": 46046,
+   "b0": 0,
+   "b1": 46046,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "My scan shows no lock. It must be rusted shut.",
+   "rows": [
+    "My scan shows no lock. It",
+    "must be rusted shut."
+   ],
+   "rows_plain": [
+    "My scan shows no lock. It must be",
+    "rusted shut."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f11",
+   "line": 751,
+   "act": 3,
+   "sector": 2200,
+   "offset": 824,
+   "size": 24823,
+   "b0": 0,
+   "b1": 24823,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Well, they come and go underground.",
+   "rows": [
+    "Well, they come and go",
+    "underground."
+   ],
+   "rows_plain": [
+    "Well, they come and go underground."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f12",
+   "line": 752,
+   "act": 3,
+   "sector": 2211,
+   "offset": 83,
+   "size": 12631,
+   "b0": 0,
+   "b1": 12631,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's push together.",
+   "rows": [
+    "Let's push together."
+   ],
+   "rows_plain": [
+    "Let's push together."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f13",
+   "line": 753,
+   "act": 3,
+   "sector": 2216,
+   "offset": 1094,
+   "size": 26943,
+   "b0": 0,
+   "b1": 26943,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Ready? Push! One, two, three!",
+   "rows": [
+    "Ready? Push! One, two,",
+    "three!"
+   ],
+   "rows_plain": [
+    "Ready? Push! One, two, three!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f14",
+   "line": 754,
+   "act": 3,
+   "sector": 2228,
+   "offset": 149,
+   "size": 12814,
+   "b0": 0,
+   "b1": 12814,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "It's open.",
+   "rows": [
+    "It's open."
+   ],
+   "rows_plain": [
+    "It's open."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f15",
+   "line": 755,
+   "act": 3,
+   "sector": 2233,
+   "offset": 1343,
+   "size": 57011,
+   "b0": 0,
+   "b1": 32964,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "This is the process of covering a Snatcher's frame,",
+   "rows": [
+    "This is the process of",
+    "covering a Snatcher's frame,"
+   ],
+   "rows_plain": [
+    "This is the process of covering a",
+    "Snatcher's frame,"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B250_c10f15b",
+   "line": 755,
+   "act": 3,
+   "sector": 2233,
+   "offset": 1343,
+   "size": 57011,
+   "b0": 32964,
+   "b1": 57011,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "its endoskeleton, with artificial skin.",
+   "rows": [
+    "its endoskeleton, with",
+    "artificial skin."
+   ],
+   "rows_plain": [
+    "its endoskeleton, with artificial",
+    "skin."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B250_c10f16",
+   "line": 756,
+   "act": 3,
+   "sector": 2258,
+   "offset": 254,
+   "size": 74257,
+   "b0": 0,
+   "b1": 74257,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "First, they resize the bare Snatcher to match its victim.",
+   "rows": [
+    "First, they resize the bare",
+    "Snatcher to match its",
+    "victim."
+   ],
+   "rows_plain": [
+    "First, they resize the bare Snatcher",
+    "to match its victim."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B250_c10f17",
+   "line": 757,
+   "act": 3,
+   "sector": 2290,
+   "offset": 143,
+   "size": 185620,
+   "b0": 0,
+   "b1": 30943,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Its shape and size are adjusted by extending",
+   "rows": [
+    "Its shape and size are",
+    "adjusted by extending"
+   ],
+   "rows_plain": [
+    "Its shape and size are adjusted by",
+    "extending"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f17b",
+   "line": 757,
+   "act": 3,
+   "sector": 2290,
+   "offset": 143,
+   "size": 185620,
+   "b0": 30943,
+   "b1": 82908,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "or contracting its units and slots. They change its sex by replacing the sex unit.",
+   "rows": [
+    "or contracting its units and",
+    "slots. They change its sex",
+    "by replacing the sex unit."
+   ],
+   "rows_plain": [
+    "or contracting its units and slots.",
+    "They change its sex by replacing the",
+    "sex unit."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f17c",
+   "line": 757,
+   "act": 3,
+   "sector": 2290,
+   "offset": 143,
+   "size": 185620,
+   "b0": 82908,
+   "b1": 129949,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "To copy the victim's face, they adjust the upper and lower jaws,",
+   "rows": [
+    "To copy the victim's face,",
+    "they adjust the upper and",
+    "lower jaws,"
+   ],
+   "rows_plain": [
+    "To copy the victim's face, they",
+    "adjust the upper and lower jaws,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f17d",
+   "line": 757,
+   "act": 3,
+   "sector": 2290,
+   "offset": 143,
+   "size": 185620,
+   "b0": 129949,
+   "b1": 185620,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "cheekbones, temporal bones and teeth to match the data.",
+   "rows": [
+    "cheekbones, temporal bones",
+    "and teeth to match the data."
+   ],
+   "rows_plain": [
+    "cheekbones, temporal bones and teeth",
+    "to match the data."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f18",
+   "line": 758,
+   "act": 3,
+   "sector": 2369,
+   "offset": 2167,
+   "size": 43795,
+   "b0": 0,
+   "b1": 43795,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "As Gibson said, this limits the size of the people they can snatch.",
+   "rows": [
+    "As Gibson said, this limits",
+    "the size of the people they",
+    "can snatch."
+   ],
+   "rows_plain": [
+    "As Gibson said, this limits the size",
+    "of the people they can snatch."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f19",
+   "line": 759,
+   "act": 3,
+   "sector": 2388,
+   "offset": 1806,
+   "size": 62528,
+   "b0": 0,
+   "b1": 32591,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "They can only expand or change shape so far.",
+   "rows": [
+    "They can only expand or",
+    "change shape so far."
+   ],
+   "rows_plain": [
+    "They can only expand or change shape",
+    "so far."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f19b",
+   "line": 759,
+   "act": 3,
+   "sector": 2388,
+   "offset": 1806,
+   "size": 62528,
+   "b0": 32591,
+   "b1": 62528,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "They can't snatch children, the elderly or large men.",
+   "rows": [
+    "They can't snatch children,",
+    "the elderly or large men."
+   ],
+   "rows_plain": [
+    "They can't snatch children, the",
+    "elderly or large men."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f20",
+   "line": 760,
+   "act": 3,
+   "sector": 2415,
+   "offset": 1586,
+   "size": 65427,
+   "b0": 0,
+   "b1": 65427,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Next, they cover the skeleton with muscle. Only skeletal muscle, of course.",
+   "rows": [
+    "Next, they cover the",
+    "skeleton with muscle. Only",
+    "skeletal muscle, of course."
+   ],
+   "rows_plain": [
+    "Next, they cover the skeleton with",
+    "muscle. Only skeletal muscle, of",
+    "course."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f21",
+   "line": 761,
+   "act": 3,
+   "sector": 2443,
+   "offset": 1941,
+   "size": 10093,
+   "b0": 0,
+   "b1": 10093,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Is it organic?",
+   "rows": [
+    "Is it organic?"
+   ],
+   "rows_plain": [
+    "Is it organic?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f22",
+   "line": 762,
+   "act": 3,
+   "sector": 2448,
+   "offset": 414,
+   "size": 95808,
+   "b0": 0,
+   "b1": 54779,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "No. It seems to be a plastic gel whose surface responds mechanically.",
+   "rows": [
+    "No. It seems to be a plastic",
+    "gel whose surface responds",
+    "mechanically."
+   ],
+   "rows_plain": [
+    "No. It seems to be a plastic gel",
+    "whose surface responds mechanically."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f22b",
+   "line": 762,
+   "act": 3,
+   "sector": 2448,
+   "offset": 414,
+   "size": 95808,
+   "b0": 54779,
+   "b1": 95808,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "It converts chemical reactions into mechanical energy.",
+   "rows": [
+    "It converts chemical",
+    "reactions into mechanical",
+    "energy."
+   ],
+   "rows_plain": [
+    "It converts chemical reactions into",
+    "mechanical energy."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f23",
+   "line": 763,
+   "act": 3,
+   "sector": 2489,
+   "offset": 938,
+   "size": 38676,
+   "b0": 0,
+   "b1": 38676,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "This is where they apply the troublesome artificial skin.",
+   "rows": [
+    "This is where they apply the",
+    "troublesome artificial skin."
+   ],
+   "rows_plain": [
+    "This is where they apply the",
+    "troublesome artificial skin."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f24",
+   "line": 764,
+   "act": 3,
+   "sector": 2506,
+   "offset": 106,
+   "size": 124536,
+   "b0": 0,
+   "b1": 90197,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Synthetic cells made with biotechnology and protein design are grafted",
+   "rows": [
+    "Synthetic cells made with",
+    "biotechnology and protein",
+    "design are grafted"
+   ],
+   "rows_plain": [
+    "Synthetic cells made with",
+    "biotechnology and protein design are",
+    "grafted"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f24b",
+   "line": 764,
+   "act": 3,
+   "sector": 2506,
+   "offset": 106,
+   "size": 124536,
+   "b0": 90197,
+   "b1": 124536,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "on slowly to avoid rejection of the inorganic parts beneath.",
+   "rows": [
+    "on slowly to avoid rejection",
+    "of the inorganic parts",
+    "beneath."
+   ],
+   "rows_plain": [
+    "on slowly to avoid rejection of the",
+    "inorganic parts beneath."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f25",
+   "line": 765,
+   "act": 3,
+   "sector": 2559,
+   "offset": 1470,
+   "size": 23595,
+   "b0": 0,
+   "b1": 23595,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Defective skin that turns cancerous under UV light.",
+   "rows": [
+    "Defective skin that turns",
+    "cancerous under UV light."
+   ],
+   "rows_plain": [
+    "Defective skin that turns cancerous",
+    "under UV light."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f26",
+   "line": 766,
+   "act": 3,
+   "sector": 2569,
+   "offset": 1825,
+   "size": 99797,
+   "b0": 0,
+   "b1": 44032,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Finally, they implant hair on the head and body.",
+   "rows": [
+    "Finally, they implant hair",
+    "on the head and body."
+   ],
+   "rows_plain": [
+    "Finally, they implant hair on the",
+    "head and body."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f26b",
+   "line": 766,
+   "act": 3,
+   "sector": 2569,
+   "offset": 1825,
+   "size": 99797,
+   "b0": 44032,
+   "b1": 76333,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "They transplant artificial hair follicle cells,",
+   "rows": [
+    "They transplant artificial",
+    "hair follicle cells,"
+   ],
+   "rows_plain": [
+    "They transplant artificial hair",
+    "follicle cells,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f26bb",
+   "line": 766,
+   "act": 3,
+   "sector": 2569,
+   "offset": 1825,
+   "size": 99797,
+   "b0": 76333,
+   "b1": 99797,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "so the hair regrows even if it falls out.",
+   "rows": [
+    "so the hair regrows even if",
+    "it falls out."
+   ],
+   "rows_plain": [
+    "so the hair regrows even if it falls",
+    "out."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f27",
+   "line": 767,
+   "act": 3,
+   "sector": 2612,
+   "offset": 1690,
+   "size": 24606,
+   "b0": 0,
+   "b1": 24606,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What about scars, blemishes and burns?",
+   "rows": [
+    "What about scars, blemishes",
+    "and burns?"
+   ],
+   "rows_plain": [
+    "What about scars, blemishes and",
+    "burns?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f28",
+   "line": 768,
+   "act": 3,
+   "sector": 2623,
+   "offset": 732,
+   "size": 74727,
+   "b0": 0,
+   "b1": 49225,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "They're added at this stage, using the victim's data.",
+   "rows": [
+    "They're added at this stage,",
+    "using the victim's data."
+   ],
+   "rows_plain": [
+    "They're added at this stage, using",
+    "the victim's data."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f28c",
+   "line": 768,
+   "act": 3,
+   "sector": 2623,
+   "offset": 732,
+   "size": 74727,
+   "b0": 49225,
+   "b1": 74727,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Wrinkles and signs of age, too.",
+   "rows": [
+    "Wrinkles and signs of age,",
+    "too."
+   ],
+   "rows_plain": [
+    "Wrinkles and signs of age, too."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f29",
+   "line": 769,
+   "act": 3,
+   "sector": 2655,
+   "offset": 1091,
+   "size": 115243,
+   "b0": 0,
+   "b1": 36429,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "This is where they create human replacements",
+   "rows": [
+    "This is where they create",
+    "human replacements"
+   ],
+   "rows_plain": [
+    "This is where they create human",
+    "replacements"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B250_c10f29b",
+   "line": 769,
+   "act": 3,
+   "sector": 2655,
+   "offset": 1091,
+   "size": 115243,
+   "b0": 36429,
+   "b1": 68808,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "from endoskeletons sent by the Kremlin.",
+   "rows": [
+    "from endoskeletons sent by",
+    "the Kremlin."
+   ],
+   "rows_plain": [
+    "from endoskeletons sent by the",
+    "Kremlin."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B250_c10f29bx",
+   "line": 769,
+   "act": 3,
+   "sector": 2655,
+   "offset": 1091,
+   "size": 115243,
+   "b0": 68808,
+   "b1": 115243,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Then they send them into the city through the tunnels.",
+   "rows": [
+    "Then they send them into the",
+    "city through the tunnels."
+   ],
+   "rows_plain": [
+    "Then they send them into the city",
+    "through the tunnels."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B250_c10f30",
+   "line": 770,
+   "act": 3,
+   "sector": 2705,
+   "offset": 134,
+   "size": 32062,
+   "b0": 0,
+   "b1": 32062,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "And Queen Hospital maintains their artificial skin.",
+   "rows": [
+    "And Queen Hospital maintains",
+    "their artificial skin."
+   ],
+   "rows_plain": [
+    "And Queen Hospital maintains their",
+    "artificial skin."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f31",
+   "line": 771,
+   "act": 3,
+   "sector": 2718,
+   "offset": 1984,
+   "size": 15545,
+   "b0": 0,
+   "b1": 15545,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "But who's behind it? And why?",
+   "rows": [
+    "But who's behind it? And",
+    "why?"
+   ],
+   "rows_plain": [
+    "But who's behind it? And why?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f32",
+   "line": 772,
+   "act": 3,
+   "sector": 2725,
+   "offset": 1261,
+   "size": 62196,
+   "b0": 0,
+   "b1": 62196,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Look over there, Gillian. Several Snatchers are already complete.",
+   "rows": [
+    "Look over there, Gillian.",
+    "Several Snatchers are",
+    "already complete."
+   ],
+   "rows_plain": [
+    "Look over there, Gillian. Several",
+    "Snatchers are already complete."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f33",
+   "line": 773,
+   "act": 3,
+   "sector": 2752,
+   "offset": 709,
+   "size": 42392,
+   "b0": 0,
+   "b1": 42392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Look! The American president! The Japanese and British prime ministers!",
+   "rows": [
+    "Look! The American",
+    "president! The Japanese and",
+    "British prime ministers!"
+   ],
+   "rows_plain": [
+    "Look! The American president! The",
+    "Japanese and British prime",
+    "ministers!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f34",
+   "line": 774,
+   "act": 3,
+   "sector": 2770,
+   "offset": 1269,
+   "size": 13103,
+   "b0": 0,
+   "b1": 13103,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "You too, Gillian!",
+   "rows": [
+    "You too, Gillian!"
+   ],
+   "rows_plain": [
+    "You too, Gillian!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f35",
+   "line": 775,
+   "act": 3,
+   "sector": 2776,
+   "offset": 428,
+   "size": 62745,
+   "b0": 0,
+   "b1": 62745,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I knew it! They'll attack the summit and snatch every country's leaders at once!",
+   "rows": [
+    "I knew it! They'll attack",
+    "the summit and snatch every",
+    "country's leaders at once!"
+   ],
+   "rows_plain": [
+    "I knew it! They'll attack the summit",
+    "and snatch every country's leaders",
+    "at once!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f36",
+   "line": 776,
+   "act": 3,
+   "sector": 2803,
+   "offset": 425,
+   "size": 60818,
+   "b0": 0,
+   "b1": 60818,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "They intend to snatch you, the last JUNKER, and then leave the city.",
+   "rows": [
+    "They intend to snatch you,",
+    "the last JUNKER, and then",
+    "leave the city."
+   ],
+   "rows_plain": [
+    "They intend to snatch you, the last",
+    "JUNKER, and then leave the city."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B250_c10f37",
+   "line": 777,
+   "act": 3,
+   "sector": 2829,
+   "offset": 819,
+   "size": 99660,
+   "b0": 0,
+   "b1": 57468,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Snatch the world's leaders, and the world is theirs. But it doesn't make sense.",
+   "rows": [
+    "Snatch the world's leaders,",
+    "and the world is theirs. But",
+    "it doesn't make sense."
+   ],
+   "rows_plain": [
+    "Snatch the world's leaders, and the",
+    "world is theirs. But it doesn't make",
+    "sense."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f37b",
+   "line": 777,
+   "act": 3,
+   "sector": 2829,
+   "offset": 819,
+   "size": 99660,
+   "b0": 57468,
+   "b1": 99660,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Their defective artificial skin should make global expansion difficult.",
+   "rows": [
+    "Their defective artificial",
+    "skin should make global",
+    "expansion difficult."
+   ],
+   "rows_plain": [
+    "Their defective artificial skin",
+    "should make global expansion",
+    "difficult."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f38",
+   "line": 778,
+   "act": 3,
+   "sector": 2872,
+   "offset": 547,
+   "size": 69356,
+   "b0": 0,
+   "b1": 69356,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Chin said they'd found a way to perfect their skin. Could something have happened?",
+   "rows": [
+    "Chin said they'd found a way",
+    "to perfect their skin. Could",
+    "something have happened?"
+   ],
+   "rows_plain": [
+    "Chin said they'd found a way to",
+    "perfect their skin. Could something",
+    "have happened?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f39",
+   "line": 779,
+   "act": 3,
+   "sector": 2902,
+   "offset": 183,
+   "size": 83160,
+   "b0": 0,
+   "b1": 44996,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I don't know. But look how many Snatchers there are.",
+   "rows": [
+    "I don't know. But look how",
+    "many Snatchers there are."
+   ],
+   "rows_plain": [
+    "I don't know. But look how many",
+    "Snatchers there are."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f39b",
+   "line": 779,
+   "act": 3,
+   "sector": 2902,
+   "offset": 183,
+   "size": 83160,
+   "b0": 44996,
+   "b1": 83160,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "They're certainly planning something new.",
+   "rows": [
+    "They're certainly planning",
+    "something new."
+   ],
+   "rows_plain": [
+    "They're certainly planning something",
+    "new."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f40",
+   "line": 780,
+   "act": 3,
+   "sector": 2937,
+   "offset": 2003,
+   "size": 50881,
+   "b0": 0,
+   "b1": 50881,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "This is definitely the Snatchers' base, Gillian. Let's destroy it all!",
+   "rows": [
+    "This is definitely the",
+    "Snatchers' base, Gillian.",
+    "Let's destroy it all!"
+   ],
+   "rows_plain": [
+    "This is definitely the Snatchers'",
+    "base, Gillian. Let's destroy it all!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f41",
+   "line": 781,
+   "act": 3,
+   "sector": 2959,
+   "offset": 1756,
+   "size": 40336,
+   "b0": 0,
+   "b1": 40336,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "No! Jamie's still here! Metal, how much time is left?",
+   "rows": [
+    "No! Jamie's still here!",
+    "Metal, how much time is",
+    "left?"
+   ],
+   "rows_plain": [
+    "No! Jamie's still here! Metal, how",
+    "much time is left?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f42",
+   "line": 782,
+   "act": 3,
+   "sector": 2977,
+   "offset": 260,
+   "size": 93218,
+   "b0": 0,
+   "b1": 37317,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The summit has started. We're out of time.",
+   "rows": [
+    "The summit has started.",
+    "We're out of time."
+   ],
+   "rows_plain": [
+    "The summit has started. We're out of",
+    "time."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f42b",
+   "line": 782,
+   "act": 3,
+   "sector": 2977,
+   "offset": 260,
+   "size": 93218,
+   "b0": 37317,
+   "b1": 93218,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "After the deadline, I can't help you anymore. I'll have to take you into custody.",
+   "rows": [
+    "After the deadline, I can't",
+    "help you anymore. I'll have",
+    "to take you into custody."
+   ],
+   "rows_plain": [
+    "After the deadline, I can't help you",
+    "anymore. I'll have to take you into",
+    "custody."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f43",
+   "line": 783,
+   "act": 3,
+   "sector": 3017,
+   "offset": 518,
+   "size": 49630,
+   "b0": 0,
+   "b1": 49630,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "All right. If the military strikes here, what weapon will they use?",
+   "rows": [
+    "All right. If the military",
+    "strikes here, what weapon",
+    "will they use?"
+   ],
+   "rows_plain": [
+    "All right. If the military strikes",
+    "here, what weapon will they use?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f44",
+   "line": 784,
+   "act": 3,
+   "sector": 3038,
+   "offset": 1344,
+   "size": 33847,
+   "b0": 0,
+   "b1": 33847,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Probably a particle beam from a killer satellite.",
+   "rows": [
+    "Probably a particle beam",
+    "from a killer satellite."
+   ],
+   "rows_plain": [
+    "Probably a particle beam from a",
+    "killer satellite."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f45",
+   "line": 785,
+   "act": 3,
+   "sector": 3053,
+   "offset": 331,
+   "size": 33788,
+   "b0": 0,
+   "b1": 33788,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "A particle beam? There'll be nothing left.",
+   "rows": [
+    "A particle beam? There'll be",
+    "nothing left."
+   ],
+   "rows_plain": [
+    "A particle beam? There'll be nothing",
+    "left."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B250_c10f46",
+   "line": 786,
+   "act": 3,
+   "sector": 3067,
+   "offset": 1583,
+   "size": 46046,
+   "b0": 0,
+   "b1": 46046,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Everything will vaporize. Only a huge crater will remain.",
+   "rows": [
+    "Everything will vaporize.",
+    "Only a huge crater will",
+    "remain."
+   ],
+   "rows_plain": [
+    "Everything will vaporize. Only a",
+    "huge crater will remain."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f47",
+   "line": 787,
+   "act": 3,
+   "sector": 3087,
+   "offset": 1149,
+   "size": 53255,
+   "b0": 0,
+   "b1": 53255,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Ask them for another hour, Metal! Even thirty minutes!",
+   "rows": [
+    "Ask them for another hour,",
+    "Metal! Even thirty minutes!"
+   ],
+   "rows_plain": [
+    "Ask them for another hour, Metal!",
+    "Even thirty minutes!"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B250_c10f48",
+   "line": 788,
+   "act": 3,
+   "sector": 3110,
+   "offset": 952,
+   "size": 22277,
+   "b0": 0,
+   "b1": 22277,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Understood. I'll do what I can.",
+   "rows": [
+    "Understood. I'll do what I",
+    "can."
+   ],
+   "rows_plain": [
+    "Understood. I'll do what I can."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f49",
+   "line": 789,
+   "act": 3,
+   "sector": 3119,
+   "offset": 2313,
+   "size": 16671,
+   "b0": 0,
+   "b1": 16671,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I'll rescue Jamie while you do that.",
+   "rows": [
+    "I'll rescue Jamie while you",
+    "do that."
+   ],
+   "rows_plain": [
+    "I'll rescue Jamie while you do that."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f50",
+   "line": 790,
+   "act": 3,
+   "sector": 3127,
+   "offset": 392,
+   "size": 60397,
+   "b0": 0,
+   "b1": 37304,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Snow Cedar makes the signal unstable here.",
+   "rows": [
+    "Snow Cedar makes the signal",
+    "unstable here."
+   ],
+   "rows_plain": [
+    "Snow Cedar makes the signal unstable",
+    "here."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f50b",
+   "line": 790,
+   "act": 3,
+   "sector": 3127,
+   "offset": 392,
+   "size": 60397,
+   "b0": 37304,
+   "b1": 60397,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll go outside the area to contact them.",
+   "rows": [
+    "I'll go outside the area to",
+    "contact them."
+   ],
+   "rows_plain": [
+    "I'll go outside the area to contact",
+    "them."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f51",
+   "line": 791,
+   "act": 3,
+   "sector": 3153,
+   "offset": 365,
+   "size": 19498,
+   "b0": 0,
+   "b1": 19498,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "All right. Please, Metal.",
+   "rows": [
+    "All right. Please, Metal."
+   ],
+   "rows_plain": [
+    "All right. Please, Metal."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f52",
+   "line": 792,
+   "act": 3,
+   "sector": 3161,
+   "offset": 1271,
+   "size": 43593,
+   "b0": 0,
+   "b1": 43593,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Thirty minutes, Gillian. Promise you'll come back.",
+   "rows": [
+    "Thirty minutes, Gillian.",
+    "Promise you'll come back."
+   ],
+   "rows_plain": [
+    "Thirty minutes, Gillian. Promise",
+    "you'll come back."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f53",
+   "line": 793,
+   "act": 3,
+   "sector": 3180,
+   "offset": 708,
+   "size": 4061,
+   "b0": 0,
+   "b1": 4061,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I will.",
+   "rows": [
+    "I will."
+   ],
+   "rows_plain": [
+    "I will."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B250_c10f54",
+   "line": 794,
+   "act": 3,
+   "sector": 3182,
+   "offset": 121,
+   "size": 47942,
+   "b0": 0,
+   "b1": 47942,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'm sorry I couldn't be more help, Gillian.",
+   "rows": [
+    "I'm sorry I couldn't be more",
+    "help, Gillian."
+   ],
+   "rows_plain": [
+    "I'm sorry I couldn't be more help,",
+    "Gillian."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f55",
+   "line": 795,
+   "act": 3,
+   "sector": 3202,
+   "offset": 1583,
+   "size": 45265,
+   "b0": 0,
+   "b1": 45265,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Don't worry. With no one slowing me down, thirty minutes is plenty!",
+   "rows": [
+    "Don't worry. With no one",
+    "slowing me down, thirty",
+    "minutes is plenty!"
+   ],
+   "rows_plain": [
+    "Don't worry. With no one slowing me",
+    "down, thirty minutes is plenty!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f56",
+   "line": 796,
+   "act": 3,
+   "sector": 3222,
+   "offset": 368,
+   "size": 3531,
+   "b0": 0,
+   "b1": 11025,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Go!",
+   "rows": [
+    "Go!"
+   ],
+   "rows_plain": [
+    "Go!"
+   ],
+   "enabled": true,
+   "note": "'Go!' is 0.32 s of audio and the plain box comes up about 0.3 s into a line: the card was never shown (the regression's short-cue check). Its window runs on to a second of the decoder's count, which keeps counting past the line's 3,531 bytes (to ~14,000), until the next line takes over"
+  },
+  {
+   "id": "B250_c10f57",
+   "line": 797,
+   "act": 3,
+   "sector": 3223,
+   "offset": 1575,
+   "size": 24723,
+   "b0": 0,
+   "b1": 24723,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Understood! Thirty minutes!",
+   "rows": [
+    "Understood! Thirty minutes!"
+   ],
+   "rows_plain": [
+    "Understood! Thirty minutes!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B250_c10f58",
+   "line": 798,
+   "act": 3,
+   "sector": 3234,
+   "offset": 734,
+   "size": 37928,
+   "b0": 0,
+   "b1": 37928,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Thirty minutes. That's tight.",
+   "rows": [
+    "Thirty minutes. That's",
+    "tight."
+   ],
+   "rows_plain": [
+    "Thirty minutes. That's tight."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B250_c10f59",
+   "line": 799,
+   "act": 3,
+   "sector": 3250,
+   "offset": 1478,
+   "size": 33955,
+   "b0": 0,
+   "b1": 33955,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Only that room left. Let's open the door.",
+   "rows": [
+    "Only that room left. Let's",
+    "open the door."
+   ],
+   "rows_plain": [
+    "Only that room left. Let's open the",
+    "door."
+   ],
+   "enabled": true
+  }
+ ]
+}

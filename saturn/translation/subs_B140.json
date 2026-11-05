@@ -1,0 +1,1325 @@
+{
+ "scene": "B140",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B140_replay_00",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 350362,
+   "b1": 748256,
+   "size": 9161248,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Let's go over your report once more. Metal Gear, take it from here.",
+   "rows": [
+    "Let's go over your report",
+    "once more. Metal Gear, take",
+    "it from here."
+   ],
+   "rows_plain": [
+    "Let's go over your report once more.",
+    "Metal Gear, take it from here."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 748256,
+   "b1": 1238928,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Yes, sir. I'll play back the footage I recorded.",
+   "rows": [
+    "Yes, sir. I'll play back the",
+    "footage I recorded."
+   ],
+   "rows_plain": [
+    "Yes, sir. I'll play back the footage",
+    "I recorded."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B140_replay_01b",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 1238928,
+   "b1": 1632426,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "After Gibson contacted you, you went straight to the Factory ruins in M District.",
+   "rows": [
+    "After Gibson contacted you,",
+    "you went straight to the",
+    "Factory ruins in M District."
+   ],
+   "rows_plain": [
+    "After Gibson contacted you, you went",
+    "straight to the Factory ruins in M",
+    "District."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01c",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 1632426,
+   "b1": 2013526,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "Someone had murdered Gibson inside the Factory ruins.",
+   "rows": [
+    "Someone had murdered Gibson",
+    "inside the Factory ruins."
+   ],
+   "rows_plain": [
+    "Someone had murdered Gibson inside",
+    "the Factory ruins."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01d",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 2013526,
+   "b1": 2355265,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "Hair and skin tissue found on his body indicated that two Snatchers,",
+   "rows": [
+    "Hair and skin tissue found",
+    "on his body indicated that",
+    "two Snatchers,"
+   ],
+   "rows_plain": [
+    "Hair and skin tissue found on his",
+    "body indicated that two Snatchers,"
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01e",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 2355265,
+   "b1": 2544986,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "a man and a woman, were responsible.",
+   "rows": [
+    "a man and a woman, were",
+    "responsible."
+   ],
+   "rows_plain": [
+    "a man and a woman, were responsible."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01f",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 2544986,
+   "b1": 2778872,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "Meanwhile, a floppy disk containing Gibson's",
+   "rows": [
+    "Meanwhile, a floppy disk",
+    "containing Gibson's"
+   ],
+   "rows_plain": [
+    "Meanwhile, a floppy disk containing",
+    "Gibson's"
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01g",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 2778872,
+   "b1": 3029258,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "research revealed a major weakness of the Snatchers.",
+   "rows": [
+    "research revealed a major",
+    "weakness of the Snatchers."
+   ],
+   "rows_plain": [
+    "research revealed a major weakness",
+    "of the Snatchers."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01gb",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 3029258,
+   "b1": 3348193,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "It appears that this discovery was what got Gibson killed",
+   "rows": [
+    "It appears that this",
+    "discovery was what got",
+    "Gibson killed"
+   ],
+   "rows_plain": [
+    "It appears that this discovery was",
+    "what got Gibson killed"
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01j",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 3348193,
+   "b1": 3435952,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "by the Snatchers.",
+   "rows": [
+    "by the Snatchers."
+   ],
+   "rows_plain": [
+    "by the Snatchers."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01jb",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 3435952,
+   "b1": 3873838,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "Their weakness lies in the differences between them and real humans.",
+   "rows": [
+    "Their weakness lies in the",
+    "differences between them and",
+    "real humans."
+   ],
+   "rows_plain": [
+    "Their weakness lies in the",
+    "differences between them and real",
+    "humans."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01l",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 3873838,
+   "b1": 4169760,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "Their artificial skin is sensitive to ultraviolet light.",
+   "rows": [
+    "Their artificial skin is",
+    "sensitive to ultraviolet",
+    "light."
+   ],
+   "rows_plain": [
+    "Their artificial skin is sensitive",
+    "to ultraviolet light."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01m",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 4169760,
+   "b1": 4523668,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "Long exposure causes cancer resembling malignant melanoma.",
+   "rows": [
+    "Long exposure causes cancer",
+    "resembling malignant",
+    "melanoma."
+   ],
+   "rows_plain": [
+    "Long exposure causes cancer",
+    "resembling malignant melanoma."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01n",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 4523668,
+   "b1": 4897970,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "This limits where and when they can act.",
+   "rows": [
+    "This limits where and when",
+    "they can act."
+   ],
+   "rows_plain": [
+    "This limits where and when they can",
+    "act."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01o",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 4897970,
+   "b1": 5247878,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "Only at night, in midwinter when daylight hours are shortest.",
+   "rows": [
+    "Only at night, in midwinter",
+    "when daylight hours are",
+    "shortest."
+   ],
+   "rows_plain": [
+    "Only at night, in midwinter when",
+    "daylight hours are shortest."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01p",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 5247878,
+   "b1": 5664168,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "Their artificial skin takes at least six months to become stable.",
+   "rows": [
+    "Their artificial skin takes",
+    "at least six months to",
+    "become stable."
+   ],
+   "rows_plain": [
+    "Their artificial skin takes at least",
+    "six months to become stable."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01q",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 5664168,
+   "b1": 5935298,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "They are vulnerable during those six months.",
+   "rows": [
+    "They are vulnerable during",
+    "those six months."
+   ],
+   "rows_plain": [
+    "They are vulnerable during those six",
+    "months."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01r",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 5935298,
+   "b1": 6206426,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "They must avoid ultraviolet light throughout that time.",
+   "rows": [
+    "They must avoid ultraviolet",
+    "light throughout that time."
+   ],
+   "rows_plain": [
+    "They must avoid ultraviolet light",
+    "throughout that time."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01rb",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 6206426,
+   "b1": 6737486,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "Gibson must have uncovered this using the skills he developed as a Science Cop.",
+   "rows": [
+    "Gibson must have uncovered",
+    "this using the skills he",
+    "developed as a Science Cop."
+   ],
+   "rows_plain": [
+    "Gibson must have uncovered this",
+    "using the skills he developed as a",
+    "Science Cop."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01t",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 6737486,
+   "b1": 7111788,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "That's why they were using sunscreen even in midwinter.",
+   "rows": [
+    "That's why they were using",
+    "sunscreen even in midwinter."
+   ],
+   "rows_plain": [
+    "That's why they were using sunscreen",
+    "even in midwinter."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01u",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 7111788,
+   "b1": 7588864,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "This means they need one thing to survive.",
+   "rows": [
+    "This means they need one",
+    "thing to survive."
+   ],
+   "rows_plain": [
+    "This means they need one thing to",
+    "survive."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01v",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 7588864,
+   "b1": 7995558,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "A hospital equipped to treat their cancerous artificial skin.",
+   "rows": [
+    "A hospital equipped to treat",
+    "their cancerous artificial",
+    "skin."
+   ],
+   "rows_plain": [
+    "A hospital equipped to treat their",
+    "cancerous artificial skin."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01vb",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 7995558,
+   "b1": 8437042,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "Gibson may have found the hospital maintaining their skin.",
+   "rows": [
+    "Gibson may have found the",
+    "hospital maintaining their",
+    "skin."
+   ],
+   "rows_plain": [
+    "Gibson may have found the hospital",
+    "maintaining their skin."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01x",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 8437042,
+   "b1": 8839735,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "To retrace Gibson's steps, whale meat found in his stomach led you",
+   "rows": [
+    "To retrace Gibson's steps,",
+    "whale meat found in his",
+    "stomach led you"
+   ],
+   "rows_plain": [
+    "To retrace Gibson's steps, whale",
+    "meat found in his stomach led you"
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_replay_01y",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 8839735,
+   "b1": 9156054,
+   "size": 9161248,
+   "speaker": "",
+   "colour": 7,
+   "en": "to Outer Heaven, the only restaurant that serves it.",
+   "rows": [
+    "to Outer Heaven, the only",
+    "restaurant that serves it."
+   ],
+   "rows_plain": [
+    "to Outer Heaven, the only restaurant",
+    "that serves it."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 168020,
+   "b1": 406754,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "Dancer Isabella Velvet's account was used",
+   "rows": [
+    "Dancer Isabella Velvet's",
+    "account was used"
+   ],
+   "rows_plain": [
+    "Dancer Isabella Velvet's account was",
+    "used"
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00b",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 406754,
+   "b1": 855084,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "to make a composite of the man Gibson had been following.",
+   "rows": [
+    "to make a composite of the",
+    "man Gibson had been",
+    "following."
+   ],
+   "rows_plain": [
+    "to make a composite of the man",
+    "Gibson had been following."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00c",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 855084,
+   "b1": 1255804,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "HQ's main computer, Gaudi, checked the composite.",
+   "rows": [
+    "HQ's main computer, Gaudi,",
+    "checked the composite."
+   ],
+   "rows_plain": [
+    "HQ's main computer, Gaudi, checked",
+    "the composite."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00d",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 1255804,
+   "b1": 1674522,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "Two men matched and became suspects: Ivan Rodriguez and Freddy Nielsen.",
+   "rows": [
+    "Two men matched and became",
+    "suspects: Ivan Rodriguez and",
+    "Freddy Nielsen."
+   ],
+   "rows_plain": [
+    "Two men matched and became suspects:",
+    "Ivan Rodriguez and Freddy Nielsen."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00e",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 1674522,
+   "b1": 1744108,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "Ivan was cleared.",
+   "rows": [
+    "Ivan was cleared."
+   ],
+   "rows_plain": [
+    "Ivan was cleared."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00f",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 1744108,
+   "b1": 2064044,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "Despite his tan, there was no malignant melanoma on his skin.",
+   "rows": [
+    "Despite his tan, there was",
+    "no malignant melanoma on his",
+    "skin."
+   ],
+   "rows_plain": [
+    "Despite his tan, there was no",
+    "malignant melanoma on his skin."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00g",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 2064044,
+   "b1": 2313996,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "His Liquid Sky case was handed over",
+   "rows": [
+    "His Liquid Sky case was",
+    "handed over"
+   ],
+   "rows_plain": [
+    "His Liquid Sky case was handed over"
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00h",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 2313996,
+   "b1": 2709518,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "to the Narcotics Enforcement Special Investigation Division.",
+   "rows": [
+    "to the Narcotics Enforcement",
+    "Special Investigation",
+    "Division."
+   ],
+   "rows_plain": [
+    "to the Narcotics Enforcement Special",
+    "Investigation Division."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00i",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 2709518,
+   "b1": 3066246,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "A search of Freddy Nielsen's home found large amounts of sunscreen.",
+   "rows": [
+    "A search of Freddy Nielsen's",
+    "home found large amounts of",
+    "sunscreen."
+   ],
+   "rows_plain": [
+    "A search of Freddy Nielsen's home",
+    "found large amounts of sunscreen."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00j",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 3066246,
+   "b1": 3418176,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "His wife, Lisa Nielsen, was exposed as a Snatcher and eliminated.",
+   "rows": [
+    "His wife, Lisa Nielsen, was",
+    "exposed as a Snatcher and",
+    "eliminated."
+   ],
+   "rows_plain": [
+    "His wife, Lisa Nielsen, was exposed",
+    "as a Snatcher and eliminated."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00jb",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 3418176,
+   "b1": 3845292,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "The skin cells found under Gibson's nails were identified as Lisa's.",
+   "rows": [
+    "The skin cells found under",
+    "Gibson's nails were",
+    "identified as Lisa's."
+   ],
+   "rows_plain": [
+    "The skin cells found under Gibson's",
+    "nails were identified as Lisa's."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00l",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 3845292,
+   "b1": 4145232,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "Freddy Nielsen was also exposed as a Snatcher and eliminated.",
+   "rows": [
+    "Freddy Nielsen was also",
+    "exposed as a Snatcher and",
+    "eliminated."
+   ],
+   "rows_plain": [
+    "Freddy Nielsen was also exposed as a",
+    "Snatcher and eliminated."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00m",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 4145232,
+   "b1": 4399582,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "The hair in Gibson's hand was identified as Freddy's.",
+   "rows": [
+    "The hair in Gibson's hand",
+    "was identified as Freddy's."
+   ],
+   "rows_plain": [
+    "The hair in Gibson's hand was",
+    "identified as Freddy's."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00n",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 4399582,
+   "b1": 4733916,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "So Lisa and Freddy were the two Snatchers who killed Gibson.",
+   "rows": [
+    "So Lisa and Freddy were the",
+    "two Snatchers who killed",
+    "Gibson."
+   ],
+   "rows_plain": [
+    "So Lisa and Freddy were the two",
+    "Snatchers who killed Gibson."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00nb",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 4733916,
+   "b1": 5138236,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "What of Randam Hajile, the bounty hunter who saved Gillian?",
+   "rows": [
+    "What of Randam Hajile, the",
+    "bounty hunter who saved",
+    "Gillian?"
+   ],
+   "rows_plain": [
+    "What of Randam Hajile, the bounty",
+    "hunter who saved Gillian?"
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00p",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 5138236,
+   "b1": 5536848,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "All the data on his bounty hunter registration turned out to be false.",
+   "rows": [
+    "All the data on his bounty",
+    "hunter registration turned",
+    "out to be false."
+   ],
+   "rows_plain": [
+    "All the data on his bounty hunter",
+    "registration turned out to be false."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00q",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 5536848,
+   "b1": 5781580,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "None of it was real. Friend or foe?",
+   "rows": [
+    "None of it was real. Friend",
+    "or foe?"
+   ],
+   "rows_plain": [
+    "None of it was real. Friend or foe?"
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_00r",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 5781580,
+   "b1": 6222022,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "What about the account for his bounty payments? It's a shared bounty account.",
+   "rows": [
+    "What about the account for",
+    "his bounty payments? It's a",
+    "shared bounty account."
+   ],
+   "rows_plain": [
+    "What about the account for his",
+    "bounty payments? It's a shared",
+    "bounty account."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_07",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 6222022,
+   "b1": 6548758,
+   "size": 10113264,
+   "speaker": "",
+   "colour": 7,
+   "en": "The money was moved elsewhere. There's no lead there.",
+   "rows": [
+    "The money was moved",
+    "elsewhere. There's no lead",
+    "there."
+   ],
+   "rows_plain": [
+    "The money was moved elsewhere.",
+    "There's no lead there."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_12",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 6548758,
+   "b1": 6974274,
+   "size": 10113264,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Thank you, Metal Gear. Now the real work begins.",
+   "rows": [
+    "Thank you, Metal Gear. Now",
+    "the real work begins."
+   ],
+   "rows_plain": [
+    "Thank you, Metal Gear. Now the real",
+    "work begins."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_12b",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 6974274,
+   "b1": 7232222,
+   "size": 10113264,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "If we hit the Snatcher hospital Gibson was after,",
+   "rows": [
+    "If we hit the Snatcher",
+    "hospital Gibson was after,"
+   ],
+   "rows_plain": [
+    "If we hit the Snatcher hospital",
+    "Gibson was after,"
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_12c",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 7232222,
+   "b1": 7448180,
+   "size": 10113264,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "we may be able to stop them snatching more people.",
+   "rows": [
+    "we may be able to stop them",
+    "snatching more people."
+   ],
+   "rows_plain": [
+    "we may be able to stop them",
+    "snatching more people."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_12d",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 7448180,
+   "b1": 7654538,
+   "size": 10113264,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "And if we find something like patient records,",
+   "rows": [
+    "And if we find something",
+    "like patient records,"
+   ],
+   "rows_plain": [
+    "And if we find something like",
+    "patient records,"
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_12e",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 7654538,
+   "b1": 7898090,
+   "size": 10113264,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "we won't have to hunt for each Snatcher.",
+   "rows": [
+    "we won't have to hunt for",
+    "each Snatcher."
+   ],
+   "rows_plain": [
+    "we won't have to hunt for each",
+    "Snatcher."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_15",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 7898090,
+   "b1": 8094852,
+   "size": 10113264,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Our lead is Little John's memory?",
+   "rows": [
+    "Our lead is Little John's",
+    "memory?"
+   ],
+   "rows_plain": [
+    "Our lead is Little John's memory?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B140_f3_16",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 8094852,
+   "b1": 8451982,
+   "size": 10113264,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Yes. With luck, there may be something left in Little John's memory.",
+   "rows": [
+    "Yes. With luck, there may be",
+    "something left in Little",
+    "John's memory."
+   ],
+   "rows_plain": [
+    "Yes. With luck, there may be",
+    "something left in Little John's",
+    "memory."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_16b",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 8451982,
+   "b1": 8649942,
+   "size": 10113264,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Navigators record everything they do with their JUNKER,",
+   "rows": [
+    "Navigators record everything",
+    "they do with their JUNKER,"
+   ],
+   "rows_plain": [
+    "Navigators record everything they do",
+    "with their JUNKER,"
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_17",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 8649942,
+   "b1": 8847902,
+   "size": 10113264,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "in case something goes wrong.",
+   "rows": [
+    "in case something goes",
+    "wrong."
+   ],
+   "rows_plain": [
+    "in case something goes wrong."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_18",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 8847902,
+   "b1": 9149044,
+   "size": 10113264,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "In case something goes wrong. And it did.",
+   "rows": [
+    "In case something goes",
+    "wrong. And it did."
+   ],
+   "rows_plain": [
+    "In case something goes wrong. And it",
+    "did."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B140_f3_19",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 9149044,
+   "b1": 9475378,
+   "size": 10113264,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "It should be restored by now. Go see Harry.",
+   "rows": [
+    "It should be restored by",
+    "now. Go see Harry."
+   ],
+   "rows_plain": [
+    "It should be restored by now. Go see",
+    "Harry."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B140_f3_20",
+   "reel": 152,
+   "sdaif": "SDAIF_F2.AIF",
+   "rate": 30000,
+   "frames": 5056605,
+   "b0": 9475378,
+   "b1": 10110054,
+   "size": 10113264,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Gillian, start investigating that hospital.",
+   "rows": [
+    "Gillian, start investigating",
+    "that hospital."
+   ],
+   "rows_plain": [
+    "Gillian, start investigating that",
+    "hospital."
+   ],
+   "enabled": true,
+   "face_char": 3
+  }
+ ]
+}

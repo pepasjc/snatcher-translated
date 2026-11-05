@@ -1,0 +1,10 @@
+{
+ "scene": "B010",
+ "note": "New Game to the first verb menu at the JUNKER HQ reception. The opening (dedication, the Snatcher diagrams, the credit roll over Neo Kobe, Gillian in the cockpit, the JUNKER HQ caption) runs by itself for ~23,500 frames after NEW GAME and ANY button press skips it wholesale, so nothing is pressed until the receptionist's first card waits for one (~frame 26320 on the pristine disc, ~27155 after satsplash's boot screens). Bank 22 (B010) is in RAM from ~25353 (~26188).",
+ "dump_states": [24835, 26835],
+ "actions": [
+  {"new": true},
+  {"wait_menu": true},
+  {"save": "B010_start"}
+ ]
+}

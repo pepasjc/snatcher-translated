@@ -1,0 +1,636 @@
+[
+ {
+  "wait": 700
+ },
+ {
+  "read": 8000
+ },
+ {
+  "choose": "Answer"
+ },
+ {
+  "wait": 300
+ },
+ {
+  "type": {
+   "Hundred Days": "REIGN",
+   "revolution is": "OVER"
+  }
+ },
+ {
+  "read": 6000
+ },
+ {
+  "choose": "Don't call"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "save": "pw_done"
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "choose": "Front desk"
+ },
+ {
+  "read": 4000
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "choose": "Board Tricycle"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "save": "hq_exit"
+ },
+ {
+  "choose": "Altamira"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "choose": "Exit Tricycle"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "save": "alton0"
+ },
+ {
+  "sweep": "Look",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Item"
+ },
+ {
+  "choose": "Show"
+ },
+ {
+  "choose": "JUNKER ID"
+ },
+ {
+  "read": 4000
+ },
+ {
+  "sweep": "Talk",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Item"
+ },
+ {
+  "choose": "Use"
+ },
+ {
+  "choose": "Funds"
+ },
+ {
+  "read": 4000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Item"
+ },
+ {
+  "choose": "Use"
+ },
+ {
+  "choose": "Funds"
+ },
+ {
+  "read": 4000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Item"
+ },
+ {
+  "choose": "Use"
+ },
+ {
+  "choose": "Funds"
+ },
+ {
+  "read": 4000
+ },
+ {
+  "choose": "Ask"
+ },
+ {
+  "choose": "Outer Heaven"
+ },
+ {
+  "choose": "About the store"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "choose": "Ask"
+ },
+ {
+  "choose": "Outer Heaven"
+ },
+ {
+  "choose": "Store location"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "choose": "Item"
+ },
+ {
+  "choose": "Use"
+ },
+ {
+  "choose": "Funds"
+ },
+ {
+  "read": 4000
+ },
+ {
+  "choose": "Ask"
+ },
+ {
+  "choose": "Joy Division"
+ },
+ {
+  "choose": "Store location"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "save": "alton_napoleon"
+ },
+ {
+  "choose": "Let him go"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 4
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 4
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 8
+ },
+ {
+  "read": 3000
+ },
+ {
+  "repeat": [
+   {
+    "choose": "Look"
+   },
+   {
+    "choose": [
+     "Fortune teller",
+     "Passersby"
+    ]
+   },
+   {
+    "read": 3000
+   },
+   {
+    "choose": "Investigate"
+   },
+   {
+    "choose": [
+     "Fortune teller",
+     "Passersby"
+    ]
+   },
+   {
+    "read": 6000
+   }
+  ],
+  "until": "Get fortune told",
+  "max": 15
+ },
+ {
+  "read": 6000
+ },
+ {
+  "choose": "Get fortune told"
+ },
+ {
+  "read": 15000
+ },
+ {
+  "save": "teller_done"
+ },
+ {
+  "choose": "Hit on her"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "maybe": "Hit on her"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "maybe": "Hit on her"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "maybe": "Hit on her"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "wait": 300
+ },
+ {
+  "wait_screen": {
+   "crop": [
+    112,
+    80,
+    168,
+    120
+   ],
+   "white": 0.35,
+   "red": 0.03,
+   "max": 4500
+  }
+ },
+ {
+  "choose": "Look"
+ },
+ {
+  "choose": "Ad display"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Use Metal Gear"
+ },
+ {
+  "choose": "Videophone"
+ },
+ {
+  "press": "a",
+  "gap": 40
+ },
+ {
+  "choose": "Call"
+ },
+ {
+  "dial": "691170"
+ },
+ {
+  "wait": 900
+ },
+ {
+  "read": 6000
+ },
+ {
+  "choose": "Ask"
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Hang up"
+ },
+ {
+  "read": 4000
+ },
+ {
+  "choose": "Don't call"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "save": "alton_done"
+ },
+ {
+  "choose": "Board Tricycle"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "items": 1
+ },
+ {
+  "choose": "Gibson's home"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "choose": "Exit Tricycle"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Knock"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "sweep": "Talk",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Item"
+ },
+ {
+  "choose": "Show"
+ },
+ {
+  "choose": "JUNKER ID"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "choose": "Answer"
+ },
+ {
+  "read": 1500
+ },
+ {
+  "choose": "Gibson's age"
+ },
+ {
+  "dial": "55",
+  "confirm": "start"
+ },
+ {
+  "read": 4000
+ },
+ {
+  "choose": "Answer"
+ },
+ {
+  "read": 1500
+ },
+ {
+  "choose": "Her measurements"
+ },
+ {
+  "dial": "81",
+  "confirm": "start"
+ },
+ {
+  "wait": 200
+ },
+ {
+  "dial": "58",
+  "confirm": "start"
+ },
+ {
+  "wait": 200
+ },
+ {
+  "dial": "83",
+  "confirm": "start"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "save": "gibson_in"
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "choose": "Study"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Item"
+ },
+ {
+  "choose": "Show"
+ },
+ {
+  "choose": "Evidence"
+ },
+ {
+  "choose": "Disk"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "maybe": "About the PC68"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "choose": "Investigate"
+ },
+ {
+  "choose": "Computer"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "choose": "Item"
+ },
+ {
+  "choose": "Use"
+ },
+ {
+  "choose": "Disk"
+ },
+ {
+  "read": 40000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 2
+ },
+ {
+  "read": 8000
+ },
+ {
+  "save": "gibson_yard"
+ },
+ {
+  "choose": "Back to study"
+ },
+ {
+  "read": 4000
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "choose": [
+   "Inside",
+   "To living room",
+   "Living room"
+  ]
+ },
+ {
+  "read": 4000
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "choose": "Go out"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "save": "gibson_done"
+ },
+ {
+  "choose": "Board Tricycle"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "items": 1
+ },
+ {
+  "save": "act1_c_end"
+ }
+]

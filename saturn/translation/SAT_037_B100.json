@@ -1,0 +1,4625 @@
+{
+ "file": "DATA.BIN[37]",
+ "entry": 37,
+ "text_base": 12973,
+ "twins": [
+  "B100"
+ ],
+ "strings": [
+  {
+   "off": 12973,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 12978,
+   "budget": 29,
+   "en": "We're inside Outer Heaven.",
+   "src": "B100:11826",
+   "carry": "exact"
+  },
+  {
+   "off": 13007,
+   "budget": 9,
+   "en": "Go out",
+   "src": "B100:11855",
+   "carry": "exact"
+  },
+  {
+   "off": 13016,
+   "budget": 25,
+   "en": "Thank you very much.",
+   "src": "B100:11864",
+   "carry": "exact"
+  },
+  {
+   "off": 13041,
+   "budget": 49,
+   "en": "Let's see. Your total is 10,000￥credits.",
+   "src": "B100:11889",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13090,
+   "budget": 33,
+   "en": "Or so I would say, but...",
+   "src": "B100:11936",
+   "carry": "exact",
+   "long": "That's what I'd normally charge,￥but..."
+  },
+  {
+   "off": 13123,
+   "budget": 59,
+   "en": "You're a fellow Konami fan, so it's￥on the house today.",
+   "src": "B100:11969",
+   "carry": "exact"
+  },
+  {
+   "off": 13182,
+   "budget": 11,
+   "en": "Really?!",
+   "src": "B100:12028",
+   "carry": "exact"
+  },
+  {
+   "off": 13193,
+   "budget": 11,
+   "en": "Really.",
+   "src": "B100:12039",
+   "carry": "exact"
+  },
+  {
+   "off": 13204,
+   "budget": 19,
+   "en": "Metal, hear that?",
+   "src": "B100:12050",
+   "carry": "exact",
+   "long": "Did you hear that, Metal?"
+  },
+  {
+   "off": 13223,
+   "budget": 25,
+   "en": "Nice going, Gillian!",
+   "src": "B100:12069",
+   "carry": "exact"
+  },
+  {
+   "off": 13248,
+   "budget": 37,
+   "en": "Ah, I'm so glad I'm a Konami fan.",
+   "src": "B100:12094",
+   "carry": "exact",
+   "long": "Yeah. I'm sure glad I'm a Konami￥fan."
+  },
+  {
+   "off": 13285,
+   "budget": 29,
+   "en": "Huh?! It's not on the house?",
+   "src": "B100:12131",
+   "carry": "exact",
+   "long": "What?! Isn't it on the house?"
+  },
+  {
+   "off": 13314,
+   "budget": 47,
+   "en": "That was it.￥We're a business, after all.",
+   "src": "B100:12160",
+   "carry": "exact",
+   "long": "That offer ended with your last￥order. I have a business to run."
+  },
+  {
+   "off": 13361,
+   "budget": 53,
+   "en": "You'll have to pay the full 10,000￥credits.",
+   "src": "B100:12207",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13414,
+   "budget": 43,
+   "en": "Yikes! 10,000? Metal, buddy?",
+   "src": "B100:12258",
+   "carry": "exact"
+  },
+  {
+   "off": 13457,
+   "budget": 33,
+   "en": "Wh-what's that smile for?",
+   "src": "B100:12301",
+   "carry": "exact"
+  },
+  {
+   "off": 13490,
+   "budget": 37,
+   "en": "Silly me. I forgot my wallet.",
+   "src": "B100:12334",
+   "carry": "exact"
+  },
+  {
+   "off": 13527,
+   "budget": 35,
+   "en": "Again? I just saw it.",
+   "src": "B100:12371",
+   "carry": "exact"
+  },
+  {
+   "off": 13562,
+   "budget": 53,
+   "en": "Expenses. Necessary expenses...￥eh, Metal?",
+   "src": "B100:12406",
+   "carry": "exact",
+   "long": "It's a business expense. A necessary￥business expense! Right, Metal, old￥pal?"
+  },
+  {
+   "off": 13615,
+   "budget": 25,
+   "en": "Leave me out of it...",
+   "src": "B100:12459",
+   "carry": "exact",
+   "long": "Fine, but don't blame me."
+  },
+  {
+   "off": 13640,
+   "budget": 33,
+   "en": "10,000 credits. Thank you.",
+   "src": "B100:12484",
+   "carry": "exact"
+  },
+  {
+   "off": 13673,
+   "budget": 55,
+   "en": "Expenses... all necessary...￥eh?￥Metal, old chum?",
+   "src": "B100:12517",
+   "carry": "exact",
+   "long": "It's a business expense. A necessary￥business expense! Right, Metal, old￥pal?"
+  },
+  {
+   "off": 13728,
+   "budget": 41,
+   "en": "Let's see. That comes to 5,000￥credits.",
+   "src": "B100:12607",
+   "carry": "exact"
+  },
+  {
+   "off": 13769,
+   "budget": 21,
+   "en": "Metal, hear that?!",
+   "src": "B100:12648",
+   "carry": "exact",
+   "long": "Did you hear that, Metal?!"
+  },
+  {
+   "off": 13790,
+   "budget": 51,
+   "en": "You'll have to pay the full 5,000￥credits.",
+   "src": "B100:12669",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13841,
+   "budget": 25,
+   "en": "Pay the bill, Metal.",
+   "src": "B100:12718",
+   "carry": "exact"
+  },
+  {
+   "off": 13866,
+   "budget": 35,
+   "en": "Surely not on expenses again?",
+   "src": "B100:12743",
+   "carry": "exact",
+   "long": "You're not planning to put this on￥expenses, are you?"
+  },
+  {
+   "off": 13901,
+   "budget": 39,
+   "en": "Of course. Any complaints?",
+   "src": "B100:12778",
+   "carry": "rebroken",
+   "long": "You bet I am. Got a problem with￥that?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13940,
+   "budget": 43,
+   "en": "Don't blame me if the Chief finds￥out.",
+   "src": "B100:12815",
+   "carry": "candidate_ok",
+   "en_candidate": "Don't blame me if the Chief finds￥out.",
+   "sim": 0.95
+  },
+  {
+   "off": 13983,
+   "budget": 31,
+   "en": "5,000 credits. Thank you.",
+   "src": "B100:12858",
+   "carry": "exact"
+  },
+  {
+   "off": 14014,
+   "budget": 45,
+   "en": "Let's see. That comes to 2,000￥credits.",
+   "src": "B100:12889",
+   "carry": "exact"
+  },
+  {
+   "off": 14059,
+   "budget": 15,
+   "en": "Was that all?!",
+   "src": "B100:12934",
+   "carry": "exact",
+   "long": "Oh, that's right!"
+  },
+  {
+   "off": 14074,
+   "budget": 45,
+   "en": "Blast!￥I should have eaten more!",
+   "src": "B100:12949",
+   "carry": "exact",
+   "long": "Damn! I should have ordered more￥food and drinks!"
+  },
+  {
+   "off": 14119,
+   "budget": 31,
+   "en": "Gillian, you're ＠赤so cheap.",
+   "src": "B100:12994",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 14150,
+   "budget": 19,
+   "en": "＠赤Damn it!!",
+   "src": "B100:13027",
+   "carry": "exact"
+  },
+  {
+   "off": 14169,
+   "budget": 23,
+   "en": "Eh, not free then?",
+   "src": "B100:13046",
+   "carry": "exact",
+   "long": "Huh? Isn't it on the house?"
+  },
+  {
+   "off": 14192,
+   "budget": 55,
+   "en": "The service ended with that.￥We are a business.",
+   "src": "B100:13069",
+   "carry": "exact",
+   "long": "That offer ended with your last￥order. I have a business to run."
+  },
+  {
+   "off": 14247,
+   "budget": 23,
+   "en": "That really stings!",
+   "src": "B100:13124",
+   "carry": "exact"
+  },
+  {
+   "off": 14270,
+   "budget": 31,
+   "en": "2,000 credits. Thank you.",
+   "src": "B100:13147",
+   "carry": "exact"
+  },
+  {
+   "off": 14301,
+   "budget": 13,
+   "en": "2,000?",
+   "src": "B100:13178",
+   "carry": "exact"
+  },
+  {
+   "off": 14314,
+   "budget": 27,
+   "en": "Here you go. 2,000.",
+   "src": "B100:13191",
+   "carry": "exact"
+  },
+  {
+   "off": 14341,
+   "budget": 61,
+   "en": "Let's see...￥just the cover charge, 500 credits.",
+   "src": "B100:13218",
+   "carry": "rebroken",
+   "long": "Let's see. Just the cover charge,￥then. That's 500 credits.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14402,
+   "budget": 9,
+   "en": "What?!",
+   "src": "B100:13277",
+   "carry": "exact"
+  },
+  {
+   "off": 14411,
+   "budget": 35,
+   "en": "(No more freebies, huh?)",
+   "src": "B100:13286",
+   "carry": "exact"
+  },
+  {
+   "off": 14446,
+   "budget": 29,
+   "en": "500 credits. Thank you.",
+   "src": "B100:13321",
+   "carry": "exact"
+  },
+  {
+   "off": 14475,
+   "budget": 35,
+   "en": "500? Here you go.",
+   "src": "B100:13350",
+   "carry": "exact"
+  },
+  {
+   "off": 14510,
+   "budget": 29,
+   "en": "We only just got here.",
+   "src": "B100:13385",
+   "carry": "exact"
+  },
+  {
+   "off": 14539,
+   "budget": 35,
+   "en": "We haven't found any clues yet.",
+   "src": "B100:13414",
+   "carry": "exact"
+  },
+  {
+   "off": 14574,
+   "budget": 5,
+   "en": "Look",
+   "src": "B100:13449",
+   "carry": "exact"
+  },
+  {
+   "off": 14579,
+   "budget": 5,
+   "en": "Club",
+   "src": "B100:13454",
+   "carry": "exact",
+   "long": "Inside club"
+  },
+  {
+   "off": 14584,
+   "budget": 69,
+   "en": "People in all sorts of costume.￥It seems to be show time now.",
+   "src": "B100:13459",
+   "carry": "exact",
+   "long": "People are wearing all kinds of￥costumes. It looks like the show's￥on now."
+  },
+  {
+   "off": 14653,
+   "budget": 51,
+   "en": "What's that grotesque thing behind￥the counter?",
+   "src": "B100:13528",
+   "carry": "exact"
+  },
+  {
+   "off": 14704,
+   "budget": 25,
+   "en": "That's the master.",
+   "src": "B100:13579",
+   "carry": "exact",
+   "long": "That's the owner we just met."
+  },
+  {
+   "off": 14729,
+   "budget": 27,
+   "en": "That must be the owner.",
+   "src": "B100:13604",
+   "carry": "exact"
+  },
+  {
+   "off": 14756,
+   "budget": 67,
+   "en": "It's nearly full. This place really￥is popular.",
+   "src": "B100:13631",
+   "carry": "exact"
+  },
+  {
+   "off": 14823,
+   "budget": 3,
+   "en": "Cu",
+   "src": "B100:13698",
+   "carry": "exact",
+   "long": "Customers"
+  },
+  {
+   "off": 14826,
+   "budget": 11,
+   "en": "PowerPro",
+   "src": "B100:13701",
+   "carry": "exact"
+  },
+  {
+   "off": 14837,
+   "budget": 85,
+   "en": "That's him! PowerPro, gaming's￥number one for biggest head and￥fewest joints!",
+   "src": "B100:13712",
+   "carry": "exact",
+   "long": "There! That's Pawapuro-kun. No one￥in video games has a bigger head or￥fewer joints."
+  },
+  {
+   "off": 14922,
+   "budget": 15,
+   "en": "Oh, him.",
+   "src": "B100:13797",
+   "carry": "exact"
+  },
+  {
+   "off": 14937,
+   "budget": 79,
+   "en": "Nothing below the ankles, yet he￥pulls off a pendulum swing.",
+   "src": "B100:13812",
+   "carry": "candidate_ok",
+   "en_candidate": "Nothing below the ankles, yet he￥pulls off a pendulum swing.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "He has no legs, just feet, but he￥can still pull off a pendulum swing.￥Pretty cool."
+  },
+  {
+   "off": 15016,
+   "budget": 91,
+   "en": "When a close pitch is a strike,￥he eyes the umpire as if to say￥'seriously?'",
+   "src": "B100:13887",
+   "carry": "candidate_ok",
+   "en_candidate": "When a close pitch is a strike,￥he eyes the umpire as if to say￥'seriously?'",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "When a close pitch gets called a￥strike, he gives the umpire this￥cheeky 'Seriously?' look."
+  },
+  {
+   "off": 15107,
+   "budget": 83,
+   "en": "Yeah! When I play, it feels like￥those eyes are blaming me, too.",
+   "src": "B100:13972",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 15190,
+   "budget": 49,
+   "en": "A customer in PowerPro costume.",
+   "src": "B100:14051",
+   "carry": "rebroken",
+   "long": "A customer dressed as Pawapuro-kun,￥with that huge head.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15239,
+   "budget": 9,
+   "en": "Goemon",
+   "src": "B100:14098",
+   "carry": "exact"
+  },
+  {
+   "off": 15248,
+   "budget": 87,
+   "en": "Oh! That's a character from the hit￥game Goemon. Part 53 just came out.",
+   "src": "B100:14107",
+   "carry": "candidate_ok",
+   "en_candidate": "Oh! That's a character from the hit￥game Goemon. Part 53 just came out.",
+   "sim": 0.94
+  },
+  {
+   "off": 15335,
+   "budget": 73,
+   "en": "Oh, right. The thief who runs around￥in that flashy outfit.",
+   "src": "B100:14188",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15408,
+   "budget": 61,
+   "en": "Kids in Neo Kobe love him and his￥punk hairstyle.",
+   "src": "B100:14259",
+   "carry": "exact"
+  },
+  {
+   "off": 15469,
+   "budget": 47,
+   "en": "A customer in Goemon costume.",
+   "src": "B100:14320",
+   "carry": "rebroken",
+   "long": "A customer dressed as Goemon, from￥the hit game.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15516,
+   "budget": 17,
+   "en": "Light & Pastel",
+   "src": "B100:14365",
+   "carry": "exact"
+  },
+  {
+   "off": 15533,
+   "budget": 33,
+   "en": "Those two are Light and Pastel.",
+   "src": "B100:14382",
+   "carry": "exact"
+  },
+  {
+   "off": 15566,
+   "budget": 59,
+   "en": "They're the pilots of TwinBee and￥WinBee.",
+   "src": "B100:14415",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15625,
+   "budget": 35,
+   "en": "So those two are the pilots.",
+   "src": "B100:14472",
+   "carry": "exact"
+  },
+  {
+   "off": 15660,
+   "budget": 31,
+   "en": "Both are middle schoolers.",
+   "src": "B100:14507",
+   "carry": "exact",
+   "long": "They're both in junior high,￥actually."
+  },
+  {
+   "off": 15691,
+   "budget": 43,
+   "en": "What!￥Schoolkids allowed in here?",
+   "src": "B100:14538",
+   "carry": "exact",
+   "long": "What?! Are junior high kids allowed￥in a place like this?"
+  },
+  {
+   "off": 15734,
+   "budget": 23,
+   "en": "I'll have a word!",
+   "src": "B100:14581",
+   "carry": "exact",
+   "long": "I'll go have a word with them!"
+  },
+  {
+   "off": 15757,
+   "budget": 65,
+   "en": "Gillian, it's cosplay.￥＠赤Inside＠白 they are surely adults.",
+   "src": "B100:14604",
+   "carry": "exact",
+   "long": "They're costumes, Gillian. The￥＠赤people inside＠白 are probably adults."
+  },
+  {
+   "off": 15822,
+   "budget": 49,
+   "en": "Such adults exist?￥Not friends I'd want.",
+   "src": "B100:14669",
+   "carry": "exact",
+   "long": "Adults do that? I wouldn't want them￥as friends."
+  },
+  {
+   "off": 15871,
+   "budget": 41,
+   "en": "Customers dressed as Light and￥Pastel.",
+   "src": "B100:14718",
+   "carry": "exact"
+  },
+  {
+   "off": 15912,
+   "budget": 11,
+   "en": "Dracula",
+   "src": "B100:14759",
+   "carry": "exact"
+  },
+  {
+   "off": 15923,
+   "budget": 27,
+   "en": "Oh, that's Dracula.",
+   "src": "B100:14770",
+   "carry": "exact"
+  },
+  {
+   "off": 15950,
+   "budget": 59,
+   "en": "The vampire who dies and dies￥and still comes back?",
+   "src": "B100:14797",
+   "carry": "rebroken",
+   "long": "The vampire who keeps coming back,￥no matter how many times he dies?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16009,
+   "budget": 49,
+   "en": "'Care for a bite?' That gag was￥popular.",
+   "src": "B100:14854",
+   "carry": "rebroken",
+   "long": "Remember that old 'I'll suck your￥blood!' gag?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16058,
+   "budget": 23,
+   "en": "I wouldn't know.",
+   "src": "B100:14901",
+   "carry": "exact",
+   "long": "I've never heard of it."
+  },
+  {
+   "off": 16081,
+   "budget": 35,
+   "en": "A customer dressed as Dracula.",
+   "src": "B100:14924",
+   "carry": "exact"
+  },
+  {
+   "off": 16116,
+   "budget": 7,
+   "en": "Simon",
+   "src": "B100:14959",
+   "carry": "exact"
+  },
+  {
+   "off": 16123,
+   "budget": 71,
+   "en": "That's Simon Belmont! His whole￥family fights Dracula.",
+   "src": "B100:14966",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16194,
+   "budget": 71,
+   "en": "His greatest weapon is a whip,￥an odd hero, even for Konami.",
+   "src": "B100:15035",
+   "carry": "exact",
+   "long": "His main weapon is a whip. That￥makes him unusual even among Konami￥heroes."
+  },
+  {
+   "off": 16265,
+   "budget": 29,
+   "en": "Friendly with Dracula, no?",
+   "src": "B100:15106",
+   "carry": "exact",
+   "long": "He seems pretty friendly with￥Dracula."
+  },
+  {
+   "off": 16294,
+   "budget": 61,
+   "en": "Fight for generations and a man's￥friendship grows?",
+   "src": "B100:15135",
+   "carry": "rebroken",
+   "long": "Maybe fighting for generations￥brings men closer together.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16355,
+   "budget": 85,
+   "en": "They're costumes, Gillian. Just￥ordinary people wearing masks.",
+   "src": "B100:15194",
+   "carry": "exact"
+  },
+  {
+   "off": 16440,
+   "budget": 31,
+   "en": "A customer dressed as Simon.",
+   "src": "B100:15279",
+   "carry": "exact"
+  },
+  {
+   "off": 16471,
+   "budget": 13,
+   "en": "DesignMan",
+   "src": "B100:15310",
+   "carry": "exact"
+  },
+  {
+   "off": 16484,
+   "budget": 51,
+   "en": "That's Design Man, the legendary￥game designer.",
+   "src": "B100:15323",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16535,
+   "budget": 15,
+   "en": "Design Man?",
+   "src": "B100:15372",
+   "carry": "exact"
+  },
+  {
+   "off": 16550,
+   "budget": 65,
+   "en": "A super designer who never let go￥of paper and pencil.",
+   "src": "B100:15387",
+   "carry": "rebroken",
+   "long": "A brilliant designer who was never￥without his pencil and paper.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16615,
+   "budget": 29,
+   "en": "See, drawing even now.",
+   "src": "B100:15450",
+   "carry": "exact",
+   "long": "Look, he's drawing something right￥now."
+  },
+  {
+   "off": 16644,
+   "budget": 35,
+   "en": "DesignMan...￥A model developer.",
+   "src": "B100:15479",
+   "carry": "rebroken",
+   "long": "Design Man. A role model for￥developers everywhere.",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 16679,
+   "budget": 49,
+   "en": "A customer as DesignMan, the￥model developer.",
+   "src": "B100:15516",
+   "carry": "exact",
+   "long": "A customer dressed as Design Man, a￥role model for developers￥everywhere."
+  },
+  {
+   "off": 16728,
+   "budget": 47,
+   "en": "Like a Konami character reunion.",
+   "src": "B100:15565",
+   "carry": "rebroken",
+   "long": "It's like a reunion of Konami game￥characters.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16775,
+   "budget": 57,
+   "en": "Pawapuro-kun, Goemon, Light and￥Pastel from TwinBee,",
+   "src": "B100:15610",
+   "carry": "exact"
+  },
+  {
+   "off": 16832,
+   "budget": 95,
+   "en": "Dracula and Simon from Castlevania,￥and Design Man. Everyone's really in￥character.",
+   "src": "B100:15667",
+   "carry": "candidate_ok",
+   "en_candidate": "Dracula and Simon from Castlevania,￥and Design Man. Everyone's really in￥character.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 16927,
+   "budget": 33,
+   "en": "The owner here favours Konami.",
+   "src": "B100:15764",
+   "carry": "exact",
+   "long": "Whoever runs this place sure loves￥Konami."
+  },
+  {
+   "off": 16960,
+   "budget": 9,
+   "en": "Dancer",
+   "src": "B100:15797",
+   "carry": "exact"
+  },
+  {
+   "off": 16969,
+   "budget": 13,
+   "en": "..........",
+   "src": "B100:15806",
+   "carry": "exact"
+  },
+  {
+   "off": 16982,
+   "budget": 45,
+   "en": "Gillian!￥How long will you stand gaping?",
+   "src": "B100:15819",
+   "carry": "exact",
+   "long": "Gillian! How long are you going to￥stand there staring?"
+  },
+  {
+   "off": 17027,
+   "budget": 29,
+   "en": "Her dancing is superb.",
+   "src": "B100:15864",
+   "carry": "exact",
+   "long": "She's a fantastic dancer, too."
+  },
+  {
+   "off": 17056,
+   "budget": 25,
+   "en": "I want another chat...",
+   "src": "B100:15893",
+   "carry": "exact",
+   "long": "I'd like to talk to her again."
+  },
+  {
+   "off": 17081,
+   "budget": 73,
+   "en": "The bewitching dance of the star￥Isabella Velvet.￥Marvellous!",
+   "src": "B100:15918",
+   "carry": "rebroken",
+   "long": "Isabella Velvet, the star of the￥moment, doing her seductive dance.￥What a sight!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 17154,
+   "budget": 33,
+   "en": "Well, you weren't kidding.",
+   "src": "B100:15989",
+   "carry": "exact"
+  },
+  {
+   "off": 17187,
+   "budget": 7,
+   "en": "Check",
+   "src": "B100:16022",
+   "carry": "exact",
+   "long": "Investigate"
+  },
+  {
+   "off": 17194,
+   "budget": 23,
+   "en": "Hands off, you!",
+   "src": "B100:16029",
+   "carry": "exact",
+   "long": "Hey! Watch where you put your hands!"
+  },
+  {
+   "off": 17217,
+   "budget": 31,
+   "en": "Keep your hands to yourself!",
+   "src": "B100:16052",
+   "carry": "exact"
+  },
+  {
+   "off": 17248,
+   "budget": 17,
+   "en": "What's the idea!",
+   "src": "B100:16083",
+   "carry": "exact",
+   "long": "What the hell are you doing?!"
+  },
+  {
+   "off": 17265,
+   "budget": 23,
+   "en": "Eek! You pervert!",
+   "src": "B100:16100",
+   "carry": "exact"
+  },
+  {
+   "off": 17288,
+   "budget": 15,
+   "en": "Stop that!",
+   "src": "B100:16123",
+   "carry": "exact",
+   "long": "What are you doing?!"
+  },
+  {
+   "off": 17303,
+   "budget": 13,
+   "en": "Light...",
+   "src": "B100:16138",
+   "carry": "exact"
+  },
+  {
+   "off": 17316,
+   "budget": 29,
+   "en": "Who!￥I'll bite you!!",
+   "src": "B100:16151",
+   "carry": "exact",
+   "long": "Who the hell are you?! I'll suck￥your blood!"
+  },
+  {
+   "off": 17345,
+   "budget": 17,
+   "en": "Watch it, you!",
+   "src": "B100:16180",
+   "carry": "exact",
+   "long": "Watch where you put your hands!"
+  },
+  {
+   "off": 17362,
+   "budget": 29,
+   "en": "Who are you?! How rude!",
+   "src": "B100:16197",
+   "carry": "exact"
+  },
+  {
+   "off": 17391,
+   "budget": 39,
+   "en": "Watch those hands! I'll whip you!",
+   "src": "B100:16226",
+   "carry": "exact"
+  },
+  {
+   "off": 17430,
+   "budget": 29,
+   "en": "Don't interrupt my drawing!",
+   "src": "B100:16265",
+   "carry": "exact"
+  },
+  {
+   "off": 17459,
+   "budget": 27,
+   "en": "You! I'll sketch you!",
+   "src": "B100:16294",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 17486,
+   "budget": 5,
+   "en": "Call",
+   "src": "B100:16319",
+   "carry": "exact"
+  },
+  {
+   "off": 17491,
+   "budget": 9,
+   "en": "Master",
+   "src": "B100:16324",
+   "carry": "exact",
+   "long": "Bartender"
+  },
+  {
+   "off": 17500,
+   "budget": 25,
+   "en": "I'll call the owner.",
+   "src": "B100:16333",
+   "carry": "exact"
+  },
+  {
+   "off": 17525,
+   "budget": 41,
+   "en": "Welcome. Can I help you?",
+   "src": "B100:16358",
+   "carry": "exact"
+  },
+  {
+   "off": 17566,
+   "budget": 25,
+   "en": "Oh, it's you.",
+   "src": "B100:16399",
+   "carry": "exact"
+  },
+  {
+   "off": 17591,
+   "budget": 23,
+   "en": "You again?",
+   "src": "B100:16424",
+   "carry": "exact"
+  },
+  {
+   "off": 17614,
+   "budget": 25,
+   "en": "I'll call Isabella.",
+   "src": "B100:16447",
+   "carry": "exact"
+  },
+  {
+   "off": 17639,
+   "budget": 25,
+   "en": "Isabella!",
+   "src": "B100:16472",
+   "carry": "exact"
+  },
+  {
+   "off": 17664,
+   "budget": 35,
+   "en": "Oh, you two?￥Need something?",
+   "src": "B100:16497",
+   "carry": "exact",
+   "long": "Oh, you two again? What can I do for￥you?"
+  },
+  {
+   "off": 17699,
+   "budget": 51,
+   "en": "Hi! I'm Isabella Velvet. Can I help￥you?",
+   "src": "B100:16532",
+   "carry": "exact"
+  },
+  {
+   "off": 17750,
+   "budget": 43,
+   "en": "A JUNKER and a robot?",
+   "src": "B100:16583",
+   "carry": "exact"
+  },
+  {
+   "off": 17793,
+   "budget": 37,
+   "en": "A Moai statue and a robot?",
+   "src": "B100:16626",
+   "carry": "candidate_ok",
+   "en_candidate": "A Moai statue and a robot?",
+   "sim": 0.94,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 17830,
+   "budget": 33,
+   "en": "Koitsu and a robot?",
+   "src": "B100:16659",
+   "carry": "exact"
+  },
+  {
+   "off": 17863,
+   "budget": 27,
+   "en": "I'll call Pawapuro-kun.",
+   "src": "B100:16692",
+   "carry": "exact"
+  },
+  {
+   "off": 17890,
+   "budget": 15,
+   "en": "You need me?",
+   "src": "B100:16719",
+   "carry": "exact",
+   "long": "Need something?"
+  },
+  {
+   "off": 17905,
+   "budget": 25,
+   "en": "I'll call Goemon.",
+   "src": "B100:16734",
+   "carry": "exact"
+  },
+  {
+   "off": 17930,
+   "budget": 27,
+   "en": "Pipe down!￥What is it?",
+   "src": "B100:16759",
+   "carry": "exact",
+   "long": "Keep it down! What do you want?"
+  },
+  {
+   "off": 17957,
+   "budget": 33,
+   "en": "I'll call Light and Pastel.",
+   "src": "B100:16786",
+   "carry": "exact"
+  },
+  {
+   "off": 17990,
+   "budget": 11,
+   "en": "What's up?",
+   "src": "B100:16819",
+   "carry": "exact",
+   "long": "What is it?"
+  },
+  {
+   "off": 18001,
+   "budget": 13,
+   "en": "What is it?",
+   "src": "B100:16830",
+   "carry": "exact",
+   "long": "What's wrong?"
+  },
+  {
+   "off": 18014,
+   "budget": 27,
+   "en": "I'll call Dracula.",
+   "src": "B100:16843",
+   "carry": "exact"
+  },
+  {
+   "off": 18041,
+   "budget": 11,
+   "en": "What?",
+   "src": "B100:16870",
+   "carry": "exact",
+   "long": "What do you want?"
+  },
+  {
+   "off": 18052,
+   "budget": 23,
+   "en": "Calling Simon...",
+   "src": "B100:16881",
+   "carry": "exact"
+  },
+  {
+   "off": 18075,
+   "budget": 13,
+   "en": "Need me?",
+   "src": "B100:16904",
+   "carry": "exact",
+   "long": "Need something?"
+  },
+  {
+   "off": 18088,
+   "budget": 29,
+   "en": "I'll call Design Man.",
+   "src": "B100:16917",
+   "carry": "exact"
+  },
+  {
+   "off": 18117,
+   "budget": 9,
+   "en": "What?",
+   "src": "B100:16946",
+   "carry": "exact",
+   "long": "What is it?"
+  },
+  {
+   "off": 18126,
+   "budget": 9,
+   "en": "Order",
+   "src": "B100:16955",
+   "carry": "exact"
+  },
+  {
+   "off": 18135,
+   "budget": 47,
+   "en": "Go easy, or the Chief scolds￥us again.",
+   "src": "B100:16964",
+   "carry": "rebroken",
+   "long": "Take it easy, or the Chief will get￥angry with you again.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18182,
+   "budget": 7,
+   "en": "Whale",
+   "src": "B100:17009",
+   "carry": "exact",
+   "long": "Whale dishes"
+  },
+  {
+   "off": 18189,
+   "budget": 35,
+   "en": "You just ate!",
+   "src": "B100:17016",
+   "carry": "exact"
+  },
+  {
+   "off": 18224,
+   "budget": 31,
+   "en": "Master! Whale, please?",
+   "src": "B100:17051",
+   "carry": "rebroken",
+   "long": "Hey, can I get some whale meat?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18255,
+   "budget": 23,
+   "en": "Here you are!",
+   "src": "B100:17080",
+   "carry": "exact"
+  },
+  {
+   "off": 18278,
+   "budget": 37,
+   "en": "Hm? Mmm! That's good!",
+   "src": "B100:17103",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18315,
+   "budget": 23,
+   "en": "Master! Seconds!",
+   "src": "B100:17138",
+   "carry": "rebroken",
+   "long": "Another helping, please!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18338,
+   "budget": 23,
+   "en": "Master! Another!",
+   "src": "B100:17159",
+   "carry": "rebroken",
+   "long": "One more plate, please!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18361,
+   "budget": 3,
+   "en": "Dr",
+   "src": "B100:17180",
+   "carry": "exact",
+   "long": "Drinks"
+  },
+  {
+   "off": 18364,
+   "budget": 51,
+   "en": "Aren't you still feeling that last￥drink?",
+   "src": "B100:17183",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18415,
+   "budget": 39,
+   "en": "That's it! I'm done drinking!",
+   "src": "B100:17232",
+   "carry": "exact"
+  },
+  {
+   "off": 18454,
+   "budget": 49,
+   "en": "Bartender! A shot of Moonsalt!",
+   "src": "B100:17271",
+   "carry": "exact"
+  },
+  {
+   "off": 18503,
+   "budget": 39,
+   "en": "Another Moonsalt, bartender!",
+   "src": "B100:17320",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18542,
+   "budget": 31,
+   "en": "You're on duty! Honestly!",
+   "src": "B100:17357",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18573,
+   "budget": 37,
+   "en": "I'm starting to feel a little drunk.",
+   "src": "B100:17386",
+   "carry": "exact"
+  },
+  {
+   "off": 18610,
+   "budget": 29,
+   "en": "Please stop drinking.",
+   "src": "B100:17423",
+   "carry": "exact"
+  },
+  {
+   "off": 18639,
+   "budget": 5,
+   "en": "Item",
+   "src": "B100:17452",
+   "carry": "exact"
+  },
+  {
+   "off": 18644,
+   "budget": 7,
+   "en": "Lookω",
+   "src": "B100:13449",
+   "carry": "candidate_edit",
+   "en_candidate": "Look",
+   "sim": 0.8,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label"
+  },
+  {
+   "off": 18651,
+   "budget": 9,
+   "en": "Investigateω",
+   "src": "B100:16022",
+   "carry": "candidate_edit",
+   "en_candidate": "Check",
+   "sim": 0.86,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label; re-adapted 2026-09-30: PS1 label (long 'Investigate') + ω kept after it"
+  },
+  {
+   "off": 18660,
+   "budget": 7,
+   "en": "Show",
+   "src": "B100:17457",
+   "carry": "exact"
+  },
+  {
+   "off": 18667,
+   "budget": 15,
+   "en": "JUNKER ID",
+   "src": "B100:17464",
+   "carry": "exact"
+  },
+  {
+   "off": 18682,
+   "budget": 7,
+   "en": "Remove",
+   "src": "B100:17479",
+   "carry": "exact"
+  },
+  {
+   "off": 18689,
+   "budget": 13,
+   "en": "My mask",
+   "src": "B100:17486",
+   "carry": "exact"
+  },
+  {
+   "off": 18702,
+   "budget": 31,
+   "en": "Maybe I'll take off my mask.",
+   "src": "B100:17499",
+   "carry": "exact"
+  },
+  {
+   "off": 18733,
+   "budget": 27,
+   "en": "Sir! You can't do that.",
+   "src": "B100:17530",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18760,
+   "budget": 103,
+   "en": "Please keep your mask on during￥Masquerade Hour, or I'll have to ask￥you to leave.",
+   "src": "B100:17555",
+   "carry": "exact"
+  },
+  {
+   "off": 18863,
+   "budget": 27,
+   "en": "I see, I'll leave it...",
+   "src": "B100:17658",
+   "carry": "exact",
+   "long": "All right. I'll leave it on."
+  },
+  {
+   "off": 18890,
+   "budget": 33,
+   "en": "Maybe I'll take off my mask.",
+   "src": "B100:17685",
+   "carry": "exact"
+  },
+  {
+   "off": 18923,
+   "budget": 55,
+   "en": "Sir! Those are the rules. You'll￥have to leave!",
+   "src": "B100:17718",
+   "carry": "exact"
+  },
+  {
+   "off": 18978,
+   "budget": 15,
+   "en": "Use Metal Gear",
+   "src": "B100:17773",
+   "carry": "exact"
+  },
+  {
+   "off": 18993,
+   "budget": 27,
+   "en": "No one takes our order.",
+   "src": "B100:17788",
+   "carry": "exact",
+   "long": "Nobody comes to take your order,￥huh?"
+  },
+  {
+   "off": 19020,
+   "budget": 49,
+   "en": "Why don't you ask the owner over￥there?",
+   "src": "B100:17815",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19069,
+   "budget": 63,
+   "en": "At cosplay time all are made up.￥Faces are hard to read.",
+   "src": "B100:17862",
+   "carry": "exact",
+   "long": "It's Masquerade Hour. Everyone's￥wearing makeup, so I can't make out￥their faces."
+  },
+  {
+   "off": 19132,
+   "budget": 41,
+   "en": "Everyone here but us￥looks suspicious.",
+   "src": "B100:17925",
+   "carry": "exact",
+   "long": "Everyone here looks suspicious￥except us."
+  },
+  {
+   "off": 19173,
+   "budget": 41,
+   "en": "He wasn't carrying anything￥suspicious.",
+   "src": "B100:17966",
+   "carry": "candidate_ok",
+   "en_candidate": "He wasn't carrying anything￥suspicious.",
+   "sim": 0.93,
+   "long": "They weren't carrying anything￥suspicious."
+  },
+  {
+   "off": 19214,
+   "budget": 33,
+   "en": "No clues, unfortunately.",
+   "src": "B100:18009",
+   "carry": "exact"
+  },
+  {
+   "off": 19247,
+   "budget": 31,
+   "en": "Mmm! That's good!",
+   "src": "B100:18042",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19278,
+   "budget": 43,
+   "en": "Gulp, gulp. Ahh! That hits the spot!",
+   "src": "B100:18071",
+   "carry": "rebroken"
+  },
+  {
+   "off": 19321,
+   "budget": 11,
+   "en": "Finish",
+   "src": "B100:18114",
+   "carry": "exact",
+   "long": "End questions"
+  },
+  {
+   "off": 19332,
+   "budget": 53,
+   "en": "Ah, Isabella.￥Sorry.￥Nothing in particular.",
+   "src": "B100:18125",
+   "carry": "exact",
+   "long": "Sorry, Isabella. I don't really have￥anything to talk about."
+  },
+  {
+   "off": 19385,
+   "budget": 19,
+   "en": "Well! How rude.",
+   "src": "B100:18178",
+   "carry": "exact"
+  },
+  {
+   "off": 19404,
+   "budget": 37,
+   "en": "You've been a big help. Thank you.",
+   "src": "B100:18197",
+   "carry": "exact"
+  },
+  {
+   "off": 19441,
+   "budget": 31,
+   "en": "I'm glad. See you.",
+   "src": "B100:18234",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19472,
+   "budget": 39,
+   "en": "Thanks. That was helpful.",
+   "src": "B100:18263",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19511,
+   "budget": 27,
+   "en": "Really? Well, see you.",
+   "src": "B100:18300",
+   "carry": "candidate_ok",
+   "en_candidate": "Really? Well, see you.",
+   "sim": 0.96,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 19538,
+   "budget": 51,
+   "en": "Thanks. That helped a little.",
+   "src": "B100:18327",
+   "carry": "exact"
+  },
+  {
+   "off": 19589,
+   "budget": 17,
+   "en": "Bye, then.",
+   "src": "B100:18378",
+   "carry": "exact"
+  },
+  {
+   "off": 19606,
+   "budget": 29,
+   "en": "Do call on the videophone.",
+   "src": "B100:18395",
+   "carry": "exact",
+   "long": "I'll be waiting for your videophone￥call."
+  },
+  {
+   "off": 19635,
+   "budget": 93,
+   "en": "＠黄Let's make a montage with HQ's￥'Gaudi' and match the data.",
+   "src": "B100:18424",
+   "carry": "rebroken",
+   "long": "＠黄Let's use this information to make a￥composite portrait on Gaudi back at￥headquarters and check it against￥the database.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 19728,
+   "budget": 33,
+   "en": "Build a composite photo, eh?",
+   "src": "B100:18513",
+   "carry": "exact",
+   "long": "So we're making a composite￥portrait?"
+  },
+  {
+   "off": 19761,
+   "budget": 63,
+   "en": "Really she ought to come￥to HQ with us.",
+   "src": "B100:18546",
+   "carry": "rebroken",
+   "long": "It would be better if Isabella could￥come to headquarters with us.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19824,
+   "budget": 47,
+   "en": "Can't be helped...￥We'll ask her later.",
+   "src": "B100:18607",
+   "carry": "rebroken",
+   "long": "Can't be helped. We can check with￥her afterward.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19871,
+   "budget": 9,
+   "en": "Isabella",
+   "src": "B100:18652",
+   "carry": "exact"
+  },
+  {
+   "off": 19880,
+   "budget": 55,
+   "en": "Mmm, poison to the eyes!￥Bondage fashion, is it?",
+   "src": "B100:18661",
+   "carry": "candidate_ok",
+   "en_candidate": "Mmm, poison to the eyes!￥Bondage fashion, is it?",
+   "sim": 0.96,
+   "long": "Wow, that's distracting! Is that the￥bondage look everyone's wearing?"
+  },
+  {
+   "off": 19935,
+   "budget": 33,
+   "en": "What is it?￥...Am I pretty?",
+   "src": "B100:18716",
+   "carry": "exact",
+   "long": "What's the matter? Do you think I'm￥pretty?"
+  },
+  {
+   "off": 19968,
+   "budget": 49,
+   "en": "Don't stare so.￥Strange ideas will come.",
+   "src": "B100:18749",
+   "carry": "exact",
+   "long": "Don't stare at me like that. You'll￥give me ideas."
+  },
+  {
+   "off": 20017,
+   "budget": 21,
+   "en": "Quite a fine man.",
+   "src": "B100:18798",
+   "carry": "exact",
+   "long": "You're quite handsome."
+  },
+  {
+   "off": 20038,
+   "budget": 27,
+   "en": "Long face, good tan...",
+   "src": "B100:18819",
+   "carry": "exact",
+   "long": "That long, tanned face of yours."
+  },
+  {
+   "off": 20065,
+   "budget": 33,
+   "en": "(It's just a mask, though.)",
+   "src": "B100:18846",
+   "carry": "exact"
+  },
+  {
+   "off": 20098,
+   "budget": 31,
+   "en": "A plain face; just my type.",
+   "src": "B100:18879",
+   "carry": "exact",
+   "long": "I like your simple features. You're￥my type."
+  },
+  {
+   "off": 20129,
+   "budget": 47,
+   "en": "I might let you take me out to￥dinner.",
+   "src": "B100:18910",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20176,
+   "budget": 23,
+   "en": "And a-after dinner?",
+   "src": "B100:18955",
+   "carry": "exact"
+  },
+  {
+   "off": 20199,
+   "budget": 33,
+   "en": "That depends on you.",
+   "src": "B100:18978",
+   "carry": "exact"
+  },
+  {
+   "off": 20232,
+   "budget": 33,
+   "en": "Did you hear that, Metal?!",
+   "src": "B100:19011",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20265,
+   "budget": 25,
+   "en": "Should you?￥The case?",
+   "src": "B100:19042",
+   "carry": "exact",
+   "long": "Are you sure about this? What about￥the investigation?"
+  },
+  {
+   "off": 20290,
+   "budget": 85,
+   "en": "Don't be jealous. I'll buy you a￥cute little robot sometime. So,￥when?",
+   "src": "B100:19067",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20375,
+   "budget": 43,
+   "en": "Oh, you took me seriously? I was￥joking.",
+   "src": "B100:19150",
+   "carry": "exact"
+  },
+  {
+   "off": 20418,
+   "budget": 39,
+   "en": "Huh? Joking?",
+   "src": "B100:19193",
+   "carry": "exact"
+  },
+  {
+   "off": 20457,
+   "budget": 37,
+   "en": "That moai mask￥hides your face.",
+   "src": "B100:19232",
+   "carry": "candidate_ok",
+   "en_candidate": "That moai mask￥hides your face.",
+   "sim": 0.94,
+   "note": "differs only in punctuation/spacing",
+   "long": "I can't see your face under that￥Moai mask, can I?"
+  },
+  {
+   "off": 20494,
+   "budget": 37,
+   "en": "That 'thing' mask￥hides your face.",
+   "src": "B100:19267",
+   "carry": "rebroken",
+   "long": "I can't see your face under that￥Koitsu mask, can I?",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 20531,
+   "budget": 43,
+   "en": "Heh heh heh! (Thump!) Ouch!",
+   "src": "B100:19306",
+   "carry": "exact"
+  },
+  {
+   "off": 20574,
+   "budget": 71,
+   "en": "Enough, no?￥Count yourself lucky just to￥see me up close...",
+   "src": "B100:19349",
+   "carry": "rebroken",
+   "long": "Haven't you had enough? You should￥feel lucky just to see me this￥close.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20645,
+   "budget": 13,
+   "en": "Her chest",
+   "src": "B100:19418",
+   "carry": "exact"
+  },
+  {
+   "off": 20658,
+   "budget": 67,
+   "en": "A-amazing!￥...Are those real?￥The 21st century of curves...",
+   "src": "B100:19431",
+   "carry": "exact",
+   "long": "W-wow! Are those real? Big breasts￥are still in fashion in the 21st￥century, huh?"
+  },
+  {
+   "off": 20725,
+   "budget": 35,
+   "en": "What's wrong, Gillian?",
+   "src": "B100:19498",
+   "carry": "exact"
+  },
+  {
+   "off": 20760,
+   "budget": 75,
+   "en": "(No wonder she's a star. Jamie can't￥even compare.)",
+   "src": "B100:19533",
+   "carry": "candidate_ok",
+   "en_candidate": "(No wonder she's a star. Jamie can't￥even compare.)",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 20835,
+   "budget": 45,
+   "en": "What are you muttering about,￥Gillian?",
+   "src": "B100:19604",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20880,
+   "budget": 7,
+   "en": "Around",
+   "src": "B100:19647",
+   "carry": "exact"
+  },
+  {
+   "off": 20887,
+   "budget": 49,
+   "en": "Looking away, with a beauty￥before you?",
+   "src": "B100:19654",
+   "carry": "rebroken",
+   "long": "How can you look away with a beauty￥like me right in front of you?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20936,
+   "budget": 17,
+   "en": "Oh, sorry.",
+   "src": "B100:19701",
+   "carry": "exact"
+  },
+  {
+   "off": 20953,
+   "budget": 25,
+   "en": "No! Look only at me!",
+   "src": "B100:19718",
+   "carry": "rebroken",
+   "long": "No! Keep your eyes on me!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20978,
+   "budget": 13,
+   "en": "I'll do it!",
+   "src": "B100:19741",
+   "carry": "exact",
+   "long": "I'll check her out!"
+  },
+  {
+   "off": 20991,
+   "budget": 15,
+   "en": "I'll do it!",
+   "src": "B100:19754",
+   "carry": "exact"
+  },
+  {
+   "off": 21006,
+   "budget": 11,
+   "en": "I'm on it!",
+   "src": "B100:19769",
+   "carry": "exact",
+   "long": "I'm doing it!"
+  },
+  {
+   "off": 21017,
+   "budget": 29,
+   "en": "Well?￥Get on with it?",
+   "src": "B100:19780",
+   "carry": "exact",
+   "long": "What's wrong? Go on, examine me."
+  },
+  {
+   "off": 21046,
+   "budget": 21,
+   "en": "No, it's all right.",
+   "src": "B100:19809",
+   "carry": "exact"
+  },
+  {
+   "off": 21067,
+   "budget": 47,
+   "en": "This could take a while to examine.",
+   "src": "B100:19830",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21114,
+   "budget": 27,
+   "en": "You're terrible at jokes.",
+   "src": "B100:19875",
+   "carry": "exact"
+  },
+  {
+   "off": 21141,
+   "budget": 27,
+   "en": "Try living a bit smarter?",
+   "src": "B100:19902",
+   "carry": "exact",
+   "long": "Why not try being a little smoother?"
+  },
+  {
+   "off": 21168,
+   "budget": 5,
+   "en": "Ask",
+   "src": "B100:19929",
+   "carry": "exact"
+  },
+  {
+   "off": 21173,
+   "budget": 17,
+   "en": "Phone number",
+   "src": "B100:19934",
+   "carry": "exact"
+  },
+  {
+   "off": 21190,
+   "budget": 17,
+   "en": "Give it a rest!",
+   "src": "B100:19951",
+   "carry": "exact"
+  },
+  {
+   "off": 21207,
+   "budget": 47,
+   "en": "Isabella, your videophone number?",
+   "src": "B100:19968",
+   "carry": "rebroken",
+   "long": "Isabella, could I have your￥videophone number?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21254,
+   "budget": 13,
+   "en": "No.",
+   "src": "B100:20013",
+   "carry": "exact"
+  },
+  {
+   "off": 21267,
+   "budget": 19,
+   "en": "I can't tell you.",
+   "src": "B100:20026",
+   "carry": "exact"
+  },
+  {
+   "off": 21286,
+   "budget": 23,
+   "en": "After all... no.",
+   "src": "B100:20045",
+   "carry": "exact",
+   "long": "No, I really shouldn't."
+  },
+  {
+   "off": 21309,
+   "budget": 17,
+   "en": "Give it up...",
+   "src": "B100:20068",
+   "carry": "exact"
+  },
+  {
+   "off": 21326,
+   "budget": 59,
+   "en": "I give in...￥Listen, it's special, for￥you alone.",
+   "src": "B100:20085",
+   "carry": "rebroken",
+   "long": "All right, you win. But this is a￥special favor. I'm only giving it to￥you."
+  },
+  {
+   "off": 21385,
+   "budget": 91,
+   "en": "I'll only say it once. ＠赤39-6004＠白.￥Don't call before the afternoon.",
+   "src": "B100:20144",
+   "carry": "exact"
+  },
+  {
+   "off": 21476,
+   "budget": 35,
+   "en": "Yes! Heh heh heh!",
+   "src": "B100:20235",
+   "carry": "exact"
+  },
+  {
+   "off": 21511,
+   "budget": 29,
+   "en": "What's that laugh for?",
+   "src": "B100:20270",
+   "carry": "exact"
+  },
+  {
+   "off": 21540,
+   "budget": 13,
+   "en": "About Gibson",
+   "src": "B100:20299",
+   "carry": "exact"
+  },
+  {
+   "off": 21553,
+   "budget": 77,
+   "en": "Just the other day.￥It wasn't cosplay time, so I recall￥his face.",
+   "src": "B100:20312",
+   "carry": "candidate_ok",
+   "en_candidate": "Just the other day.￥It wasn't cosplay time, so I recall￥his face.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "It was just the other day. It wasn't￥Masquerade Hour, so I remember his￥face."
+  },
+  {
+   "off": 21630,
+   "budget": 59,
+   "en": "He seemed to be meeting one of our￥＠赤regulars＠白.",
+   "src": "B100:20391",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21689,
+   "budget": 7,
+   "en": "A reg?",
+   "src": "B100:20448",
+   "carry": "exact",
+   "long": "A regular?"
+  },
+  {
+   "off": 21696,
+   "budget": 61,
+   "en": "He forced down the whale and￥spat blood. It startled me...",
+   "src": "B100:20455",
+   "carry": "rebroken",
+   "long": "He forced himself to eat the whale￥meat and threw up blood. It gave me￥quite a shock.",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 21757,
+   "budget": 13,
+   "en": "Waiting?",
+   "src": "B100:20518",
+   "carry": "exact",
+   "long": "Meeting someone?"
+  },
+  {
+   "off": 21770,
+   "budget": 69,
+   "en": "Actually, it was more like he￥followed the man out.",
+   "src": "B100:20531",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21839,
+   "budget": 27,
+   "en": "I haven't seen him since.",
+   "src": "B100:20598",
+   "carry": "exact"
+  },
+  {
+   "off": 21866,
+   "budget": 31,
+   "en": "Can I see the photo again?",
+   "src": "B100:20625",
+   "carry": "exact"
+  },
+  {
+   "off": 21897,
+   "budget": 35,
+   "en": "Who? No idea.￥Have a photo?",
+   "src": "B100:20656",
+   "carry": "rebroken",
+   "long": "Who? I don't know him. Do you have a￥photo?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21932,
+   "budget": 7,
+   "en": "Photo?",
+   "src": "B100:20689",
+   "carry": "exact",
+   "long": "A photo?"
+  },
+  {
+   "off": 21939,
+   "budget": 41,
+   "en": "She's right. We need a photo of￥Jean.",
+   "src": "B100:20696",
+   "carry": "exact"
+  },
+  {
+   "off": 21980,
+   "budget": 47,
+   "en": "There should be a photo of Jean at￥his house.",
+   "src": "B100:20737",
+   "carry": "exact"
+  },
+  {
+   "off": 22027,
+   "budget": 23,
+   "en": "At Gibson's house...",
+   "src": "B100:20784",
+   "carry": "exact"
+  },
+  {
+   "off": 22050,
+   "budget": 15,
+   "en": "About that man",
+   "src": "B100:20807",
+   "carry": "exact"
+  },
+  {
+   "off": 22065,
+   "budget": 9,
+   "en": "His life",
+   "src": "B100:20822",
+   "carry": "exact",
+   "long": "His background"
+  },
+  {
+   "off": 22074,
+   "budget": 57,
+   "en": "He came at odd hours. No steady￥job. Freelance?",
+   "src": "B100:20831",
+   "carry": "rebroken",
+   "long": "He came in at odd hours. He probably￥didn't have a steady job, or worked￥for himself.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 22131,
+   "budget": 69,
+   "en": "I didn't know him personally, so I￥can't tell you much.",
+   "src": "B100:20886",
+   "carry": "candidate_ok",
+   "en_candidate": "I didn't know him personally, so I￥can't tell you much.",
+   "sim": 0.96
+  },
+  {
+   "off": 22200,
+   "budget": 9,
+   "en": "Features",
+   "src": "B100:20955",
+   "carry": "exact",
+   "long": "His features"
+  },
+  {
+   "off": 22209,
+   "budget": 37,
+   "en": "Try to remember what he looked like.",
+   "src": "B100:20964",
+   "carry": "exact"
+  },
+  {
+   "off": 22246,
+   "budget": 91,
+   "en": "＠黄Gillian, note the features.￥We'll build the montage from￥them later.",
+   "src": "B100:21001",
+   "carry": "candidate_ok",
+   "en_candidate": "＠黄Gillian, note the features.￥We'll build the montage from￥them later.",
+   "sim": 0.96,
+   "long": "＠黄Remember these details, Gillian.￥We'll use them to make a composite￥portrait later."
+  },
+  {
+   "off": 22337,
+   "budget": 51,
+   "en": "So Dracula's story was nonsense￥after all.",
+   "src": "B100:21086",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 22388,
+   "budget": 9,
+   "en": "Face",
+   "src": "B100:21135",
+   "carry": "exact"
+  },
+  {
+   "off": 22397,
+   "budget": 21,
+   "en": "His face shape?",
+   "src": "B100:21144",
+   "carry": "exact",
+   "long": "What shape was his face?"
+  },
+  {
+   "off": 22418,
+   "budget": 21,
+   "en": "Bony, I'd say.",
+   "src": "B100:21165",
+   "carry": "exact"
+  },
+  {
+   "off": 22439,
+   "budget": 9,
+   "en": "Eyes",
+   "src": "B100:21186",
+   "carry": "exact"
+  },
+  {
+   "off": 22448,
+   "budget": 15,
+   "en": "His eyes?",
+   "src": "B100:21195",
+   "carry": "exact",
+   "long": "What were his eyes like?"
+  },
+  {
+   "off": 22463,
+   "budget": 39,
+   "en": "He had a sharp, threatening look.",
+   "src": "B100:21210",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 22502,
+   "budget": 9,
+   "en": "Nose",
+   "src": "B100:21247",
+   "carry": "exact"
+  },
+  {
+   "off": 22511,
+   "budget": 15,
+   "en": "And his nose?",
+   "src": "B100:21256",
+   "carry": "exact",
+   "long": "What was his nose like?"
+  },
+  {
+   "off": 22526,
+   "budget": 35,
+   "en": "It was pointed, like an eagle's￥beak.",
+   "src": "B100:21271",
+   "carry": "candidate_ok",
+   "en_candidate": "Er, pointed, like an eagle's.",
+   "sim": 0.97,
+   "note": "part of the PS1 line; re-adapted 2026-09-30: new PS1 long"
+  },
+  {
+   "off": 22561,
+   "budget": 9,
+   "en": "Mouth",
+   "src": "B100:21308",
+   "carry": "exact"
+  },
+  {
+   "off": 22570,
+   "budget": 15,
+   "en": "His mouth?",
+   "src": "B100:21317",
+   "carry": "exact",
+   "long": "What was his mouth like?"
+  },
+  {
+   "off": 22585,
+   "budget": 25,
+   "en": "His lips were thin.",
+   "src": "B100:21332",
+   "carry": "exact"
+  },
+  {
+   "off": 22610,
+   "budget": 11,
+   "en": "Hair",
+   "src": "B100:21357",
+   "carry": "exact"
+  },
+  {
+   "off": 22621,
+   "budget": 17,
+   "en": "His hair?",
+   "src": "B100:21368",
+   "carry": "exact",
+   "long": "How did he wear his hair?"
+  },
+  {
+   "off": 22638,
+   "budget": 37,
+   "en": "Smooth, sort of swept back.",
+   "src": "B100:21385",
+   "carry": "exact"
+  },
+  {
+   "off": 22675,
+   "budget": 33,
+   "en": "And he had a widow's peak.",
+   "src": "B100:21422",
+   "carry": "exact"
+  },
+  {
+   "off": 22708,
+   "budget": 9,
+   "en": "His age",
+   "src": "B100:21455",
+   "carry": "exact"
+  },
+  {
+   "off": 22717,
+   "budget": 17,
+   "en": "How old was he?",
+   "src": "B100:21464",
+   "carry": "exact"
+  },
+  {
+   "off": 22734,
+   "budget": 23,
+   "en": "Thirties, surely...",
+   "src": "B100:21481",
+   "carry": "exact"
+  },
+  {
+   "off": 22757,
+   "budget": 13,
+   "en": "Change",
+   "src": "B100:21504",
+   "carry": "exact",
+   "long": "Change subject"
+  },
+  {
+   "off": 22770,
+   "budget": 33,
+   "en": "Thank you. That helped.",
+   "src": "B100:21517",
+   "carry": "candidate_ok",
+   "en_candidate": "Thank you. That helped.",
+   "sim": 0.83,
+   "long": "Thanks. You've been a big help."
+  },
+  {
+   "off": 22803,
+   "budget": 27,
+   "en": "Was that any help?",
+   "src": "B100:21546",
+   "carry": "exact"
+  },
+  {
+   "off": 22830,
+   "budget": 33,
+   "en": "Can you tell me about that man?",
+   "src": "B100:21573",
+   "carry": "exact"
+  },
+  {
+   "off": 22863,
+   "budget": 51,
+   "en": "The owner said you knew quite a bit￥about him.",
+   "src": "B100:21606",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 22914,
+   "budget": 35,
+   "en": "I wouldn't say I knew that much.",
+   "src": "B100:21655",
+   "carry": "exact"
+  },
+  {
+   "off": 22949,
+   "budget": 85,
+   "en": "Hm, no name, but he came often.￥Mostly outside cosplay time.",
+   "src": "B100:21690",
+   "carry": "rebroken",
+   "long": "I don't know his name, but he comes￥here often. Usually outside￥Masquerade Hour.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 23034,
+   "budget": 47,
+   "en": "Not cosplay time, so you￥recall his face?",
+   "src": "B100:21771",
+   "carry": "rebroken",
+   "long": "Outside Masquerade Hour? Then do you￥remember his face?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23081,
+   "budget": 15,
+   "en": "Maybe.",
+   "src": "B100:21816",
+   "carry": "exact"
+  },
+  {
+   "off": 23096,
+   "budget": 81,
+   "en": "Right, Metal.￥Let's have her come to HQ.￥We'll build a montage on Gaudi.",
+   "src": "B100:21831",
+   "carry": "exact",
+   "long": "All right, Metal. Let's ask her to￥come to headquarters. We'll make a￥composite on Gaudi."
+  },
+  {
+   "off": 23177,
+   "budget": 43,
+   "en": "We can't take her to headquarters.",
+   "src": "B100:21912",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23220,
+   "budget": 21,
+   "en": "Why not?",
+   "src": "B100:21953",
+   "carry": "exact"
+  },
+  {
+   "off": 23241,
+   "budget": 69,
+   "en": "You heard the owner. She's a major￥movie star.",
+   "src": "B100:21974",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 23310,
+   "budget": 67,
+   "en": "If the press found out, she'd never￥help us again.",
+   "src": "B100:22045",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23377,
+   "budget": 81,
+   "en": "She's famous. A media fuss could￥interfere with our investigation.",
+   "src": "B100:22110",
+   "carry": "exact"
+  },
+  {
+   "off": 23458,
+   "budget": 57,
+   "en": "And if the Snatchers found out who￥we were...",
+   "src": "B100:22191",
+   "carry": "candidate_ok",
+   "en_candidate": "And if the Snatchers found out who￥we were...",
+   "sim": 0.96
+  },
+  {
+   "off": 23515,
+   "budget": 23,
+   "en": "Muttering what?",
+   "src": "B100:22246",
+   "carry": "exact",
+   "long": "What are you two muttering about?"
+  },
+  {
+   "off": 23538,
+   "budget": 21,
+   "en": "A delicate one...",
+   "src": "B100:22269",
+   "carry": "exact"
+  },
+  {
+   "off": 23559,
+   "budget": 45,
+   "en": "A bother, but ask her￥the features...",
+   "src": "B100:22290",
+   "carry": "exact",
+   "long": "It's more work, but let's get her￥description."
+  },
+  {
+   "off": 23604,
+   "budget": 41,
+   "en": "and put the montage together￥ourselves.",
+   "src": "B100:22335",
+   "carry": "exact",
+   "long": "Then we'll make the composite￥ourselves."
+  },
+  {
+   "off": 23645,
+   "budget": 11,
+   "en": "Her work",
+   "src": "B100:22376",
+   "carry": "exact",
+   "long": "Upcoming work"
+  },
+  {
+   "off": 23656,
+   "budget": 93,
+   "en": "My hologram movie starts filming￥next month. I need to start￥preparing for the role.",
+   "src": "B100:22387",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23749,
+   "budget": 51,
+   "en": "There's a holo-sign advert job as￥well...",
+   "src": "B100:22478",
+   "carry": "rebroken",
+   "long": "I've got a holographic billboard￥ad to do, too.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23800,
+   "budget": 37,
+   "en": "And talk of a two-way TV drama...",
+   "src": "B100:22527",
+   "carry": "exact",
+   "long": "And there's talk of an interactive￥TV drama."
+  },
+  {
+   "off": 23837,
+   "budget": 21,
+   "en": "Busy indeed...",
+   "src": "B100:22564",
+   "carry": "exact"
+  },
+  {
+   "off": 23858,
+   "budget": 39,
+   "en": "...I can't come here￥for a while now.",
+   "src": "B100:22585",
+   "carry": "rebroken",
+   "long": "I won't be able to come here for a￥while.",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 23897,
+   "budget": 11,
+   "en": "In men",
+   "src": "B100:22626",
+   "carry": "exact",
+   "long": "Taste in men"
+  },
+  {
+   "off": 23908,
+   "budget": 23,
+   "en": "Your type of man?",
+   "src": "B100:22637",
+   "carry": "exact",
+   "long": "What kind of man do you like?"
+  },
+  {
+   "off": 23931,
+   "budget": 69,
+   "en": "Someone manly and dependable. The￥kind who takes charge.",
+   "src": "B100:22660",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 24000,
+   "budget": 63,
+   "en": "One with clear opinions.￥I loathe indecisive men.",
+   "src": "B100:22727",
+   "carry": "exact",
+   "long": "Someone who knows his own mind. I￥can't stand indecisive men."
+  },
+  {
+   "off": 24063,
+   "budget": 39,
+   "en": "You'd better give up, Gillian.",
+   "src": "B100:22790",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 24102,
+   "budget": 25,
+   "en": "Shh! Shut up!",
+   "src": "B100:22831",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 24127,
+   "budget": 15,
+   "en": "And work?",
+   "src": "B100:22854",
+   "carry": "exact",
+   "long": "What about his job?"
+  },
+  {
+   "off": 24142,
+   "budget": 47,
+   "en": "Detectives are so manly and cool.",
+   "src": "B100:22869",
+   "carry": "exact"
+  },
+  {
+   "off": 24189,
+   "budget": 39,
+   "en": "I loved cop shows when I was little.",
+   "src": "B100:22916",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 24228,
+   "budget": 47,
+   "en": "Though in love,￥none of it matters.",
+   "src": "B100:22957",
+   "carry": "rebroken",
+   "long": "But none of that matters once you￥fall in love.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 24275,
+   "budget": 9,
+   "en": "Do",
+   "src": "B100:23002",
+   "carry": "exact",
+   "long": "Do something"
+  },
+  {
+   "off": 24284,
+   "budget": 13,
+   "en": "Autograph",
+   "src": "B100:23011",
+   "carry": "exact",
+   "long": "Get autograph"
+  },
+  {
+   "off": 24297,
+   "budget": 37,
+   "en": "Um, could I have your autograph?",
+   "src": "B100:23024",
+   "carry": "exact"
+  },
+  {
+   "off": 24334,
+   "budget": 75,
+   "en": "I don't have anything to write with.￥I know! How about this? Mwah!",
+   "src": "B100:23061",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 24409,
+   "budget": 17,
+   "en": "＠赤Whoa!!",
+   "src": "B100:23134",
+   "carry": "exact"
+  },
+  {
+   "off": 24426,
+   "budget": 41,
+   "en": "Hey! I'm telling Jamie.",
+   "src": "B100:23151",
+   "carry": "exact"
+  },
+  {
+   "off": 24467,
+   "budget": 13,
+   "en": "Ask her out",
+   "src": "B100:23192",
+   "carry": "exact"
+  },
+  {
+   "off": 24480,
+   "budget": 45,
+   "en": "Isabella, look at my eyes...￥open up.",
+   "src": "B100:23205",
+   "carry": "rebroken",
+   "long": "Look into my eyes, Isabella. Open￥your heart to me.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 24525,
+   "budget": 33,
+   "en": "Pff... what a corny line.",
+   "src": "B100:23248",
+   "carry": "candidate_ok",
+   "en_candidate": "Pff... what a corny line.",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing",
+   "long": "Pfft! What kind of corny line is￥that?"
+  },
+  {
+   "off": 24558,
+   "budget": 43,
+   "en": "Oh, Isabella. My feelings for you...",
+   "src": "B100:23281",
+   "carry": "exact"
+  },
+  {
+   "off": 24601,
+   "budget": 35,
+   "en": "I don't want to hear lines that￥corny.",
+   "src": "B100:23324",
+   "carry": "candidate_edit",
+   "en_candidate": "I'd rather not hear such￥corny lines.",
+   "sim": 0.92,
+   "note": "part of the PS1 line; re-adapted 2026-09-30: fragment of B100:23324 (no 実際に)"
+  },
+  {
+   "off": 24636,
+   "budget": 49,
+   "en": "I prefer younger men.",
+   "src": "B100:23365",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 24685,
+   "budget": 77,
+   "en": "Keep this quiet, but I'm a JUNKER.￥How about a date?",
+   "src": "B100:23412",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 24762,
+   "budget": 25,
+   "en": "I don't like JUNKERs.",
+   "src": "B100:23487",
+   "carry": "exact"
+  },
+  {
+   "off": 24787,
+   "budget": 29,
+   "en": "Always doubting people?",
+   "src": "B100:23512",
+   "carry": "exact",
+   "long": "You're always suspicious of￥everyone."
+  },
+  {
+   "off": 24816,
+   "budget": 47,
+   "en": "A man who can't trust folk?￥No, thanks.",
+   "src": "B100:23541",
+   "carry": "rebroken",
+   "long": "I don't want a man whose job means￥he can't trust people.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 24863,
+   "budget": 41,
+   "en": "If that's true...￥I'll say no more.",
+   "src": "B100:23586",
+   "carry": "exact",
+   "long": "If that's true, I've got nothing￥more to say."
+  },
+  {
+   "off": 24904,
+   "budget": 41,
+   "en": "Nor do I fancy questioning￥on a date.",
+   "src": "B100:23627",
+   "carry": "candidate_ok",
+   "en_candidate": "Nor do I fancy questioning￥on a date.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "I don't want to be interrogated on a￥date, either."
+  },
+  {
+   "off": 24945,
+   "budget": 29,
+   "en": "Isabella! Come with me!",
+   "src": "B100:23670",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 24974,
+   "budget": 37,
+   "en": "Heh... simple!￥Just an example.",
+   "src": "B100:23697",
+   "carry": "rebroken",
+   "long": "Heh. You're so predictable! That was￥just an example.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 25011,
+   "budget": 67,
+   "en": "Where would you take me?￥If it isn't thrilling, I go home.",
+   "src": "B100:23732",
+   "carry": "exact",
+   "long": "Where are you taking me? It had￥better be exciting, or I'm going￥home."
+  },
+  {
+   "off": 25078,
+   "budget": 31,
+   "en": "Thrilling?￥Where is that?",
+   "src": "B100:23799",
+   "carry": "exact",
+   "long": "Somewhere exciting? Where would that￥be?"
+  },
+  {
+   "off": 25109,
+   "budget": 21,
+   "en": "That won't do.",
+   "src": "B100:23830",
+   "carry": "exact",
+   "long": "That's not going to work."
+  },
+  {
+   "off": 25130,
+   "budget": 35,
+   "en": "Um, what time do you finish today?",
+   "src": "B100:23851",
+   "carry": "exact"
+  },
+  {
+   "off": 25165,
+   "budget": 59,
+   "en": "Is that an invitation?￥It hasn't enough punch.",
+   "src": "B100:23886",
+   "carry": "exact",
+   "long": "Is that your way of asking me out?￥You'll have to try harder."
+  },
+  {
+   "off": 25224,
+   "budget": 23,
+   "en": "If you'd like...",
+   "src": "B100:23945",
+   "carry": "exact"
+  },
+  {
+   "off": 25247,
+   "budget": 37,
+   "en": "The usual ask... won't do it.",
+   "src": "B100:23968",
+   "carry": "exact",
+   "long": "The usual lines won't get a yes from￥me."
+  },
+  {
+   "off": 25284,
+   "budget": 37,
+   "en": "A kiss wasn't enough for you?",
+   "src": "B100:24005",
+   "carry": "exact"
+  },
+  {
+   "off": 25321,
+   "budget": 39,
+   "en": "Rejected again. First Jamie, now￥her.",
+   "src": "B100:24042",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 25360,
+   "budget": 33,
+   "en": "Maybe I'm asking the wrong way.",
+   "src": "B100:24083",
+   "carry": "exact"
+  },
+  {
+   "off": 25393,
+   "budget": 45,
+   "en": "No, Gillian. The problem is you.",
+   "src": "B100:24116",
+   "carry": "exact"
+  },
+  {
+   "off": 25438,
+   "budget": 51,
+   "en": "Well... they say handsome men￥get passed over.",
+   "src": "B100:24161",
+   "carry": "rebroken",
+   "long": "Well, they say women can be put off￥by good looks.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 25489,
+   "budget": 15,
+   "en": "Oh dear...",
+   "src": "B100:24210",
+   "carry": "exact"
+  },
+  {
+   "off": 25504,
+   "budget": 13,
+   "en": "What?!!",
+   "src": "B100:24225",
+   "carry": "exact"
+  },
+  {
+   "off": 25517,
+   "budget": 5,
+   "en": "Drop",
+   "src": "B100:24238",
+   "carry": "exact",
+   "long": "Candy"
+  },
+  {
+   "off": 25522,
+   "budget": 45,
+   "en": "Candy?￥That won't catch my interest.",
+   "src": "B100:24243",
+   "carry": "exact",
+   "long": "Candy? You won't get my attention￥with that."
+  },
+  {
+   "off": 25567,
+   "budget": 7,
+   "en": "Proof",
+   "src": "B100:24288",
+   "carry": "exact",
+   "long": "Evidence"
+  },
+  {
+   "off": 25574,
+   "budget": 7,
+   "en": "Paper",
+   "src": "B100:24295",
+   "carry": "exact",
+   "long": "Scrap of paper"
+  },
+  {
+   "off": 25581,
+   "budget": 5,
+   "en": "Key",
+   "src": "B100:24302",
+   "carry": "exact"
+  },
+  {
+   "off": 25586,
+   "budget": 3,
+   "en": "Pc",
+   "src": "B100:24307",
+   "carry": "exact",
+   "long": "Chess piece"
+  },
+  {
+   "off": 25589,
+   "budget": 9,
+   "en": "Disk",
+   "src": "B100:24310",
+   "carry": "exact"
+  },
+  {
+   "off": 25598,
+   "budget": 11,
+   "en": "Sunblock",
+   "src": "B100:24319",
+   "carry": "exact"
+  },
+  {
+   "off": 25609,
+   "budget": 67,
+   "en": "My skin cells are UV-coated￥directly, so... I don't use it.",
+   "src": "B100:24330",
+   "carry": "rebroken",
+   "long": "I have UV protection applied￥directly to my skin cells, so I￥don't use it.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 25676,
+   "budget": 31,
+   "en": "Nasty, no?￥The summer UV...",
+   "src": "B100:24395",
+   "carry": "exact",
+   "long": "Summer UV rays are awful, aren't￥they?"
+  },
+  {
+   "off": 25707,
+   "budget": 5,
+   "en": "Pic.",
+   "src": "B100:24426",
+   "carry": "exact",
+   "long": "Photo"
+  },
+  {
+   "off": 25712,
+   "budget": 15,
+   "en": "Gibson's photo",
+   "src": "B100:24431",
+   "carry": "exact"
+  },
+  {
+   "off": 25727,
+   "budget": 67,
+   "en": "This man ate the whale and took￥ill. I recall him well.",
+   "src": "B100:24446",
+   "carry": "rebroken",
+   "long": "He's the man who got sick after￥eating whale meat. I remember him￥well.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 25794,
+   "budget": 65,
+   "en": "This man? He looks familiar, but I￥can't remember.",
+   "src": "B100:24509",
+   "carry": "exact"
+  },
+  {
+   "off": 25859,
+   "budget": 77,
+   "en": "You're looking for this man? He￥looks familiar, but I can't￥remember.",
+   "src": "B100:24574",
+   "carry": "exact"
+  },
+  {
+   "off": 25936,
+   "budget": 27,
+   "en": "She may yet recall.",
+   "src": "B100:24651",
+   "carry": "exact",
+   "long": "I think she's about to remember."
+  },
+  {
+   "off": 25963,
+   "budget": 21,
+   "en": "Take a closer look?",
+   "src": "B100:24678",
+   "carry": "exact",
+   "long": "Could you take a closer look?"
+  },
+  {
+   "off": 25984,
+   "budget": 19,
+   "en": "Ah, this man...",
+   "src": "B100:24699",
+   "carry": "exact"
+  },
+  {
+   "off": 26003,
+   "budget": 75,
+   "en": "...That's right. He ate whale￥and took ill. I recall him well.",
+   "src": "B100:24718",
+   "carry": "rebroken",
+   "long": "That's right! He's the man who got￥sick after eating whale meat. I￥remember him well.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 26078,
+   "budget": 17,
+   "en": "Montage photo",
+   "src": "B100:24789",
+   "carry": "exact"
+  },
+  {
+   "off": 26095,
+   "budget": 31,
+   "en": "...Rather like this, I think.",
+   "src": "B100:24806",
+   "carry": "exact",
+   "long": "I think he looked something like￥this."
+  },
+  {
+   "off": 26126,
+   "budget": 35,
+   "en": "Yes, that's him. I'm pretty sure.",
+   "src": "B100:24837",
+   "carry": "exact"
+  },
+  {
+   "off": 26161,
+   "budget": 33,
+   "en": "This is why I hate officials.",
+   "src": "B100:24872",
+   "carry": "exact",
+   "long": "This is why I hate civil servants."
+  },
+  {
+   "off": 26194,
+   "budget": 45,
+   "en": "No need to examine that, is there,￥Metal?",
+   "src": "B100:24905",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 26239,
+   "budget": 33,
+   "en": "Oh, really? Yes, you're right.",
+   "src": "B100:24948",
+   "carry": "exact"
+  },
+  {
+   "off": 26272,
+   "budget": 29,
+   "en": "(That's not like him.)",
+   "src": "B100:24981",
+   "carry": "exact"
+  },
+  {
+   "off": 26301,
+   "budget": 57,
+   "en": "Don't be so vulgar, Metal. Grow up.",
+   "src": "B100:25010",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 26358,
+   "budget": 17,
+   "en": "W-why me?",
+   "src": "B100:25065",
+   "carry": "exact",
+   "long": "Why are you blaming me?"
+  },
+  {
+   "off": 26375,
+   "budget": 35,
+   "en": "Gillian... you do like it, no?",
+   "src": "B100:25082",
+   "carry": "exact",
+   "long": "You really do like this, don't you,￥Gillian?"
+  },
+  {
+   "off": 26410,
+   "budget": 27,
+   "en": "What?￥You yourself...",
+   "src": "B100:25117",
+   "carry": "exact",
+   "long": "What are you talking about? You're￥the one who..."
+  },
+  {
+   "off": 26437,
+   "budget": 37,
+   "en": "No more scoldings from the Chief.",
+   "src": "B100:25144",
+   "carry": "exact",
+   "long": "We'd better keep the Chief from￥getting angry again."
+  },
+  {
+   "off": 26474,
+   "budget": 15,
+   "en": "...A threat?",
+   "src": "B100:25181",
+   "carry": "exact",
+   "long": "Is that a threat?"
+  },
+  {
+   "off": 26489,
+   "budget": 15,
+   "en": "United front.",
+   "src": "B100:25196",
+   "carry": "exact",
+   "long": "We're in this together."
+  },
+  {
+   "off": 26504,
+   "budget": 21,
+   "en": "...A fearsome one.",
+   "src": "B100:25211",
+   "carry": "exact",
+   "long": "You're a scary little thing."
+  },
+  {
+   "off": 26525,
+   "budget": 41,
+   "en": "Enough, no?￥...That was special.",
+   "src": "B100:25232",
+   "carry": "exact",
+   "long": "Haven't you had enough? That was a￥special favor."
+  },
+  {
+   "off": 26566,
+   "budget": 19,
+   "en": "B-but why?",
+   "src": "B100:25273",
+   "carry": "exact"
+  },
+  {
+   "off": 26585,
+   "budget": 59,
+   "en": "Men are always like that. Always￥wanting more.",
+   "src": "B100:25292",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 26644,
+   "budget": 45,
+   "en": "No second time, see?￥No second time.",
+   "src": "B100:25349",
+   "carry": "exact",
+   "long": "It won't happen twice. Understand?￥It won't happen twice."
+  },
+  {
+   "off": 26689,
+   "budget": 33,
+   "en": "Relax, or you'll get stiff.",
+   "src": "B100:25394",
+   "carry": "exact",
+   "long": "Keep tensing up like that and your￥shoulders will ache."
+  },
+  {
+   "off": 26722,
+   "budget": 23,
+   "en": "Sorry, I don't know.",
+   "src": "B100:25427",
+   "carry": "exact"
+  },
+  {
+   "off": 26745,
+   "budget": 27,
+   "en": "What? I don't know.",
+   "src": "B100:25450",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 26772,
+   "budget": 89,
+   "en": "Whew. (First I can't look at her,￥then I can't look away. What a￥fickle woman.)",
+   "src": "B100:25475",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 26861,
+   "budget": 31,
+   "en": "Thanks. Sorry to bother you.",
+   "src": "B100:25560",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 26892,
+   "budget": 47,
+   "en": "No good.￥Nothing solid to be had here.",
+   "src": "B100:25589",
+   "carry": "exact",
+   "long": "No luck. I don't think we'll learn￥anything useful."
+  },
+  {
+   "off": 26939,
+   "budget": 21,
+   "en": "What? This guy?",
+   "src": "B100:25636",
+   "carry": "exact"
+  },
+  {
+   "off": 26960,
+   "budget": 15,
+   "en": "Scary face.",
+   "src": "B100:25657",
+   "carry": "exact",
+   "long": "Whoa, what a scary face."
+  },
+  {
+   "off": 26975,
+   "budget": 17,
+   "en": "What of it?",
+   "src": "B100:25672",
+   "carry": "exact",
+   "long": "What's this about?"
+  },
+  {
+   "off": 26992,
+   "budget": 19,
+   "en": "What do you mean?",
+   "src": "B100:25689",
+   "carry": "exact"
+  },
+  {
+   "off": 27011,
+   "budget": 15,
+   "en": "Who is this?",
+   "src": "B100:25708",
+   "carry": "exact",
+   "long": "Who are you talking about?"
+  },
+  {
+   "off": 27026,
+   "budget": 13,
+   "en": "No idea.",
+   "src": "B100:25723",
+   "carry": "exact",
+   "long": "I don't know him."
+  },
+  {
+   "off": 27039,
+   "budget": 11,
+   "en": "Hm?",
+   "src": "B100:25736",
+   "carry": "exact"
+  },
+  {
+   "off": 27050,
+   "budget": 47,
+   "en": "I know him! I've talked to him￥before.",
+   "src": "B100:25747",
+   "carry": "exact"
+  },
+  {
+   "off": 27097,
+   "budget": 57,
+   "en": "An odd one.￥He'd dig into your business￥endlessly.",
+   "src": "B100:25794",
+   "carry": "exact",
+   "long": "Strange guy. Always digging into￥other people's business."
+  },
+  {
+   "off": 27154,
+   "budget": 33,
+   "en": "I haven't seen him much lately.",
+   "src": "B100:25851",
+   "carry": "exact"
+  },
+  {
+   "off": 27187,
+   "budget": 13,
+   "en": "His features",
+   "src": "B100:25884",
+   "carry": "exact"
+  },
+  {
+   "off": 27200,
+   "budget": 39,
+   "en": "Features?￥I don't recall.￥Sorry.",
+   "src": "B100:25897",
+   "carry": "exact",
+   "long": "What did he look like? Sorry, I￥don't remember."
+  },
+  {
+   "off": 27239,
+   "budget": 21,
+   "en": "No memory at all.",
+   "src": "B100:25936",
+   "carry": "exact",
+   "long": "I don't remember at all."
+  },
+  {
+   "off": 27260,
+   "budget": 53,
+   "en": "Let's ask about the man Isabella￥mentioned.",
+   "src": "B100:25957",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 27313,
+   "budget": 45,
+   "en": "Ask about the man Isabella￥described?",
+   "src": "B100:26008",
+   "carry": "rebroken",
+   "long": "Let's ask about the man Isabella￥described.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 27358,
+   "budget": 17,
+   "en": "Who is this?",
+   "src": "B100:26051",
+   "carry": "exact"
+  },
+  {
+   "off": 27375,
+   "budget": 15,
+   "en": "Who's this?",
+   "src": "B100:26068",
+   "carry": "exact"
+  },
+  {
+   "off": 27390,
+   "budget": 15,
+   "en": "What's this?",
+   "src": "B100:26083",
+   "carry": "exact"
+  },
+  {
+   "off": 27405,
+   "budget": 15,
+   "en": "What's that?",
+   "src": "B100:26098",
+   "carry": "exact"
+  },
+  {
+   "off": 27420,
+   "budget": 27,
+   "en": "I'll tell you something.",
+   "src": "B100:26113",
+   "carry": "exact",
+   "long": "Want to hear something interesting?"
+  },
+  {
+   "off": 27447,
+   "budget": 85,
+   "en": "He brawled here, took an iron￥pipe to the head,￥and never flinched.",
+   "src": "B100:26140",
+   "carry": "rebroken",
+   "long": "He got into a fight with a customer￥here. Took an iron pipe to the head￥and didn't even flinch.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 27532,
+   "budget": 59,
+   "en": "He's not human. Then again, neither￥am I.",
+   "src": "B100:26223",
+   "carry": "exact"
+  },
+  {
+   "off": 27591,
+   "budget": 23,
+   "en": "You take care too.",
+   "src": "B100:26282",
+   "carry": "exact",
+   "long": "You'd better be careful, too."
+  },
+  {
+   "off": 27614,
+   "budget": 19,
+   "en": "Big and round.",
+   "src": "B100:26305",
+   "carry": "exact",
+   "long": "His face? A big circle."
+  },
+  {
+   "off": 27633,
+   "budget": 11,
+   "en": "Two eyes.",
+   "src": "B100:26324",
+   "carry": "exact"
+  },
+  {
+   "off": 27644,
+   "budget": 15,
+   "en": "Two nostrils.",
+   "src": "B100:26335",
+   "carry": "exact"
+  },
+  {
+   "off": 27659,
+   "budget": 11,
+   "en": "Square.",
+   "src": "B100:26350",
+   "carry": "exact",
+   "long": "A square mouth."
+  },
+  {
+   "off": 27670,
+   "budget": 15,
+   "en": "His hair.",
+   "src": "B100:26361",
+   "carry": "exact",
+   "long": "What about his hair?"
+  },
+  {
+   "off": 27685,
+   "budget": 15,
+   "en": "Bald.",
+   "src": "B100:26376",
+   "carry": "exact"
+  },
+  {
+   "off": 27700,
+   "budget": 13,
+   "en": "Pardon me.",
+   "src": "B100:26391",
+   "carry": "exact",
+   "long": "Old enough to know better!"
+  },
+  {
+   "off": 27713,
+   "budget": 35,
+   "en": "Thanks. You've been a big help.",
+   "src": "B100:26404",
+   "carry": "exact"
+  },
+  {
+   "off": 27748,
+   "budget": 27,
+   "en": "I've seen this guy before.",
+   "src": "B100:26439",
+   "carry": "exact"
+  },
+  {
+   "off": 27775,
+   "budget": 41,
+   "en": "Quite at odds with Isabella.",
+   "src": "B100:26466",
+   "carry": "exact",
+   "long": "That completely contradicts￥Isabella's description."
+  },
+  {
+   "off": 27816,
+   "budget": 39,
+   "en": "It's obviously nonsense. Ignore him.",
+   "src": "B100:26507",
+   "carry": "exact"
+  },
+  {
+   "off": 27855,
+   "budget": 31,
+   "en": "Is this man's account true?",
+   "src": "B100:26546",
+   "carry": "exact",
+   "long": "Do you think he's telling the truth?"
+  },
+  {
+   "off": 27886,
+   "budget": 53,
+   "en": "Sounds fishy. He must be messing￥with us.",
+   "src": "B100:26577",
+   "carry": "exact"
+  },
+  {
+   "off": 27939,
+   "budget": 23,
+   "en": "Well, I don't know.",
+   "src": "B100:26630",
+   "carry": "exact"
+  },
+  {
+   "off": 27962,
+   "budget": 15,
+   "en": "Hmm...",
+   "src": "B100:26653",
+   "carry": "exact"
+  },
+  {
+   "off": 27977,
+   "budget": 13,
+   "en": "Beats me.",
+   "src": "B100:26668",
+   "carry": "exact",
+   "long": "I don't know."
+  },
+  {
+   "off": 27990,
+   "budget": 17,
+   "en": "Don't know...",
+   "src": "B100:26681",
+   "carry": "exact"
+  },
+  {
+   "off": 28007,
+   "budget": 21,
+   "en": "Leave me alone...",
+   "src": "B100:26698",
+   "carry": "exact"
+  },
+  {
+   "off": 28028,
+   "budget": 23,
+   "en": "Ah, a film actor?",
+   "src": "B100:26719",
+   "carry": "exact",
+   "long": "Oh, is he a movie actor?"
+  },
+  {
+   "off": 28051,
+   "budget": 25,
+   "en": "Scary face. Who is he?",
+   "src": "B100:26742",
+   "carry": "exact"
+  },
+  {
+   "off": 28076,
+   "budget": 15,
+   "en": "No idea, me.",
+   "src": "B100:26767",
+   "carry": "exact",
+   "long": "I don't know him."
+  },
+  {
+   "off": 28091,
+   "budget": 19,
+   "en": "Never seen him.",
+   "src": "B100:26782",
+   "carry": "exact",
+   "long": "I've never seen him."
+  },
+  {
+   "off": 28110,
+   "budget": 43,
+   "en": "Sorry to bother you. Never mind.",
+   "src": "B100:26801",
+   "carry": "candidate_ok",
+   "en_candidate": "Sorry to bother you. Never mind.",
+   "sim": 0.95,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 28153,
+   "budget": 19,
+   "en": "Oh, all right.",
+   "src": "B100:26844",
+   "carry": "exact"
+  },
+  {
+   "off": 28172,
+   "budget": 43,
+   "en": "That's all, thanks.",
+   "src": "B100:26863",
+   "carry": "candidate_ok",
+   "en_candidate": "That's all, thanks.",
+   "sim": 0.95,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 28215,
+   "budget": 35,
+   "en": "All right. Enjoy yourselves!",
+   "src": "B100:26906",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 28250,
+   "budget": 49,
+   "en": "Thanks. That helped a little.",
+   "src": "B100:26939",
+   "carry": "exact"
+  },
+  {
+   "off": 28299,
+   "budget": 27,
+   "en": "Enjoy yourselves!",
+   "src": "B100:26988",
+   "carry": "exact"
+  },
+  {
+   "off": 28326,
+   "budget": 29,
+   "en": "You're even uglier up close!",
+   "src": "B100:27015",
+   "carry": "exact"
+  },
+  {
+   "off": 28355,
+   "budget": 51,
+   "en": "It's called a Golem. You haven't￥heard of it?",
+   "src": "B100:27044",
+   "carry": "exact"
+  },
+  {
+   "off": 28406,
+   "budget": 9,
+   "en": "I know",
+   "src": "B100:27095",
+   "carry": "exact"
+  },
+  {
+   "off": 28415,
+   "budget": 51,
+   "en": "Of course!￥A familiar face in Konami games.",
+   "src": "B100:27104",
+   "carry": "exact",
+   "long": "Of course I have! They're in Konami￥games all the time."
+  },
+  {
+   "off": 28466,
+   "budget": 89,
+   "en": "You really know your Konami games!￥I'm glad to hear it. Today's on the￥house.",
+   "src": "B100:27155",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 28555,
+   "budget": 9,
+   "en": "Don't",
+   "src": "B100:27242",
+   "carry": "exact",
+   "long": "I don't know"
+  },
+  {
+   "off": 28564,
+   "budget": 79,
+   "en": "You don't know it? You should play￥more Konami games.",
+   "src": "B100:27251",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 28643,
+   "budget": 45,
+   "en": "...Hmm.￥Those eyes, those hands. Vile.",
+   "src": "B100:27328",
+   "carry": "candidate_ok",
+   "en_candidate": "...Hmm.￥Those eyes, those hands. Vile.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "Ugh. Those eyes, those hands. It's￥creepy."
+  },
+  {
+   "off": 28688,
+   "budget": 27,
+   "en": "Artistic, don't you think?",
+   "src": "B100:27371",
+   "carry": "exact",
+   "long": "Don't you think it's artistic?"
+  },
+  {
+   "off": 28715,
+   "budget": 41,
+   "en": "It's well made, but creepy.",
+   "src": "B100:27398",
+   "carry": "exact"
+  },
+  {
+   "off": 28756,
+   "budget": 29,
+   "en": "Let me take a closer look.",
+   "src": "B100:27439",
+   "carry": "exact"
+  },
+  {
+   "off": 28785,
+   "budget": 47,
+   "en": "Oh! Sir, are you into that sort of￥thing?",
+   "src": "B100:27468",
+   "carry": "exact"
+  },
+  {
+   "off": 28832,
+   "budget": 41,
+   "en": "That's creepy. Please stop.",
+   "src": "B100:27515",
+   "carry": "exact"
+  },
+  {
+   "off": 28873,
+   "budget": 37,
+   "en": "Your mask is what's creepy.",
+   "src": "B100:27556",
+   "carry": "exact"
+  },
+  {
+   "off": 28910,
+   "budget": 27,
+   "en": "Surprisingly well built.",
+   "src": "B100:27593",
+   "carry": "exact",
+   "long": "He's surprisingly well built."
+  },
+  {
+   "off": 28937,
+   "budget": 29,
+   "en": "Nothing unusual.",
+   "src": "B100:27620",
+   "carry": "exact"
+  },
+  {
+   "off": 28966,
+   "budget": 45,
+   "en": "Oh, him? The man who got sick.",
+   "src": "B100:27649",
+   "carry": "exact"
+  },
+  {
+   "off": 29011,
+   "budget": 59,
+   "en": "Rather old-fashioned. It seemed￥his first visit.",
+   "src": "B100:27694",
+   "carry": "rebroken",
+   "long": "He seemed rather old-fashioned. I￥think it was his first visit.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 29070,
+   "budget": 49,
+   "en": "Sadly, no details.￥My memory is poor.",
+   "src": "B100:27751",
+   "carry": "exact",
+   "long": "Sorry, I don't remember the details.￥My memory isn't very good."
+  },
+  {
+   "off": 29119,
+   "budget": 99,
+   "en": "I'm afraid I still don't know. We're￥this busy, you see. I can't remember￥everyone I meet.",
+   "src": "B100:27800",
+   "carry": "candidate_edit",
+   "en_candidate": "I still can't say... in this￥trade one cannot remember every￥face one meets...",
+   "sim": 0.72,
+   "note": "re-adapted 2026-09-30: new PS1 long; Saturn's 繁盛 (busy)"
+  },
+  {
+   "off": 29218,
+   "budget": 37,
+   "en": "I'm not sure.",
+   "src": "B100:27895",
+   "carry": "exact"
+  },
+  {
+   "off": 29255,
+   "budget": 55,
+   "en": "Isabella might know.",
+   "src": "B100:27932",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 29310,
+   "budget": 61,
+   "en": "Who is it?￥I couldn't say...￥Have you a photo?",
+   "src": "B100:27985",
+   "carry": "exact",
+   "long": "Who? I'm not sure who you mean. Do￥you have a photo or something?"
+  },
+  {
+   "off": 29371,
+   "budget": 13,
+   "en": "Isabella",
+   "src": "B100:28046",
+   "carry": "exact"
+  },
+  {
+   "off": 29384,
+   "budget": 69,
+   "en": "She dances here all this month.￥There, she's dancing now.",
+   "src": "B100:28059",
+   "carry": "exact",
+   "long": "She's dancing here through the end￥of the month. Look, she's on right￥now."
+  },
+  {
+   "off": 29453,
+   "budget": 67,
+   "en": "Her holo-movie work is off just￥now, so we have her in.",
+   "src": "B100:28128",
+   "carry": "exact",
+   "long": "She's on a break from her hologram￥movies, so we asked her to come."
+  },
+  {
+   "off": 29520,
+   "budget": 75,
+   "en": "A great star now, yet she still￥shows her face here for us.",
+   "src": "B100:28195",
+   "carry": "rebroken",
+   "long": "She's a huge star now, but this is￥the only club she still makes time￥for.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 29595,
+   "budget": 89,
+   "en": "She's great, isn't she? She used to￥dance here before she was famous.",
+   "src": "B100:28268",
+   "carry": "candidate_edit",
+   "en_candidate": "She's great, isn't she? She used to￥dance here before she was famous.￥That's why she still comes back now￥and then.",
+   "sim": 0.79,
+   "note": "part of the PS1 line; the PS1 line's first part; the rest is the next record; re-adapted 2026-09-30: fragment 1/2 of B100:28268"
+  },
+  {
+   "off": 29684,
+   "budget": 49,
+   "en": "That's why she still comes back now￥and then.",
+   "src": "B100:28268",
+   "carry": "candidate_edit",
+   "en_candidate": "She's great, isn't she? She used to￥dance here before she was famous.￥That's why she still comes back now￥and then.",
+   "sim": 0.52,
+   "note": "part of the PS1 line; re-adapted 2026-09-30: fragment 2/2 of B100:28268"
+  },
+  {
+   "off": 29733,
+   "budget": 61,
+   "en": "I knew her when she was young.￥Hasn't changed. Fine girl.",
+   "src": "B100:28403",
+   "carry": "rebroken",
+   "long": "I knew her when she was young. She's￥still the same sweet girl.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 29794,
+   "budget": 71,
+   "en": "Yes. I just talked to her myself.￥Now that's what I call lucky.",
+   "src": "B100:28462",
+   "carry": "candidate_ok",
+   "en_candidate": "Yes. I just talked to her myself.￥Now that's what I call lucky.",
+   "sim": 0.94
+  },
+  {
+   "off": 29865,
+   "budget": 45,
+   "en": "I hear you've been pestering￥Isabella.",
+   "src": "B100:28533",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 29910,
+   "budget": 7,
+   "en": "Huh?",
+   "src": "B100:28576",
+   "carry": "exact"
+  },
+  {
+   "off": 29917,
+   "budget": 47,
+   "en": "That won't do.￥This is no cabaret.",
+   "src": "B100:28583",
+   "carry": "exact",
+   "long": "We can't have that. This isn't a￥hostess club."
+  },
+  {
+   "off": 29964,
+   "budget": 25,
+   "en": "Heh heh heh.",
+   "src": "B100:28630",
+   "carry": "exact"
+  },
+  {
+   "off": 29989,
+   "budget": 15,
+   "en": "On whale",
+   "src": "B100:28655",
+   "carry": "exact",
+   "long": "About whale food"
+  },
+  {
+   "off": 30004,
+   "budget": 71,
+   "en": "Thank you. The whale meat's pretty￥good, isn't it?",
+   "src": "B100:28670",
+   "carry": "exact"
+  },
+  {
+   "off": 30075,
+   "budget": 67,
+   "en": "Keep it quiet, though. They're very￥strict about whale meat.",
+   "src": "B100:28741",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 30142,
+   "budget": 49,
+   "en": "You certainly ate a lot.",
+   "src": "B100:28806",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 30191,
+   "budget": 39,
+   "en": "You did. A little too much.",
+   "src": "B100:28853",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 30230,
+   "budget": 45,
+   "en": "Shall I bring some?￥Quite the delicacy.",
+   "src": "B100:28890",
+   "carry": "exact",
+   "long": "Shall I bring you some? It's quite a￥delicacy."
+  },
+  {
+   "off": 30275,
+   "budget": 113,
+   "en": "Oh, that man? He started coming here￥regularly about three months ago.",
+   "src": "B100:28935",
+   "carry": "candidate_ok",
+   "en_candidate": "Oh, that man? He started coming here￥regularly about three months ago.",
+   "sim": 0.92
+  },
+  {
+   "off": 30388,
+   "budget": 81,
+   "en": "He never ate anything. Just drank￥Moonsalt and stared at the other￥customers.",
+   "src": "B100:29034",
+   "carry": "candidate_edit",
+   "en_candidate": "He ate nothing, drank only￥Moonsalts, and stared at the other￥guests.￥Notable people come here, you know.",
+   "sim": 0.75,
+   "note": "part of the PS1 line; the PS1 line's first part; the rest is the next record; re-adapted 2026-09-30: fragment 1/2 of B100:29034"
+  },
+  {
+   "off": 30469,
+   "budget": 57,
+   "en": "We get quite a few famous people￥here, believe it or not.",
+   "src": "B100:29034",
+   "carry": "candidate_edit",
+   "en_candidate": "He ate nothing, drank only￥Moonsalts, and stared at the other￥guests.￥Notable people come here, you know.",
+   "sim": 0.57,
+   "note": "part of the PS1 line; re-adapted 2026-09-30: fragment 2/2 of B100:29034"
+  },
+  {
+   "off": 30526,
+   "budget": 69,
+   "en": "Politicians, doctors, business￥men... so that sort troubles us.",
+   "src": "B100:29171",
+   "carry": "rebroken",
+   "long": "Politicians, doctors,￥businesspeople. So that kind of￥behavior is a problem.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 30595,
+   "budget": 61,
+   "en": "And so cosplay time caught on￥with such guests.",
+   "src": "B100:29238",
+   "carry": "rebroken",
+   "long": "So that's why Masquerade Hour caught￥on with those customers.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 30656,
+   "budget": 89,
+   "en": "Exactly. But that man only ever came￥outside Masquerade Hour.",
+   "src": "B100:29297",
+   "carry": "candidate_ok",
+   "en_candidate": "Exactly. But that man only ever came￥outside Masquerade Hour.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 30745,
+   "budget": 67,
+   "en": "＠黄In the end odd rumours rose￥that he was a Snatcher.",
+   "src": "B100:29386",
+   "carry": "rebroken",
+   "long": "＠黄Eventually, people even started￥saying he might be a Snatcher.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 30812,
+   "budget": 51,
+   "en": "Not seen of late...￥What became of him?",
+   "src": "B100:29451",
+   "carry": "exact",
+   "long": "I haven't seen him lately. I wonder￥what happened to him."
+  },
+  {
+   "off": 30863,
+   "budget": 53,
+   "en": "I think Isabella knows more about￥him than I do.",
+   "src": "B100:29502",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 30916,
+   "budget": 37,
+   "en": "I'm always wearing this.",
+   "src": "B100:29553",
+   "carry": "exact"
+  },
+  {
+   "off": 30953,
+   "budget": 35,
+   "en": "I saw that man's face poorly.",
+   "src": "B100:29590",
+   "carry": "exact",
+   "long": "So I didn't get a good look at his￥face."
+  },
+  {
+   "off": 30988,
+   "budget": 29,
+   "en": "(Where does he see from?)",
+   "src": "B100:29625",
+   "carry": "exact",
+   "long": "(How does he see out of that?)"
+  },
+  {
+   "off": 31017,
+   "budget": 11,
+   "en": "What?!",
+   "src": "B100:29654",
+   "carry": "exact"
+  },
+  {
+   "off": 31028,
+   "budget": 37,
+   "en": "Yes, that's what he looked like.",
+   "src": "B100:29665",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 31065,
+   "budget": 33,
+   "en": "Yes! That's him!",
+   "src": "B100:29704",
+   "carry": "exact"
+  },
+  {
+   "off": 31098,
+   "budget": 31,
+   "en": "Who?￥No memory of him.",
+   "src": "B100:29737",
+   "carry": "exact",
+   "long": "Who is he? I don't remember him."
+  },
+  {
+   "off": 31129,
+   "budget": 97,
+   "en": "It's Masquerade Hour half the week￥here. Even if he came in, I wouldn't￥know.",
+   "src": "B100:29768",
+   "carry": "candidate_ok",
+   "en_candidate": "It's Masquerade Hour half the week￥here. Even if he came in, I wouldn't￥know.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 31226,
+   "budget": 75,
+   "en": "Isabella might know. She spends the￥most time with the customers.",
+   "src": "B100:29863",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 31301,
+   "budget": 31,
+   "en": "Who is it?￥Some criminal?",
+   "src": "B100:29936",
+   "carry": "exact",
+   "long": "Who is he? Some kind of criminal?"
+  },
+  {
+   "off": 31332,
+   "budget": 21,
+   "en": "What is that?",
+   "src": "B100:29967",
+   "carry": "exact"
+  },
+  {
+   "off": 31353,
+   "budget": 35,
+   "en": "Sorry I can't help.",
+   "src": "B100:29988",
+   "carry": "exact"
+  },
+  {
+   "off": 31388,
+   "budget": 69,
+   "en": "Inside this club runs a signal￥that blocks satellite searches.",
+   "src": "B100:30023",
+   "carry": "rebroken",
+   "long": "There are radio signals inside this￥club that interfere with satellite￥searches.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 31457,
+   "budget": 17,
+   "en": "Careful place.",
+   "src": "B100:30090",
+   "carry": "exact",
+   "long": "They sure take precautions."
+  },
+  {
+   "off": 31474,
+   "budget": 61,
+   "en": "These days guests shun a club￥without scan blocking.",
+   "src": "B100:30107",
+   "carry": "rebroken",
+   "long": "People won't visit a club without￥protection against scans these days.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 31535,
+   "budget": 27,
+   "en": "Backlash to data control?",
+   "src": "B100:30166",
+   "carry": "exact",
+   "long": "A backlash against a society that￥monitors everything?"
+  },
+  {
+   "off": 31562,
+   "budget": 41,
+   "en": "We can't use the videophone here.",
+   "src": "B100:30193",
+   "carry": "exact"
+  },
+  {
+   "off": 31603,
+   "budget": 41,
+   "en": "No videophone signal from inside.",
+   "src": "B100:30234",
+   "carry": "exact",
+   "long": "We can't make videophone calls from￥inside the club."
+  },
+  {
+   "off": 31644,
+   "budget": 45,
+   "en": "We'll get thrown out again. Let's￥not.",
+   "src": "B100:30275",
+   "carry": "exact"
+  },
+  {
+   "off": 31689,
+   "budget": 39,
+   "en": "You never learn.￥We'll be thrown out.",
+   "src": "B100:30320",
+   "carry": "candidate_ok",
+   "en_candidate": "You never learn.￥We'll be thrown out.",
+   "sim": 0.92,
+   "long": "You never learn, do you? You'll get￥thrown out."
+  },
+  {
+   "off": 31728,
+   "budget": 73,
+   "en": "This ID card confirms all your￥powers as a JUNKER. Keep it safe.",
+   "src": "B100:30361",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 31801,
+   "budget": 7,
+   "en": "Funds",
+   "src": "B100:30430",
+   "carry": "exact"
+  },
+  {
+   "off": 31808,
+   "budget": 35,
+   "en": "Money issued by JUNKER.",
+   "src": "B100:30437",
+   "carry": "exact"
+  },
+  {
+   "off": 31843,
+   "budget": 35,
+   "en": "Candy from Jean's pocket.",
+   "src": "B100:30472",
+   "carry": "exact"
+  },
+  {
+   "off": 31878,
+   "budget": 85,
+   "en": "Gibson's memo telling where the data￥on Snatcher weaknesses is kept.",
+   "src": "B100:30507",
+   "carry": "candidate_ok",
+   "en_candidate": "Gibson's memo telling where the data￥on Snatcher weaknesses is kept.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "Gibson's note tells us where to find￥computer data on the Snatchers'￥weakness."
+  },
+  {
+   "off": 31963,
+   "budget": 45,
+   "en": "What does 'Search the house!' mean?",
+   "src": "B100:30586",
+   "carry": "exact"
+  },
+  {
+   "off": 32008,
+   "budget": 33,
+   "en": "The key to Gibson's desk drawer.",
+   "src": "B100:30631",
+   "carry": "exact"
+  },
+  {
+   "off": 32041,
+   "budget": 33,
+   "en": "Quite an antique.",
+   "src": "B100:30664",
+   "carry": "exact"
+  },
+  {
+   "off": 32074,
+   "budget": 37,
+   "en": "The chess piece Gibson was carrying.",
+   "src": "B100:30697",
+   "carry": "exact"
+  },
+  {
+   "off": 32111,
+   "budget": 47,
+   "en": "The chess piece we found in Gibson's￥coat.",
+   "src": "B100:30734",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 32158,
+   "budget": 47,
+   "en": "A disk recording Snatcher￥weaknesses.",
+   "src": "B100:30779",
+   "carry": "rebroken",
+   "long": "A disk containing information on the￥Snatchers' weakness.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 32205,
+   "budget": 37,
+   "en": "A computer floppy disk.",
+   "src": "B100:30824",
+   "carry": "exact"
+  },
+  {
+   "off": 32242,
+   "budget": 83,
+   "en": "Sunscreen used by Snatchers, if￥Gibson was right.",
+   "src": "B100:30861",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 32325,
+   "budget": 41,
+   "en": "And Joy Division confirmed it.",
+   "src": "B100:30942",
+   "carry": "exact"
+  },
+  {
+   "off": 32366,
+   "budget": 73,
+   "en": "Merely a sunblock.￥The label bears the shop's logo.",
+   "src": "B100:30983",
+   "carry": "rebroken",
+   "long": "Ordinary sunscreen. The label has￥the logo of the store that sold it.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 32439,
+   "budget": 7,
+   "en": "Mask",
+   "src": "B100:31054",
+   "carry": "exact"
+  },
+  {
+   "off": 32446,
+   "budget": 49,
+   "en": "A costume mask from Joy Division.",
+   "src": "B100:31061",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 32495,
+   "budget": 25,
+   "en": "A Moai mask.",
+   "src": "B100:31108",
+   "carry": "candidate_ok",
+   "en_candidate": "A Moai mask.",
+   "sim": 0.91,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 32520,
+   "budget": 25,
+   "en": "A Koitsu mask.",
+   "src": "B100:31129",
+   "carry": "exact"
+  },
+  {
+   "off": 32545,
+   "budget": 41,
+   "en": "A photo of Jean Jack Gibson.",
+   "src": "B100:31154",
+   "carry": "exact"
+  },
+  {
+   "off": 32586,
+   "budget": 49,
+   "en": "A montage built from witness￥testimony.",
+   "src": "B100:31195",
+   "carry": "rebroken",
+   "long": "A composite portrait based on￥witness descriptions.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 32635,
+   "budget": 67,
+   "en": "Its built-in chip stores all your￥personal data, Gillian.",
+   "src": "B100:31242",
+   "carry": "exact"
+  },
+  {
+   "off": 32702,
+   "budget": 51,
+   "en": "Any needed case expense may￥be claimed.",
+   "src": "B100:31309",
+   "carry": "rebroken",
+   "long": "In principle, you can claim any￥amount for necessary investigation￥expenses.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 32753,
+   "budget": 47,
+   "en": "The candy Jean gave out￥to the orphans.",
+   "src": "B100:31358",
+   "carry": "rebroken",
+   "long": "Candy Jean gave to children at the￥orphanage.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 32800,
+   "budget": 25,
+   "en": "The note Jean left.",
+   "src": "B100:31403",
+   "carry": "exact"
+  },
+  {
+   "off": 32825,
+   "budget": 57,
+   "en": "Plain paper. It's certainly￥Jean's handwriting.",
+   "src": "B100:31428",
+   "carry": "rebroken",
+   "long": "It's written on ordinary paper.￥Definitely Jean's handwriting.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 32882,
+   "budget": 35,
+   "en": "Key to Gibson's squad-room desk.",
+   "src": "B100:31483",
+   "carry": "exact",
+   "long": "The key to Gibson's desk in the￥Squad room."
+  },
+  {
+   "off": 32917,
+   "budget": 81,
+   "en": "What's this key for? Does anyone￥still use keys like this?",
+   "src": "B020:16121",
+   "carry": "rebroken",
+   "note": "from B020; Saturn jp has 1 more break"
+  },
+  {
+   "off": 32998,
+   "budget": 57,
+   "en": "A wooden chess piece. The queen.",
+   "src": "B100:31603",
+   "carry": "exact"
+  },
+  {
+   "off": 33055,
+   "budget": 39,
+   "en": "A carved wooden chess piece.",
+   "src": "B100:31660",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 33094,
+   "budget": 47,
+   "en": "A disk left with Gibson's case￥data.",
+   "src": "B100:31697",
+   "carry": "rebroken",
+   "long": "A disk containing Gibson's￥investigation data.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 33141,
+   "budget": 37,
+   "en": "A five-inch floppy disk.",
+   "src": "B100:31742",
+   "carry": "exact"
+  },
+  {
+   "off": 33178,
+   "budget": 67,
+   "en": "The bottle says, 'Joy Division: The￥store that has everything.'",
+   "src": "B100:31779",
+   "carry": "exact"
+  },
+  {
+   "off": 33245,
+   "budget": 51,
+   "en": "It was definitely sold at Joy￥Division.",
+   "src": "B100:31846",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 33296,
+   "budget": 55,
+   "en": "Trace the seller and a lead￥may turn up.",
+   "src": "B100:31895",
+   "carry": "rebroken",
+   "long": "Finding out where it was bought￥might give us a lead.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 33351,
+   "budget": 65,
+   "en": "A fine special make-up mask by￥the fashionable Rick Bakery.",
+   "src": "B100:31948",
+   "carry": "rebroken",
+   "long": "An elaborate special effects mask by￥Rick Bakery. His work is very￥popular now.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 33416,
+   "budget": 41,
+   "en": "A 2D computer composite made by￥Gaudi.",
+   "src": "B100:32011",
+   "carry": "exact"
+  },
+  {
+   "off": 33457,
+   "budget": 75,
+   "en": "Gibson took it from his chessboard￥at home. What could it mean?",
+   "src": "B100:32052",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 33532,
+   "budget": 37,
+   "en": "Jean loved riddles.",
+   "src": "B100:32125",
+   "carry": "exact"
+  },
+  {
+   "off": 33569,
+   "budget": 31,
+   "en": "Could it be a hint?",
+   "src": "B100:32162",
+   "carry": "exact"
+  },
+  {
+   "off": 33600,
+   "budget": 35,
+   "en": "Still... he looks a lot like Ivan.",
+   "src": "B100:32193",
+   "carry": "exact",
+   "long": "He really does look like Ivan,￥though."
+  },
+  {
+   "off": 33635,
+   "budget": 55,
+   "en": "We can't blame Alphaville's￥matching for this.",
+   "src": "B100:32228",
+   "carry": "rebroken",
+   "long": "We can't blame Alphaville's matching￥system for getting it wrong.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 33690,
+   "budget": 49,
+   "en": "House? Come to think...￥I've no home either.",
+   "src": "B100:32281",
+   "carry": "rebroken",
+   "long": "Home. Come to think of it, I don't￥have a home to go back to.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 33739,
+   "budget": 65,
+   "en": "Cheer up. You'll be living with￥Jamie again someday.",
+   "src": "B100:32328",
+   "carry": "candidate_ok",
+   "en_candidate": "Cheer up. You'll be living with￥Jamie again someday.",
+   "sim": 0.95
+  },
+  {
+   "off": 33804,
+   "budget": 55,
+   "en": "A home and family. Maybe that's not￥for a JUNKER.",
+   "src": "B100:32395",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 33859,
+   "budget": 29,
+   "en": "Some is still left, no?",
+   "src": "B100:32448",
+   "carry": "exact",
+   "long": "There's still some money left,￥right?"
+  },
+  {
+   "off": 33888,
+   "budget": 51,
+   "en": "A lot less after all your eating and￥drinking.",
+   "src": "B100:32477",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 33939,
+   "budget": 39,
+   "en": "Did I eat that much? Wasn't it you?",
+   "src": "B100:32526",
+   "carry": "exact"
+  },
+  {
+   "off": 33978,
+   "budget": 33,
+   "en": "Hmph! I can't eat anything.",
+   "src": "B100:32565",
+   "carry": "exact"
+  },
+  {
+   "off": 34011,
+   "budget": 45,
+   "en": "Learn to take the blame￥sometimes.",
+   "src": "B100:32598",
+   "carry": "rebroken",
+   "long": "Learn to take the blame for your￥partner once in a while.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 34056,
+   "budget": 47,
+   "en": "My job is to report my partner's￥offenses.",
+   "src": "B100:32641",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 34103,
+   "budget": 61,
+   "en": "Y-you...￥don't say you send this￥talk to the Chief too?",
+   "src": "B100:32686",
+   "carry": "rebroken",
+   "long": "Wait. You're not sending this￥conversation to the Chief, are you?"
+  },
+  {
+   "off": 34164,
+   "budget": 21,
+   "en": "Who knows?",
+   "src": "B100:32747",
+   "carry": "exact"
+  },
+  {
+   "off": 34185,
+   "budget": 23,
+   "en": "＠赤(You little...!)",
+   "src": "B100:32768",
+   "carry": "exact"
+  },
+  {
+   "off": 34208,
+   "budget": 37,
+   "en": "Don't make the same mistake again.",
+   "src": "B100:32791",
+   "carry": "exact"
+  },
+  {
+   "off": 34245,
+   "budget": 29,
+   "en": "Always harping on it....",
+   "src": "B100:32828",
+   "carry": "exact",
+   "long": "You're never going to let me forget￥that, are you?"
+  },
+  {
+   "off": 34274,
+   "budget": 51,
+   "en": "Gillian, you must never show that￥here.",
+   "src": "B100:32857",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 34325,
+   "budget": 35,
+   "en": "I know. We're undercover.",
+   "src": "B100:32906",
+   "carry": "exact"
+  },
+  {
+   "off": 34360,
+   "budget": 55,
+   "en": "Under no circumstances. Don't do￥anything rash.",
+   "src": "B100:32941",
+   "carry": "exact"
+  },
+  {
+   "off": 34415,
+   "budget": 13,
+   "en": "Videophone",
+   "src": "B100:32996",
+   "carry": "exact"
+  },
+  {
+   "off": 34428,
+   "budget": 11,
+   "en": "Save",
+   "src": "B100:33009",
+   "carry": "exact"
+  },
+  {
+   "off": 34439,
+   "budget": 37,
+   "en": "I'll save our progress.",
+   "src": "B100:33020",
+   "carry": "exact"
+  },
+  {
+   "off": 34476,
+   "budget": 31,
+   "en": "You're wearing it right now.",
+   "src": "B100:33057",
+   "carry": "exact"
+  },
+  {
+   "off": 34507,
+   "budget": 25,
+   "en": "Oh, right.",
+   "src": "B100:33088",
+   "carry": "exact"
+  },
+  {
+   "off": 34534,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

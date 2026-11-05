@@ -1,0 +1,295 @@
+{
+ "scene": "B120",
+ "note": "Freddy's apartment (guides/ps1.txt FREDDY'S APARTMENT): Move to Room 202, knock, look/check everything, knock x3, talk x2; Lisa lets Gillian in - look at Lisa x3, talk about Freddy as a suspect x2, show the montage, ask about Freddy (behaviour, health, work, alibi), the map and the sneeze, talk about the montage; the bathroom (tub, shelf, mirror, bottle), Lisa's fight, the remains (leaving the flat), the door/exits/lock, Open, the re-entry, the last fight in the bath.",
+ "source": "guides/ps1.txt FREDDY'S APARTMENT",
+ "actions": [
+  {
+   "save": "B120_start"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Move",
+    "Room 202"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "reps": 3,
+   "optional": true
+  },
+  {
+   "path": [
+    "Talk"
+   ],
+   "reps": 2,
+   "optional": true
+  },
+  {
+   "path": [
+    "Talk",
+    "No one in?"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Ask"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Yell",
+    "Open door"
+   ]
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "reps": 3,
+   "optional": true
+  },
+  {
+   "path": [
+    "Talk"
+   ],
+   "reps": 2,
+   "optional": true
+  },
+  {
+   "save": "B120_lisa"
+  },
+  {
+   "path": [
+    "Look",
+    "Lisa"
+   ],
+   "reps": 3,
+   "optional": true
+  },
+  {
+   "path": [
+    "Talk",
+    "Freddy suspected"
+   ],
+   "reps": 2,
+   "optional": true
+  },
+  {
+   "path": [
+    "Item",
+    "Show",
+    "Photo",
+    "Montage photo"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Ask",
+    "About Freddy"
+   ],
+   "reps": 2,
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Talk",
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go to bathroom"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "Meaning of map"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Ask",
+    "Sneeze"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Talk",
+    "Montage photo"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go to bathroom"
+   ]
+  },
+  {
+   "save": "B120_prebath"
+  },
+  {
+   "path": [
+    "Move|Talk",
+    "Go to bathroom"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Go to bathroom"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "To living room"
+   ]
+  },
+  {
+   "save": "B120_postfight",
+   "why": "misnamed for history: the bath BEFORE Lisa's fight; the next sweep triggers it"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2,
+   "why": "the bottle; Lisa's fight"
+  },
+  {
+   "save": "B120_afterfight"
+  },
+  {
+   "path": [
+    "Look at remains"
+   ],
+   "optional": true,
+   "why": "guide: LOOK at the remains"
+  },
+  {
+   "path": [
+    "Check remains"
+   ],
+   "optional": true,
+   "why": "guide: INVESTIGATE the remains - leaves the flat, the light comes on"
+  },
+  {
+   "path": [
+    "Investigate",
+    "Door"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Investigate",
+    "Exits"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Investigate",
+    "Lock"
+   ],
+   "reps": 2,
+   "optional": true
+  },
+  {
+   "path": [
+    "Investigate",
+    "Door"
+   ],
+   "optional": true,
+   "why": "Open appears after the lock is known"
+  },
+  {
+   "save": "B120_reentry"
+  },
+  {
+   "path": [
+    "Open door"
+   ],
+   "optional": true,
+   "why": "Metal forces the lock; the re-entry conversation (BUG-036, #15)"
+  },
+  {
+   "idle": 300
+  },
+  {
+   "save": "B120_inside2"
+  },
+  {
+   "sweep": [
+    "Look around",
+    "Investigate area",
+    "Look at remains",
+    "Check remains",
+    "Listen"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Yell"
+   ]
+  },
+  {
+   "path": [
+    "Go to bathroom"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Move",
+    "Go to bathroom"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B120_end"
+  }
+ ],
+ "fight": "head"
+}

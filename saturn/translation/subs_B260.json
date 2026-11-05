@@ -1,0 +1,8096 @@
+{
+ "scene": "B260",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B260_c11f1",
+   "line": 835,
+   "act": 3,
+   "sector": 4252,
+   "offset": 790,
+   "size": 200591,
+   "b0": 0,
+   "b1": 45944,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Dr. Petrovich Madnar, a robotics specialist.",
+   "rows": [
+    "Dr. Petrovich Madnar, a",
+    "robotics specialist."
+   ],
+   "rows_plain": [
+    "Dr. Petrovich Madnar, a robotics",
+    "specialist."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f1b",
+   "line": 835,
+   "act": 3,
+   "sector": 4252,
+   "offset": 790,
+   "size": 200591,
+   "b0": 45944,
+   "b1": 110841,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "His son Elijah Madnar, genetic engineering and microbiology.",
+   "rows": [
+    "His son Elijah Madnar,",
+    "genetic engineering and",
+    "microbiology."
+   ],
+   "rows_plain": [
+    "His son Elijah Madnar, genetic",
+    "engineering and microbiology."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f1c",
+   "line": 835,
+   "act": 3,
+   "sector": 4252,
+   "offset": 790,
+   "size": 200591,
+   "b0": 110841,
+   "b1": 158334,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "My fields were nanobiology and picobiology.",
+   "rows": [
+    "My fields were nanobiology",
+    "and picobiology."
+   ],
+   "rows_plain": [
+    "My fields were nanobiology and",
+    "picobiology."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f1d",
+   "line": 835,
+   "act": 3,
+   "sector": 4252,
+   "offset": 790,
+   "size": 200591,
+   "b0": 158334,
+   "b1": 200591,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Gillian, behavioral physiology and psychopathology.",
+   "rows": [
+    "Gillian, behavioral",
+    "physiology and",
+    "psychopathology."
+   ],
+   "rows_plain": [
+    "Gillian, behavioral physiology and",
+    "psychopathology."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f2",
+   "line": 862,
+   "act": 3,
+   "sector": 4936,
+   "offset": 1107,
+   "size": 199733,
+   "b0": 0,
+   "b1": 152828,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "You remember me? I am Elijah Madnar, Petrovich Madnar's only son. Elijah himself.",
+   "rows": [
+    "You remember me? I am Elijah",
+    "Madnar, Petrovich Madnar's",
+    "only son. Elijah himself."
+   ],
+   "rows_plain": [
+    "You remember me? I am Elijah Madnar,",
+    "Petrovich Madnar's only son. Elijah",
+    "himself."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f2b",
+   "line": 862,
+   "act": 3,
+   "sector": 4936,
+   "offset": 1107,
+   "size": 199733,
+   "b0": 152828,
+   "b1": 199733,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Though I've grown old and frail.",
+   "rows": [
+    "Though I've grown old and",
+    "frail."
+   ],
+   "rows_plain": [
+    "Though I've grown old and frail."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f3",
+   "line": 823,
+   "act": 3,
+   "sector": 3758,
+   "offset": 114,
+   "size": 153308,
+   "b0": 0,
+   "b1": 87784,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Fifty years ago, we worked on a top-secret project in the Soviet Union.",
+   "rows": [
+    "Fifty years ago, we worked",
+    "on a top-secret project in",
+    "the Soviet Union."
+   ],
+   "rows_plain": [
+    "Fifty years ago, we worked on a",
+    "top-secret project in the Soviet",
+    "Union."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f3b",
+   "line": 823,
+   "act": 3,
+   "sector": 3758,
+   "offset": 114,
+   "size": 153308,
+   "b0": 87784,
+   "b1": 122941,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "The Cold War still divided East and West.",
+   "rows": [
+    "The Cold War still divided",
+    "East and West."
+   ],
+   "rows_plain": [
+    "The Cold War still divided East and",
+    "West."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f3d",
+   "line": 823,
+   "act": 3,
+   "sector": 3758,
+   "offset": 114,
+   "size": 153308,
+   "b0": 122941,
+   "b1": 153308,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Everyone lived in fear of nuclear war.",
+   "rows": [
+    "Everyone lived in fear of",
+    "nuclear war."
+   ],
+   "rows_plain": [
+    "Everyone lived in fear of nuclear",
+    "war."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f4",
+   "line": 828,
+   "act": 3,
+   "sector": 3993,
+   "offset": 638,
+   "size": 140035,
+   "b0": 0,
+   "b1": 64354,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "The communist bloc was facing an economic crisis.",
+   "rows": [
+    "The communist bloc was",
+    "facing an economic crisis."
+   ],
+   "rows_plain": [
+    "The communist bloc was facing an",
+    "economic crisis."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f4b",
+   "line": 828,
+   "act": 3,
+   "sector": 3993,
+   "offset": 638,
+   "size": 140035,
+   "b0": 64354,
+   "b1": 108409,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Democratic and nationalist movements were rising.",
+   "rows": [
+    "Democratic and nationalist",
+    "movements were rising."
+   ],
+   "rows_plain": [
+    "Democratic and nationalist movements",
+    "were rising."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f4c",
+   "line": 828,
+   "act": 3,
+   "sector": 3993,
+   "offset": 638,
+   "size": 140035,
+   "b0": 108409,
+   "b1": 140035,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "The survival of socialism was at stake.",
+   "rows": [
+    "The survival of socialism",
+    "was at stake."
+   ],
+   "rows_plain": [
+    "The survival of socialism was at",
+    "stake."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f5",
+   "line": 825,
+   "act": 3,
+   "sector": 3878,
+   "offset": 186,
+   "size": 135220,
+   "b0": 0,
+   "b1": 55081,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "A treaty to halt nuclear arms production was expected soon.",
+   "rows": [
+    "A treaty to halt nuclear",
+    "arms production was expected",
+    "soon."
+   ],
+   "rows_plain": [
+    "A treaty to halt nuclear arms",
+    "production was expected soon."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f5c",
+   "line": 825,
+   "act": 3,
+   "sector": 3878,
+   "offset": 186,
+   "size": 135220,
+   "b0": 55081,
+   "b1": 94894,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Meanwhile, America and the other military",
+   "rows": [
+    "Meanwhile, America and the",
+    "other military"
+   ],
+   "rows_plain": [
+    "Meanwhile, America and the other",
+    "military"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f5cb",
+   "line": 825,
+   "act": 3,
+   "sector": 3878,
+   "offset": 186,
+   "size": 135220,
+   "b0": 94894,
+   "b1": 135220,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "powers were entering an arms race in space.",
+   "rows": [
+    "powers were entering an arms",
+    "race in space."
+   ],
+   "rows_plain": [
+    "powers were entering an arms race in",
+    "space."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f6",
+   "line": 824,
+   "act": 3,
+   "sector": 3824,
+   "offset": 38,
+   "size": 125644,
+   "b0": 0,
+   "b1": 66230,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "The world's military balance had reached its limit. It was a naive age.",
+   "rows": [
+    "The world's military balance",
+    "had reached its limit. It",
+    "was a naive age."
+   ],
+   "rows_plain": [
+    "The world's military balance had",
+    "reached its limit. It was a naive",
+    "age."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f6c",
+   "line": 824,
+   "act": 3,
+   "sector": 3824,
+   "offset": 38,
+   "size": 125644,
+   "b0": 66230,
+   "b1": 95612,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "The great powers' leaders believed military",
+   "rows": [
+    "The great powers' leaders",
+    "believed military"
+   ],
+   "rows_plain": [
+    "The great powers' leaders believed",
+    "military"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f6cb",
+   "line": 824,
+   "act": 3,
+   "sector": 3824,
+   "offset": 38,
+   "size": 125644,
+   "b0": 95612,
+   "b1": 125644,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "force alone could make their nations stronger.",
+   "rows": [
+    "force alone could make their",
+    "nations stronger."
+   ],
+   "rows_plain": [
+    "force alone could make their nations",
+    "stronger."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f7",
+   "line": 830,
+   "act": 3,
+   "sector": 4094,
+   "offset": 2025,
+   "size": 126243,
+   "b0": 0,
+   "b1": 70643,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The Snatcher Project. Secretly replace enemy VIPs with Kremlin puppets.",
+   "rows": [
+    "The Snatcher Project.",
+    "Secretly replace enemy VIPs",
+    "with Kremlin puppets."
+   ],
+   "rows_plain": [
+    "The Snatcher Project. Secretly",
+    "replace enemy VIPs with Kremlin",
+    "puppets."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f7b",
+   "line": 830,
+   "act": 3,
+   "sector": 4094,
+   "offset": 2025,
+   "size": 126243,
+   "b0": 70643,
+   "b1": 94903,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Control their politics and economies,",
+   "rows": [
+    "Control their politics and",
+    "economies,"
+   ],
+   "rows_plain": [
+    "Control their politics and",
+    "economies,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f7bb",
+   "line": 830,
+   "act": 3,
+   "sector": 4094,
+   "offset": 2025,
+   "size": 126243,
+   "b0": 94903,
+   "b1": 126243,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "and spread communism and socialism from within.",
+   "rows": [
+    "and spread communism and",
+    "socialism from within."
+   ],
+   "rows_plain": [
+    "and spread communism and socialism",
+    "from within."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f8",
+   "line": 817,
+   "act": 3,
+   "sector": 3612,
+   "offset": 1959,
+   "size": 115480,
+   "b0": 0,
+   "b1": 43372,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "They'd apparently been held here for three years",
+   "rows": [
+    "They'd apparently been held",
+    "here for three years"
+   ],
+   "rows_plain": [
+    "They'd apparently been held here for",
+    "three years"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f8b",
+   "line": 817,
+   "act": 3,
+   "sector": 3612,
+   "offset": 1959,
+   "size": 115480,
+   "b0": 43372,
+   "b1": 115480,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "to develop artificial skin for the Snatchers. One was his own father.",
+   "rows": [
+    "to develop artificial skin",
+    "for the Snatchers. One was",
+    "his own father."
+   ],
+   "rows_plain": [
+    "to develop artificial skin for the",
+    "Snatchers. One was his own father."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f9",
+   "line": 832,
+   "act": 3,
+   "sector": 4155,
+   "offset": 427,
+   "size": 100238,
+   "b0": 0,
+   "b1": 15662,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "They gathered brilliant scientists",
+   "rows": [
+    "They gathered brilliant",
+    "scientists"
+   ],
+   "rows_plain": [
+    "They gathered brilliant scientists"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f9b",
+   "line": 832,
+   "act": 3,
+   "sector": 4155,
+   "offset": 427,
+   "size": 100238,
+   "b0": 15662,
+   "b1": 100238,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "from around the world to develop the Snatchers. Some were brought there by force.",
+   "rows": [
+    "from around the world to",
+    "develop the Snatchers. Some",
+    "were brought there by force."
+   ],
+   "rows_plain": [
+    "from around the world to develop the",
+    "Snatchers. Some were brought there",
+    "by force."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f10",
+   "line": 836,
+   "act": 3,
+   "sector": 4338,
+   "offset": 1517,
+   "size": 102676,
+   "b0": 0,
+   "b1": 60189,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Development began in Neo Akademgorodok, in Novosibirsk.",
+   "rows": [
+    "Development began in Neo",
+    "Akademgorodok, in",
+    "Novosibirsk."
+   ],
+   "rows_plain": [
+    "Development began in Neo",
+    "Akademgorodok, in Novosibirsk."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c11f10b",
+   "line": 836,
+   "act": 3,
+   "sector": 4338,
+   "offset": 1517,
+   "size": 102676,
+   "b0": 60189,
+   "b1": 102676,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Then it moved beneath the Kremlin.",
+   "rows": [
+    "Then it moved beneath the",
+    "Kremlin."
+   ],
+   "rows_plain": [
+    "Then it moved beneath the Kremlin."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c11f11",
+   "line": 837,
+   "act": 3,
+   "sector": 4382,
+   "offset": 1937,
+   "size": 100372,
+   "b0": 0,
+   "b1": 65685,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Perestroika and glasnost were fueling calls for democracy.",
+   "rows": [
+    "Perestroika and glasnost",
+    "were fueling calls for",
+    "democracy."
+   ],
+   "rows_plain": [
+    "Perestroika and glasnost were",
+    "fueling calls for democracy."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f11b",
+   "line": 837,
+   "act": 3,
+   "sector": 4382,
+   "offset": 1937,
+   "size": 100372,
+   "b0": 65685,
+   "b1": 100372,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "So the conservatives hid us underground.",
+   "rows": [
+    "So the conservatives hid us",
+    "underground."
+   ],
+   "rows_plain": [
+    "So the conservatives hid us",
+    "underground."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f12",
+   "line": 839,
+   "act": 3,
+   "sector": 4452,
+   "offset": 1240,
+   "size": 105897,
+   "b0": 0,
+   "b1": 76334,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "You were an intelligence agent sent by the CIA, Gillian.",
+   "rows": [
+    "You were an intelligence",
+    "agent sent by the CIA,",
+    "Gillian."
+   ],
+   "rows_plain": [
+    "You were an intelligence agent sent",
+    "by the CIA, Gillian."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f12b",
+   "line": 839,
+   "act": 3,
+   "sector": 4452,
+   "offset": 1240,
+   "size": 105897,
+   "b0": 76334,
+   "b1": 105897,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Your mission was to sabotage the project.",
+   "rows": [
+    "Your mission was to sabotage",
+    "the project."
+   ],
+   "rows_plain": [
+    "Your mission was to sabotage the",
+    "project."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f13",
+   "line": 845,
+   "act": 3,
+   "sector": 4578,
+   "offset": 730,
+   "size": 105046,
+   "b0": 0,
+   "b1": 39318,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "A huge explosion struck Chernoton Laboratory. The cause was unknown.",
+   "rows": [
+    "A huge explosion struck",
+    "Chernoton Laboratory. The",
+    "cause was unknown."
+   ],
+   "rows_plain": [
+    "A huge explosion struck Chernoton",
+    "Laboratory. The cause was unknown."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f13b",
+   "line": 845,
+   "act": 3,
+   "sector": 4578,
+   "offset": 730,
+   "size": 105046,
+   "b0": 39318,
+   "b1": 76424,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "A germ weapon under development escaped into the air.",
+   "rows": [
+    "A germ weapon under",
+    "development escaped into the",
+    "air."
+   ],
+   "rows_plain": [
+    "A germ weapon under development",
+    "escaped into the air."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f13c",
+   "line": 845,
+   "act": 3,
+   "sector": 4578,
+   "offset": 730,
+   "size": 105046,
+   "b0": 76424,
+   "b1": 105046,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "It destroyed the country and the project.",
+   "rows": [
+    "It destroyed the country and",
+    "the project."
+   ],
+   "rows_plain": [
+    "It destroyed the country and the",
+    "project."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f14",
+   "line": 826,
+   "act": 3,
+   "sector": 3936,
+   "offset": 614,
+   "size": 94729,
+   "b0": 0,
+   "b1": 47364,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "But the Kremlin's conservative tyrants thought differently.",
+   "rows": [
+    "But the Kremlin's",
+    "conservative tyrants thought",
+    "differently."
+   ],
+   "rows_plain": [
+    "But the Kremlin's conservative",
+    "tyrants thought differently."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f14b",
+   "line": 826,
+   "act": 3,
+   "sector": 3936,
+   "offset": 614,
+   "size": 94729,
+   "b0": 47364,
+   "b1": 69123,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "They sought military supremacy",
+   "rows": [
+    "They sought military",
+    "supremacy"
+   ],
+   "rows_plain": [
+    "They sought military supremacy"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f14bb",
+   "line": 826,
+   "act": 3,
+   "sector": 3936,
+   "offset": 614,
+   "size": 94729,
+   "b0": 69123,
+   "b1": 94729,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "through a completely different approach.",
+   "rows": [
+    "through a completely",
+    "different approach."
+   ],
+   "rows_plain": [
+    "through a completely different",
+    "approach."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f15",
+   "line": 829,
+   "act": 3,
+   "sector": 4053,
+   "offset": 1233,
+   "size": 96076,
+   "b0": 0,
+   "b1": 17940,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "The reformers were gaining ground.",
+   "rows": [
+    "The reformers were gaining",
+    "ground."
+   ],
+   "rows_plain": [
+    "The reformers were gaining ground."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f15b",
+   "line": 829,
+   "act": 3,
+   "sector": 4053,
+   "offset": 1233,
+   "size": 96076,
+   "b0": 17940,
+   "b1": 54932,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "The Kremlin conservatives were desperate.",
+   "rows": [
+    "The Kremlin conservatives",
+    "were desperate."
+   ],
+   "rows_plain": [
+    "The Kremlin conservatives were",
+    "desperate."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f15c",
+   "line": 829,
+   "act": 3,
+   "sector": 4053,
+   "offset": 1233,
+   "size": 96076,
+   "b0": 54932,
+   "b1": 96076,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "So they launched that childish scheme.",
+   "rows": [
+    "So they launched that",
+    "childish scheme."
+   ],
+   "rows_plain": [
+    "So they launched that childish",
+    "scheme."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f16",
+   "line": 850,
+   "act": 3,
+   "sector": 4710,
+   "offset": 359,
+   "size": 85274,
+   "b0": 0,
+   "b1": 54777,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "We entered cold sleep in a shelter beneath the Kremlin,",
+   "rows": [
+    "We entered cold sleep in a",
+    "shelter beneath the Kremlin,"
+   ],
+   "rows_plain": [
+    "We entered cold sleep in a shelter",
+    "beneath the Kremlin,"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c11f16b",
+   "line": 850,
+   "act": 3,
+   "sector": 4710,
+   "offset": 359,
+   "size": 85274,
+   "b0": 54777,
+   "b1": 85274,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "until the bacteria would become harmless.",
+   "rows": [
+    "until the bacteria would",
+    "become harmless."
+   ],
+   "rows_plain": [
+    "until the bacteria would become",
+    "harmless."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c11f17",
+   "line": 863,
+   "act": 3,
+   "sector": 5022,
+   "offset": 976,
+   "size": 88451,
+   "b0": 0,
+   "b1": 88451,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Elijah, why would you do this? Dr. Petrovich just died.",
+   "rows": [
+    "Elijah, why would you do",
+    "this? Dr. Petrovich just",
+    "died."
+   ],
+   "rows_plain": [
+    "Elijah, why would you do this? Dr.",
+    "Petrovich just died."
+   ],
+   "enabled": true,
+   "face": [
+    3,
+    3,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c11f18",
+   "line": 864,
+   "act": 3,
+   "sector": 5060,
+   "offset": 1115,
+   "size": 84323,
+   "b0": 0,
+   "b1": 84323,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "What? My father? I see. My father is dead.",
+   "rows": [
+    "What? My father? I see. My",
+    "father is dead."
+   ],
+   "rows_plain": [
+    "What? My father? I see. My father is",
+    "dead."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f19",
+   "line": 848,
+   "act": 3,
+   "sector": 4650,
+   "offset": 2292,
+   "size": 81827,
+   "b0": 0,
+   "b1": 30082,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "During the chaos of the Catastrophe, Dr. Petrovich",
+   "rows": [
+    "During the chaos of the",
+    "Catastrophe, Dr. Petrovich"
+   ],
+   "rows_plain": [
+    "During the chaos of the Catastrophe,",
+    "Dr. Petrovich"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c11f19b",
+   "line": 848,
+   "act": 3,
+   "sector": 4650,
+   "offset": 2292,
+   "size": 81827,
+   "b0": 30082,
+   "b1": 81827,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "and our son Harry were miraculously rescued by the American government.",
+   "rows": [
+    "and our son Harry were",
+    "miraculously rescued by the",
+    "American government."
+   ],
+   "rows_plain": [
+    "and our son Harry were miraculously",
+    "rescued by the American government."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c11f20",
+   "line": 815,
+   "act": 3,
+   "sector": 3570,
+   "offset": 894,
+   "size": 67331,
+   "b0": 0,
+   "b1": 67331,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Don't you remember Dr. Petrovich? Dr. Petrovich Madnar.",
+   "rows": [
+    "Don't you remember Dr.",
+    "Petrovich? Dr. Petrovich",
+    "Madnar."
+   ],
+   "rows_plain": [
+    "Don't you remember Dr. Petrovich?",
+    "Dr. Petrovich Madnar."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c11f21",
+   "line": 833,
+   "act": 3,
+   "sector": 4198,
+   "offset": 733,
+   "size": 68933,
+   "b0": 0,
+   "b1": 68933,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "At the top was our team: the Frankenstein Project team.",
+   "rows": [
+    "At the top was our team: the",
+    "Frankenstein Project team."
+   ],
+   "rows_plain": [
+    "At the top was our team: the",
+    "Frankenstein Project team."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f22",
+   "line": 844,
+   "act": 3,
+   "sector": 4547,
+   "offset": 164,
+   "size": 72610,
+   "b0": 0,
+   "b1": 72610,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Then, on June 6, 1991, the accident happened.",
+   "rows": [
+    "Then, on June 6, 1991, the",
+    "accident happened."
+   ],
+   "rows_plain": [
+    "Then, on June 6, 1991, the accident",
+    "happened."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f23",
+   "line": 851,
+   "act": 3,
+   "sector": 4746,
+   "offset": 1969,
+   "size": 70900,
+   "b0": 0,
+   "b1": 70900,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Fifty years later, three years ago, the 17th expedition found us.",
+   "rows": [
+    "Fifty years later, three",
+    "years ago, the 17th",
+    "expedition found us."
+   ],
+   "rows_plain": [
+    "Fifty years later, three years ago,",
+    "the 17th expedition found us."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f24",
+   "line": 821,
+   "act": 3,
+   "sector": 3715,
+   "offset": 1150,
+   "size": 62347,
+   "b0": 0,
+   "b1": 62347,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "All right, Gillian. I'll tell you about that terrible past.",
+   "rows": [
+    "All right, Gillian. I'll",
+    "tell you about that terrible",
+    "past."
+   ],
+   "rows_plain": [
+    "All right, Gillian. I'll tell you",
+    "about that terrible past."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f25",
+   "line": 838,
+   "act": 3,
+   "sector": 4426,
+   "offset": 53,
+   "size": 61611,
+   "b0": 0,
+   "b1": 61611,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "The reformers joined forces with America to stop the project.",
+   "rows": [
+    "The reformers joined forces",
+    "with America to stop the",
+    "project."
+   ],
+   "rows_plain": [
+    "The reformers joined forces with",
+    "America to stop the project."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f26",
+   "line": 858,
+   "act": 3,
+   "sector": 4865,
+   "offset": 2292,
+   "size": 59971,
+   "b0": 0,
+   "b1": 59971,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "It's been a long time, Jamie. And you, Gillian.",
+   "rows": [
+    "It's been a long time,",
+    "Jamie. And you, Gillian."
+   ],
+   "rows_plain": [
+    "It's been a long time, Jamie. And",
+    "you, Gillian."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f27",
+   "line": 820,
+   "act": 3,
+   "sector": 3692,
+   "offset": 2016,
+   "size": 52586,
+   "b0": 0,
+   "b1": 52586,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Tell me, Jamie. Who am I? What were we doing in the Kremlin?",
+   "rows": [
+    "Tell me, Jamie. Who am I?",
+    "What were we doing in the",
+    "Kremlin?"
+   ],
+   "rows_plain": [
+    "Tell me, Jamie. Who am I? What were",
+    "we doing in the Kremlin?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f28",
+   "line": 834,
+   "act": 3,
+   "sector": 4227,
+   "offset": 2270,
+   "size": 56620,
+   "b0": 0,
+   "b1": 56620,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Four scientists led by Dr. Petrovich Madnar, who lies here now.",
+   "rows": [
+    "Four scientists led by Dr.",
+    "Petrovich Madnar, who lies",
+    "here now."
+   ],
+   "rows_plain": [
+    "Four scientists led by Dr. Petrovich",
+    "Madnar, who lies here now."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f29",
+   "line": 841,
+   "act": 3,
+   "sector": 4503,
+   "offset": 708,
+   "size": 55064,
+   "b0": 0,
+   "b1": 55064,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Our government must know about that. That's why they assigned you to JUNKER.",
+   "rows": [
+    "Our government must know",
+    "about that. That's why they",
+    "assigned you to JUNKER."
+   ],
+   "rows_plain": [
+    "Our government must know about that.",
+    "That's why they assigned you to",
+    "JUNKER."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f1",
+   "line": 875,
+   "act": 3,
+   "sector": 5542,
+   "offset": 1450,
+   "size": 278756,
+   "b0": 0,
+   "b1": 131733,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I was happy. Despite all the political turmoil, every day was fulfilling.",
+   "rows": [
+    "I was happy. Despite all the",
+    "political turmoil, every day",
+    "was fulfilling."
+   ],
+   "rows_plain": [
+    "I was happy. Despite all the",
+    "political turmoil, every day was",
+    "fulfilling."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f1b",
+   "line": 875,
+   "act": 3,
+   "sector": 5542,
+   "offset": 1450,
+   "size": 278756,
+   "b0": 131733,
+   "b1": 205244,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "My father trusted me. Jamie watched over me.",
+   "rows": [
+    "My father trusted me. Jamie",
+    "watched over me."
+   ],
+   "rows_plain": [
+    "My father trusted me. Jamie watched",
+    "over me."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f1c",
+   "line": 875,
+   "act": 3,
+   "sector": 5542,
+   "offset": 1450,
+   "size": 278756,
+   "b0": 205244,
+   "b1": 278756,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I worked desperately to complete my research.",
+   "rows": [
+    "I worked desperately to",
+    "complete my research."
+   ],
+   "rows_plain": [
+    "I worked desperately to complete my",
+    "research."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f2",
+   "line": 871,
+   "act": 3,
+   "sector": 5305,
+   "offset": 830,
+   "size": 252451,
+   "b0": 0,
+   "b1": 86338,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I was still young, an electronics research student just starting out.",
+   "rows": [
+    "I was still young, an",
+    "electronics research student",
+    "just starting out."
+   ],
+   "rows_plain": [
+    "I was still young, an electronics",
+    "research student just starting out."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f2b",
+   "line": 871,
+   "act": 3,
+   "sector": 5305,
+   "offset": 830,
+   "size": 252451,
+   "b0": 86338,
+   "b1": 143552,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "My father's connections got me into the Snatcher Project.",
+   "rows": [
+    "My father's connections got",
+    "me into the Snatcher",
+    "Project."
+   ],
+   "rows_plain": [
+    "My father's connections got me into",
+    "the Snatcher Project."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f2c",
+   "line": 871,
+   "act": 3,
+   "sector": 5305,
+   "offset": 830,
+   "size": 252451,
+   "b0": 143552,
+   "b1": 252451,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "That's where I met you, Jamie. You were my father Petrovich's assistant.",
+   "rows": [
+    "That's where I met you,",
+    "Jamie. You were my father",
+    "Petrovich's assistant."
+   ],
+   "rows_plain": [
+    "That's where I met you, Jamie. You",
+    "were my father Petrovich's",
+    "assistant."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f3",
+   "line": 889,
+   "act": 3,
+   "sector": 6200,
+   "offset": 1782,
+   "size": 231114,
+   "b0": 0,
+   "b1": 107377,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "That's when I learned you were a CIA agent, Gillian.",
+   "rows": [
+    "That's when I learned you",
+    "were a CIA agent, Gillian."
+   ],
+   "rows_plain": [
+    "That's when I learned you were a CIA",
+    "agent, Gillian."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f3c",
+   "line": 889,
+   "act": 3,
+   "sector": 6200,
+   "offset": 1782,
+   "size": 231114,
+   "b0": 107377,
+   "b1": 168750,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "And you, Gillian, were planning to secretly hand our research",
+   "rows": [
+    "And you, Gillian, were",
+    "planning to secretly hand",
+    "our research"
+   ],
+   "rows_plain": [
+    "And you, Gillian, were planning to",
+    "secretly hand our research"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f3cb",
+   "line": 889,
+   "act": 3,
+   "sector": 6200,
+   "offset": 1782,
+   "size": 231114,
+   "b0": 168750,
+   "b1": 231114,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "over to your country's military. It was a cash deal with your government.",
+   "rows": [
+    "over to your country's",
+    "military. It was a cash deal",
+    "with your government."
+   ],
+   "rows_plain": [
+    "over to your country's military. It",
+    "was a cash deal with your",
+    "government."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f4",
+   "line": 895,
+   "act": 3,
+   "sector": 6537,
+   "offset": 1413,
+   "size": 222028,
+   "b0": 0,
+   "b1": 132124,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Artificial skin didn't need T lymphocytes, Langerhans cells or endocrine cells.",
+   "rows": [
+    "Artificial skin didn't need",
+    "T lymphocytes, Langerhans",
+    "cells or endocrine cells."
+   ],
+   "rows_plain": [
+    "Artificial skin didn't need T",
+    "lymphocytes, Langerhans cells or",
+    "endocrine cells."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f4b",
+   "line": 895,
+   "act": 3,
+   "sector": 6537,
+   "offset": 1413,
+   "size": 222028,
+   "b0": 132124,
+   "b1": 222028,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "We needed keratinocytes and pigment cells: melanocytes.",
+   "rows": [
+    "We needed keratinocytes and",
+    "pigment cells: melanocytes."
+   ],
+   "rows_plain": [
+    "We needed keratinocytes and pigment",
+    "cells: melanocytes."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f5",
+   "line": 887,
+   "act": 3,
+   "sector": 6083,
+   "offset": 1928,
+   "size": 200943,
+   "b0": 0,
+   "b1": 33096,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "The reformist leaders wanted to hide this insane project.",
+   "rows": [
+    "The reformist leaders wanted",
+    "to hide this insane project."
+   ],
+   "rows_plain": [
+    "The reformist leaders wanted to hide",
+    "this insane project."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f5b",
+   "line": 887,
+   "act": 3,
+   "sector": 6083,
+   "offset": 1928,
+   "size": 200943,
+   "b0": 33096,
+   "b1": 132164,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "They ordered us to dispose of all our research materials.",
+   "rows": [
+    "They ordered us to dispose",
+    "of all our research",
+    "materials."
+   ],
+   "rows_plain": [
+    "They ordered us to dispose of all",
+    "our research materials."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f5bc",
+   "line": 887,
+   "act": 3,
+   "sector": 6083,
+   "offset": 1928,
+   "size": 200943,
+   "b0": 132164,
+   "b1": 200943,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Then they planned to put us on trial.",
+   "rows": [
+    "Then they planned to put us",
+    "on trial."
+   ],
+   "rows_plain": [
+    "Then they planned to put us on",
+    "trial."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f6",
+   "line": 894,
+   "act": 3,
+   "sector": 6449,
+   "offset": 994,
+   "size": 204931,
+   "b0": 0,
+   "b1": 54913,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "The bioroids were 80 percent complete.",
+   "rows": [
+    "The bioroids were 80 percent",
+    "complete."
+   ],
+   "rows_plain": [
+    "The bioroids were 80 percent",
+    "complete."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c12f6b",
+   "line": 894,
+   "act": 3,
+   "sector": 6449,
+   "offset": 994,
+   "size": 204931,
+   "b0": 54913,
+   "b1": 153698,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "The core endoskeleton was nearly finished. but the artificial skin was not.",
+   "rows": [
+    "The core endoskeleton was",
+    "nearly finished. but the",
+    "artificial skin was not."
+   ],
+   "rows_plain": [
+    "The core endoskeleton was nearly",
+    "finished. but the artificial skin",
+    "was not."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c12f6bb",
+   "line": 894,
+   "act": 3,
+   "sector": 6449,
+   "offset": 994,
+   "size": 204931,
+   "b0": 153698,
+   "b1": 204931,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "That was my work, and Jamie's.",
+   "rows": [
+    "That was my work, and",
+    "Jamie's."
+   ],
+   "rows_plain": [
+    "That was my work, and Jamie's."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c12f7",
+   "line": 896,
+   "act": 3,
+   "sector": 6633,
+   "offset": 337,
+   "size": 161622,
+   "b0": 0,
+   "b1": 48516,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Artificial protein technology was too limited back then.",
+   "rows": [
+    "Artificial protein",
+    "technology was too limited",
+    "back then."
+   ],
+   "rows_plain": [
+    "Artificial protein technology was",
+    "too limited back then."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f7b",
+   "line": 896,
+   "act": 3,
+   "sector": 6633,
+   "offset": 337,
+   "size": 161622,
+   "b0": 48516,
+   "b1": 98802,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Synthesizing real cells was extremely difficult.",
+   "rows": [
+    "Synthesizing real cells was",
+    "extremely difficult."
+   ],
+   "rows_plain": [
+    "Synthesizing real cells was",
+    "extremely difficult."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f7d",
+   "line": 896,
+   "act": 3,
+   "sector": 6633,
+   "offset": 337,
+   "size": 161622,
+   "b0": 98802,
+   "b1": 161622,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Research like that took years.",
+   "rows": [
+    "Research like that took",
+    "years."
+   ],
+   "rows_plain": [
+    "Research like that took years."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f8",
+   "line": 870,
+   "act": 3,
+   "sector": 5238,
+   "offset": 1272,
+   "size": 155266,
+   "b0": 0,
+   "b1": 87558,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Fifty years ago in Moscow, I was obsessed.",
+   "rows": [
+    "Fifty years ago in Moscow, I",
+    "was obsessed."
+   ],
+   "rows_plain": [
+    "Fifty years ago in Moscow, I was",
+    "obsessed."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f8b",
+   "line": 870,
+   "act": 3,
+   "sector": 5238,
+   "offset": 1272,
+   "size": 155266,
+   "b0": 87558,
+   "b1": 155266,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "With my research, and with you, Jamie.",
+   "rows": [
+    "With my research, and with",
+    "you, Jamie."
+   ],
+   "rows_plain": [
+    "With my research, and with you,",
+    "Jamie."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f9",
+   "line": 883,
+   "act": 3,
+   "sector": 5903,
+   "offset": 1495,
+   "size": 148631,
+   "b0": 0,
+   "b1": 98498,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Even so, my feelings only grew stronger. My father worried about me.",
+   "rows": [
+    "Even so, my feelings only",
+    "grew stronger. My father",
+    "worried about me."
+   ],
+   "rows_plain": [
+    "Even so, my feelings only grew",
+    "stronger. My father worried about",
+    "me."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f9b",
+   "line": 883,
+   "act": 3,
+   "sector": 5903,
+   "offset": 1495,
+   "size": 148631,
+   "b0": 98498,
+   "b1": 148631,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "He tried to take me off the project, but I wouldn't let go.",
+   "rows": [
+    "He tried to take me off the",
+    "project, but I wouldn't let",
+    "go."
+   ],
+   "rows_plain": [
+    "He tried to take me off the project,",
+    "but I wouldn't let go."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f10",
+   "line": 872,
+   "act": 3,
+   "sector": 5413,
+   "offset": 2289,
+   "size": 144184,
+   "b0": 0,
+   "b1": 87899,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Your beauty captivated me, Jamie. Your smile filled my heart.",
+   "rows": [
+    "Your beauty captivated me,",
+    "Jamie. Your smile filled my",
+    "heart."
+   ],
+   "rows_plain": [
+    "Your beauty captivated me, Jamie.",
+    "Your smile filled my heart."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f10b",
+   "line": 872,
+   "act": 3,
+   "sector": 5413,
+   "offset": 2289,
+   "size": 144184,
+   "b0": 87899,
+   "b1": 144184,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "You had something the women of the East didn't.",
+   "rows": [
+    "You had something the women",
+    "of the East didn't."
+   ],
+   "rows_plain": [
+    "You had something the women of the",
+    "East didn't."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f11",
+   "line": 873,
+   "act": 3,
+   "sector": 5476,
+   "offset": 61,
+   "size": 147843,
+   "b0": 0,
+   "b1": 98981,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I was young and withdrawn, but you slowly opened my heart.",
+   "rows": [
+    "I was young and withdrawn,",
+    "but you slowly opened my",
+    "heart."
+   ],
+   "rows_plain": [
+    "I was young and withdrawn, but you",
+    "slowly opened my heart."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f11b",
+   "line": 873,
+   "act": 3,
+   "sector": 5476,
+   "offset": 61,
+   "size": 147843,
+   "b0": 98981,
+   "b1": 147843,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I couldn't stop my feelings.",
+   "rows": [
+    "I couldn't stop my feelings."
+   ],
+   "rows_plain": [
+    "I couldn't stop my feelings."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f12",
+   "line": 886,
+   "act": 3,
+   "sector": 6027,
+   "offset": 1657,
+   "size": 130415,
+   "b0": 0,
+   "b1": 27565,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "The Cold War between East and West ended.",
+   "rows": [
+    "The Cold War between East",
+    "and West ended."
+   ],
+   "rows_plain": [
+    "The Cold War between East and West",
+    "ended."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f12b",
+   "line": 886,
+   "act": 3,
+   "sector": 6027,
+   "offset": 1657,
+   "size": 130415,
+   "b0": 50684,
+   "b1": 88030,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "The conservatives behind the project lost power.",
+   "rows": [
+    "The conservatives behind the",
+    "project lost power."
+   ],
+   "rows_plain": [
+    "The conservatives behind the project",
+    "lost power."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f12bb",
+   "line": 886,
+   "act": 3,
+   "sector": 6027,
+   "offset": 1657,
+   "size": 130415,
+   "b0": 88030,
+   "b1": 130415,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "The Frankenstein Project was canceled.",
+   "rows": [
+    "The Frankenstein Project was",
+    "canceled."
+   ],
+   "rows_plain": [
+    "The Frankenstein Project was",
+    "canceled."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f13",
+   "line": 890,
+   "act": 3,
+   "sector": 6300,
+   "offset": 496,
+   "size": 130947,
+   "b0": 0,
+   "b1": 79040,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I wasn't a politician. I didn't care what happened to the state.",
+   "rows": [
+    "I wasn't a politician. I",
+    "didn't care what happened to",
+    "the state."
+   ],
+   "rows_plain": [
+    "I wasn't a politician. I didn't care",
+    "what happened to the state."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f13b",
+   "line": 890,
+   "act": 3,
+   "sector": 6300,
+   "offset": 496,
+   "size": 130947,
+   "b0": 79040,
+   "b1": 130947,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "My research and Jamie were my whole world.",
+   "rows": [
+    "My research and Jamie were",
+    "my whole world."
+   ],
+   "rows_plain": [
+    "My research and Jamie were my whole",
+    "world."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f14",
+   "line": 877,
+   "act": 3,
+   "sector": 5701,
+   "offset": 634,
+   "size": 117028,
+   "b0": 0,
+   "b1": 117028,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "You appeared, Gillian. You came into our lives. And everything fell apart.",
+   "rows": [
+    "You appeared, Gillian. You",
+    "came into our lives. And",
+    "everything fell apart."
+   ],
+   "rows_plain": [
+    "You appeared, Gillian. You came into",
+    "our lives. And everything fell",
+    "apart."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f15",
+   "line": 881,
+   "act": 3,
+   "sector": 5847,
+   "offset": 693,
+   "size": 110179,
+   "b0": 0,
+   "b1": 110179,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "You and Jamie fell in love, married and had a child.",
+   "rows": [
+    "You and Jamie fell in love,",
+    "married and had a child."
+   ],
+   "rows_plain": [
+    "You and Jamie fell in love, married",
+    "and had a child."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f16",
+   "line": 891,
+   "act": 3,
+   "sector": 6356,
+   "offset": 1299,
+   "size": 108345,
+   "b0": 0,
+   "b1": 108345,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I was about to lose it all. You can't imagine the shock that was to a young man.",
+   "rows": [
+    "I was about to lose it all.",
+    "You can't imagine the shock",
+    "that was to a young man."
+   ],
+   "rows_plain": [
+    "I was about to lose it all. You",
+    "can't imagine the shock that was to",
+    "a young man."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f17",
+   "line": 885,
+   "act": 3,
+   "sector": 5988,
+   "offset": 342,
+   "size": 91951,
+   "b0": 0,
+   "b1": 29754,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "That year, the wave of democracy",
+   "rows": [
+    "That year, the wave of",
+    "democracy"
+   ],
+   "rows_plain": [
+    "That year, the wave of democracy"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f17b",
+   "line": 885,
+   "act": 3,
+   "sector": 5988,
+   "offset": 342,
+   "size": 91951,
+   "b0": 29754,
+   "b1": 91951,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "that swept Eastern Europe spread throughout our country.",
+   "rows": [
+    "that swept Eastern Europe",
+    "spread throughout our",
+    "country."
+   ],
+   "rows_plain": [
+    "that swept Eastern Europe spread",
+    "throughout our country."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f18",
+   "line": 876,
+   "act": 3,
+   "sector": 5662,
+   "offset": 1326,
+   "size": 89944,
+   "b0": 0,
+   "b1": 89944,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "But even that small happiness didn't last.",
+   "rows": [
+    "But even that small",
+    "happiness didn't last."
+   ],
+   "rows_plain": [
+    "But even that small happiness didn't",
+    "last."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f19",
+   "line": 879,
+   "act": 3,
+   "sector": 5774,
+   "offset": 2190,
+   "size": 90198,
+   "b0": 0,
+   "b1": 90198,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Far from home, Jamie quickly grew close to Gillian, her fellow countryman.",
+   "rows": [
+    "Far from home, Jamie quickly",
+    "grew close to Gillian, her",
+    "fellow countryman."
+   ],
+   "rows_plain": [
+    "Far from home, Jamie quickly grew",
+    "close to Gillian, her fellow",
+    "countryman."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f1",
+   "line": 897,
+   "act": 3,
+   "sector": 6702,
+   "offset": 1603,
+   "size": 215878,
+   "b0": 0,
+   "b1": 99018,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "The original plan was to Snatch an entire country at once.",
+   "rows": [
+    "The original plan was to",
+    "Snatch an entire country at",
+    "once."
+   ],
+   "rows_plain": [
+    "The original plan was to Snatch an",
+    "entire country at once."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f1b",
+   "line": 897,
+   "act": 3,
+   "sector": 6702,
+   "offset": 1603,
+   "size": 215878,
+   "b0": 99018,
+   "b1": 215878,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "We had to replace a whole nation or city in a single night.",
+   "rows": [
+    "We had to replace a whole",
+    "nation or city in a single",
+    "night."
+   ],
+   "rows_plain": [
+    "We had to replace a whole nation or",
+    "city in a single night."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f2",
+   "line": 923,
+   "act": 3,
+   "sector": 7903,
+   "offset": 437,
+   "size": 219520,
+   "b0": 0,
+   "b1": 55028,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Neo Kobe was cut off from the outside world.",
+   "rows": [
+    "Neo Kobe was cut off from",
+    "the outside world."
+   ],
+   "rows_plain": [
+    "Neo Kobe was cut off from the",
+    "outside world."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c13f2b",
+   "line": 923,
+   "act": 3,
+   "sector": 7903,
+   "offset": 437,
+   "size": 219520,
+   "b0": 55028,
+   "b1": 110055,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Ideal for simulating a miniature nation.",
+   "rows": [
+    "Ideal for simulating a",
+    "miniature nation."
+   ],
+   "rows_plain": [
+    "Ideal for simulating a miniature",
+    "nation."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c13f2c",
+   "line": 923,
+   "act": 3,
+   "sector": 7903,
+   "offset": 437,
+   "size": 219520,
+   "b0": 110055,
+   "b1": 161295,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Its mix of ethnic groups also made it ideal",
+   "rows": [
+    "Its mix of ethnic groups",
+    "also made it ideal"
+   ],
+   "rows_plain": [
+    "Its mix of ethnic groups also made",
+    "it ideal"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c13f2cb",
+   "line": 923,
+   "act": 3,
+   "sector": 7903,
+   "offset": 437,
+   "size": 219520,
+   "b0": 161295,
+   "b1": 219520,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "for gathering a wide range of data on Snatching.",
+   "rows": [
+    "for gathering a wide range",
+    "of data on Snatching."
+   ],
+   "rows_plain": [
+    "for gathering a wide range of data",
+    "on Snatching."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c13f3",
+   "line": 904,
+   "act": 3,
+   "sector": 7049,
+   "offset": 328,
+   "size": 202619,
+   "b0": 0,
+   "b1": 45786,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "After I sealed off the institute, I entered cold sleep",
+   "rows": [
+    "After I sealed off the",
+    "institute, I entered cold",
+    "sleep"
+   ],
+   "rows_plain": [
+    "After I sealed off the institute, I",
+    "entered cold sleep"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c13f3b",
+   "line": 904,
+   "act": 3,
+   "sector": 7049,
+   "offset": 328,
+   "size": 202619,
+   "b0": 45786,
+   "b1": 105610,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "in an underground shelter with you two, who had failed to escape.",
+   "rows": [
+    "in an underground shelter",
+    "with you two, who had failed",
+    "to escape."
+   ],
+   "rows_plain": [
+    "in an underground shelter with you",
+    "two, who had failed to escape."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c13f3c",
+   "line": 904,
+   "act": 3,
+   "sector": 7049,
+   "offset": 328,
+   "size": 202619,
+   "b0": 105610,
+   "b1": 143865,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I left a satellite to monitor the atmosphere.",
+   "rows": [
+    "I left a satellite to",
+    "monitor the atmosphere."
+   ],
+   "rows_plain": [
+    "I left a satellite to monitor the",
+    "atmosphere."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c13f3d",
+   "line": 904,
+   "act": 3,
+   "sector": 7049,
+   "offset": 328,
+   "size": 202619,
+   "b0": 143865,
+   "b1": 202619,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "We would wake automatically when Lucifer Alpha became harmless.",
+   "rows": [
+    "We would wake automatically",
+    "when Lucifer Alpha became",
+    "harmless."
+   ],
+   "rows_plain": [
+    "We would wake automatically when",
+    "Lucifer Alpha became harmless."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c13f4",
+   "line": 914,
+   "act": 3,
+   "sector": 7453,
+   "offset": 2117,
+   "size": 182747,
+   "b0": 0,
+   "b1": 79068,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "And back then, I couldn't have persuaded Jamie.",
+   "rows": [
+    "And back then, I couldn't",
+    "have persuaded Jamie."
+   ],
+   "rows_plain": [
+    "And back then, I couldn't have",
+    "persuaded Jamie."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f4b",
+   "line": 914,
+   "act": 3,
+   "sector": 7453,
+   "offset": 2117,
+   "size": 182747,
+   "b0": 98816,
+   "b1": 182747,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "It wasn't time yet. I reset your timers to infinity.",
+   "rows": [
+    "It wasn't time yet. I reset",
+    "your timers to infinity."
+   ],
+   "rows_plain": [
+    "It wasn't time yet. I reset your",
+    "timers to infinity."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f5",
+   "line": 918,
+   "act": 3,
+   "sector": 7676,
+   "offset": 2121,
+   "size": 186371,
+   "b0": 0,
+   "b1": 87877,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "But Jamie was always sleeping beside me.",
+   "rows": [
+    "But Jamie was always",
+    "sleeping beside me."
+   ],
+   "rows_plain": [
+    "But Jamie was always sleeping beside",
+    "me."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f5b",
+   "line": 918,
+   "act": 3,
+   "sector": 7676,
+   "offset": 2121,
+   "size": 186371,
+   "b0": 87877,
+   "b1": 186371,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I spoke to you for forty years, in that dark underground shelter.",
+   "rows": [
+    "I spoke to you for forty",
+    "years, in that dark",
+    "underground shelter."
+   ],
+   "rows_plain": [
+    "I spoke to you for forty years, in",
+    "that dark underground shelter."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f6",
+   "line": 916,
+   "act": 3,
+   "sector": 7539,
+   "offset": 622,
+   "size": 175971,
+   "b0": 0,
+   "b1": 106808,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "For forty years, I worked alone in the darkness beneath the Kremlin,",
+   "rows": [
+    "For forty years, I worked",
+    "alone in the darkness",
+    "beneath the Kremlin,"
+   ],
+   "rows_plain": [
+    "For forty years, I worked alone in",
+    "the darkness beneath the Kremlin,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f6b",
+   "line": 916,
+   "act": 3,
+   "sector": 7539,
+   "offset": 622,
+   "size": 175971,
+   "b0": 106808,
+   "b1": 175971,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "developing the bioroids' artificial skin.",
+   "rows": [
+    "developing the bioroids'",
+    "artificial skin."
+   ],
+   "rows_plain": [
+    "developing the bioroids' artificial",
+    "skin."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f7",
+   "line": 907,
+   "act": 3,
+   "sector": 7175,
+   "offset": 2245,
+   "size": 161309,
+   "b0": 0,
+   "b1": 161309,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "No, it worked. I woke exactly ten years later. Before you two, Gillian.",
+   "rows": [
+    "No, it worked. I woke",
+    "exactly ten years later.",
+    "Before you two, Gillian."
+   ],
+   "rows_plain": [
+    "No, it worked. I woke exactly ten",
+    "years later. Before you two,",
+    "Gillian."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f8",
+   "line": 912,
+   "act": 3,
+   "sector": 7338,
+   "offset": 573,
+   "size": 161793,
+   "b0": 0,
+   "b1": 109904,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I planned to wake only Jamie, so we could finish the bioroids together.",
+   "rows": [
+    "I planned to wake only",
+    "Jamie, so we could finish",
+    "the bioroids together."
+   ],
+   "rows_plain": [
+    "I planned to wake only Jamie, so we",
+    "could finish the bioroids together."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f8b",
+   "line": 912,
+   "act": 3,
+   "sector": 7338,
+   "offset": 573,
+   "size": 161793,
+   "b0": 109904,
+   "b1": 161793,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "You would sleep forever, Gillian.",
+   "rows": [
+    "You would sleep forever,",
+    "Gillian."
+   ],
+   "rows_plain": [
+    "You would sleep forever, Gillian."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f9",
+   "line": 903,
+   "act": 3,
+   "sector": 6983,
+   "offset": 1581,
+   "size": 152131,
+   "b0": 0,
+   "b1": 99250,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "On June 6, I acted, after moving the bioroid research materials",
+   "rows": [
+    "On June 6, I acted, after",
+    "moving the bioroid research",
+    "materials"
+   ],
+   "rows_plain": [
+    "On June 6, I acted, after moving the",
+    "bioroid research materials"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f9b",
+   "line": 903,
+   "act": 3,
+   "sector": 6983,
+   "offset": 1581,
+   "size": 152131,
+   "b0": 99250,
+   "b1": 152131,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "and records into the shelter.",
+   "rows": [
+    "and records into the",
+    "shelter."
+   ],
+   "rows_plain": [
+    "and records into the shelter."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f10",
+   "line": 898,
+   "act": 3,
+   "sector": 6795,
+   "offset": 1349,
+   "size": 145676,
+   "b0": 0,
+   "b1": 67138,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "So another team was developing a germ weapon alongside the Snatchers.",
+   "rows": [
+    "So another team was",
+    "developing a germ weapon",
+    "alongside the Snatchers."
+   ],
+   "rows_plain": [
+    "So another team was developing a",
+    "germ weapon alongside the Snatchers."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f10b",
+   "line": 898,
+   "act": 3,
+   "sector": 6795,
+   "offset": 1349,
+   "size": 145676,
+   "b0": 67138,
+   "b1": 145676,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Reliable and fast-acting, able to kill an entire population in an instant.",
+   "rows": [
+    "Reliable and fast-acting,",
+    "able to kill an entire",
+    "population in an instant."
+   ],
+   "rows_plain": [
+    "Reliable and fast-acting, able to",
+    "kill an entire population in an",
+    "instant."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f11",
+   "line": 917,
+   "act": 3,
+   "sector": 7614,
+   "offset": 2293,
+   "size": 143916,
+   "b0": 0,
+   "b1": 143916,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Day after day, no visitors. No sunlight. No changing colors of the seasons.",
+   "rows": [
+    "Day after day, no visitors.",
+    "No sunlight. No changing",
+    "colors of the seasons."
+   ],
+   "rows_plain": [
+    "Day after day, no visitors. No",
+    "sunlight. No changing colors of the",
+    "seasons."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f12",
+   "line": 900,
+   "act": 3,
+   "sector": 6868,
+   "offset": 2208,
+   "size": 117922,
+   "b0": 0,
+   "b1": 117922,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Exactly. The RA011 virus, developed by another team.",
+   "rows": [
+    "Exactly. The RA011 virus,",
+    "developed by another team."
+   ],
+   "rows_plain": [
+    "Exactly. The RA011 virus,",
+    "developed by another team."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f13",
+   "line": 922,
+   "act": 3,
+   "sector": 7850,
+   "offset": 2102,
+   "size": 121507,
+   "b0": 0,
+   "b1": 121507,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I chose Neo Kobe City as my first test of the Snatchers.",
+   "rows": [
+    "I chose Neo Kobe City as my",
+    "first test of the Snatchers."
+   ],
+   "rows_plain": [
+    "I chose Neo Kobe City as my first",
+    "test of the Snatchers."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f14",
+   "line": 913,
+   "act": 3,
+   "sector": 7407,
+   "offset": 2010,
+   "size": 107011,
+   "b0": 0,
+   "b1": 107011,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "But I couldn't do it. Not with Jamie sleeping so peacefully.",
+   "rows": [
+    "But I couldn't do it. Not",
+    "with Jamie sleeping so",
+    "peacefully."
+   ],
+   "rows_plain": [
+    "But I couldn't do it. Not with Jamie",
+    "sleeping so peacefully."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c13f15",
+   "line": 929,
+   "act": 3,
+   "sector": 8156,
+   "offset": 1953,
+   "size": 110267,
+   "b0": 0,
+   "b1": 110267,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Yes. I found my father in a government hospital. He was old, but his mind was sharp.",
+   "rows": [
+    "Yes. I found my father in a",
+    "government hospital. He was",
+    "old, but his mind was sharp."
+   ],
+   "rows_plain": [
+    "Yes. I found my father in a",
+    "government hospital. He was old, but",
+    "his mind was sharp."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c13f16",
+   "line": 921,
+   "act": 3,
+   "sector": 7808,
+   "offset": 434,
+   "size": 99276,
+   "b0": 0,
+   "b1": 51396,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "First, I Snatched the Siberian search team",
+   "rows": [
+    "First, I Snatched the",
+    "Siberian search team"
+   ],
+   "rows_plain": [
+    "First, I Snatched the Siberian",
+    "search team"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f16b",
+   "line": 921,
+   "act": 3,
+   "sector": 7808,
+   "offset": 434,
+   "size": 99276,
+   "b0": 51396,
+   "b1": 99276,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "to secure a route for transporting the bioroids.",
+   "rows": [
+    "to secure a route for",
+    "transporting the bioroids."
+   ],
+   "rows_plain": [
+    "to secure a route for transporting",
+    "the bioroids."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f17",
+   "line": 924,
+   "act": 3,
+   "sector": 7997,
+   "offset": 1501,
+   "size": 101699,
+   "b0": 0,
+   "b1": 101699,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Another reason was Japanese culture itself, with its deep suspicion of others.",
+   "rows": [
+    "Another reason was Japanese",
+    "culture itself, with its",
+    "deep suspicion of others."
+   ],
+   "rows_plain": [
+    "Another reason was Japanese culture",
+    "itself, with its deep suspicion of",
+    "others."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f18",
+   "line": 927,
+   "act": 3,
+   "sector": 8094,
+   "offset": 1869,
+   "size": 106147,
+   "b0": 0,
+   "b1": 106147,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I gathered data and tried to find a solution. But nothing worked.",
+   "rows": [
+    "I gathered data and tried to",
+    "find a solution. But nothing",
+    "worked."
+   ],
+   "rows_plain": [
+    "I gathered data and tried to find a",
+    "solution. But nothing worked."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f19",
+   "line": 901,
+   "act": 3,
+   "sector": 6919,
+   "offset": 1606,
+   "size": 87619,
+   "b0": 0,
+   "b1": 87619,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "As an insider, I could easily blow up the laboratory.",
+   "rows": [
+    "As an insider, I could",
+    "easily blow up the",
+    "laboratory."
+   ],
+   "rows_plain": [
+    "As an insider, I could easily blow",
+    "up the laboratory."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f20",
+   "line": 911,
+   "act": 3,
+   "sector": 7300,
+   "offset": 1559,
+   "size": 87326,
+   "b0": 0,
+   "b1": 32747,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Everything went according to plan.",
+   "rows": [
+    "Everything went according to",
+    "plan."
+   ],
+   "rows_plain": [
+    "Everything went according to plan."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f20b",
+   "line": 911,
+   "act": 3,
+   "sector": 7300,
+   "offset": 1559,
+   "size": 87326,
+   "b0": 53472,
+   "b1": 87326,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "My real struggle began afterward.",
+   "rows": [
+    "My real struggle began",
+    "afterward."
+   ],
+   "rows_plain": [
+    "My real struggle began afterward."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f21",
+   "line": 926,
+   "act": 3,
+   "sector": 8058,
+   "offset": 922,
+   "size": 84611,
+   "b0": 0,
+   "b1": 84611,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "It was completely unexpected. I'd spent forty years on that research.",
+   "rows": [
+    "It was completely",
+    "unexpected. I'd spent forty",
+    "years on that research."
+   ],
+   "rows_plain": [
+    "It was completely unexpected. I'd",
+    "spent forty years on that research."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f1",
+   "line": 933,
+   "act": 3,
+   "sector": 8277,
+   "offset": 976,
+   "size": 76564,
+   "b0": 0,
+   "b1": 76564,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "But a mistake put both you and Gillian in the government's hands.",
+   "rows": [
+    "But a mistake put both you",
+    "and Gillian in the",
+    "government's hands."
+   ],
+   "rows_plain": [
+    "But a mistake put both you and",
+    "Gillian in the government's hands."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f2",
+   "line": 934,
+   "act": 3,
+   "sector": 8310,
+   "offset": 848,
+   "size": 44804,
+   "b0": 0,
+   "b1": 44804,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What are you planning? This won't bring Jamie back!",
+   "rows": [
+    "What are you planning? This",
+    "won't bring Jamie back!"
+   ],
+   "rows_plain": [
+    "What are you planning? This won't",
+    "bring Jamie back!"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c14f3",
+   "line": 935,
+   "act": 3,
+   "sector": 8329,
+   "offset": 1496,
+   "size": 132995,
+   "b0": 0,
+   "b1": 58774,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I'm simply exploring what it means to be human.",
+   "rows": [
+    "I'm simply exploring what it",
+    "means to be human."
+   ],
+   "rows_plain": [
+    "I'm simply exploring what it means",
+    "to be human."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f3b",
+   "line": 935,
+   "act": 3,
+   "sector": 8329,
+   "offset": 1496,
+   "size": 132995,
+   "b0": 58774,
+   "b1": 132995,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Jamie may have inspired me once, but not anymore.",
+   "rows": [
+    "Jamie may have inspired me",
+    "once, but not anymore."
+   ],
+   "rows_plain": [
+    "Jamie may have inspired me once, but",
+    "not anymore."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f4",
+   "line": 936,
+   "act": 3,
+   "sector": 8386,
+   "offset": 2023,
+   "size": 22675,
+   "b0": 0,
+   "b1": 22675,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Isn't that just a scientist's arrogance?",
+   "rows": [
+    "Isn't that just a",
+    "scientist's arrogance?"
+   ],
+   "rows_plain": [
+    "Isn't that just a scientist's",
+    "arrogance?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f5",
+   "line": 937,
+   "act": 3,
+   "sector": 8396,
+   "offset": 1458,
+   "size": 124633,
+   "b0": 0,
+   "b1": 124633,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Humans are fragile. Even the strongest trust crumbles under the slightest doubt.",
+   "rows": [
+    "Humans are fragile. Even the",
+    "strongest trust crumbles",
+    "under the slightest doubt."
+   ],
+   "rows_plain": [
+    "Humans are fragile. Even the",
+    "strongest trust crumbles under the",
+    "slightest doubt."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f6",
+   "line": 938,
+   "act": 3,
+   "sector": 8450,
+   "offset": 595,
+   "size": 187514,
+   "b0": 0,
+   "b1": 57566,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Look how the Snatchers have shaken humanity.",
+   "rows": [
+    "Look how the Snatchers have",
+    "shaken humanity."
+   ],
+   "rows_plain": [
+    "Look how the Snatchers have shaken",
+    "humanity."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f6b",
+   "line": 938,
+   "act": 3,
+   "sector": 8450,
+   "offset": 595,
+   "size": 187514,
+   "b0": 57566,
+   "b1": 127482,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "For all our scientific progress and lofty ideals,",
+   "rows": [
+    "For all our scientific",
+    "progress and lofty ideals,"
+   ],
+   "rows_plain": [
+    "For all our scientific progress and",
+    "lofty ideals,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f6d",
+   "line": 938,
+   "act": 3,
+   "sector": 8450,
+   "offset": 595,
+   "size": 187514,
+   "b0": 127482,
+   "b1": 187514,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "we still doubt, hate and kill each other.",
+   "rows": [
+    "we still doubt, hate and",
+    "kill each other."
+   ],
+   "rows_plain": [
+    "we still doubt, hate and kill each",
+    "other."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f7",
+   "line": 939,
+   "act": 3,
+   "sector": 8530,
+   "offset": 2189,
+   "size": 73731,
+   "b0": 0,
+   "b1": 73731,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Snatchers are merely tools that bring that out.",
+   "rows": [
+    "Snatchers are merely tools",
+    "that bring that out."
+   ],
+   "rows_plain": [
+    "Snatchers are merely tools that",
+    "bring that out."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f8",
+   "line": 940,
+   "act": 3,
+   "sector": 8562,
+   "offset": 1552,
+   "size": 90467,
+   "b0": 0,
+   "b1": 90467,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Through them, I simply reveal what lies within us.",
+   "rows": [
+    "Through them, I simply",
+    "reveal what lies within us."
+   ],
+   "rows_plain": [
+    "Through them, I simply reveal what",
+    "lies within us."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f9",
+   "line": 941,
+   "act": 3,
+   "sector": 8601,
+   "offset": 1383,
+   "size": 149123,
+   "b0": 0,
+   "b1": 80109,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I think this experiment has shown me humanity's limits.",
+   "rows": [
+    "I think this experiment has",
+    "shown me humanity's limits."
+   ],
+   "rows_plain": [
+    "I think this experiment has shown me",
+    "humanity's limits."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c14f9b",
+   "line": 941,
+   "act": 3,
+   "sector": 8601,
+   "offset": 1383,
+   "size": 149123,
+   "b0": 80109,
+   "b1": 149123,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Perhaps they can advance no further on their own.",
+   "rows": [
+    "Perhaps they can advance no",
+    "further on their own."
+   ],
+   "rows_plain": [
+    "Perhaps they can advance no further",
+    "on their own."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c14f10",
+   "line": 942,
+   "act": 3,
+   "sector": 8665,
+   "offset": 1770,
+   "size": 172958,
+   "b0": 0,
+   "b1": 79346,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "To evolve further, humanity needs a perfect leader.",
+   "rows": [
+    "To evolve further, humanity",
+    "needs a perfect leader."
+   ],
+   "rows_plain": [
+    "To evolve further, humanity needs a",
+    "perfect leader."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f10b",
+   "line": 942,
+   "act": 3,
+   "sector": 8665,
+   "offset": 1770,
+   "size": 172958,
+   "b0": 100377,
+   "b1": 172958,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "A resolute leader, unmoved by petty doubts.",
+   "rows": [
+    "A resolute leader, unmoved",
+    "by petty doubts."
+   ],
+   "rows_plain": [
+    "A resolute leader, unmoved by petty",
+    "doubts."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f11",
+   "line": 943,
+   "act": 3,
+   "sector": 8740,
+   "offset": 428,
+   "size": 30485,
+   "b0": 0,
+   "b1": 30485,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "People will never follow Snatchers!",
+   "rows": [
+    "People will never follow",
+    "Snatchers!"
+   ],
+   "rows_plain": [
+    "People will never follow Snatchers!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f12",
+   "line": 944,
+   "act": 3,
+   "sector": 8753,
+   "offset": 701,
+   "size": 139683,
+   "b0": 0,
+   "b1": 55045,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "They will if they don't know what their leaders are.",
+   "rows": [
+    "They will if they don't know",
+    "what their leaders are."
+   ],
+   "rows_plain": [
+    "They will if they don't know what",
+    "their leaders are."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f12b",
+   "line": 944,
+   "act": 3,
+   "sector": 8753,
+   "offset": 701,
+   "size": 139683,
+   "b0": 55045,
+   "b1": 139683,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "People have always sought an absolute god.",
+   "rows": [
+    "People have always sought an",
+    "absolute god."
+   ],
+   "rows_plain": [
+    "People have always sought an",
+    "absolute god."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f13",
+   "line": 945,
+   "act": 3,
+   "sector": 8813,
+   "offset": 944,
+   "size": 156925,
+   "b0": 0,
+   "b1": 116366,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Remove all doubt, and Snatchers can be their gods.",
+   "rows": [
+    "Remove all doubt, and",
+    "Snatchers can be their gods."
+   ],
+   "rows_plain": [
+    "Remove all doubt, and Snatchers can",
+    "be their gods."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f13b",
+   "line": 945,
+   "act": 3,
+   "sector": 8813,
+   "offset": 944,
+   "size": 156925,
+   "b0": 116366,
+   "b1": 156925,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "A superior humanity made flesh.",
+   "rows": [
+    "A superior humanity made",
+    "flesh."
+   ],
+   "rows_plain": [
+    "A superior humanity made flesh."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f14",
+   "line": 946,
+   "act": 3,
+   "sector": 8880,
+   "offset": 2161,
+   "size": 148605,
+   "b0": 0,
+   "b1": 18870,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I'm so close.",
+   "rows": [
+    "I'm so close."
+   ],
+   "rows_plain": [
+    "I'm so close."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f14b",
+   "line": 946,
+   "act": 3,
+   "sector": 8880,
+   "offset": 2161,
+   "size": 148605,
+   "b0": 18870,
+   "b1": 68037,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Once the artificial skin is complete,",
+   "rows": [
+    "Once the artificial skin is",
+    "complete,"
+   ],
+   "rows_plain": [
+    "Once the artificial skin is",
+    "complete,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f14c",
+   "line": 946,
+   "act": 3,
+   "sector": 8880,
+   "offset": 2161,
+   "size": 148605,
+   "b0": 68037,
+   "b1": 148605,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Snatchers will surpass humanity and become true human beings.",
+   "rows": [
+    "Snatchers will surpass",
+    "humanity and become true",
+    "human beings."
+   ],
+   "rows_plain": [
+    "Snatchers will surpass humanity and",
+    "become true human beings."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f15",
+   "line": 947,
+   "act": 3,
+   "sector": 8944,
+   "offset": 2030,
+   "size": 54459,
+   "b0": 0,
+   "b1": 54459,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Perfect artificial skin is impossible. Dr. Petrovich is dead.",
+   "rows": [
+    "Perfect artificial skin is",
+    "impossible. Dr. Petrovich is",
+    "dead."
+   ],
+   "rows_plain": [
+    "Perfect artificial skin is",
+    "impossible. Dr. Petrovich is dead."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f16",
+   "line": 948,
+   "act": 3,
+   "sector": 8968,
+   "offset": 713,
+   "size": 159683,
+   "b0": 0,
+   "b1": 66017,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I no longer need my father. I have a sample he made.",
+   "rows": [
+    "I no longer need my father.",
+    "I have a sample he made."
+   ],
+   "rows_plain": [
+    "I no longer need my father. I have a",
+    "sample he made."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c14f16b",
+   "line": 948,
+   "act": 3,
+   "sector": 8968,
+   "offset": 713,
+   "size": 159683,
+   "b0": 66017,
+   "b1": 90043,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Once I've analyzed it,",
+   "rows": [
+    "Once I've analyzed it,"
+   ],
+   "rows_plain": [
+    "Once I've analyzed it,"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c14f16c",
+   "line": 948,
+   "act": 3,
+   "sector": 8968,
+   "offset": 713,
+   "size": 159683,
+   "b0": 90043,
+   "b1": 159683,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I can mass-produce perfect artificial skin in any quantity I need.",
+   "rows": [
+    "I can mass-produce perfect",
+    "artificial skin in any",
+    "quantity I need."
+   ],
+   "rows_plain": [
+    "I can mass-produce perfect",
+    "artificial skin in any quantity I",
+    "need."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c14f17",
+   "line": 949,
+   "act": 3,
+   "sector": 9037,
+   "offset": 40,
+   "size": 121891,
+   "b0": 0,
+   "b1": 62126,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Or I can simply culture the necessary cells: keratinocytes,",
+   "rows": [
+    "Or I can simply culture the",
+    "necessary cells:",
+    "keratinocytes,"
+   ],
+   "rows_plain": [
+    "Or I can simply culture the",
+    "necessary cells: keratinocytes,"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "resident"
+  },
+  {
+   "id": "B260_c14f17b",
+   "line": 949,
+   "act": 3,
+   "sector": 9037,
+   "offset": 40,
+   "size": 121891,
+   "b0": 62126,
+   "b1": 121891,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "epithelial cells and pigment cells, then multiply them.",
+   "rows": [
+    "epithelial cells and pigment",
+    "cells, then multiply them."
+   ],
+   "rows_plain": [
+    "epithelial cells and pigment cells,",
+    "then multiply them."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "resident"
+  },
+  {
+   "id": "B260_c14f18",
+   "line": 950,
+   "act": 3,
+   "sector": 9089,
+   "offset": 1083,
+   "size": 56419,
+   "b0": 0,
+   "b1": 56419,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What are you talking about? Where's this perfect skin?",
+   "rows": [
+    "What are you talking about?",
+    "Where's this perfect skin?"
+   ],
+   "rows_plain": [
+    "What are you talking about? Where's",
+    "this perfect skin?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f19",
+   "line": 951,
+   "act": 3,
+   "sector": 9113,
+   "offset": 1726,
+   "size": 15909,
+   "b0": 0,
+   "b1": 15909,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Look at this.",
+   "rows": [
+    "Look at this."
+   ],
+   "rows_plain": [
+    "Look at this."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "resident"
+  },
+  {
+   "id": "B260_c14f20",
+   "line": 952,
+   "act": 3,
+   "sector": 9120,
+   "offset": 1367,
+   "size": 35202,
+   "b0": 0,
+   "b1": 35202,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "It was found in the ruins of Queen Hospital.",
+   "rows": [
+    "It was found in the ruins of",
+    "Queen Hospital."
+   ],
+   "rows_plain": [
+    "It was found in the ruins of Queen",
+    "Hospital."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f21",
+   "line": 953,
+   "act": 3,
+   "sector": 9135,
+   "offset": 1709,
+   "size": 10051,
+   "b0": 0,
+   "b1": 10051,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Randam!",
+   "rows": [
+    "Randam!"
+   ],
+   "rows_plain": [
+    "Randam!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c14f22",
+   "line": 954,
+   "act": 3,
+   "sector": 9140,
+   "offset": 140,
+   "size": 60035,
+   "b0": 0,
+   "b1": 60035,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Ah, so you do know him.",
+   "rows": [
+    "Ah, so you do know him."
+   ],
+   "rows_plain": [
+    "Ah, so you do know him."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c14f23",
+   "line": 955,
+   "act": 3,
+   "sector": 9165,
+   "offset": 2075,
+   "size": 19271,
+   "b0": 0,
+   "b1": 19271,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "He's a Snatcher?!",
+   "rows": [
+    "He's a Snatcher?!"
+   ],
+   "rows_plain": [
+    "He's a Snatcher?!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f24",
+   "line": 956,
+   "act": 3,
+   "sector": 9174,
+   "offset": 430,
+   "size": 159523,
+   "b0": 0,
+   "b1": 54947,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "That's not quite accurate.",
+   "rows": [
+    "That's not quite accurate."
+   ],
+   "rows_plain": [
+    "That's not quite accurate."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f24b",
+   "line": 956,
+   "act": 3,
+   "sector": 9174,
+   "offset": 430,
+   "size": 159523,
+   "b0": 54947,
+   "b1": 159523,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "My father secretly built that bioroid in the likeness of his son. Me.",
+   "rows": [
+    "My father secretly built",
+    "that bioroid in the likeness",
+    "of his son. Me."
+   ],
+   "rows_plain": [
+    "My father secretly built that",
+    "bioroid in the likeness of his son.",
+    "Me."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f25",
+   "line": 957,
+   "act": 3,
+   "sector": 9242,
+   "offset": 1921,
+   "size": 90339,
+   "b0": 0,
+   "b1": 90339,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Here in this factory. He programmed it to destroy Snatchers.",
+   "rows": [
+    "Here in this factory. He",
+    "programmed it to destroy",
+    "Snatchers."
+   ],
+   "rows_plain": [
+    "Here in this factory. He programmed",
+    "it to destroy Snatchers."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f26",
+   "line": 958,
+   "act": 3,
+   "sector": 9281,
+   "offset": 1624,
+   "size": 95058,
+   "b0": 0,
+   "b1": 95058,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "That bioroid gave me no end of trouble. It's far superior to my Snatchers.",
+   "rows": [
+    "That bioroid gave me no end",
+    "of trouble. It's far",
+    "superior to my Snatchers."
+   ],
+   "rows_plain": [
+    "That bioroid gave me no end of",
+    "trouble. It's far superior to my",
+    "Snatchers."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f27",
+   "line": 959,
+   "act": 3,
+   "sector": 9322,
+   "offset": 1398,
+   "size": 150692,
+   "b0": 0,
+   "b1": 101276,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "It believes it's human. He even gave it childhood memories. Ha!",
+   "rows": [
+    "It believes it's human. He",
+    "even gave it childhood",
+    "memories. Ha!"
+   ],
+   "rows_plain": [
+    "It believes it's human. He even gave",
+    "it childhood memories. Ha!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f27b",
+   "line": 959,
+   "act": 3,
+   "sector": 9322,
+   "offset": 1398,
+   "size": 150692,
+   "b0": 101276,
+   "b1": 150692,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Copies of my memories, of course.",
+   "rows": [
+    "Copies of my memories, of",
+    "course."
+   ],
+   "rows_plain": [
+    "Copies of my memories, of course."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f29",
+   "line": 961,
+   "act": 3,
+   "sector": 9512,
+   "offset": 1598,
+   "size": 158404,
+   "b0": 0,
+   "b1": 11910,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Just like my father.",
+   "rows": [
+    "Just like my father."
+   ],
+   "rows_plain": [
+    "Just like my father."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f29b",
+   "line": 961,
+   "act": 3,
+   "sector": 9512,
+   "offset": 1598,
+   "size": 158404,
+   "b0": 11910,
+   "b1": 67529,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "That old fool easily made the skin I couldn't perfect in forty years.",
+   "rows": [
+    "That old fool easily made",
+    "the skin I couldn't perfect",
+    "in forty years."
+   ],
+   "rows_plain": [
+    "That old fool easily made the skin I",
+    "couldn't perfect in forty years."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f29bb",
+   "line": 961,
+   "act": 3,
+   "sector": 9512,
+   "offset": 1598,
+   "size": 158404,
+   "b0": 67529,
+   "b1": 158404,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "And a perfect bioroid that doesn't even know what it is.",
+   "rows": [
+    "And a perfect bioroid that",
+    "doesn't even know what it",
+    "is."
+   ],
+   "rows_plain": [
+    "And a perfect bioroid that doesn't",
+    "even know what it is."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f30",
+   "line": 962,
+   "act": 3,
+   "sector": 9580,
+   "offset": 1970,
+   "size": 127447,
+   "b0": 0,
+   "b1": 57602,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "What's more, these cells regenerate themselves.",
+   "rows": [
+    "What's more, these cells",
+    "regenerate themselves."
+   ],
+   "rows_plain": [
+    "What's more, these cells regenerate",
+    "themselves."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f30b",
+   "line": 962,
+   "act": 3,
+   "sector": 9580,
+   "offset": 1970,
+   "size": 127447,
+   "b0": 57602,
+   "b1": 89860,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Supply them once, and there's no need",
+   "rows": [
+    "Supply them once, and",
+    "there's no need"
+   ],
+   "rows_plain": [
+    "Supply them once, and there's no",
+    "need"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f30bb",
+   "line": 962,
+   "act": 3,
+   "sector": 9580,
+   "offset": 1970,
+   "size": 127447,
+   "b0": 89860,
+   "b1": 127447,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "for further grafts of their own skin, or cultures.",
+   "rows": [
+    "for further grafts of their",
+    "own skin, or cultures."
+   ],
+   "rows_plain": [
+    "for further grafts of their own",
+    "skin, or cultures."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f31",
+   "line": 963,
+   "act": 3,
+   "sector": 9635,
+   "offset": 1597,
+   "size": 9994,
+   "b0": 0,
+   "b1": 9994,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Is he dead?",
+   "rows": [
+    "Is he dead?"
+   ],
+   "rows_plain": [
+    "Is he dead?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c14f32",
+   "line": 964,
+   "act": 3,
+   "sector": 9639,
+   "offset": 2295,
+   "size": 161635,
+   "b0": 0,
+   "b1": 76836,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Its power and main systems have shut down. It's just scrap.",
+   "rows": [
+    "Its power and main systems",
+    "have shut down. It's just",
+    "scrap."
+   ],
+   "rows_plain": [
+    "Its power and main systems have shut",
+    "down. It's just scrap."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f32b",
+   "line": 964,
+   "act": 3,
+   "sector": 9639,
+   "offset": 2295,
+   "size": 161635,
+   "b0": 76836,
+   "b1": 161635,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "But I've kept the precious artificial skin alive.",
+   "rows": [
+    "But I've kept the precious",
+    "artificial skin alive."
+   ],
+   "rows_plain": [
+    "But I've kept the precious",
+    "artificial skin alive."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f33",
+   "line": 965,
+   "act": 3,
+   "sector": 9709,
+   "offset": 1250,
+   "size": 127535,
+   "b0": 0,
+   "b1": 81407,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Now I can begin phase two of the Snatch Project:",
+   "rows": [
+    "Now I can begin phase two of",
+    "the Snatch Project:"
+   ],
+   "rows_plain": [
+    "Now I can begin phase two of the",
+    "Snatch Project:"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f33b",
+   "line": 965,
+   "act": 3,
+   "sector": 9709,
+   "offset": 1250,
+   "size": 127535,
+   "b0": 81407,
+   "b1": 127535,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "full-scale infiltration of the world.",
+   "rows": [
+    "full-scale infiltration of",
+    "the world."
+   ],
+   "rows_plain": [
+    "full-scale infiltration of the",
+    "world."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f34",
+   "line": 966,
+   "act": 3,
+   "sector": 9764,
+   "offset": 965,
+   "size": 34461,
+   "b0": 0,
+   "b1": 34461,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The summit's over. You won't get away with it.",
+   "rows": [
+    "The summit's over. You won't",
+    "get away with it."
+   ],
+   "rows_plain": [
+    "The summit's over. You won't get",
+    "away with it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f35",
+   "line": 967,
+   "act": 3,
+   "sector": 9779,
+   "offset": 566,
+   "size": 181389,
+   "b0": 0,
+   "b1": 98719,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "What does the summit matter? With perfect skin, nothing will hold us back.",
+   "rows": [
+    "What does the summit matter?",
+    "With perfect skin, nothing",
+    "will hold us back."
+   ],
+   "rows_plain": [
+    "What does the summit matter? With",
+    "perfect skin, nothing will hold us",
+    "back."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c14f35b",
+   "line": 967,
+   "act": 3,
+   "sector": 9779,
+   "offset": 566,
+   "size": 181389,
+   "b0": 98719,
+   "b1": 181389,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "We can go anywhere, and no one will know.",
+   "rows": [
+    "We can go anywhere, and no",
+    "one will know."
+   ],
+   "rows_plain": [
+    "We can go anywhere, and no one will",
+    "know."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c10f60",
+   "line": 800,
+   "act": 3,
+   "sector": 3265,
+   "offset": 573,
+   "size": 34556,
+   "b0": 0,
+   "b1": 34556,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Jamie, are you all right?",
+   "rows": [
+    "Jamie, are you all right?"
+   ],
+   "rows_plain": [
+    "Jamie, are you all right?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c10f61",
+   "line": 801,
+   "act": 3,
+   "sector": 3280,
+   "offset": 269,
+   "size": 32963,
+   "b0": 0,
+   "b1": 32963,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Gillian! You came for me.",
+   "rows": [
+    "Gillian! You came for me."
+   ],
+   "rows_plain": [
+    "Gillian! You came for me."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c10f62",
+   "line": 802,
+   "act": 3,
+   "sector": 3294,
+   "offset": 696,
+   "size": 12386,
+   "b0": 0,
+   "b1": 12386,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Are you hurt?",
+   "rows": [
+    "Are you hurt?"
+   ],
+   "rows_plain": [
+    "Are you hurt?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c10f63",
+   "line": 803,
+   "act": 3,
+   "sector": 3299,
+   "offset": 1462,
+   "size": 102083,
+   "b0": 0,
+   "b1": 30936,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "I'm all right. They won't hurt me.",
+   "rows": [
+    "I'm all right. They won't",
+    "hurt me."
+   ],
+   "rows_plain": [
+    "I'm all right. They won't hurt me."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c10f63b",
+   "line": 803,
+   "act": 3,
+   "sector": 3299,
+   "offset": 1462,
+   "size": 102083,
+   "b0": 30936,
+   "b1": 102083,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "At least, not until their work on perfect artificial skin is complete.",
+   "rows": [
+    "At least, not until their",
+    "work on perfect artificial",
+    "skin is complete."
+   ],
+   "rows_plain": [
+    "At least, not until their work on",
+    "perfect artificial skin is complete."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c10f64",
+   "line": 804,
+   "act": 3,
+   "sector": 3343,
+   "offset": 1289,
+   "size": 23491,
+   "b0": 0,
+   "b1": 23491,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "You're researching artificial skin?",
+   "rows": [
+    "You're researching",
+    "artificial skin?"
+   ],
+   "rows_plain": [
+    "You're researching artificial skin?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c10f65",
+   "line": 805,
+   "act": 3,
+   "sector": 3353,
+   "offset": 1540,
+   "size": 44610,
+   "b0": 0,
+   "b1": 44610,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "My memory's back. All of it.",
+   "rows": [
+    "My memory's back. All of it."
+   ],
+   "rows_plain": [
+    "My memory's back. All of it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c10f66",
+   "line": 806,
+   "act": 3,
+   "sector": 3372,
+   "offset": 1994,
+   "size": 28323,
+   "b0": 0,
+   "b1": 28323,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What happened, Jamie?",
+   "rows": [
+    "What happened, Jamie?"
+   ],
+   "rows_plain": [
+    "What happened, Jamie?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c10f67",
+   "line": 807,
+   "act": 3,
+   "sector": 3385,
+   "offset": 105,
+   "size": 90862,
+   "b0": 0,
+   "b1": 44177,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "They threatened to kill him. To kill Harry.",
+   "rows": [
+    "They threatened to kill him.",
+    "To kill Harry."
+   ],
+   "rows_plain": [
+    "They threatened to kill him. To kill",
+    "Harry."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c10f67b",
+   "line": 807,
+   "act": 3,
+   "sector": 3385,
+   "offset": 105,
+   "size": 90862,
+   "b0": 44177,
+   "b1": 90862,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "They forced me to help develop artificial skin.",
+   "rows": [
+    "They forced me to help",
+    "develop artificial skin."
+   ],
+   "rows_plain": [
+    "They forced me to help develop",
+    "artificial skin."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c10f68",
+   "line": 808,
+   "act": 3,
+   "sector": 3424,
+   "offset": 331,
+   "size": 57379,
+   "b0": 0,
+   "b1": 31454,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "The doctor's condition was getting worse,",
+   "rows": [
+    "The doctor's condition was",
+    "getting worse,"
+   ],
+   "rows_plain": [
+    "The doctor's condition was getting",
+    "worse,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c10f68b",
+   "line": 808,
+   "act": 3,
+   "sector": 3424,
+   "offset": 331,
+   "size": 57379,
+   "b0": 31454,
+   "b1": 57379,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "so they brought me here to take his place.",
+   "rows": [
+    "so they brought me here to",
+    "take his place."
+   ],
+   "rows_plain": [
+    "so they brought me here to take his",
+    "place."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c10f69",
+   "line": 809,
+   "act": 3,
+   "sector": 3448,
+   "offset": 1934,
+   "size": 92792,
+   "b0": 0,
+   "b1": 92792,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Gillian, Harry the mechanic is our son. He's lived alone for fifty years.",
+   "rows": [
+    "Gillian, Harry the mechanic",
+    "is our son. He's lived alone",
+    "for fifty years."
+   ],
+   "rows_plain": [
+    "Gillian, Harry the mechanic is our",
+    "son. He's lived alone for fifty",
+    "years."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c10f70",
+   "line": 810,
+   "act": 3,
+   "sector": 3488,
+   "offset": 1766,
+   "size": 22619,
+   "b0": 0,
+   "b1": 22619,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Jamie, Harry's already...",
+   "rows": [
+    "Jamie, Harry's already..."
+   ],
+   "rows_plain": [
+    "Jamie, Harry's already..."
+   ],
+   "enabled": true,
+   "face": [
+    3,
+    3,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c10f71",
+   "line": 811,
+   "act": 3,
+   "sector": 3498,
+   "offset": 1145,
+   "size": 65985,
+   "b0": 0,
+   "b1": 65985,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "I had no choice. They threatened me. But I can't go on.",
+   "rows": [
+    "I had no choice. They",
+    "threatened me. But I can't",
+    "go on."
+   ],
+   "rows_plain": [
+    "I had no choice. They threatened me.",
+    "But I can't go on."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c10f72",
+   "line": 812,
+   "act": 3,
+   "sector": 3526,
+   "offset": 2058,
+   "size": 5567,
+   "b0": 0,
+   "b1": 5567,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Jamie!",
+   "rows": [
+    "Jamie!"
+   ],
+   "rows_plain": [
+    "Jamie!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c10f73",
+   "line": 813,
+   "act": 3,
+   "sector": 3529,
+   "offset": 653,
+   "size": 60706,
+   "b0": 0,
+   "b1": 60706,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "The doctor just died. He was over a hundred.",
+   "rows": [
+    "The doctor just died. He was",
+    "over a hundred."
+   ],
+   "rows_plain": [
+    "The doctor just died. He was over a",
+    "hundred."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f30",
+   "line": 849,
+   "act": 3,
+   "sector": 4686,
+   "offset": 455,
+   "size": 55680,
+   "b0": 0,
+   "b1": 55680,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "The three of us failed to escape: you, me and Elijah.",
+   "rows": [
+    "The three of us failed to",
+    "escape: you, me and Elijah."
+   ],
+   "rows_plain": [
+    "The three of us failed to escape:",
+    "you, me and Elijah."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f31",
+   "line": 852,
+   "act": 3,
+   "sector": 4777,
+   "offset": 825,
+   "size": 50891,
+   "b0": 0,
+   "b1": 50891,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Elijah's pod was already empty when we were rescued.",
+   "rows": [
+    "Elijah's pod was already",
+    "empty when we were rescued."
+   ],
+   "rows_plain": [
+    "Elijah's pod was already empty when",
+    "we were rescued."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f32",
+   "line": 818,
+   "act": 3,
+   "sector": 3662,
+   "offset": 1239,
+   "size": 42447,
+   "b0": 0,
+   "b1": 42447,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Whose father? I don't understand. Jamie, you've lost me.",
+   "rows": [
+    "Whose father? I don't",
+    "understand. Jamie, you've",
+    "lost me."
+   ],
+   "rows_plain": [
+    "Whose father? I don't understand.",
+    "Jamie, you've lost me."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f33",
+   "line": 853,
+   "act": 3,
+   "sector": 4799,
+   "offset": 588,
+   "size": 49176,
+   "b0": 0,
+   "b1": 49176,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Elijah Madnar? The man in the chapel? The one who looked like Randam?",
+   "rows": [
+    "Elijah Madnar? The man in",
+    "the chapel? The one who",
+    "looked like Randam?"
+   ],
+   "rows_plain": [
+    "Elijah Madnar? The man in the",
+    "chapel? The one who looked like",
+    "Randam?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f34",
+   "line": 861,
+   "act": 3,
+   "sector": 4916,
+   "offset": 0,
+   "size": 47587,
+   "b0": 0,
+   "b1": 10856,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Randam?",
+   "rows": [
+    "Randam?"
+   ],
+   "rows_plain": [
+    "Randam?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f34b",
+   "line": 861,
+   "act": 3,
+   "sector": 4916,
+   "offset": 0,
+   "size": 47587,
+   "b0": 32642,
+   "b1": 47587,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "No, that's not him.",
+   "rows": [
+    "No, that's not him."
+   ],
+   "rows_plain": [
+    "No, that's not him."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f35",
+   "line": 814,
+   "act": 3,
+   "sector": 3555,
+   "offset": 935,
+   "size": 34819,
+   "b0": 0,
+   "b1": 34819,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The doctor? That old man?",
+   "rows": [
+    "The doctor? That old man?"
+   ],
+   "rows_plain": [
+    "The doctor? That old man?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c11f36",
+   "line": 822,
+   "act": 3,
+   "sector": 3742,
+   "offset": 749,
+   "size": 36549,
+   "b0": 0,
+   "b1": 36549,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "All right? Stay calm and listen.",
+   "rows": [
+    "All right? Stay calm and",
+    "listen."
+   ],
+   "rows_plain": [
+    "All right? Stay calm and listen."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f37",
+   "line": 827,
+   "act": 3,
+   "sector": 3977,
+   "offset": 59,
+   "size": 37763,
+   "b0": 0,
+   "b1": 37763,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "A plan more horrifying than anyone could imagine.",
+   "rows": [
+    "A plan more horrifying than",
+    "anyone could imagine."
+   ],
+   "rows_plain": [
+    "A plan more horrifying than anyone",
+    "could imagine."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f38",
+   "line": 855,
+   "act": 3,
+   "sector": 4834,
+   "offset": 862,
+   "size": 36223,
+   "b0": 0,
+   "b1": 36223,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Elijah Madnar is here, with the Snatchers...",
+   "rows": [
+    "Elijah Madnar is here, with",
+    "the Snatchers..."
+   ],
+   "rows_plain": [
+    "Elijah Madnar is here, with the",
+    "Snatchers..."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f39",
+   "line": 856,
+   "act": 3,
+   "sector": 4849,
+   "offset": 2225,
+   "size": 33442,
+   "b0": 0,
+   "b1": 33442,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I'll tell you the rest.",
+   "rows": [
+    "I'll tell you the rest."
+   ],
+   "rows_plain": [
+    "I'll tell you the rest."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f40",
+   "line": 860,
+   "act": 3,
+   "sector": 4901,
+   "offset": 522,
+   "size": 34338,
+   "b0": 0,
+   "b1": 34338,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Elijah? Is that you?",
+   "rows": [
+    "Elijah? Is that you?"
+   ],
+   "rows_plain": [
+    "Elijah? Is that you?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f41",
+   "line": 816,
+   "act": 3,
+   "sector": 3599,
+   "offset": 829,
+   "size": 31342,
+   "b0": 0,
+   "b1": 31342,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Madnar? This old man?",
+   "rows": [
+    "Madnar? This old man?"
+   ],
+   "rows_plain": [
+    "Madnar? This old man?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f42",
+   "line": 819,
+   "act": 3,
+   "sector": 3680,
+   "offset": 1854,
+   "size": 28050,
+   "b0": 0,
+   "b1": 28050,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "You really can't remember anything?",
+   "rows": [
+    "You really can't remember",
+    "anything?"
+   ],
+   "rows_plain": [
+    "You really can't remember anything?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f43",
+   "line": 842,
+   "act": 3,
+   "sector": 4526,
+   "offset": 2320,
+   "size": 25824,
+   "b0": 0,
+   "b1": 25824,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Who the hell am I?",
+   "rows": [
+    "Who the hell am I?"
+   ],
+   "rows_plain": [
+    "Who the hell am I?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f44",
+   "line": 846,
+   "act": 3,
+   "sector": 4623,
+   "offset": 1196,
+   "size": 31517,
+   "b0": 0,
+   "b1": 31517,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Gillian, was that your doing?",
+   "rows": [
+    "Gillian, was that your",
+    "doing?"
+   ],
+   "rows_plain": [
+    "Gillian, was that your doing?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f45",
+   "line": 847,
+   "act": 3,
+   "sector": 4637,
+   "offset": 177,
+   "size": 32327,
+   "b0": 0,
+   "b1": 32327,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That's impossible! I caused the Catastrophe?",
+   "rows": [
+    "That's impossible! I caused",
+    "the Catastrophe?"
+   ],
+   "rows_plain": [
+    "That's impossible! I caused the",
+    "Catastrophe?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f46",
+   "line": 854,
+   "act": 3,
+   "sector": 4820,
+   "offset": 960,
+   "size": 32438,
+   "b0": 0,
+   "b1": 32438,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Yes, Elijah is alive!",
+   "rows": [
+    "Yes, Elijah is alive!"
+   ],
+   "rows_plain": [
+    "Yes, Elijah is alive!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f47",
+   "line": 843,
+   "act": 3,
+   "sector": 4538,
+   "offset": 256,
+   "size": 20824,
+   "b0": 0,
+   "b1": 20824,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "The project was going well.",
+   "rows": [
+    "The project was going well."
+   ],
+   "rows_plain": [
+    "The project was going well."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f48",
+   "line": 859,
+   "act": 3,
+   "sector": 4891,
+   "offset": 1839,
+   "size": 21923,
+   "b0": 0,
+   "b1": 21923,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "It's me, Jamie.",
+   "rows": [
+    "It's me, Jamie."
+   ],
+   "rows_plain": [
+    "It's me, Jamie."
+   ],
+   "enabled": true,
+   "face": [
+    2,
+    2,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c11f49",
+   "line": 831,
+   "act": 3,
+   "sector": 4149,
+   "offset": 448,
+   "size": 13923,
+   "b0": 0,
+   "b1": 13923,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "That's right, Gillian.",
+   "rows": [
+    "That's right, Gillian."
+   ],
+   "rows_plain": [
+    "That's right, Gillian."
+   ],
+   "enabled": true,
+   "face": [
+    3,
+    3,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c11f50",
+   "line": 840,
+   "act": 3,
+   "sector": 4498,
+   "offset": 233,
+   "size": 12095,
+   "b0": 0,
+   "b1": 12095,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I was in the CIA?",
+   "rows": [
+    "I was in the CIA?"
+   ],
+   "rows_plain": [
+    "I was in the CIA?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c11f51",
+   "line": 857,
+   "act": 3,
+   "sector": 4864,
+   "offset": 807,
+   "size": 3809,
+   "b0": 0,
+   "b1": 3809,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Who?!",
+   "rows": [
+    "Who?!"
+   ],
+   "rows_plain": [
+    "Who?!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f20",
+   "line": 893,
+   "act": 3,
+   "sector": 6412,
+   "offset": 1103,
+   "size": 85879,
+   "b0": 0,
+   "b1": 23349,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "That's when I decided",
+   "rows": [
+    "That's when I decided"
+   ],
+   "rows_plain": [
+    "That's when I decided"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "resident"
+  },
+  {
+   "id": "B260_c12f20b",
+   "line": 893,
+   "act": 3,
+   "sector": 6412,
+   "offset": 1103,
+   "size": 85879,
+   "b0": 23349,
+   "b1": 85879,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "to carry out the insane plan I'd been developing in secret.",
+   "rows": [
+    "to carry out the insane plan",
+    "I'd been developing in",
+    "secret."
+   ],
+   "rows_plain": [
+    "to carry out the insane plan I'd",
+    "been developing in secret."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "resident"
+  },
+  {
+   "id": "B260_c12f21",
+   "line": 868,
+   "act": 3,
+   "sector": 5170,
+   "offset": 1538,
+   "size": 80963,
+   "b0": 0,
+   "b1": 80963,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Why make me say it, Jamie?",
+   "rows": [
+    "Why make me say it, Jamie?"
+   ],
+   "rows_plain": [
+    "Why make me say it, Jamie?"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "resident"
+  },
+  {
+   "id": "B260_c12f22",
+   "line": 869,
+   "act": 3,
+   "sector": 5205,
+   "offset": 1161,
+   "size": 76803,
+   "b0": 0,
+   "b1": 76803,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "It was all because of you, Jamie. Your beauty.",
+   "rows": [
+    "It was all because of you,",
+    "Jamie. Your beauty."
+   ],
+   "rows_plain": [
+    "It was all because of you, Jamie.",
+    "Your beauty."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "resident"
+  },
+  {
+   "id": "B260_c12f23",
+   "line": 880,
+   "act": 3,
+   "sector": 5813,
+   "offset": 1752,
+   "size": 77957,
+   "b0": 0,
+   "b1": 77957,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "All I could do was watch from the shadows as you two grew closer.",
+   "rows": [
+    "All I could do was watch",
+    "from the shadows as you two",
+    "grew closer."
+   ],
+   "rows_plain": [
+    "All I could do was watch from the",
+    "shadows as you two grew closer."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f24",
+   "line": 865,
+   "act": 3,
+   "sector": 5096,
+   "offset": 1774,
+   "size": 73987,
+   "b0": 0,
+   "b1": 73987,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Elijah, what happened to you? You were never capable of anything like this.",
+   "rows": [
+    "Elijah, what happened to",
+    "you? You were never capable",
+    "of anything like this."
+   ],
+   "rows_plain": [
+    "Elijah, what happened to you? You",
+    "were never capable of anything like",
+    "this."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f25",
+   "line": 888,
+   "act": 3,
+   "sector": 6170,
+   "offset": 683,
+   "size": 70819,
+   "b0": 0,
+   "b1": 70819,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "You and Gillian were to be sent back to your country.",
+   "rows": [
+    "You and Gillian were to be",
+    "sent back to your country."
+   ],
+   "rows_plain": [
+    "You and Gillian were to be sent back",
+    "to your country."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f26",
+   "line": 866,
+   "act": 3,
+   "sector": 5128,
+   "offset": 1393,
+   "size": 58038,
+   "b0": 0,
+   "b1": 58038,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Forty years have changed me, too.",
+   "rows": [
+    "Forty years have changed me,",
+    "too."
+   ],
+   "rows_plain": [
+    "Forty years have changed me, too."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f27",
+   "line": 878,
+   "act": 3,
+   "sector": 5751,
+   "offset": 1462,
+   "size": 54180,
+   "b0": 0,
+   "b1": 54180,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "You joined our project, Gillian.",
+   "rows": [
+    "You joined our project,",
+    "Gillian."
+   ],
+   "rows_plain": [
+    "You joined our project, Gillian."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c12f28",
+   "line": 884,
+   "act": 3,
+   "sector": 5967,
+   "offset": 1390,
+   "size": 47756,
+   "b0": 0,
+   "b1": 47756,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "I wanted to be near you, Jamie.",
+   "rows": [
+    "I wanted to be near you,",
+    "Jamie."
+   ],
+   "rows_plain": [
+    "I wanted to be near you, Jamie."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f29",
+   "line": 867,
+   "act": 3,
+   "sector": 5153,
+   "offset": 1331,
+   "size": 39715,
+   "b0": 0,
+   "b1": 39715,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "I can't believe it. Why?",
+   "rows": [
+    "I can't believe it. Why?"
+   ],
+   "rows_plain": [
+    "I can't believe it. Why?"
+   ],
+   "enabled": true,
+   "face": [
+    3,
+    3,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c12f30",
+   "line": 882,
+   "act": 3,
+   "sector": 5894,
+   "offset": 1644,
+   "size": 20767,
+   "b0": 0,
+   "b1": 20767,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Harry.",
+   "rows": [
+    "Harry."
+   ],
+   "rows_plain": [
+    "Harry."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c12f31",
+   "line": 892,
+   "act": 3,
+   "sector": 6403,
+   "offset": 416,
+   "size": 21603,
+   "b0": 0,
+   "b1": 21603,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Elijah.",
+   "rows": [
+    "Elijah."
+   ],
+   "rows_plain": [
+    "Elijah."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c12f32",
+   "line": 874,
+   "act": 3,
+   "sector": 5539,
+   "offset": 1492,
+   "size": 6930,
+   "b0": 0,
+   "b1": 6930,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Gillian!",
+   "rows": [
+    "Gillian!"
+   ],
+   "rows_plain": [
+    "Gillian!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f22",
+   "line": 932,
+   "act": 3,
+   "sector": 8244,
+   "offset": 644,
+   "size": 77024,
+   "b0": 0,
+   "b1": 77024,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Without my father's help, I decided to wake you.",
+   "rows": [
+    "Without my father's help, I",
+    "decided to wake you."
+   ],
+   "rows_plain": [
+    "Without my father's help, I decided",
+    "to wake you."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f23",
+   "line": 902,
+   "act": 3,
+   "sector": 6957,
+   "offset": 913,
+   "size": 61092,
+   "b0": 0,
+   "b1": 61092,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "How could you? Half the world died because of you!",
+   "rows": [
+    "How could you? Half the",
+    "world died because of you!"
+   ],
+   "rows_plain": [
+    "How could you? Half the world died",
+    "because of you!"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c13f24",
+   "line": 920,
+   "act": 3,
+   "sector": 7780,
+   "offset": 494,
+   "size": 65012,
+   "b0": 0,
+   "b1": 65012,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Three years ago, I finally completed my research.",
+   "rows": [
+    "Three years ago, I finally",
+    "completed my research."
+   ],
+   "rows_plain": [
+    "Three years ago, I finally completed",
+    "my research."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f25",
+   "line": 905,
+   "act": 3,
+   "sector": 7136,
+   "offset": 759,
+   "size": 50435,
+   "b0": 0,
+   "b1": 50435,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "After ten years, Lucifer mutated naturally.",
+   "rows": [
+    "After ten years, Lucifer",
+    "mutated naturally."
+   ],
+   "rows_plain": [
+    "After ten years, Lucifer mutated",
+    "naturally."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f26",
+   "line": 909,
+   "act": 3,
+   "sector": 7263,
+   "offset": 997,
+   "size": 54131,
+   "b0": 0,
+   "b1": 54131,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "The vaccine, L-Angels, was already complete.",
+   "rows": [
+    "The vaccine, L-Angels, was",
+    "already complete."
+   ],
+   "rows_plain": [
+    "The vaccine, L-Angels, was already",
+    "complete."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f27",
+   "line": 919,
+   "act": 3,
+   "sector": 7757,
+   "offset": 248,
+   "size": 53698,
+   "b0": 0,
+   "b1": 53698,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "That's so sad.",
+   "rows": [
+    "That's so sad."
+   ],
+   "rows_plain": [
+    "That's so sad."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f28",
+   "line": 930,
+   "act": 3,
+   "sector": 8204,
+   "offset": 668,
+   "size": 55238,
+   "b0": 0,
+   "b1": 55238,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Of course, my father refused to help.",
+   "rows": [
+    "Of course, my father refused",
+    "to help."
+   ],
+   "rows_plain": [
+    "Of course, my father refused to",
+    "help."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f29",
+   "line": 906,
+   "act": 3,
+   "sector": 7158,
+   "offset": 66,
+   "size": 41687,
+   "b0": 0,
+   "b1": 41687,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "But the automatic revival system didn't work.",
+   "rows": [
+    "But the automatic revival",
+    "system didn't work."
+   ],
+   "rows_plain": [
+    "But the automatic revival system",
+    "didn't work."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f30",
+   "line": 908,
+   "act": 3,
+   "sector": 7245,
+   "offset": 874,
+   "size": 41955,
+   "b0": 0,
+   "b1": 41955,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Even sealed off, how did you avoid infection?",
+   "rows": [
+    "Even sealed off, how did you",
+    "avoid infection?"
+   ],
+   "rows_plain": [
+    "Even sealed off, how did you avoid",
+    "infection?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c13f31",
+   "line": 925,
+   "act": 3,
+   "sector": 8041,
+   "offset": 944,
+   "size": 39486,
+   "b0": 0,
+   "b1": 39486,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "But the test exposed a flaw in the artificial skin.",
+   "rows": [
+    "But the test exposed a flaw",
+    "in the artificial skin."
+   ],
+   "rows_plain": [
+    "But the test exposed a flaw in the",
+    "artificial skin."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f32",
+   "line": 928,
+   "act": 3,
+   "sector": 8140,
+   "offset": 1112,
+   "size": 38025,
+   "b0": 0,
+   "b1": 38025,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "So that's why you brought Dr. Petrovich here.",
+   "rows": [
+    "So that's why you brought",
+    "Dr. Petrovich here."
+   ],
+   "rows_plain": [
+    "So that's why you brought Dr.",
+    "Petrovich here."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f33",
+   "line": 931,
+   "act": 3,
+   "sector": 8228,
+   "offset": 130,
+   "size": 37698,
+   "b0": 0,
+   "b1": 37698,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Of course he refused. The doctor would never...",
+   "rows": [
+    "Of course he refused. The",
+    "doctor would never..."
+   ],
+   "rows_plain": [
+    "Of course he refused. The doctor",
+    "would never..."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f34",
+   "line": 899,
+   "act": 3,
+   "sector": 6858,
+   "offset": 613,
+   "size": 24835,
+   "b0": 0,
+   "b1": 24835,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Lucifer Alpha.",
+   "rows": [
+    "Lucifer Alpha."
+   ],
+   "rows_plain": [
+    "Lucifer Alpha."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_c13f35",
+   "line": 910,
+   "act": 3,
+   "sector": 7286,
+   "offset": 1676,
+   "size": 32419,
+   "b0": 0,
+   "b1": 32419,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Then all of it...",
+   "rows": [
+    "Then all of it..."
+   ],
+   "rows_plain": [
+    "Then all of it..."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_c13f36",
+   "line": 915,
+   "act": 3,
+   "sector": 7532,
+   "offset": 1268,
+   "size": 15622,
+   "b0": 0,
+   "b1": 15622,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "How could you?",
+   "rows": [
+    "How could you?"
+   ],
+   "rows_plain": [
+    "How could you?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f1_0",
+   "line": 968,
+   "act": 3,
+   "sector": 9857,
+   "offset": 683,
+   "size": 109667,
+   "b0": 0,
+   "b1": 109667,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "The world will obey me. No one can stop me now.",
+   "rows": [
+    "The world will obey me. No",
+    "one can stop me now."
+   ],
+   "rows_plain": [
+    "The world will obey me. No one can",
+    "stop me now."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f2_0",
+   "line": 969,
+   "act": 3,
+   "sector": 9904,
+   "offset": 1122,
+   "size": 105155,
+   "b0": 0,
+   "b1": 105155,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Politics and ideology mean nothing. My will alone shall decide humanity's future.",
+   "rows": [
+    "Politics and ideology mean",
+    "nothing. My will alone shall",
+    "decide humanity's future."
+   ],
+   "rows_plain": [
+    "Politics and ideology mean nothing.",
+    "My will alone shall decide",
+    "humanity's future."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f3_0",
+   "line": 970,
+   "act": 3,
+   "sector": 9949,
+   "offset": 1697,
+   "size": 40721,
+   "b0": 0,
+   "b1": 40721,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "You're insane! You can't Snatch all of humanity!",
+   "rows": [
+    "You're insane! You can't",
+    "Snatch all of humanity!"
+   ],
+   "rows_plain": [
+    "You're insane! You can't Snatch all",
+    "of humanity!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f4_0",
+   "line": 971,
+   "act": 3,
+   "sector": 9967,
+   "offset": 586,
+   "size": 106236,
+   "b0": 0,
+   "b1": 52528,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "There's an automated Snatcher factory beneath the Kremlin.",
+   "rows": [
+    "There's an automated",
+    "Snatcher factory beneath the",
+    "Kremlin."
+   ],
+   "rows_plain": [
+    "There's an automated Snatcher",
+    "factory beneath the Kremlin."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f4_0b",
+   "line": 971,
+   "act": 3,
+   "sector": 9967,
+   "offset": 586,
+   "size": 106236,
+   "b0": 52528,
+   "b1": 106236,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "It's still producing new Snatchers.",
+   "rows": [
+    "It's still producing new",
+    "Snatchers."
+   ],
+   "rows_plain": [
+    "It's still producing new Snatchers."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f5_0",
+   "line": 972,
+   "act": 3,
+   "sector": 10012,
+   "offset": 2242,
+   "size": 67490,
+   "b0": 0,
+   "b1": 41441,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "No matter what you do, you can't Snatch a human heart.",
+   "rows": [
+    "No matter what you do, you",
+    "can't Snatch a human heart."
+   ],
+   "rows_plain": [
+    "No matter what you do, you can't",
+    "Snatch a human heart."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f5_0b",
+   "line": 972,
+   "act": 3,
+   "sector": 10012,
+   "offset": 2242,
+   "size": 67490,
+   "b0": 41441,
+   "b1": 67490,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "What would any of this achieve?",
+   "rows": [
+    "What would any of this",
+    "achieve?"
+   ],
+   "rows_plain": [
+    "What would any of this achieve?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f6_0",
+   "line": 973,
+   "act": 3,
+   "sector": 10042,
+   "offset": 12,
+   "size": 218531,
+   "b0": 0,
+   "b1": 158807,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Humanity is foolish, Jamie. But I'm different. I'm the savior of humanity.",
+   "rows": [
+    "Humanity is foolish, Jamie.",
+    "But I'm different. I'm the",
+    "savior of humanity."
+   ],
+   "rows_plain": [
+    "Humanity is foolish, Jamie. But I'm",
+    "different. I'm the savior of",
+    "humanity."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f6_0b",
+   "line": 973,
+   "act": 3,
+   "sector": 10042,
+   "offset": 12,
+   "size": 218531,
+   "b0": 158807,
+   "b1": 218531,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "No, of all life on Earth!",
+   "rows": [
+    "No, of all life on Earth!"
+   ],
+   "rows_plain": [
+    "No, of all life on Earth!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f7_0",
+   "line": 974,
+   "act": 3,
+   "sector": 10136,
+   "offset": 87,
+   "size": 22901,
+   "b0": 0,
+   "b1": 22901,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'm afraid that won't happen.",
+   "rows": [
+    "I'm afraid that won't",
+    "happen."
+   ],
+   "rows_plain": [
+    "I'm afraid that won't happen."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f8_0",
+   "line": 975,
+   "act": 3,
+   "sector": 10145,
+   "offset": 2072,
+   "size": 7138,
+   "b0": 0,
+   "b1": 7138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal!",
+   "rows": [
+    "Metal!"
+   ],
+   "rows_plain": [
+    "Metal!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f9_0",
+   "line": 976,
+   "act": 3,
+   "sector": 10148,
+   "offset": 2238,
+   "size": 44599,
+   "b0": 0,
+   "b1": 44599,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "In ten minutes, a particle beam will strike this church.",
+   "rows": [
+    "In ten minutes, a particle",
+    "beam will strike this",
+    "church."
+   ],
+   "rows_plain": [
+    "In ten minutes, a particle beam will",
+    "strike this church."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f10_0",
+   "line": 977,
+   "act": 3,
+   "sector": 10168,
+   "offset": 357,
+   "size": 89763,
+   "b0": 0,
+   "b1": 73473,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'm guiding a killer satellite's beam here with GPS and fifteen satellites.",
+   "rows": [
+    "I'm guiding a killer",
+    "satellite's beam here with",
+    "GPS and fifteen satellites."
+   ],
+   "rows_plain": [
+    "I'm guiding a killer satellite's",
+    "beam here with GPS and fifteen",
+    "satellites."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_f10_0b",
+   "line": 977,
+   "act": 3,
+   "sector": 10168,
+   "offset": 357,
+   "size": 89763,
+   "b0": 73473,
+   "b1": 89763,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "It won't miss.",
+   "rows": [
+    "It won't miss."
+   ],
+   "rows_plain": [
+    "It won't miss."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_f11_0",
+   "line": 978,
+   "act": 3,
+   "sector": 10206,
+   "offset": 1808,
+   "size": 37231,
+   "b0": 0,
+   "b1": 37231,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Everything within several kilometers of me will be destroyed.",
+   "rows": [
+    "Everything within several",
+    "kilometers of me will be",
+    "destroyed."
+   ],
+   "rows_plain": [
+    "Everything within several kilometers",
+    "of me will be destroyed."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f12_0",
+   "line": 979,
+   "act": 3,
+   "sector": 10222,
+   "offset": 1855,
+   "size": 69328,
+   "b0": 0,
+   "b1": 69328,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Stop this madness! You'll destroy my research! You inferior analyzer!",
+   "rows": [
+    "Stop this madness! You'll",
+    "destroy my research! You",
+    "inferior analyzer!"
+   ],
+   "rows_plain": [
+    "Stop this madness! You'll destroy my",
+    "research! You inferior analyzer!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f13_0",
+   "line": 980,
+   "act": 3,
+   "sector": 10252,
+   "offset": 1463,
+   "size": 17969,
+   "b0": 0,
+   "b1": 17969,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal, what did the summit decide?",
+   "rows": [
+    "Metal, what did the summit",
+    "decide?"
+   ],
+   "rows_plain": [
+    "Metal, what did the summit decide?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f14_0",
+   "line": 981,
+   "act": 3,
+   "sector": 10260,
+   "offset": 840,
+   "size": 108818,
+   "b0": 0,
+   "b1": 17594,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Fearing the spread of Snatchers,",
+   "rows": [
+    "Fearing the spread of",
+    "Snatchers,"
+   ],
+   "rows_plain": [
+    "Fearing the spread of Snatchers,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f14_0b",
+   "line": 981,
+   "act": 3,
+   "sector": 10260,
+   "offset": 840,
+   "size": 108818,
+   "b0": 17594,
+   "b1": 65793,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "every nation's delegates unanimously authorized the use of nuclear weapons.",
+   "rows": [
+    "every nation's delegates",
+    "unanimously authorized the",
+    "use of nuclear weapons."
+   ],
+   "rows_plain": [
+    "every nation's delegates unanimously",
+    "authorized the use of nuclear",
+    "weapons."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f14_0bb",
+   "line": 981,
+   "act": 3,
+   "sector": 10260,
+   "offset": 840,
+   "size": 108818,
+   "b0": 65793,
+   "b1": 108818,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The military is sealing off the city.",
+   "rows": [
+    "The military is sealing off",
+    "the city."
+   ],
+   "rows_plain": [
+    "The military is sealing off the",
+    "city."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f15_0",
+   "line": 982,
+   "act": 3,
+   "sector": 10307,
+   "offset": 430,
+   "size": 22154,
+   "b0": 0,
+   "b1": 22154,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "They're going to let the citizens die?",
+   "rows": [
+    "They're going to let the",
+    "citizens die?"
+   ],
+   "rows_plain": [
+    "They're going to let the citizens",
+    "die?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f16_0",
+   "line": 983,
+   "act": 3,
+   "sector": 10316,
+   "offset": 1668,
+   "size": 96739,
+   "b0": 0,
+   "b1": 20424,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The citizens are panicking.",
+   "rows": [
+    "The citizens are panicking."
+   ],
+   "rows_plain": [
+    "The citizens are panicking."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f16_0b",
+   "line": 983,
+   "act": 3,
+   "sector": 10316,
+   "offset": 1668,
+   "size": 96739,
+   "b0": 20424,
+   "b1": 74035,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "But if the beam destroys this place, the blockade will be lifted.",
+   "rows": [
+    "But if the beam destroys",
+    "this place, the blockade",
+    "will be lifted."
+   ],
+   "rows_plain": [
+    "But if the beam destroys this place,",
+    "the blockade will be lifted."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f16_0c",
+   "line": 983,
+   "act": 3,
+   "sector": 10316,
+   "offset": 1668,
+   "size": 96739,
+   "b0": 74035,
+   "b1": 96739,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "This is our last chance.",
+   "rows": [
+    "This is our last chance."
+   ],
+   "rows_plain": [
+    "This is our last chance."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f17_0",
+   "line": 984,
+   "act": 3,
+   "sector": 10358,
+   "offset": 799,
+   "size": 40194,
+   "b0": 0,
+   "b1": 40194,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll handle things here. Gillian, take Jamie and go.",
+   "rows": [
+    "I'll handle things here.",
+    "Gillian, take Jamie and go."
+   ],
+   "rows_plain": [
+    "I'll handle things here. Gillian,",
+    "take Jamie and go."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f18_0",
+   "line": 985,
+   "act": 3,
+   "sector": 10375,
+   "offset": 1485,
+   "size": 24835,
+   "b0": 0,
+   "b1": 24835,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "You insolent robot!",
+   "rows": [
+    "You insolent robot!"
+   ],
+   "rows_plain": [
+    "You insolent robot!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f19_0",
+   "line": 986,
+   "act": 3,
+   "sector": 10386,
+   "offset": 756,
+   "size": 41187,
+   "b0": 0,
+   "b1": 41187,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Move and I'll detonate! Hurry, Gillian!",
+   "rows": [
+    "Move and I'll detonate!",
+    "Hurry, Gillian!"
+   ],
+   "rows_plain": [
+    "Move and I'll detonate! Hurry,",
+    "Gillian!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_f20_0",
+   "line": 987,
+   "act": 3,
+   "sector": 10404,
+   "offset": 111,
+   "size": 9146,
+   "b0": 0,
+   "b1": 9146,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal, don't!",
+   "rows": [
+    "Metal, don't!"
+   ],
+   "rows_plain": [
+    "Metal, don't!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f21_0",
+   "line": 988,
+   "act": 3,
+   "sector": 10407,
+   "offset": 2285,
+   "size": 52415,
+   "b0": 0,
+   "b1": 30600,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I won't let a single Snatcher escape!",
+   "rows": [
+    "I won't let a single",
+    "Snatcher escape!"
+   ],
+   "rows_plain": [
+    "I won't let a single Snatcher",
+    "escape!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_f21_0b",
+   "line": 988,
+   "act": 3,
+   "sector": 10407,
+   "offset": 2285,
+   "size": 52415,
+   "b0": 30600,
+   "b1": 52415,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll destroy this artificial skin, too!",
+   "rows": [
+    "I'll destroy this artificial",
+    "skin, too!"
+   ],
+   "rows_plain": [
+    "I'll destroy this artificial skin,",
+    "too!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_f22_0",
+   "line": 989,
+   "act": 3,
+   "sector": 10430,
+   "offset": 1248,
+   "size": 74577,
+   "b0": 0,
+   "b1": 26635,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "A piece of junk like you?",
+   "rows": [
+    "A piece of junk like you?"
+   ],
+   "rows_plain": [
+    "A piece of junk like you?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f22_0b",
+   "line": 989,
+   "act": 3,
+   "sector": 10430,
+   "offset": 1248,
+   "size": 74577,
+   "b0": 26635,
+   "b1": 74577,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "If you're the beam's target, we'll just carry you outside!",
+   "rows": [
+    "If you're the beam's target,",
+    "we'll just carry you",
+    "outside!"
+   ],
+   "rows_plain": [
+    "If you're the beam's target, we'll",
+    "just carry you outside!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f23_0",
+   "line": 990,
+   "act": 3,
+   "sector": 10462,
+   "offset": 1457,
+   "size": 35875,
+   "b0": 0,
+   "b1": 35875,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Get this runt out of here!",
+   "rows": [
+    "Get this runt out of here!"
+   ],
+   "rows_plain": [
+    "Get this runt out of here!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f25_0",
+   "line": 992,
+   "act": 3,
+   "sector": 10480,
+   "offset": 188,
+   "size": 5203,
+   "b0": 0,
+   "b1": 5203,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal!",
+   "rows": [
+    "Metal!"
+   ],
+   "rows_plain": [
+    "Metal!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_f26_0",
+   "line": 993,
+   "act": 3,
+   "sector": 10482,
+   "offset": 743,
+   "size": 15247,
+   "b0": 0,
+   "b1": 15247,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Stupid robot!",
+   "rows": [
+    "Stupid robot!"
+   ],
+   "rows_plain": [
+    "Stupid robot!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f27_0",
+   "line": 994,
+   "act": 3,
+   "sector": 10488,
+   "offset": 2046,
+   "size": 14378,
+   "b0": 0,
+   "b1": 14378,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "What a nuisance!",
+   "rows": [
+    "What a nuisance!"
+   ],
+   "rows_plain": [
+    "What a nuisance!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f28_0",
+   "line": 995,
+   "act": 3,
+   "sector": 10495,
+   "offset": 156,
+   "size": 8750,
+   "b0": 0,
+   "b1": 8750,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "What's happening?",
+   "rows": [
+    "What's happening?"
+   ],
+   "rows_plain": [
+    "What's happening?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f29_0",
+   "line": 996,
+   "act": 3,
+   "sector": 10498,
+   "offset": 1934,
+   "size": 42082,
+   "b0": 0,
+   "b1": 42082,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "How? You shouldn't be able to move!",
+   "rows": [
+    "How? You shouldn't be able",
+    "to move!"
+   ],
+   "rows_plain": [
+    "How? You shouldn't be able to move!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f30_0",
+   "line": 997,
+   "act": 3,
+   "sector": 10516,
+   "offset": 2184,
+   "size": 23006,
+   "b0": 0,
+   "b1": 23006,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "I don't know when to quit.",
+   "rows": [
+    "I don't know when to quit."
+   ],
+   "rows_plain": [
+    "I don't know when to quit."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f31_0",
+   "line": 998,
+   "act": 3,
+   "sector": 10526,
+   "offset": 1950,
+   "size": 11966,
+   "b0": 0,
+   "b1": 11966,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Impossible!",
+   "rows": [
+    "Impossible!"
+   ],
+   "rows_plain": [
+    "Impossible!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f32_0",
+   "line": 999,
+   "act": 3,
+   "sector": 10531,
+   "offset": 2296,
+   "size": 83477,
+   "b0": 0,
+   "b1": 32421,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "You're dying with me. Don't fight it. Hey, Snatchers!",
+   "rows": [
+    "You're dying with me. Don't",
+    "fight it. Hey, Snatchers!"
+   ],
+   "rows_plain": [
+    "You're dying with me. Don't fight",
+    "it. Hey, Snatchers!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f32_0b",
+   "line": 999,
+   "act": 3,
+   "sector": 10531,
+   "offset": 2296,
+   "size": 83477,
+   "b0": 32421,
+   "b1": 83477,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Keep your hands off the little guy, or I'll snap his neck!",
+   "rows": [
+    "Keep your hands off the",
+    "little guy, or I'll snap his",
+    "neck!"
+   ],
+   "rows_plain": [
+    "Keep your hands off the little guy,",
+    "or I'll snap his neck!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f33_0",
+   "line": 1000,
+   "act": 3,
+   "sector": 10567,
+   "offset": 2109,
+   "size": 8080,
+   "b0": 0,
+   "b1": 8080,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Randam!",
+   "rows": [
+    "Randam!"
+   ],
+   "rows_plain": [
+    "Randam!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_f34_0",
+   "line": 1001,
+   "act": 3,
+   "sector": 10571,
+   "offset": 893,
+   "size": 63926,
+   "b0": 0,
+   "b1": 63926,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "I don't like being used. You and I will see the end together.",
+   "rows": [
+    "I don't like being used. You",
+    "and I will see the end",
+    "together."
+   ],
+   "rows_plain": [
+    "I don't like being used. You and I",
+    "will see the end together."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f35_0",
+   "line": 1002,
+   "act": 3,
+   "sector": 10598,
+   "offset": 2071,
+   "size": 55980,
+   "b0": 0,
+   "b1": 55980,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Five minutes, Gillian. The Tricycle's waiting outside. Get in it.",
+   "rows": [
+    "Five minutes, Gillian. The",
+    "Tricycle's waiting outside.",
+    "Get in it."
+   ],
+   "rows_plain": [
+    "Five minutes, Gillian. The",
+    "Tricycle's waiting outside. Get in",
+    "it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f36_0",
+   "line": 1003,
+   "act": 3,
+   "sector": 10622,
+   "offset": 2275,
+   "size": 49416,
+   "b0": 0,
+   "b1": 49416,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Let go! I'm Elijah Madnar! You're a copy of me!",
+   "rows": [
+    "Let go! I'm Elijah Madnar!",
+    "You're a copy of me!"
+   ],
+   "rows_plain": [
+    "Let go! I'm Elijah Madnar! You're a",
+    "copy of me!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f37_0",
+   "line": 1004,
+   "act": 3,
+   "sector": 10644,
+   "offset": 563,
+   "size": 86968,
+   "b0": 0,
+   "b1": 50558,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Real or fake, we're both going to die here.",
+   "rows": [
+    "Real or fake, we're both",
+    "going to die here."
+   ],
+   "rows_plain": [
+    "Real or fake, we're both going to",
+    "die here."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f37_0b",
+   "line": 1004,
+   "act": 3,
+   "sector": 10644,
+   "offset": 563,
+   "size": 86968,
+   "b0": 50558,
+   "b1": 86968,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Once we're both dead, there won't be a fake anymore.",
+   "rows": [
+    "Once we're both dead, there",
+    "won't be a fake anymore."
+   ],
+   "rows_plain": [
+    "Once we're both dead, there won't be",
+    "a fake anymore."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f38_0",
+   "line": 1005,
+   "act": 3,
+   "sector": 10681,
+   "offset": 1543,
+   "size": 38030,
+   "b0": 0,
+   "b1": 38030,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Just logic! A machine's programming!",
+   "rows": [
+    "Just logic! A machine's",
+    "programming!"
+   ],
+   "rows_plain": [
+    "Just logic! A machine's programming!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f39_0",
+   "line": 1006,
+   "act": 3,
+   "sector": 10698,
+   "offset": 65,
+   "size": 12840,
+   "b0": 0,
+   "b1": 12840,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "This is my choice!",
+   "rows": [
+    "This is my choice!"
+   ],
+   "rows_plain": [
+    "This is my choice!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f40_0",
+   "line": 1007,
+   "act": 3,
+   "sector": 10703,
+   "offset": 1285,
+   "size": 50000,
+   "b0": 0,
+   "b1": 50000,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "Machines have no will! They can't sacrifice themselves!",
+   "rows": [
+    "Machines have no will! They",
+    "can't sacrifice themselves!"
+   ],
+   "rows_plain": [
+    "Machines have no will! They can't",
+    "sacrifice themselves!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f41_0",
+   "line": 1008,
+   "act": 3,
+   "sector": 10725,
+   "offset": 157,
+   "size": 10357,
+   "b0": 0,
+   "b1": 10357,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "You sure about that?",
+   "rows": [
+    "You sure about that?"
+   ],
+   "rows_plain": [
+    "You sure about that?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f42_0",
+   "line": 1009,
+   "act": 3,
+   "sector": 10729,
+   "offset": 1218,
+   "size": 50975,
+   "b0": 0,
+   "b1": 50975,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Four minutes. Get out, now! Destroy the automated factory beneath the Kremlin.",
+   "rows": [
+    "Four minutes. Get out, now!",
+    "Destroy the automated",
+    "factory beneath the Kremlin."
+   ],
+   "rows_plain": [
+    "Four minutes. Get out, now! Destroy",
+    "the automated factory beneath the",
+    "Kremlin."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f43_0",
+   "line": 1010,
+   "act": 3,
+   "sector": 10751,
+   "offset": 1065,
+   "size": 9486,
+   "b0": 0,
+   "b1": 9486,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Stop!",
+   "rows": [
+    "Stop!"
+   ],
+   "rows_plain": [
+    "Stop!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f44_0",
+   "line": 1011,
+   "act": 3,
+   "sector": 10755,
+   "offset": 1255,
+   "size": 45123,
+   "b0": 0,
+   "b1": 45123,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Gillian! Even if the memories in my head were made up...",
+   "rows": [
+    "Gillian! Even if the",
+    "memories in my head were",
+    "made up..."
+   ],
+   "rows_plain": [
+    "Gillian! Even if the memories in my",
+    "head were made up..."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f45_0",
+   "line": 1012,
+   "act": 3,
+   "sector": 10774,
+   "offset": 2222,
+   "size": 45355,
+   "b0": 0,
+   "b1": 45355,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I know! Our memories of fighting together are real! There's no doubt about that!",
+   "rows": [
+    "I know! Our memories of",
+    "fighting together are real!",
+    "There's no doubt about that!"
+   ],
+   "rows_plain": [
+    "I know! Our memories of fighting",
+    "together are real! There's no doubt",
+    "about that!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f46_0",
+   "line": 1013,
+   "act": 3,
+   "sector": 10794,
+   "offset": 1097,
+   "size": 31934,
+   "b0": 0,
+   "b1": 31934,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "You've become a fine JUNKER, Gillian.",
+   "rows": [
+    "You've become a fine JUNKER,",
+    "Gillian."
+   ],
+   "rows_plain": [
+    "You've become a fine JUNKER,",
+    "Gillian."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f47_0",
+   "line": 1014,
+   "act": 3,
+   "sector": 10808,
+   "offset": 495,
+   "size": 31915,
+   "b0": 0,
+   "b1": 31915,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I enjoyed working with you, Gillian.",
+   "rows": [
+    "I enjoyed working with you,",
+    "Gillian."
+   ],
+   "rows_plain": [
+    "I enjoyed working with you, Gillian."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f48_0",
+   "line": 1015,
+   "act": 3,
+   "sector": 10821,
+   "offset": 2198,
+   "size": 8835,
+   "b0": 0,
+   "b1": 8835,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal!",
+   "rows": [
+    "Metal!"
+   ],
+   "rows_plain": [
+    "Metal!"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_f49_0",
+   "line": 1016,
+   "act": 3,
+   "sector": 10825,
+   "offset": 1737,
+   "size": 44162,
+   "b0": 0,
+   "b1": 44162,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "If you can, recover my remains, like Little John's.",
+   "rows": [
+    "If you can, recover my",
+    "remains, like Little John's."
+   ],
+   "rows_plain": [
+    "If you can, recover my remains, like",
+    "Little John's."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B260_f50_0",
+   "line": 1017,
+   "act": 3,
+   "sector": 10844,
+   "offset": 1743,
+   "size": 24432,
+   "b0": 0,
+   "b1": 24432,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Little John? I understand!",
+   "rows": [
+    "Little John? I understand!"
+   ],
+   "rows_plain": [
+    "Little John? I understand!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f51_0",
+   "line": 1018,
+   "act": 3,
+   "sector": 10855,
+   "offset": 611,
+   "size": 16244,
+   "b0": 0,
+   "b1": 16244,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Hurry! Three minutes!",
+   "rows": [
+    "Hurry! Three minutes!"
+   ],
+   "rows_plain": [
+    "Hurry! Three minutes!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f52_0",
+   "line": 1019,
+   "act": 3,
+   "sector": 10862,
+   "offset": 587,
+   "size": 29191,
+   "b0": 0,
+   "b1": 29191,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I'm sorry. Both of you! Let's go, Jamie!",
+   "rows": [
+    "I'm sorry. Both of you!",
+    "Let's go, Jamie!"
+   ],
+   "rows_plain": [
+    "I'm sorry. Both of you! Let's go,",
+    "Jamie!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f53_0",
+   "line": 1020,
+   "act": 3,
+   "sector": 10874,
+   "offset": 1890,
+   "size": 25785,
+   "b0": 0,
+   "b1": 25785,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "No! Don't let her go! Jamie!",
+   "rows": [
+    "No! Don't let her go! Jamie!"
+   ],
+   "rows_plain": [
+    "No! Don't let her go! Jamie!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f54_0",
+   "line": 1021,
+   "act": 3,
+   "sector": 10885,
+   "offset": 2111,
+   "size": 31030,
+   "b0": 0,
+   "b1": 31030,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Pathetic. You don't even know how to love someone.",
+   "rows": [
+    "Pathetic. You don't even",
+    "know how to love someone."
+   ],
+   "rows_plain": [
+    "Pathetic. You don't even know how to",
+    "love someone."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f55_0",
+   "line": 1022,
+   "act": 3,
+   "sector": 10899,
+   "offset": 605,
+   "size": 29808,
+   "b0": 0,
+   "b1": 29808,
+   "speaker": "Madnar",
+   "colour": 2,
+   "en": "What are you laughing at, machine?!",
+   "rows": [
+    "What are you laughing at,",
+    "machine?!"
+   ],
+   "rows_plain": [
+    "What are you laughing at, machine?!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f56_0",
+   "line": 1023,
+   "act": 3,
+   "sector": 10912,
+   "offset": 201,
+   "size": 50722,
+   "b0": 0,
+   "b1": 50722,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "By Snatching you, I'll take myself back.",
+   "rows": [
+    "By Snatching you, I'll take",
+    "myself back."
+   ],
+   "rows_plain": [
+    "By Snatching you, I'll take myself",
+    "back."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f57_0",
+   "line": 1024,
+   "act": 3,
+   "sector": 10933,
+   "offset": 2119,
+   "size": 43524,
+   "b0": 0,
+   "b1": 43524,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Under a minute, Randam. It's all right now. Thank you.",
+   "rows": [
+    "Under a minute, Randam. It's",
+    "all right now. Thank you."
+   ],
+   "rows_plain": [
+    "Under a minute, Randam. It's all",
+    "right now. Thank you."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f58_0",
+   "line": 1025,
+   "act": 3,
+   "sector": 10952,
+   "offset": 1487,
+   "size": 45686,
+   "b0": 0,
+   "b1": 45686,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Don't thank me. Sorry I dragged you into such a big job.",
+   "rows": [
+    "Don't thank me. Sorry I",
+    "dragged you into such a big",
+    "job."
+   ],
+   "rows_plain": [
+    "Don't thank me. Sorry I dragged you",
+    "into such a big job."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f59_0",
+   "line": 1026,
+   "act": 3,
+   "sector": 10972,
+   "offset": 693,
+   "size": 28744,
+   "b0": 0,
+   "b1": 28744,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Well done. You're a fine JUNKER.",
+   "rows": [
+    "Well done. You're a fine",
+    "JUNKER."
+   ],
+   "rows_plain": [
+    "Well done. You're a fine JUNKER."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f60_0",
+   "line": 1027,
+   "act": 3,
+   "sector": 10984,
+   "offset": 1549,
+   "size": 34302,
+   "b0": 0,
+   "b1": 34302,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Three, two, one. Here it comes!",
+   "rows": [
+    "Three, two, one. Here it",
+    "comes!"
+   ],
+   "rows_plain": [
+    "Three, two, one. Here it comes!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f61_0",
+   "line": 1028,
+   "act": 3,
+   "sector": 10999,
+   "offset": 991,
+   "size": 6637,
+   "b0": 0,
+   "b1": 6637,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "So long!",
+   "rows": [
+    "So long!"
+   ],
+   "rows_plain": [
+    "So long!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_f62_0",
+   "line": 1029,
+   "act": 3,
+   "sector": 11002,
+   "offset": 656,
+   "size": 45397,
+   "b0": 0,
+   "b1": 45397,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal!",
+   "rows": [
+    "Metal!"
+   ],
+   "rows_plain": [
+    "Metal!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_e_01",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 1199742,
+   "b1": 1641462,
+   "size": 11622642,
+   "speaker": "Announcer",
+   "colour": 7,
+   "en": "5th Airborne Division, boarding complete. 7th Mechanized Infantry...",
+   "rows": [
+    "5th Airborne Division,",
+    "boarding complete. 7th",
+    "Mechanized Infantry..."
+   ],
+   "rows_plain": [
+    "5th Airborne Division, boarding",
+    "complete. 7th Mechanized Infantry..."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_e_02",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 1641462,
+   "b1": 1823914,
+   "size": 11622642,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "So you're really going.",
+   "rows": [
+    "So you're really going."
+   ],
+   "rows_plain": [
+    "So you're really going."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B260_e_03",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 1823914,
+   "b1": 2438482,
+   "size": 11622642,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "We're responsible, too. And going to the Kremlin might bring my memory back.",
+   "rows": [
+    "We're responsible, too. And",
+    "going to the Kremlin might",
+    "bring my memory back."
+   ],
+   "rows_plain": [
+    "We're responsible, too. And going to",
+    "the Kremlin might bring my memory",
+    "back."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B260_e_04",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 2438482,
+   "b1": 2688150,
+   "size": 11622642,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Then I could love you even more than I do now.",
+   "rows": [
+    "Then I could love you even",
+    "more than I do now."
+   ],
+   "rows_plain": [
+    "Then I could love you even more than",
+    "I do now."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B260_e_06",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 2841794,
+   "b1": 3312322,
+   "size": 11622642,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Wait for me. I'll destroy the factory beneath the Kremlin.",
+   "rows": [
+    "Wait for me. I'll destroy",
+    "the factory beneath the",
+    "Kremlin."
+   ],
+   "rows_plain": [
+    "Wait for me. I'll destroy the",
+    "factory beneath the Kremlin."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B260_e_07",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 3312322,
+   "b1": 3657378,
+   "size": 11622642,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Let's live together when I get back, Jamie.",
+   "rows": [
+    "Let's live together when I",
+    "get back, Jamie."
+   ],
+   "rows_plain": [
+    "Let's live together when I get back,",
+    "Jamie."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B260_e_08",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 3657378,
+   "b1": 4079894,
+   "size": 11622642,
+   "speaker": "Announcer",
+   "colour": 7,
+   "en": "17th Special Operations Team, boarding complete.",
+   "rows": [
+    "17th Special Operations",
+    "Team, boarding complete."
+   ],
+   "rows_plain": [
+    "17th Special Operations Team,",
+    "boarding complete."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B260_e_09",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 5808370,
+   "b1": 6211042,
+   "size": 11622642,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Harry and I will be waiting for you.",
+   "rows": [
+    "Harry and I will be waiting",
+    "for you."
+   ],
+   "rows_plain": [
+    "Harry and I will be waiting for you."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B260_e_10",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 6211042,
+   "b1": 6364682,
+   "size": 11622642,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Harry's hat.",
+   "rows": [
+    "Harry's hat."
+   ],
+   "rows_plain": [
+    "Harry's hat."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B260_e_11",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 6508722,
+   "b1": 7180910,
+   "size": 11622642,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "We'll make it work this time. A real marriage, with trust in each other.",
+   "rows": [
+    "We'll make it work this",
+    "time. A real marriage, with",
+    "trust in each other."
+   ],
+   "rows_plain": [
+    "We'll make it work this time. A real",
+    "marriage, with trust in each other."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B260_e_13",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 7180910,
+   "b1": 7305742,
+   "size": 11622642,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I know, Jamie.",
+   "rows": [
+    "I know, Jamie."
+   ],
+   "rows_plain": [
+    "I know, Jamie."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B260_e_14",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 7478590,
+   "b1": 7737862,
+   "size": 11622642,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Take care, Gillian.",
+   "rows": [
+    "Take care, Gillian."
+   ],
+   "rows_plain": [
+    "Take care, Gillian."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B260_e_15",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 7737862,
+   "b1": 7843490,
+   "size": 11622642,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I'm off, Jamie.",
+   "rows": [
+    "I'm off, Jamie."
+   ],
+   "rows_plain": [
+    "I'm off, Jamie."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B260_e_16",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 8140534,
+   "b1": 8284574,
+   "size": 11622642,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Wait! Wait for me!",
+   "rows": [
+    "Wait! Wait for me!"
+   ],
+   "rows_plain": [
+    "Wait! Wait for me!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B260_e_17",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 8505434,
+   "b1": 8793514,
+   "size": 11622642,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Take me with you!",
+   "rows": [
+    "Take me with you!"
+   ],
+   "rows_plain": [
+    "Take me with you!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B260_e_18",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 8793514,
+   "b1": 8995166,
+   "size": 11622642,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal? Is that you?",
+   "rows": [
+    "Metal? Is that you?"
+   ],
+   "rows_plain": [
+    "Metal? Is that you?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B260_e_19",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 8995166,
+   "b1": 9552122,
+   "size": 11622642,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Yes, it's me. They had no proper frame, so this body's temporary.",
+   "rows": [
+    "Yes, it's me. They had no",
+    "proper frame, so this body's",
+    "temporary."
+   ],
+   "rows_plain": [
+    "Yes, it's me. They had no proper",
+    "frame, so this body's temporary."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B260_e_20",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 9552122,
+   "b1": 9888214,
+   "size": 11622642,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Call me Metal Gear Saturn.",
+   "rows": [
+    "Call me Metal Gear Saturn."
+   ],
+   "rows_plain": [
+    "Call me Metal Gear Saturn."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B260_e_22",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 9888214,
+   "b1": 10061062,
+   "size": 11622642,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Looks like your chip survived.",
+   "rows": [
+    "Looks like your chip",
+    "survived."
+   ],
+   "rows_plain": [
+    "Looks like your chip survived."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B260_e_23",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 10061062,
+   "b1": 10521350,
+   "size": 11622642,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Randam shielded my chip from the beam.",
+   "rows": [
+    "Randam shielded my chip from",
+    "the beam."
+   ],
+   "rows_plain": [
+    "Randam shielded my chip from the",
+    "beam."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B260_e_24",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 10521350,
+   "b1": 10665386,
+   "size": 11622642,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Randam?",
+   "rows": [
+    "Randam?"
+   ],
+   "rows_plain": [
+    "Randam?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B260_e_25",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 10665386,
+   "b1": 11135918,
+   "size": 11622642,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Take me with you, Gillian! Please, please, please!",
+   "rows": [
+    "Take me with you, Gillian!",
+    "Please, please, please!"
+   ],
+   "rows_plain": [
+    "Take me with you, Gillian! Please,",
+    "please, please!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B260_e_27",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 11135918,
+   "b1": 11366382,
+   "size": 11622642,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Hurry aboard, partner.",
+   "rows": [
+    "Hurry aboard, partner."
+   ],
+   "rows_plain": [
+    "Hurry aboard, partner."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B260_e_28",
+   "reel": 54,
+   "sdaif": "SDAIF_54.AIF",
+   "rate": 24000,
+   "frames": 2905647,
+   "b0": 11366382,
+   "b1": 11558434,
+   "size": 11622642,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Right, Gillian!",
+   "rows": [
+    "Right, Gillian!"
+   ],
+   "rows_plain": [
+    "Right, Gillian!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  }
+ ]
+}

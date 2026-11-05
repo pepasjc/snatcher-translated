@@ -1,0 +1,444 @@
+{
+ "1a": {
+  "speaker": "Metal Gear",
+  "en": "We've arrived at Queen Hospital.",
+  "ps1": [
+   "B1E0_f39_0"
+  ],
+  "cards": [
+   "We've arrived at|Queen Hospital."
+  ]
+ },
+ "1b": {
+  "speaker": "Gillian",
+  "en": "So this is Queen Hospital.",
+  "ps1": [
+   "B1E0_f40_0"
+  ],
+  "cards": [
+   "So this is Queen|Hospital."
+  ],
+  "layout": "plain"
+ },
+ "1c": {
+  "speaker": "Gillian",
+  "en": "Are you sure, Randam? This will be dangerous. A one-in-ten-thousand chance of survival.",
+  "ps1": [
+   "B1E0_f41_0",
+   "B1E0_f41_0b"
+  ],
+  "cards": [
+   "Are you sure,|Randam? This will|be dangerous.",
+   "A|one-in-ten-thousand|chance of survival."
+  ],
+  "turns": [
+   2.84
+  ]
+ },
+ "1d": {
+  "speaker": "Randam",
+  "en": "Then I'll expect a bigger bounty.",
+  "ps1": [
+   "B1E0_f42_0"
+  ],
+  "cards": [
+   "Then I'll expect a|bigger bounty."
+  ]
+ },
+ "1e": {
+  "speaker": "Gillian",
+  "en": "You're a strange one, you know that?",
+  "ps1": [
+   "B1E0_f43_0"
+  ],
+  "cards": [
+   "You're a strange|one, you know that?"
+  ]
+ },
+ "1f": {
+  "speaker": "Metal Gear",
+  "en": "Gillian, let's start the investigation!",
+  "ps1": [
+   "B1E0_f44_0"
+  ],
+  "cards": [
+   "Gillian, let's|start the|investigation!"
+  ]
+ },
+ "20": {
+  "speaker": "Metal Gear",
+  "en": "Look! There's paper stuck between the drawers. They're empty otherwise. Someone seems to have cleared them out in a hurry.",
+  "ps1": [
+   "B1E0_f45_0",
+   "B1E0_f45_0b",
+   "B1E0_f45_0c"
+  ],
+  "cards": [
+   "Look! There's paper|stuck between the|drawers. They're|empty otherwise.",
+   "Someone seems to|have cleared them|out in a hurry."
+  ],
+  "layout": "face",
+  "turns": [
+   6.58
+  ]
+ },
+ "21": {
+  "speaker": "Gillian",
+  "en": "What's that paper?",
+  "ps1": [],
+  "cards": [
+   "What's that paper?"
+  ],
+  "layout": "face"
+ },
+ "22": {
+  "speaker": "Metal Gear",
+  "en": "Here it is.",
+  "ps1": [
+   "B1E0_f47_0"
+  ],
+  "cards": [
+   "Here it is."
+  ],
+  "layout": "face"
+ },
+ "23": {
+  "speaker": "Gillian",
+  "en": "What's this? Chinese? Read it for me, Metal.",
+  "ps1": [
+   "B1E0_f48_0"
+  ],
+  "cards": [
+   "What's this?|Chinese? Read it|for me, Metal."
+  ],
+  "layout": "face"
+ },
+ "24": {
+  "speaker": "Metal Gear",
+  "en": "Yes. \"Medical record. New patient.\" I don't understand the next five characters. I've never seen characters like these.",
+  "ps1": [
+   "B1E0_f49_0",
+   "B1E0_f49_0b",
+   "B1E0_f49_0b2"
+  ],
+  "cards": [
+   "Yes. \"Medical|record. New|patient.\"",
+   "I don't understand|the next five|characters.",
+   "I've never seen|characters like|these."
+  ],
+  "layout": "face",
+  "turns": [
+   4.36,
+   7.5
+  ]
+ },
+ "25": {
+  "speaker": "Gillian",
+  "en": "I thought you were good at Chinese, Metal.",
+  "ps1": [
+   "B1E0_f50_0"
+  ],
+  "cards": [
+   "I thought you were|good at Chinese,|Metal."
+  ],
+  "layout": "face"
+ },
+ "26": {
+  "speaker": "Metal Gear",
+  "en": "My specialty is mahjong: riichi, tanyao, pinfu, dora one.",
+  "ps1": [
+   "B1E0_f51_0"
+  ],
+  "cards": [
+   "My specialty is|mahjong: riichi,|tanyao, pinfu, dora|one."
+  ],
+  "layout": "face"
+ },
+ "27": {
+  "speaker": "Gillian",
+  "en": "Unusual Chinese characters? Or a code? It's definitely part of a medical record. This code probably conceals a name. If we crack it, we'll identify a Snatcher.",
+  "ps1": [
+   "B1E0_f52_0",
+   "B1E0_f52_0b",
+   "B1E0_f52_0d",
+   "B1E0_f52_0db"
+  ],
+  "cards": [
+   "Unusual Chinese|characters? Or a|code?",
+   "It's definitely|part of a medical|record.",
+   "This code probably|conceals a name. If|we crack it, we'll|identify a Snatcher."
+  ],
+  "layout": "face",
+  "turns": [
+   4.86,
+   8.54
+  ]
+ },
+ "28": {
+  "speaker": "Metal Gear",
+  "en": "What happened to the other records?",
+  "ps1": [
+   "B1E0_f53_0"
+  ],
+  "cards": [
+   "What happened to|the other records?"
+  ],
+  "layout": "face"
+ },
+ "29": {
+  "speaker": "Gillian",
+  "en": "Someone must have taken them before we got here.",
+  "ps1": [
+   "B1E0_f54_0"
+  ],
+  "cards": [
+   "Someone must have|taken them before|we got here."
+  ],
+  "layout": "face"
+ },
+ "2a": {
+  "speaker": "Metal Gear",
+  "en": "I feel like the Snatchers know what we're doing.",
+  "ps1": [
+   "B1E0_f55_0"
+  ],
+  "cards": [
+   "I feel like the|Snatchers know what|we're doing."
+  ],
+  "layout": "face"
+ },
+ "2b": {
+  "speaker": "Gillian",
+  "en": "A Snatcher inside JUNKER? I'd rather not think about it.",
+  "ps1": [
+   "B1E0_f56_0"
+  ],
+  "cards": [
+   "A Snatcher inside|JUNKER? I'd rather|not think about it."
+  ],
+  "layout": "face"
+ },
+ "2c": {
+  "speaker": "Metal Gear",
+  "en": "I'll keep this piece of the medical record.",
+  "ps1": [
+   "B1E0_f57_0"
+  ],
+  "cards": [
+   "I'll keep this|piece of the|medical record."
+  ],
+  "layout": "face"
+ },
+ "2d": {
+  "speaker": "Metal Gear",
+  "en": "It seems to lead underground.",
+  "ps1": [
+   "B1E0_f58_0"
+  ],
+  "cards": [
+   "It seems to lead|underground."
+  ]
+ },
+ "2e": {
+  "speaker": "Gillian",
+  "en": "Jamie was right. Queen Hospital has an underground level.",
+  "ps1": [
+   "B1E0_f59_0"
+  ],
+  "cards": [
+   "Jamie was right.|Queen Hospital has|an underground|level."
+  ]
+ },
+ "2f": {
+  "speaker": "Gillian",
+  "en": "And that's the Snatchers' nest. Right beneath us.",
+  "ps1": [
+   "B1E0_f60_0"
+  ],
+  "cards": [
+   "And that's the|Snatchers' nest.|Right beneath us."
+  ]
+ },
+ "30": {
+  "speaker": "Metal Gear",
+  "en": "We're finally inside the belly of the beast. What will you do, Gillian?",
+  "ps1": [
+   "B1E0_f61_0",
+   "B1E0_f61_0b"
+  ],
+  "cards": [
+   "We're finally|inside the belly of|the beast.",
+   "What will you do,|Gillian?"
+  ],
+  "turns": [
+   3.14
+  ]
+ },
+ "31": {
+  "speaker": "Metal Gear",
+  "en": "The stairs are narrow. Let's go down in single file.",
+  "ps1": [
+   "B1E0_f62_0"
+  ],
+  "cards": [
+   "The stairs are|narrow. Let's go|down in single file."
+  ]
+ },
+ "32": {
+  "speaker": "Gillian",
+  "en": "Who's going first?",
+  "ps1": [
+   "B1E0_f63_0"
+  ],
+  "cards": [
+   "Who's going first?"
+  ]
+ },
+ "33": {
+  "speaker": "Randam",
+  "en": "Obviously, the one with the light.",
+  "ps1": [
+   "B1E0_f64_0"
+  ],
+  "cards": [
+   "Obviously, the one with|the light."
+  ],
+  "layout": "plain"
+ },
+ "34": {
+  "speaker": "Metal Gear",
+  "en": "That's not fair!",
+  "ps1": [
+   "B1E0_f65_0"
+  ],
+  "cards": [
+   "That's not fair!"
+  ]
+ },
+ "35": {
+  "speaker": "Metal Gear",
+  "en": "I know. Let's play rock-paper-scissors.",
+  "ps1": [
+   "B1E0_f66_0"
+  ],
+  "cards": [
+   "I know. Let's play|rock-paper-scissors."
+  ]
+ },
+ "36": {
+  "speaker": "Gillian",
+  "en": "Fine. Rock-paper-scissors it is. But can you play, Metal?",
+  "ps1": [
+   "B1E0_f67_0",
+   "B1E0_f67_0b"
+  ],
+  "cards": [
+   "Fine.|Rock-paper-scissors|it is. But can you|play, Metal?"
+  ]
+ },
+ "37": {
+  "speaker": "Metal Gear",
+  "en": "Leave it to me. I'm prepared for anything at times like this.",
+  "ps1": [
+   "B1E0_f68_0"
+  ],
+  "cards": [
+   "Leave it to me. I'm|prepared for|anything at times|like this."
+  ]
+ },
+ "38": {
+  "speaker": "Metal Gear",
+  "en": "All right, a fair match. No cheating!",
+  "ps1": [
+   "B1E0_f69_0"
+  ],
+  "cards": [
+   "All right, a fair|match. No cheating!"
+  ]
+ },
+ "39": {
+  "speaker": "Gillian",
+  "en": "I promise. I'm a cop, after all.",
+  "ps1": [
+   "B1E0_f70_0"
+  ],
+  "cards": [
+   "I promise. I'm a|cop, after all."
+  ]
+ },
+ "3a": {
+  "speaker": "Randam",
+  "en": "You two are unbelievable. At a time like this!",
+  "ps1": [
+   "B1E0_f71_0"
+  ],
+  "cards": [
+   "You two are|unbelievable. At a time like this!"
+  ],
+  "layout": "plain"
+ },
+ "3b": {
+  "speaker": "Metal Gear",
+  "en": "All right. Rock, paper, scissors!",
+  "ps1": [
+   "B1E0_f72_0"
+  ],
+  "cards": [
+   "All right. Rock,|paper, scissors!"
+  ]
+ },
+ "3c": {
+  "speaker": "Randam",
+  "en": "Ha! I win!",
+  "ps1": [
+   "B1E0_f73_0"
+  ],
+  "cards": [
+   "Ha! I win!"
+  ],
+  "layout": "plain"
+ },
+ "3d": {
+  "speaker": "Metal Gear",
+  "en": "Wait, wait, wait! That round doesn't count. Gillian didn't play.",
+  "ps1": [
+   "B1E0_f74_0",
+   "B1E0_f74_0b"
+  ],
+  "cards": [
+   "Wait, wait, wait!|That round doesn't|count. Gillian|didn't play."
+  ]
+ },
+ "3e": {
+  "speaker": "Randam",
+  "en": "Come on, Gillian! What are you doing? Play like a man!",
+  "ps1": [
+   "B1E0_f75_0"
+  ],
+  "cards": [
+   "Come on, Gillian! What|are you doing? Play like a man!"
+  ],
+  "layout": "plain"
+ },
+ "3f": {
+  "speaker": "Gillian",
+  "en": "Sorry, sorry.",
+  "ps1": [
+   "B1E0_f76_0"
+  ],
+  "cards": [
+   "Sorry, sorry."
+  ]
+ },
+ "40": {
+  "speaker": "Metal Gear",
+  "en": "Once more, a fair match! Rock, paper, scissors!",
+  "ps1": [
+   "B1E0_f77_0",
+   "B1E0_f77_0b"
+  ],
+  "cards": [
+   "Once more, a fair|match! Rock, paper,|scissors!"
+  ]
+ }
+}

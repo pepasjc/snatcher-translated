@@ -1,0 +1,376 @@
+[
+{
+"choose": "Gillian's home"
+},
+{
+"read": 8000
+},
+{
+"choose": "Exit Tricycle"
+},
+{
+"read": 8000
+},
+{
+"save": "home0"
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"choose": [
+"Move",
+"Go inside"
+]
+},
+{
+"maybe": "Go inside"
+},
+{
+"read": 8000
+},
+{
+"save": "home_in"
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Smell",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Do something",
+"rounds": 1
+},
+{
+"read": 8000
+},
+{
+"save": "home_done"
+},
+{
+"items": 1
+},
+{
+"choose": "Use Metal Gear"
+},
+{
+"choose": "Videophone"
+},
+{
+"press": "a",
+"gap": 40
+},
+{
+"choose": "Call"
+},
+{
+"dial": "393444"
+},
+{
+"wait": 900
+},
+{
+"read": 8000
+},
+{
+"save": "jamie_call"
+},
+{
+"items": 1
+},
+{
+"sweep": "Talk",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Ask",
+"rounds": 3
+},
+{
+"read": 3000
+},
+{
+"maybe": "Hang up"
+},
+{
+"read": 4000
+},
+{
+"maybe": "Don't call"
+},
+{
+"read": 3000
+},
+{
+"save": "jamie_done"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Go out",
+"Move"
+]
+},
+{
+"maybe": "Go out"
+},
+{
+"read": 6000
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Board Tricycle",
+"Move"
+]
+},
+{
+"maybe": "Board Tricycle"
+},
+{
+"read": 3000
+},
+{
+"save": "home_trike"
+},
+{
+"items": 1
+},
+{
+"choose": "JUNKER HQ"
+},
+{
+"read": 8000
+},
+{
+"choose": "Exit Tricycle"
+},
+{
+"read": 8000
+},
+{
+"save": "hq3"
+},
+{
+"items": 1
+},
+{
+"sweep": "Talk",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"choose": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": "Computer room"
+},
+{
+"read": 8000
+},
+{
+"save": "hq3_comp"
+},
+{
+"items": 1
+},
+{
+"choose": "Use Gaudi"
+},
+{
+"items": 1
+},
+{
+"read": 4000
+},
+{
+"items": 1
+},
+{
+"save": "gaudi"
+},
+{
+"choose": "Use card"
+},
+{
+"read": 4000
+},
+{
+"choose": "Create montage"
+},
+{
+"read": 4000
+},
+{
+"choose": "Face"
+},
+{
+"read": 2000
+},
+{
+"choose": "Face shape 3"
+},
+{
+"read": 3000
+},
+{
+"choose": "Eyes"
+},
+{
+"read": 2000
+},
+{
+"choose": [
+"Eyes  6",
+"Eyes 6"
+]
+},
+{
+"read": 3000
+},
+{
+"choose": "Nose"
+},
+{
+"read": 2000
+},
+{
+"choose": [
+"Nose  1",
+"Nose 1"
+]
+},
+{
+"read": 3000
+},
+{
+"choose": "Mouth"
+},
+{
+"read": 2000
+},
+{
+"choose": [
+"Mouth  3",
+"Mouth 3"
+]
+},
+{
+"read": 3000
+},
+{
+"choose": "Hair"
+},
+{
+"read": 2000
+},
+{
+"choose": [
+"Hairstyle 2",
+"Hairstyle 2"
+]
+},
+{
+"read": 3000
+},
+{
+"save": "montage_set"
+},
+{
+"choose": "Match"
+},
+{
+"read": 12000
+},
+{
+"save": "montage_done"
+},
+{
+"items": 1
+},
+{
+"sweep": "Ask",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"choose": "Move on"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Front desk",
+"Board Tricycle"
+]
+},
+{
+"read": 6000
+},
+{
+"items": 1
+},
+{
+"maybe": "Move"
+},
+{
+"maybe": "Board Tricycle"
+},
+{
+"read": 3000
+},
+{
+"save": "act1_e_end"
+},
+{
+"items": 1
+}
+]

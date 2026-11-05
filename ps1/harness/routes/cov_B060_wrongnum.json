@@ -1,0 +1,7 @@
+{"scene":"B060",
+ "note":"coverage A_videophone: from cov_B060_call (Act 1 HQ, videophone at Call/Don't call) dial an unassigned number. The pad auto-dials only numbers the bank knows; anything else is placed by filling all ten digits and pressing confirm once more - the 'number not in service' recording (M000 ch15 f70, B060_006/006b).",
+ "actions":[
+  {"path":["Call"],"optional":true,"patience":1500},
+  {"dial":"1234567890","then":"circle"},
+  {"idle":1500}
+ ]}

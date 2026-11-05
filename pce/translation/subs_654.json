@@ -1,0 +1,835 @@
+{
+ "89": {
+  "speaker": "Metal Gear",
+  "en": "Kremlin map data entered. Heading for the church.",
+  "ps1": [
+   "B250_c9f83"
+  ],
+  "cards": [
+   "Kremlin map data|entered. Heading|for the church."
+  ],
+  "layout": "face"
+ },
+ "8a": {
+  "speaker": "Metal Gear",
+  "en": "Flight mode. Ascending.",
+  "ps1": [
+   "B250_c9f84"
+  ],
+  "cards": [
+   "Flight mode.|Ascending."
+  ],
+  "layout": "face"
+ },
+ "8b": {
+  "speaker": "Gillian",
+  "en": "Jamie, please be safe.",
+  "ps1": [
+   "B250_c9f85"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Jamie, please be safe."
+  ]
+ },
+ "8c": {
+  "speaker": "Metal Gear",
+  "en": "Remember our time limit, Gillian.",
+  "ps1": [
+   "B250_c9f86"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Remember our time|limit, Gillian."
+  ]
+ },
+ "8d": {
+  "speaker": "Gillian",
+  "en": "Fifty years to make up for in just twelve hours.",
+  "ps1": [
+   "B250_c10f1"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Fifty years to make|up for in just twelve hours."
+  ]
+ },
+ "8e": {
+  "speaker": "Gillian",
+  "en": "Snow!",
+  "ps1": [
+   "B250_c10f2"
+  ],
+  "cards": [
+   "Snow!"
+  ],
+  "layout": "face"
+ },
+ "8f": {
+  "speaker": "Metal Gear",
+  "en": "Snow Cedar. We've entered the Snow Cedar area. Put on your nasal filters. Inhaling it is dangerous.",
+  "ps1": [
+   "B250_c10f3",
+   "B250_c10f3b"
+  ],
+  "cards": [
+   "Snow Cedar. We've|entered the Snow|Cedar area. Put on|your nasal filters.",
+   "Inhaling it is|dangerous."
+  ],
+  "layout": "face",
+  "turns": [
+   7.64
+  ]
+ },
+ "90": {
+  "speaker": "Gillian",
+  "en": "Understood.",
+  "ps1": [
+   "B250_c10f4"
+  ],
+  "cards": [
+   "Understood."
+  ],
+  "layout": "face"
+ },
+ "91": {
+  "speaker": "Metal Gear",
+  "en": "Radio contact will be impossible from here. Ready?",
+  "ps1": [
+   "B250_c10f5"
+  ],
+  "cards": [
+   "Radio contact will|be impossible from|here. Ready?"
+  ],
+  "layout": "face"
+ },
+ "92": {
+  "speaker": "Metal Gear",
+  "en": "Descending. Switched to hover mode.",
+  "ps1": [
+   "B250_c10f6",
+   "B250_c10f6b"
+  ],
+  "cards": [
+   "Descending.|Switched to hover|mode."
+  ],
+  "layout": "face"
+ },
+ "93": {
+  "speaker": "Metal Gear",
+  "en": "We've arrived, Gillian. What now?",
+  "ps1": [
+   "B250_c10f7"
+  ],
+  "cards": [
+   "We've arrived,|Gillian. What now?"
+  ],
+  "layout": "face"
+ },
+ "94": {
+  "speaker": "Metal Gear",
+  "en": "I'll open the door.",
+  "ps1": [
+   "B250_c10f8"
+  ],
+  "cards": [
+   "I'll open the door."
+  ],
+  "layout": "face"
+ },
+ "95": {
+  "speaker": "Gillian",
+  "en": "Huh? It won't open.",
+  "ps1": [
+   "B250_c10f9"
+  ],
+  "cards": [
+   "Huh? It won't open."
+  ],
+  "layout": "face"
+ },
+ "96": {
+  "speaker": "Metal Gear",
+  "en": "My scan shows no lock. It must be rusted shut.",
+  "ps1": [
+   "B250_c10f10"
+  ],
+  "cards": [
+   "My scan shows no|lock. It must be|rusted shut."
+  ],
+  "layout": "face"
+ },
+ "97": {
+  "speaker": "Gillian",
+  "en": "Well, they come and go underground.",
+  "ps1": [
+   "B250_c10f11"
+  ],
+  "cards": [
+   "Well, they come and|go underground."
+  ],
+  "layout": "face"
+ },
+ "98": {
+  "speaker": "Metal Gear",
+  "en": "Let's push together.",
+  "ps1": [
+   "B250_c10f12"
+  ],
+  "cards": [
+   "Let's push together."
+  ],
+  "layout": "face"
+ },
+ "99": {
+  "speaker": "Gillian",
+  "en": "Ready? Push! One, two, three!",
+  "ps1": [
+   "B250_c10f13"
+  ],
+  "cards": [
+   "Ready? Push! One,|two, three!"
+  ],
+  "layout": "face"
+ },
+ "9a": {
+  "speaker": "Metal Gear",
+  "en": "It's open.",
+  "ps1": [
+   "B250_c10f14"
+  ],
+  "cards": [
+   "It's open."
+  ],
+  "layout": "face"
+ },
+ "9b": {
+  "speaker": "Metal Gear",
+  "en": "This is the process of covering a Snatcher's frame, its endoskeleton, with artificial skin.",
+  "ps1": [
+   "B250_c10f15",
+   "B250_c10f15b"
+  ],
+  "cards": [
+   "This is the process|of covering a|Snatcher's frame,",
+   "its endoskeleton,|with artificial|skin."
+  ],
+  "layout": "face",
+  "turns": [
+   3.52
+  ]
+ },
+ "9c": {
+  "speaker": "Metal Gear",
+  "en": "First, they resize the bare Snatcher to match its victim.",
+  "ps1": [
+   "B250_c10f16"
+  ],
+  "cards": [
+   "First, they resize|the bare Snatcher|to match its victim."
+  ],
+  "layout": "face"
+ },
+ "9d": {
+  "speaker": "Metal Gear",
+  "en": "Its shape and size are adjusted by extending or contracting its units and slots. They change its sex by replacing the sex unit. To copy the victim's face, they adjust the upper and lower jaws, cheekbones, temporal bones and teeth to match the data.",
+  "ps1": [
+   "B250_c10f17",
+   "B250_c10f17b",
+   "B250_c10f17c",
+   "B250_c10f17d",
+   "B250_c10f17db",
+   "B250_c10f17dc"
+  ],
+  "cards": [
+   "Its shape and size|are adjusted by|extending",
+   "or contracting its|units and slots.",
+   "They change its sex|by replacing the|sex unit.",
+   "To copy the|victim's face, they|adjust the upper|and lower jaws,",
+   "cheekbones,|temporal bones and|teeth to match the|data."
+  ],
+  "layout": "face",
+  "turns": [
+   5.68,
+   6.78,
+   9.68,
+   13.34
+  ]
+ },
+ "9e": {
+  "speaker": "Gillian",
+  "en": "As Gibson said, this limits the size of people they can snatch.",
+  "ps1": [
+   "B250_c10f18",
+   "B250_c10f18b"
+  ],
+  "cards": [
+   "As Gibson said,|this limits the|size of people they|can snatch."
+  ],
+  "layout": "face"
+ },
+ "9f": {
+  "speaker": "Metal Gear",
+  "en": "They can only expand or change shape so far. They can't snatch children, the elderly or large men.",
+  "ps1": [
+   "B250_c10f19",
+   "B250_c10f19b"
+  ],
+  "cards": [
+   "They can only|expand or change|shape so far.",
+   "They can't snatch|children, the|elderly or large|men."
+  ],
+  "layout": "face",
+  "turns": [
+   3.16
+  ]
+ },
+ "a0": {
+  "speaker": "Metal Gear",
+  "en": "Next, they cover the skeleton with muscle. Only skeletal muscle, of course.",
+  "ps1": [
+   "B250_c10f20",
+   "B250_c10f20b"
+  ],
+  "cards": [
+   "Next, they cover|the skeleton with|muscle.",
+   "Only skeletal|muscle, of course."
+  ],
+  "layout": "face",
+  "turns": [
+   4.08
+  ]
+ },
+ "a1": {
+  "speaker": "Gillian",
+  "en": "Is it organic?",
+  "ps1": [
+   "B250_c10f21"
+  ],
+  "cards": [
+   "Is it organic?"
+  ],
+  "layout": "face"
+ },
+ "a2": {
+  "speaker": "Metal Gear",
+  "en": "No. It seems to be a plastic gel whose surface responds mechanically. It converts chemical reactions into mechanical energy.",
+  "ps1": [
+   "B250_c10f22",
+   "B250_c10f22b",
+   "B250_c10f22c"
+  ],
+  "cards": [
+   "No. It seems to be|a plastic gel whose|surface responds|mechanically.",
+   "It converts|chemical reactions|into mechanical|energy."
+  ],
+  "layout": "face",
+  "turns": [
+   5.68
+  ]
+ },
+ "a3": {
+  "speaker": "Metal Gear",
+  "en": "This is where they apply the troublesome artificial skin.",
+  "ps1": [
+   "B250_c10f23"
+  ],
+  "cards": [
+   "This is where they|apply the|troublesome|artificial skin."
+  ],
+  "layout": "face"
+ },
+ "a4": {
+  "speaker": "Metal Gear",
+  "en": "Synthetic cells made with biotechnology and protein design are grafted on slowly to avoid rejection of the inorganic parts beneath.",
+  "ps1": [
+   "B250_c10f24",
+   "B250_c10f24b",
+   "B250_c10f24c"
+  ],
+  "cards": [
+   "Synthetic cells|made with|biotechnology and|protein design are",
+   "grafted on slowly|to avoid rejection|of the inorganic|parts beneath."
+  ],
+  "layout": "face",
+  "turns": [
+   5.68
+  ]
+ },
+ "a5": {
+  "speaker": "Gillian",
+  "en": "Defective skin that turns cancerous under UV light.",
+  "ps1": [
+   "B250_c10f25"
+  ],
+  "cards": [
+   "Defective skin that|turns cancerous|under UV light."
+  ],
+  "layout": "face"
+ },
+ "a6": {
+  "speaker": "Metal Gear",
+  "en": "Finally, they implant hair on the head and body. They transplant artificial hair follicle cells, so the hair regrows even if it falls out.",
+  "ps1": [
+   "B250_c10f26",
+   "B250_c10f26b",
+   "B250_c10f26bb"
+  ],
+  "cards": [
+   "Finally, they|implant hair on the|head and body.",
+   "They transplant|artificial hair|follicle cells,",
+   "so the hair regrows|even if it falls|out."
+  ],
+  "layout": "face",
+  "turns": [
+   4.7,
+   7.16
+  ]
+ },
+ "a7": {
+  "speaker": "Gillian",
+  "en": "What about scars, blemishes and burns?",
+  "ps1": [
+   "B250_c10f27"
+  ],
+  "cards": [
+   "What about scars,|blemishes and burns?"
+  ],
+  "layout": "face"
+ },
+ "a8": {
+  "speaker": "Metal Gear",
+  "en": "They're added at this stage, using the victim's data. Wrinkles and signs of age, too.",
+  "ps1": [
+   "B250_c10f28",
+   "B250_c10f28c"
+  ],
+  "cards": [
+   "They're added at|this stage, using|the victim's data.",
+   "Wrinkles and signs|of age, too."
+  ],
+  "layout": "face",
+  "turns": [
+   4.84
+  ]
+ },
+ "a9": {
+  "speaker": "Gillian",
+  "en": "This is where they create human replacements from endoskeletons sent by the Kremlin. Then they send them into the city through the tunnels.",
+  "ps1": [
+   "B250_c10f29",
+   "B250_c10f29b",
+   "B250_c10f29c"
+  ],
+  "cards": [
+   "This is where they|create human|replacements",
+   "from endoskeletons|sent by the|Kremlin.",
+   "Then they send them|into the city|through the tunnels."
+  ],
+  "layout": "face",
+  "turns": [
+   2.8,
+   7.84
+  ]
+ },
+ "aa": {
+  "speaker": "Metal Gear",
+  "en": "And Queen Hospital maintains their artificial skin.",
+  "ps1": [
+   "B250_c10f30"
+  ],
+  "cards": [
+   "And Queen Hospital|maintains their|artificial skin."
+  ],
+  "layout": "face"
+ },
+ "ab": {
+  "speaker": "Gillian",
+  "en": "But who's behind it? And why?",
+  "ps1": [
+   "B250_c10f31"
+  ],
+  "cards": [
+   "But who's behind|it? And why?"
+  ],
+  "layout": "face"
+ },
+ "ac": {
+  "speaker": "Metal Gear",
+  "en": "Look over there, Gillian. Several Snatchers are already complete.",
+  "ps1": [
+   "B250_c10f32",
+   "B250_c10f32b"
+  ],
+  "cards": [
+   "Look over there,|Gillian. Several|Snatchers are|already complete."
+  ],
+  "layout": "face"
+ },
+ "ad": {
+  "speaker": "Gillian",
+  "en": "Look! The American president! The Japanese and British prime ministers!",
+  "ps1": [
+   "B250_c10f33",
+   "B250_c10f33b"
+  ],
+  "cards": [
+   "Look! The American|president!",
+   "The Japanese and|British prime|ministers!"
+  ],
+  "layout": "face",
+  "turns": [
+   2.9
+  ]
+ },
+ "ae": {
+  "speaker": "Metal Gear",
+  "en": "You too, Gillian!",
+  "ps1": [
+   "B250_c10f34"
+  ],
+  "cards": [
+   "You too, Gillian!"
+  ],
+  "layout": "face"
+ },
+ "af": {
+  "speaker": "Gillian",
+  "en": "I knew it! They'll attack the summit and snatch every country's leaders at once!",
+  "ps1": [
+   "B250_c10f35",
+   "B250_c10f35b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I knew it!",
+   "They'll attack the|summit",
+   "and snatch every|country's leaders at once!"
+  ],
+  "turns": [
+   1.98,
+   3.84
+  ]
+ },
+ "b0": {
+  "speaker": "Metal Gear",
+  "en": "They intend to snatch you, the last JUNKER, then leave the city.",
+  "ps1": [
+   "B250_c10f36",
+   "B250_c10f36b"
+  ],
+  "cards": [
+   "They intend to|snatch you, the|last JUNKER, then|leave the city."
+  ],
+  "layout": "face"
+ },
+ "b1": {
+  "speaker": "Gillian",
+  "en": "Snatch the world's leaders, and the world is theirs. But it doesn't make sense. Their defective artificial skin should make global expansion difficult.",
+  "ps1": [
+   "B250_c10f37",
+   "B250_c10f37b",
+   "B250_c10f37bb",
+   "B250_c10f37bc"
+  ],
+  "cards": [
+   "Snatch the world's|leaders, and the|world is theirs.",
+   "But it doesn't make|sense.",
+   "Their defective|artificial skin|should make global|expansion difficult."
+  ],
+  "layout": "face",
+  "turns": [
+   4.2,
+   4.6
+  ]
+ },
+ "b2": {
+  "speaker": "Metal Gear",
+  "en": "Chin said they'd found a way to perfect their skin. Could something have happened?",
+  "ps1": [
+   "B250_c10f38",
+   "B250_c10f38b"
+  ],
+  "cards": [
+   "Chin said they'd|found a way to|perfect their skin.",
+   "Could something|have happened?"
+  ],
+  "layout": "face",
+  "turns": [
+   5.46
+  ]
+ },
+ "b3": {
+  "speaker": "Gillian",
+  "en": "I don't know. But look how many Snatchers there are. They're certainly planning something new.",
+  "ps1": [
+   "B250_c10f39",
+   "B250_c10f39b"
+  ],
+  "cards": [
+   "I don't know. But|look how many|Snatchers there|are.",
+   "They're certainly|planning something|new."
+  ],
+  "layout": "face",
+  "turns": [
+   4.3
+  ]
+ },
+ "b4": {
+  "speaker": "Metal Gear",
+  "en": "This is definitely the Snatcher base, Gillian. Let's destroy it all!",
+  "ps1": [
+   "B250_c10f40",
+   "B250_c10f40b"
+  ],
+  "cards": [
+   "This is definitely|the Snatcher base,|Gillian. Let's|destroy it all!"
+  ],
+  "layout": "face"
+ },
+ "b5": {
+  "speaker": "Gillian",
+  "en": "No! Jamie's still here! Metal, how much time is left?",
+  "ps1": [
+   "B250_c10f41"
+  ],
+  "cards": [
+   "No! Jamie's still|here! Metal, how|much time is left?"
+  ],
+  "layout": "face"
+ },
+ "b6": {
+  "speaker": "Metal Gear",
+  "en": "The summit has started. We're out of time. After the deadline, I can't help you anymore. I'll have to take you into custody.",
+  "ps1": [
+   "B250_c10f42",
+   "B250_c10f42b",
+   "B250_c10f42c"
+  ],
+  "cards": [
+   "The summit has|started. We're out|of time.",
+   "After the deadline,|I can't help you|anymore.",
+   "I'll have to take|you into custody."
+  ],
+  "layout": "face",
+  "turns": [
+   3.36,
+   6.42
+  ]
+ },
+ "b7": {
+  "speaker": "Gillian",
+  "en": "All right. If the military strikes here, what weapon will they use?",
+  "ps1": [
+   "B250_c10f43",
+   "B250_c10f43b"
+  ],
+  "cards": [
+   "All right. If the|military strikes|here, what weapon|will they use?"
+  ],
+  "layout": "face"
+ },
+ "b8": {
+  "speaker": "Metal Gear",
+  "en": "Probably a particle beam from a killer satellite.",
+  "ps1": [
+   "B250_c10f44"
+  ],
+  "cards": [
+   "Probably a particle|beam from a killer|satellite."
+  ],
+  "layout": "face"
+ },
+ "b9": {
+  "speaker": "Gillian",
+  "en": "A particle beam? There'll be nothing left.",
+  "ps1": [
+   "B250_c10f45"
+  ],
+  "layout": "plain",
+  "cards": [
+   "A particle beam?|There'll be nothing left."
+  ]
+ },
+ "ba": {
+  "speaker": "Metal Gear",
+  "en": "Everything will vaporize. Only a huge crater will remain.",
+  "ps1": [
+   "B250_c10f46"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Everything will|vaporize.",
+   "Only a huge crater|will remain."
+  ],
+  "turns": [
+   2.6
+  ]
+ },
+ "bb": {
+  "speaker": "Gillian",
+  "en": "Ask them for another hour, Metal! Even thirty minutes!",
+  "ps1": [
+   "B250_c10f47"
+  ],
+  "cards": [
+   "Ask them for|another hour,|Metal! Even thirty|minutes!"
+  ],
+  "layout": "face"
+ },
+ "bc": {
+  "speaker": "Metal Gear",
+  "en": "Understood. I'll do what I can.",
+  "ps1": [
+   "B250_c10f48"
+  ],
+  "cards": [
+   "Understood. I'll do|what I can."
+  ],
+  "layout": "face"
+ },
+ "bd": {
+  "speaker": "Gillian",
+  "en": "I'll rescue Jamie while you do that.",
+  "ps1": [
+   "B250_c10f49"
+  ],
+  "cards": [
+   "I'll rescue Jamie|while you do that."
+  ],
+  "layout": "face"
+ },
+ "be": {
+  "speaker": "Metal Gear",
+  "en": "Snow Cedar makes the signal unstable here. I'll go outside the area to contact them.",
+  "ps1": [
+   "B250_c10f50",
+   "B250_c10f50b"
+  ],
+  "cards": [
+   "Snow Cedar makes|the signal unstable|here.",
+   "I'll go outside the|area to contact|them."
+  ],
+  "layout": "face",
+  "turns": [
+   3.84
+  ]
+ },
+ "bf": {
+  "speaker": "Gillian",
+  "en": "All right. Please, Metal.",
+  "ps1": [
+   "B250_c10f51",
+   "B250_c10f51b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "All right. Please,|Metal."
+  ]
+ },
+ "c0": {
+  "speaker": "Metal Gear",
+  "en": "Thirty minutes, Gillian. Promise you'll come back.",
+  "ps1": [
+   "B250_c10f52"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Thirty minutes,|Gillian. Promise you'll come back."
+  ]
+ },
+ "c1": {
+  "speaker": "Gillian",
+  "en": "Understood.",
+  "ps1": [
+   "B250_c10f4"
+  ],
+  "cards": [
+   "Understood."
+  ],
+  "layout": "face"
+ },
+ "c2": {
+  "speaker": "Metal Gear",
+  "en": "I'm sorry I couldn't be more help, Gillian.",
+  "ps1": [
+   "B250_c10f54"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I'm sorry I|couldn't be more help, Gillian."
+  ]
+ },
+ "c3": {
+  "speaker": "Gillian",
+  "en": "Don't worry. With no one slowing me down, thirty minutes is plenty!",
+  "ps1": [
+   "B250_c10f55",
+   "B250_c10f55b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Don't worry.",
+   "With no one slowing|me down, thirty minutes is plenty!"
+  ],
+  "turns": [
+   1.84
+  ]
+ },
+ "c4": {
+  "speaker": "Gillian",
+  "en": "Go!",
+  "ps1": [
+   "B250_c10f56"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Go!"
+  ]
+ },
+ "c5": {
+  "speaker": "Metal Gear",
+  "en": "Understood! Thirty minutes!",
+  "ps1": [
+   "B250_c10f57"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Understood! Thirty|minutes!"
+  ]
+ },
+ "c6": {
+  "speaker": "Gillian",
+  "en": "Thirty minutes. That's tight.",
+  "ps1": [
+   "B250_c10f58"
+  ],
+  "cards": [
+   "Thirty minutes.|That's tight."
+  ],
+  "layout": "face"
+ },
+ "c7": {
+  "speaker": "Gillian",
+  "en": "Only that room left. Let's open the door.",
+  "ps1": [
+   "B250_c10f59"
+  ],
+  "cards": [
+   "Only that room|left. Let's open|the door."
+  ],
+  "layout": "face"
+ },
+ "f5": {
+  "speaker": "Metal Gear",
+  "en": "A Tube Liner!",
+  "ps1": [
+   "B220_f68_0"
+  ],
+  "layout": "plain",
+  "cards": [
+   "A Tube Liner!"
+  ]
+ },
+ "_unmatched": {}
+}

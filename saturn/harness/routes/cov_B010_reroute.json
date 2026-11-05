@@ -1,0 +1,47 @@
+{
+ "scene": "B010",
+ "note": "Coverage: from B010_start, introduce Gillian at the desk, go inside and pick a room other than the Chief's office first - Mika reroutes Gillian to the Chief (B010_005..007, 'The Chief asked me to show you around').",
+ "actions": [
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "path": [
+    "Go inside"
+   ]
+  },
+  {
+   "sweep": [
+    "Talk",
+    "Ask",
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go inside"
+   ]
+  },
+  {
+   "path": [
+    "Go inside"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Mechanic room"
+   ],
+   "optional": true,
+   "patience": 6000
+  },
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "idle": 300
+  }
+ ]
+}

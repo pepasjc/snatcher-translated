@@ -1,0 +1,17 @@
+[
+ {"choose": "Go out"},
+ {"read": 2000},
+ {"choose": "Chief's room"},
+ {"read": 3000},
+ {"sweep": "Ask", "rounds": 1},
+ {"read": 3000},
+ {"choose": "Go out"},
+ {"read": 2000},
+ {"choose": "Mechanic room"},
+ {"read": 6000},
+ {"sweep": "Ask", "rounds": 2},
+ {"read": 6000},
+ {"sweep": "Look", "rounds": 1},
+ {"read": 3000},
+ {"save": "harry_done"}
+]

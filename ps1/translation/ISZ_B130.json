@@ -1,0 +1,74 @@
+{
+ "file": "ISZ_B130.BIN",
+ "text_base": 572,
+ "strings": [
+  {
+   "off": 573,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 577,
+   "budget": 109,
+   "en": "Gillian! Use the mirror's reflection￥to shoot Freddy!＠Ｃ"
+  },
+  {
+   "off": 686,
+   "budget": 21,
+   "en": "I'm done for...＠Ｃ"
+  },
+  {
+   "off": 707,
+   "budget": 23,
+   "en": "Gillian!＠Ｃ"
+  },
+  {
+   "off": 730,
+   "budget": 35,
+   "en": "Record the case so far?",
+   "long": "Would you like to save your￥progress?"
+  },
+  {
+   "off": 765,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 776,
+   "budget": 41,
+   "en": "I'll save your progress now."
+  },
+  {
+   "off": 817,
+   "budget": 13,
+   "en": "Don't save"
+  },
+  {
+   "off": 830,
+   "budget": 13,
+   "en": "Continue"
+  },
+  {
+   "off": 843,
+   "budget": 31,
+   "en": "Then... we continue the case.",
+   "long": "Let's continue the investigation."
+  },
+  {
+   "off": 874,
+   "budget": 13,
+   "en": "Quit game"
+  },
+  {
+   "off": 887,
+   "budget": 33,
+   "en": "Then... we end the case here.",
+   "long": "We'll end the investigation here."
+  },
+  {
+   "off": 922,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

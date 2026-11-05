@@ -1,0 +1,2210 @@
+{
+ "file": "DATA.BIN[36]",
+ "entry": 36,
+ "text_base": 4604,
+ "twins": [
+  "B0F0"
+ ],
+ "strings": [
+  {
+   "off": 4604,
+   "budget": 3,
+   "en": "",
+   "src": "B0F0:4289",
+   "carry": "exact"
+  },
+  {
+   "off": 4609,
+   "budget": 25,
+   "en": "Outside Outer Heaven.",
+   "src": "B0F0:4294",
+   "carry": "exact",
+   "long": "We're outside Outer Heaven."
+  },
+  {
+   "off": 4634,
+   "budget": 19,
+   "en": "You again?",
+   "src": "B0F0:4319",
+   "carry": "exact"
+  },
+  {
+   "off": 4653,
+   "budget": 103,
+   "en": "I'm sorry, but the owner has￥instructed me not to let you in.",
+   "src": "B0F0:4338",
+   "carry": "candidate_ok",
+   "en_candidate": "I'm sorry, but the owner has￥instructed me not to let you in.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 4756,
+   "budget": 41,
+   "en": "Still holding a grudge about that,￥huh?",
+   "src": "B0F0:4439",
+   "carry": "exact"
+  },
+  {
+   "off": 4797,
+   "budget": 47,
+   "en": "Gillian, it can't be helped.￥Come back later.",
+   "src": "B0F0:4480",
+   "carry": "exact",
+   "long": "Nothing we can do, Gillian. Let's￥come back later."
+  },
+  {
+   "off": 4844,
+   "budget": 15,
+   "en": "Leaving, sir?",
+   "src": "B0F0:4527",
+   "carry": "exact",
+   "long": "Leaving already?"
+  },
+  {
+   "off": 4859,
+   "budget": 51,
+   "en": "Oh, it's that detective. Back again?",
+   "src": "B0F0:4542",
+   "carry": "exact"
+  },
+  {
+   "off": 4910,
+   "budget": 37,
+   "en": "Hello, sir. Back for another visit?",
+   "src": "B0F0:4593",
+   "carry": "exact"
+  },
+  {
+   "off": 4947,
+   "budget": 47,
+   "en": "No more scenes like last time,￥please...",
+   "src": "B0F0:4630",
+   "carry": "rebroken",
+   "long": "Please don't cause another scene￥like last time.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4994,
+   "budget": 5,
+   "en": "Move",
+   "src": "B0F0:4675",
+   "carry": "exact"
+  },
+  {
+   "off": 4999,
+   "budget": 9,
+   "en": "Get in",
+   "src": "B0F0:4680",
+   "carry": "exact",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 5008,
+   "budget": 21,
+   "en": "Do come again...",
+   "src": "B0F0:4689",
+   "carry": "exact"
+  },
+  {
+   "off": 5029,
+   "budget": 71,
+   "en": "Take off the mask, Gillian. People￥will laugh if you wear it outside.",
+   "src": "B0F0:4710",
+   "carry": "exact"
+  },
+  {
+   "off": 5100,
+   "budget": 61,
+   "en": "Oh, right. There. It's off.",
+   "src": "B0F0:4781",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5161,
+   "budget": 19,
+   "en": "Gillian, the mask?",
+   "src": "B0F0:4840",
+   "carry": "exact"
+  },
+  {
+   "off": 5180,
+   "budget": 33,
+   "en": "I know. There, it's off.",
+   "src": "B0F0:4859",
+   "carry": "exact"
+  },
+  {
+   "off": 5213,
+   "budget": 47,
+   "en": "Remember what happened at Joy￥Division.",
+   "src": "B0F0:4892",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5260,
+   "budget": 21,
+   "en": "Thoughtful of you.",
+   "src": "B0F0:4937",
+   "carry": "exact"
+  },
+  {
+   "off": 5281,
+   "budget": 9,
+   "en": "Go in",
+   "src": "B0F0:4958",
+   "carry": "exact",
+   "long": "Go inside"
+  },
+  {
+   "off": 5290,
+   "budget": 19,
+   "en": "...You like it?",
+   "src": "B0F0:4967",
+   "carry": "exact",
+   "long": "You really like this, don't you?"
+  },
+  {
+   "off": 5309,
+   "budget": 53,
+   "en": "Don't reveal your identity again,￥Detective!",
+   "src": "B0F0:4986",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5362,
+   "budget": 39,
+   "en": "Detective,￥keep your position quiet!",
+   "src": "B0F0:5037",
+   "carry": "rebroken",
+   "long": "Keep your identity to yourself,￥Detective.",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 5401,
+   "budget": 21,
+   "en": "One guest coming in!",
+   "src": "B0F0:5078",
+   "carry": "exact"
+  },
+  {
+   "off": 5422,
+   "budget": 91,
+   "en": "Wait! It's costume time. You'll need￥a disguise to enter.",
+   "src": "B0F0:5099",
+   "carry": "candidate_ok",
+   "en_candidate": "Wait! It's costume time. You'll need￥a disguise to enter.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 5513,
+   "budget": 53,
+   "en": "You'll have to put on that mask￥you're carrying.",
+   "src": "B0F0:5190",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5566,
+   "budget": 103,
+   "en": "We only admit guests wearing masks￥from ＠赤Joy Division＠白.",
+   "src": "B0F0:5241",
+   "carry": "exact"
+  },
+  {
+   "off": 5669,
+   "budget": 97,
+   "en": "Please buy a mask at Joy Division.￥We'll be happy to welcome you back.",
+   "src": "B0F0:5344",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5766,
+   "budget": 69,
+   "en": "Wait, detective!￥Trouble or not, wear a￥member's mask...",
+   "src": "B0F0:5439",
+   "carry": "rebroken",
+   "long": "Wait, Detective! Sorry, but you￥still need to wear a member's mask.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5835,
+   "budget": 53,
+   "en": "Please put on the mask you brought.",
+   "src": "B0F0:5506",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5888,
+   "budget": 75,
+   "en": "No! You'll have to buy a mask from￥Joy Division first.",
+   "src": "B0F0:5557",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5963,
+   "budget": 73,
+   "en": "No! You'll have to wear a Joy￥Division mask.",
+   "src": "B0F0:5630",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6036,
+   "budget": 5,
+   "en": "Look",
+   "src": "B0F0:5701",
+   "carry": "exact"
+  },
+  {
+   "off": 6041,
+   "budget": 9,
+   "en": "Barker",
+   "src": "B0F0:5706",
+   "carry": "exact"
+  },
+  {
+   "off": 6050,
+   "budget": 29,
+   "en": "He wears a werewolf mask.",
+   "src": "B0F0:5715",
+   "carry": "exact",
+   "long": "He's wearing a werewolf mask."
+  },
+  {
+   "off": 6079,
+   "budget": 29,
+   "en": "It's like a film studio.",
+   "src": "B0F0:5744",
+   "carry": "exact"
+  },
+  {
+   "off": 6108,
+   "budget": 47,
+   "en": "I can't see his face, but he's quite￥short.",
+   "src": "B0F0:5773",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6155,
+   "budget": 85,
+   "en": "This sort of thing is fine.￥Faces hidden, you'd never know￥if a friend went in.",
+   "src": "B0F0:5818",
+   "carry": "rebroken",
+   "long": "I like this. With everyone's faces￥hidden, I wouldn't even recognize￥someone I knew.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6240,
+   "budget": 9,
+   "en": "Poster",
+   "src": "B0F0:5901",
+   "carry": "exact"
+  },
+  {
+   "off": 6249,
+   "budget": 57,
+   "en": "\"Isabella Velvet Dance Show!\"",
+   "src": "B0F0:5910",
+   "carry": "candidate_ok",
+   "en_candidate": "\"Isabella Velvet Dance Show!\"",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 6306,
+   "budget": 67,
+   "en": "It's ＠赤Isabella Velvet＠白, the famous￥actress!",
+   "src": "B0F0:5965",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6373,
+   "budget": 71,
+   "en": "A poster for the \"Isabella Velvet￥Dance Show.\"",
+   "src": "B0F0:6030",
+   "carry": "candidate_ok",
+   "en_candidate": "A poster for the \"Isabella Velvet￥Dance Show.\"",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 6444,
+   "budget": 9,
+   "en": "Plate",
+   "src": "B0F0:6099",
+   "carry": "exact"
+  },
+  {
+   "off": 6453,
+   "budget": 71,
+   "en": "\"Costume Time Now.\" Looks like￥costumes are required.",
+   "src": "B0F0:6108",
+   "carry": "candidate_ok",
+   "en_candidate": "\"Costume Time Now.\" Looks like￥costumes are required.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 6524,
+   "budget": 37,
+   "en": "The costume-time sign is up.",
+   "src": "B0F0:6179",
+   "carry": "exact"
+  },
+  {
+   "off": 6561,
+   "budget": 7,
+   "en": "Around",
+   "src": "B0F0:6216",
+   "carry": "exact"
+  },
+  {
+   "off": 6568,
+   "budget": 41,
+   "en": "The liveliest quarter in Neo Kobe.",
+   "src": "B0F0:6223",
+   "carry": "exact",
+   "long": "This is Neo Kobe's busiest￥entertainment district."
+  },
+  {
+   "off": 6609,
+   "budget": 69,
+   "en": "What a lively place. The doormen are￥fighting over customers.",
+   "src": "B0F0:6264",
+   "carry": "exact"
+  },
+  {
+   "off": 6678,
+   "budget": 7,
+   "en": "Check",
+   "src": "B0F0:6333",
+   "carry": "exact",
+   "long": "Investigate"
+  },
+  {
+   "off": 6685,
+   "budget": 29,
+   "en": "Hey, what are you doing!",
+   "src": "B0F0:6340",
+   "carry": "exact",
+   "long": "What do you think you're doing?!"
+  },
+  {
+   "off": 6714,
+   "budget": 31,
+   "en": "That's too much, detective.",
+   "src": "B0F0:6369",
+   "carry": "exact",
+   "long": "Being a detective doesn't give you￥the right to do that."
+  },
+  {
+   "off": 6745,
+   "budget": 29,
+   "en": "What have I done?",
+   "src": "B0F0:6400",
+   "carry": "exact"
+  },
+  {
+   "off": 6774,
+   "budget": 29,
+   "en": "Are you out of your mind?",
+   "src": "B0F0:6429",
+   "carry": "exact"
+  },
+  {
+   "off": 6803,
+   "budget": 29,
+   "en": "Hey! Stop that!",
+   "src": "B0F0:6458",
+   "carry": "exact"
+  },
+  {
+   "off": 6832,
+   "budget": 53,
+   "en": "It's an elaborate mask. It won't￥come off easily.",
+   "src": "B0F0:6487",
+   "carry": "exact"
+  },
+  {
+   "off": 6885,
+   "budget": 55,
+   "en": "A proper mask, with appliances￥and gimmicks.",
+   "src": "B0F0:6540",
+   "carry": "exact",
+   "long": "A professional mask with prosthetics￥and mechanical effects."
+  },
+  {
+   "off": 6940,
+   "budget": 33,
+   "en": "A cut above the one I bought.",
+   "src": "B0F0:6595",
+   "carry": "exact"
+  },
+  {
+   "off": 6973,
+   "budget": 31,
+   "en": "An original, for trade use.",
+   "src": "B0F0:6628",
+   "carry": "exact",
+   "long": "It's a custom mask for professional￥use."
+  },
+  {
+   "off": 7004,
+   "budget": 79,
+   "en": "A 200-degree holographic poster of￥Isabella Velvet. I'd like one.",
+   "src": "B0F0:6659",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7083,
+   "budget": 53,
+   "en": "Look from above and you can see her￥cleavage perfectly.",
+   "src": "B0F0:6736",
+   "carry": "candidate_edit",
+   "en_candidate": "Look, from above you see￥her cleavage.",
+   "sim": 0.91,
+   "note": "re-adapted 2026-09-30: new PS1 long + ばっちり"
+  },
+  {
+   "off": 7136,
+   "budget": 47,
+   "en": "Oh, you're right! I can see it!￥They're huge.",
+   "src": "B0F0:6779",
+   "carry": "candidate_edit",
+   "en_candidate": "Oh, you're right! I can see it!￥They're huge.",
+   "sim": 0.89,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 7183,
+   "budget": 93,
+   "en": "'At make time, guests must also￥wear make-up.￥Thank you for understanding.",
+   "src": "B0F0:6832",
+   "carry": "rebroken",
+   "long": "\"During costume hours, all guests￥are required to wear a disguise.￥Thank you for your cooperation.\"",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 7276,
+   "budget": 49,
+   "en": "It goes on, \"Ask our staff for￥details.\"",
+   "src": "B0F0:6921",
+   "carry": "exact"
+  },
+  {
+   "off": 7325,
+   "budget": 41,
+   "en": "It lists the rules for costume￥hours.",
+   "src": "B0F0:6970",
+   "carry": "exact"
+  },
+  {
+   "off": 7366,
+   "budget": 51,
+   "en": "Packed so close, no telling￥where a shop ends.",
+   "src": "B0F0:7011",
+   "carry": "rebroken",
+   "long": "The shops are so close together,￥it's hard to tell where one ends and￥the next begins.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7417,
+   "budget": 39,
+   "en": "Adult clubs line both sides of the￥street.",
+   "src": "B0F0:7060",
+   "carry": "candidate_edit",
+   "en_candidate": "Adult shops line both sides of the￥road.",
+   "sim": 0.9,
+   "note": "re-adapted 2026-09-30: new PS1 long"
+  },
+  {
+   "off": 7456,
+   "budget": 51,
+   "en": "The other shops are dull.￥And they fleece you...",
+   "src": "B0F0:7103",
+   "carry": "exact",
+   "long": "The other places are boring,￥honestly. And they overcharge."
+  },
+  {
+   "off": 7507,
+   "budget": 53,
+   "en": "We have something the others don't.",
+   "src": "B0F0:7154",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7560,
+   "budget": 17,
+   "en": "Illegal trade?",
+   "src": "B0F0:7205",
+   "carry": "exact",
+   "long": "Illegal business?"
+  },
+  {
+   "off": 7577,
+   "budget": 37,
+   "en": "We just skip official￥channels.",
+   "src": "B0F0:7222",
+   "carry": "exact",
+   "long": "We just don't use the usual supply￥channels."
+  },
+  {
+   "off": 7614,
+   "budget": 19,
+   "en": "That is illegal.",
+   "src": "B0F0:7259",
+   "carry": "exact",
+   "long": "That's what makes it illegal."
+  },
+  {
+   "off": 7633,
+   "budget": 5,
+   "en": "Ask",
+   "src": "B0F0:7278",
+   "carry": "exact"
+  },
+  {
+   "off": 7638,
+   "budget": 13,
+   "en": "About Gibson",
+   "src": "B0F0:7283",
+   "carry": "exact"
+  },
+  {
+   "off": 7651,
+   "budget": 17,
+   "en": "Who do you mean?",
+   "src": "B0F0:7296",
+   "carry": "exact"
+  },
+  {
+   "off": 7668,
+   "budget": 41,
+   "en": "I'm not out here every day.",
+   "src": "B0F0:7313",
+   "carry": "exact"
+  },
+  {
+   "off": 7709,
+   "budget": 35,
+   "en": "Have you asked the staff inside?",
+   "src": "B0F0:7354",
+   "carry": "exact"
+  },
+  {
+   "off": 7744,
+   "budget": 35,
+   "en": "The staff inside might know.",
+   "src": "B0F0:7389",
+   "carry": "exact"
+  },
+  {
+   "off": 7779,
+   "budget": 33,
+   "en": "Ask all you like, I don't know.",
+   "src": "B0F0:7424",
+   "carry": "exact",
+   "long": "You can keep asking, but I don't￥know."
+  },
+  {
+   "off": 7812,
+   "budget": 11,
+   "en": "Whale food",
+   "src": "B0F0:7457",
+   "carry": "exact",
+   "long": "Whale restaurant"
+  },
+  {
+   "off": 7823,
+   "budget": 29,
+   "en": "Whale?￥What do you mean?",
+   "src": "B0F0:7468",
+   "carry": "exact",
+   "long": "Whale meat? What are you talking￥about?"
+  },
+  {
+   "off": 7852,
+   "budget": 29,
+   "en": "I don't know what you mean.",
+   "src": "B0F0:7497",
+   "carry": "exact"
+  },
+  {
+   "off": 7881,
+   "budget": 47,
+   "en": "Whale dishes...￥A tale from long ago?",
+   "src": "B0F0:7526",
+   "carry": "exact",
+   "long": "Whale meat? That was a long time￥ago, wasn't it?"
+  },
+  {
+   "off": 7928,
+   "budget": 61,
+   "en": "(Playing dumb. I just ate it in￥there.)",
+   "src": "B0F0:7573",
+   "carry": "exact"
+  },
+  {
+   "off": 7989,
+   "budget": 55,
+   "en": "How was it? Our whale meat is￥exceptional, isn't it?",
+   "src": "B0F0:7634",
+   "carry": "exact"
+  },
+  {
+   "off": 8044,
+   "budget": 55,
+   "en": "Freshest at the week's start.￥Do come again...",
+   "src": "B0F0:7689",
+   "carry": "exact",
+   "long": "It's freshest at the start of the￥week. Do come again."
+  },
+  {
+   "off": 8099,
+   "budget": 39,
+   "en": "Did you have plenty to eat?",
+   "src": "B0F0:7744",
+   "carry": "candidate_ok",
+   "en_candidate": "Did you have plenty to eat?",
+   "sim": 0.89
+  },
+  {
+   "off": 8138,
+   "budget": 31,
+   "en": "Did you try it?",
+   "src": "B0F0:7779",
+   "carry": "exact"
+  },
+  {
+   "off": 8169,
+   "budget": 25,
+   "en": "Do try it next time.",
+   "src": "B0F0:7810",
+   "carry": "exact",
+   "long": "You must try it next time."
+  },
+  {
+   "off": 8194,
+   "budget": 55,
+   "en": "I shouldn't say it loud, but￥our whale is the finest.",
+   "src": "B0F0:7835",
+   "carry": "exact",
+   "long": "Keep it quiet, but our whale meat is￥the best there is."
+  },
+  {
+   "off": 8249,
+   "budget": 51,
+   "en": "Real whale, poached from￥home seas and Antarctic.",
+   "src": "B0F0:7890",
+   "carry": "exact",
+   "long": "Real whales, poached from waters￥around Japan and as far away as the￥Antarctic Ocean."
+  },
+  {
+   "off": 8300,
+   "budget": 35,
+   "en": "Natural, with no gene splicing.",
+   "src": "B0F0:7941",
+   "carry": "exact",
+   "long": "Wild-caught. No genetic engineering."
+  },
+  {
+   "off": 8335,
+   "budget": 29,
+   "en": "Please come in and try some.",
+   "src": "B0F0:7976",
+   "carry": "exact"
+  },
+  {
+   "off": 8364,
+   "budget": 15,
+   "en": "Outer Heaven",
+   "src": "B0F0:8005",
+   "carry": "exact"
+  },
+  {
+   "off": 8379,
+   "budget": 37,
+   "en": "Well? Quite a place, isn't it?",
+   "src": "B0F0:8020",
+   "carry": "exact"
+  },
+  {
+   "off": 8416,
+   "budget": 53,
+   "en": "Isabella dances until next week.￥Do come again.",
+   "src": "B0F0:8057",
+   "carry": "exact",
+   "long": "Isabella will be dancing through￥next week. Come again."
+  },
+  {
+   "off": 8469,
+   "budget": 55,
+   "en": "Yes, this is Outer Heaven.",
+   "src": "B0F0:8110",
+   "carry": "exact"
+  },
+  {
+   "off": 8524,
+   "budget": 75,
+   "en": "As you can see, our special-effects￥costumes are the main attraction.",
+   "src": "B0F0:8165",
+   "carry": "exact"
+  },
+  {
+   "off": 8599,
+   "budget": 17,
+   "en": "Joy Division",
+   "src": "B0F0:8240",
+   "carry": "exact"
+  },
+  {
+   "off": 8616,
+   "budget": 9,
+   "en": "The shop",
+   "src": "B0F0:8257",
+   "carry": "exact",
+   "long": "About the store"
+  },
+  {
+   "off": 8625,
+   "budget": 49,
+   "en": "A black market, they say,￥but reliable.",
+   "src": "B0F0:8266",
+   "carry": "rebroken",
+   "long": "People call it a black market, but￥they have a reliable supply network.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8674,
+   "budget": 81,
+   "en": "Buying a mask at Joy Division is a￥kind of membership system.",
+   "src": "B0F0:8313",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 8755,
+   "budget": 53,
+   "en": "We used to sell masks here until￥recently.",
+   "src": "B0F0:8390",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8808,
+   "budget": 67,
+   "en": "Now they're only sold at Joy￥Division. It's nearby.",
+   "src": "B0F0:8441",
+   "carry": "candidate_ok",
+   "en_candidate": "Now they're only sold at Joy￥Division. It's nearby.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 8875,
+   "budget": 9,
+   "en": "Location",
+   "src": "B0F0:8504",
+   "carry": "exact",
+   "long": "Store location"
+  },
+  {
+   "off": 8884,
+   "budget": 31,
+   "en": "I don't know any such place...",
+   "src": "B0F0:8513",
+   "carry": "exact",
+   "long": "I've never heard of that place."
+  },
+  {
+   "off": 8915,
+   "budget": 65,
+   "en": "You've seen Joy Division's￥commercials, haven't you?",
+   "src": "B0F0:8544",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8980,
+   "budget": 65,
+   "en": "＠黄I'm sure they show the videophone￥number.",
+   "src": "B0F0:8607",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9045,
+   "budget": 47,
+   "en": "Why not call the shop and ask?",
+   "src": "B0F0:8670",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9092,
+   "budget": 29,
+   "en": "I've been there.",
+   "src": "B0F0:8715",
+   "carry": "exact"
+  },
+  {
+   "off": 9121,
+   "budget": 21,
+   "en": "Then that's simple.",
+   "src": "B0F0:8744",
+   "carry": "exact",
+   "long": "That makes things easier."
+  },
+  {
+   "off": 9142,
+   "budget": 25,
+   "en": "Yes, I already know.",
+   "src": "B0F0:8765",
+   "carry": "exact"
+  },
+  {
+   "off": 9167,
+   "budget": 59,
+   "en": "I called them, but I haven't asked￥where they are yet.",
+   "src": "B0F0:8790",
+   "carry": "exact"
+  },
+  {
+   "off": 9226,
+   "budget": 65,
+   "en": "You'll see their commercials in busy￥areas like Altamira.",
+   "src": "B0F0:8849",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9291,
+   "budget": 51,
+   "en": "(Playing dumb...￥ after talking about the shop.)",
+   "src": "B0F0:8912",
+   "carry": "exact",
+   "long": "(Playing dumb. He was just talking￥about the shop.)"
+  },
+  {
+   "off": 9342,
+   "budget": 97,
+   "en": "We have an exclusive deal with Joy￥Division. You must buy one of their￥masks",
+   "src": "B0F0:8963",
+   "carry": "candidate_ok",
+   "en_candidate": "We have an exclusive deal with Joy￥Division. You must buy one of their￥masks",
+   "sim": 0.98
+  },
+  {
+   "off": 9439,
+   "budget": 67,
+   "en": "to get in here. It maintains the￥club's standards.",
+   "src": "B0F0:9052",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 9506,
+   "budget": 47,
+   "en": "But lately the fakes are a nuisance.",
+   "src": "B0F0:9121",
+   "carry": "rebroken",
+   "long": "But we've had trouble with￥counterfeits lately.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9553,
+   "budget": 9,
+   "en": "Cosplay",
+   "src": "B0F0:9166",
+   "carry": "exact"
+  },
+  {
+   "off": 9562,
+   "budget": 59,
+   "en": "Normally, only our staff wear the￥special makeup.",
+   "src": "B0F0:9175",
+   "carry": "exact"
+  },
+  {
+   "off": 9621,
+   "budget": 59,
+   "en": "During costume hours, guests dress￥up too.",
+   "src": "B0F0:9234",
+   "carry": "exact"
+  },
+  {
+   "off": 9680,
+   "budget": 77,
+   "en": "Our staff's makeup is done by the￥special-effects studio Hobibi Club.",
+   "src": "B0F0:9293",
+   "carry": "exact"
+  },
+  {
+   "off": 9757,
+   "budget": 49,
+   "en": "To make dressing up easy for our￥guests,",
+   "src": "B0F0:9370",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9806,
+   "budget": 57,
+   "en": "we ask for the special mask￥that proves membership.",
+   "src": "B0F0:9417",
+   "carry": "rebroken",
+   "long": "we ask them to use special masks￥that also prove membership.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9863,
+   "budget": 57,
+   "en": "We ask guests to use Joy Division￥masks.",
+   "src": "B0F0:9472",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9920,
+   "budget": 55,
+   "en": "It's a kind of costume party.",
+   "src": "B0F0:9527",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9975,
+   "budget": 49,
+   "en": "It's Halloween here all year round.",
+   "src": "B0F0:9580",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10024,
+   "budget": 31,
+   "en": "A parade of Konami folk.",
+   "src": "B0F0:9627",
+   "carry": "exact",
+   "long": "A whole parade of Konami characters."
+  },
+  {
+   "off": 10055,
+   "budget": 57,
+   "en": "Today's costume event has a special￥Konami theme.",
+   "src": "B0F0:9658",
+   "carry": "exact"
+  },
+  {
+   "off": 10112,
+   "budget": 9,
+   "en": "Isabella",
+   "src": "B0F0:9715",
+   "carry": "exact"
+  },
+  {
+   "off": 10121,
+   "budget": 89,
+   "en": "The real Isabella. Seeing a star￥like her in person is a￥once-in-a-lifetime chance.",
+   "src": "B0F0:9724",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10210,
+   "budget": 99,
+   "en": "She performs a dance every hour. A￥sexy show, with no tricks.",
+   "src": "B0F0:9811",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10309,
+   "budget": 55,
+   "en": "She gave me her videophone number.",
+   "src": "B0F0:9908",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10364,
+   "budget": 41,
+   "en": "Really? Well, wonders never cease.",
+   "src": "B0F0:9961",
+   "carry": "exact"
+  },
+  {
+   "off": 10405,
+   "budget": 5,
+   "en": "Item",
+   "src": "B0F0:10002",
+   "carry": "exact"
+  },
+  {
+   "off": 10410,
+   "budget": 7,
+   "en": "Lookω",
+   "src": "B0F0:5701",
+   "carry": "candidate_edit",
+   "en_candidate": "Look",
+   "sim": 0.8,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label"
+  },
+  {
+   "off": 10417,
+   "budget": 9,
+   "en": "Investigateω",
+   "src": "B0F0:6333",
+   "carry": "candidate_edit",
+   "en_candidate": "Check",
+   "sim": 0.86,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label; re-adapted 2026-09-30: PS1 label (long 'Investigate') + ω kept after it"
+  },
+  {
+   "off": 10426,
+   "budget": 7,
+   "en": "Show",
+   "src": "B0F0:10007",
+   "carry": "exact"
+  },
+  {
+   "off": 10433,
+   "budget": 15,
+   "en": "JUNKER ID",
+   "src": "B0F0:10014",
+   "carry": "exact"
+  },
+  {
+   "off": 10448,
+   "budget": 57,
+   "en": "That card here...￥will only get in your way.",
+   "src": "B0F0:10029",
+   "carry": "exact",
+   "long": "Showing that card here will only￥hinder your investigation."
+  },
+  {
+   "off": 10505,
+   "budget": 45,
+   "en": "Don't show it inside again...￥detective.",
+   "src": "B0F0:10086",
+   "carry": "rebroken",
+   "long": "Please don't show it inside again,￥Detective.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10550,
+   "budget": 43,
+   "en": "Has something happened?",
+   "src": "B0F0:10129",
+   "carry": "exact"
+  },
+  {
+   "off": 10593,
+   "budget": 37,
+   "en": "Oh! You're a detective?",
+   "src": "B0F0:10172",
+   "carry": "exact"
+  },
+  {
+   "off": 10630,
+   "budget": 7,
+   "en": "Funds",
+   "src": "B0F0:10209",
+   "carry": "exact"
+  },
+  {
+   "off": 10637,
+   "budget": 41,
+   "en": "We don't accept tips. It's the￥rules...",
+   "src": "B0F0:10216",
+   "carry": "exact",
+   "long": "We don't accept tips. It's against￥the rules."
+  },
+  {
+   "off": 10678,
+   "budget": 31,
+   "en": "You can pay the bill later.",
+   "src": "B0F0:10257",
+   "carry": "exact"
+  },
+  {
+   "off": 10709,
+   "budget": 5,
+   "en": "Drop",
+   "src": "B0F0:10288",
+   "carry": "exact",
+   "long": "Candy"
+  },
+  {
+   "off": 10714,
+   "budget": 37,
+   "en": "No thanks. I don't like sweets.",
+   "src": "B0F0:10293",
+   "carry": "exact"
+  },
+  {
+   "off": 10751,
+   "budget": 7,
+   "en": "Proof",
+   "src": "B0F0:10330",
+   "carry": "exact",
+   "long": "Evidence"
+  },
+  {
+   "off": 10758,
+   "budget": 7,
+   "en": "Paper",
+   "src": "B0F0:10337",
+   "carry": "exact",
+   "long": "Scrap of paper"
+  },
+  {
+   "off": 10765,
+   "budget": 5,
+   "en": "Key",
+   "src": "B0F0:10344",
+   "carry": "exact"
+  },
+  {
+   "off": 10770,
+   "budget": 3,
+   "en": "Pc",
+   "src": "B0F0:10349",
+   "carry": "exact",
+   "long": "Chess piece"
+  },
+  {
+   "off": 10773,
+   "budget": 9,
+   "en": "Disk",
+   "src": "B0F0:10352",
+   "carry": "exact"
+  },
+  {
+   "off": 10782,
+   "budget": 11,
+   "en": "Sunblock",
+   "src": "B0F0:10361",
+   "carry": "exact"
+  },
+  {
+   "off": 10793,
+   "budget": 7,
+   "en": "Mask",
+   "src": "B0F0:10372",
+   "carry": "exact"
+  },
+  {
+   "off": 10800,
+   "budget": 43,
+   "en": "Well? You didn't stand out￥in there?",
+   "src": "B0F0:10379",
+   "carry": "exact",
+   "long": "See? You fitted right in inside,￥didn't you?"
+  },
+  {
+   "off": 10843,
+   "budget": 67,
+   "en": "A Joy Division mask. Very good. Come￥in.",
+   "src": "B0F0:10422",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10910,
+   "budget": 27,
+   "en": "Put it on before entering.",
+   "src": "B0F0:10487",
+   "carry": "exact"
+  },
+  {
+   "off": 10937,
+   "budget": 5,
+   "en": "Pic",
+   "src": "B0F0:10514",
+   "carry": "exact",
+   "long": "Photo"
+  },
+  {
+   "off": 10942,
+   "budget": 15,
+   "en": "Gibson's photo",
+   "src": "B0F0:10519",
+   "carry": "exact"
+  },
+  {
+   "off": 10957,
+   "budget": 13,
+   "en": "......",
+   "src": "B0F0:10534",
+   "carry": "exact"
+  },
+  {
+   "off": 10970,
+   "budget": 27,
+   "en": "What about this man?",
+   "src": "B0F0:10547",
+   "carry": "exact"
+  },
+  {
+   "off": 10997,
+   "budget": 17,
+   "en": "Don't know him.",
+   "src": "B0F0:10574",
+   "carry": "exact",
+   "long": "I don't know him."
+  },
+  {
+   "off": 11014,
+   "budget": 17,
+   "en": "Montage photo",
+   "src": "B0F0:10591",
+   "carry": "exact"
+  },
+  {
+   "off": 11031,
+   "budget": 15,
+   "en": "Hmm.",
+   "src": "B0F0:10608",
+   "carry": "exact"
+  },
+  {
+   "off": 11046,
+   "budget": 23,
+   "en": "I've never seen him.",
+   "src": "B0F0:10623",
+   "carry": "exact"
+  },
+  {
+   "off": 11069,
+   "budget": 5,
+   "en": "Use",
+   "src": "B0F0:10646",
+   "carry": "exact"
+  },
+  {
+   "off": 11074,
+   "budget": 25,
+   "en": "You're wearing it now.",
+   "src": "B0F0:10651",
+   "carry": "exact",
+   "long": "You're already wearing it."
+  },
+  {
+   "off": 11099,
+   "budget": 37,
+   "en": "Right, on with the moai mask.",
+   "src": "B0F0:10676",
+   "carry": "candidate_ok",
+   "en_candidate": "Right, on with the moai mask.",
+   "sim": 0.94,
+   "note": "differs only in punctuation/spacing",
+   "long": "All right, I'll put on the Moai￥mask."
+  },
+  {
+   "off": 11136,
+   "budget": 37,
+   "en": "Right, on with the mask of 'him'.",
+   "src": "B0F0:10709",
+   "carry": "exact",
+   "long": "All right, I'll put on the Koitsu￥mask."
+  },
+  {
+   "off": 11173,
+   "budget": 29,
+   "en": "It suits you, Detective.",
+   "src": "B0F0:10746",
+   "carry": "exact"
+  },
+  {
+   "off": 11202,
+   "budget": 29,
+   "en": "It suits you, sir.",
+   "src": "B0F0:10775",
+   "carry": "exact"
+  },
+  {
+   "off": 11231,
+   "budget": 15,
+   "en": "Use Metal Gear",
+   "src": "B0F0:10804",
+   "carry": "exact"
+  },
+  {
+   "off": 11246,
+   "budget": 37,
+   "en": "Steady on.￥...We met her just now?",
+   "src": "B0F0:10819",
+   "carry": "exact",
+   "long": "Calm down. We just met her,￥remember?"
+  },
+  {
+   "off": 11283,
+   "budget": 99,
+   "en": "＠赤Isabella Velvet＠白? The twenty-first￥century's Marilyn Monroe? That￥Isabella? Wow!",
+   "src": "B0F0:10856",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11382,
+   "budget": 73,
+   "en": "I can't believe we'll meet her. She￥rarely appears in public.",
+   "src": "B0F0:10953",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11455,
+   "budget": 41,
+   "en": "I don't know what you mean.",
+   "src": "B0F0:11024",
+   "carry": "exact"
+  },
+  {
+   "off": 11496,
+   "budget": 25,
+   "en": "Part of your inquiry?",
+   "src": "B0F0:11065",
+   "carry": "exact",
+   "long": "Is that part of your investigation?"
+  },
+  {
+   "off": 11521,
+   "budget": 19,
+   "en": "Inquiry, is it?",
+   "src": "B0F0:11090",
+   "carry": "exact",
+   "long": "Is that part of the investigation￥too?"
+  },
+  {
+   "off": 11540,
+   "budget": 33,
+   "en": "What about it?",
+   "src": "B0F0:11109",
+   "carry": "exact"
+  },
+  {
+   "off": 11573,
+   "budget": 17,
+   "en": "What's this?",
+   "src": "B0F0:11142",
+   "carry": "exact"
+  },
+  {
+   "off": 11590,
+   "budget": 31,
+   "en": "We've been thrown out.",
+   "src": "B0F0:11159",
+   "carry": "exact"
+  },
+  {
+   "off": 11621,
+   "budget": 65,
+   "en": "Sorry, friend.￥Ours is a shop where guests relax in￥peace.",
+   "src": "B0F0:11190",
+   "carry": "rebroken",
+   "long": "Sorry. Our customers come here to￥relax and enjoy themselves.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11686,
+   "budget": 71,
+   "en": "Nothing we can do. Let's wait until￥things settle down.",
+   "src": "B0F0:11253",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11757,
+   "budget": 45,
+   "en": "Ah, I went too far.￥Best come back later.",
+   "src": "B0F0:11322",
+   "carry": "exact",
+   "long": "Yes, I got carried away. We'll come￥back later."
+  },
+  {
+   "off": 11802,
+   "budget": 55,
+   "en": "Yeah... that was careless. I'll take￥the mask off.",
+   "src": "B0F0:11367",
+   "carry": "exact",
+   "long": "You're right. That was careless.￥I'll take off the mask."
+  },
+  {
+   "off": 11857,
+   "budget": 51,
+   "en": "True... that was rash.￥Let's come back later.",
+   "src": "B0F0:11422",
+   "carry": "exact",
+   "long": "You're right. That was careless.￥Let's come back later."
+  },
+  {
+   "off": 11908,
+   "budget": 19,
+   "en": "Come back never!",
+   "src": "B0F0:11473",
+   "carry": "exact",
+   "long": "Come back when hell freezes over!"
+  },
+  {
+   "off": 11927,
+   "budget": 31,
+   "en": "Enough! Get lost!",
+   "src": "B0F0:11492",
+   "carry": "exact"
+  },
+  {
+   "off": 11958,
+   "budget": 33,
+   "en": "What are you doing? Enough!",
+   "src": "B0F0:11523",
+   "carry": "exact",
+   "long": "What are you doing? Knock it off!"
+  },
+  {
+   "off": 11991,
+   "budget": 15,
+   "en": "You can't!!",
+   "src": "B0F0:11556",
+   "carry": "exact",
+   "long": "Absolutely not!"
+  },
+  {
+   "off": 12006,
+   "budget": 75,
+   "en": "The owner told me not to let you in.",
+   "src": "B0F0:11571",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12081,
+   "budget": 31,
+   "en": "This is awkward,￥detective.",
+   "src": "B0F0:11644",
+   "carry": "exact",
+   "long": "You're putting me in a difficult￥position, Detective."
+  },
+  {
+   "off": 12112,
+   "budget": 41,
+   "en": "I can't let you in.",
+   "src": "B0F0:11675",
+   "carry": "exact"
+  },
+  {
+   "off": 12153,
+   "budget": 23,
+   "en": "I'm a JUNKER!",
+   "src": "B0F0:11716",
+   "carry": "exact"
+  },
+  {
+   "off": 12176,
+   "budget": 25,
+   "en": "Do you have a warrant?",
+   "src": "B0F0:11739",
+   "carry": "candidate_ok",
+   "en_candidate": "Do you have a warrant?",
+   "sim": 0.92
+  },
+  {
+   "off": 12201,
+   "budget": 17,
+   "en": "Th-that is...",
+   "src": "B0F0:11764",
+   "carry": "exact"
+  },
+  {
+   "off": 12218,
+   "budget": 53,
+   "en": "Do understand.￥Come again when this has died down.",
+   "src": "B0F0:11781",
+   "carry": "exact",
+   "long": "Please understand. Come back when￥things have settled down."
+  },
+  {
+   "off": 12271,
+   "budget": 69,
+   "en": "You're a JUNKER, Detective. You know￥how it is.",
+   "src": "B0F0:11834",
+   "carry": "exact"
+  },
+  {
+   "off": 12340,
+   "budget": 81,
+   "en": "A Snatcher rumor can destroy a￥business in this city.",
+   "src": "B0F0:11903",
+   "carry": "exact"
+  },
+  {
+   "off": 12421,
+   "budget": 57,
+   "en": "So please leave it for today. Come￥back another time.",
+   "src": "B0F0:11984",
+   "carry": "exact"
+  },
+  {
+   "off": 12478,
+   "budget": 53,
+   "en": "Detective, I'd help you,￥but it isn't my call.",
+   "src": "B0F0:12041",
+   "carry": "rebroken",
+   "long": "I'd like to help your investigation,￥but it's not my decision.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12531,
+   "budget": 51,
+   "en": "I'm sorry, but I can't let you in.",
+   "src": "B0F0:12092",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12582,
+   "budget": 91,
+   "en": "If you take your mask off again,￥it'll upset the other guests. Please￥understand.",
+   "src": "B0F0:12141",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12673,
+   "budget": 5,
+   "en": "Beg",
+   "src": "B0F0:12230",
+   "carry": "exact",
+   "long": "Apologise"
+  },
+  {
+   "off": 12678,
+   "budget": 65,
+   "en": "I'm sorry. I admit I was careless.￥Will you let me in?",
+   "src": "B0F0:12235",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12743,
+   "budget": 41,
+   "en": "I really need to get inside. Please?",
+   "src": "B0F0:12298",
+   "carry": "exact"
+  },
+  {
+   "off": 12784,
+   "budget": 19,
+   "en": "Come on, okay?",
+   "src": "B0F0:12339",
+   "carry": "exact",
+   "long": "Come on. Let me in."
+  },
+  {
+   "off": 12803,
+   "budget": 41,
+   "en": "Even so, I can't right now.",
+   "src": "B0F0:12358",
+   "carry": "exact"
+  },
+  {
+   "off": 12844,
+   "budget": 35,
+   "en": "That guest from before is here...",
+   "src": "B0F0:12399",
+   "carry": "exact",
+   "long": "The guests from earlier are still￥here."
+  },
+  {
+   "off": 12879,
+   "budget": 53,
+   "en": "Not until they've calmed down.",
+   "src": "B0F0:12434",
+   "carry": "candidate_ok",
+   "en_candidate": "Not until they've calmed down.",
+   "sim": 0.92
+  },
+  {
+   "off": 12932,
+   "budget": 29,
+   "en": "Sir, you are persistent...",
+   "src": "B0F0:12485",
+   "carry": "exact",
+   "long": "You're repeating yourself, sir."
+  },
+  {
+   "off": 12961,
+   "budget": 63,
+   "en": "Enough! You just won't give up, will￥you? Stop it!",
+   "src": "B0F0:12514",
+   "carry": "exact"
+  },
+  {
+   "off": 13024,
+   "budget": 45,
+   "en": "Ask as often as you like. No means￥no!",
+   "src": "B0F0:12577",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13069,
+   "budget": 27,
+   "en": "Nothing to say to you!",
+   "src": "B0F0:12620",
+   "carry": "exact",
+   "long": "I've got nothing to say to you!"
+  },
+  {
+   "off": 13096,
+   "budget": 45,
+   "en": "Go home now!￥You trouble the other guests.",
+   "src": "B0F0:12647",
+   "carry": "exact",
+   "long": "Go home! You're bothering the other￥guests."
+  },
+  {
+   "off": 13141,
+   "budget": 21,
+   "en": "...Come another day!",
+   "src": "B0F0:12692",
+   "carry": "exact",
+   "long": "Come back another time!"
+  },
+  {
+   "off": 13162,
+   "budget": 49,
+   "en": "Could you leave it for today, sir?",
+   "src": "B0F0:12713",
+   "carry": "exact"
+  },
+  {
+   "off": 13211,
+   "budget": 41,
+   "en": "I'm sorry, but would you please￥leave?",
+   "src": "B0F0:12762",
+   "carry": "exact"
+  },
+  {
+   "off": 13252,
+   "budget": 73,
+   "en": "This ID confirms all your authority￥as a JUNKER. Keep it safe.",
+   "src": "B0F0:12803",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 13325,
+   "budget": 35,
+   "en": "The money issued to you by JUNKER.",
+   "src": "B0F0:12872",
+   "carry": "exact"
+  },
+  {
+   "off": 13360,
+   "budget": 35,
+   "en": "The candy from Jean's pocket.",
+   "src": "B0F0:12907",
+   "carry": "exact"
+  },
+  {
+   "off": 13395,
+   "budget": 85,
+   "en": "Gibson's memo on where the￥computer data on the Snatcher￥weakness is kept.",
+   "src": "B0F0:12942",
+   "carry": "candidate_ok",
+   "en_candidate": "Gibson's memo on where the￥computer data on the Snatcher￥weakness is kept.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "Gibson's note tells us where to find￥his computer data on the Snatchers'￥weakness."
+  },
+  {
+   "off": 13480,
+   "budget": 49,
+   "en": "What does \"Search the house!\" mean?",
+   "src": "B0F0:13021",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13529,
+   "budget": 33,
+   "en": "The key to Gibson's desk drawer.",
+   "src": "B0F0:13068",
+   "carry": "exact"
+  },
+  {
+   "off": 13562,
+   "budget": 33,
+   "en": "Quite an antique.",
+   "src": "B0F0:13101",
+   "carry": "exact"
+  },
+  {
+   "off": 13595,
+   "budget": 37,
+   "en": "The chess piece Gibson was carrying.",
+   "src": "B0F0:13134",
+   "carry": "exact"
+  },
+  {
+   "off": 13632,
+   "budget": 47,
+   "en": "The chess piece we found in Gibson's￥coat.",
+   "src": "B0F0:13171",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13679,
+   "budget": 47,
+   "en": "The disk with the Snatchers'￥weakness.",
+   "src": "B0F0:13216",
+   "carry": "rebroken",
+   "long": "The disk containing the Snatchers'￥weakness.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13726,
+   "budget": 37,
+   "en": "A computer floppy disk.",
+   "src": "B0F0:13261",
+   "carry": "exact"
+  },
+  {
+   "off": 13763,
+   "budget": 83,
+   "en": "Sunscreen used by the Snatchers, if￥Gibson was right.",
+   "src": "B0F0:13298",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13846,
+   "budget": 41,
+   "en": "And we confirmed it at Joy Division.",
+   "src": "B0F0:13379",
+   "carry": "exact"
+  },
+  {
+   "off": 13887,
+   "budget": 73,
+   "en": "Plain sunblock.￥The seal carries the logo of the￥shop it came from.",
+   "src": "B0F0:13420",
+   "carry": "rebroken",
+   "long": "Ordinary sunscreen. The sticker has￥the logo of the shop that sold it.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13960,
+   "budget": 49,
+   "en": "A costume mask bought at Joy￥Division.",
+   "src": "B0F0:13491",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14009,
+   "budget": 25,
+   "en": "A Moai mask.",
+   "src": "B0F0:13538",
+   "carry": "candidate_ok",
+   "en_candidate": "A Moai mask.",
+   "sim": 0.91,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 14034,
+   "budget": 25,
+   "en": "A Koitsu mask.",
+   "src": "B0F0:13559",
+   "carry": "exact"
+  },
+  {
+   "off": 14059,
+   "budget": 41,
+   "en": "A photo of Jean Jack Gibson.",
+   "src": "B0F0:13584",
+   "carry": "exact"
+  },
+  {
+   "off": 14100,
+   "budget": 49,
+   "en": "A montage built from a￥witness account.",
+   "src": "B0F0:13625",
+   "carry": "rebroken",
+   "long": "A composite portrait based on a￥witness's description.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14149,
+   "budget": 67,
+   "en": "Its built-in chip stores all your￥data, Gillian.",
+   "src": "B0F0:13672",
+   "carry": "exact"
+  },
+  {
+   "off": 14216,
+   "budget": 51,
+   "en": "Case expenses are covered￥as work requires.",
+   "src": "B0F0:13739",
+   "carry": "rebroken",
+   "long": "In principle, there's no limit on￥expenses necessary for the￥investigation.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14267,
+   "budget": 47,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "src": "B0F0:13788",
+   "carry": "rebroken",
+   "long": "The candy Jean gave to the children￥at the orphanage.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14314,
+   "budget": 25,
+   "en": "The note Jean left.",
+   "src": "B0F0:13833",
+   "carry": "exact"
+  },
+  {
+   "off": 14339,
+   "budget": 57,
+   "en": "Plain paper. It's certainly Jean's￥handwriting.",
+   "src": "B0F0:13858",
+   "carry": "rebroken",
+   "long": "It's on ordinary paper. Definitely￥Jean's handwriting.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14396,
+   "budget": 35,
+   "en": "Key to Gibson's squad desk.",
+   "src": "B0F0:13913",
+   "carry": "exact",
+   "long": "The key to Gibson's desk in the￥Squad room."
+  },
+  {
+   "off": 14431,
+   "budget": 81,
+   "en": "What's this key for? Does anyone￥still use keys like this?",
+   "src": "B020:16121",
+   "carry": "rebroken",
+   "note": "from B020; Saturn jp has 1 more break"
+  },
+  {
+   "off": 14512,
+   "budget": 57,
+   "en": "A wooden chess piece. The queen.",
+   "src": "B0F0:14031",
+   "carry": "exact"
+  },
+  {
+   "off": 14569,
+   "budget": 39,
+   "en": "A carved wooden chess piece.",
+   "src": "B0F0:14088",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14608,
+   "budget": 47,
+   "en": "The disk holding Gibson's￥case data.",
+   "src": "B0F0:14125",
+   "carry": "rebroken",
+   "long": "The disk containing Gibson's￥investigation data.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14655,
+   "budget": 37,
+   "en": "A five-inch floppy disk.",
+   "src": "B0F0:14170",
+   "carry": "exact"
+  },
+  {
+   "off": 14692,
+   "budget": 67,
+   "en": "The bottle says, \"JOY DIVISION. The￥store that has everything.\"",
+   "src": "B0F0:14207",
+   "carry": "exact"
+  },
+  {
+   "off": 14759,
+   "budget": 51,
+   "en": "It certainly looks like Joy Division￥sold it.",
+   "src": "B0F0:14274",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14810,
+   "budget": 55,
+   "en": "Tracing where it was bought￥may give us a lead.",
+   "src": "B0F0:14323",
+   "carry": "rebroken",
+   "long": "Finding out where it was bought￥might give us a lead.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14865,
+   "budget": 65,
+   "en": "A fine special-effects mask by￥Rick Bakery, all the rage now.",
+   "src": "B0F0:14376",
+   "carry": "rebroken",
+   "long": "A detailed special-effects mask by￥Rick Bakery. They're very popular￥now.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14930,
+   "budget": 41,
+   "en": "A 2D composite photo by Gaudi.",
+   "src": "B0F0:14439",
+   "carry": "exact",
+   "long": "A computer-generated 2D portrait￥made by Gaudi."
+  },
+  {
+   "off": 14971,
+   "budget": 75,
+   "en": "Gibson took it from his chessboard￥at home. What could it mean?",
+   "src": "B0F0:14480",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15046,
+   "budget": 37,
+   "en": "Jean liked riddles.",
+   "src": "B0F0:14553",
+   "carry": "exact"
+  },
+  {
+   "off": 15083,
+   "budget": 31,
+   "en": "Is it hinting at something?",
+   "src": "B0F0:14590",
+   "carry": "exact",
+   "long": "Could it be a clue to something?"
+  },
+  {
+   "off": 15114,
+   "budget": 35,
+   "en": "He really does look like Ivan.",
+   "src": "B0F0:14621",
+   "carry": "exact"
+  },
+  {
+   "off": 15149,
+   "budget": 55,
+   "en": "We can hardly blame Alphaville's￥matching system.",
+   "src": "B0F0:14656",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15204,
+   "budget": 49,
+   "en": "House? Come to think...￥I've no home either.",
+   "src": "B0F0:14709",
+   "carry": "rebroken",
+   "long": "Home. Come to think of it, I don't￥have a home to return to.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15253,
+   "budget": 65,
+   "en": "Cheer up. You'll live with Jamie￥again someday.",
+   "src": "B0F0:14756",
+   "carry": "candidate_ok",
+   "en_candidate": "Cheer up. You'll live with Jamie￥again someday.",
+   "sim": 0.95
+  },
+  {
+   "off": 15318,
+   "budget": 55,
+   "en": "A family life might not suit a￥JUNKER anyway.",
+   "src": "B0F0:14823",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15373,
+   "budget": 29,
+   "en": "Still some left, surely?",
+   "src": "B0F0:14876",
+   "carry": "exact",
+   "long": "We've still got some money, right?"
+  },
+  {
+   "off": 15402,
+   "budget": 63,
+   "en": "It dropped a good deal with your￥eating and drinking.",
+   "src": "B0F0:14905",
+   "carry": "rebroken",
+   "long": "You've spent quite a lot eating and￥drinking here, Gillian.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15465,
+   "budget": 39,
+   "en": "Did I eat that much? Wasn't it you?",
+   "src": "B0F0:14966",
+   "carry": "exact"
+  },
+  {
+   "off": 15504,
+   "budget": 33,
+   "en": "Hmph! I can't eat anything.",
+   "src": "B0F0:15005",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15537,
+   "budget": 41,
+   "en": "Learn to take the blame￥sometimes.",
+   "src": "B0F0:15036",
+   "carry": "exact",
+   "long": "Learn to take the blame for your￥partner once in a while."
+  },
+  {
+   "off": 15578,
+   "budget": 47,
+   "en": "My job is to report my partner's￥mistakes.",
+   "src": "B0F0:15077",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15625,
+   "budget": 65,
+   "en": "Are you sending this conversation to￥the Chief too?",
+   "src": "B0F0:15122",
+   "carry": "rebroken"
+  },
+  {
+   "off": 15690,
+   "budget": 21,
+   "en": "Who knows?",
+   "src": "B0F0:15187",
+   "carry": "exact"
+  },
+  {
+   "off": 15711,
+   "budget": 23,
+   "en": "＠赤(Why, you...!)",
+   "src": "B0F0:15208",
+   "carry": "exact"
+  },
+  {
+   "off": 15734,
+   "budget": 101,
+   "en": "You should have kept your identity￥secret. Too late now that you've￥shown it.",
+   "src": "B0F0:15231",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 15835,
+   "budget": 37,
+   "en": "I just wanted to scare him a little.",
+   "src": "B0F0:15328",
+   "carry": "exact"
+  },
+  {
+   "off": 15872,
+   "budget": 53,
+   "en": "Too late now that you've shown it.",
+   "src": "B0F0:15365",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15925,
+   "budget": 51,
+   "en": "Whatever you do, don't show that￥here, Gillian.",
+   "src": "B0F0:15416",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15976,
+   "budget": 35,
+   "en": "I know. We're undercover.",
+   "src": "B0F0:15465",
+   "carry": "exact"
+  },
+  {
+   "off": 16011,
+   "budget": 55,
+   "en": "No matter what happens. Don't do￥anything rash.",
+   "src": "B0F0:15500",
+   "carry": "exact"
+  },
+  {
+   "off": 16066,
+   "budget": 13,
+   "en": "Videophone",
+   "src": "B0F0:15555",
+   "carry": "exact"
+  },
+  {
+   "off": 16079,
+   "budget": 33,
+   "en": "I'm making a video call, Metal.",
+   "src": "B0F0:15568",
+   "carry": "exact"
+  },
+  {
+   "off": 16112,
+   "budget": 37,
+   "en": "Gillian, you still have the mask on.",
+   "src": "B0F0:15601",
+   "carry": "exact",
+   "long": "You're still wearing the mask,￥Gillian."
+  },
+  {
+   "off": 16149,
+   "budget": 47,
+   "en": "Oh, right. There. That's better.",
+   "src": "B0F0:15638",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 16196,
+   "budget": 11,
+   "en": "Save",
+   "src": "B0F0:15687",
+   "carry": "exact"
+  },
+  {
+   "off": 16207,
+   "budget": 37,
+   "en": "I'll save your progress now.",
+   "src": "B0F0:15698",
+   "carry": "exact"
+  },
+  {
+   "off": 16246,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

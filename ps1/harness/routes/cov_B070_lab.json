@@ -1,0 +1,111 @@
+{
+ "scene": "B170",
+ "note": "coverage A_videophone: from B170_pre (Act 2 tricycle, after Oleen) Home > Get out > Videophone (B070) > 39-3444 (Jamie's tape f65/f67) > 39-1009 (the lab f69 'Neo Kobe Pharmaceutical, hello' - reconstructs work/s_issue18e of 2026-09-10). Then an unassigned number (all ten digits + confirm = M000 ch15 f70, B070_006/006b).",
+ "actions": [
+  {
+   "path": [
+    "Home"
+   ],
+   "patience": 6000
+  },
+  {
+   "idle": 900
+  },
+  {
+   "path": [
+    "Exit Tricycle|Get out"
+   ]
+  },
+  {
+   "idle": 1500
+  },
+  {
+   "path": [
+    "Use Metal Gear",
+    "Videophone"
+   ]
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "dial": "393444"
+  },
+  {
+   "idle": 600
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 600
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 3000
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 300
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 300
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "dial": "391009"
+  },
+  {
+   "idle": 600
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 600
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 3000
+  },
+  {
+   "press": "circle"
+  },
+  {
+   "idle": 300
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "dial": "1234567890",
+   "then": "circle"
+  },
+  {
+   "idle": 1500
+  }
+ ]
+}

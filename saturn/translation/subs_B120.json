@@ -1,0 +1,1126 @@
+{
+ "scene": "B120",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B120_000",
+   "line": 49,
+   "act": 1,
+   "sector": 1166,
+   "offset": 1845,
+   "size": 41052,
+   "b0": 0,
+   "b1": 41052,
+   "speaker": "Lisa",
+   "colour": 2,
+   "en": "So that's what you're like? Get out! Don't come back!",
+   "rows": [
+    "So that's what you're like?",
+    "Get out! Don't come back!"
+   ],
+   "rows_plain": [
+    "So that's what you're like? Get out!",
+    "Don't come back!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B120_001",
+   "line": 50,
+   "act": 1,
+   "sector": 1184,
+   "offset": 1065,
+   "size": 57964,
+   "b0": 0,
+   "b1": 43473,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I'll give you my address and videophone number, just in case.",
+   "rows": [
+    "I'll give you my address and",
+    "videophone number, just in",
+    "case."
+   ],
+   "rows_plain": [
+    "I'll give you my address and",
+    "videophone number, just in case."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B120_001b",
+   "line": 50,
+   "act": 1,
+   "sector": 1184,
+   "offset": 1065,
+   "size": 57964,
+   "b0": 43473,
+   "b1": 57964,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Call me if anything happens.",
+   "rows": [
+    "Call me if anything happens."
+   ],
+   "rows_plain": [
+    "Call me if anything happens."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B120_002",
+   "line": 51,
+   "act": 1,
+   "sector": 1209,
+   "offset": 929,
+   "size": 14875,
+   "b0": 0,
+   "b1": 14875,
+   "speaker": "Lisa",
+   "colour": 2,
+   "en": "Thank you. Goodbye.",
+   "rows": [
+    "Thank you. Goodbye."
+   ],
+   "rows_plain": [
+    "Thank you. Goodbye."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B120_f21_0",
+   "line": 171,
+   "act": 1,
+   "sector": 3375,
+   "offset": 335,
+   "size": 44830,
+   "b0": 0,
+   "b1": 44830,
+   "speaker": "Lisa",
+   "colour": 2,
+   "en": "JUNKER? All right. I'll open the door.",
+   "rows": [
+    "JUNKER? All right. I'll open",
+    "the door."
+   ],
+   "rows_plain": [
+    "JUNKER? All right. I'll open the",
+    "door."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B120_f22_0",
+   "line": 172,
+   "act": 1,
+   "sector": 3394,
+   "offset": 1009,
+   "size": 21075,
+   "b0": 0,
+   "b1": 21075,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Be careful, Gillian.",
+   "rows": [
+    "Be careful, Gillian."
+   ],
+   "rows_plain": [
+    "Be careful, Gillian."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f23_0",
+   "line": 173,
+   "act": 1,
+   "sector": 3403,
+   "offset": 1168,
+   "size": 21640,
+   "b0": 0,
+   "b1": 21640,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Oh, it's a woman.",
+   "rows": [
+    "Oh, it's a woman."
+   ],
+   "rows_plain": [
+    "Oh, it's a woman."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f24_0",
+   "line": 174,
+   "act": 1,
+   "sector": 3412,
+   "offset": 1892,
+   "size": 61338,
+   "b0": 0,
+   "b1": 61338,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Hmm. This alone does not prove that Freddy Nielsen is a Snatcher.",
+   "rows": [
+    "Hmm. This alone does not",
+    "prove that Freddy Nielsen is",
+    "a Snatcher."
+   ],
+   "rows_plain": [
+    "Hmm. This alone does not prove that",
+    "Freddy Nielsen is a Snatcher."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f25_0",
+   "line": 175,
+   "act": 1,
+   "sector": 3439,
+   "offset": 482,
+   "size": 44409,
+   "b0": 0,
+   "b1": 44409,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Right. We need evidence to get a scanning warrant.",
+   "rows": [
+    "Right. We need evidence to",
+    "get a scanning warrant."
+   ],
+   "rows_plain": [
+    "Right. We need evidence to get a",
+    "scanning warrant."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f26_0",
+   "line": 176,
+   "act": 1,
+   "sector": 3458,
+   "offset": 735,
+   "size": 17219,
+   "b0": 0,
+   "b1": 17219,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I'd like to see the bathroom.",
+   "rows": [
+    "I'd like to see the",
+    "bathroom."
+   ],
+   "rows_plain": [
+    "I'd like to see the bathroom."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f27_0",
+   "line": 177,
+   "act": 1,
+   "sector": 3465,
+   "offset": 1686,
+   "size": 10873,
+   "b0": 0,
+   "b1": 10873,
+   "speaker": "Lisa",
+   "colour": 2,
+   "en": "Oh, need the toilet?",
+   "rows": [
+    "Oh, need the toilet?"
+   ],
+   "rows_plain": [
+    "Oh, need the toilet?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B120_f28_0",
+   "line": 178,
+   "act": 1,
+   "sector": 3470,
+   "offset": 939,
+   "size": 44446,
+   "b0": 0,
+   "b1": 44446,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "No, no. We'd like to inspect your bathroom.",
+   "rows": [
+    "No, no. We'd like to inspect",
+    "your bathroom."
+   ],
+   "rows_plain": [
+    "No, no. We'd like to inspect your",
+    "bathroom."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f29_0",
+   "line": 179,
+   "act": 1,
+   "sector": 3489,
+   "offset": 1229,
+   "size": 15358,
+   "b0": 0,
+   "b1": 15358,
+   "speaker": "Lisa",
+   "colour": 2,
+   "en": "Go ahead.",
+   "rows": [
+    "Go ahead."
+   ],
+   "rows_plain": [
+    "Go ahead."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B120_f30_0",
+   "line": 180,
+   "act": 1,
+   "sector": 3496,
+   "offset": 319,
+   "size": 122709,
+   "b0": 0,
+   "b1": 45942,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "There's no doubt. Freddy Nielsen is a Snatcher.",
+   "rows": [
+    "There's no doubt. Freddy",
+    "Nielsen is a Snatcher."
+   ],
+   "rows_plain": [
+    "There's no doubt. Freddy Nielsen is",
+    "a Snatcher."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f30_0b",
+   "line": 180,
+   "act": 1,
+   "sector": 3496,
+   "offset": 319,
+   "size": 122709,
+   "b0": 45942,
+   "b1": 85985,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "With this much circumstantial evidence,",
+   "rows": [
+    "With this much",
+    "circumstantial evidence,"
+   ],
+   "rows_plain": [
+    "With this much circumstantial",
+    "evidence,"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f30_0c",
+   "line": 180,
+   "act": 1,
+   "sector": 3496,
+   "offset": 319,
+   "size": 122709,
+   "b0": 85985,
+   "b1": 122709,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "we can get a warrant to scan Freddy, Gillian.",
+   "rows": [
+    "we can get a warrant to scan",
+    "Freddy, Gillian."
+   ],
+   "rows_plain": [
+    "we can get a warrant to scan Freddy,",
+    "Gillian."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f31_0",
+   "line": 181,
+   "act": 1,
+   "sector": 3548,
+   "offset": 2180,
+   "size": 23481,
+   "b0": 0,
+   "b1": 23481,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I've finally found you, Snatcher!",
+   "rows": [
+    "I've finally found you,",
+    "Snatcher!"
+   ],
+   "rows_plain": [
+    "I've finally found you, Snatcher!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f32_0",
+   "line": 182,
+   "act": 1,
+   "sector": 3559,
+   "offset": 97,
+   "size": 6475,
+   "b0": 0,
+   "b1": 6475,
+   "speaker": "Lisa",
+   "colour": 2,
+   "en": "You saw it.",
+   "rows": [
+    "You saw it."
+   ],
+   "rows_plain": [
+    "You saw it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B120_f33_0",
+   "line": 183,
+   "act": 1,
+   "sector": 3561,
+   "offset": 1924,
+   "size": 3476,
+   "b0": 0,
+   "b1": 3476,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Who's there?!",
+   "rows": [
+    "Who's there?!"
+   ],
+   "rows_plain": [
+    "Who's there?!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B120_f34_0",
+   "line": 184,
+   "act": 1,
+   "sector": 3563,
+   "offset": 752,
+   "size": 12414,
+   "b0": 0,
+   "b1": 12414,
+   "speaker": "Lisa",
+   "colour": 2,
+   "en": "You saw it, JUNKER!",
+   "rows": [
+    "You saw it, JUNKER!"
+   ],
+   "rows_plain": [
+    "You saw it, JUNKER!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B120_f35_0",
+   "line": 185,
+   "act": 1,
+   "sector": 3568,
+   "offset": 1546,
+   "size": 10151,
+   "b0": 0,
+   "b1": 10151,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Those scratches!",
+   "rows": [
+    "Those scratches!"
+   ],
+   "rows_plain": [
+    "Those scratches!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f36_0",
+   "line": 186,
+   "act": 1,
+   "sector": 3573,
+   "offset": 77,
+   "size": 15935,
+   "b0": 0,
+   "b1": 15935,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Jean made those!",
+   "rows": [
+    "Jean made those!"
+   ],
+   "rows_plain": [
+    "Jean made those!"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f37_0",
+   "line": 187,
+   "act": 1,
+   "sector": 3579,
+   "offset": 2068,
+   "size": 18852,
+   "b0": 0,
+   "b1": 18852,
+   "speaker": "Lisa",
+   "colour": 2,
+   "en": "You're going to die, JUNKER!",
+   "rows": [
+    "You're going to die, JUNKER!"
+   ],
+   "rows_plain": [
+    "You're going to die, JUNKER!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B120_f38_0",
+   "line": 188,
+   "act": 1,
+   "sector": 3588,
+   "offset": 4,
+   "size": 35823,
+   "b0": 0,
+   "b1": 35823,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Tough bastard. So this is a Snatcher.",
+   "rows": [
+    "Tough bastard. So this is a",
+    "Snatcher."
+   ],
+   "rows_plain": [
+    "Tough bastard. So this is a",
+    "Snatcher."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f39_0",
+   "line": 189,
+   "act": 1,
+   "sector": 3603,
+   "offset": 967,
+   "size": 24593,
+   "b0": 0,
+   "b1": 24593,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Is it really dead?",
+   "rows": [
+    "Is it really dead?"
+   ],
+   "rows_plain": [
+    "Is it really dead?"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f40_0",
+   "line": 190,
+   "act": 1,
+   "sector": 3613,
+   "offset": 2320,
+   "size": 29776,
+   "b0": 0,
+   "b1": 29776,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Did Lisa and Freddy kill Jean?",
+   "rows": [
+    "Did Lisa and Freddy kill",
+    "Jean?"
+   ],
+   "rows_plain": [
+    "Did Lisa and Freddy kill Jean?"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f41_0",
+   "line": 191,
+   "act": 1,
+   "sector": 3626,
+   "offset": 1884,
+   "size": 22904,
+   "b0": 0,
+   "b1": 22904,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Freddy? Where is he?",
+   "rows": [
+    "Freddy? Where is he?"
+   ],
+   "rows_plain": [
+    "Freddy? Where is he?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f42_0",
+   "line": 192,
+   "act": 1,
+   "sector": 3636,
+   "offset": 1548,
+   "size": 38736,
+   "b0": 0,
+   "b1": 38736,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We'll call the junk disposal team later. Let's go outside for now.",
+   "rows": [
+    "We'll call the junk disposal",
+    "team later. Let's go outside",
+    "for now."
+   ],
+   "rows_plain": [
+    "We'll call the junk disposal team",
+    "later. Let's go outside for now."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f43_0",
+   "line": 193,
+   "act": 1,
+   "sector": 3653,
+   "offset": 776,
+   "size": 10783,
+   "b0": 0,
+   "b1": 10783,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "We're outside.",
+   "rows": [
+    "We're outside."
+   ],
+   "rows_plain": [
+    "We're outside."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f44_0",
+   "line": 194,
+   "act": 1,
+   "sector": 3657,
+   "offset": 2263,
+   "size": 51945,
+   "b0": 0,
+   "b1": 51945,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The lights came on! No one's supposed to be inside.",
+   "rows": [
+    "The lights came on! No one's",
+    "supposed to be inside."
+   ],
+   "rows_plain": [
+    "The lights came on! No one's",
+    "supposed to be inside."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f45_0",
+   "line": 195,
+   "act": 1,
+   "sector": 3680,
+   "offset": 756,
+   "size": 27011,
+   "b0": 0,
+   "b1": 27011,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Could Freddy have come home?",
+   "rows": [
+    "Could Freddy have come home?"
+   ],
+   "rows_plain": [
+    "Could Freddy have come home?"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f46_0",
+   "line": 196,
+   "act": 1,
+   "sector": 3691,
+   "offset": 2203,
+   "size": 45256,
+   "b0": 0,
+   "b1": 45256,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "This should be the only way in or out. How did he get inside?",
+   "rows": [
+    "This should be the only way",
+    "in or out. How did he get",
+    "inside?"
+   ],
+   "rows_plain": [
+    "This should be the only way in or",
+    "out. How did he get inside?"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f47_0",
+   "line": 197,
+   "act": 1,
+   "sector": 3711,
+   "offset": 979,
+   "size": 9595,
+   "b0": 0,
+   "b1": 9595,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Let's check it out!",
+   "rows": [
+    "Let's check it out!"
+   ],
+   "rows_plain": [
+    "Let's check it out!"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f12_0",
+   "line": 244,
+   "act": 1,
+   "sector": 4708,
+   "offset": 1508,
+   "size": 20595,
+   "b0": 0,
+   "b1": 20595,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal, force the lock!",
+   "rows": [
+    "Metal, force the lock!"
+   ],
+   "rows_plain": [
+    "Metal, force the lock!"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f13_0",
+   "line": 245,
+   "act": 1,
+   "sector": 4717,
+   "offset": 1187,
+   "size": 58045,
+   "b0": 0,
+   "b1": 58045,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Understood. I will search Alphaville for apartment 202's electronic lock code.",
+   "rows": [
+    "Understood. I will search",
+    "Alphaville for apartment",
+    "202's electronic lock code."
+   ],
+   "rows_plain": [
+    "Understood. I will search Alphaville",
+    "for apartment 202's electronic lock",
+    "code."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f14_0",
+   "line": 246,
+   "act": 1,
+   "sector": 4742,
+   "offset": 1132,
+   "size": 12025,
+   "b0": 0,
+   "b1": 12025,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Hurry, Metal!",
+   "rows": [
+    "Hurry, Metal!"
+   ],
+   "rows_plain": [
+    "Hurry, Metal!"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f15_0",
+   "line": 247,
+   "act": 1,
+   "sector": 4747,
+   "offset": 1537,
+   "size": 73406,
+   "b0": 0,
+   "b1": 73406,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Almost there. Entering Alphaville's MR district management area.",
+   "rows": [
+    "Almost there. Entering",
+    "Alphaville's MR district",
+    "management area."
+   ],
+   "rows_plain": [
+    "Almost there. Entering Alphaville's",
+    "MR district management area."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f16_0",
+   "line": 248,
+   "act": 1,
+   "sector": 4779,
+   "offset": 575,
+   "size": 22070,
+   "b0": 0,
+   "b1": 22070,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Code found. Opening the door.",
+   "rows": [
+    "Code found. Opening the",
+    "door."
+   ],
+   "rows_plain": [
+    "Code found. Opening the door."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B120_f17_0",
+   "line": 249,
+   "act": 1,
+   "sector": 4788,
+   "offset": 1729,
+   "size": 6725,
+   "b0": 0,
+   "b1": 6725,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Good!",
+   "rows": [
+    "Good!"
+   ],
+   "rows_plain": [
+    "Good!"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f18_0",
+   "line": 250,
+   "act": 1,
+   "sector": 4791,
+   "offset": 1482,
+   "size": 56681,
+   "b0": 0,
+   "b1": 56681,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The tub's empty! It was full of water a moment ago.",
+   "rows": [
+    "The tub's empty! It was full",
+    "of water a moment ago."
+   ],
+   "rows_plain": [
+    "The tub's empty! It was full of",
+    "water a moment ago."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f19_0",
+   "line": 251,
+   "act": 1,
+   "sector": 4816,
+   "offset": 63,
+   "size": 24088,
+   "b0": 0,
+   "b1": 24088,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Movement detected! It's in this room.",
+   "rows": [
+    "Movement detected! It's in",
+    "this room."
+   ],
+   "rows_plain": [
+    "Movement detected! It's in this",
+    "room."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f20_0",
+   "line": 252,
+   "act": 1,
+   "sector": 4826,
+   "offset": 911,
+   "size": 17479,
+   "b0": 0,
+   "b1": 17479,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Where is it? Where is that thing?",
+   "rows": [
+    "Where is it? Where is that",
+    "thing?"
+   ],
+   "rows_plain": [
+    "Where is it? Where is that thing?"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_f21_0b",
+   "line": 253,
+   "act": 1,
+   "sector": 4833,
+   "offset": 2122,
+   "size": 10455,
+   "b0": 0,
+   "b1": 10455,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian, look out!",
+   "rows": [
+    "Gillian, look out!"
+   ],
+   "rows_plain": [
+    "Gillian, look out!"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B120_c4f22",
+   "line": 254,
+   "act": 1,
+   "sector": 4838,
+   "offset": 957,
+   "size": 10635,
+   "b0": 0,
+   "b1": 10635,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Ow!",
+   "rows": [
+    "Ow!"
+   ],
+   "rows_plain": [
+    "Ow!"
+   ],
+   "enabled": true
+  }
+ ]
+}

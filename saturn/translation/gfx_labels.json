@@ -1,0 +1,887 @@
+{
+ "_doc": "satlabels.py data: English redraws of Japanese labels in Saturn sprite pictures (census work/gfxcensus/saturn_census.md). Coordinates are canvas pixels (the list's pieces composed, top-left piece at 0,0), colours palette indices. Text as the PS1 got it.",
+ "237_not_in_service": {
+  "chunk": 237,
+  "list": 12,
+  "edits": [
+   {
+    "erase": [
+     5,
+     10,
+     144,
+     23
+    ],
+    "fill": 210
+   },
+   {
+    "text": "Number not in use.",
+    "y": 11,
+    "span": [
+     5,
+     144
+    ],
+    "ink": 255,
+    "shadow": 65
+   }
+  ]
+ },
+ "238_no_video": {
+  "chunk": 238,
+  "list": 4,
+  "edits": [
+   {
+    "erase": [
+     11,
+     24,
+     138,
+     50
+    ],
+    "fill": 30
+   },
+   {
+    "text": "No video signal",
+    "y": 25,
+    "span": [
+     10,
+     139
+    ],
+    "ink": 36,
+    "shadow": 7
+   },
+   {
+    "text": "from the caller.",
+    "y": 39,
+    "span": [
+     10,
+     139
+    ],
+    "ink": 36,
+    "shadow": 7
+   },
+   {
+    "move": [
+     96,
+     59,
+     126,
+     67
+    ],
+    "dx": 5,
+    "fill": 30
+   },
+   {
+    "copy": [
+     49,
+     59,
+     51,
+     67
+    ],
+    "source": "original",
+    "to": [
+     96,
+     59
+    ]
+   },
+   {
+    "move": [
+     22,
+     59,
+     132,
+     67
+    ],
+    "dx": -3,
+    "fill": 30
+   }
+  ]
+ },
+ "361_note": {
+  "chunk": 361,
+  "list": 5,
+  "palette": 1,
+  "edits": [
+   {
+    "remap": [
+     4,
+     11,
+     39,
+     35
+    ],
+    "map": {
+     "61": 13,
+     "75": 13,
+     "81": 13,
+     "93": 23,
+     "120": 23,
+     "14": 23,
+     "248": 23,
+     "201": 23,
+     "175": 23,
+     "72": 13,
+     "108": 23,
+     "152": 23,
+     "101": 23,
+     "15": 23,
+     "184": 23,
+     "140": 23
+    }
+   },
+   {
+    "text": "Search",
+    "y": 12,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 248,
+    "font": "5x7"
+   },
+   {
+    "text": "the",
+    "y": 20,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 248,
+    "font": "5x7"
+   },
+   {
+    "text": "house",
+    "y": 28,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 248,
+    "font": "5x7"
+   }
+  ],
+  "_note": "Konami's mark (x 40-56, the 5-inch disk the script later explains) stays pixel-identical; x 4-39 (kana and swirl) remapped to paper. 5x7 (6-row ink) at an 8-row pitch, ink rows 12-33, x 5-38: at least 1 px of paper to the outline (top row 10, left cols 2-3, bottom rows 34-37) and to the mark"
+ },
+ "362_note": {
+  "chunk": 362,
+  "list": 5,
+  "edits": [
+   {
+    "remap": [
+     4,
+     11,
+     39,
+     35
+    ],
+    "map": {
+     "193": 210,
+     "184": 210,
+     "179": 210,
+     "166": 221,
+     "147": 221,
+     "175": 221,
+     "58": 221,
+     "107": 221,
+     "92": 221,
+     "186": 210,
+     "154": 221,
+     "127": 221,
+     "159": 221,
+     "135": 221,
+     "118": 221,
+     "87": 221,
+     "100": 221
+    }
+   },
+   {
+    "text": "Search",
+    "y": 12,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 58,
+    "font": "5x7"
+   },
+   {
+    "text": "the",
+    "y": 20,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 58,
+    "font": "5x7"
+   },
+   {
+    "text": "house",
+    "y": 28,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 58,
+    "font": "5x7"
+   }
+  ],
+  "_note": "Konami's mark (x 40-56, the 5-inch disk the script later explains) stays pixel-identical; x 4-39 (kana and swirl) remapped to paper. 5x7 (6-row ink) at an 8-row pitch, ink rows 12-33, x 5-38: at least 1 px of paper to the outline (top row 10, left cols 2-3, bottom rows 34-37) and to the mark"
+ },
+ "363_note": {
+  "chunk": 363,
+  "list": 5,
+  "edits": [
+   {
+    "remap": [
+     4,
+     11,
+     39,
+     35
+    ],
+    "map": {
+     "187": 201,
+     "180": 201,
+     "176": 201,
+     "162": 218,
+     "147": 218,
+     "173": 218,
+     "57": 218,
+     "105": 218,
+     "93": 218,
+     "182": 201,
+     "152": 218,
+     "124": 218,
+     "156": 218,
+     "133": 218,
+     "116": 218,
+     "86": 218,
+     "100": 218
+    }
+   },
+   {
+    "text": "Search",
+    "y": 12,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 57,
+    "font": "5x7"
+   },
+   {
+    "text": "the",
+    "y": 20,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 57,
+    "font": "5x7"
+   },
+   {
+    "text": "house",
+    "y": 28,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 57,
+    "font": "5x7"
+   }
+  ],
+  "_note": "Konami's mark (x 40-56, the 5-inch disk the script later explains) stays pixel-identical; x 4-39 (kana and swirl) remapped to paper. 5x7 (6-row ink) at an 8-row pitch, ink rows 12-33, x 5-38: at least 1 px of paper to the outline (top row 10, left cols 2-3, bottom rows 34-37) and to the mark"
+ },
+ "364_note": {
+  "chunk": 364,
+  "list": 15,
+  "edits": [
+   {
+    "remap": [
+     4,
+     11,
+     39,
+     35
+    ],
+    "map": {
+     "196": 207,
+     "189": 207,
+     "184": 207,
+     "171": 221,
+     "156": 221,
+     "181": 221,
+     "72": 221,
+     "117": 221,
+     "105": 221,
+     "191": 207,
+     "162": 221,
+     "135": 221,
+     "167": 221,
+     "144": 221,
+     "128": 221,
+     "100": 221,
+     "113": 221
+    }
+   },
+   {
+    "text": "Search",
+    "y": 12,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 72,
+    "font": "5x7"
+   },
+   {
+    "text": "the",
+    "y": 20,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 72,
+    "font": "5x7"
+   },
+   {
+    "text": "house",
+    "y": 28,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 72,
+    "font": "5x7"
+   }
+  ],
+  "_note": "Konami's mark (x 40-56, the 5-inch disk the script later explains) stays pixel-identical; x 4-39 (kana and swirl) remapped to paper. 5x7 (6-row ink) at an 8-row pitch, ink rows 12-33, x 5-38: at least 1 px of paper to the outline (top row 10, left cols 2-3, bottom rows 34-37) and to the mark"
+ },
+ "365_note": {
+  "chunk": 365,
+  "list": 7,
+  "edits": [
+   {
+    "remap": [
+     4,
+     11,
+     39,
+     35
+    ],
+    "map": {
+     "187": 201,
+     "180": 201,
+     "176": 201,
+     "162": 218,
+     "147": 218,
+     "173": 218,
+     "57": 218,
+     "105": 218,
+     "93": 218,
+     "182": 201,
+     "152": 218,
+     "124": 218,
+     "156": 218,
+     "133": 218,
+     "116": 218,
+     "86": 218,
+     "100": 218
+    }
+   },
+   {
+    "text": "Search",
+    "y": 12,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 57,
+    "font": "5x7"
+   },
+   {
+    "text": "the",
+    "y": 20,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 57,
+    "font": "5x7"
+   },
+   {
+    "text": "house",
+    "y": 28,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 57,
+    "font": "5x7"
+   }
+  ],
+  "_note": "Konami's mark (x 40-56, the 5-inch disk the script later explains) stays pixel-identical; x 4-39 (kana and swirl) remapped to paper. 5x7 (6-row ink) at an 8-row pitch, ink rows 12-33, x 5-38: at least 1 px of paper to the outline (top row 10, left cols 2-3, bottom rows 34-37) and to the mark"
+ },
+ "366_note": {
+  "chunk": 366,
+  "list": 2,
+  "edits": [
+   {
+    "remap": [
+     4,
+     11,
+     39,
+     35
+    ],
+    "map": {
+     "135": 142,
+     "129": 142,
+     "124": 142,
+     "117": 154,
+     "102": 154,
+     "120": 154,
+     "12": 154,
+     "45": 154,
+     "29": 154,
+     "132": 142,
+     "107": 154,
+     "78": 154,
+     "111": 154,
+     "90": 154,
+     "59": 154,
+     "22": 154,
+     "36": 154
+    }
+   },
+   {
+    "text": "Search",
+    "y": 12,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 12,
+    "font": "5x7"
+   },
+   {
+    "text": "the",
+    "y": 20,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 12,
+    "font": "5x7"
+   },
+   {
+    "text": "house",
+    "y": 28,
+    "x": "center",
+    "span": [
+     5,
+     38
+    ],
+    "ink": 12,
+    "font": "5x7"
+   }
+  ],
+  "_note": "Konami's mark (x 40-56, the 5-inch disk the script later explains) stays pixel-identical; x 4-39 (kana and swirl) remapped to paper. 5x7 (6-row ink) at an 8-row pitch, ink rows 12-33, x 5-38: at least 1 px of paper to the outline (top row 10, left cols 2-3, bottom rows 34-37) and to the mark"
+ },
+ "489_poster": {
+  "chunk": 489,
+  "list": 0,
+  "edits": [
+   {
+    "inpaint": [
+     10,
+     10,
+     62,
+     39
+    ],
+    "values": [
+     11,
+     12,
+     13,
+     18,
+     28,
+     35,
+     43,
+     67,
+     88,
+     93,
+     94,
+     97,
+     98,
+     107,
+     108,
+     109,
+     112,
+     128,
+     129,
+     130,
+     133,
+     145,
+     148,
+     149,
+     150,
+     151,
+     152,
+     153,
+     154,
+     155,
+     156,
+     174,
+     175,
+     180,
+     181,
+     194,
+     198,
+     199,
+     207,
+     208,
+     222,
+     223,
+     231
+    ]
+   },
+   {
+    "copy": [
+     12,
+     21,
+     52,
+     28
+    ],
+    "source": "original",
+    "only": [
+     11,
+     12,
+     13,
+     18,
+     28,
+     35,
+     43,
+     67,
+     88,
+     93,
+     94,
+     97,
+     98,
+     107,
+     108,
+     109,
+     112,
+     128,
+     129,
+     130,
+     133,
+     145,
+     148,
+     149,
+     150,
+     151,
+     152,
+     153,
+     154,
+     155,
+     156,
+     174,
+     175,
+     180,
+     181,
+     194,
+     198,
+     199,
+     207,
+     208,
+     222,
+     223,
+     231
+    ],
+    "to": [
+     12,
+     21
+    ]
+   },
+   {
+    "pixels": [
+     "###..####......##.",
+     "#..#.#........#..#",
+     "###..###......#..#",
+     "#..#.#........####",
+     "#..#.#........#..#",
+     "###..####.....#..#"
+    ],
+    "x": "center",
+    "span": [
+     13,
+     50
+    ],
+    "y": 13,
+    "ink": 13,
+    "drop": 35
+   },
+   {
+    "pixels": [
+     "#####..##...##..#",
+     "..#...#..#.#..#.#",
+     "..#...#..#.#..#.#",
+     "..#...#..#.#..#.#",
+     "..#...#..#.#..#..",
+     "..#....##...##..#"
+    ],
+    "x": "center",
+    "span": [
+     13,
+     50
+    ],
+    "y": 31,
+    "ink": 13,
+    "drop": 35
+   }
+  ],
+  "_note": "JUNKER stays where Konami drew it; BE A / TOO! hand-set in its 4x6, 1-px-stroke lettering (the PS1's glyphs), drop shadow one row under in index 35"
+ },
+ "252_not_home": {
+  "chunk": 252,
+  "list": 1,
+  "edits": [
+   {
+    "erase": [
+     0,
+     0,
+     119,
+     31
+    ],
+    "fill": 0
+   },
+   {
+    "text": "Not home!",
+    "y": 0,
+    "span": [
+     0,
+     119
+    ],
+    "ink": 27,
+    "outline": 12,
+    "scale": 2
+   }
+  ]
+ },
+ "252_option_menu": {
+  "chunk": 252,
+  "list": 2,
+  "edits": [
+   {
+    "erase": [
+     0,
+     0,
+     140,
+     11
+    ],
+    "fill": 0
+   },
+   {
+    "move": [
+     141,
+     0,
+     279,
+     11
+    ],
+    "dx": -36,
+    "fill": 0
+   },
+   {
+    "text": "OPTION MENU",
+    "y": 0,
+    "x": 36,
+    "ink": 27,
+    "outline": 12
+   }
+  ]
+ },
+ "250_araki": {
+  "chunk": 250,
+  "list": 1,
+  "edits": [
+   {
+    "inpaint": [
+     5,
+     52,
+     146,
+     93
+    ],
+    "values": [
+     115,
+     116,
+     118,
+     129,
+     130,
+     131,
+     132,
+     134,
+     135,
+     141,
+     143,
+     148,
+     156,
+     158,
+     176,
+     185,
+     198,
+     205
+    ]
+   },
+   {
+    "text": "Mr. Araki, sulking",
+    "y": 53,
+    "span": [
+     0,
+     149
+    ],
+    "ink": 129
+   },
+   {
+    "text": "that he can't type",
+    "y": 67,
+    "span": [
+     0,
+     149
+    ],
+    "ink": 129
+   },
+   {
+    "text": "with paws (approx.)",
+    "y": 81,
+    "span": [
+     0,
+     149
+    ],
+    "ink": 129
+   }
+  ]
+ },
+ "253_not_in": {
+  "chunk": 253,
+  "list": 18,
+  "edits": [
+   {
+    "remap": [
+     0,
+     0,
+     149,
+     27
+    ],
+    "map": {
+     "230": 255,
+     "231": 255,
+     "232": 255,
+     "233": 255,
+     "234": 255,
+     "235": 255,
+     "236": 255,
+     "237": 255,
+     "238": 255,
+     "239": 255,
+     "240": 255,
+     "241": 255,
+     "242": 255,
+     "243": 255,
+     "244": 255,
+     "245": 255,
+     "246": 255,
+     "247": 255,
+     "248": 255,
+     "249": 255,
+     "250": 255,
+     "251": 255,
+     "252": 255,
+     "253": 255,
+     "254": 255
+    }
+   },
+   {
+    "remap": [
+     100,
+     27,
+     149,
+     33
+    ],
+    "map": {
+     "230": 255,
+     "231": 255,
+     "232": 255,
+     "233": 255,
+     "234": 255,
+     "235": 255,
+     "236": 255,
+     "237": 255,
+     "238": 255,
+     "239": 255,
+     "240": 255,
+     "241": 255,
+     "242": 255,
+     "243": 255,
+     "244": 255,
+     "245": 255,
+     "246": 255,
+     "247": 255,
+     "248": 255,
+     "249": 255,
+     "250": 255,
+     "251": 255,
+     "252": 255,
+     "253": 255,
+     "254": 255
+    }
+   },
+   {
+    "text": "Not in.",
+    "y": 5,
+    "span": [
+     0,
+     149
+    ],
+    "ink": 235,
+    "scale": 2
+   }
+  ]
+ },
+ "261_out": {
+  "chunk": 261,
+  "list": 19,
+  "store": [
+   6,
+   7
+  ],
+  "edits": [
+   {
+    "erase": [
+     40,
+     16,
+     148,
+     23
+    ],
+    "fill": 0
+   },
+   {
+    "text": "Out right now.",
+    "y": 16,
+    "span": [
+     40,
+     148
+    ],
+    "ink": 61,
+    "font": "5x7"
+   }
+  ],
+  "_note": "the caption pieces are 48x8 + 64x8 (8 rows): 6x13's 9-px caps do not fit; 5x7 fits with the g descender (ink rows 16-22)"
+ }
+}

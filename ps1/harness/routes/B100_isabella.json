@@ -1,0 +1,15 @@
+{"scene":"B100","actions":[
+  {"path":["End questions"],"optional":true,"patience":600},
+  {"path":["Call","Dancer"],"optional":true},
+  {"sweep":["Ask","Talk","Look","Investigate"],"rounds":3,"avoid":["End questions","Go out","Go out"]},
+  {"path":["Item","Show","Evidence"],"optional":true},
+  {"sweep":["Ask"],"rounds":2,"avoid":["End questions","Go out","Go out"]},
+  {"save":"B100_isabella"},
+  {"path":["End questions"],"optional":true,"patience":600},
+  {"path":["Call","Customers"],"optional":true},
+  {"sweep":["Ask","Talk","Look","Investigate"],"rounds":2,"avoid":["End questions","Go out","Go out"]},
+  {"path":["End questions"],"optional":true,"patience":600},
+  {"path":["Order"],"optional":true},
+  {"sweep":["Order","Look","Investigate"],"rounds":2,"avoid":["End questions","Go out","Go out"]},
+  {"save":"B100_end"}
+ ]}

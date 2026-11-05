@@ -1,0 +1,2062 @@
+{
+ "file": "DATA.BIN[21]",
+ "entry": 21,
+ "text_base": 6751,
+ "twins": [
+  "B000"
+ ],
+ "strings": [
+  {
+   "off": 6752,
+   "budget": 2,
+   "en": "",
+   "src": "B000:3733",
+   "carry": "exact"
+  },
+  {
+   "off": 6754,
+   "budget": 2,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 6756,
+   "budget": 85,
+   "en": "＠赤The internal RAM has not been￥set up for backup.￥(It is not formatted.)",
+   "carry": "new"
+  },
+  {
+   "off": 6841,
+   "budget": 107,
+   "en": "＠白Before the game can start, all￥data in the internal RAM must be￥erased.￥(It must be formatted.)",
+   "carry": "new"
+  },
+  {
+   "off": 6948,
+   "budget": 49,
+   "en": "Erase all the internal RAM data?",
+   "carry": "new"
+  },
+  {
+   "off": 6997,
+   "budget": 5,
+   "en": "Yes",
+   "carry": "new"
+  },
+  {
+   "off": 7002,
+   "budget": 65,
+   "en": "All internal RAM data will now￥be erased.￥(Formatting.)",
+   "carry": "new"
+  },
+  {
+   "off": 7067,
+   "budget": 7,
+   "en": "No",
+   "carry": "new"
+  },
+  {
+   "off": 7074,
+   "budget": 91,
+   "en": "＠赤The cartridge RAM has not been￥set up for backup.￥(It is not formatted.)",
+   "carry": "new"
+  },
+  {
+   "off": 7165,
+   "budget": 113,
+   "en": "＠白Before the game can start, all￥data in the cartridge RAM must be￥erased.￥(It must be formatted.)",
+   "carry": "new"
+  },
+  {
+   "off": 7278,
+   "budget": 91,
+   "en": "Erase all the cartridge RAM data?￥(Format it?)",
+   "carry": "new"
+  },
+  {
+   "off": 7369,
+   "budget": 71,
+   "en": "All cartridge RAM data will now￥be erased.￥(Formatting.)",
+   "carry": "new"
+  },
+  {
+   "off": 7440,
+   "budget": 105,
+   "en": "＠赤Neither the internal RAM nor the￥cartridge RAM is set up for￥backup.￥(Neither is formatted.)",
+   "carry": "new"
+  },
+  {
+   "off": 7545,
+   "budget": 97,
+   "en": "＠白Before the game can start, all￥internal RAM and cartridge RAM￥data must be erased.",
+   "carry": "new"
+  },
+  {
+   "off": 7642,
+   "budget": 71,
+   "en": "Erase all the data in the internal RAM￥and in the cartridge RAM?",
+   "carry": "new"
+  },
+  {
+   "off": 7713,
+   "budget": 83,
+   "en": "All internal RAM and cartridge￥RAM data will now be erased.￥(Formatting.)",
+   "carry": "new"
+  },
+  {
+   "off": 7796,
+   "budget": 57,
+   "en": "All internal RAM data has been￥erased.￥(Formatted.)",
+   "carry": "new"
+  },
+  {
+   "off": 7853,
+   "budget": 35,
+   "en": "It is write-protected.",
+   "carry": "new"
+  },
+  {
+   "off": 7888,
+   "budget": 81,
+   "en": "The data in the internal RAM could￥not be erased.￥(Formatting failed.)",
+   "carry": "new"
+  },
+  {
+   "off": 7969,
+   "budget": 43,
+   "en": "Try again?￥(Format it?)",
+   "carry": "new"
+  },
+  {
+   "off": 8012,
+   "budget": 67,
+   "en": "All cartridge RAM data has been￥erased.￥(Formatted.)",
+   "carry": "new"
+  },
+  {
+   "off": 8079,
+   "budget": 89,
+   "en": "The data in the cartridge RAM could￥not be erased.￥(Formatting failed.)",
+   "carry": "new"
+  },
+  {
+   "off": 8168,
+   "budget": 75,
+   "en": "There is not enough free space in￥the backup RAM to save data.",
+   "carry": "new"
+  },
+  {
+   "off": 8243,
+   "budget": 57,
+   "en": "Saving new data needs 64 blocks￥of free space.",
+   "carry": "new"
+  },
+  {
+   "off": 8300,
+   "budget": 101,
+   "en": "If you start the game as is, new￥data cannot be saved unless the￥old data is erased.",
+   "carry": "new"
+  },
+  {
+   "off": 8401,
+   "budget": 23,
+   "en": "Start the game?",
+   "carry": "new"
+  },
+  {
+   "off": 8424,
+   "budget": 37,
+   "en": "No save data was found.",
+   "carry": "new"
+  },
+  {
+   "off": 8461,
+   "budget": 29,
+   "en": "Loading cancelled.",
+   "carry": "new"
+  },
+  {
+   "off": 8490,
+   "budget": 69,
+   "en": "If you start the game as is,￥data cannot be saved.",
+   "carry": "new"
+  },
+  {
+   "off": 8559,
+   "budget": 121,
+   "en": "In the Saturn's Memory Manager￥screen, erase other data or copy￥it to the cartridge RAM and then￥restart the game.",
+   "carry": "new"
+  },
+  {
+   "off": 8680,
+   "budget": 27,
+   "en": "Entering debug mode.",
+   "carry": "new"
+  },
+  {
+   "off": 8707,
+   "budget": 111,
+   "en": "＠赤A problem occurred during the￥backup RAM check. Please check the￥backup RAM.",
+   "carry": "new"
+  },
+  {
+   "off": 8818,
+   "budget": 9,
+   "en": "Checked",
+   "src": "B050:2404",
+   "carry": "exact",
+   "long": "Confirmed",
+   "note": "from B050"
+  },
+  {
+   "off": 8827,
+   "budget": 13,
+   "en": "Quit game",
+   "carry": "new",
+   "note": "menu item"
+  },
+  {
+   "off": 8840,
+   "budget": 31,
+   "en": "Quitting the game, then.",
+   "carry": "new"
+  },
+  {
+   "off": 8871,
+   "budget": 87,
+   "en": "Both the internal RAM and the￥cartridge RAM hold data.￥Which do you want to load?",
+   "carry": "new"
+  },
+  {
+   "off": 8958,
+   "budget": 11,
+   "en": "Internal",
+   "carry": "new",
+   "long": "Internal RAM",
+   "note": "menu item"
+  },
+  {
+   "off": 8969,
+   "budget": 39,
+   "en": "Loading the internal RAM data.",
+   "carry": "new"
+  },
+  {
+   "off": 9008,
+   "budget": 19,
+   "en": "Cartridge RAM",
+   "carry": "new",
+   "note": "menu item"
+  },
+  {
+   "off": 9027,
+   "budget": 49,
+   "en": "Loading the cartridge RAM data.",
+   "carry": "new"
+  },
+  {
+   "off": 9076,
+   "budget": 19,
+   "en": "1 NO DATA",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9095,
+   "budget": 13,
+   "en": "1 ACT 1",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9108,
+   "budget": 13,
+   "en": "1 ACT 2",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9121,
+   "budget": 13,
+   "en": "1 ACT 3",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9134,
+   "budget": 19,
+   "en": "1 ACT 1 END",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9153,
+   "budget": 19,
+   "en": "1 ACT 2 END",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9172,
+   "budget": 19,
+   "en": "2 NO DATA",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9191,
+   "budget": 13,
+   "en": "2 ACT 1",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9204,
+   "budget": 13,
+   "en": "2 ACT 2",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9217,
+   "budget": 13,
+   "en": "2 ACT 3",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9230,
+   "budget": 19,
+   "en": "2 ACT 1 END",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9249,
+   "budget": 19,
+   "en": "2 ACT 2 END",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9268,
+   "budget": 19,
+   "en": "3 NO DATA",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9287,
+   "budget": 13,
+   "en": "3 ACT 1",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9300,
+   "budget": 13,
+   "en": "3 ACT 2",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9313,
+   "budget": 13,
+   "en": "3 ACT 3",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9326,
+   "budget": 19,
+   "en": "3 ACT 1 END",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9345,
+   "budget": 19,
+   "en": "3 ACT 2 END",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9364,
+   "budget": 19,
+   "en": "4 NO DATA",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9383,
+   "budget": 13,
+   "en": "4 ACT 1",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9396,
+   "budget": 13,
+   "en": "4 ACT 2",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9409,
+   "budget": 13,
+   "en": "4 ACT 3",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9422,
+   "budget": 19,
+   "en": "4 ACT 1 END",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9441,
+   "budget": 19,
+   "en": "4 ACT 2 END",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 9460,
+   "budget": 13,
+   "en": "Don't load",
+   "carry": "new",
+   "note": "menu item"
+  },
+  {
+   "off": 9473,
+   "budget": 27,
+   "en": "Cancelling the load, then.",
+   "carry": "new"
+  },
+  {
+   "off": 9500,
+   "budget": 41,
+   "en": "No backup RAM is connected.",
+   "carry": "new"
+  },
+  {
+   "off": 9541,
+   "budget": 71,
+   "en": "The backup RAM is not ready.￥(It is not formatted.)",
+   "carry": "new"
+  },
+  {
+   "off": 9612,
+   "budget": 87,
+   "en": "In the Saturn's Memory Manager,￥please erase all data in the￥backup RAM.",
+   "carry": "new"
+  },
+  {
+   "off": 9699,
+   "budget": 35,
+   "en": "No save data was found",
+   "carry": "new"
+  },
+  {
+   "off": 9734,
+   "budget": 35,
+   "en": "This save data cannot be used.",
+   "carry": "new"
+  },
+  {
+   "off": 9769,
+   "budget": 67,
+   "en": "Please erase this data in the￥Saturn's Memory Manager.",
+   "carry": "new"
+  },
+  {
+   "off": 9836,
+   "budget": 9,
+   "en": "ACT 1",
+   "src": "B000:3873",
+   "carry": "exact"
+  },
+  {
+   "off": 9845,
+   "budget": 9,
+   "en": "ACT 2",
+   "src": "B000:3882",
+   "carry": "exact"
+  },
+  {
+   "off": 9854,
+   "budget": 9,
+   "en": "ACT 3",
+   "src": "B000:3891",
+   "carry": "exact"
+  },
+  {
+   "off": 9863,
+   "budget": 7,
+   "en": "Others",
+   "src": "B000:3900",
+   "carry": "exact"
+  },
+  {
+   "off": 9870,
+   "budget": 11,
+   "en": "Answer Qs",
+   "src": "B000:3907",
+   "carry": "exact"
+  },
+  {
+   "off": 9881,
+   "budget": 11,
+   "en": "Catherine",
+   "src": "B000:3918",
+   "carry": "exact"
+  },
+  {
+   "off": 9892,
+   "budget": 17,
+   "en": "Gibson's door",
+   "src": "B000:3929",
+   "carry": "exact"
+  },
+  {
+   "off": 9909,
+   "budget": 15,
+   "en": "After shower",
+   "src": "B000:3946",
+   "carry": "exact"
+  },
+  {
+   "off": 9924,
+   "budget": 11,
+   "en": "Napoleon",
+   "src": "B000:3961",
+   "carry": "exact"
+  },
+  {
+   "off": 9935,
+   "budget": 5,
+   "en": "Tel.",
+   "src": "B000:3972",
+   "carry": "exact"
+  },
+  {
+   "off": 9940,
+   "budget": 11,
+   "en": "In Outer",
+   "src": "B000:3977",
+   "carry": "exact"
+  },
+  {
+   "off": 9951,
+   "budget": 7,
+   "en": "BGM",
+   "src": "B000:3988",
+   "carry": "exact"
+  },
+  {
+   "off": 9958,
+   "budget": 11,
+   "en": "MG appears",
+   "src": "B000:3995",
+   "carry": "exact"
+  },
+  {
+   "off": 9969,
+   "budget": 13,
+   "en": "Car to plant",
+   "src": "B000:4006",
+   "carry": "exact"
+  },
+  {
+   "off": 9982,
+   "budget": 13,
+   "en": "Plant return",
+   "src": "B000:4019",
+   "carry": "exact"
+  },
+  {
+   "off": 9995,
+   "budget": 11,
+   "en": "Drunk H.",
+   "src": "B000:4032",
+   "carry": "exact"
+  },
+  {
+   "off": 10006,
+   "budget": 13,
+   "en": "Randam shows",
+   "src": "B000:4043",
+   "carry": "exact"
+  },
+  {
+   "off": 10019,
+   "budget": 9,
+   "en": "Rampage",
+   "src": "B000:4056",
+   "carry": "exact"
+  },
+  {
+   "off": 10028,
+   "budget": 11,
+   "en": "Chief 1",
+   "src": "B000:4065",
+   "carry": "exact"
+  },
+  {
+   "off": 10039,
+   "budget": 11,
+   "en": "Chief 2",
+   "src": "B000:4076",
+   "carry": "exact"
+  },
+  {
+   "off": 10050,
+   "budget": 15,
+   "en": "Jamie TEL",
+   "src": "B000:4087",
+   "carry": "exact"
+  },
+  {
+   "off": 10065,
+   "budget": 5,
+   "en": "Riot",
+   "src": "B000:4102",
+   "carry": "exact"
+  },
+  {
+   "off": 10070,
+   "budget": 7,
+   "en": "Riot2",
+   "src": "B000:4107",
+   "carry": "exact"
+  },
+  {
+   "off": 10077,
+   "budget": 7,
+   "en": "Morgue",
+   "src": "B000:4114",
+   "carry": "exact"
+  },
+  {
+   "off": 10084,
+   "budget": 5,
+   "en": "Chin",
+   "src": "B000:4121",
+   "carry": "exact"
+  },
+  {
+   "off": 10089,
+   "budget": 11,
+   "en": "Harry dies",
+   "src": "B000:4126",
+   "carry": "exact"
+  },
+  {
+   "off": 10100,
+   "budget": 9,
+   "en": "ChiefDie",
+   "src": "B000:4137",
+   "carry": "exact"
+  },
+  {
+   "off": 10109,
+   "budget": 13,
+   "en": "Mika joins",
+   "src": "B000:4163",
+   "carry": "exact"
+  },
+  {
+   "off": 10122,
+   "budget": 7,
+   "en": "Beam",
+   "src": "B000:4176",
+   "carry": "exact"
+  },
+  {
+   "off": 10129,
+   "budget": 5,
+   "en": "Port",
+   "src": "B000:4183",
+   "carry": "exact",
+   "long": "Airport"
+  },
+  {
+   "off": 10134,
+   "budget": 13,
+   "en": "Araki sneeze",
+   "src": "B000:4188",
+   "carry": "exact"
+  },
+  {
+   "off": 10147,
+   "budget": 5,
+   "en": "Fact",
+   "src": "B000:4201",
+   "carry": "exact",
+   "long": "Factory"
+  },
+  {
+   "off": 10152,
+   "budget": 7,
+   "en": "Fact 1",
+   "src": "B000:4206",
+   "carry": "exact"
+  },
+  {
+   "off": 10159,
+   "budget": 7,
+   "en": "Fact 2",
+   "src": "B000:4213",
+   "carry": "exact"
+  },
+  {
+   "off": 10166,
+   "budget": 7,
+   "en": "Fact 3",
+   "src": "B000:4220",
+   "carry": "exact"
+  },
+  {
+   "off": 10173,
+   "budget": 11,
+   "en": "Freddy hm",
+   "src": "B000:4227",
+   "carry": "exact"
+  },
+  {
+   "off": 10184,
+   "budget": 11,
+   "en": "Gibson hm",
+   "src": "B000:4238",
+   "carry": "exact"
+  },
+  {
+   "off": 10195,
+   "budget": 9,
+   "en": "Tunnel 1",
+   "src": "B000:4249",
+   "carry": "exact"
+  },
+  {
+   "off": 10204,
+   "budget": 9,
+   "en": "Tunnel 2",
+   "src": "B000:4258",
+   "carry": "exact"
+  },
+  {
+   "off": 10213,
+   "budget": 9,
+   "en": "",
+   "src": "B000:4267",
+   "carry": "exact",
+   "lock": true
+  },
+  {
+   "off": 10222,
+   "budget": 9,
+   "en": "",
+   "src": "B000:4276",
+   "carry": "exact",
+   "lock": true
+  },
+  {
+   "off": 10231,
+   "budget": 5,
+   "en": "Back",
+   "src": "B000:4285",
+   "carry": "exact"
+  },
+  {
+   "off": 10236,
+   "budget": 15,
+   "en": "ACT 1 ends",
+   "src": "B000:4290",
+   "carry": "exact"
+  },
+  {
+   "off": 10251,
+   "budget": 15,
+   "en": "ACT 2 ends",
+   "src": "B000:4305",
+   "carry": "exact"
+  },
+  {
+   "off": 10266,
+   "budget": 13,
+   "en": "ACT1 half1",
+   "src": "B000:4320",
+   "carry": "exact"
+  },
+  {
+   "off": 10279,
+   "budget": 5,
+   "en": "HQ",
+   "src": "B000:4333",
+   "carry": "exact"
+  },
+  {
+   "off": 10284,
+   "budget": 9,
+   "en": "From top",
+   "src": "B000:4338",
+   "carry": "exact"
+  },
+  {
+   "off": 10293,
+   "budget": 17,
+   "en": "Chief talk ends",
+   "src": "B000:4347",
+   "carry": "exact"
+  },
+  {
+   "off": 10310,
+   "budget": 9,
+   "en": "Shooting",
+   "src": "B000:4364",
+   "carry": "exact"
+  },
+  {
+   "off": 10319,
+   "budget": 15,
+   "en": "Tricycle",
+   "src": "B000:4397",
+   "carry": "exact"
+  },
+  {
+   "off": 10334,
+   "budget": 9,
+   "en": "At plant",
+   "src": "B000:4412",
+   "carry": "exact"
+  },
+  {
+   "off": 10343,
+   "budget": 13,
+   "en": "Get memory",
+   "src": "B000:4421",
+   "carry": "exact"
+  },
+  {
+   "off": 10356,
+   "budget": 13,
+   "en": "Find Gibson",
+   "src": "B000:4434",
+   "carry": "exact"
+  },
+  {
+   "off": 10369,
+   "budget": 9,
+   "en": "Motion",
+   "src": "B000:4447",
+   "carry": "exact",
+   "long": "Motion detector"
+  },
+  {
+   "off": 10378,
+   "budget": 9,
+   "en": "Sneeze",
+   "src": "B000:4456",
+   "carry": "exact"
+  },
+  {
+   "off": 10387,
+   "budget": 9,
+   "en": "Gunfire",
+   "src": "B000:4465",
+   "carry": "exact"
+  },
+  {
+   "off": 10396,
+   "budget": 7,
+   "en": "Yard 1",
+   "src": "B000:4474",
+   "carry": "exact"
+  },
+  {
+   "off": 10403,
+   "budget": 7,
+   "en": "Yard 2",
+   "src": "B000:4481",
+   "carry": "exact"
+  },
+  {
+   "off": 10410,
+   "budget": 9,
+   "en": "NDE",
+   "src": "B000:4488",
+   "carry": "exact"
+  },
+  {
+   "off": 10419,
+   "budget": 7,
+   "en": "PreBmb",
+   "src": "B000:4497",
+   "carry": "exact"
+  },
+  {
+   "off": 10426,
+   "budget": 7,
+   "en": "HQ 2",
+   "src": "B000:4504",
+   "carry": "exact"
+  },
+  {
+   "off": 10433,
+   "budget": 9,
+   "en": "DetRoom",
+   "src": "B000:4511",
+   "carry": "exact"
+  },
+  {
+   "off": 10442,
+   "budget": 11,
+   "en": "Proof done",
+   "src": "B000:4520",
+   "carry": "exact"
+  },
+  {
+   "off": 10453,
+   "budget": 21,
+   "en": "Proof OK, mech room",
+   "src": "B000:4531",
+   "carry": "exact"
+  },
+  {
+   "off": 10474,
+   "budget": 17,
+   "en": "Chief mad-costs",
+   "src": "B000:4552",
+   "carry": "exact"
+  },
+  {
+   "off": 10491,
+   "budget": 13,
+   "en": "ACT1 half2",
+   "src": "B000:4569",
+   "carry": "exact"
+  },
+  {
+   "off": 10504,
+   "budget": 7,
+   "en": "AtHome",
+   "src": "B000:4582",
+   "carry": "exact"
+  },
+  {
+   "off": 10511,
+   "budget": 9,
+   "en": "PostQs",
+   "src": "B000:4589",
+   "carry": "exact"
+  },
+  {
+   "off": 10520,
+   "budget": 11,
+   "en": "At PC",
+   "src": "B000:4598",
+   "carry": "exact"
+  },
+  {
+   "off": 10531,
+   "budget": 9,
+   "en": "Doggy",
+   "src": "B000:4609",
+   "carry": "exact"
+  },
+  {
+   "off": 10540,
+   "budget": 5,
+   "en": "Car",
+   "src": "B000:4618",
+   "carry": "exact"
+  },
+  {
+   "off": 10545,
+   "budget": 13,
+   "en": "Gillian home",
+   "src": "B000:4623",
+   "carry": "exact"
+  },
+  {
+   "off": 10558,
+   "budget": 11,
+   "en": "Altamira",
+   "src": "B000:4636",
+   "carry": "exact"
+  },
+  {
+   "off": 10569,
+   "budget": 11,
+   "en": "At Alta",
+   "src": "B000:4647",
+   "carry": "exact"
+  },
+  {
+   "off": 10580,
+   "budget": 11,
+   "en": "Meet Napo",
+   "src": "B000:4658",
+   "carry": "exact"
+  },
+  {
+   "off": 10591,
+   "budget": 9,
+   "en": "Diviner",
+   "src": "B000:4669",
+   "carry": "exact"
+  },
+  {
+   "off": 10600,
+   "budget": 15,
+   "en": "Can flirt",
+   "src": "B000:4678",
+   "carry": "exact"
+  },
+  {
+   "off": 10615,
+   "budget": 19,
+   "en": "Joy Division",
+   "src": "B000:4693",
+   "carry": "exact"
+  },
+  {
+   "off": 10634,
+   "budget": 11,
+   "en": "At Joy",
+   "src": "B000:4712",
+   "carry": "exact"
+  },
+  {
+   "off": 10645,
+   "budget": 15,
+   "en": "NeoKobe-yaki",
+   "src": "B000:4723",
+   "carry": "exact"
+  },
+  {
+   "off": 10660,
+   "budget": 15,
+   "en": "Buy adult vid",
+   "src": "B000:4738",
+   "carry": "exact"
+  },
+  {
+   "off": 10675,
+   "budget": 15,
+   "en": "Outer Heaven",
+   "src": "B000:4753",
+   "carry": "exact"
+  },
+  {
+   "off": 10690,
+   "budget": 11,
+   "en": "Ivan case",
+   "src": "B000:4768",
+   "carry": "exact"
+  },
+  {
+   "off": 10701,
+   "budget": 13,
+   "en": "At Ivan home",
+   "src": "B000:4779",
+   "carry": "exact"
+  },
+  {
+   "off": 10714,
+   "budget": 13,
+   "en": "Ivan's door",
+   "src": "B000:4792",
+   "carry": "exact"
+  },
+  {
+   "off": 10727,
+   "budget": 7,
+   "en": "PreGun",
+   "src": "B000:4805",
+   "carry": "exact"
+  },
+  {
+   "off": 10734,
+   "budget": 11,
+   "en": "PostGun LR",
+   "src": "B000:4812",
+   "carry": "exact"
+  },
+  {
+   "off": 10745,
+   "budget": 13,
+   "en": "LR pre-bath",
+   "src": "B000:4823",
+   "carry": "exact"
+  },
+  {
+   "off": 10758,
+   "budget": 13,
+   "en": "Bath checked",
+   "src": "B000:4836",
+   "carry": "exact"
+  },
+  {
+   "off": 10771,
+   "budget": 15,
+   "en": "Post scan",
+   "src": "B000:4849",
+   "carry": "exact"
+  },
+  {
+   "off": 10786,
+   "budget": 13,
+   "en": "Freddy case",
+   "src": "B000:4864",
+   "carry": "exact"
+  },
+  {
+   "off": 10799,
+   "budget": 15,
+   "en": "At Freddy hm",
+   "src": "B000:4877",
+   "carry": "exact"
+  },
+  {
+   "off": 10814,
+   "budget": 15,
+   "en": "Let inside",
+   "src": "B000:4892",
+   "carry": "exact"
+  },
+  {
+   "off": 10829,
+   "budget": 11,
+   "en": "Qs done",
+   "src": "B000:4907",
+   "carry": "exact"
+  },
+  {
+   "off": 10840,
+   "budget": 9,
+   "en": "In bath",
+   "src": "B000:4918",
+   "carry": "exact"
+  },
+  {
+   "off": 10849,
+   "budget": 9,
+   "en": "Lisa gun",
+   "src": "B000:4927",
+   "carry": "exact"
+  },
+  {
+   "off": 10858,
+   "budget": 11,
+   "en": "PostLisa",
+   "src": "B000:4936",
+   "carry": "exact"
+  },
+  {
+   "off": 10869,
+   "budget": 7,
+   "en": "GoOut",
+   "src": "B000:4947",
+   "carry": "exact"
+  },
+  {
+   "off": 10876,
+   "budget": 7,
+   "en": "GoIn",
+   "src": "B000:4954",
+   "carry": "exact"
+  },
+  {
+   "off": 10883,
+   "budget": 9,
+   "en": "Bath 2",
+   "src": "B000:4961",
+   "carry": "exact"
+  },
+  {
+   "off": 10892,
+   "budget": 9,
+   "en": "Restore",
+   "src": "B000:4970",
+   "carry": "exact"
+  },
+  {
+   "off": 10901,
+   "budget": 13,
+   "en": "ACT2 half1",
+   "src": "B000:4979",
+   "carry": "exact"
+  },
+  {
+   "off": 10914,
+   "budget": 13,
+   "en": "ACT 2 start",
+   "src": "B000:4992",
+   "carry": "exact"
+  },
+  {
+   "off": 10927,
+   "budget": 13,
+   "en": "Chief talked",
+   "src": "B000:5005",
+   "carry": "exact"
+  },
+  {
+   "off": 10940,
+   "budget": 9,
+   "en": "Diviner2",
+   "src": "B000:5018",
+   "carry": "exact"
+  },
+  {
+   "off": 10949,
+   "budget": 9,
+   "en": "Udon",
+   "src": "B000:5027",
+   "carry": "exact"
+  },
+  {
+   "off": 10958,
+   "budget": 15,
+   "en": "Santa Napo",
+   "src": "B000:5036",
+   "carry": "exact"
+  },
+  {
+   "off": 10973,
+   "budget": 17,
+   "en": "Napo parts ways",
+   "src": "B000:5051",
+   "carry": "exact"
+  },
+  {
+   "off": 10990,
+   "budget": 19,
+   "en": "Find Catherine",
+   "carry": "new",
+   "note": "Konami debug scene-select label, not player-visible"
+  },
+  {
+   "off": 11009,
+   "budget": 13,
+   "en": "Oleen Hosp.",
+   "src": "B000:5068",
+   "carry": "exact"
+  },
+  {
+   "off": 11022,
+   "budget": 5,
+   "en": "Here",
+   "src": "B000:5081",
+   "carry": "exact"
+  },
+  {
+   "off": 11027,
+   "budget": 7,
+   "en": "PreTlk",
+   "src": "B000:5086",
+   "carry": "exact"
+  },
+  {
+   "off": 11034,
+   "budget": 11,
+   "en": "Gibson hse",
+   "src": "B000:5093",
+   "carry": "exact"
+  },
+  {
+   "off": 11045,
+   "budget": 15,
+   "en": "Twitchy Alice",
+   "src": "B000:5104",
+   "carry": "exact"
+  },
+  {
+   "off": 11060,
+   "budget": 55,
+   "en": "Petrovich here!￥Let's be friends!",
+   "src": "B000:5119",
+   "carry": "exact"
+  },
+  {
+   "off": 11115,
+   "budget": 5,
+   "en": "Home",
+   "src": "B000:5174",
+   "carry": "exact"
+  },
+  {
+   "off": 11120,
+   "budget": 9,
+   "en": "At home",
+   "src": "B000:5179",
+   "carry": "exact"
+  },
+  {
+   "off": 11129,
+   "budget": 17,
+   "en": "Shower booth opn",
+   "src": "B000:5188",
+   "carry": "exact"
+  },
+  {
+   "off": 11146,
+   "budget": 17,
+   "en": "Catherine search",
+   "src": "B000:5205",
+   "carry": "exact"
+  },
+  {
+   "off": 11163,
+   "budget": 11,
+   "en": "PostSearch",
+   "src": "B000:5222",
+   "carry": "exact"
+  },
+  {
+   "off": 11174,
+   "budget": 15,
+   "en": "Queen Hosp 1",
+   "src": "B000:5233",
+   "carry": "exact",
+   "long": "Queen Hospital 1"
+  },
+  {
+   "off": 11189,
+   "budget": 9,
+   "en": "At hosp",
+   "src": "B000:5248",
+   "carry": "exact"
+  },
+  {
+   "off": 11198,
+   "budget": 11,
+   "en": "Pre-Light",
+   "src": "B000:5257",
+   "carry": "exact"
+  },
+  {
+   "off": 11209,
+   "budget": 13,
+   "en": "ACT2 half2",
+   "src": "B000:5268",
+   "carry": "exact"
+  },
+  {
+   "off": 11222,
+   "budget": 17,
+   "en": "Outer Heaven 2",
+   "src": "B000:5281",
+   "carry": "exact"
+  },
+  {
+   "off": 11239,
+   "budget": 5,
+   "en": "Shop",
+   "src": "B000:5298",
+   "carry": "exact"
+  },
+  {
+   "off": 11244,
+   "budget": 17,
+   "en": "Pre-Benson guess",
+   "src": "B000:5303",
+   "carry": "exact"
+  },
+  {
+   "off": 11261,
+   "budget": 15,
+   "en": "HQ empty",
+   "src": "B000:5320",
+   "carry": "exact"
+  },
+  {
+   "off": 11276,
+   "budget": 25,
+   "en": "Queen w/ Randam",
+   "src": "B000:5335",
+   "carry": "exact"
+  },
+  {
+   "off": 11301,
+   "budget": 11,
+   "en": "Janken",
+   "src": "B000:5360",
+   "carry": "exact"
+  },
+  {
+   "off": 11312,
+   "budget": 13,
+   "en": "OR gun 1",
+   "src": "B000:5371",
+   "carry": "exact"
+  },
+  {
+   "off": 11325,
+   "budget": 13,
+   "en": "OR gun 2",
+   "src": "B000:5384",
+   "carry": "exact"
+  },
+  {
+   "off": 11338,
+   "budget": 17,
+   "en": "Queen basement",
+   "src": "B000:5397",
+   "carry": "exact"
+  },
+  {
+   "off": 11355,
+   "budget": 11,
+   "en": "B1 hallway",
+   "src": "B000:5414",
+   "carry": "exact"
+  },
+  {
+   "off": 11366,
+   "budget": 11,
+   "en": "B1 morgue",
+   "src": "B000:5425",
+   "carry": "exact"
+  },
+  {
+   "off": 11377,
+   "budget": 9,
+   "en": "Rebuild",
+   "src": "B000:5436",
+   "carry": "exact"
+  },
+  {
+   "off": 11386,
+   "budget": 17,
+   "en": "What a shock!",
+   "src": "B000:5445",
+   "carry": "exact"
+  },
+  {
+   "off": 11403,
+   "budget": 7,
+   "en": "Chin 1",
+   "src": "B000:5462",
+   "carry": "exact"
+  },
+  {
+   "off": 11410,
+   "budget": 7,
+   "en": "Chin 2",
+   "src": "B000:5469",
+   "carry": "exact"
+  },
+  {
+   "off": 11417,
+   "budget": 17,
+   "en": "Tunnel and taxi",
+   "src": "B000:5476",
+   "carry": "exact"
+  },
+  {
+   "off": 11434,
+   "budget": 5,
+   "en": "Maze",
+   "src": "B000:5493",
+   "carry": "exact"
+  },
+  {
+   "off": 11439,
+   "budget": 7,
+   "en": "Subway",
+   "src": "B000:5498",
+   "carry": "exact"
+  },
+  {
+   "off": 11446,
+   "budget": 15,
+   "en": "Freddy's bath",
+   "src": "B000:5505",
+   "carry": "exact"
+  },
+  {
+   "off": 11461,
+   "budget": 9,
+   "en": "Taxi",
+   "src": "B000:5520",
+   "carry": "exact"
+  },
+  {
+   "off": 11470,
+   "budget": 11,
+   "en": "Last HQ",
+   "src": "B000:5529",
+   "carry": "exact"
+  },
+  {
+   "off": 11481,
+   "budget": 9,
+   "en": "At HQ",
+   "src": "B000:5540",
+   "carry": "exact"
+  },
+  {
+   "off": 11490,
+   "budget": 11,
+   "en": "BoothOpen",
+   "src": "B000:5549",
+   "carry": "exact"
+  },
+  {
+   "off": 11501,
+   "budget": 11,
+   "en": "Harry dead",
+   "src": "B000:5560",
+   "carry": "exact"
+  },
+  {
+   "off": 11512,
+   "budget": 9,
+   "en": "Ceiling",
+   "src": "B000:5571",
+   "carry": "exact"
+  },
+  {
+   "off": 11521,
+   "budget": 3,
+   "en": "1",
+   "src": "B000:5580",
+   "carry": "exact",
+   "long": "Before"
+  },
+  {
+   "off": 11524,
+   "budget": 3,
+   "en": "2",
+   "src": "B000:5583",
+   "carry": "exact",
+   "long": "After"
+  },
+  {
+   "off": 11527,
+   "budget": 13,
+   "en": "Front Chief",
+   "src": "B000:5586",
+   "carry": "exact"
+  },
+  {
+   "off": 11540,
+   "budget": 13,
+   "en": "At front",
+   "src": "B000:5599",
+   "carry": "exact"
+  },
+  {
+   "off": 11553,
+   "budget": 13,
+   "en": "Chief death",
+   "src": "B000:5612",
+   "carry": "exact"
+  },
+  {
+   "off": 11566,
+   "budget": 13,
+   "en": "ACT 3 start",
+   "src": "B000:5634",
+   "carry": "exact"
+  },
+  {
+   "off": 11579,
+   "budget": 13,
+   "en": "Old man!",
+   "src": "B000:5647",
+   "carry": "exact"
+  },
+  {
+   "off": 11592,
+   "budget": 11,
+   "en": "Solved it!",
+   "src": "B000:5660",
+   "carry": "exact"
+  },
+  {
+   "off": 11603,
+   "budget": 5,
+   "en": "Chur",
+   "src": "B000:5671",
+   "carry": "exact",
+   "long": "Church"
+  },
+  {
+   "off": 11608,
+   "budget": 9,
+   "en": "ToChurch",
+   "src": "B000:5676",
+   "carry": "exact"
+  },
+  {
+   "off": 11617,
+   "budget": 9,
+   "en": "AtChurch",
+   "src": "B000:5685",
+   "carry": "exact"
+  },
+  {
+   "off": 11626,
+   "budget": 7,
+   "en": "Chapel",
+   "src": "B000:5694",
+   "carry": "exact"
+  },
+  {
+   "off": 11633,
+   "budget": 7,
+   "en": "Vault",
+   "src": "B000:5701",
+   "carry": "exact"
+  },
+  {
+   "off": 11640,
+   "budget": 11,
+   "en": "Culture rm",
+   "src": "B000:5708",
+   "carry": "exact",
+   "long": "Culture room"
+  },
+  {
+   "off": 11651,
+   "budget": 15,
+   "en": "At culture rm",
+   "src": "B000:5719",
+   "carry": "exact",
+   "long": "At the culture room"
+  },
+  {
+   "off": 11666,
+   "budget": 13,
+   "en": "Snatch proc",
+   "src": "B000:5734",
+   "carry": "exact"
+  },
+  {
+   "off": 11679,
+   "budget": 17,
+   "en": "Boss Snatcher",
+   "src": "B000:5747",
+   "carry": "exact"
+  },
+  {
+   "off": 11696,
+   "budget": 11,
+   "en": "Church bug",
+   "src": "B000:5764",
+   "carry": "exact"
+  },
+  {
+   "off": 11707,
+   "budget": 13,
+   "en": "Church-Sna",
+   "src": "B000:5775",
+   "carry": "exact"
+  },
+  {
+   "off": 11720,
+   "budget": 15,
+   "en": "Jamie reunion2",
+   "src": "B000:5788",
+   "carry": "exact"
+  },
+  {
+   "off": 11735,
+   "budget": 13,
+   "en": "Randam jar 1",
+   "src": "B000:5803",
+   "carry": "exact"
+  },
+  {
+   "off": 11748,
+   "budget": 15,
+   "en": "Jamie reunion",
+   "src": "B000:5816",
+   "carry": "exact"
+  },
+  {
+   "off": 11763,
+   "budget": 9,
+   "en": "Army art",
+   "src": "B000:5831",
+   "carry": "exact"
+  },
+  {
+   "off": 11772,
+   "budget": 15,
+   "en": "You're CIA",
+   "src": "B000:5840",
+   "carry": "exact"
+  },
+  {
+   "off": 11787,
+   "budget": 11,
+   "en": "Elijah 1",
+   "src": "B000:5855",
+   "carry": "exact"
+  },
+  {
+   "off": 11798,
+   "budget": 13,
+   "en": "Elijah 2",
+   "src": "B000:5866",
+   "carry": "exact"
+  },
+  {
+   "off": 11811,
+   "budget": 7,
+   "en": "Politi",
+   "src": "B000:5879",
+   "carry": "exact"
+  },
+  {
+   "off": 11818,
+   "budget": 17,
+   "en": "What's this?!",
+   "src": "B000:5886",
+   "carry": "exact"
+  },
+  {
+   "off": 11835,
+   "budget": 13,
+   "en": "Randam jar 2",
+   "src": "B000:5903",
+   "carry": "exact"
+  },
+  {
+   "off": 11848,
+   "budget": 15,
+   "en": "Randam jarred",
+   "src": "B000:5916",
+   "carry": "exact"
+  },
+  {
+   "off": 11863,
+   "budget": 17,
+   "en": "Silly scene 71",
+   "src": "B000:5931",
+   "carry": "exact"
+  },
+  {
+   "off": 11880,
+   "budget": 11,
+   "en": "Scene 76",
+   "src": "B000:5948",
+   "carry": "exact"
+  },
+  {
+   "off": 11891,
+   "budget": 13,
+   "en": "Bra shot",
+   "src": "B000:5959",
+   "carry": "exact"
+  },
+  {
+   "off": 11904,
+   "budget": 13,
+   "en": "Randam runs",
+   "src": "B000:5972",
+   "carry": "exact"
+  },
+  {
+   "off": 11917,
+   "budget": 9,
+   "en": "Sorry",
+   "src": "B000:5985",
+   "carry": "exact"
+  },
+  {
+   "off": 11926,
+   "budget": 9,
+   "en": "For Asa.",
+   "src": "B000:5994",
+   "carry": "exact"
+  },
+  {
+   "off": 11935,
+   "budget": 7,
+   "en": "RnFace",
+   "src": "B000:6003",
+   "carry": "exact"
+  },
+  {
+   "off": 11942,
+   "budget": 11,
+   "en": "As thought",
+   "src": "B000:6010",
+   "carry": "exact"
+  },
+  {
+   "off": 11953,
+   "budget": 9,
+   "en": "Backward",
+   "src": "B000:6021",
+   "carry": "exact"
+  },
+  {
+   "off": 11962,
+   "budget": 13,
+   "en": "Is he dead?",
+   "src": "B000:6030",
+   "carry": "exact"
+  },
+  {
+   "off": 11975,
+   "budget": 15,
+   "en": "Summit over?",
+   "src": "B000:6043",
+   "carry": "exact"
+  },
+  {
+   "off": 11990,
+   "budget": 19,
+   "en": "What of summit",
+   "src": "B000:6058",
+   "carry": "exact"
+  },
+  {
+   "off": 12009,
+   "budget": 11,
+   "en": "Last 2",
+   "src": "B000:6077",
+   "carry": "exact"
+  },
+  {
+   "off": 12020,
+   "budget": 7,
+   "en": "End",
+   "src": "B000:6088",
+   "carry": "exact"
+  },
+  {
+   "off": 12027,
+   "budget": 13,
+   "en": "ACT1 range",
+   "src": "B000:6095",
+   "carry": "exact"
+  },
+  {
+   "off": 12040,
+   "budget": 11,
+   "en": "HQ drill 1",
+   "src": "B000:6108",
+   "carry": "exact"
+  },
+  {
+   "off": 12051,
+   "budget": 9,
+   "en": "PlantGun",
+   "src": "B000:6119",
+   "carry": "exact"
+  },
+  {
+   "off": 12060,
+   "budget": 11,
+   "en": "HQ drill 2",
+   "src": "B000:6128",
+   "carry": "exact"
+  },
+  {
+   "off": 12071,
+   "budget": 7,
+   "en": "Ivan",
+   "src": "B000:6139",
+   "carry": "exact"
+  },
+  {
+   "off": 12078,
+   "budget": 7,
+   "en": "PostGn",
+   "src": "B000:6146",
+   "carry": "exact"
+  },
+  {
+   "off": 12085,
+   "budget": 5,
+   "en": "Lisa",
+   "src": "B000:6153",
+   "carry": "exact"
+  },
+  {
+   "off": 12090,
+   "budget": 9,
+   "en": "Freddy",
+   "src": "B000:6158",
+   "carry": "exact"
+  },
+  {
+   "off": 12099,
+   "budget": 13,
+   "en": "ACT2 range",
+   "src": "B000:6167",
+   "carry": "exact"
+  },
+  {
+   "off": 12112,
+   "budget": 9,
+   "en": "HQ drill",
+   "src": "B000:6180",
+   "carry": "exact"
+  },
+  {
+   "off": 12121,
+   "budget": 13,
+   "en": "Queen Hosp",
+   "src": "B000:6189",
+   "carry": "exact",
+   "long": "Queen Hospital"
+  },
+  {
+   "off": 12134,
+   "budget": 17,
+   "en": "Queen OR 1",
+   "src": "B000:6202",
+   "carry": "exact"
+  },
+  {
+   "off": 12151,
+   "budget": 17,
+   "en": "Queen OR 2",
+   "src": "B000:6219",
+   "carry": "exact"
+  },
+  {
+   "off": 12168,
+   "budget": 9,
+   "en": "MazeBugW",
+   "src": "B000:6236",
+   "carry": "exact"
+  },
+  {
+   "off": 12177,
+   "budget": 9,
+   "en": "MazeBugS",
+   "src": "B000:6245",
+   "carry": "exact"
+  },
+  {
+   "off": 12186,
+   "budget": 17,
+   "en": "Taxi man Chin",
+   "src": "B000:6254",
+   "carry": "exact"
+  },
+  {
+   "off": 12203,
+   "budget": 13,
+   "en": "ACT3 range",
+   "src": "B000:6271",
+   "carry": "exact"
+  },
+  {
+   "off": 12216,
+   "budget": 7,
+   "en": "ChBug",
+   "src": "B000:6284",
+   "carry": "exact"
+  },
+  {
+   "off": 12223,
+   "budget": 9,
+   "en": "ChSnatch",
+   "src": "B000:6291",
+   "carry": "exact"
+  },
+  {
+   "off": 12232,
+   "budget": 11,
+   "en": "For ACT1",
+   "src": "B000:6573",
+   "carry": "exact"
+  },
+  {
+   "off": 12243,
+   "budget": 11,
+   "en": "For ACT2",
+   "src": "B000:6584",
+   "carry": "exact"
+  },
+  {
+   "off": 12254,
+   "budget": 11,
+   "en": "EroJemi",
+   "src": "B000:6595",
+   "carry": "exact"
+  },
+  {
+   "off": 12265,
+   "budget": 17,
+   "en": "OutJamie",
+   "src": "B000:6606",
+   "carry": "exact"
+  },
+  {
+   "off": 12282,
+   "budget": 15,
+   "en": "VRAM anim",
+   "src": "B000:6623",
+   "carry": "exact"
+  },
+  {
+   "off": 12297,
+   "budget": 9,
+   "en": "To plant",
+   "src": "B000:6638",
+   "carry": "exact"
+  },
+  {
+   "off": 12306,
+   "budget": 9,
+   "en": "Normal",
+   "src": "B000:6647",
+   "carry": "exact"
+  },
+  {
+   "off": 12315,
+   "budget": 69,
+   "en": "I'll drop you at Gillian's place;￥choose 'get in car' there!",
+   "src": "B000:6656",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12384,
+   "budget": 9,
+   "en": "Fr. Mika",
+   "src": "B000:6723",
+   "carry": "exact"
+  },
+  {
+   "off": 12393,
+   "budget": 9,
+   "en": "From TEL",
+   "src": "B000:6732",
+   "carry": "exact"
+  },
+  {
+   "off": 12402,
+   "budget": 7,
+   "en": "PstTEL",
+   "src": "B000:6741",
+   "carry": "exact"
+  },
+  {
+   "off": 12409,
+   "budget": 13,
+   "en": "Montage",
+   "src": "B000:6762",
+   "carry": "exact"
+  },
+  {
+   "off": 12424,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

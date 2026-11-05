@@ -1,0 +1,236 @@
+{
+ "_doc": "Coverage routes (coverage_run.py, regress.py cov_<name>): each a library save booted fresh, then steps - the branches the act routes never take. Excuses for what stays unreachable are in coverage_known.json.",
+ "end_mod334": {
+  "save": "mod334",
+  "steps": [
+   {
+    "endgame": 1,
+    "wait": 60
+   },
+   {
+    "read": 4000
+   }
+  ],
+  "why": "Save then End the game: Metal Gear's farewell (line 86) in the module's save handler"
+ },
+ "end_mod350": {
+  "save": "mod350",
+  "steps": [
+   {
+    "endgame": 1,
+    "wait": 60
+   },
+   {
+    "read": 4000
+   }
+  ],
+  "why": "Save then End the game: Metal Gear's farewell (line 86) in the module's save handler"
+ },
+ "end_mod398": {
+  "save": "mod398",
+  "steps": [
+   {
+    "endgame": 1,
+    "wait": 60
+   },
+   {
+    "read": 4000
+   }
+  ],
+  "why": "Save then End the game: Metal Gear's farewell (line 86) in the module's save handler"
+ },
+ "end_mod446": {
+  "save": "mod446",
+  "steps": [
+   {
+    "endgame": 1,
+    "wait": 60
+   },
+   {
+    "read": 4000
+   }
+  ],
+  "why": "Save then End the game: Metal Gear's farewell (line 86) in the module's save handler"
+ },
+ "end_mod462": {
+  "save": "mod462",
+  "steps": [
+   {
+    "endgame": 1,
+    "wait": 60
+   },
+   {
+    "read": 4000
+   }
+  ],
+  "why": "Save then End the game: Metal Gear's farewell (line 86) in the module's save handler"
+ },
+ "end_mod478": {
+  "save": "mod478",
+  "steps": [
+   {
+    "endgame": 1,
+    "wait": 60
+   },
+   {
+    "read": 4000
+   }
+  ],
+  "why": "Save then End the game: Metal Gear's farewell (line 86) in the module's save handler"
+ },
+ "end_mod510": {
+  "save": "mod510",
+  "steps": [
+   {
+    "endgame": 1,
+    "wait": 60
+   },
+   {
+    "read": 4000
+   }
+  ],
+  "why": "Save then End the game: Metal Gear's farewell (line 86) in the module's save handler"
+ },
+ "end_mod574": {
+  "save": "mod574",
+  "steps": [
+   {
+    "endgame": 1,
+    "wait": 60
+   },
+   {
+    "read": 4000
+   }
+  ],
+  "why": "Save then End the game: Metal Gear's farewell (line 86) in the module's save handler"
+ },
+ "end_mod606": {
+  "save": "mod606",
+  "steps": [
+   {
+    "endgame": 1,
+    "wait": 60
+   },
+   {
+    "read": 4000
+   }
+  ],
+  "why": "Save then End the game: Metal Gear's farewell (line 86) in the module's save handler"
+ },
+ "end_mod622": {
+  "save": "mod622",
+  "steps": [
+   {
+    "endgame": 1,
+    "wait": 60
+   },
+   {
+    "read": 4000
+   }
+  ],
+  "why": "Save then End the game: Metal Gear's farewell (line 86) in the module's save handler"
+ },
+ "end_mod654": {
+  "save": "mod654",
+  "steps": [
+   {
+    "endgame": 1,
+    "wait": 60
+   },
+   {
+    "read": 4000
+   }
+  ],
+  "why": "Save then End the game: Metal Gear's farewell (line 86) in the module's save handler"
+ },
+ "gaudi": {
+  "save": "mod350",
+  "steps": [
+   {
+    "maybe": "Move"
+   },
+   {
+    "maybe": "Computer room"
+   },
+   {
+    "read": 6000
+   },
+   {
+    "choose": "Use Gaudi"
+   },
+   {
+    "wait": 600
+   },
+   {
+    "read": 3000
+   },
+   {
+    "items": 1
+   },
+   {
+    "maybe": "Use card"
+   },
+   {
+    "maybe": "Load person file"
+   },
+   {
+    "maybe": "Search a name"
+   },
+   {
+    "wait": 900
+   },
+   {
+    "type": "GILLIAN"
+   },
+   {
+    "read": 4000
+   },
+   {
+    "items": 1
+   }
+  ],
+  "why": "Gaudi's database (222) and its name search (254)"
+ },
+ "catherine": {
+  "save": "gibson_living",
+  "steps": [
+   {
+    "choose": "Do something"
+   },
+   {
+    "choose": "Touch"
+   },
+   {
+    "read": 6000
+   },
+   {
+    "choose": "Do something"
+   },
+   {
+    "choose": "Touch"
+   },
+   {
+    "read": 6000
+   },
+   {
+    "choose": "Do something"
+   },
+   {
+    "choose": "Touch"
+   },
+   {
+    "read": 6000
+   },
+   {
+    "choose": "Do something"
+   },
+   {
+    "choose": "Flirt"
+   },
+   {
+    "read": 6000
+   }
+  ],
+  "why": "Gibson's living room: Catherine's 'Eeek! Pervert!' and 'Get out!' (382 fb, 55); the save is minted in the living room (work/pce/saves/gibson_living.sav)"
+ }
+}

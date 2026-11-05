@@ -1,0 +1,139 @@
+{
+ "scene": "B020",
+ "note": "The factory ruins - the PS1's ps1/harness/routes/B020.json on the Saturn build, from the B020_auto bookmark (the run through B010's tricycle). Movement and the Metal Gear analysis are explicit paths; every examination a sweep. The scene ends in an insector shootout after retreating: START draws the Blaster on the Saturn (the game's own prompt), the aim is the pilot's fight handler.",
+ "actions": [
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "patience": 8000
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Go inside"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Forward"
+   ]
+  },
+  {
+   "save": "B020_lj"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Use Metal Gear",
+    "Analysis",
+    "Little John's memory"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Move",
+    "Forward"
+   ],
+   "reps": 2
+  },
+  {
+   "save": "B020_gibson"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Item",
+    "Listen",
+    "Use Metal Gear"
+   ],
+   "rounds": 5,
+   "avoid": [
+    "Videophone",
+    "Save",
+    "Load"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Forward"
+   ]
+  },
+  {
+   "save": "B020_front"
+  },
+  {
+   "sweep": [
+    "Listen",
+    "Look",
+    "Investigate",
+    "Use Metal Gear"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Videophone",
+    "Save",
+    "Load"
+   ]
+  },
+  {
+   "path": [
+    "Back"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Back"
+   ],
+   "reps": 2
+  },
+  {
+   "path": [
+    "Look",
+    "Little John"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B020_prefight"
+  },
+  {
+   "path": [
+    "Move",
+    "Back"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Go out|Forward"
+   ]
+  },
+  {
+   "idle": 1500
+  },
+  {
+   "wait_menu": true,
+   "patience": 16000,
+   "hold": 60
+  }
+ ]
+}

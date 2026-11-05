@@ -1,0 +1,1054 @@
+{
+ "file": "ISZ_B1B0.BIN",
+ "text_base": 2715,
+ "strings": [
+  {
+   "off": 2716,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 2720,
+   "budget": 59,
+   "en": "This is...￥the ＠黄Oleen Hospital＠白 Napoleon spoke of.",
+   "long": "This is ＠黄Oleen Hospital＠白, the place￥Napoleon told us about."
+  },
+  {
+   "off": 2779,
+   "budget": 33,
+   "en": "＠黄Oleen Hospital＠白."
+  },
+  {
+   "off": 2812,
+   "budget": 87,
+   "en": "Could this be the Snatcher￥maintenance hospital Gibson￥mentioned?"
+  },
+  {
+   "off": 2899,
+   "budget": 5,
+   "en": "Move"
+  },
+  {
+   "off": 2904,
+   "budget": 9,
+   "en": "Get in",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 2913,
+   "budget": 9,
+   "en": "Go in",
+   "long": "Go inside"
+  },
+  {
+   "off": 2922,
+   "budget": 47,
+   "en": "The hospital door.￥Shall I open it now?",
+   "long": "This is the hospital door. I'll open￥it. Ready?"
+  },
+  {
+   "off": 2969,
+   "budget": 21,
+   "en": "Go ahead!"
+  },
+  {
+   "off": 2990,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 2995,
+   "budget": 5,
+   "en": "Bldg",
+   "long": "Building"
+  },
+  {
+   "off": 3000,
+   "budget": 61,
+   "en": "A neon sign on the roof.￥The entrance is at the front.",
+   "long": "There's a neon sign on the roof. The￥entrance seems to be at the front."
+  },
+  {
+   "off": 3061,
+   "budget": 37,
+   "en": "Looks every inch a black clinic.",
+   "long": "It certainly looks like an￥underground clinic."
+  },
+  {
+   "off": 3098,
+   "budget": 5,
+   "en": "Sign"
+  },
+  {
+   "off": 3103,
+   "budget": 47,
+   "en": "What sort of hospital?￥Nothing is written.",
+   "long": "What kind of hospital is this? It￥doesn't say."
+  },
+  {
+   "off": 3150,
+   "budget": 25,
+   "en": "It's a black clinic...",
+   "long": "Probably because it's illegal."
+  },
+  {
+   "off": 3175,
+   "budget": 61,
+   "en": "No proper signage.￥Not a registered hospital.",
+   "long": "There are no proper signs. It￥probably isn't a licensed hospital."
+  },
+  {
+   "off": 3236,
+   "budget": 3,
+   "en": "Wn",
+   "long": "Window"
+  },
+  {
+   "off": 3239,
+   "budget": 67,
+   "en": "Lights are on.￥Figures too...￥In consultation, it seems.",
+   "long": "The lights are on. I can see people￥inside. They seem to be seeing￥patients."
+  },
+  {
+   "off": 3306,
+   "budget": 33,
+   "en": "They appear to be open."
+  },
+  {
+   "off": 3339,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 3346,
+   "budget": 63,
+   "en": "A bit off the slum, but this￥is no brighter either.",
+   "long": "We're a little way from the slums,￥but this place isn't much better."
+  },
+  {
+   "off": 3409,
+   "budget": 33,
+   "en": "Illegal parking blocks the road.",
+   "long": "Illegally parked cars are blocking￥the road."
+  },
+  {
+   "off": 3442,
+   "budget": 37,
+   "en": "Not abandoned. Parked, it seems.",
+   "long": "The cars seem to be parked, rather￥than abandoned."
+  },
+  {
+   "off": 3479,
+   "budget": 43,
+   "en": "Not scrap, so patients' cars,￥I'd guess.",
+   "long": "If they're not scrap, they must￥belong to patients."
+  },
+  {
+   "off": 3522,
+   "budget": 59,
+   "en": "Many fine cars.￥The patients' here, perhaps?",
+   "long": "Lots of expensive cars. Do they￥belong to people visiting this￥hospital?"
+  },
+  {
+   "off": 3581,
+   "budget": 13,
+   "en": "Neon sign"
+  },
+  {
+   "off": 3594,
+   "budget": 75,
+   "en": "It says Oleen Hospital. HOSPITAL￥OLEEN."
+  },
+  {
+   "off": 3669,
+   "budget": 37,
+   "en": "What? ＠黄Oleen＠白 Hospital?"
+  },
+  {
+   "off": 3706,
+   "budget": 37,
+   "en": "Is this place really the hospital?",
+   "long": "Are you sure this is the right￥hospital?"
+  },
+  {
+   "off": 3743,
+   "budget": 3,
+   "en": "Dr",
+   "long": "Door"
+  },
+  {
+   "off": 3746,
+   "budget": 23,
+   "en": "A double auto door.",
+   "long": "It's an automatic double door."
+  },
+  {
+   "off": 3769,
+   "budget": 47,
+   "en": "The inside shows faintly.￥Warm within.",
+   "long": "I can just see inside. It looks warm￥in there."
+  },
+  {
+   "off": 3816,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 3823,
+   "budget": 37,
+   "en": "Odd cries come from the building.",
+   "long": "I hear strange animal cries from￥inside."
+  },
+  {
+   "off": 3860,
+   "budget": 33,
+   "en": "Wire mesh over windows and gaps.",
+   "long": "Wire mesh covers the windows and￥gaps."
+  },
+  {
+   "off": 3893,
+   "budget": 29,
+   "en": "Stout wire mesh.",
+   "long": "There's sturdy wire mesh over them."
+  },
+  {
+   "off": 3922,
+   "budget": 47,
+   "en": "We'd find out more by going inside."
+  },
+  {
+   "off": 3969,
+   "budget": 43,
+   "en": "Small-animal droppings all￥over the road.",
+   "long": "The street is covered in droppings￥and urine from small animals."
+  },
+  {
+   "off": 4012,
+   "budget": 57,
+   "en": "I don't see anyone. A lonely place￥for a hospital."
+  },
+  {
+   "off": 4069,
+   "budget": 63,
+   "en": "It doesn't look quite like the neon￥sign in that memory."
+  },
+  {
+   "off": 4132,
+   "budget": 31,
+   "en": "Is this the only neon?",
+   "long": "Is this the only neon sign around?"
+  },
+  {
+   "off": 4163,
+   "budget": 69,
+   "en": "Odd?￥Not infrared. An old pressure￥sensor, it seems.",
+   "long": "Strange. The door seems to use an￥old pressure sensor instead of￥infrared."
+  },
+  {
+   "off": 4232,
+   "budget": 45,
+   "en": "So it's open for business,￥and boldly so.",
+   "long": "So they're openly doing business.￥Pretty bold."
+  },
+  {
+   "off": 4277,
+   "budget": 45,
+   "en": "Not locked.￥It opens as you near it.",
+   "long": "It's unlocked. It will open when we￥approach."
+  },
+  {
+   "off": 4322,
+   "budget": 11,
+   "en": "Smell"
+  },
+  {
+   "off": 4333,
+   "budget": 61,
+   "en": "It smells more like animal waste￥than a hospital."
+  },
+  {
+   "off": 4394,
+   "budget": 63,
+   "en": "We won't know until we go inside. Be￥careful, Gillian."
+  },
+  {
+   "off": 4457,
+   "budget": 19,
+   "en": "It does reek..."
+  },
+  {
+   "off": 4476,
+   "budget": 41,
+   "en": "Yes,￥this is an animal smell.",
+   "long": "Yes. It does appear to be an animal￥smell."
+  },
+  {
+   "off": 4517,
+   "budget": 13,
+   "en": "......"
+  },
+  {
+   "off": 4530,
+   "budget": 37,
+   "en": "My odor sensor can't identify it."
+  },
+  {
+   "off": 4567,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 4572,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 4587,
+   "budget": 13,
+   "en": "Videophone"
+  },
+  {
+   "off": 4600,
+   "budget": 33,
+   "en": "Let's investigate inside first."
+  },
+  {
+   "off": 4633,
+   "budget": 31,
+   "en": "Can the videophone wait?"
+  },
+  {
+   "off": 4664,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 4675,
+   "budget": 37,
+   "en": "I'll save our progress so far."
+  },
+  {
+   "off": 4712,
+   "budget": 43,
+   "en": "Gillian, we can't turn back now.",
+   "long": "We've come this far, Gillian. We￥shouldn't leave now."
+  },
+  {
+   "off": 4755,
+   "budget": 31,
+   "en": "Let's get to the bottom of it.",
+   "long": "Let's find out what this hospital￥really is."
+  },
+  {
+   "off": 4786,
+   "budget": 33,
+   "en": "Let's ask the patients here.",
+   "long": "Let's talk to the hospital's￥visitors."
+  },
+  {
+   "off": 4819,
+   "budget": 41,
+   "en": "Why not show them Little￥John's memory?",
+   "long": "Why not show them Little John's￥memory?"
+  },
+  {
+   "off": 4860,
+   "budget": 27,
+   "en": "Let's find reception."
+  },
+  {
+   "off": 4887,
+   "budget": 45,
+   "en": "In the hospital.￥...The front desk.",
+   "long": "We're inside the hospital. This￥looks like reception."
+  },
+  {
+   "off": 4932,
+   "budget": 9,
+   "en": "Go out"
+  },
+  {
+   "off": 4941,
+   "budget": 5,
+   "en": "Room",
+   "long": "Inside"
+  },
+  {
+   "off": 4946,
+   "budget": 35,
+   "en": "This space seems a waiting room.",
+   "long": "This appears to be the waiting room."
+  },
+  {
+   "off": 4981,
+   "budget": 33,
+   "en": "Smaller than I thought.",
+   "long": "The hospital seems smaller than I￥expected."
+  },
+  {
+   "off": 5014,
+   "budget": 13,
+   "en": "Passersby"
+  },
+  {
+   "off": 5027,
+   "budget": 35,
+   "en": "Hm? They all hold small animals.",
+   "long": "Huh? Everyone's holding a small￥animal."
+  },
+  {
+   "off": 5062,
+   "budget": 61,
+   "en": "All with small animals.￥They look quite well off.",
+   "long": "They all have small animals with￥them. They look quite wealthy."
+  },
+  {
+   "off": 5123,
+   "budget": 5,
+   "en": "Desk",
+   "long": "Reception"
+  },
+  {
+   "off": 5128,
+   "budget": 55,
+   "en": "There's a receptionist registering￥patients."
+  },
+  {
+   "off": 5183,
+   "budget": 27,
+   "en": "Insurance covers it...",
+   "long": "Looks like they take insurance."
+  },
+  {
+   "off": 5210,
+   "budget": 31,
+   "en": "Not a black clinic, then...",
+   "long": "This doesn't seem to be an illegal￥clinic."
+  },
+  {
+   "off": 5241,
+   "budget": 31,
+   "en": "Taking consultations.",
+   "long": "She appears to be checking in￥patients."
+  },
+  {
+   "off": 5272,
+   "budget": 7,
+   "en": "Animal",
+   "long": "Small animals"
+  },
+  {
+   "off": 5279,
+   "budget": 7,
+   "en": "Parrot"
+  },
+  {
+   "off": 5286,
+   "budget": 61,
+   "en": "A ＠黄'big-capacity Parrot'＠白￥with expanded word memory.",
+   "long": "It's a ＠黄High-Capacity Parrot＠白, bred￥to remember more words."
+  },
+  {
+   "off": 5347,
+   "budget": 63,
+   "en": "A breed used for playback when￥learning English and such.",
+   "long": "They were often used to repeat￥English lessons and other material￥people wanted to memorize."
+  },
+  {
+   "off": 5410,
+   "budget": 73,
+   "en": "It's saying something very￥private.￥Come to have its memory wiped.",
+   "long": "It's saying some very personal￥things. They probably brought it to￥have its memory erased."
+  },
+  {
+   "off": 5483,
+   "budget": 9,
+   "en": "Penguin"
+  },
+  {
+   "off": 5492,
+   "budget": 103,
+   "en": "A Magellantic Kobe Penguin. A￥synthetic breed developed by Aborits￥in 2033 for temperate regions."
+  },
+  {
+   "off": 5595,
+   "budget": 49,
+   "en": "Even in this climate it hops￥about briskly.",
+   "long": "It's hopping around happily, even in￥this climate."
+  },
+  {
+   "off": 5644,
+   "budget": 39,
+   "en": "Was that a somersault kick?"
+  },
+  {
+   "off": 5683,
+   "budget": 11,
+   "en": "What?"
+  },
+  {
+   "off": 5694,
+   "budget": 21,
+   "en": "Nothing."
+  },
+  {
+   "off": 5715,
+   "budget": 3,
+   "en": "Do",
+   "long": "Dog"
+  },
+  {
+   "off": 5718,
+   "budget": 51,
+   "en": "A ＠黄'humming dog'＠白,￥vocal cords remade.",
+   "long": "It's a ＠黄Humming Dog＠白 with modified￥vocal cords."
+  },
+  {
+   "off": 5769,
+   "budget": 67,
+   "en": "Famously that remaking ended￥'dog noise pollution'.",
+   "long": "Those modified vocal cords famously￥solved the problem of noise from￥dogs."
+  },
+  {
+   "off": 5836,
+   "budget": 47,
+   "en": "As expected of a Humming Dog, it's￥quiet."
+  },
+  {
+   "off": 5883,
+   "budget": 3,
+   "en": "Ca",
+   "long": "Cat"
+  },
+  {
+   "off": 5886,
+   "budget": 103,
+   "en": "A ＠黄'pochette pet'＠白.￥A pouched synthetic that was all￥the rage last year as bag and pet.",
+   "long": "A ＠黄Purse Pet＠白. These synthetic￥marsupials doubled as handbags and￥pets, and were hugely popular with￥women last year."
+  },
+  {
+   "off": 5989,
+   "budget": 35,
+   "en": "This must be the feline variety."
+  },
+  {
+   "off": 6024,
+   "budget": 77,
+   "en": "It seems hurt inside the pouch.￥A common thing with pochette pets.",
+   "long": "It seems to have an injury inside￥its pouch. That's common with Purse￥Pets."
+  },
+  {
+   "off": 6101,
+   "budget": 41,
+   "en": "Women's cosmetics wound the belly.",
+   "long": "Women's cosmetics seem to injure the￥inside of their pouches."
+  },
+  {
+   "off": 6142,
+   "budget": 57,
+   "en": "Poor thing. Women go crazy over￥cosmetics."
+  },
+  {
+   "off": 6199,
+   "budget": 51,
+   "en": "Talk like that hurts women.",
+   "long": "Remarks like that are what hurt￥women's feelings."
+  },
+  {
+   "off": 6250,
+   "budget": 25,
+   "en": "The front desk is ahead.",
+   "long": "Reception is straight ahead."
+  },
+  {
+   "off": 6275,
+   "budget": 27,
+   "en": "Consulting room beyond.",
+   "long": "The examination room seems to be￥further back."
+  },
+  {
+   "off": 6302,
+   "budget": 63,
+   "en": "All carry IDs.￥Proper Neo Kobe citizens.",
+   "long": "They all have IDs. They appear to be￥registered Neo Kobe citizens."
+  },
+  {
+   "off": 6365,
+   "budget": 25,
+   "en": "Nobody looks suspicious."
+  },
+  {
+   "off": 6390,
+   "budget": 63,
+   "en": "The animals wear collars and tags.￥They seem to be pets.",
+   "long": "The animals have collars and￥registration tags. They seem to be￥pets."
+  },
+  {
+   "off": 6453,
+   "budget": 49,
+   "en": "'Vicious pets must wear a collar",
+   "long": "The sign says: Aggressive pets must￥wear a collar"
+  },
+  {
+   "off": 6502,
+   "budget": 49,
+   "en": "or be brought in a cage."
+  },
+  {
+   "off": 6551,
+   "budget": 49,
+   "en": "Notices on pet insurance and￥inoculations.",
+   "long": "There are notices about pet￥insurance and vaccinations."
+  },
+  {
+   "off": 6600,
+   "budget": 85,
+   "en": "＠赤It's your fault! You barely earn a￥living! ＠水Then get out, you airhead!"
+  },
+  {
+   "off": 6685,
+   "budget": 51,
+   "en": "Its owners don't seem to have a￥happy marriage."
+  },
+  {
+   "off": 6736,
+   "budget": 45,
+   "en": "A parrot with too good a￥memory is trouble.",
+   "long": "A parrot with too good a memory can￥be trouble."
+  },
+  {
+   "off": 6781,
+   "budget": 73,
+   "en": "＠水Ha! Leave me if you want. No other￥man would have you!"
+  },
+  {
+   "off": 6854,
+   "budget": 67,
+   "en": "＠赤You wouldn't know, but I was￥quite the thing when young!!",
+   "long": "＠赤You don't know this, but I got￥plenty of action when I was young!"
+  },
+  {
+   "off": 6921,
+   "budget": 45,
+   "en": "(Really? That woman with the long￥face?)"
+  },
+  {
+   "off": 6966,
+   "budget": 57,
+   "en": "＠赤I can't live with you!!￥Separate rooms, separate!!",
+   "long": "＠赤I can't live with you! I'm leaving!￥We're separating!"
+  },
+  {
+   "off": 7023,
+   "budget": 53,
+   "en": "(Don't say separate so.￥I'm separated myself...)",
+   "long": "(Stop going on about separation. I'm￥separated, too.)"
+  },
+  {
+   "off": 7076,
+   "budget": 5,
+   "en": "Ask"
+  },
+  {
+   "off": 7081,
+   "budget": 13,
+   "en": "Snatchers"
+  },
+  {
+   "off": 7094,
+   "budget": 45,
+   "en": "Heard talk of Snatchers about￥here?",
+   "long": "Heard any rumors about Snatchers￥around here?"
+  },
+  {
+   "off": 7139,
+   "budget": 107,
+   "en": "We're safe. We have a dog. This￥hospital should be safe, too.￥Snatchers hate dogs, don't they?"
+  },
+  {
+   "off": 7246,
+   "budget": 63,
+   "en": "Unproven, but animals with a￥keen nose can tell, they say.",
+   "long": "It's unconfirmed, but animals with a￥keen sense of smell can supposedly￥tell them apart."
+  },
+  {
+   "off": 7309,
+   "budget": 53,
+   "en": "Right.￥So more homes keep pets, they say.",
+   "long": "That's right. I hear that's why more￥households are getting pets."
+  },
+  {
+   "off": 7362,
+   "budget": 53,
+   "en": "Snatchers? Do those things really￥exist?"
+  },
+  {
+   "off": 7415,
+   "budget": 51,
+   "en": "They won't show up￥in front of animals?",
+   "long": "We're safe, aren't we? They wouldn't￥show themselves around animals."
+  },
+  {
+   "off": 7466,
+   "budget": 15,
+   "en": "OLEEN Hospital"
+  },
+  {
+   "off": 7481,
+   "budget": 73,
+   "en": "Excuse me. Do you know anything￥about OLEEN Hospital?"
+  },
+  {
+   "off": 7554,
+   "budget": 65,
+   "en": "OLEEN? This is Oleen Hospital. Isn't￥that what you mean?"
+  },
+  {
+   "off": 7619,
+   "budget": 47,
+   "en": "OLEEN? That's not here."
+  },
+  {
+   "off": 7666,
+   "budget": 37,
+   "en": "Hm... some other hospital?",
+   "long": "I don't know. Some other hospital,￥perhaps?"
+  },
+  {
+   "off": 7703,
+   "budget": 11,
+   "en": "Its line",
+   "long": "Its specialty"
+  },
+  {
+   "off": 7714,
+   "budget": 25,
+   "en": "What hospital is this?",
+   "long": "What kind of hospital is this?"
+  },
+  {
+   "off": 7739,
+   "budget": 89,
+   "en": "Oh, you came not knowing?￥This is a pet hospital.￥Sorry, but robots won't do.",
+   "long": "You came here without knowing? It's￥a pet hospital. Sorry, I don't think￥they treat robots."
+  },
+  {
+   "off": 7828,
+   "budget": 37,
+   "en": "I am not ill. I am perfectly normal!",
+   "long": "I'm not sick! I'm functioning￥normally!"
+  },
+  {
+   "off": 7865,
+   "budget": 73,
+   "en": "The doctor here has a fine name.￥Good vets are scarce of late.",
+   "long": "The doctor here has an excellent￥reputation. Good vets are hard to￥find these days."
+  },
+  {
+   "off": 7938,
+   "budget": 87,
+   "en": "No gene work direct, but the￥treatment is sound.￥An Aborits service shop as well.",
+   "long": "They don't do genetic modifications￥here, but you can trust their￥treatment. They're an Aborits￥service center, too."
+  },
+  {
+   "off": 8025,
+   "budget": 43,
+   "en": "Certified by the Bioethics￥Watch too.",
+   "long": "The hospital is also certified by￥the Bioethics Oversight Association."
+  },
+  {
+   "off": 8068,
+   "budget": 11,
+   "en": "The doctor",
+   "long": "Hospital doctor"
+  },
+  {
+   "off": 8079,
+   "budget": 25,
+   "en": "What's the doctor like?",
+   "long": "What's the doctor here like?"
+  },
+  {
+   "off": 8104,
+   "budget": 89,
+   "en": "A licensed doctor with gene-work￥licence. Only here do they see￥these ones unbooked.",
+   "long": "He's a certified doctor with a￥genetic engineering license. This is￥about the only place that sees our￥pets without an appointment."
+  },
+  {
+   "off": 8193,
+   "budget": 27,
+   "en": "A licensed doctor, then.",
+   "long": "A certified, licensed doctor."
+  },
+  {
+   "off": 8220,
+   "budget": 49,
+   "en": "A fine doctor, fond of animals.￥Sound too...",
+   "long": "A wonderful doctor who loves￥animals. Very skilled, too."
+  },
+  {
+   "off": 8269,
+   "budget": 31,
+   "en": "Sniff... yaah! It stinks!",
+   "long": "Sniff, sniff. Ugh! That stinks!"
+  },
+  {
+   "off": 8300,
+   "budget": 23,
+   "en": "Huh? That reeks!"
+  },
+  {
+   "off": 8323,
+   "budget": 23,
+   "en": "It's the animals."
+  },
+  {
+   "off": 8346,
+   "budget": 31,
+   "en": "So that's what I smelled."
+  },
+  {
+   "off": 8377,
+   "budget": 19,
+   "en": "A pollution.",
+   "long": "A kind of pollution."
+  },
+  {
+   "off": 8396,
+   "budget": 7,
+   "en": "Show"
+  },
+  {
+   "off": 8403,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 8418,
+   "budget": 21,
+   "en": "Are you police?",
+   "long": "Are you with the police?"
+  },
+  {
+   "off": 8439,
+   "budget": 29,
+   "en": "Did something really happen?",
+   "long": "Really, has something happened?"
+  },
+  {
+   "off": 8468,
+   "budget": 5,
+   "en": "Drop",
+   "long": "Candy"
+  },
+  {
+   "off": 8473,
+   "budget": 21,
+   "en": "Candy for pets?",
+   "long": "Is that candy for pets?"
+  },
+  {
+   "off": 8494,
+   "budget": 11,
+   "en": "Chess man",
+   "long": "Chess piece"
+  },
+  {
+   "off": 8505,
+   "budget": 35,
+   "en": "What's that? A new pet gum?"
+  },
+  {
+   "off": 8540,
+   "budget": 23,
+   "en": "What about it?"
+  },
+  {
+   "off": 8563,
+   "budget": 13,
+   "en": "Video memory"
+  },
+  {
+   "off": 8576,
+   "budget": 13,
+   "en": "Little John"
+  },
+  {
+   "off": 8589,
+   "budget": 43,
+   "en": "I'm after the hospital with￥this neon?",
+   "long": "I'm looking for the hospital with￥this neon sign."
+  },
+  {
+   "off": 8632,
+   "budget": 67,
+   "en": "That's not our sign. It does look￥similar, though."
+  },
+  {
+   "off": 8699,
+   "budget": 49,
+   "en": "Really alike...￥but not the same, surely?",
+   "long": "It really does look similar. But￥isn't it different?"
+  },
+  {
+   "off": 8748,
+   "budget": 31,
+   "en": "A different hospital?",
+   "long": "Isn't that a different hospital?"
+  },
+  {
+   "off": 8779,
+   "budget": 21,
+   "en": "Animals scare me.",
+   "long": "I'm not good with animals."
+  },
+  {
+   "off": 8800,
+   "budget": 39,
+   "en": "Please don't. I can't handle￥animals."
+  },
+  {
+   "off": 8839,
+   "budget": 49,
+   "en": "I'll pass. Animals are robots'￥natural enemies."
+  },
+  {
+   "off": 8888,
+   "budget": 51,
+   "en": "The sign in the memory used the￥alphabet."
+  },
+  {
+   "off": 8939,
+   "budget": 33,
+   "en": "The sign here is in kanji...",
+   "long": "This sign uses Chinese characters."
+  },
+  {
+   "off": 8972,
+   "budget": 69,
+   "en": "The ID card proving all JUNKER￥authority. Keep it safe.",
+   "long": "This ID card certifies all your￥JUNKER authority. Take good care of￥it."
+  },
+  {
+   "off": 9041,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 9048,
+   "budget": 35,
+   "en": "Money provided by JUNKER."
+  },
+  {
+   "off": 9083,
+   "budget": 35,
+   "en": "Candy found in Jean's pocket."
+  },
+  {
+   "off": 9118,
+   "budget": 7,
+   "en": "Proof",
+   "long": "Evidence"
+  },
+  {
+   "off": 9125,
+   "budget": 3,
+   "en": "Pc",
+   "long": "Chess piece"
+  },
+  {
+   "off": 9128,
+   "budget": 67,
+   "en": "The chess piece Gibson carried, a￥clue to Queen Hospital's name."
+  },
+  {
+   "off": 9195,
+   "budget": 37,
+   "en": "The chess piece Gibson carried."
+  },
+  {
+   "off": 9232,
+   "budget": 47,
+   "en": "An image recovered from Little￥John's memory."
+  },
+  {
+   "off": 9279,
+   "budget": 9,
+   "en": "Red Sq.",
+   "long": "Red Square"
+  },
+  {
+   "off": 9288,
+   "budget": 41,
+   "en": "A still photo hidden in￥the Chief's rm",
+   "long": "The photograph hidden in the chief's￥office."
+  },
+  {
+   "off": 9329,
+   "budget": 5,
+   "en": "Hall",
+   "long": "Temple"
+  },
+  {
+   "off": 9334,
+   "budget": 47,
+   "en": "Temple painting from a￥Queen Hospital room.",
+   "long": "The cathedral picture that hung in a￥room at Queen Hospital."
+  },
+  {
+   "off": 9381,
+   "budget": 67,
+   "en": "Its built-in chip contains all of￥your data, Gillian."
+  },
+  {
+   "off": 9448,
+   "budget": 49,
+   "en": "Case expenses are covered￥as work requires.",
+   "long": "In principle, there's no limit on￥necessary investigation expenses."
+  },
+  {
+   "off": 9497,
+   "budget": 45,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "long": "The candy Jean handed out to￥children at the orphanage."
+  },
+  {
+   "off": 9542,
+   "budget": 57,
+   "en": "So the piece pointed to the name￥of Queen Hospital.",
+   "long": "The piece seems to have been a clue￥to the name Queen Hospital."
+  },
+  {
+   "off": 9599,
+   "budget": 57,
+   "en": "A wooden chess piece. The queen."
+  },
+  {
+   "off": 9656,
+   "budget": 53,
+   "en": "An image of the QUEEN Hospital neon￥sign."
+  },
+  {
+   "off": 9709,
+   "budget": 67,
+   "en": "It reads Hospital OLEEN. It must be￥a hospital's neon sign."
+  },
+  {
+   "off": 9776,
+   "budget": 65,
+   "en": "A photograph of Red Square in Moscow￥before the Catastrophe."
+  },
+  {
+   "off": 9841,
+   "budget": 67,
+   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "long": "St. Basil's Cathedral, a famous￥cathedral in Moscow before the￥Catastrophe."
+  },
+  {
+   "off": 9910,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

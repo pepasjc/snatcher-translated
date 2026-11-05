@@ -1,0 +1,88 @@
+{
+ "scene": "B1F0",
+ "note": "The runaway car (guides/ps1.txt): pull the emergency lever, jump/quit four times, hit the wall, the sand, press the button, pray (Muse), then the control panel (Feet).",
+ "actions": [
+  {
+   "path": [
+    "Queen Hosp"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Pull the lever"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Jump off"
+   ],
+   "optional": true,
+   "reps": 2
+  },
+  {
+   "path": [
+    "Give up"
+   ],
+   "optional": true,
+   "reps": 2
+  },
+  {
+   "path": [
+    "Glide"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Hit wall"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Drive into sand"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Press button"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Imagine|Muse"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Stick feet out"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "save": "B1F0_end"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Move",
+    "Talk",
+    "Ask"
+   ],
+   "rounds": 2
+  }
+ ]
+}

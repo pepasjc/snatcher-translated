@@ -1,0 +1,163 @@
+{
+ "scene": "B0C0",
+ "note": "Gibson's house (guides/ps1.txt GIBSON'S HOUSE). Catherine lets nobody in until Gillian shows the JUNKER ID and answers her questions - her father's age (55) and, in the PS1 version, her measurements (81/58/83) - on a numeric pad. Then Ask about Gibson, the study (window, disk, PC68, computer, Item > Use > Disk plays the floppy read aloud: M000 chan 0 files 32-47), the desk, the sunscreen and the photo, then Alice barking in the garden.",
+ "source": "guides/ps1.txt GIBSON'S HOUSE",
+ "actions": [
+  {
+   "save": "B0C0_start"
+  },
+  {
+   "path": [
+    "Investigate",
+    "Building|Home|House"
+   ],
+   "why": "INVESTIGATE the HOUSE - adds Knock to the verb menu (the remap table has no room for a 'House' long, so the label is Home)"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "reps": 2,
+   "why": "Check > House adds Knock to the verb menu"
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "reps": 2,
+   "why": "the arrival offers Knock / Another time"
+  },
+  {
+   "path": [
+    "Talk"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Item",
+    "Show",
+    "JUNKER ID"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Answer",
+    "Gibson's age"
+   ],
+   "optional": true
+  },
+  {
+   "dial": "55",
+   "then": "start"
+  },
+  {
+   "path": [
+    "Answer",
+    "Measurements"
+   ],
+   "optional": true
+  },
+  {
+   "dial": "81",
+   "then": "start"
+  },
+  {
+   "dial": "58",
+   "then": "start"
+  },
+  {
+   "dial": "83",
+   "then": "start"
+  },
+  {
+   "save": "B0C0_inside"
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "why": "ASK Catherine ABOUT GIBSON; Look/Check the room once"
+  },
+  {
+   "sweep": [
+    "Ask"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "About Catherine"
+   ],
+   "why": "second round of questions; repeated passes at Catherine get Gillian thrown out"
+  },
+  {
+   "path": [
+    "Move",
+    "Study|Desk"
+   ],
+   "why": "MOVE to the STUDY"
+  },
+  {
+   "save": "B0C0_study"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Ask"
+   ],
+   "rounds": 2,
+   "why": "LOOK at the WINDOW, INVESTIGATE the COMPUTER, ASK ABOUT PC68"
+  },
+  {
+   "path": [
+    "Item",
+    "Show",
+    "Disk"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Item",
+    "Use",
+    "Disk"
+   ],
+   "optional": true,
+   "why": "the floppy read aloud (needs the disk from the HQ drawer)"
+  },
+  {
+   "save": "B0C0_disk"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 3,
+   "why": "the DESK opens new options; BOTTLE and PHOTO"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Ask"
+   ],
+   "rounds": 2,
+   "why": "the garden, Alice barking"
+  },
+  {
+   "save": "B0C0_garden"
+  }
+ ]
+}

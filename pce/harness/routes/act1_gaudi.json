@@ -1,0 +1,23 @@
+[
+ {"sweep": "Ask", "rounds": 1},
+ {"choose": "Go inside"},
+ {"read": 3000},
+ {"choose": "Chief's room"},
+ {"sweep": "Ask", "rounds": 2},
+ {"read": 4000},
+ {"sweep": "Ask", "rounds": 1},
+ {"choose": "Go out"},
+ {"read": 3000},
+ {"choose": "Computer room"},
+ {"read": 6000},
+ {"sweep": "Ask", "rounds": 1},
+ {"items": true},
+ {"save": "computer"},
+ {"choose": "Use Gaudi"},
+ {"wait": 600},
+ {"shot": "gaudi"},
+ {"read": 3000},
+ {"items": true},
+ {"shot": "gaudi2"},
+ {"save": "gaudi2"}
+]

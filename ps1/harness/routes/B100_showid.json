@@ -1,0 +1,7 @@
+{"scene":"B100","note":"Luiz's card act1-outer-heaven-inside slot 4: Act 1 inside Outer Heaven with the master. Item > Show > JUNKER ID = thrown out; the voice there had no subtitles (v0.7).",
+ "actions":[
+  {"idle":120},
+  {"save":"B100_master"},
+  {"path":["Item","Show","JUNKER ID"],"patience":3000},
+  {"idle":3000}
+ ]}

@@ -1,0 +1,2745 @@
+{
+ "file": "ISZ_B180.BIN",
+ "text_base": 6584,
+ "strings": [
+  {
+   "off": 6584,
+   "budget": 5,
+   "en": ""
+  },
+  {
+   "off": 6589,
+   "budget": 19,
+   "en": "Hello?"
+  },
+  {
+   "off": 6608,
+   "budget": 35,
+   "en": "Ahem! I'm with the police."
+  },
+  {
+   "off": 6643,
+   "budget": 7,
+   "en": "Police",
+   "long": "The police?"
+  },
+  {
+   "off": 6650,
+   "budget": 31,
+   "en": "I'm calling about your father."
+  },
+  {
+   "off": 6681,
+   "budget": 17,
+   "en": "........"
+  },
+  {
+   "off": 6698,
+   "budget": 67,
+   "en": "He wants to come home. He'll get￥sick if you leave him out there."
+  },
+  {
+   "off": 6765,
+   "budget": 23,
+   "en": "Are you listening?"
+  },
+  {
+   "off": 6788,
+   "budget": 21,
+   "en": "Y-yes......"
+  },
+  {
+   "off": 6809,
+   "budget": 15,
+   "en": "Your father?",
+   "long": "He's your father, isn't he?"
+  },
+  {
+   "off": 6824,
+   "budget": 31,
+   "en": "Was he doing all right?"
+  },
+  {
+   "off": 6855,
+   "budget": 37,
+   "en": "He looked a little ill."
+  },
+  {
+   "off": 6892,
+   "budget": 29,
+   "en": "I see."
+  },
+  {
+   "off": 6921,
+   "budget": 41,
+   "en": "Reasons or not,￥he's your father?",
+   "long": "I don't know what happened between￥you, but he's your father."
+  },
+  {
+   "off": 6962,
+   "budget": 13,
+   "en": "......"
+  },
+  {
+   "off": 6975,
+   "budget": 31,
+   "en": "Thank you."
+  },
+  {
+   "off": 7006,
+   "budget": 65,
+   "en": "After all that, the old man￥still calls your name every day.",
+   "long": "After all you've put him through, he￥still calls your name every day."
+  },
+  {
+   "off": 7071,
+   "budget": 29,
+   "en": "What? Dad?"
+  },
+  {
+   "off": 7100,
+   "budget": 11,
+   "en": "....."
+  },
+  {
+   "off": 7111,
+   "budget": 45,
+   "en": "I'm sorry, Dad. I'm so sorry!"
+  },
+  {
+   "off": 7156,
+   "budget": 31,
+   "en": "Where?! Where is he?",
+   "long": "Where is he? Tell me where he is!"
+  },
+  {
+   "off": 7187,
+   "budget": 59,
+   "en": "Near South Itayado, SN district.￥Go at once.",
+   "long": "Near South Itayado, in the SN￥district. Go to him right away."
+  },
+  {
+   "off": 7246,
+   "budget": 45,
+   "en": "I understand. I'll go get him now."
+  },
+  {
+   "off": 7291,
+   "budget": 21,
+   "en": "Mind your father..."
+  },
+  {
+   "off": 7312,
+   "budget": 31,
+   "en": "You did a good thing, Gillian."
+  },
+  {
+   "off": 7343,
+   "budget": 57,
+   "en": "Hello, I'm Rie. Thank you for￥calling."
+  },
+  {
+   "off": 7400,
+   "budget": 51,
+   "en": "Would you be my friend?"
+  },
+  {
+   "off": 7451,
+   "budget": 33,
+   "en": "Hello, I'm Rie."
+  },
+  {
+   "off": 7484,
+   "budget": 53,
+   "en": "You called again! I'm so happy."
+  },
+  {
+   "off": 7537,
+   "budget": 35,
+   "en": "I like you."
+  },
+  {
+   "off": 7572,
+   "budget": 75,
+   "en": "Akazaru Network presents ＠赤Two-Shot￥Dial＠白!"
+  },
+  {
+   "off": 7647,
+   "budget": 75,
+   "en": "When the music stops, you'll be￥connected to a girl. Be nice to her!"
+  },
+  {
+   "off": 7722,
+   "budget": 35,
+   "en": "No answer. Let's hang up."
+  },
+  {
+   "off": 7757,
+   "budget": 17,
+   "en": "Oh well..."
+  },
+  {
+   "off": 7774,
+   "budget": 21,
+   "en": "I'll hang up, then."
+  },
+  {
+   "off": 7795,
+   "budget": 43,
+   "en": "Thank you for waiting. It's your￥turn."
+  },
+  {
+   "off": 7838,
+   "budget": 25,
+   "en": "Please begin talking...",
+   "long": "Please begin your conversation."
+  },
+  {
+   "off": 7863,
+   "budget": 23,
+   "en": "Wanna play, mister?",
+   "long": "Hey, mister. Wanna have some fun?"
+  },
+  {
+   "off": 7886,
+   "budget": 21,
+   "en": "Hm? I can't see you?",
+   "long": "Huh? I can't see your face."
+  },
+  {
+   "off": 7907,
+   "budget": 55,
+   "en": "That makes it super exciting.￥Sup-citing, for short!"
+  },
+  {
+   "off": 7962,
+   "budget": 21,
+   "en": "Is that so..."
+  },
+  {
+   "off": 7983,
+   "budget": 51,
+   "en": "You feel totally sup-citing too,￥right?"
+  },
+  {
+   "off": 8034,
+   "budget": 19,
+   "en": "Super-thrilled!",
+   "long": "Totally sup-citing!"
+  },
+  {
+   "off": 8053,
+   "budget": 49,
+   "en": "Hey, Daddy? There's something I￥want."
+  },
+  {
+   "off": 8102,
+   "budget": 15,
+   "en": "D-Daddy?"
+  },
+  {
+   "off": 8117,
+   "budget": 33,
+   "en": "It's this bag from France."
+  },
+  {
+   "off": 8150,
+   "budget": 29,
+   "en": "(Honestly, women!)"
+  },
+  {
+   "off": 8179,
+   "budget": 83,
+   "en": "Their designs are, like, super cute.￥Sup-cute, for short!"
+  },
+  {
+   "off": 8262,
+   "budget": 79,
+   "en": "Buy it for me and I will show you a￥super good time. Sup-good-time!"
+  },
+  {
+   "off": 8341,
+   "budget": 27,
+   "en": "H-How much is it?"
+  },
+  {
+   "off": 8368,
+   "budget": 63,
+   "en": "A hundred and fifty thousand￥credits. Hun-fifty-thou creds!"
+  },
+  {
+   "off": 8431,
+   "budget": 11,
+   "en": "Too dear!!",
+   "long": "That's expensive!"
+  },
+  {
+   "off": 8442,
+   "budget": 41,
+   "en": "What? You're such a stingy foge!"
+  },
+  {
+   "off": 8483,
+   "budget": 11,
+   "en": "Foge?"
+  },
+  {
+   "off": 8494,
+   "budget": 31,
+   "en": "Old fogey, slowpoke!"
+  },
+  {
+   "off": 8525,
+   "budget": 31,
+   "en": "＠赤Old man?￥Old man!!",
+   "long": "＠赤Old fogey? You called me an old￥fogey?!"
+  },
+  {
+   "off": 8556,
+   "budget": 39,
+   "en": "Enough.￥Deal's off, for short...",
+   "long": "Forget it. Negotiations are over. Or￥for short..."
+  },
+  {
+   "off": 8595,
+   "budget": 49,
+   "en": "Enough abbreviations! I'm hanging￥up!"
+  },
+  {
+   "off": 8644,
+   "budget": 39,
+   "en": "Let's stop this. I'm hanging up."
+  },
+  {
+   "off": 8683,
+   "budget": 19,
+   "en": "What a woman!"
+  },
+  {
+   "off": 8702,
+   "budget": 25,
+   "en": "Oddly calm, aren't you?",
+   "long": "You're surprisingly levelheaded."
+  },
+  {
+   "off": 8727,
+   "budget": 27,
+   "en": "Or perhaps just stingy?"
+  },
+  {
+   "off": 8754,
+   "budget": 21,
+   "en": "You too?!"
+  },
+  {
+   "off": 8775,
+   "budget": 41,
+   "en": "Gillian,￥in a way, well done.",
+   "long": "In a way, Gillian, you've earned my￥respect."
+  },
+  {
+   "off": 8816,
+   "budget": 21,
+   "en": "Gee, thanks."
+  },
+  {
+   "off": 8837,
+   "budget": 83,
+   "en": "This service charges a vast sum￥every five seconds, info and￥call fees both.",
+   "long": "This service charges an enormous fee￥every five seconds, including￥information and call charges."
+  },
+  {
+   "off": 8920,
+   "budget": 103,
+   "en": "Welcome to Namiko's Telephone Game￥Quiz! Answer every question￥correctly to win a fabulous prize."
+  },
+  {
+   "off": 9023,
+   "budget": 37,
+   "en": "Now for the Super Ultra Quiz!"
+  },
+  {
+   "off": 9060,
+   "budget": 29,
+   "en": "First, the beginner's quiz."
+  },
+  {
+   "off": 9089,
+   "budget": 31,
+   "en": "Would you like to try it?"
+  },
+  {
+   "off": 9120,
+   "budget": 49,
+   "en": "A quiz... they said a splendid￥prize, no?",
+   "long": "A quiz, huh? They said we could win￥a fabulous prize."
+  },
+  {
+   "off": 9169,
+   "budget": 27,
+   "en": "I'm good at quizzes."
+  },
+  {
+   "off": 9196,
+   "budget": 43,
+   "en": "Wasn't that just a lucky streak?"
+  },
+  {
+   "off": 9239,
+   "budget": 25,
+   "en": "Say what you like."
+  },
+  {
+   "off": 9264,
+   "budget": 11,
+   "en": "Play game"
+  },
+  {
+   "off": 9275,
+   "budget": 43,
+   "en": "Beginner's quiz. Question one."
+  },
+  {
+   "off": 9318,
+   "budget": 51,
+   "en": "Your would-be senior runner's￥name?",
+   "long": "What was the name of the veteran￥runner who was going to be your￥colleague?"
+  },
+  {
+   "off": 9369,
+   "budget": 29,
+   "en": "Surely you've not forgotten?",
+   "long": "You haven't forgotten, have you?"
+  },
+  {
+   "off": 9398,
+   "budget": 23,
+   "en": "Right this time, eh?",
+   "long": "Try to get it right this time."
+  },
+  {
+   "off": 9421,
+   "budget": 31,
+   "en": "You've not truly forgotten...",
+   "long": "Surely you haven't really forgotten?"
+  },
+  {
+   "off": 9452,
+   "budget": 13,
+   "en": "Don't play"
+  },
+  {
+   "off": 9465,
+   "budget": 9,
+   "en": "Harrison"
+  },
+  {
+   "off": 9474,
+   "budget": 9,
+   "en": "Gibson"
+  },
+  {
+   "off": 9483,
+   "budget": 17,
+   "en": "Correct!"
+  },
+  {
+   "off": 9500,
+   "budget": 21,
+   "en": "Question two."
+  },
+  {
+   "off": 9521,
+   "budget": 51,
+   "en": "In Konami's popular game Ganbare￥Goemon,"
+  },
+  {
+   "off": 9572,
+   "budget": 25,
+   "en": "Goemon's partner's name?",
+   "long": "what is Goemon's partner's name?"
+  },
+  {
+   "off": 9597,
+   "budget": 9,
+   "en": "Magison"
+  },
+  {
+   "off": 9606,
+   "budget": 9,
+   "en": "Benson"
+  },
+  {
+   "off": 9615,
+   "budget": 13,
+   "en": "Quit game"
+  },
+  {
+   "off": 9628,
+   "budget": 25,
+   "en": "Damn! Was that wrong?"
+  },
+  {
+   "off": 9653,
+   "budget": 21,
+   "en": "Huh? Was that wrong?",
+   "long": "Huh? That wasn't right?"
+  },
+  {
+   "off": 9674,
+   "budget": 51,
+   "en": "You failed. Please try again."
+  },
+  {
+   "off": 9725,
+   "budget": 49,
+   "en": "Incorrect. Please try again."
+  },
+  {
+   "off": 9774,
+   "budget": 11,
+   "en": "Daikoku"
+  },
+  {
+   "off": 9785,
+   "budget": 9,
+   "en": "Ebisu",
+   "long": "Ebisumaru"
+  },
+  {
+   "off": 9794,
+   "budget": 21,
+   "en": "Question three."
+  },
+  {
+   "off": 9815,
+   "budget": 63,
+   "en": "Konami's live series. What was the￥first polygon game about?",
+   "long": "Which sport featured in the first￥game in Konami's Jikkyou series to￥use polygons?"
+  },
+  {
+   "off": 9878,
+   "budget": 11,
+   "en": "Benten"
+  },
+  {
+   "off": 9889,
+   "budget": 9,
+   "en": "Hotei"
+  },
+  {
+   "off": 9898,
+   "budget": 13,
+   "en": "Bishamon"
+  },
+  {
+   "off": 9911,
+   "budget": 17,
+   "en": "Basketball"
+  },
+  {
+   "off": 9928,
+   "budget": 5,
+   "en": "Base",
+   "long": "Baseball"
+  },
+  {
+   "off": 9933,
+   "budget": 11,
+   "en": "Racing"
+  },
+  {
+   "off": 9944,
+   "budget": 9,
+   "en": "Soccer"
+  },
+  {
+   "off": 9953,
+   "budget": 33,
+   "en": "Now question four, the last.",
+   "long": "Question four, the final question."
+  },
+  {
+   "off": 9986,
+   "budget": 35,
+   "en": "Plainly! Konami's falling game?",
+   "long": "Name Konami's falling-block puzzle￥game!"
+  },
+  {
+   "off": 10021,
+   "budget": 13,
+   "en": "Volleyball"
+  },
+  {
+   "off": 10034,
+   "budget": 9,
+   "en": "Kabaddi"
+  },
+  {
+   "off": 10043,
+   "budget": 13,
+   "en": "Puzzledama"
+  },
+  {
+   "off": 10056,
+   "budget": 47,
+   "en": "Congratulations! ...All answers￥correct!!",
+   "long": "Congratulations! You got every￥question right!"
+  },
+  {
+   "off": 10103,
+   "budget": 71,
+   "en": "In place of the prize, we grant￥entry to the super ultra quiz.",
+   "long": "Instead of a fabulous prize, you've￥earned the right to enter the Super￥Ultra Quiz!"
+  },
+  {
+   "off": 10174,
+   "budget": 73,
+   "en": "Please hang up your videophone and￥call again."
+  },
+  {
+   "off": 10247,
+   "budget": 29,
+   "en": "You did it, Gillian!"
+  },
+  {
+   "off": 10276,
+   "budget": 43,
+   "en": "Not the prize...￥another quiz?",
+   "long": "So much for a fabulous prize.￥Another quiz?"
+  },
+  {
+   "off": 10319,
+   "budget": 29,
+   "en": "Let's hang up for now."
+  },
+  {
+   "off": 10348,
+   "budget": 27,
+   "en": "Is it safe to hang up?"
+  },
+  {
+   "off": 10375,
+   "budget": 55,
+   "en": "Don't worry. They've recorded our￥phone number."
+  },
+  {
+   "off": 10430,
+   "budget": 13,
+   "en": "Ochiru"
+  },
+  {
+   "off": 10443,
+   "budget": 15,
+   "en": "Karakuri"
+  },
+  {
+   "off": 10458,
+   "budget": 15,
+   "en": "Powerful"
+  },
+  {
+   "off": 10473,
+   "budget": 13,
+   "en": "Yurari"
+  },
+  {
+   "off": 10486,
+   "budget": 21,
+   "en": "Question one."
+  },
+  {
+   "off": 10507,
+   "budget": 33,
+   "en": "Director Masayuki Aizawa...",
+   "long": "Regarding director Masayuki Aizawa:"
+  },
+  {
+   "off": 10540,
+   "budget": 45,
+   "en": "The only ＠赤blood type＠白 he￥can take?",
+   "long": "What is the only ＠赤blood type＠白 he can￥receive in a transfusion?"
+  },
+  {
+   "off": 10585,
+   "budget": 37,
+   "en": "What? It's a different question?"
+  },
+  {
+   "off": 10622,
+   "budget": 87,
+   "en": "Asami, famed as DesignMan, loves￥peanuts...￥Which prefecture is famed for them?",
+   "long": "The renowned designer Asami loves￥peanuts. Which prefecture is famous￥for growing peanuts?"
+  },
+  {
+   "off": 10709,
+   "budget": 27,
+   "en": "Ugh, I'm poor at these.",
+   "long": "Ugh, I'm no good at this sort of￥thing."
+  },
+  {
+   "off": 10736,
+   "budget": 7,
+   "en": "Nagas.",
+   "long": "Nagasaki"
+  },
+  {
+   "off": 10743,
+   "budget": 7,
+   "en": "Hyogo"
+  },
+  {
+   "off": 10750,
+   "budget": 7,
+   "en": "Chiba"
+  },
+  {
+   "off": 10757,
+   "budget": 49,
+   "en": "Designer Yumiko Takahashi enjoys￥fishing."
+  },
+  {
+   "off": 10806,
+   "budget": 43,
+   "en": "The ＠赤fish she's actually caught＠白?",
+   "long": "Which ＠赤fish has she actually caught＠白?"
+  },
+  {
+   "off": 10849,
+   "budget": 31,
+   "en": "How would I know that?",
+   "long": "How am I supposed to know that?"
+  },
+  {
+   "off": 10880,
+   "budget": 7,
+   "en": "Akita"
+  },
+  {
+   "off": 10887,
+   "budget": 7,
+   "en": "AB",
+   "long": "Type AB"
+  },
+  {
+   "off": 10894,
+   "budget": 5,
+   "en": "O",
+   "long": "Type O"
+  },
+  {
+   "off": 10899,
+   "budget": 51,
+   "en": "Designer Yumiko Takahashi has a cat."
+  },
+  {
+   "off": 10950,
+   "budget": 67,
+   "en": "It reportedly survived a dangerous￥experience unharmed."
+  },
+  {
+   "off": 11017,
+   "budget": 21,
+   "en": "What happened to it?"
+  },
+  {
+   "off": 11038,
+   "budget": 11,
+   "en": "No idea!!",
+   "long": "I don't know!"
+  },
+  {
+   "off": 11049,
+   "budget": 53,
+   "en": "The ＠赤fish she caught＠白￥(her words)?",
+   "long": "Which ＠赤fish does she say she has￥actually caught＠白?"
+  },
+  {
+   "off": 11102,
+   "budget": 5,
+   "en": "B",
+   "long": "Type B"
+  },
+  {
+   "off": 11107,
+   "budget": 5,
+   "en": "A",
+   "long": "Type A"
+  },
+  {
+   "off": 11112,
+   "budget": 17,
+   "en": "Baby shark"
+  },
+  {
+   "off": 11129,
+   "budget": 17,
+   "en": "Baby tuna"
+  },
+  {
+   "off": 11146,
+   "budget": 13,
+   "en": "Baby ray"
+  },
+  {
+   "off": 11159,
+   "budget": 41,
+   "en": "Question three. It grows harder.",
+   "long": "Question three. They're getting￥harder now."
+  },
+  {
+   "off": 11200,
+   "budget": 25,
+   "en": "Mr. Kida from sound...",
+   "long": "Sound designer Kida has a favorite￥kind of banana."
+  },
+  {
+   "off": 11225,
+   "budget": 35,
+   "en": "Where are those bananas grown?"
+  },
+  {
+   "off": 11260,
+   "budget": 15,
+   "en": "Baby slug"
+  },
+  {
+   "off": 11275,
+   "budget": 15,
+   "en": "Hit by car"
+  },
+  {
+   "off": 11290,
+   "budget": 13,
+   "en": "Fell in sea"
+  },
+  {
+   "off": 11303,
+   "budget": 15,
+   "en": "Fell 5F",
+   "long": "Fell off the 5th floor"
+  },
+  {
+   "off": 11318,
+   "budget": 25,
+   "en": "Miss Noguchi of sound...",
+   "long": "According to Ms. Noguchi from the￥sound team,"
+  },
+  {
+   "off": 11343,
+   "budget": 33,
+   "en": "Undressed, how is she?",
+   "long": "what does she look like with her￥clothes off?"
+  },
+  {
+   "off": 11376,
+   "budget": 11,
+   "en": "What?",
+   "long": "What kind of question is that?"
+  },
+  {
+   "off": 11387,
+   "budget": 11,
+   "en": "Ate fugu"
+  },
+  {
+   "off": 11398,
+   "budget": 11,
+   "en": "Philippine",
+   "long": "Philippines"
+  },
+  {
+   "off": 11409,
+   "budget": 33,
+   "en": "Question four. The last.",
+   "long": "Question four. The final question."
+  },
+  {
+   "off": 11442,
+   "budget": 55,
+   "en": "What hour does Asami always￥leave the office?",
+   "long": "What time does designer Asami￥usually leave the office?"
+  },
+  {
+   "off": 11497,
+   "budget": 5,
+   "en": "Twan",
+   "long": "Taiwan"
+  },
+  {
+   "off": 11502,
+   "budget": 13,
+   "en": "Indonesia"
+  },
+  {
+   "off": 11515,
+   "budget": 5,
+   "en": "Okin",
+   "long": "Okinawa"
+  },
+  {
+   "off": 11520,
+   "budget": 7,
+   "en": "Home",
+   "long": "Homemade"
+  },
+  {
+   "off": 11527,
+   "budget": 9,
+   "en": "Nosebl.",
+   "long": "Nosebleed"
+  },
+  {
+   "off": 11536,
+   "budget": 15,
+   "en": "Great nude",
+   "long": "Amazing even naked"
+  },
+  {
+   "off": 11551,
+   "budget": 11,
+   "en": "Wild realm",
+   "long": "Kingdom of the Wild"
+  },
+  {
+   "off": 11562,
+   "budget": 7,
+   "en": "Ruin",
+   "long": "The Catastrophe"
+  },
+  {
+   "off": 11569,
+   "budget": 15,
+   "en": "5:45 p.m."
+  },
+  {
+   "off": 11584,
+   "budget": 15,
+   "en": "9:15 p.m."
+  },
+  {
+   "off": 11599,
+   "budget": 99,
+   "en": "Instead of a fabulous prize, we'll￥give you a ＠黄secret Q2 hotline￥number＠白. It's naughty!"
+  },
+  {
+   "off": 11698,
+   "budget": 63,
+   "en": "The videophone number is￥＠赤0990-931919＠白."
+  },
+  {
+   "off": 11761,
+   "budget": 43,
+   "en": "Not the prize...￥well, never mind.",
+   "long": "Not exactly a fabulous prize, but￥it'll do."
+  },
+  {
+   "off": 11804,
+   "budget": 23,
+   "en": "I've got it already..."
+  },
+  {
+   "off": 11827,
+   "budget": 17,
+   "en": "10:30 p.m."
+  },
+  {
+   "off": 11844,
+   "budget": 15,
+   "en": "0:45 a.m."
+  },
+  {
+   "off": 11859,
+   "budget": 19,
+   "en": "Let's not..."
+  },
+  {
+   "off": 11878,
+   "budget": 25,
+   "en": "No more waste...",
+   "long": "Let's stop wasting money."
+  },
+  {
+   "off": 11903,
+   "budget": 49,
+   "en": "Wasn't it exposed and the￥service ended?",
+   "long": "Perhaps the service was shut down in￥a police raid?"
+  },
+  {
+   "off": 11952,
+   "budget": 31,
+   "en": "Damn, those guys have no guts."
+  },
+  {
+   "off": 11983,
+   "budget": 69,
+   "en": "Tomiken Planning presents the Q2￥service! Is everyone ready?"
+  },
+  {
+   "off": 12052,
+   "budget": 29,
+   "en": "＠赤The Nurse: Part 1"
+  },
+  {
+   "off": 12081,
+   "budget": 37,
+   "en": "I'm a nurse, twenty-two years old."
+  },
+  {
+   "off": 12118,
+   "budget": 47,
+   "en": "A patient in my charge is troubling￥me.",
+   "long": "One of my patients has been giving￥me trouble."
+  },
+  {
+   "off": 12165,
+   "budget": 81,
+   "en": "He says, 'Mai dear' (that's my￥alias), 'let's have a bout some￥time.'",
+   "long": "He says things like, 'Mai, how about￥going a round with me?' Mai isn't my￥real name."
+  },
+  {
+   "off": 12246,
+   "budget": 29,
+   "en": "＠赤The Nurse: Part 2"
+  },
+  {
+   "off": 12275,
+   "budget": 57,
+   "en": "He's in with a leg hurt in an￥accident, but...",
+   "long": "He's in the hospital because he hurt￥his leg in an accident."
+  },
+  {
+   "off": 12332,
+   "budget": 59,
+   "en": "Physically he's fine...￥Too much energy, it seems...",
+   "long": "The rest of him is perfectly￥healthy. He seems to have more￥youthful energy than he can￥handle."
+  },
+  {
+   "off": 12391,
+   "budget": 87,
+   "en": "The other night, he rang for a￥nurse. I thought it was strange,"
+  },
+  {
+   "off": 12478,
+   "budget": 29,
+   "en": "I went to his room to see.",
+   "long": "but I went to his room anyway."
+  },
+  {
+   "off": 12507,
+   "budget": 29,
+   "en": "＠赤The Nurse: Part 3"
+  },
+  {
+   "off": 12536,
+   "budget": 57,
+   "en": "I entered, drew near, and he￥seized my arm...",
+   "long": "When I entered his room and￥approached him, he suddenly grabbed￥my arm."
+  },
+  {
+   "off": 12593,
+   "budget": 63,
+   "en": "Before I knew it, I was no longer an￥angel in white."
+  },
+  {
+   "off": 12656,
+   "budget": 67,
+   "en": "If the matron found us...￥even as I thought that...",
+   "long": "I kept thinking, 'What if the head￥nurse catches us?' But even so,"
+  },
+  {
+   "off": 12723,
+   "budget": 29,
+   "en": "＠赤The Nurse: Part 4"
+  },
+  {
+   "off": 12752,
+   "budget": 33,
+   "en": "Ahh! Mmm!"
+  },
+  {
+   "off": 12785,
+   "budget": 33,
+   "en": "Ooh! Ahh! Ahh!"
+  },
+  {
+   "off": 12818,
+   "budget": 25,
+   "en": "I arm-wrestled him."
+  },
+  {
+   "off": 12843,
+   "budget": 25,
+   "en": "＠赤Wife... VOL 1",
+   "long": "＠赤The Married Woman: Part 1"
+  },
+  {
+   "off": 12868,
+   "budget": 23,
+   "en": "A wife of twenty-four.",
+   "long": "I'm twenty-four and married."
+  },
+  {
+   "off": 12891,
+   "budget": 55,
+   "en": "My husband's kind, but a game￥company programmer...",
+   "long": "My husband is a kind man. He works￥as a programmer for a game company."
+  },
+  {
+   "off": 12946,
+   "budget": 73,
+   "en": "When work runs to the wire he￥can't come home for a month.",
+   "long": "When deadlines are tight, he￥sometimes can't come home for a￥whole month."
+  },
+  {
+   "off": 13019,
+   "budget": 25,
+   "en": "＠赤Wife... VOL 2",
+   "long": "＠赤The Married Woman: Part 2"
+  },
+  {
+   "off": 13044,
+   "budget": 77,
+   "en": "The other evening, as I made supper￥for one...￥ ding-dong...",
+   "long": "One evening, I was making dinner for￥one when the doorbell rang.￥Ding-dong!"
+  },
+  {
+   "off": 13121,
+   "budget": 65,
+   "en": "I opened the door to find a pleasant￥young man in a navy suit."
+  },
+  {
+   "off": 13186,
+   "budget": 97,
+   "en": "Perhaps from seeing my husband￥always leave shabbily dressed,￥I warmed to him at once.",
+   "long": "Perhaps it was because my husband￥always goes out looking so sloppy,￥but I liked this young man right￥away."
+  },
+  {
+   "off": 13283,
+   "budget": 25,
+   "en": "＠赤Wife... VOL 3",
+   "long": "＠赤The Married Woman: Part 3"
+  },
+  {
+   "off": 13308,
+   "budget": 89,
+   "en": "He was a car salesman. At first, he￥opened a brochure and explained the￥details."
+  },
+  {
+   "off": 13397,
+   "budget": 69,
+   "en": "Then he edged closer and closer￥until he was whispering in my ear."
+  },
+  {
+   "off": 13466,
+   "budget": 85,
+   "en": "With hot breath at my ear...￥the simmering pot faded￥further away...",
+   "long": "As I felt his hot breath on my ear,￥the sound of the simmering pot￥seemed to fade away."
+  },
+  {
+   "off": 13551,
+   "budget": 25,
+   "en": "＠赤Wife... VOL 4",
+   "long": "＠赤The Married Woman: Part 4"
+  },
+  {
+   "off": 13576,
+   "budget": 33,
+   "en": "Ah... ＠赤tongue work＠白...",
+   "long": "Oh, what a talented ＠赤tongue＠白!"
+  },
+  {
+   "off": 13609,
+   "budget": 55,
+   "en": "D-Don't whisper things like that in￥my ear!"
+  },
+  {
+   "off": 13664,
+   "budget": 27,
+   "en": "Ahhhhh!"
+  },
+  {
+   "off": 13691,
+   "budget": 31,
+   "en": "A car... I was made to buy...",
+   "long": "He talked me into buying a car."
+  },
+  {
+   "off": 13722,
+   "budget": 37,
+   "en": "Hey, Metal! You hung up on her!"
+  },
+  {
+   "off": 13759,
+   "budget": 25,
+   "en": "Hey!! What's that for!?",
+   "long": "Hey! What are you doing?!"
+  },
+  {
+   "off": 13784,
+   "budget": 49,
+   "en": "Gillian, let's stop here."
+  },
+  {
+   "off": 13833,
+   "budget": 33,
+   "en": "Gillian, isn't that enough?"
+  },
+  {
+   "off": 13866,
+   "budget": 31,
+   "en": "A waste! On we go.",
+   "long": "What a waste! Now I'll have to call￥back for the rest."
+  },
+  {
+   "off": 13897,
+   "budget": 25,
+   "en": "Ugh! They got me!"
+  },
+  {
+   "off": 13922,
+   "budget": 55,
+   "en": "You were fooled? That's women for￥you."
+  },
+  {
+   "off": 13977,
+   "budget": 15,
+   "en": "Boo hoo..."
+  },
+  {
+   "off": 13992,
+   "budget": 59,
+   "en": "Just the Rie phone line.￥Is this what you want to hear?",
+   "long": "It's just the Rie phone service. Is￥this really what you want to hear?"
+  },
+  {
+   "off": 14051,
+   "budget": 33,
+   "en": "N-No, it's not like that."
+  },
+  {
+   "off": 14084,
+   "budget": 47,
+   "en": "I'm starting to like this phone￥service."
+  },
+  {
+   "off": 14131,
+   "budget": 45,
+   "en": "G-Gillian, you had tastes like that?",
+   "long": "G-Gillian, I didn't know you were￥into that!"
+  },
+  {
+   "off": 14176,
+   "budget": 53,
+   "en": "I like you too, Rie. Rie!"
+  },
+  {
+   "off": 14229,
+   "budget": 27,
+   "en": "Gillian, you're dangerous.",
+   "long": "Gillian, you're worrying me."
+  },
+  {
+   "off": 14256,
+   "budget": 101,
+   "en": "Today's forecast for Neo Kobe: high￥pressure from the south will bring￥relatively calm weather."
+  },
+  {
+   "off": 14357,
+   "budget": 63,
+   "en": "The observatory further reports￥the ozone hole widening.",
+   "long": "The astronomical observatory reports￥that the hole in the ozone layer is￥expanding."
+  },
+  {
+   "off": 14420,
+   "budget": 73,
+   "en": "We recommend wearing a UV-resistant￥coat when going outdoors."
+  },
+  {
+   "off": 14493,
+   "budget": 13,
+   "en": "Fair, then."
+  },
+  {
+   "off": 14506,
+   "budget": 73,
+   "en": "The weather is with us too.￥Strong UV restricts their￥movements.",
+   "long": "Even the weather is on our side.￥Stronger ultraviolet light will￥limit their movements."
+  },
+  {
+   "off": 14579,
+   "budget": 27,
+   "en": "Press on while we can.",
+   "long": "Let's make some progress while we￥can."
+  },
+  {
+   "off": 14606,
+   "budget": 45,
+   "en": "Today's Neo Kobe forecast.",
+   "long": "Here is today's weather forecast for￥Neo Kobe."
+  },
+  {
+   "off": 14651,
+   "budget": 83,
+   "en": "Patchy acid rain this morning;￥from afternoon, fair will￥spread.",
+   "long": "Light acid rain in the morning will￥give way to gradually clearing skies￥this afternoon."
+  },
+  {
+   "off": 14734,
+   "budget": 37,
+   "en": "At last... it's clearing up?",
+   "long": "Looks like the weather will finally￥improve."
+  },
+  {
+   "off": 14771,
+   "budget": 17,
+   "en": "So it seems."
+  },
+  {
+   "off": 14788,
+   "budget": 45,
+   "en": "Tomorrow's Neo Kobe forecast.",
+   "long": "Here is tomorrow's weather forecast￥for Neo Kobe."
+  },
+  {
+   "off": 14833,
+   "budget": 87,
+   "en": "From morning to afternoon, heavy￥rain bearing radioactive matter.￥A dreary day.",
+   "long": "Expect a dreary day, with heavy rain￥containing radioactive material￥throughout the morning and￥afternoon."
+  },
+  {
+   "off": 14920,
+   "budget": 85,
+   "en": "Snow Cedar pollen advisories are￥also in effect for some areas.￥Please take care."
+  },
+  {
+   "off": 15005,
+   "budget": 27,
+   "en": "Rain. How depressing."
+  },
+  {
+   "off": 15032,
+   "budget": 53,
+   "en": "Neo Kobe gets a lot of rain this￥time of year."
+  },
+  {
+   "off": 15085,
+   "budget": 43,
+   "en": "Rain again? When will the sun come￥out?"
+  },
+  {
+   "off": 15128,
+   "budget": 57,
+   "en": "Neo Kobe fire service,￥disaster emergency line...",
+   "long": "You have reached the Neo Kobe Fire￥Department's emergency line."
+  },
+  {
+   "off": 15185,
+   "budget": 51,
+   "en": "STATE THE DISASTER AND￥DAMAGE PRECISELY.",
+   "long": "Please state the type of emergency,￥current conditions, and extent of￥the damage accurately."
+  },
+  {
+   "off": 15236,
+   "budget": 73,
+   "en": "This call is recorded automatically.￥Please remain calm."
+  },
+  {
+   "off": 15309,
+   "budget": 61,
+   "en": "No, Gillian.￥Calling the fire service for￥nothing.",
+   "long": "Gillian, you shouldn't call the fire￥department without a reason."
+  },
+  {
+   "off": 15370,
+   "budget": 47,
+   "en": "Stop calling the fire service￥for nothing!",
+   "long": "Please stop calling the fire￥department when there's no￥emergency!"
+  },
+  {
+   "off": 15417,
+   "budget": 35,
+   "en": "Hello... Hayasaka of Konami.",
+   "long": "Hello! This is Hayasaka from Konami."
+  },
+  {
+   "off": 15452,
+   "budget": 93,
+   "en": "Thank you for buying SNATCHER. I'm￥thrilled!"
+  },
+  {
+   "off": 15545,
+   "budget": 77,
+   "en": "Please enjoy SNATCHER as though you￥were watching a movie."
+  },
+  {
+   "off": 15622,
+   "budget": 99,
+   "en": "If you love a moving story, this￥one's sure to warm your heart, Joe!￥Wait, what?"
+  },
+  {
+   "off": 15721,
+   "budget": 55,
+   "en": "Please keep enjoying SNATCHER!"
+  },
+  {
+   "off": 15776,
+   "budget": 33,
+   "en": "Thanks for calling so often.",
+   "long": "Thank you for calling so many times."
+  },
+  {
+   "off": 15809,
+   "budget": 55,
+   "en": "For calling so often, here's￥a super-secret.",
+   "long": "Since you keep calling, I'll let you￥in on a top-secret tip."
+  },
+  {
+   "off": 15864,
+   "budget": 57,
+   "en": "Konami HQ's dev info bureau￥videophone number.",
+   "long": "I'll give you the videophone number￥for Konami headquarters' Development￥Information Office."
+  },
+  {
+   "off": 15921,
+   "budget": 27,
+   "en": "＠赤078-0000573"
+  },
+  {
+   "off": 15948,
+   "budget": 65,
+   "en": "Since you keep calling, I'll share￥another top-secret tip."
+  },
+  {
+   "off": 16013,
+   "budget": 61,
+   "en": "Gaudi at headquarters has data on￥the development staff."
+  },
+  {
+   "off": 16074,
+   "budget": 33,
+   "en": "Hayasaka's data too, naturally.",
+   "long": "Including me, Hayasaka, of course!"
+  },
+  {
+   "off": 16107,
+   "budget": 41,
+   "en": "Look at the staff roll and￥search.",
+   "long": "Look up the names in the credits,￥then try searching for them."
+  },
+  {
+   "off": 16148,
+   "budget": 23,
+   "en": "Well, bye!"
+  },
+  {
+   "off": 16171,
+   "budget": 21,
+   "en": "I'm busy right now!"
+  },
+  {
+   "off": 16192,
+   "budget": 19,
+   "en": "I'm busy!"
+  },
+  {
+   "off": 16211,
+   "budget": 15,
+   "en": "Busy now!",
+   "long": "Busy right now!"
+  },
+  {
+   "off": 16226,
+   "budget": 25,
+   "en": "I told you I'm busy!"
+  },
+  {
+   "off": 16251,
+   "budget": 25,
+   "en": "Hey! They hung up!"
+  },
+  {
+   "off": 16276,
+   "budget": 25,
+   "en": "Man, somebody's on edge.",
+   "long": "They sound ready to kill someone."
+  },
+  {
+   "off": 16301,
+   "budget": 63,
+   "en": "My daughter ＠桃'Yukari'＠白.￥Called ＠桃'Yukarin'＠白.",
+   "long": "This is my daughter, ＠桃Yukari＠白. We￥call her ＠桃Yukarin＠白."
+  },
+  {
+   "off": 16364,
+   "budget": 53,
+   "en": "But Snatcher work is busy and￥I can't play much.",
+   "long": "I'm so busy working on Snatcher that￥I hardly get to play with her."
+  },
+  {
+   "off": 16417,
+   "budget": 23,
+   "en": "Daddy misses you!"
+  },
+  {
+   "off": 16440,
+   "budget": 59,
+   "en": "Hello, Asato here. Asato's out at￥the arcade right now.",
+   "long": "Hello, this is Asato. I'm not home￥right now. I've gone to the arcade."
+  },
+  {
+   "off": 16499,
+   "budget": 11,
+   "en": "Arcade?",
+   "long": "The arcade?"
+  },
+  {
+   "off": 16510,
+   "budget": 65,
+   "en": "Using a cat, no doubt, saying￥'thanks everyone'.",
+   "long": "He's probably playing as that cat￥and saying, 'Thanks, everyone!'"
+  },
+  {
+   "off": 16575,
+   "budget": 7,
+   "en": "Huh?"
+  },
+  {
+   "off": 16582,
+   "budget": 61,
+   "en": "Yes, Asato here. Asato is busy￥queueing for new software.",
+   "long": "Hello, this is Asato. I'm busy￥waiting in line for a new game."
+  },
+  {
+   "off": 16643,
+   "budget": 47,
+   "en": "What! People still queue in￥this world!?",
+   "long": "What? People still line up for￥things in this day and age?"
+  },
+  {
+   "off": 16690,
+   "budget": 53,
+   "en": "Didn't you know? All-night￥queueing is the rage.",
+   "long": "Didn't you know? Spending the night￥in line is fashionable now."
+  },
+  {
+   "off": 16743,
+   "budget": 27,
+   "en": "I won't accept it! Never!"
+  },
+  {
+   "off": 16770,
+   "budget": 17,
+   "en": "Yes, Asato.",
+   "long": "Hello, this is Asato."
+  },
+  {
+   "off": 16787,
+   "budget": 19,
+   "en": "Ah, it connected.",
+   "long": "Oh, we got through."
+  },
+  {
+   "off": 16806,
+   "budget": 105,
+   "en": "Busy with 'Fantasy Tokimeki Snatcher￥2042 Opening Edition' I bought, so￥don't call again.",
+   "long": "I'm busy beating my new game, Genso￥Tokimeki Snatcher 2042: Opening Day￥Edition. Please stop calling."
+  },
+  {
+   "off": 16911,
+   "budget": 31,
+   "en": "Damn! I wish I hadn't called."
+  },
+  {
+   "off": 16942,
+   "budget": 51,
+   "en": "Yes, Toyama here.￥Toyama is at the office now.",
+   "long": "Hello, this is Toyama. I'm at the￥office right now."
+  },
+  {
+   "off": 16993,
+   "budget": 63,
+   "en": "For urgent business call￥＠赤54-8418＠白, Development 7.",
+   "long": "For urgent matters, call Development￥Division 7 at ＠赤54-8418＠白."
+  },
+  {
+   "off": 17056,
+   "budget": 41,
+   "en": "Hello, Toyama... Oh, it's you again.",
+   "long": "Hello, Toyama residence. Oh, it's￥you again."
+  },
+  {
+   "off": 17097,
+   "budget": 25,
+   "en": "What? Is he home?"
+  },
+  {
+   "off": 17122,
+   "budget": 47,
+   "en": "An AI answerphone.￥Quite high-performance.",
+   "long": "It's an AI answering machine. A very￥advanced model, apparently."
+  },
+  {
+   "off": 17169,
+   "budget": 37,
+   "en": "I'd like to speak with Toyama."
+  },
+  {
+   "off": 17206,
+   "budget": 59,
+   "en": "Are you stupid? I'm answering￥because Toyama isn't here!"
+  },
+  {
+   "off": 17265,
+   "budget": 43,
+   "en": "Ugh!￥(Where's the performance, Metal?)",
+   "long": "Grr! (What's so advanced about it,￥Metal?!)"
+  },
+  {
+   "off": 17308,
+   "budget": 59,
+   "en": "(He seems ill-tempered.￥Busy with answering duty?)",
+   "long": "(It seems to be in a bad mood.￥Perhaps it has too many calls to￥handle.)"
+  },
+  {
+   "off": 17367,
+   "budget": 27,
+   "en": "No business? I'll hang up!",
+   "long": "If you don't want anything, I'm￥hanging up!"
+  },
+  {
+   "off": 17394,
+   "budget": 47,
+   "en": "Yes, Toyama...￥What, you again? Persistent!",
+   "long": "Hello, Toyama residence. You again?￥You don't give up!"
+  },
+  {
+   "off": 17441,
+   "budget": 27,
+   "en": "Ask about Development 7.",
+   "long": "I want to ask about Development￥Division 7."
+  },
+  {
+   "off": 17468,
+   "budget": 31,
+   "en": "...What of 7 do you want?",
+   "long": "What do you want to know about￥Division 7?"
+  },
+  {
+   "off": 17499,
+   "budget": 41,
+   "en": "What games does Development 7￥make?",
+   "long": "What kind of games does Development￥Division 7 make?"
+  },
+  {
+   "off": 17540,
+   "budget": 53,
+   "en": "What kind? That's too vague to￥answer."
+  },
+  {
+   "off": 17593,
+   "budget": 39,
+   "en": "Strip games!￥Not making any?",
+   "long": "Strip games! Do they make any strip￥games?"
+  },
+  {
+   "off": 17632,
+   "budget": 7,
+   "en": "..."
+  },
+  {
+   "off": 17639,
+   "budget": 15,
+   "en": "...Hello?"
+  },
+  {
+   "off": 17654,
+   "budget": 81,
+   "en": "Say that to a dev who tearfully￥added mosaics because gore was￥forbidden!",
+   "long": "How dare you ask that of developers￥who reluctantly pixelated scenes￥because they were told the violence￥wasn't allowed!"
+  },
+  {
+   "off": 17735,
+   "budget": 9,
+   "en": "Hello"
+  },
+  {
+   "off": 17744,
+   "budget": 41,
+   "en": "What, still at work at this￥hour?",
+   "long": "What? He's still at the office this￥late?"
+  },
+  {
+   "off": 17785,
+   "budget": 29,
+   "en": "It said Development 7.",
+   "long": "It said Development Division 7."
+  },
+  {
+   "off": 17814,
+   "budget": 31,
+   "en": "Argh! A phone made fun of me!"
+  },
+  {
+   "off": 17845,
+   "budget": 35,
+   "en": "You made it angry, Gillian."
+  },
+  {
+   "off": 17880,
+   "budget": 65,
+   "en": "He does storyboards, so I had￥much to ask of him...",
+   "long": "He's in charge of storyboards. I had￥a few things I wanted him to do."
+  },
+  {
+   "off": 17945,
+   "budget": 27,
+   "en": "Oh well. Another time."
+  },
+  {
+   "off": 17972,
+   "budget": 65,
+   "en": "(Did he want a scene of himself on a￥date with Jamie?)"
+  },
+  {
+   "off": 18037,
+   "budget": 37,
+   "en": "It sounds furious, Gillian."
+  },
+  {
+   "off": 18074,
+   "budget": 59,
+   "en": "I've gone to pick up Kiyohara, our￥designer. Call again!"
+  },
+  {
+   "off": 18133,
+   "budget": 65,
+   "en": "High spirits! Playing with￥Kiyohara, KUNIZO and co!",
+   "long": "We are having a blast! I am hanging￥out with Kiyohara, KUNIZO, and the￥gang!"
+  },
+  {
+   "off": 18198,
+   "budget": 35,
+   "en": "Sounds fun. What are you doing?"
+  },
+  {
+   "off": 18233,
+   "budget": 57,
+   "en": "KUNIZO is doing the Penguin Dance! I￥love it!"
+  },
+  {
+   "off": 18290,
+   "budget": 11,
+   "en": "Awesome!"
+  },
+  {
+   "off": 18301,
+   "budget": 45,
+   "en": "The penguin dance? What dance is￥that?",
+   "long": "I wonder what the Penguin Dance￥looks like."
+  },
+  {
+   "off": 18346,
+   "budget": 43,
+   "en": "I love it! Love it! Looove it!"
+  },
+  {
+   "off": 18389,
+   "budget": 39,
+   "en": "Awesome! Awesome! Awwwe-some!"
+  },
+  {
+   "off": 18428,
+   "budget": 31,
+   "en": "Bah! Maddening!￥Hang up!",
+   "long": "Enough! This is annoying. I'm￥hanging up!"
+  },
+  {
+   "off": 18459,
+   "budget": 13,
+   "en": "Awesome!"
+  },
+  {
+   "off": 18472,
+   "budget": 27,
+   "en": "Penguin! Penguiiin!"
+  },
+  {
+   "off": 18499,
+   "budget": 37,
+   "en": "Awesome! Awesome! Awwwe-some!"
+  },
+  {
+   "off": 18536,
+   "budget": 11,
+   "en": "Awesome!"
+  },
+  {
+   "off": 18547,
+   "budget": 31,
+   "en": "They're in another world."
+  },
+  {
+   "off": 18578,
+   "budget": 29,
+   "en": "Yes, quite far into it."
+  },
+  {
+   "off": 18607,
+   "budget": 11,
+   "en": "Hang up.",
+   "long": "I'm hanging up."
+  },
+  {
+   "off": 18618,
+   "budget": 19,
+   "en": "Yes, Kida-sun.",
+   "long": "Hello, this is Sun Kida!"
+  },
+  {
+   "off": 18637,
+   "budget": 25,
+   "en": "What?￥A child's voice.",
+   "long": "What? That's a child's voice."
+  },
+  {
+   "off": 18662,
+   "budget": 33,
+   "en": "Yes, Kidasu is about five.",
+   "long": "Yes. Sun Kida is estimated to be￥five years old."
+  },
+  {
+   "off": 18695,
+   "budget": 33,
+   "en": "Grr! Cheeky little kid!"
+  },
+  {
+   "off": 18728,
+   "budget": 37,
+   "en": "Now, now. Don't get so worked up."
+  },
+  {
+   "off": 18765,
+   "budget": 35,
+   "en": "Hmm... Little lady, next time...",
+   "long": "Well, little girl, perhaps we￥could..."
+  },
+  {
+   "off": 18800,
+   "budget": 35,
+   "en": "Gillian! Sun Kida is a boy!"
+  },
+  {
+   "off": 18835,
+   "budget": 23,
+   "en": "Oopsie! My mistake!"
+  },
+  {
+   "off": 18858,
+   "budget": 21,
+   "en": "How are you, Sun?"
+  },
+  {
+   "off": 18879,
+   "budget": 25,
+   "en": "I want pudding!"
+  },
+  {
+   "off": 18904,
+   "budget": 19,
+   "en": "Yes, Kida-sun.",
+   "long": "Hello, this is Sun Kida!"
+  },
+  {
+   "off": 18923,
+   "budget": 25,
+   "en": "I want a banana!"
+  },
+  {
+   "off": 18948,
+   "budget": 25,
+   "en": "Hello, this is Noguchi."
+  },
+  {
+   "off": 18973,
+   "budget": 31,
+   "en": "Hello? Who is this?"
+  },
+  {
+   "off": 19004,
+   "budget": 35,
+   "en": "A prank, gyaa! Say something!",
+   "long": "A prank call? Say something, damn￥it!"
+  },
+  {
+   "off": 19039,
+   "budget": 31,
+   "en": "Hello."
+  },
+  {
+   "off": 19070,
+   "budget": 37,
+   "en": "Gillian, no prank calls.",
+   "long": "Gillian, you shouldn't make prank￥calls."
+  },
+  {
+   "off": 19107,
+   "budget": 109,
+   "en": "This game grows interesting.￥This game grows interesting.￥This game grows interesting.￥This game grows",
+   "long": "This game will be fun. This game￥will be fun. This game will be fun.￥This game will be fun. This game￥will"
+  },
+  {
+   "off": 19216,
+   "budget": 11,
+   "en": "Eek!"
+  },
+  {
+   "off": 19227,
+   "budget": 11,
+   "en": "Hello!"
+  },
+  {
+   "off": 19238,
+   "budget": 13,
+   "en": "Hello?!"
+  },
+  {
+   "off": 19251,
+   "budget": 27,
+   "en": "No answer, Gillian."
+  },
+  {
+   "off": 19278,
+   "budget": 51,
+   "en": "Is he making fun of me? Hey! Don't￥ignore me!"
+  },
+  {
+   "off": 19329,
+   "budget": 31,
+   "en": "＠赤I'll k○ll you.＠Ｃ"
+  },
+  {
+   "off": 19360,
+   "budget": 31,
+   "en": "!!!!!!＠Ｃ"
+  },
+  {
+   "off": 19391,
+   "budget": 29,
+   "en": "!!!!!!＠Ｃ"
+  },
+  {
+   "off": 19420,
+   "budget": 29,
+   "en": "＠赤I'm m○ditating!＠Ｃ"
+  },
+  {
+   "off": 19449,
+   "budget": 19,
+   "en": "What's wrong?"
+  },
+  {
+   "off": 19468,
+   "budget": 41,
+   "en": "Nothing.￥Wrong number, it seems.",
+   "long": "Nothing. I think I dialed the wrong￥number."
+  },
+  {
+   "off": 19509,
+   "budget": 45,
+   "en": "Ha ha! (What was that about?)"
+  },
+  {
+   "off": 19554,
+   "budget": 31,
+   "en": "W-What was that?"
+  },
+  {
+   "off": 19585,
+   "budget": 39,
+   "en": "Hearing things.￥Never mind.",
+   "long": "Y-You're hearing things. Never mind.￥Ha ha!"
+  },
+  {
+   "off": 19624,
+   "budget": 51,
+   "en": "Hello, Yoshitomi the￥＠赤bounty hunter＠白.",
+   "long": "Hello, Yoshitomi speaking. I'm a￥＠赤bounty hunter＠白."
+  },
+  {
+   "off": 19675,
+   "budget": 59,
+   "en": "(What's with that smile?) You're a￥bounty hunter?"
+  },
+  {
+   "off": 19734,
+   "budget": 15,
+   "en": "That's right."
+  },
+  {
+   "off": 19749,
+   "budget": 17,
+   "en": "Metal, true?",
+   "long": "Is that true, Metal?"
+  },
+  {
+   "off": 19766,
+   "budget": 79,
+   "en": "He is registered, but there's no￥record of him ever eliminating a￥Snatcher."
+  },
+  {
+   "off": 19845,
+   "budget": 29,
+   "en": "A so-called land hunter.",
+   "long": "He's what you might call an armchair￥hunter."
+  },
+  {
+   "off": 19874,
+   "budget": 25,
+   "en": "Land hunter?￥What?",
+   "long": "An armchair hunter? What's that?"
+  },
+  {
+   "off": 19899,
+   "budget": 41,
+   "en": "Like a land surfer, all show.",
+   "long": "Like someone who dresses as a surfer￥but never surfs. It's all for show."
+  },
+  {
+   "off": 19940,
+   "budget": 45,
+   "en": "Hunters are oddly popular with￥girls.",
+   "long": "Hunters are surprisingly popular￥with girls."
+  },
+  {
+   "off": 19985,
+   "budget": 37,
+   "en": "So it's a fashion statement."
+  },
+  {
+   "off": 20022,
+   "budget": 39,
+   "en": "A hunter never rests. Farewell!"
+  },
+  {
+   "off": 20061,
+   "budget": 11,
+   "en": "Yoshitomi.",
+   "long": "Yoshitomi speaking."
+  },
+  {
+   "off": 20072,
+   "budget": 51,
+   "en": "How many Snatchers have you￥disposed of?",
+   "long": "Forgive me for asking, but how many￥Snatchers have you eliminated?"
+  },
+  {
+   "off": 20123,
+   "budget": 23,
+   "en": "About seven, I'd say."
+  },
+  {
+   "off": 20146,
+   "budget": 13,
+   "en": "Big liar.",
+   "long": "You big liar."
+  },
+  {
+   "off": 20159,
+   "budget": 11,
+   "en": "W-What?!"
+  },
+  {
+   "off": 20170,
+   "budget": 63,
+   "en": "You've never dealt with a single￥one, yet you talk so big."
+  },
+  {
+   "off": 20233,
+   "budget": 33,
+   "en": "You're all show, you idiot!"
+  },
+  {
+   "off": 20266,
+   "budget": 23,
+   "en": "D-daft sod..."
+  },
+  {
+   "off": 20289,
+   "budget": 41,
+   "en": "Yoshitomi here. Out just now.",
+   "long": "Hello, this is Yoshitomi. I'm out￥right now."
+  },
+  {
+   "off": 20330,
+   "budget": 49,
+   "en": "(Pretending he's out? That must have￥hurt.)"
+  },
+  {
+   "off": 20379,
+   "budget": 27,
+   "en": "Wholly in character, no?",
+   "long": "He really believed his own act."
+  },
+  {
+   "off": 20406,
+   "budget": 13,
+   "en": "A sad man.",
+   "long": "What a lonely man."
+  },
+  {
+   "off": 20419,
+   "budget": 31,
+   "en": "Quite wounded, it seemed?",
+   "long": "You seem to have hurt him quite￥badly."
+  },
+  {
+   "off": 20450,
+   "budget": 29,
+   "en": "Someone had to tell him."
+  },
+  {
+   "off": 20479,
+   "budget": 9,
+   "en": "Meow!"
+  },
+  {
+   "off": 20488,
+   "budget": 11,
+   "en": "What?!"
+  },
+  {
+   "off": 20499,
+   "budget": 17,
+   "en": "Meow, meow!"
+  },
+  {
+   "off": 20516,
+   "budget": 15,
+   "en": "What's wrong?"
+  },
+  {
+   "off": 20531,
+   "budget": 27,
+   "en": "It's meowing."
+  },
+  {
+   "off": 20558,
+   "budget": 25,
+   "en": "Meow, meow, meow!"
+  },
+  {
+   "off": 20583,
+   "budget": 21,
+   "en": "Meowing?"
+  },
+  {
+   "off": 20604,
+   "budget": 27,
+   "en": "Mew, mew, mew, meow!"
+  },
+  {
+   "off": 20631,
+   "budget": 19,
+   "en": "No idea. A cat?",
+   "long": "I don't understand. Is it a cat?"
+  },
+  {
+   "off": 20650,
+   "budget": 45,
+   "en": "They say Araki's true form￥is a cat.",
+   "long": "Come to think of it, Araki's true￥form is apparently a cat."
+  },
+  {
+   "off": 20695,
+   "budget": 29,
+   "en": "Meow, meow, mew, meow!"
+  },
+  {
+   "off": 20724,
+   "budget": 33,
+   "en": "True form? Then the human one?",
+   "long": "True form? Then what's the￥human-shaped one?"
+  },
+  {
+   "off": 20757,
+   "budget": 19,
+   "en": "Mimicry, they say.",
+   "long": "Rumor has it that's a disguise."
+  },
+  {
+   "off": 20776,
+   "budget": 27,
+   "en": "Mew, mew, meow, meow!"
+  },
+  {
+   "off": 20803,
+   "budget": 25,
+   "en": "He has it rough."
+  },
+  {
+   "off": 20828,
+   "budget": 11,
+   "en": "Woof woof!",
+   "long": "Woof, woof!"
+  },
+  {
+   "off": 20839,
+   "budget": 7,
+   "en": "Huh?"
+  },
+  {
+   "off": 20846,
+   "budget": 11,
+   "en": "W-W-Woof!"
+  },
+  {
+   "off": 20857,
+   "budget": 17,
+   "en": "A dog now..."
+  },
+  {
+   "off": 20874,
+   "budget": 15,
+   "en": "A dog?"
+  },
+  {
+   "off": 20889,
+   "budget": 23,
+   "en": "Woof! Grr! Woof!"
+  },
+  {
+   "off": 20912,
+   "budget": 21,
+   "en": "Woooof! Woof, woof!"
+  },
+  {
+   "off": 20933,
+   "budget": 29,
+   "en": "Woof! W-Woof! W-W-W-Woof!"
+  },
+  {
+   "off": 20962,
+   "budget": 11,
+   "en": "Gillian!"
+  },
+  {
+   "off": 20973,
+   "budget": 37,
+   "en": "What? Can't you see I'm talking?"
+  },
+  {
+   "off": 21010,
+   "budget": 11,
+   "en": "Awoooo!"
+  },
+  {
+   "off": 21021,
+   "budget": 11,
+   "en": "Hang up!",
+   "long": "I'm hanging up!"
+  },
+  {
+   "off": 21032,
+   "budget": 29,
+   "en": "Are you angry, little Metal?"
+  },
+  {
+   "off": 21061,
+   "budget": 91,
+   "en": "...Between us, Araki is ruled￥by strange waves from the space￥life-form 'dog'.",
+   "long": "Between us, Araki is supposedly￥controlled by strange radio waves￥from a mysterious alien life-form￥called Dog."
+  },
+  {
+   "off": 21152,
+   "budget": 11,
+   "en": "Waves?",
+   "long": "Strange radio waves?"
+  },
+  {
+   "off": 21163,
+   "budget": 65,
+   "en": "That was close. They nearly got you￥too, Gillian."
+  },
+  {
+   "off": 21228,
+   "budget": 25,
+   "en": "...Metal, serious?",
+   "long": "Are you serious, little Metal?"
+  },
+  {
+   "off": 21253,
+   "budget": 23,
+   "en": "Hello, Ando speaking."
+  },
+  {
+   "off": 21276,
+   "budget": 19,
+   "en": "Ando here..."
+  },
+  {
+   "off": 21295,
+   "budget": 15,
+   "en": "Mom?"
+  },
+  {
+   "off": 21310,
+   "budget": 37,
+   "en": "Good luck hunting Snatchers."
+  },
+  {
+   "off": 21347,
+   "budget": 21,
+   "en": "Awfully brief..."
+  },
+  {
+   "off": 21368,
+   "budget": 17,
+   "en": "Yes, Hatsumi.",
+   "long": "Hello, Hatsumi speaking."
+  },
+  {
+   "off": 21385,
+   "budget": 11,
+   "en": "Hello."
+  },
+  {
+   "off": 21396,
+   "budget": 15,
+   "en": "Oh, Dad!"
+  },
+  {
+   "off": 21411,
+   "budget": 9,
+   "en": "Huh?"
+  },
+  {
+   "off": 21420,
+   "budget": 21,
+   "en": "How are you, Dad?"
+  },
+  {
+   "off": 21441,
+   "budget": 27,
+   "en": "Oh, er, yes. I'm f-fine."
+  },
+  {
+   "off": 21468,
+   "budget": 27,
+   "en": "I'm doing well too."
+  },
+  {
+   "off": 21495,
+   "budget": 33,
+   "en": "Y-Yes. That's good. Bye."
+  },
+  {
+   "off": 21528,
+   "budget": 23,
+   "en": "Some misunderstanding.",
+   "long": "He seems to have mistaken me for￥someone."
+  },
+  {
+   "off": 21551,
+   "budget": 35,
+   "en": "Quite the acting, Gillian.",
+   "long": "An impressive performance, Gillian."
+  },
+  {
+   "off": 21586,
+   "budget": 17,
+   "en": "Yes, Takahashi.",
+   "long": "Hello, Takahashi speaking."
+  },
+  {
+   "off": 21603,
+   "budget": 23,
+   "en": "(I-it's Yumiko!)",
+   "long": "(It's Yumiko Takahashi!)"
+  },
+  {
+   "off": 21626,
+   "budget": 11,
+   "en": "Hello?"
+  },
+  {
+   "off": 21637,
+   "budget": 53,
+   "en": "A-abruptly, but tell me your￥hobby, Miss Yumiko.",
+   "long": "T-This is rather sudden, but what￥are your hobbies, Yumiko?"
+  },
+  {
+   "off": 21690,
+   "budget": 33,
+   "en": "Me? I guess fishing."
+  },
+  {
+   "off": 21723,
+   "budget": 35,
+   "en": "F-fishing?￥(Something's off)",
+   "long": "F-Fishing? (That's not what I￥expected.)"
+  },
+  {
+   "off": 21758,
+   "budget": 49,
+   "en": "Then what are your special talents,￥Yumiko?"
+  },
+  {
+   "off": 21807,
+   "budget": 41,
+   "en": "Skill? Hmm...￥Tsugaru shamisen.",
+   "long": "Special talents? Hmm. I can play the￥Tsugaru shamisen."
+  },
+  {
+   "off": 21848,
+   "budget": 43,
+   "en": "...!￥R-rather sober for an idol.",
+   "long": "T-That's an unusual choice for a pop￥idol."
+  },
+  {
+   "off": 21891,
+   "budget": 19,
+   "en": "Um, hello?"
+  },
+  {
+   "off": 21910,
+   "budget": 43,
+   "en": "I said not to raise that￥name matter!",
+   "long": "I told them not to bring up that￥woman with the same name!"
+  },
+  {
+   "off": 21953,
+   "budget": 37,
+   "en": "Yes, the Takahashi never on TV.",
+   "long": "Hello, this is the Takahashi who's￥never been on TV."
+  },
+  {
+   "off": 21990,
+   "budget": 11,
+   "en": "Ugh..."
+  },
+  {
+   "off": 22001,
+   "budget": 19,
+   "en": "Takahashi, Konami.",
+   "long": "Takahashi from Konami."
+  },
+  {
+   "off": 22020,
+   "budget": 21,
+   "en": "Takahashi, Dev 7.",
+   "long": "Takahashi from Development Division￥7."
+  },
+  {
+   "off": 22041,
+   "budget": 29,
+   "en": "I-I'm very sorry."
+  },
+  {
+   "off": 22070,
+   "budget": 19,
+   "en": "Good, if you know.",
+   "long": "As long as you understand."
+  },
+  {
+   "off": 22089,
+   "budget": 29,
+   "en": "You seem to have upset her."
+  },
+  {
+   "off": 22118,
+   "budget": 25,
+   "en": "So she's someone else."
+  },
+  {
+   "off": 22143,
+   "budget": 27,
+   "en": "Yes, this is Komatsubara.",
+   "long": "Hello, Komatsubara speaking."
+  },
+  {
+   "off": 22170,
+   "budget": 19,
+   "en": "Um, hello."
+  },
+  {
+   "off": 22189,
+   "budget": 57,
+   "en": "Yes? One moment...￥What, Shin dear (brother)?",
+   "long": "Yes? Just a moment. What is it,￥Shin? That's my little brother."
+  },
+  {
+   "off": 22246,
+   "budget": 7,
+   "en": "Huh?"
+  },
+  {
+   "off": 22253,
+   "budget": 53,
+   "en": "Oh, sorry. What can I do for you?￥Hey, you!"
+  },
+  {
+   "off": 22306,
+   "budget": 29,
+   "en": "(Don't smoke sis's cigs!)",
+   "long": "(Don't smoke your sister's￥cigarettes!)"
+  },
+  {
+   "off": 22335,
+   "budget": 25,
+   "en": "(Who cares! Cheapskate!)",
+   "long": "(Come on! Don't be so stingy!)"
+  },
+  {
+   "off": 22360,
+   "budget": 37,
+   "en": "A sibling row off in the distance.",
+   "long": "Sounds like a sibling fight in the￥background."
+  },
+  {
+   "off": 22397,
+   "budget": 37,
+   "en": "Sorry again. What can I do for you?"
+  },
+  {
+   "off": 22434,
+   "budget": 13,
+   "en": "(Who? Male?)",
+   "long": "(Who's that? A guy?)"
+  },
+  {
+   "off": 22447,
+   "budget": 15,
+   "en": "(Hey!)"
+  },
+  {
+   "off": 22462,
+   "budget": 21,
+   "en": "This won't do..."
+  },
+  {
+   "off": 22483,
+   "budget": 21,
+   "en": "(Cobra Twist!)"
+  },
+  {
+   "off": 22504,
+   "budget": 17,
+   "en": "(Ugh! Aaagh!)"
+  },
+  {
+   "off": 22521,
+   "budget": 25,
+   "en": "(Next up, a keylock!)"
+  },
+  {
+   "off": 22546,
+   "budget": 15,
+   "en": "(Spare me~)"
+  },
+  {
+   "off": 22561,
+   "budget": 35,
+   "en": "All that over one cigarette? Ugly."
+  },
+  {
+   "off": 22596,
+   "budget": 19,
+   "en": "Let's hang up..."
+  },
+  {
+   "off": 22615,
+   "budget": 59,
+   "en": "Yes, Kiyohara. I'm at the￥programmer Mizutani's house.",
+   "long": "Hello, this is Kiyohara. I'm at our￥programmer Mizutani's house."
+  },
+  {
+   "off": 22674,
+   "budget": 53,
+   "en": "If you need me, please call￥＠赤71-1220＠白."
+  },
+  {
+   "off": 22727,
+   "budget": 45,
+   "en": "No time for you lot to be￥gaming!",
+   "long": "You shouldn't spend all your time￥playing games!"
+  },
+  {
+   "off": 22772,
+   "budget": 17,
+   "en": "Play outside.",
+   "long": "Go play outside! Outside!"
+  },
+  {
+   "off": 22789,
+   "budget": 23,
+   "en": "He sounded angry."
+  },
+  {
+   "off": 22812,
+   "budget": 21,
+   "en": "Short of calcium?",
+   "long": "Maybe he needs more calcium."
+  },
+  {
+   "off": 22833,
+   "budget": 23,
+   "en": "Yes, Tacchan here.",
+   "long": "Hello, this is Tacchan."
+  },
+  {
+   "off": 22856,
+   "budget": 63,
+   "en": "This winter I meant to rent￥a warehouse on Tokyo Bay...",
+   "long": "I was planning to rent a warehouse￥on Tokyo Bay and move in this￥winter."
+  },
+  {
+   "off": 22919,
+   "budget": 43,
+   "en": "Might die of cold, so I gave￥it up.",
+   "long": "But I might freeze to death, so I￥decided against it."
+  },
+  {
+   "off": 22962,
+   "budget": 35,
+   "en": "I call myself a biker.",
+   "long": "Believe it or not, I call myself a￥biker."
+  },
+  {
+   "off": 22997,
+   "budget": 29,
+   "en": "But I only own a bicycle."
+  },
+  {
+   "off": 23026,
+   "budget": 19,
+   "en": "Well, goodbye."
+  },
+  {
+   "off": 23045,
+   "budget": 43,
+   "en": "Hello, Neo Kobe City Police."
+  },
+  {
+   "off": 23088,
+   "budget": 9,
+   "en": "Whoa!"
+  },
+  {
+   "off": 23097,
+   "budget": 43,
+   "en": "Gillian. Don't call for nothing.",
+   "long": "Gillian, don't call them without a￥reason."
+  },
+  {
+   "off": 23140,
+   "budget": 59,
+   "en": "Again, Gillian? Don't call them￥without a reason."
+  },
+  {
+   "off": 23199,
+   "budget": 15,
+   "en": "Hello..."
+  },
+  {
+   "off": 23214,
+   "budget": 19,
+   "en": "Something wrong?",
+   "long": "Is something wrong?"
+  },
+  {
+   "off": 23233,
+   "budget": 19,
+   "en": "I'm hanging up."
+  },
+  {
+   "off": 23252,
+   "budget": 35,
+   "en": "This is Snatcher 110.",
+   "long": "You've reached the Snatcher￥emergency hotline."
+  },
+  {
+   "off": 23287,
+   "budget": 31,
+   "en": "...This line records itself.",
+   "long": "This is an automated recording line."
+  },
+  {
+   "off": 23318,
+   "budget": 41,
+   "en": "State your business in￥30 seconds.",
+   "long": "Please state your message clearly,￥in thirty seconds or less."
+  },
+  {
+   "off": 23359,
+   "budget": 67,
+   "en": "It will be dealt with at once￥through the HQ computer.",
+   "long": "Your report will be processed￥promptly through the headquarters￥computer, according to its content."
+  },
+  {
+   "off": 23426,
+   "budget": 31,
+   "en": "Please stay calm and speak.",
+   "long": "Please remain calm while speaking."
+  },
+  {
+   "off": 23457,
+   "budget": 23,
+   "en": "Please begin."
+  },
+  {
+   "off": 23480,
+   "budget": 21,
+   "en": "Understood."
+  },
+  {
+   "off": 23501,
+   "budget": 49,
+   "en": "Thank you... Konami dev info￥bureau here.",
+   "long": "Thank you for calling Konami's￥Development Information Office."
+  },
+  {
+   "off": 23550,
+   "budget": 63,
+   "en": "For you alone, a secret perhaps￥nobody knows.",
+   "long": "Just for you, here's some top-secret￥information that perhaps no one else￥knows."
+  },
+  {
+   "off": 23613,
+   "budget": 103,
+   "en": "Konami favorites like TwinBee,￥Dracula, and Goemon are coming to￥PlayStation, one after another!"
+  },
+  {
+   "off": 23716,
+   "budget": 15,
+   "en": "Stay tuned!!",
+   "long": "Look forward to it!"
+  },
+  {
+   "off": 23731,
+   "budget": 93,
+   "en": "A new sort of driving action,￥cutting through crowded traffic with￥sharp cornering...",
+   "long": "A new kind of driving action lets￥you weave through ordinary traffic￥with sharp cornering!"
+  },
+  {
+   "off": 23824,
+   "budget": 45,
+   "en": "Midnight Run! It's incredibly fun!"
+  },
+  {
+   "off": 23869,
+   "budget": 43,
+   "en": "We look forward to your fan letters."
+  },
+  {
+   "off": 23912,
+   "budget": 27,
+   "en": "Goodbye!"
+  },
+  {
+   "off": 23941,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

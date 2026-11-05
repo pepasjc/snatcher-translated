@@ -1,0 +1,898 @@
+{
+ "file": "ISZ_B160.BIN",
+ "text_base": 2424,
+ "strings": [
+  {
+   "off": 2424,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 2429,
+   "budget": 37,
+   "en": "The Chief's office.￥He is out.",
+   "long": "This is the Chief's office. He seems￥to be out."
+  },
+  {
+   "off": 2466,
+   "budget": 13,
+   "en": "Chief's rm.",
+   "long": "This is the Chief's office."
+  },
+  {
+   "off": 2479,
+   "budget": 83,
+   "en": "Let's look for evidence of whether￥he's a Snatcher before he returns."
+  },
+  {
+   "off": 2562,
+   "budget": 35,
+   "en": "Let's search for clues again."
+  },
+  {
+   "off": 2597,
+   "budget": 5,
+   "en": "Move"
+  },
+  {
+   "off": 2602,
+   "budget": 47,
+   "en": "First, I'll put the Red Square photo￥back."
+  },
+  {
+   "off": 2649,
+   "budget": 67,
+   "en": "Aye, best keep quiet that we've￥found this picture's secret...",
+   "long": "Right. We mustn't let him know we've￥discovered the painting's secret."
+  },
+  {
+   "off": 2716,
+   "budget": 31,
+   "en": "Putting the photo back.",
+   "long": "I'll put the Red Square photo back."
+  },
+  {
+   "off": 2747,
+   "budget": 37,
+   "en": "First, I'll put the photo back."
+  },
+  {
+   "off": 2784,
+   "budget": 37,
+   "en": "Right. But what is it a photo of?"
+  },
+  {
+   "off": 2821,
+   "budget": 21,
+   "en": "Restoring the photo.",
+   "long": "I'll put the photo back."
+  },
+  {
+   "off": 2842,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 2847,
+   "budget": 5,
+   "en": "Seat",
+   "long": "Chair"
+  },
+  {
+   "off": 2852,
+   "budget": 35,
+   "en": "The Chief's chair.￥He isn't here.",
+   "long": "It's the Chief's chair. He isn't￥here."
+  },
+  {
+   "off": 2887,
+   "budget": 33,
+   "en": "The Chief has stepped out.",
+   "long": "The Chief seems to have stepped out."
+  },
+  {
+   "off": 2920,
+   "budget": 9,
+   "en": "Monitor"
+  },
+  {
+   "off": 2929,
+   "budget": 25,
+   "en": "The monitors are off."
+  },
+  {
+   "off": 2954,
+   "budget": 53,
+   "en": "That's unusual. The monitors are￥switched off."
+  },
+  {
+   "off": 3007,
+   "budget": 3,
+   "en": "Ar",
+   "long": "Picture"
+  },
+  {
+   "off": 3010,
+   "budget": 57,
+   "en": "Wait!￥Something odd about this￥vase picture!",
+   "long": "Wait! Isn't there something strange￥about this picture of a vase?"
+  },
+  {
+   "off": 3067,
+   "budget": 35,
+   "en": "Look! Doesn't it look like a face?"
+  },
+  {
+   "off": 3102,
+   "budget": 27,
+   "en": "A face? I don't see it."
+  },
+  {
+   "off": 3129,
+   "budget": 27,
+   "en": "See, like faces, no?",
+   "long": "Look. Doesn't it look like a face?"
+  },
+  {
+   "off": 3156,
+   "budget": 47,
+   "en": "Can't tell. Looks like a￥plain vase picture.",
+   "long": "I'm not sure, but it seems to be￥just a picture of a vase."
+  },
+  {
+   "off": 3203,
+   "budget": 5,
+   "en": "Pic",
+   "long": "Photo"
+  },
+  {
+   "off": 3208,
+   "budget": 41,
+   "en": "Seems I've seen it...￥Can't recall.",
+   "long": "I feel like I've seen it before. I￥can't remember."
+  },
+  {
+   "off": 3249,
+   "budget": 37,
+   "en": "Why would a photo like this be here?"
+  },
+  {
+   "off": 3286,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 3293,
+   "budget": 35,
+   "en": "The surface of the chair is cold."
+  },
+  {
+   "off": 3328,
+   "budget": 37,
+   "en": "He left his seat a while ago.",
+   "long": "He seems to have been gone quite a￥while."
+  },
+  {
+   "off": 3365,
+   "budget": 41,
+   "en": "Most of the monitors are cold."
+  },
+  {
+   "off": 3406,
+   "budget": 45,
+   "en": "Switched off a good while ago.",
+   "long": "They seem to have been turned off￥quite a while ago."
+  },
+  {
+   "off": 3451,
+   "budget": 55,
+   "en": "Look. I thought it was just a￥picture of a vase."
+  },
+  {
+   "off": 3506,
+   "budget": 47,
+   "en": "But look at the white space. Face to￥face!"
+  },
+  {
+   "off": 3553,
+   "budget": 79,
+   "en": "Could this be the \"Face to Face\"￥from Harry's note?"
+  },
+  {
+   "off": 3632,
+   "budget": 29,
+   "en": "An optical illusion.",
+   "long": "It's an optical illusion designed to￥fool human eyes."
+  },
+  {
+   "off": 3661,
+   "budget": 49,
+   "en": "...Meaning something not human￥can see it?",
+   "long": "Does that mean someone who isn't￥human could see it?"
+  },
+  {
+   "off": 3710,
+   "budget": 29,
+   "en": "Let's take a closer look."
+  },
+  {
+   "off": 3739,
+   "budget": 31,
+   "en": "Check the face-to-face part.",
+   "long": "Check the part with the two faces."
+  },
+  {
+   "off": 3770,
+   "budget": 59,
+   "en": "There's a switch between the faces!￥I'll press it."
+  },
+  {
+   "off": 3829,
+   "budget": 35,
+   "en": "The picture flipped to a photo.",
+   "long": "The picture turned over, revealing a￥photograph."
+  },
+  {
+   "off": 3864,
+   "budget": 35,
+   "en": "I'll press the switch."
+  },
+  {
+   "off": 3899,
+   "budget": 99,
+   "en": "＠黄I've wondered for a while. Doesn't￥this vase picture clash with the￥room's mood?＠白",
+   "long": "＠黄This has bothered me for a while.￥Doesn't that vase picture seem out￥of place in this room?＠白"
+  },
+  {
+   "off": 3998,
+   "budget": 31,
+   "en": "It's been bothering me too."
+  },
+  {
+   "off": 4029,
+   "budget": 29,
+   "en": "Metal, doesn't it seem odd?",
+   "long": "Doesn't something seem wrong, Metal?"
+  },
+  {
+   "off": 4058,
+   "budget": 11,
+   "en": "What is?",
+   "long": "What do you mean?"
+  },
+  {
+   "off": 4069,
+   "budget": 39,
+   "en": "If I were a Snatcher,"
+  },
+  {
+   "off": 4108,
+   "budget": 65,
+   "en": "would I hide an incriminating￥photograph somewhere so obvious?"
+  },
+  {
+   "off": 4173,
+   "budget": 19,
+   "en": "You have a point."
+  },
+  {
+   "off": 4192,
+   "budget": 57,
+   "en": "Some reason must keep it here￥despite the risk.",
+   "long": "There must be a reason to keep it￥here, even at that risk."
+  },
+  {
+   "off": 4249,
+   "budget": 53,
+   "en": "Red Square...?￥Why is it in the Chief's room...",
+   "long": "Red Square? Why would the Chief have￥a photo of that?"
+  },
+  {
+   "off": 4302,
+   "budget": 65,
+   "en": "By the print's pixel state, this￥photo is half a century old.",
+   "long": "Judging by the condition of the￥printed image, this photograph is￥fifty years old."
+  },
+  {
+   "off": 4367,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 4372,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 4387,
+   "budget": 13,
+   "en": "Videophone"
+  },
+  {
+   "off": 4400,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 4411,
+   "budget": 37,
+   "en": "I'll save your progress now."
+  },
+  {
+   "off": 4448,
+   "budget": 45,
+   "en": "Either the Chief or Harry is a￥Snatcher?"
+  },
+  {
+   "off": 4493,
+   "budget": 75,
+   "en": "...Let's find evidence.￥Go about it carelessly and￥we're in trouble.",
+   "long": "Let's find evidence. If we don't￥proceed carefully, this could go￥terribly wrong."
+  },
+  {
+   "off": 4568,
+   "budget": 35,
+   "en": "Let's start with this room."
+  },
+  {
+   "off": 4603,
+   "budget": 33,
+   "en": "They both seem to be out."
+  },
+  {
+   "off": 4636,
+   "budget": 25,
+   "en": "Let's search this room.",
+   "long": "Let's search this room next."
+  },
+  {
+   "off": 4661,
+   "budget": 33,
+   "en": "Metal, where is this photo of?",
+   "long": "Where was this photo taken, Metal?"
+  },
+  {
+   "off": 4694,
+   "budget": 75,
+   "en": "I'll search Alphaville's records to￥identify the location."
+  },
+  {
+   "off": 4769,
+   "budget": 21,
+   "en": "I've found it."
+  },
+  {
+   "off": 4790,
+   "budget": 55,
+   "en": "It's Red Square in Moscow, before￥the Catastrophe."
+  },
+  {
+   "off": 4845,
+   "budget": 49,
+   "en": "Red Square...?￥Why such a photo in his room?",
+   "long": "Red Square? Why would the Chief have￥a photo of that?"
+  },
+  {
+   "off": 4894,
+   "budget": 31,
+   "en": "Save the image."
+  },
+  {
+   "off": 4925,
+   "budget": 37,
+   "en": "I've saved the photograph in memory."
+  },
+  {
+   "off": 4962,
+   "budget": 19,
+   "en": "The Chief's photo?",
+   "long": "The Chief had this photo?"
+  },
+  {
+   "off": 4981,
+   "budget": 45,
+   "en": "Or did someone plant it to frame￥him?"
+  },
+  {
+   "off": 5026,
+   "budget": 43,
+   "en": "And Harry's matches. Which one is￥it?"
+  },
+  {
+   "off": 5069,
+   "budget": 19,
+   "en": "Which one?"
+  },
+  {
+   "off": 5088,
+   "budget": 55,
+   "en": "Nothing conclusive.￥Both are just circumstantial.",
+   "long": "There's nothing conclusive. Both are￥only circumstantial evidence."
+  },
+  {
+   "off": 5143,
+   "budget": 29,
+   "en": "Or could it be someone else?"
+  },
+  {
+   "off": 5172,
+   "budget": 63,
+   "en": "At this rate that 'BENSON' chart￥looks suspect too?",
+   "long": "Even that medical record with BENSON￥on it seems suspicious now."
+  },
+  {
+   "off": 5235,
+   "budget": 25,
+   "en": "Planted for us....?",
+   "long": "Did they deliberately leave it for￥us?"
+  },
+  {
+   "off": 5260,
+   "budget": 61,
+   "en": "To begin with,￥a Snatcher leaving a chart is￥itself odd.",
+   "long": "It's strange that a Snatcher would￥leave a medical record behind at￥all."
+  },
+  {
+   "off": 5321,
+   "budget": 13,
+   "en": "A trap?",
+   "long": "Is it a trap?"
+  },
+  {
+   "off": 5334,
+   "budget": 29,
+   "en": "We can't say yet."
+  },
+  {
+   "off": 5363,
+   "budget": 27,
+   "en": "The Chief left his office?"
+  },
+  {
+   "off": 5390,
+   "budget": 57,
+   "en": "As Mika said, busy with summit￥preparations?",
+   "long": "Could he be busy preparing for the￥summit, as Mika said?"
+  },
+  {
+   "off": 5447,
+   "budget": 49,
+   "en": "If it were work he'd say￥where he was going?",
+   "long": "If he went out on business, he'd at￥least say where he was going."
+  },
+  {
+   "off": 5496,
+   "budget": 37,
+   "en": "The Chief seems out for a while.",
+   "long": "It looks like the Chief's been out￥for a while."
+  },
+  {
+   "off": 5533,
+   "budget": 21,
+   "en": "It does."
+  },
+  {
+   "off": 5554,
+   "budget": 61,
+   "en": "This is the Mechanic room. Harry￥seems to be out."
+  },
+  {
+   "off": 5615,
+   "budget": 51,
+   "en": "Let's look for clues before Harry￥returns."
+  },
+  {
+   "off": 5666,
+   "budget": 35,
+   "en": "Let's find clues while he's out.",
+   "long": "Let's look for clues while he's out."
+  },
+  {
+   "off": 5701,
+   "budget": 9,
+   "en": "Poster"
+  },
+  {
+   "off": 5710,
+   "budget": 31,
+   "en": "A last-century film starlet.",
+   "long": "She's a sexy movie star from the￥last century."
+  },
+  {
+   "off": 5741,
+   "budget": 29,
+   "en": "A photo of Harry as a boy.",
+   "long": "It's a photograph of Harry as a boy."
+  },
+  {
+   "off": 5770,
+   "budget": 7,
+   "en": "Desk"
+  },
+  {
+   "off": 5777,
+   "budget": 27,
+   "en": "Matches lie on the desk.",
+   "long": "There are matches on the desk."
+  },
+  {
+   "off": 5804,
+   "budget": 23,
+   "en": "Something on the desk.",
+   "long": "There's something on the desk."
+  },
+  {
+   "off": 5827,
+   "budget": 49,
+   "en": "＠赤Matches＠白 and a ＠赤note＠白."
+  },
+  {
+   "off": 5876,
+   "budget": 33,
+   "en": "Matches and a memo on it.",
+   "long": "There are matches and a note on the￥desk."
+  },
+  {
+   "off": 5909,
+   "budget": 7,
+   "en": "Match",
+   "long": "Matches"
+  },
+  {
+   "off": 5916,
+   "budget": 67,
+   "en": "The box has the Outer Heaven logo￥printed on it."
+  },
+  {
+   "off": 5983,
+   "budget": 9,
+   "en": "Memo"
+  },
+  {
+   "off": 5992,
+   "budget": 55,
+   "en": "It says ＠赤\"Face to Face.\"＠白"
+  },
+  {
+   "off": 6047,
+   "budget": 17,
+   "en": "Face to face?"
+  },
+  {
+   "off": 6064,
+   "budget": 45,
+   "en": "Well worn, but the corners￥are reinforced.",
+   "long": "It's badly worn, but all four￥corners have been reinforced."
+  },
+  {
+   "off": 6109,
+   "budget": 41,
+   "en": "Harry really seems to treasure it."
+  },
+  {
+   "off": 6150,
+   "budget": 51,
+   "en": "The original photo would show us￥Harry's parents."
+  },
+  {
+   "off": 6201,
+   "budget": 77,
+   "en": "These are definitely the matches￥given to regulars at Outer Heaven."
+  },
+  {
+   "off": 6278,
+   "budget": 55,
+   "en": "They're the matches given out at￥Outer Heaven."
+  },
+  {
+   "off": 6333,
+   "budget": 35,
+   "en": "Harry's hand. A message?",
+   "long": "It's Harry's handwriting. Did he￥leave us a message?"
+  },
+  {
+   "off": 6368,
+   "budget": 83,
+   "en": "'Face to face' is the key...￥All we can do is search where￥the phrase leads.",
+   "long": "\"Face to face\" is the key. We'll￥have to search wherever that phrase￥brings to mind."
+  },
+  {
+   "off": 6451,
+   "budget": 95,
+   "en": "Perhaps it means \"Look for face to￥face,\" or \"Pay attention to face￥to face.\""
+  },
+  {
+   "off": 6546,
+   "budget": 33,
+   "en": "Keep that note."
+  },
+  {
+   "off": 6579,
+   "budget": 41,
+   "en": "I'll take the note."
+  },
+  {
+   "off": 6620,
+   "budget": 55,
+   "en": "From Outer Heaven? Harry had these?"
+  },
+  {
+   "off": 6675,
+   "budget": 57,
+   "en": "Harry is the only person at JUNKER￥HQ who smokes."
+  },
+  {
+   "off": 6732,
+   "budget": 17,
+   "en": "Not Harry?",
+   "long": "Could Harry be the one?"
+  },
+  {
+   "off": 6749,
+   "budget": 49,
+   "en": "If he has matches from Outer￥Heaven..."
+  },
+  {
+   "off": 6798,
+   "budget": 37,
+   "en": "Harry, a Snatcher? It can't be."
+  },
+  {
+   "off": 6835,
+   "budget": 27,
+   "en": "Let's take these matches."
+  },
+  {
+   "off": 6862,
+   "budget": 65,
+   "en": "There's no need. They're identical￥to the ones we have."
+  },
+  {
+   "off": 6927,
+   "budget": 55,
+   "en": "I've recorded them.￥...They'd only weigh us down.",
+   "long": "I've recorded what we found.￥Carrying more would only weigh us￥down."
+  },
+  {
+   "off": 6982,
+   "budget": 27,
+   "en": "Let's leave them here."
+  },
+  {
+   "off": 7009,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 7024,
+   "budget": 69,
+   "en": "The ID card proving all JUNKER￥authority. Keep it safe.",
+   "long": "This ID card certifies all your￥authority as a JUNKER. Take good￥care of it."
+  },
+  {
+   "off": 7093,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 7100,
+   "budget": 35,
+   "en": "It's the money JUNKER provided."
+  },
+  {
+   "off": 7135,
+   "budget": 5,
+   "en": "Drop",
+   "long": "Candy"
+  },
+  {
+   "off": 7140,
+   "budget": 35,
+   "en": "It's the candy from Jean's pocket."
+  },
+  {
+   "off": 7175,
+   "budget": 7,
+   "en": "Proof",
+   "long": "Evidence"
+  },
+  {
+   "off": 7182,
+   "budget": 3,
+   "en": "Pc",
+   "long": "Chess piece"
+  },
+  {
+   "off": 7185,
+   "budget": 61,
+   "en": "Gibson's chess piece, hinting￥at Queen Hospital.",
+   "long": "It's Gibson's chess piece, the clue￥to Queen Hospital's name."
+  },
+  {
+   "off": 7246,
+   "budget": 37,
+   "en": "A chess piece Gibson was carrying.",
+   "long": "It's the chess piece Gibson was￥carrying."
+  },
+  {
+   "off": 7283,
+   "budget": 7,
+   "en": "Chart",
+   "long": "Medical chart"
+  },
+  {
+   "off": 7290,
+   "budget": 41,
+   "en": "A chart with a Snatcher's￥name on it.",
+   "long": "It's the medical record with a￥Snatcher's name on it."
+  },
+  {
+   "off": 7331,
+   "budget": 37,
+   "en": "Found on a desk at￥Queen Hospital.",
+   "long": "We found it in the desk at Queen￥Hospital."
+  },
+  {
+   "off": 7368,
+   "budget": 43,
+   "en": "Old-fashioned matches from￥Queen Hosp.",
+   "long": "They're the old-fashioned matches￥from Queen Hospital."
+  },
+  {
+   "off": 7411,
+   "budget": 31,
+   "en": "A memo in Harry's hand.",
+   "long": "It's the note Harry apparently￥wrote."
+  },
+  {
+   "off": 7442,
+   "budget": 43,
+   "en": "A memo left in the mechanic room.",
+   "long": "It's the note we found in the￥Mechanic room."
+  },
+  {
+   "off": 7485,
+   "budget": 13,
+   "en": "Video memory"
+  },
+  {
+   "off": 7498,
+   "budget": 13,
+   "en": "Little John"
+  },
+  {
+   "off": 7511,
+   "budget": 47,
+   "en": "Footage left in Little John's￥memory.",
+   "long": "It's the image recovered from Little￥John's memory."
+  },
+  {
+   "off": 7558,
+   "budget": 9,
+   "en": "Red Sq.",
+   "long": "Red Square"
+  },
+  {
+   "off": 7567,
+   "budget": 41,
+   "en": "A still photo hidden in￥the Chief's rm",
+   "long": "It's the photograph hidden in the￥Chief's office."
+  },
+  {
+   "off": 7608,
+   "budget": 5,
+   "en": "Hall",
+   "long": "Temple"
+  },
+  {
+   "off": 7613,
+   "budget": 47,
+   "en": "Temple painting from a￥Queen Hospital room.",
+   "long": "It's the picture of a temple that￥was hanging in Queen Hospital."
+  },
+  {
+   "off": 7660,
+   "budget": 67,
+   "en": "It has a built-in chip containing￥all your records, Gillian."
+  },
+  {
+   "off": 7727,
+   "budget": 49,
+   "en": "Case expenses are covered￥as work requires.",
+   "long": "In principle, there's no limit on￥reimbursement for necessary￥investigation expenses."
+  },
+  {
+   "off": 7776,
+   "budget": 45,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "long": "It's the candy Jean used to give the￥children at the orphanage."
+  },
+  {
+   "off": 7821,
+   "budget": 57,
+   "en": "So the piece pointed to the name￥of Queen Hospital.",
+   "long": "This piece was apparently meant to￥tell us the name Queen Hospital."
+  },
+  {
+   "off": 7878,
+   "budget": 57,
+   "en": "It's a wooden chess piece. The￥queen."
+  },
+  {
+   "off": 7935,
+   "budget": 83,
+   "en": "It's a code using Chinese chemical￥element symbols. Decoded, it reads￥BENSON."
+  },
+  {
+   "off": 8018,
+   "budget": 65,
+   "en": "It seems to be part of a medical￥record, but what does it say?"
+  },
+  {
+   "off": 8083,
+   "budget": 73,
+   "en": "Matches from 'Outer Heaven'.￥A gift for the regulars,￥no doubt.",
+   "long": "They're matches from Outer Heaven.￥Probably free gifts for regular￥customers."
+  },
+  {
+   "off": 8156,
+   "budget": 63,
+   "en": "'Face to Face'.￥A memo on the illusion￥picture's secret.",
+   "long": "\"Face to face.\" The note reveals￥the secret of the optical illusion."
+  },
+  {
+   "off": 8219,
+   "budget": 75,
+   "en": "\"Face to face.\" It's Harry's￥handwriting, but what does it mean?"
+  },
+  {
+   "off": 8294,
+   "budget": 53,
+   "en": "It's an image of Queen Hospital's￥neon sign."
+  },
+  {
+   "off": 8347,
+   "budget": 67,
+   "en": "It reads \"Hospital OLEEN.\" It must￥be a hospital's neon sign."
+  },
+  {
+   "off": 8414,
+   "budget": 65,
+   "en": "A still photo of Red Square￥in Moscow, before the Catastrophe.",
+   "long": "It's a photograph of Red Square in￥Moscow before the Catastrophe."
+  },
+  {
+   "off": 8479,
+   "budget": 67,
+   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "long": "It's St. Basil's Cathedral, a famous￥church in Moscow before the￥Catastrophe."
+  },
+  {
+   "off": 8546,
+   "budget": 37,
+   "en": "Who really wrote this?"
+  },
+  {
+   "off": 8583,
+   "budget": 55,
+   "en": "Anyone could imitate Harry's￥handwriting."
+  },
+  {
+   "off": 8638,
+   "budget": 43,
+   "en": "Same as the mechanic room￥matches.",
+   "long": "They're the same matches as the ones￥in the Mechanic room."
+  },
+  {
+   "off": 8681,
+   "budget": 25,
+   "en": "That's what it means."
+  },
+  {
+   "off": 8708,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

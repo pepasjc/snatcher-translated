@@ -1,0 +1,121 @@
+{
+ "scene": "B0C0",
+ "note": "Fresh arrival at Gibson's from the end-of-B080 save (which carries the disk and the capsule): Catherine's introduction and the medicine lines, cues 0-5.",
+ "actions": [
+  {
+   "path": [
+    "Board Tricycle"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Gibson's"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B0C0_fresh"
+  },
+  {
+   "path": [
+    "Item",
+    "Investigate",
+    "Evidence",
+    "Capsule"
+   ],
+   "optional": true,
+   "reps": 2
+  },
+  {
+   "path": [
+    "Item",
+    "Look",
+    "Evidence",
+    "Capsule"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Look",
+    "JUNKER ID"
+   ],
+   "why": "Item's own Look/Check list is persistent; a pick returns to the verb menu"
+  },
+  {
+   "path": [
+    "Investigate",
+    "Building|Home"
+   ],
+   "reps": 2
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "reps": 2,
+   "optional": true
+  },
+  {
+   "path": [
+    "Talk"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Item",
+    "Show",
+    "JUNKER ID"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Answer",
+    "Gibson's age"
+   ],
+   "optional": true
+  },
+  {
+   "dial": "55",
+   "then": "start"
+  },
+  {
+   "path": [
+    "Answer",
+    "Measurements"
+   ],
+   "optional": true
+  },
+  {
+   "dial": "81",
+   "then": "start"
+  },
+  {
+   "dial": "58",
+   "then": "start"
+  },
+  {
+   "dial": "83",
+   "then": "start"
+  },
+  {
+   "save": "B0C0_fresh_inside"
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 1
+  }
+ ]
+}

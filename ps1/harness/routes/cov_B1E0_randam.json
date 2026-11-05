@@ -1,0 +1,19 @@
+{"scene": "B1E0",
+ "note": "Coverage (D_act2): Queen Hospital's second visit with Randam, from the whole-game chain's wg18_B1E0_random card (slot 2, outside the hospital after the runaway tricycle). The whole-game route's action 551 asks for 'Dr 3' but this visit's Move menu says 'Door 3' - the chain stopped there. Then the desk rails, the vase, Peep, the stairway: B1E0_f58..f77 (the stairs, rock-paper-scissors), into B200.",
+ "actions": [
+  {"path": ["Move", "Go inside"], "patience": 900},
+  {"sweep": ["Look", "Investigate", "Talk"], "rounds": 1, "avoid": ["Go out"]},
+  {"sweep": ["Press switch"], "rounds": 1, "why": "the doors are shut again on this visit"},
+  {"path": ["Move", "Door 3|Dr 3"], "patience": 900},
+  {"path": ["Use Metal Gear", "Turn on light"], "optional": true},
+  {"light_to": [49, 122]},
+  {"path": ["Look"], "reps": 2},
+  {"path": ["Investigate"], "reps": 2},
+  {"light_to": [80, 81]},
+  {"path": ["Look"], "reps": 2},
+  {"path": ["Investigate"], "reps": 2},
+  {"sweep": ["Peep", "Look", "Investigate", "Look around"], "rounds": 2, "avoid": ["Go out", "Save", "Turn on light"]},
+  {"save": "cov_B1E0_stairs"},
+  {"sweep": ["Move"], "each": ["Look", "Investigate", "Look around", "Talk"], "each_rounds": 2, "rounds": 1, "avoid": ["Go out"]},
+  {"sweep": ["Look", "Investigate", "Press switch", "Talk", "Look around"], "rounds": 1, "avoid": ["Go out"]}
+ ]}

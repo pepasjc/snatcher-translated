@@ -1,0 +1,26 @@
+{
+ "file": "ISZ_B090.BIN",
+ "text_base": 15,
+ "strings": [
+  {
+   "off": 15,
+   "budget": 3,
+   "en": ""
+  },
+  {
+   "off": 18,
+   "budget": 2,
+   "en": ""
+  },
+  {
+   "off": 20,
+   "budget": 31,
+   "en": "I'm a dummy file. Oh, my!"
+  },
+  {
+   "off": 53,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

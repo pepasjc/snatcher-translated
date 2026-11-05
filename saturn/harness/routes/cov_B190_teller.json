@@ -1,0 +1,63 @@
+{
+ "scene": "B190",
+ "note": "Coverage: Altamira at Christmas from the B190 scene save - the crowd searched until the fortune teller appears again, the fortune told (B190_c4f64..c5f5: 'You again! I knew you'd come back.'), the flirting, every verb again.",
+ "actions": [
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Let him go"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 10
+  },
+  {
+   "path": [
+    "Get fortune told"
+   ],
+   "optional": true,
+   "patience": 3000,
+   "reps": 2
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Get fortune told"
+   ],
+   "rounds": 3
+  },
+  {
+   "path": [
+    "Hit on her"
+   ],
+   "optional": true,
+   "reps": 4
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Ask"
+   ],
+   "rounds": 2
+  },
+  {
+   "idle": 600
+  }
+ ]
+}

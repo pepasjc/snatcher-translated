@@ -1,0 +1,295 @@
+{
+ "scene": "B120",
+ "note": "Late Act 1: Freddy/Lisa, the bathroom, the remains and re-entry. Shared PS1 route adapted to Saturn labels; used in a continuous session by satstress, with no restores or flag injection.",
+ "actions": [
+  {
+   "fight": "head"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Move",
+    "Room 202"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "reps": 3,
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Talk"
+   ],
+   "reps": 2,
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Talk",
+    "Is he out?|No one in?"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Ask"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Yell",
+    "Open door"
+   ]
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "reps": 3,
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Talk"
+   ],
+   "reps": 2,
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Look",
+    "Lisa"
+   ],
+   "reps": 3,
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Talk",
+    "Freddy suspected"
+   ],
+   "reps": 2,
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Item",
+    "Show",
+    "Photo",
+    "Montage|Montage photo"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Ask",
+    "About Freddy"
+   ],
+   "reps": 2,
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Talk",
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go to bathroom"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "Meaning of map"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Ask",
+    "Sneeze"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Talk",
+    "Montage|Montage photo"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go to bathroom"
+   ]
+  },
+  {
+   "path": [
+    "Move|Talk",
+    "Go to bathroom"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Go to bathroom"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "To living room"
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Look at remains"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Check remains"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate",
+    "Door"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate",
+    "Exits"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate",
+    "Lock"
+   ],
+   "reps": 2,
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate",
+    "Door"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Open door"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "idle": 300
+  },
+  {
+   "sweep": [
+    "Look around",
+    "Investigate area",
+    "Look at remains",
+    "Check remains",
+    "Listen"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Yell"
+   ]
+  },
+  {
+   "path": [
+    "Go to bathroom"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Move",
+    "Go to bathroom"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "wait_menu": true,
+   "patience": 12000
+  }
+ ]
+}

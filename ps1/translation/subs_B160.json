@@ -1,0 +1,11 @@
+{
+ "scene": "B160",
+ "options": {
+  "menu_word": 34561,
+  "rows": 3,
+  "faceleft": true,
+  "cols": 12,
+  "_note": "no voice line carded yet: an empty cue file so the payload runs here and the harness logs every stream this bank plays (BUG-050: a bank without one is invisible to the census)"
+ },
+ "cues": []
+}

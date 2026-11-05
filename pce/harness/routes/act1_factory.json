@@ -1,0 +1,17 @@
+[
+ {"sweep": "Look", "rounds": 3},
+ {"read": 3000},
+ {"sweep": "Investigate", "rounds": 2},
+ {"read": 3000},
+ {"items": true},
+ {"save": "factory_outside"},
+ {"choose": "Go inside"},
+ {"read": 6000},
+ {"items": true},
+ {"sweep": "Look", "rounds": 2},
+ {"read": 4000},
+ {"sweep": "Investigate", "rounds": 2},
+ {"read": 4000},
+ {"items": true},
+ {"save": "factory_inside"}
+]

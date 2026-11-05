@@ -1,0 +1,7 @@
+{
+ "scene": "B260",
+ "note": "The Kremlin's last bank: no verb menu from the church door to the credits - the pilot only presses through. From B260_countdown (Metal's countdown, ~7000 frames before the ending reel S000 ch5 f2): the explosion, the airport farewell (cards B260_e_*), the credits.",
+ "actions": [
+  {"idle": 40000}
+ ]
+}

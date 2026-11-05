@@ -1,0 +1,784 @@
+{
+ "file": "ISZ_B240.BIN",
+ "text_base": 4204,
+ "strings": [
+  {
+   "off": 4204,
+   "budget": 5,
+   "en": ""
+  },
+  {
+   "off": 4209,
+   "budget": 7,
+   "en": "Infra",
+   "long": "Infrared"
+  },
+  {
+   "off": 4216,
+   "budget": 7,
+   "en": "UV ray",
+   "long": "UV rays"
+  },
+  {
+   "off": 4223,
+   "budget": 5,
+   "en": "X",
+   "long": "X-rays"
+  },
+  {
+   "off": 4228,
+   "budget": 9,
+   "en": "Gamma",
+   "long": "Gamma rays"
+  },
+  {
+   "off": 4237,
+   "budget": 7,
+   "en": "Radtn",
+   "long": "Radiation"
+  },
+  {
+   "off": 4244,
+   "budget": 41,
+   "en": "I see... from that enema exam?",
+   "long": "Oh, the rays they used for my barium￥enema?"
+  },
+  {
+   "off": 4285,
+   "budget": 17,
+   "en": "What's that?",
+   "long": "What are you talking about?"
+  },
+  {
+   "off": 4302,
+   "budget": 41,
+   "en": "An army exam.￥A tube up the rear...",
+   "long": "An army medical exam. They put a￥tube up my..."
+  },
+  {
+   "off": 4343,
+   "budget": 9,
+   "en": "Rear?",
+   "long": "Up your what?"
+  },
+  {
+   "off": 4352,
+   "budget": 25,
+   "en": "Never mind."
+  },
+  {
+   "off": 4377,
+   "budget": 7,
+   "en": "Life",
+   "long": "Life line"
+  },
+  {
+   "off": 4384,
+   "budget": 29,
+   "en": "I'm no fortune teller...",
+   "long": "I'm no fortune-teller, but..."
+  },
+  {
+   "off": 4413,
+   "budget": 7,
+   "en": "Loop",
+   "long": "Loop line"
+  },
+  {
+   "off": 4420,
+   "budget": 25,
+   "en": "Then the loop line...?",
+   "long": "Then how about the loop line?"
+  },
+  {
+   "off": 4445,
+   "budget": 27,
+   "en": "You're unbelievable."
+  },
+  {
+   "off": 4472,
+   "budget": 7,
+   "en": "Heart",
+   "long": "Heart line"
+  },
+  {
+   "off": 4479,
+   "budget": 61,
+   "en": "How about ＠黄'heart line'＠白?￥Palmistry again, but...",
+   "long": "How about the ＠黄heart line＠白? Back to￥palm reading again."
+  },
+  {
+   "off": 4540,
+   "budget": 41,
+   "en": "How can you joke at a time like￥this?"
+  },
+  {
+   "off": 4581,
+   "budget": 35,
+   "en": "No need to get so emotional."
+  },
+  {
+   "off": 4616,
+   "budget": 45,
+   "en": "That's enough, Gillian. I'll choose!"
+  },
+  {
+   "off": 4661,
+   "budget": 49,
+   "en": "...Their weakness is￥＠黄ultraviolet＠白!",
+   "long": "The Snatchers' weakness is￥＠黄ultraviolet light＠白!"
+  },
+  {
+   "off": 4710,
+   "budget": 37,
+   "en": "Mika, sorry... I'll be serious.",
+   "long": "Sorry, Mika. I'll take this￥seriously."
+  },
+  {
+   "off": 4747,
+   "budget": 31,
+   "en": "Right. UV is their weakness.",
+   "long": "That's right. Their weakness is￥ultraviolet light."
+  },
+  {
+   "off": 4778,
+   "budget": 61,
+   "en": "Yes.￥The Snatchers' weakness is their￥flawed skin.",
+   "long": "Correct. The Snatchers' weakness￥lies in their imperfect artificial￥skin."
+  },
+  {
+   "off": 4839,
+   "budget": 115,
+   "en": "Long exposure to strong ＠赤ultraviolet＠白￥makes the melanocytes in the basal￥layer mutate and turn cancerous.",
+   "long": "Prolonged exposure to strong￥＠赤ultraviolet light＠白 causes￥melanocytes in the skin's basal￥layer to mutate and become￥cancerous."
+  },
+  {
+   "off": 4954,
+   "budget": 97,
+   "en": "To be exact, ultraviolet in the 250￥to 350 nanometre band causes skin￥cancer.",
+   "long": "More precisely, ultraviolet￥wavelengths between 250 and 350￥nanometers cause the skin cancer."
+  },
+  {
+   "off": 5051,
+   "budget": 47,
+   "en": "Yes, UV limited how they could act.",
+   "long": "Right. Ultraviolet light limited￥their movements."
+  },
+  {
+   "off": 5098,
+   "budget": 71,
+   "en": "Moving only on midwinter nights, and￥needing sunblock even then.",
+   "long": "They only went out on winter nights,￥and had to wear sunscreen even in￥winter."
+  },
+  {
+   "off": 5169,
+   "budget": 51,
+   "en": "That's how Jean identified the￥Snatchers."
+  },
+  {
+   "off": 5220,
+   "budget": 63,
+   "en": "Ironic. That the ozone hole￥should help mankind like this.",
+   "long": "How ironic. The destruction of the￥ozone layer actually helped￥humanity."
+  },
+  {
+   "off": 5283,
+   "budget": 81,
+   "en": "Yes. What route did they use to￥avoid sunlight and its ultraviolet￥rays?"
+  },
+  {
+   "off": 5364,
+   "budget": 9,
+   "en": "Canal"
+  },
+  {
+   "off": 5373,
+   "budget": 9,
+   "en": "Highway"
+  },
+  {
+   "off": 5382,
+   "budget": 7,
+   "en": "Tunnel",
+   "long": "Underpass"
+  },
+  {
+   "off": 5389,
+   "budget": 85,
+   "en": "Yes.￥They used the ＠赤tunnel＠白 of the old tube￥liner to move.",
+   "long": "Correct. They traveled through the￥＠赤underground tunnels＠白 of the￥abandoned Tube Liner."
+  },
+  {
+   "off": 5474,
+   "budget": 45,
+   "en": "That let them move around unnoticed."
+  },
+  {
+   "off": 5519,
+   "budget": 101,
+   "en": "....The Nielsen flat... the factory￥ruins.. Queen Hospital, all joined￥by tunnel.",
+   "long": "The Nielsens' home, the factory￥ruins, Queen Hospital. All their key￥locations were connected by tunnels."
+  },
+  {
+   "off": 5620,
+   "budget": 35,
+   "en": "Then a tunnel to their base too?",
+   "long": "Then is their hideout connected,￥too?"
+  },
+  {
+   "off": 5655,
+   "budget": 19,
+   "en": "Quite possible.",
+   "long": "It's quite possible."
+  },
+  {
+   "off": 5674,
+   "budget": 25,
+   "en": "Second showing, but...?",
+   "long": "Making its second appearance, but..."
+  },
+  {
+   "off": 5699,
+   "budget": 15,
+   "en": "Tricycle"
+  },
+  {
+   "off": 5714,
+   "budget": 11,
+   "en": "Black taxi"
+  },
+  {
+   "off": 5725,
+   "budget": 57,
+   "en": "Freddy did use an unlicensed taxi,￥but..."
+  },
+  {
+   "off": 5782,
+   "budget": 53,
+   "en": "Wasn't that to find people to￥snatch?"
+  },
+  {
+   "off": 5835,
+   "budget": 7,
+   "en": "Warper",
+   "long": "Teleporter"
+  },
+  {
+   "off": 5842,
+   "budget": 13,
+   "en": "Time machine"
+  },
+  {
+   "off": 5855,
+   "budget": 27,
+   "en": "Was that there before?"
+  },
+  {
+   "off": 5882,
+   "budget": 89,
+   "en": "Next, what symptom always appeared￥at Snatcher sites, including the￥tunnels?"
+  },
+  {
+   "off": 5971,
+   "budget": 3,
+   "en": "Co",
+   "long": "Cough"
+  },
+  {
+   "off": 5974,
+   "budget": 7,
+   "en": "Yawn"
+  },
+  {
+   "off": 5981,
+   "budget": 11,
+   "en": "Hiccup"
+  },
+  {
+   "off": 5992,
+   "budget": 7,
+   "en": "Burp"
+  },
+  {
+   "off": 5999,
+   "budget": 9,
+   "en": "Sneeze"
+  },
+  {
+   "off": 6008,
+   "budget": 45,
+   "en": "Correct. And what caused the￥sneezing?"
+  },
+  {
+   "off": 6053,
+   "budget": 7,
+   "en": "Fart"
+  },
+  {
+   "off": 6060,
+   "budget": 27,
+   "en": "It's a little odd, but..."
+  },
+  {
+   "off": 6087,
+   "budget": 7,
+   "en": "Sigh"
+  },
+  {
+   "off": 6094,
+   "budget": 15,
+   "en": "That's right."
+  },
+  {
+   "off": 6109,
+   "budget": 29,
+   "en": "I'm the one to sigh.",
+   "long": "I'm the one who should be sighing."
+  },
+  {
+   "off": 6138,
+   "budget": 5,
+   "en": "Runs",
+   "long": "Diarrhea"
+  },
+  {
+   "off": 6143,
+   "budget": 41,
+   "en": "Then... with the sigh, how about￥this?",
+   "long": "Well, while we're sighing, how about￥this?"
+  },
+  {
+   "off": 6184,
+   "budget": 13,
+   "en": "......"
+  },
+  {
+   "off": 6197,
+   "budget": 29,
+   "en": "My stomach's been bad.",
+   "long": "My stomach's been acting up lately."
+  },
+  {
+   "off": 6226,
+   "budget": 33,
+   "en": "...That's about you, isn't it?",
+   "long": "You're talking about yourself,￥aren't you?"
+  },
+  {
+   "off": 6259,
+   "budget": 17,
+   "en": "Yeah. So?"
+  },
+  {
+   "off": 6276,
+   "budget": 35,
+   "en": "Gillian, answer seriously!"
+  },
+  {
+   "off": 6311,
+   "budget": 23,
+   "en": "Listen to me!"
+  },
+  {
+   "off": 6334,
+   "budget": 13,
+   "en": "Sorry."
+  },
+  {
+   "off": 6347,
+   "budget": 5,
+   "en": "Cold"
+  },
+  {
+   "off": 6352,
+   "budget": 5,
+   "en": "Anem",
+   "long": "Anemia"
+  },
+  {
+   "off": 6357,
+   "budget": 7,
+   "en": "Gossip"
+  },
+  {
+   "off": 6364,
+   "budget": 5,
+   "en": "Poln",
+   "long": "Pollen"
+  },
+  {
+   "off": 6369,
+   "budget": 89,
+   "en": "That's right.￥That sneeze came from ＠赤Snow Cedar￥pollen＠白 as the allergen.",
+   "long": "That's right. ＠赤Snow Cedar pollen＠白￥caused the allergic reaction that￥made you sneeze."
+  },
+  {
+   "off": 6458,
+   "budget": 7,
+   "en": "Spice"
+  },
+  {
+   "off": 6465,
+   "budget": 25,
+   "en": "I'm poor at cooking...",
+   "long": "I'm not much of a cook, but..."
+  },
+  {
+   "off": 6490,
+   "budget": 5,
+   "en": "Mens",
+   "long": "Period"
+  },
+  {
+   "off": 6495,
+   "budget": 21,
+   "en": "Awkward, but..."
+  },
+  {
+   "off": 6516,
+   "budget": 45,
+   "en": "I can't believe you'd say that."
+  },
+  {
+   "off": 6561,
+   "budget": 35,
+   "en": "Vulgar, Gillian... stop it!",
+   "long": "That's disgusting, Gillian. Stop it!"
+  },
+  {
+   "off": 6596,
+   "budget": 13,
+   "en": "Rub pot"
+  },
+  {
+   "off": 6609,
+   "budget": 31,
+   "en": "How about this new command?"
+  },
+  {
+   "off": 6640,
+   "budget": 19,
+   "en": "Gillian!"
+  },
+  {
+   "off": 6659,
+   "budget": 35,
+   "en": "Just a joke to lighten the mood."
+  },
+  {
+   "off": 6694,
+   "budget": 25,
+   "en": "Gillian... don't!",
+   "long": "You're making me angry, Gillian!"
+  },
+  {
+   "off": 6719,
+   "budget": 81,
+   "en": "Snow Cedar is a cedar variant the￥army made; it grows only in set￥areas.",
+   "long": "Snow Cedar is a cedar variant￥developed by the military. It only￥grows in certain areas."
+  },
+  {
+   "off": 6800,
+   "budget": 101,
+   "en": "They use it to block radio signals￥and keep people away. They may even￥be growing it themselves."
+  },
+  {
+   "off": 6901,
+   "budget": 105,
+   "en": "Only the Ina river basin has￥confirmed Snow Cedar in the city￥now. The rest was cleared as￥dangerous.",
+   "long": "The only confirmed Snow Cedar growth￥in the city is along the Ina River.￥It was removed elsewhere because￥it's dangerous."
+  },
+  {
+   "off": 7006,
+   "budget": 43,
+   "en": "So their hideout is along the Ina￥River?"
+  },
+  {
+   "off": 7049,
+   "budget": 75,
+   "en": "That's likely. Somewhere along the￥Ina River, protected by Snow Cedars."
+  },
+  {
+   "off": 7124,
+   "budget": 53,
+   "en": "Along the Tube Liner, and near the￥Ina River."
+  },
+  {
+   "off": 7177,
+   "budget": 93,
+   "en": "And the three photos the Snatchers￥kept. All of the USSR before the￥Catastrophe.",
+   "long": "Then there are the three pictures￥the Snatchers had. All show the￥Soviet Union before the Catastrophe."
+  },
+  {
+   "off": 7270,
+   "budget": 37,
+   "en": "The map in the Nielsen flat..",
+   "long": "The map in the Nielsens' living￥room."
+  },
+  {
+   "off": 7307,
+   "budget": 47,
+   "en": "The temple picture at Queen￥Hospital...",
+   "long": "The picture of the cathedral in the￥director's office at Queen Hospital."
+  },
+  {
+   "off": 7354,
+   "budget": 37,
+   "en": "The square photo the Chief hid...",
+   "long": "The photo of the square hidden in￥the chief's office."
+  },
+  {
+   "off": 7391,
+   "budget": 59,
+   "en": "Why did the Snatchers display these￥pictures?"
+  },
+  {
+   "off": 7450,
+   "budget": 37,
+   "en": "Homesickness... their home?",
+   "long": "Homesickness. Could it be their￥homeland?"
+  },
+  {
+   "off": 7487,
+   "budget": 51,
+   "en": "Their home?... Ridiculous. They're￥robots...",
+   "long": "Their homeland? Don't be ridiculous.￥They're robots!"
+  },
+  {
+   "off": 7538,
+   "budget": 77,
+   "en": "Let's narrow it down. What city do￥these pictures suggest?"
+  },
+  {
+   "off": 7615,
+   "budget": 13,
+   "en": "New York"
+  },
+  {
+   "off": 7628,
+   "budget": 5,
+   "en": "Beij",
+   "long": "Beijing"
+  },
+  {
+   "off": 7633,
+   "budget": 5,
+   "en": "HK",
+   "long": "Hong Kong"
+  },
+  {
+   "off": 7638,
+   "budget": 9,
+   "en": "Moscow"
+  },
+  {
+   "off": 7647,
+   "budget": 29,
+   "en": "Yes. ＠赤Moscow＠白."
+  },
+  {
+   "off": 7676,
+   "budget": 89,
+   "en": "Moscow is their source. It's at the￥heart of their programming."
+  },
+  {
+   "off": 7765,
+   "budget": 21,
+   "en": "You may be right."
+  },
+  {
+   "off": 7786,
+   "budget": 91,
+   "en": "We carry our homeland in our hearts.￥Why couldn't theirs exist in their￥programming?"
+  },
+  {
+   "off": 7877,
+   "budget": 83,
+   "en": "Their AI must hold its mental￥balance by the image of that home.",
+   "long": "Their artificial intelligence must￥use that image of home to maintain￥mental stability."
+  },
+  {
+   "off": 7960,
+   "budget": 57,
+   "en": "Born of nothing, they cling to some￥image.",
+   "long": "They were created from nothing, so￥they cling to an image."
+  },
+  {
+   "off": 8017,
+   "budget": 43,
+   "en": "Moscow is both home and creator.",
+   "long": "Moscow is their homeland and their￥creator."
+  },
+  {
+   "off": 8060,
+   "budget": 47,
+   "en": "And it's where we were found."
+  },
+  {
+   "off": 8107,
+   "budget": 5,
+   "en": "Toky",
+   "long": "Tokyo"
+  },
+  {
+   "off": 8112,
+   "budget": 5,
+   "en": "Pari",
+   "long": "Paris"
+  },
+  {
+   "off": 8117,
+   "budget": 9,
+   "en": "London"
+  },
+  {
+   "off": 8126,
+   "budget": 5,
+   "en": "Seis",
+   "long": "Seishin"
+  },
+  {
+   "off": 8131,
+   "budget": 29,
+   "en": "A little minor, but...",
+   "long": "It's a little obscure, but..."
+  },
+  {
+   "off": 8160,
+   "budget": 29,
+   "en": "Gillian, where is that?"
+  },
+  {
+   "off": 8189,
+   "budget": 43,
+   "en": "Ah, sorry... it's out past old Kobe.",
+   "long": "Oh, sorry. It's on the outskirts of￥old Kobe."
+  },
+  {
+   "off": 8232,
+   "budget": 33,
+   "en": "It is in Kobe, but that's wrong."
+  },
+  {
+   "off": 8265,
+   "budget": 55,
+   "en": "Konami had a lab at a place called￥Takatsukadai.",
+   "long": "Konami had a technology research lab￥in a place called Takatsukadai."
+  },
+  {
+   "off": 8320,
+   "budget": 17,
+   "en": "About what?",
+   "long": "What are you talking about?"
+  },
+  {
+   "off": 8337,
+   "budget": 29,
+   "en": "Sorry. It's personal."
+  },
+  {
+   "off": 8366,
+   "budget": 27,
+   "en": "That's wrong, Gillian!"
+  },
+  {
+   "off": 8393,
+   "budget": 29,
+   "en": "The Snatcher weakness!",
+   "long": "This is the Snatchers' weakness!"
+  },
+  {
+   "off": 8422,
+   "budget": 61,
+   "en": "Oh, more commands?￥...The Snatchers' weakness!",
+   "long": "Huh? There are more commands now.￥The Snatchers' weakness is..."
+  },
+  {
+   "off": 8483,
+   "budget": 43,
+   "en": "This is how the Snatchers got￥around!"
+  },
+  {
+   "off": 8526,
+   "budget": 15,
+   "en": "This symptom!",
+   "long": "This was the symptom!"
+  },
+  {
+   "off": 8541,
+   "budget": 45,
+   "en": "More commands.￥...This symptom?",
+   "long": "There are more commands now. Is this￥the symptom?"
+  },
+  {
+   "off": 8586,
+   "budget": 25,
+   "en": "This caused the sneeze!",
+   "long": "This caused the sneezing!"
+  },
+  {
+   "off": 8611,
+   "budget": 23,
+   "en": "The common city!",
+   "long": "This is the city they have in￥common!"
+  },
+  {
+   "off": 8634,
+   "budget": 25,
+   "en": "Then how about this?"
+  },
+  {
+   "off": 8659,
+   "budget": 23,
+   "en": "Was it this one?"
+  },
+  {
+   "off": 8682,
+   "budget": 25,
+   "en": "All right. This one?"
+  },
+  {
+   "off": 8707,
+   "budget": 37,
+   "en": "Was it? Think back carefully."
+  },
+  {
+   "off": 8744,
+   "budget": 41,
+   "en": "Gillian,￥think carefully and answer.",
+   "long": "Think carefully before you answer,￥Gillian."
+  },
+  {
+   "off": 8785,
+   "budget": 45,
+   "en": "That doesn't make sense. Try to￥remember."
+  },
+  {
+   "off": 8830,
+   "budget": 23,
+   "en": "That can't be right."
+  },
+  {
+   "off": 8853,
+   "budget": 27,
+   "en": "No fooling, Gillian.",
+   "long": "Stop fooling around, Gillian."
+  },
+  {
+   "off": 8880,
+   "budget": 19,
+   "en": "Enough jokes!"
+  },
+  {
+   "off": 8899,
+   "budget": 29,
+   "en": "Now, of all times! Gillian.",
+   "long": "At a time like this, Gillian?"
+  },
+  {
+   "off": 8930,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

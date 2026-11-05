@@ -1,0 +1,34 @@
+{
+ "scene": "B0F0",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B0F0_000",
+   "line": 136,
+   "act": 1,
+   "sector": 2600,
+   "offset": 184,
+   "size": 36709,
+   "b0": 0,
+   "b1": 36709,
+   "speaker": "Waiter",
+   "colour": 7,
+   "en": "Welcome. A table for one?",
+   "rows": [
+    "Welcome. A table for one?"
+   ],
+   "rows_plain": [
+    "Welcome. A table for one?"
+   ],
+   "enabled": true
+  }
+ ]
+}

@@ -1,0 +1,403 @@
+{
+ "58": {
+  "speaker": "Napoleon",
+  "en": "So you're the new JUNKER.",
+  "ps1": [
+   "B0D0_000"
+  ],
+  "cards": [
+   "So you're the new|JUNKER."
+  ],
+  "layout": "plain"
+ },
+ "59": {
+  "speaker": "Gillian",
+  "en": "You're Napoleon?",
+  "ps1": [
+   "B0D0_001"
+  ],
+  "cards": [
+   "You're Napoleon?"
+  ]
+ },
+ "5a": {
+  "speaker": "Napoleon",
+  "en": "Make it quick. If the Snatchers see me here, I'll be the next one they kill.",
+  "ps1": [
+   "B0D0_002",
+   "B0D0_002b",
+   "B0D0_002bb"
+  ],
+  "cards": [
+   "Make it quick.",
+   "If the Snatchers see|me here,",
+   "I'll be the next one|they kill."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.36,
+   3.6
+  ]
+ },
+ "5b": {
+  "speaker": "Gillian",
+  "en": "All right, I'll get a reading.",
+  "ps1": [
+   "B0D0_1021"
+  ],
+  "cards": [
+   "All right, I'll get|a reading."
+  ]
+ },
+ "5c": {
+  "speaker": "Metal Gear",
+  "en": "Let's join the line.",
+  "ps1": [
+   "B0D0_1022"
+  ],
+  "cards": [
+   "Let's join the line."
+  ]
+ },
+ "5d": {
+  "speaker": "Teller",
+  "en": "Next, please!",
+  "ps1": [
+   "B0D0_1023"
+  ],
+  "cards": [
+   "Next, please!"
+  ]
+ },
+ "5e": {
+  "speaker": "Gillian",
+  "en": "Y-yes.",
+  "ps1": [
+   "B0D0_1024"
+  ],
+  "cards": [
+   "Y-yes."
+  ]
+ },
+ "5f": {
+  "speaker": "Teller",
+  "en": "Rest your face here and look straight ahead. I've recorded your retinal pattern. What would you like to ask about?",
+  "ps1": [
+   "B0D0_1025",
+   "B0D0_1025b",
+   "B0D0_1025c"
+  ],
+  "cards": [
+   "Rest your face here|and look straight|ahead.",
+   "I've recorded your|retinal pattern.|What would you like|to ask about?"
+  ],
+  "turns": [
+   6.16
+  ]
+ },
+ "60": {
+  "speaker": "Gillian",
+  "en": "Well, how about marriage?",
+  "ps1": [
+   "B0D0_1026"
+  ],
+  "cards": [
+   "Well, how about|marriage?"
+  ]
+ },
+ "61": {
+  "speaker": "Metal Gear",
+  "en": "Marriage, Gillian?",
+  "ps1": [
+   "B0D0_1027"
+  ],
+  "cards": [
+   "Marriage, Gillian?"
+  ]
+ },
+ "62": {
+  "speaker": "Gillian",
+  "en": "It's fine! Don't worry!",
+  "ps1": [
+   "B0D0_1028"
+  ],
+  "cards": [
+   "It's fine! Don't|worry!"
+  ],
+  "layout": "plain"
+ },
+ "63": {
+  "speaker": "Teller",
+  "en": "Marriage. Let's have a look.",
+  "ps1": [
+   "B0D0_1029"
+  ],
+  "cards": [
+   "Marriage. Let's|have a look."
+  ]
+ },
+ "64": {
+  "speaker": "Teller",
+  "en": "Mmmm! There, it's out.",
+  "ps1": [],
+  "cards": [
+   "Mmmm! There, it's|out."
+  ]
+ },
+ "65": {
+  "speaker": "Gillian",
+  "en": "Well?",
+  "ps1": [
+   "B0D0_1031"
+  ],
+  "cards": [
+   "Well?"
+  ],
+  "layout": "plain"
+ },
+ "66": {
+  "speaker": "Teller",
+  "en": "Your marriage line is disturbed.",
+  "ps1": [
+   "B0D0_1032"
+  ],
+  "cards": [
+   "Your marriage line|is disturbed."
+  ]
+ },
+ "67": {
+  "speaker": "Gillian",
+  "en": "Ha ha. Disturbed?",
+  "ps1": [
+   "B0D0_1033"
+  ],
+  "cards": [
+   "Ha ha. Disturbed?"
+  ],
+  "layout": "plain"
+ },
+ "68": {
+  "speaker": "Teller",
+  "en": "Divorce, separation... Your marriage has gone wrong.",
+  "ps1": [
+   "B0D0_1034"
+  ],
+  "cards": [
+   "Divorce,|separation... Your|marriage has gone|wrong."
+  ]
+ },
+ "69": {
+  "speaker": "Gillian",
+  "en": "Gulp!",
+  "ps1": [
+   "B0D0_1036"
+  ],
+  "cards": [
+   "Gulp!"
+  ],
+  "layout": "plain"
+ },
+ "6a": {
+  "speaker": "Teller",
+  "en": "And you... Yes, you've lost your memory.",
+  "ps1": [
+   "B0D0_1037"
+  ],
+  "cards": [
+   "And you... Yes,|you've lost your|memory."
+  ]
+ },
+ "6b": {
+  "speaker": "Gillian",
+  "en": "How did you know?",
+  "ps1": [
+   "B0D0_1038"
+  ],
+  "cards": [
+   "How did you know?"
+  ]
+ },
+ "6c": {
+  "speaker": "Teller",
+  "en": "Retinal readings reveal everything.",
+  "ps1": [
+   "B0D0_1039"
+  ],
+  "cards": [
+   "Retinal readings|reveal everything."
+  ]
+ },
+ "6d": {
+  "speaker": "Gillian",
+  "en": "Then how can I make things work with her?",
+  "ps1": [
+   "B0D0_1040"
+  ],
+  "cards": [
+   "Then how can I make|things work with|her?"
+  ]
+ },
+ "6e": {
+  "speaker": "Teller",
+  "en": "That's up to you. If you have no memories, make new ones.",
+  "ps1": [
+   "B0D0_1041"
+  ],
+  "cards": [
+   "That's up to you.|If you have no|memories, make new|ones."
+  ]
+ },
+ "6f": {
+  "speaker": "Gillian",
+  "en": "Is it that simple?",
+  "ps1": [
+   "B0D0_1042"
+  ],
+  "cards": [
+   "Is it that simple?"
+  ]
+ },
+ "70": {
+  "speaker": "Teller",
+  "en": "You make your own future! Hmm? Next, please!",
+  "ps1": [
+   "B0D0_1043",
+   "B0D0_1043b",
+   "B0D0_1043c"
+  ],
+  "cards": [
+   "You make your own|future! Hmm? Next,|please!"
+  ]
+ },
+ "71": {
+  "speaker": "Gillian",
+  "en": "Thank you.",
+  "ps1": [
+   "B0D0_1044"
+  ],
+  "cards": [
+   "Thank you."
+  ]
+ },
+ "72": {
+  "speaker": "Gillian",
+  "en": "Hear that, Metal? I doubted fortune-telling, but that was impressive.",
+  "ps1": [
+   "B0D0_1045",
+   "B0D0_1045b"
+  ],
+  "cards": [
+   "Hear that, Metal?",
+   "I doubted|fortune-telling,|but that was|impressive."
+  ],
+  "turns": [
+   2.04
+  ]
+ },
+ "73": {
+  "speaker": "Metal Gear",
+  "en": "Gillian, did you really believe her?",
+  "ps1": [
+   "B0D0_1046"
+  ],
+  "cards": [
+   "Gillian, did you|really believe her?"
+  ]
+ },
+ "74": {
+  "speaker": "Gillian",
+  "en": "Of course. She got so much right.",
+  "ps1": [
+   "B0D0_1047"
+  ],
+  "cards": [
+   "Of course. She got|so much right."
+  ]
+ },
+ "75": {
+  "speaker": "Metal Gear",
+  "en": "Anyone could do that. She read your retinal pattern, didn't she?",
+  "ps1": [
+   "B0D0_1048"
+  ],
+  "cards": [
+   "Anyone could do|that. She read your|retinal pattern,|didn't she?"
+  ]
+ },
+ "76": {
+  "speaker": "Gillian",
+  "en": "So what?",
+  "ps1": [
+   "B0D0_1049"
+  ],
+  "cards": [
+   "So what?"
+  ],
+  "layout": "plain"
+ },
+ "77": {
+  "speaker": "Metal Gear",
+  "en": "Everyone's retinal pattern is registered in Alphaville. Yours too, Gillian. She scanned your retina and used it to look up your details in the databank.",
+  "ps1": [
+   "B0D0_1050",
+   "B0D0_1050b",
+   "B0D0_1050c",
+   "B0D0_1050cb"
+  ],
+  "cards": [
+   "Everyone's retinal|pattern is|registered in|Alphaville.",
+   "Yours too, Gillian.",
+   "She scanned your|retina and used it",
+   "to look up your|details in the|databank."
+  ],
+  "turns": [
+   4.72,
+   7.08,
+   11.1
+  ]
+ },
+ "78": {
+  "speaker": "Metal Gear",
+  "en": "No fortune-telling. She checked your records. She's just a hacker.",
+  "ps1": [
+   "B0D0_1051",
+   "B0D0_1051b"
+  ],
+  "cards": [
+   "No fortune-telling.|She checked your|records. She's just|a hacker."
+  ]
+ },
+ "79": {
+  "speaker": "Gillian",
+  "en": "Then what about me? What about Jamie and me?",
+  "ps1": [
+   "B0D0_1052"
+  ],
+  "cards": [
+   "Then what about me?|What about Jamie and me?"
+  ],
+  "layout": "plain"
+ },
+ "7a": {
+  "speaker": "Metal Gear",
+  "en": "As she said, you make your own future.",
+  "ps1": [
+   "B0D0_1053"
+  ],
+  "cards": [
+   "As she said, you|make your own|future."
+  ]
+ },
+ "7b": {
+  "speaker": "Gillian",
+  "en": "Ugh, so where's this stand supposed to be, anyway?",
+  "ps1": [
+   "B0E0_103"
+  ],
+  "cards": [
+   "Ugh, so where's this|stand supposed to be, anyway?"
+  ],
+  "layout": "plain"
+ },
+ "_unmatched": {}
+}

@@ -1,0 +1,70 @@
+{
+ "scene": "B1E0",
+ "note": "Queen Hospital (guides/ps1.txt QUEENS HOSPITAL): Check building and door, go inside, Look around, Check doors, reception, switches; Press switch 1/2/3; Move > Door 3; Use Metal Gear > light; Check the drawer and the matchbook; Look/Check the St Basil portrait. Then call Napoleon (39-5644) - out of order - and Outer Heaven opens on the map.",
+ "actions": [
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "sweep": [
+    "Press switch"
+   ],
+   "rounds": 1,
+   "why": "each switch once - a second press toggles the door shut again"
+  },
+  {
+   "path": [
+    "Move",
+    "Dr 3|Door 3"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B1E0_door3"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Use Metal Gear"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Go out",
+    "Videophone",
+    "Save",
+    "Back"
+   ]
+  },
+  {
+   "save": "B1E0_room3"
+  },
+  {
+   "sweep": [
+    "Move"
+   ],
+   "each": [
+    "Look",
+    "Investigate",
+    "Use Metal Gear"
+   ],
+   "each_rounds": 2,
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Videophone",
+    "Save"
+   ]
+  },
+  {
+   "save": "B1E0_done"
+  }
+ ]
+}

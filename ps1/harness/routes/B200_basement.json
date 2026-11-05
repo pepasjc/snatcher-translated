@@ -1,0 +1,52 @@
+{
+ "scene": "B200",
+ "note": "from B200_pre_both: the switches, door 3, the morgue reel, Look/Check everything until Restore appears, bookmark B200_restore, then Restore and sit through the whole reconstruction, the Chief's reel and the aftermath (B210 loads under Restore - BUG-050). ~100000 frames.",
+ "actions": [
+  {
+   "path": [
+    "Press switch|Press",
+    "1 and 2 together"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "idle": 600
+  },
+  {
+   "path": [
+    "Move",
+    "Door 3"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "idle": 7000
+  },
+  {
+   "sweep": [
+    "Look"
+   ],
+   "rounds": 1
+  },
+  {
+   "sweep": [
+    "Investigate"
+   ],
+   "rounds": 3
+  },
+  {
+   "save": "B200_restore"
+  },
+  {
+   "path": [
+    "Reconstruct"
+   ],
+   "patience": 1800
+  },
+  {
+   "idle": 80000
+  }
+ ]
+}

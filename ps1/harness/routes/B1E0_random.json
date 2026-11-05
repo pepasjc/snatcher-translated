@@ -1,0 +1,137 @@
+{
+ "scene": "B1E0",
+ "note": "Queen Hospital with Randam (guides/ps1.txt second QUEENS HOSPITAL): Move > Enter, Move > Door 3, Use Metal Gear > Light on, Look at the rails and the vase, Check the vase, Peep, Check the stairway and the motion detector; then the basement (B200): reception desk, switches 1 and 2, door 1, look over, the snatcher fight (head, then abdomen), door 2 (shelf, containers, ceiling, desk top, monitors), switches 1 and 2 together, door 3 (wall, remains, duct, time of death, cause, identity, reconstruct).",
+ "actions": [
+  {
+   "path": [
+    "Move",
+    "Go inside"
+   ]
+  },
+  {
+   "save": "B1E0_r_lobby"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "sweep": [
+    "Press switch"
+   ],
+   "rounds": 1,
+   "why": "the doors are shut again on this visit"
+  },
+  {
+   "path": [
+    "Move",
+    "Dr 3"
+   ]
+  },
+  {
+   "path": [
+    "Use Metal Gear",
+    "Turn on light"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B1E0_r_dr3"
+  },
+  {
+   "light_to": [
+    49,
+    122
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "reps": 2
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "reps": 2
+  },
+  {
+   "light_to": [
+    80,
+    81
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "reps": 2
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "reps": 2
+  },
+  {
+   "sweep": [
+    "Peep",
+    "Look",
+    "Investigate",
+    "Look around"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out",
+    "Save",
+    "Turn on light"
+   ]
+  },
+  {
+   "save": "B1E0_r_stairs"
+  },
+  {
+   "sweep": [
+    "Move"
+   ],
+   "each": [
+    "Look",
+    "Investigate",
+    "Look around",
+    "Talk"
+   ],
+   "each_rounds": 2,
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "save": "B200_arrive"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Press switch",
+    "Talk",
+    "Look around"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "save": "B200_swept"
+  }
+ ]
+}

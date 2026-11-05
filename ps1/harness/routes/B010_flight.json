@@ -1,0 +1,32 @@
+{
+ "scene": "B010",
+ "note": "The tricycle briefing and the flight to the ruins, from the B010_toured bookmark (Gibson's call has come). Out to the front, into the tricycle, pick the ruins; then the S000 ch3 f4 reel plays over Gillian in the cockpit (B010_fly_* cues) until B020 loads.",
+ "actions": [
+  {
+   "path": [
+    "Go out",
+    "Front desk|Exit Tricycle|Exit"
+   ],
+   "optional": true,
+   "why": "back to the front"
+  },
+  {
+   "path": [
+    "Board Tricycle|Exit Tricycle"
+   ],
+   "optional": true,
+   "why": "ENTER TURBOCYCLE"
+  },
+  {
+   "path": [
+    "Factory ruins|Ruins"
+   ],
+   "optional": true,
+   "why": "pick FACTORY RUINS"
+  },
+  {
+   "idle": 4000,
+   "why": "the flight reel, 45 s"
+  }
+ ]
+}

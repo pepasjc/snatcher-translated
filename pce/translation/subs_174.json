@@ -1,0 +1,90 @@
+{
+ "2f": {
+  "speaker": "Napoleon",
+  "en": "What? Who's there?",
+  "ps1": [
+   "B060_008"
+  ],
+  "layout": "plain",
+  "cards": [
+   "What? Who's there?"
+  ]
+ },
+ "30": {
+  "speaker": "Gillian",
+  "en": "I know Gibson. I need information.",
+  "ps1": [
+   "B060_009"
+  ],
+  "cards": [
+   "I know Gibson. I|need information."
+  ],
+  "layout": "face"
+ },
+ "31": {
+  "speaker": "Napoleon",
+  "en": "You a cop too? I don't trust you. All right, let's try the password.",
+  "ps1": [
+   "B060_010",
+   "B060_010b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "You a cop too? I|don't trust you.",
+   "All right, let's try|the password."
+  ],
+  "turns": [
+   4.98
+  ]
+ },
+ "32": {
+  "speaker": "Gillian",
+  "en": "Password?",
+  "ps1": [
+   "B060_011"
+  ],
+  "cards": [
+   "Password?"
+  ],
+  "layout": "face"
+ },
+ "f5": {
+  "speaker": "Jamie",
+  "en": "Oh, Gillian. I was asleep.",
+  "ps1": [
+   "B060_000"
+  ],
+  "cards": [
+   "Oh, Gillian. I was|asleep."
+  ],
+  "layout": "plain"
+ },
+ "f6": {
+  "speaker": "Jamie",
+  "en": "Hello, Jamie here. Oh, Gillian. How are you?",
+  "ps1": [
+   "B060_001"
+  ],
+  "cards": [
+   "Hello, Jamie here. Oh,|Gillian. How are you?"
+  ],
+  "layout": "plain"
+ },
+ "f9": {
+  "speaker": "Clerk",
+  "en": "Thank you for calling Joy Division, the store that has everything.",
+  "ps1": [
+   "B060_012",
+   "B060_012b"
+  ],
+  "cards": [
+   "Thank you for calling|Joy Division,",
+   "the store that has|everything."
+  ],
+  "layout": "plain",
+  "turns": [
+   6.76
+  ]
+ },
+ "_unmatched": {}
+}

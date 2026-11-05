@@ -1,0 +1,37 @@
+{
+ "af": {
+  "speaker": "Thug",
+  "en": "What the hell? They're JUNKERs! JUNKERs? Get lost, cops! You don't belong here!",
+  "ps1": [
+   "B100_002",
+   "B100_002b"
+  ],
+  "cards": [
+   "What the hell? They're|JUNKERs! JUNKERs? Get lost, cops!",
+   "You don't belong here!"
+  ],
+  "layout": "plain",
+  "turns": [
+   7.24
+  ]
+ },
+ "b0": {
+  "speaker": "Master",
+  "en": "Looks like you've come to the wrong place. Forget the bill. Just get out.",
+  "ps1": [
+   "B100_003",
+   "B100_003b"
+  ],
+  "cards": [
+   "Looks like you've come|to the wrong place.",
+   "Forget the bill. Just|get out."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.24
+  ]
+ },
+ "_unmatched": {
+  "fd": "0.05 XAS_S000.XA[40]"
+ }
+}

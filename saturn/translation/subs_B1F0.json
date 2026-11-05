@@ -1,0 +1,1593 @@
+{
+ "scene": "B1F0",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B1F0_f24_0",
+   "line": 424,
+   "act": 2,
+   "sector": 2976,
+   "offset": 400,
+   "size": 14390,
+   "b0": 0,
+   "b1": 14390,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Where are you taking us?",
+   "rows": [
+    "Where are you taking us?"
+   ],
+   "rows_plain": [
+    "Where are you taking us?"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1F0_f25_0",
+   "line": 425,
+   "act": 2,
+   "sector": 2982,
+   "offset": 846,
+   "size": 34600,
+   "b0": 0,
+   "b1": 34600,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Something's wrong. The Tricycle is out of control.",
+   "rows": [
+    "Something's wrong. The",
+    "Tricycle is out of control."
+   ],
+   "rows_plain": [
+    "Something's wrong. The Tricycle is",
+    "out of control."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1F0_f26_0",
+   "line": 426,
+   "act": 2,
+   "sector": 2997,
+   "offset": 586,
+   "size": 17124,
+   "b0": 0,
+   "b1": 17124,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Switch from autopilot to manual!",
+   "rows": [
+    "Switch from autopilot to",
+    "manual!"
+   ],
+   "rows_plain": [
+    "Switch from autopilot to manual!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1F0_f27_0",
+   "line": 427,
+   "act": 2,
+   "sector": 3004,
+   "offset": 1442,
+   "size": 37000,
+   "b0": 0,
+   "b1": 37000,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Understood. Switched to manual control.",
+   "rows": [
+    "Understood. Switched to",
+    "manual control."
+   ],
+   "rows_plain": [
+    "Understood. Switched to manual",
+    "control."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1F0_f28_0",
+   "line": 428,
+   "act": 2,
+   "sector": 3020,
+   "offset": 1258,
+   "size": 7802,
+   "b0": 0,
+   "b1": 7802,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "How is it?",
+   "rows": [
+    "How is it?"
+   ],
+   "rows_plain": [
+    "How is it?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1F0_f29_0",
+   "line": 429,
+   "act": 2,
+   "sector": 3023,
+   "offset": 2088,
+   "size": 25499,
+   "b0": 0,
+   "b1": 25499,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "They're gone! No brakes!",
+   "rows": [
+    "They're gone! No brakes!"
+   ],
+   "rows_plain": [
+    "They're gone! No brakes!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1F0_f30_0",
+   "line": 430,
+   "act": 2,
+   "sector": 3034,
+   "offset": 2023,
+   "size": 30471,
+   "b0": 0,
+   "b1": 30471,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal! Check the brakes! Hurry!",
+   "rows": [
+    "Metal! Check the brakes!",
+    "Hurry!"
+   ],
+   "rows_plain": [
+    "Metal! Check the brakes! Hurry!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1F0_f31_0",
+   "line": 431,
+   "act": 2,
+   "sector": 3047,
+   "offset": 2282,
+   "size": 22526,
+   "b0": 0,
+   "b1": 22526,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "A Snatcher must have sabotaged them!",
+   "rows": [
+    "A Snatcher must have",
+    "sabotaged them!"
+   ],
+   "rows_plain": [
+    "A Snatcher must have sabotaged them!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1F0_f32_0",
+   "line": 432,
+   "act": 2,
+   "sector": 3057,
+   "offset": 1568,
+   "size": 41021,
+   "b0": 0,
+   "b1": 41021,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Sabotage? Of course! Only one person could sabotage the Tricycle!",
+   "rows": [
+    "Sabotage? Of course! Only",
+    "one person could sabotage",
+    "the Tricycle!"
+   ],
+   "rows_plain": [
+    "Sabotage? Of course! Only one person",
+    "could sabotage the Tricycle!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1F0_f33_0",
+   "line": 433,
+   "act": 2,
+   "sector": 3075,
+   "offset": 757,
+   "size": 39350,
+   "b0": 0,
+   "b1": 39350,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Never mind that! Do something, Gillian!",
+   "rows": [
+    "Never mind that! Do",
+    "something, Gillian!"
+   ],
+   "rows_plain": [
+    "Never mind that! Do something,",
+    "Gillian!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1F0_r_00",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 54,
+   "b1": 256762,
+   "size": 4539498,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "To hell with it! Metal, put your feet out on my signal!",
+   "rows": [
+    "To hell with it! Metal, put",
+    "your feet out on my signal!"
+   ],
+   "rows_plain": [
+    "To hell with it! Metal, put your",
+    "feet out on my signal!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_r_01",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 256762,
+   "b1": 318740,
+   "size": 4539498,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Our feet?",
+   "rows": [
+    "Our feet?"
+   ],
+   "rows_plain": [
+    "Our feet?"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B1F0_r_02",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 318740,
+   "b1": 918130,
+   "size": 4539498,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Ready? Here goes! One, two, three! Ow! Hot! Metal, it's no good! We can't stop!",
+   "rows": [
+    "Ready? Here goes! One, two,",
+    "three! Ow! Hot! Metal, it's",
+    "no good! We can't stop!"
+   ],
+   "rows_plain": [
+    "Ready? Here goes! One, two, three!",
+    "Ow! Hot! Metal, it's no good! We",
+    "can't stop!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_r_05",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 918130,
+   "b1": 1246814,
+   "size": 4539498,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian! There's a sharp bend in 500 meters! We can't make the turn at this speed!",
+   "rows": [
+    "Gillian! There's a sharp",
+    "bend in 500 meters! We can't",
+    "make the turn at this speed!"
+   ],
+   "rows_plain": [
+    "Gillian! There's a sharp bend in 500",
+    "meters! We can't make the turn at",
+    "this speed!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B1F0_r_06",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 1246814,
+   "b1": 1440744,
+   "size": 4539498,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Gillian! Gillian! Hey, Gillian!",
+   "rows": [
+    "Gillian! Gillian! Hey,",
+    "Gillian!"
+   ],
+   "rows_plain": [
+    "Gillian! Gillian! Hey, Gillian!"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B1F0_r_08",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 1440744,
+   "b1": 1519916,
+   "size": 4539498,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Huh?",
+   "rows": [
+    "Huh?"
+   ],
+   "rows_plain": [
+    "Huh?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_r_09",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 1519916,
+   "b1": 1599088,
+   "size": 4539498,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Hey! Over here!",
+   "rows": [
+    "Hey! Over here!"
+   ],
+   "rows_plain": [
+    "Hey! Over here!"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B1F0_r_10",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 1599088,
+   "b1": 1695056,
+   "size": 4539498,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What?",
+   "rows": [
+    "What?"
+   ],
+   "rows_plain": [
+    "What?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_r_11",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 1695056,
+   "b1": 1858198,
+   "size": 4539498,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Over here, Gillian!",
+   "rows": [
+    "Over here, Gillian!"
+   ],
+   "rows_plain": [
+    "Over here, Gillian!"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B1F0_r_12",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 1858198,
+   "b1": 2227268,
+   "size": 4539498,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Randam!",
+   "rows": [
+    "Randam!"
+   ],
+   "rows_plain": [
+    "Randam!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_r_13",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 2227268,
+   "b1": 2364020,
+   "size": 4539498,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Jump over here, Gillian! Hurry!",
+   "rows": [
+    "Jump over here, Gillian!",
+    "Hurry!"
+   ],
+   "rows_plain": [
+    "Jump over here, Gillian! Hurry!"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B1F0_r_14",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 2364020,
+   "b1": 2483976,
+   "size": 4539498,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Three hundred meters to the bend!",
+   "rows": [
+    "Three hundred meters to the",
+    "bend!"
+   ],
+   "rows_plain": [
+    "Three hundred meters to the bend!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B1F0_r_15",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 2483976,
+   "b1": 2574744,
+   "size": 4539498,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "You go first, Metal!",
+   "rows": [
+    "You go first, Metal!"
+   ],
+   "rows_plain": [
+    "You go first, Metal!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_r_16",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 2574744,
+   "b1": 2766678,
+   "size": 4539498,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "No! Not another jump!",
+   "rows": [
+    "No! Not another jump!"
+   ],
+   "rows_plain": [
+    "No! Not another jump!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B1F0_r_17",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 2766678,
+   "b1": 2867442,
+   "size": 4539498,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Hurry! The bend's coming!",
+   "rows": [
+    "Hurry! The bend's coming!"
+   ],
+   "rows_plain": [
+    "Hurry! The bend's coming!"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B1F0_r_18",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 2867442,
+   "b1": 3118952,
+   "size": 4539498,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "All right! Here goes!",
+   "rows": [
+    "All right! Here goes!"
+   ],
+   "rows_plain": [
+    "All right! Here goes!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B1F0_r_20",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 3118952,
+   "b1": 3356470,
+   "size": 4539498,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "All right, Gillian! Your turn! Hold your course!",
+   "rows": [
+    "All right, Gillian! Your",
+    "turn! Hold your course!"
+   ],
+   "rows_plain": [
+    "All right, Gillian! Your turn! Hold",
+    "your course!"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B1F0_r_21",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 3356470,
+   "b1": 3476426,
+   "size": 4539498,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "One hundred meters left!",
+   "rows": [
+    "One hundred meters left!"
+   ],
+   "rows_plain": [
+    "One hundred meters left!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B1F0_r_22",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 3476426,
+   "b1": 3536406,
+   "size": 4539498,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Jump, Gillian!",
+   "rows": [
+    "Jump, Gillian!"
+   ],
+   "rows_plain": [
+    "Jump, Gillian!"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B1F0_r_23",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 3536406,
+   "b1": 3715942,
+   "size": 4539498,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I can't! I can't time it!",
+   "rows": [
+    "I can't! I can't time it!"
+   ],
+   "rows_plain": [
+    "I can't! I can't time it!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_r_24",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 3715942,
+   "b1": 3835900,
+   "size": 4539498,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Fifty meters!",
+   "rows": [
+    "Fifty meters!"
+   ],
+   "rows_plain": [
+    "Fifty meters!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B1F0_r_25",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 3835900,
+   "b1": 3895878,
+   "size": 4539498,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Hurry, Gillian!",
+   "rows": [
+    "Hurry, Gillian!"
+   ],
+   "rows_plain": [
+    "Hurry, Gillian!"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B1F0_r_26",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 3895878,
+   "b1": 3955858,
+   "size": 4539498,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Thirty meters!",
+   "rows": [
+    "Thirty meters!"
+   ],
+   "rows_plain": [
+    "Thirty meters!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B1F0_r_27",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 3955858,
+   "b1": 4075816,
+   "size": 4539498,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Hurry! Hurry!",
+   "rows": [
+    "Hurry! Hurry!"
+   ],
+   "rows_plain": [
+    "Hurry! Hurry!"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B1F0_r_28",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 4075816,
+   "b1": 4195774,
+   "size": 4539498,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "It's no use!",
+   "rows": [
+    "It's no use!"
+   ],
+   "rows_plain": [
+    "It's no use!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_r_29",
+   "reel": 61,
+   "sdaif": "SDAIF_61.AIF",
+   "rate": 30000,
+   "frames": 2269722,
+   "b0": 4195774,
+   "b1": 4536054,
+   "size": 4539498,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Now!",
+   "rows": [
+    "Now!"
+   ],
+   "rows_plain": [
+    "Now!"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B1F0_j_00",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 141180,
+   "b1": 304070,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Gillian, it's me. Listen carefully.",
+   "rows": [
+    "Gillian, it's me. Listen",
+    "carefully."
+   ],
+   "rows_plain": [
+    "Gillian, it's me. Listen carefully."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_00b",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 304070,
+   "b1": 412574,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Queen Hospital underwent major construction",
+   "rows": [
+    "Queen Hospital underwent",
+    "major construction"
+   ],
+   "rows_plain": [
+    "Queen Hospital underwent major",
+    "construction"
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_00c",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 412574,
+   "b1": 752575,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "in 2030 to expand its underground facilities. That's right.",
+   "rows": [
+    "in 2030 to expand its",
+    "underground facilities.",
+    "That's right."
+   ],
+   "rows_plain": [
+    "in 2030 to expand its underground",
+    "facilities. That's right."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_00d",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 752575,
+   "b1": 895462,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "The hospital has an underground level.",
+   "rows": [
+    "The hospital has an",
+    "underground level."
+   ],
+   "rows_plain": [
+    "The hospital has an underground",
+    "level."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_00e",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 895462,
+   "b1": 1172408,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Underground construction is unusual in Neo Kobe. That's why there was a record.",
+   "rows": [
+    "Underground construction is",
+    "unusual in Neo Kobe. That's",
+    "why there was a record."
+   ],
+   "rows_plain": [
+    "Underground construction is unusual",
+    "in Neo Kobe. That's why there was a",
+    "record."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_00f",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 1172408,
+   "b1": 1230840,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "There's more.",
+   "rows": [
+    "There's more."
+   ],
+   "rows_plain": [
+    "There's more."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_00g",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 1230840,
+   "b1": 1342846,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "The director, Chin Shu Ho, once had his practice suspended",
+   "rows": [
+    "The director, Chin Shu Ho,",
+    "once had his practice",
+    "suspended"
+   ],
+   "rows_plain": [
+    "The director, Chin Shu Ho, once had",
+    "his practice suspended"
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_00h",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 1342846,
+   "b1": 1704466,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "for performing illegal surrogate-mother operations in an underground facility.",
+   "rows": [
+    "for performing illegal",
+    "surrogate-mother operations",
+    "in an underground facility."
+   ],
+   "rows_plain": [
+    "for performing illegal",
+    "surrogate-mother operations in an",
+    "underground facility."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_03",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 1704466,
+   "b1": 1825432,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "So there's a treatment facility underground.",
+   "rows": [
+    "So there's a treatment",
+    "facility underground."
+   ],
+   "rows_plain": [
+    "So there's a treatment facility",
+    "underground."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_j_04",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 1825432,
+   "b1": 2061286,
+   "size": 5872532,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Exactly. Chin Shu Ho is servicing the Snatchers in the underground facility.",
+   "rows": [
+    "Exactly. Chin Shu Ho is",
+    "servicing the Snatchers in",
+    "the underground facility."
+   ],
+   "rows_plain": [
+    "Exactly. Chin Shu Ho is servicing",
+    "the Snatchers in the underground",
+    "facility."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B1F0_j_05",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 2061286,
+   "b1": 2208494,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Then Chin is a Snatcher too.",
+   "rows": [
+    "Then Chin is a Snatcher too."
+   ],
+   "rows_plain": [
+    "Then Chin is a Snatcher too."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_j_05b",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 2208494,
+   "b1": 2388664,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "They must have snatched him to get access to his facilities.",
+   "rows": [
+    "They must have snatched him",
+    "to get access to his",
+    "facilities."
+   ],
+   "rows_plain": [
+    "They must have snatched him to get",
+    "access to his facilities."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_j_06",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 2388664,
+   "b1": 2607236,
+   "size": 5872532,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The facilities above ground are a cover for it.",
+   "rows": [
+    "The facilities above ground",
+    "are a cover for it."
+   ],
+   "rows_plain": [
+    "The facilities above ground are a",
+    "cover for it."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B1F0_j_07",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 2607236,
+   "b1": 2862249,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "If we hit this hospital, we can stop their advance. This is it, Metal.",
+   "rows": [
+    "If we hit this hospital, we",
+    "can stop their advance. This",
+    "is it, Metal."
+   ],
+   "rows_plain": [
+    "If we hit this hospital, we can stop",
+    "their advance. This is it, Metal."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_j_07b",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 2862249,
+   "b1": 2999896,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "We're going into the Snatchers' base.",
+   "rows": [
+    "We're going into the",
+    "Snatchers' base."
+   ],
+   "rows_plain": [
+    "We're going into the Snatchers'",
+    "base."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_j_08",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 2999896,
+   "b1": 3035418,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Gillian.",
+   "rows": [
+    "Gillian."
+   ],
+   "rows_plain": [
+    "Gillian."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_09",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 3035418,
+   "b1": 3110302,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Hmm?",
+   "rows": [
+    "Hmm?"
+   ],
+   "rows_plain": [
+    "Hmm?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_j_10",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 3110302,
+   "b1": 3473842,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "It's dangerous work, isn't it? I want you to come back safely.",
+   "rows": [
+    "It's dangerous work, isn't",
+    "it? I want you to come back",
+    "safely."
+   ],
+   "rows_plain": [
+    "It's dangerous work, isn't it? I",
+    "want you to come back safely."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_11",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 3473842,
+   "b1": 3542006,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Jamie.",
+   "rows": [
+    "Jamie."
+   ],
+   "rows_plain": [
+    "Jamie."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_j_12",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 3542006,
+   "b1": 3955788,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "I left because I thought you were forcing yourself, or rather, I felt it.",
+   "rows": [
+    "I left because I thought you",
+    "were forcing yourself, or",
+    "rather, I felt it."
+   ],
+   "rows_plain": [
+    "I left because I thought you were",
+    "forcing yourself, or rather, I felt",
+    "it."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_12b",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 3955788,
+   "b1": 4146189,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "I wondered if the wedding rings we wore",
+   "rows": [
+    "I wondered if the wedding",
+    "rings we wore"
+   ],
+   "rows_plain": [
+    "I wondered if the wedding rings we",
+    "wore"
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_12c",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 4146189,
+   "b1": 4361740,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "when we were found had become a burden to you.",
+   "rows": [
+    "when we were found had",
+    "become a burden to you."
+   ],
+   "rows_plain": [
+    "when we were found had become a",
+    "burden to you."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_12cx",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 4361740,
+   "b1": 4613104,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "If only those rings kept us together, it would be too sad.",
+   "rows": [
+    "If only those rings kept us",
+    "together, it would be too",
+    "sad."
+   ],
+   "rows_plain": [
+    "If only those rings kept us",
+    "together, it would be too sad."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_16",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 4613104,
+   "b1": 4686068,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That's not true.",
+   "rows": [
+    "That's not true."
+   ],
+   "rows_plain": [
+    "That's not true."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_j_17",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 4686068,
+   "b1": 4802234,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "I'll be waiting, Gillian.",
+   "rows": [
+    "I'll be waiting, Gillian."
+   ],
+   "rows_plain": [
+    "I'll be waiting, Gillian."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_17b",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 4802234,
+   "b1": 5172494,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "We may not remember, but you're the only person who shared that time with me.",
+   "rows": [
+    "We may not remember, but",
+    "you're the only person who",
+    "shared that time with me."
+   ],
+   "rows_plain": [
+    "We may not remember, but you're the",
+    "only person who shared that time",
+    "with me."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_17c",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 5172494,
+   "b1": 5448990,
+   "size": 5872532,
+   "speaker": "Jamie",
+   "colour": 6,
+   "en": "Take care, Gillian.",
+   "rows": [
+    "Take care, Gillian."
+   ],
+   "rows_plain": [
+    "Take care, Gillian."
+   ],
+   "enabled": true,
+   "face_char": 13
+  },
+  {
+   "id": "B1F0_j_19",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 5448990,
+   "b1": 5502752,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Jamie.",
+   "rows": [
+    "Jamie."
+   ],
+   "rows_plain": [
+    "Jamie."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_j_20",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 5502752,
+   "b1": 5593638,
+   "size": 5872532,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Are you going to leave it at that?",
+   "rows": [
+    "Are you going to leave it at",
+    "that?"
+   ],
+   "rows_plain": [
+    "Are you going to leave it at that?"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B1F0_j_21",
+   "reel": 102,
+   "sdaif": "SDAIF_A2.AIF",
+   "rate": 24000,
+   "frames": 2936239,
+   "b0": 5593638,
+   "b1": 5870454,
+   "size": 5872532,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Let's go, Metal. To Queen Hospital. Her Majesty awaits.",
+   "rows": [
+    "Let's go, Metal. To Queen",
+    "Hospital. Her Majesty",
+    "awaits."
+   ],
+   "rows_plain": [
+    "Let's go, Metal. To Queen Hospital.",
+    "Her Majesty awaits."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_t_00",
+   "reel": 62,
+   "sdaif": "SDAIF_62.AIF",
+   "rate": 30000,
+   "frames": 890664,
+   "b0": 437942,
+   "b1": 671908,
+   "size": 1781382,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Gillian! He didn't make it?",
+   "rows": [
+    "Gillian! He didn't make it?"
+   ],
+   "rows_plain": [
+    "Gillian! He didn't make it?"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B1F0_t_01",
+   "reel": 62,
+   "sdaif": "SDAIF_62.AIF",
+   "rate": 30000,
+   "frames": 890664,
+   "b0": 671908,
+   "b1": 822144,
+   "size": 1781382,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Don't be stupid! I'm right here!",
+   "rows": [
+    "Don't be stupid! I'm right",
+    "here!"
+   ],
+   "rows_plain": [
+    "Don't be stupid! I'm right here!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B1F0_t_02",
+   "reel": 62,
+   "sdaif": "SDAIF_62.AIF",
+   "rate": 30000,
+   "frames": 890664,
+   "b0": 1032074,
+   "b1": 1235994,
+   "size": 1781382,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Gillian, don't you know how to ride a bike?",
+   "rows": [
+    "Gillian, don't you know how",
+    "to ride a bike?"
+   ],
+   "rows_plain": [
+    "Gillian, don't you know how to ride",
+    "a bike?"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B1F0_t_03",
+   "reel": 62,
+   "sdaif": "SDAIF_62.AIF",
+   "rate": 30000,
+   "frames": 890664,
+   "b0": 1235994,
+   "b1": 1421888,
+   "size": 1781382,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We're almost at Queen Hospital, Gillian.",
+   "rows": [
+    "We're almost at Queen",
+    "Hospital, Gillian."
+   ],
+   "rows_plain": [
+    "We're almost at Queen Hospital,",
+    "Gillian."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B1F0_t_04",
+   "reel": 62,
+   "sdaif": "SDAIF_62.AIF",
+   "rate": 30000,
+   "frames": 890664,
+   "b0": 1421888,
+   "b1": 1781382,
+   "size": 1781382,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "You could use the exercise, so let's keep going like this.",
+   "rows": [
+    "You could use the exercise,",
+    "so let's keep going like",
+    "this."
+   ],
+   "rows_plain": [
+    "You could use the exercise, so let's",
+    "keep going like this."
+   ],
+   "enabled": true,
+   "face_char": 5
+  }
+ ]
+}

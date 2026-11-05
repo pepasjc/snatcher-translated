@@ -1,0 +1,10 @@
+{
+  "_comment": "The red screen after New Game (CXD_B000.BIN). Rendered by tools/disclaimer.py into the glyph atlas; up to 8 lines, each at most 186px in MS Gothic 12px (about 31 characters).",
+  "lines": [
+    "This story is fiction. The",
+    "groups, companies and persons",
+    "appearing in it are fictitious,",
+    "and any resemblance to real",
+    "ones is purely coincidental."
+  ]
+}

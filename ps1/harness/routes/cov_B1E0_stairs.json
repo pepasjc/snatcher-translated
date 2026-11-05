@@ -1,0 +1,7 @@
+{"scene": "B1E0",
+ "note": "Coverage (D_act2): Queen Hospital's second visit, Door 3 after the vase (old bookmark B1E0_cup, Sep 2026): Peep, the stairway, the motion detector - B1E0_f58..f77 (the stairs, rock-paper-scissors).",
+ "actions": [
+  {"sweep": ["Peep", "Look", "Investigate", "Look around", "Talk"], "rounds": 2, "avoid": ["Go out", "Save", "Turn on light"]},
+  {"sweep": ["Move"], "each": ["Look", "Investigate", "Look around", "Talk"], "each_rounds": 1, "rounds": 1, "avoid": ["Go out"]},
+  {"idle": 600}
+ ]}

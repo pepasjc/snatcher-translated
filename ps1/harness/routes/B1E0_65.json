@@ -1,0 +1,124 @@
+{
+ "scene": "B1E0",
+ "note": "GitHub #65 / BUG-064 from work/saves/B1E0_auto.mcd (outside the hospital, fresh boot): outside sweep, Move > Go inside, the B1E0 sweep to Door 3, the light on and aimed (light_to lands on a monitor at (111,70), not the drawer yet), Go out, back to Door 3, the light again.",
+ "actions": [
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Board Tricycle"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Go inside"
+   ],
+   "patience": 900
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "sweep": [
+    "Press switch"
+   ],
+   "rounds": 1,
+   "why": "each switch once - a second press toggles the door shut again"
+  },
+  {
+   "path": [
+    "Move",
+    "Dr 3|Door 3"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Use Metal Gear",
+    "Turn on light"
+   ],
+   "patience": 900
+  },
+  {
+   "light_to": [
+    115,
+    73
+   ]
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "reps": 3
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "reps": 2
+  },
+  {
+   "path": [
+    "Go out"
+   ],
+   "patience": 900
+  },
+  {
+   "path": [
+    "Move",
+    "Dr 3|Door 3"
+   ],
+   "patience": 900
+  },
+  {
+   "path": [
+    "Use Metal Gear",
+    "Turn on light"
+   ],
+   "patience": 900
+  },
+  {
+   "light_to": [
+    115,
+    73
+   ]
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "reps": 2
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "reps": 2
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Save"
+   ]
+  },
+  {
+   "idle": 600
+  }
+ ]
+}

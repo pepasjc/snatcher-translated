@@ -1,0 +1,62 @@
+[
+ {
+  "choose": "Knock"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "choose": "Study"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "choose": "Item"
+ },
+ {
+  "choose": "Show"
+ },
+ {
+  "choose": "Evidence"
+ },
+ {
+  "choose": "Disk"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "choose": "Investigate"
+ },
+ {
+  "choose": "Computer"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "choose": "Item"
+ },
+ {
+  "choose": "Use"
+ },
+ {
+  "choose": "Disk"
+ },
+ {
+  "read": 40000
+ },
+ {
+  "choose": "Look"
+ },
+ {
+  "items": 1
+ },
+ {
+  "shot": "finished"
+ }
+]

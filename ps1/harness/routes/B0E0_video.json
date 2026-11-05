@@ -1,0 +1,35 @@
+{
+ "scene": "B0E0",
+ "note": "The Joy Division shop's video tape (Check > Video tape): Metal plays it and the pictures 'blow away' - cues 0-24.",
+ "actions": [
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Ask"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Investigate",
+    "Videotape"
+   ],
+   "reps": 3,
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "save": "B0E0_video"
+  }
+ ]
+}

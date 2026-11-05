@@ -1,0 +1,267 @@
+{
+ "scene": "B240",
+ "note": "Act 3 (guides/ps1.txt ACT 3; the PS1's B240 + B250_end): the debrief with Mika - the first list has no UV answer until the decoy 'Forehead slit' is picked ('another weak point, no?'), then UV rays, Underpass, Sneeze, Pollen, Moscow; the map, Mika's dinner promise, the last tricycle - then the tricycle to the church (B250): the building, inside, the portrait, back, the container, the snatcher, back again, the cylinder, the process, the terminal and the door; the fights and the ending (the PS1's B260, under B250 here). Fights: the super insectors on 'body' (the yellow centroid), the snatcher horde on 'horde' (head shots at the topmost grey cell), the last battle 'hold' (never fire).",
+ "actions": [
+  {
+   "wait_menu": true,
+   "patience": 40000
+  },
+  {
+   "fight": [
+    "body",
+    "horde",
+    "hold"
+   ]
+  },
+  {
+   "path": [
+    "Don't save"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "path": [
+    "Forehead slit"
+   ],
+   "optional": true,
+   "patience": 30000
+  },
+  {
+   "path": [
+    "UV rays|UV ray|Ultraviolet"
+   ],
+   "optional": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Underpass|Tunnel"
+   ],
+   "optional": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Sneeze"
+   ],
+   "optional": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Pollen|Snow-9|Poln"
+   ],
+   "optional": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Moscow"
+   ],
+   "optional": true,
+   "patience": 6000
+  },
+  {
+   "wait_menu": true,
+   "patience": 40000
+  },
+  {
+   "save": "B240_answered"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Board Tricycle",
+    "Tricycle"
+   ]
+  },
+  {
+   "path": [
+    "Board Tricycle|Move",
+    "Board Tricycle|Church"
+   ],
+   "optional": true,
+   "patience": 20000
+  },
+  {
+   "path": [
+    "Church|Chur"
+   ],
+   "optional": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true
+  },
+  {
+   "wait_menu": true,
+   "patience": 30000
+  },
+  {
+   "save": "B250_arrive"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen",
+    "Motion detector"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go inside",
+    "Go further in",
+    "Exit Tricycle",
+    "Board Tricycle"
+   ]
+  },
+  {
+   "path": [
+    "Go inside|Go further in"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Move",
+    "Go inside|Go further in"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B250_inside"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Exit Tricycle",
+    "Go further in",
+    "Continue back",
+    "Go back"
+   ]
+  },
+  {
+   "path": [
+    "Go further in|Continue back|Go back"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Move",
+    "Go further in|Continue back|Go back"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B250_back1"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Exit Tricycle",
+    "Go further in",
+    "Continue back",
+    "Go back"
+   ]
+  },
+  {
+   "path": [
+    "Go further in|Continue back|Go back"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Move",
+    "Go further in|Continue back|Go back"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B250_back2"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Exit Tricycle",
+    "Go further in",
+    "Continue back",
+    "Go back"
+   ]
+  },
+  {
+   "path": [
+    "Go further in|Continue back|Go back"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Move",
+    "Go further in|Continue back|Go back"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B250_deep"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Listen"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Exit Tricycle"
+   ]
+  },
+  {
+   "wait_menu": true,
+   "patience": 60000
+  },
+  {
+   "save": "B250_fight"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk"
+   ],
+   "rounds": 4
+  },
+  {
+   "save": "B250_end"
+  },
+  {
+   "idle": 60000
+  }
+ ]
+}

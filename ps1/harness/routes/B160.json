@@ -1,0 +1,19 @@
+{"scene":"B170",
+ "note":"JUNKER HQ after Outer Heaven (guides/ps1.txt Act 2 JUNKER HEADQUARTERS, both suspects out): talk about the record, ask about Harry and the Chief, the Kyoto summit; mechanic room - desk top, matches, memo; Chief's office - picture x2, photo; then Front > Get in: Jamie calls, the runaway car (B1F0): Pull lever, Jump/Quit x4, Hit wall, Hit sand, Press, Muse (pray), then the control panel.",
+ "actions":[
+  {"path":["JUNKER HQ"],"patience":6000},
+  {"path":["Exit Tricycle"],"optional":true},
+  {"save":"B160_arrive"},
+  {"sweep":["Talk","Ask","Look","Investigate"],"rounds":2,"avoid":["Go out"]},
+  {"path":["Move","Mechanic room"],"optional":true},
+  {"sweep":["Look","Investigate"],"rounds":3,"avoid":["Go out"]},
+  {"path":["Move","Chief's room"],"optional":true},
+  {"sweep":["Look","Investigate"],"rounds":3,"avoid":["Go out"]},
+  {"save":"B160_searched"},
+  {"path":["Move","Front desk"],"optional":true},
+  {"path":["Move","Board Tricycle"],"patience":6000},
+  {"save":"B1F0_car"},
+  {"path":["Queen Hosp"],"optional":true,"patience":3000},
+  {"sweep":["Pull the lever","Jump off","Give up","Glide","Hit wall","Drive into sand","Press button","Imagine|Muse","Stick feet out"],"rounds":5},
+  {"save":"B1F0_end"}
+ ]}

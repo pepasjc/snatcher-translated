@@ -1,0 +1,630 @@
+{
+ "note": "Saturn speaker-name table (MAIN_L.BIN 0x060C17F4, pointer pool 0x060C1F1C; 78 names, index 0 of the runtime table is '----'). `jp` is the name without its colour wrapper; `colour` is the ＠ colour it is drawn in (the wrapper is rebuilt from the pristine exec), `reset` = a trailing ＠白 in the original. `en` follows the PS1 (ps1/tools/translate_names.NAMES) where the PS1 has the name (`src` ps1), romanised here otherwise (the Tokimeki Memorial cast and Konami staff of the Saturn's B100).",
+ "names": [
+  {
+   "index": 0,
+   "jp": "メタルギア",
+   "colour": "青",
+   "reset": true,
+   "en": "Metal Gear",
+   "src": "ps1"
+  },
+  {
+   "index": 1,
+   "jp": "ハリー",
+   "colour": "水",
+   "reset": true,
+   "en": "Harry",
+   "src": "ps1"
+  },
+  {
+   "index": 2,
+   "jp": "受付嬢",
+   "colour": "紫",
+   "reset": true,
+   "en": "Receptionist",
+   "src": "ps1"
+  },
+  {
+   "index": 3,
+   "jp": "ギリアン",
+   "colour": "緑",
+   "reset": true,
+   "en": "Gillian",
+   "src": "ps1"
+  },
+  {
+   "index": 4,
+   "jp": "ミカ",
+   "colour": "紫",
+   "reset": true,
+   "en": "Mika",
+   "src": "ps1"
+  },
+  {
+   "index": 5,
+   "jp": "局長",
+   "colour": "黄",
+   "reset": true,
+   "en": "Chief",
+   "src": "ps1"
+  },
+  {
+   "index": 6,
+   "jp": "ガウディ",
+   "colour": "白",
+   "reset": false,
+   "en": "Gaudi",
+   "src": "ps1"
+  },
+  {
+   "index": 7,
+   "jp": "ナポレオン",
+   "colour": "黄",
+   "reset": true,
+   "en": "Napoleon",
+   "src": "ps1"
+  },
+  {
+   "index": 8,
+   "jp": "ジェミー",
+   "colour": "黄",
+   "reset": true,
+   "en": "Jamie",
+   "src": "ps1"
+  },
+  {
+   "index": 9,
+   "jp": "店員",
+   "colour": "白",
+   "reset": false,
+   "en": "Clerk",
+   "src": "ps1"
+  },
+  {
+   "index": 10,
+   "jp": "カトリーヌ",
+   "colour": "紫",
+   "reset": true,
+   "en": "Catherine",
+   "src": "ps1"
+  },
+  {
+   "index": 11,
+   "jp": "男",
+   "colour": "白",
+   "reset": false,
+   "en": "Man",
+   "src": "ps1"
+  },
+  {
+   "index": 12,
+   "jp": "女",
+   "colour": "白",
+   "reset": false,
+   "en": "Woman",
+   "src": "ps1"
+  },
+  {
+   "index": 13,
+   "jp": "通行人",
+   "colour": "白",
+   "reset": false,
+   "en": "Passerby",
+   "src": "ps1"
+  },
+  {
+   "index": 14,
+   "jp": "アナウンス",
+   "colour": "白",
+   "reset": false,
+   "en": "Announcer",
+   "src": "ps1"
+  },
+  {
+   "index": 15,
+   "jp": "呼び込み",
+   "colour": "黄",
+   "reset": true,
+   "en": "Barker",
+   "src": "ps1"
+  },
+  {
+   "index": 16,
+   "jp": "マスター",
+   "colour": "白",
+   "reset": false,
+   "en": "Master",
+   "src": "ps1"
+  },
+  {
+   "index": 17,
+   "jp": "パワプロ君",
+   "colour": "白",
+   "reset": false,
+   "en": "Pawapuro",
+   "src": "ps1"
+  },
+  {
+   "index": 18,
+   "jp": "ゴエモン",
+   "colour": "白",
+   "reset": false,
+   "en": "Goemon",
+   "src": "ps1"
+  },
+  {
+   "index": 19,
+   "jp": "パステル",
+   "colour": "紫",
+   "reset": true,
+   "en": "Pastel",
+   "src": "ps1"
+  },
+  {
+   "index": 20,
+   "jp": "ライト",
+   "colour": "水",
+   "reset": true,
+   "en": "Light",
+   "src": "ps1"
+  },
+  {
+   "index": 21,
+   "jp": "ドラキュラ",
+   "colour": "白",
+   "reset": false,
+   "en": "Dracula",
+   "src": "ps1"
+  },
+  {
+   "index": 22,
+   "jp": "シモン",
+   "colour": "白",
+   "reset": false,
+   "en": "Simon",
+   "src": "ps1"
+  },
+  {
+   "index": 23,
+   "jp": "デザインマン",
+   "colour": "白",
+   "reset": false,
+   "en": "Design Man",
+   "src": "ps1"
+  },
+  {
+   "index": 24,
+   "jp": "イザベラ",
+   "colour": "紫",
+   "reset": true,
+   "en": "Isabella",
+   "src": "ps1"
+  },
+  {
+   "index": 25,
+   "jp": "フリーマン",
+   "colour": "黄",
+   "reset": true,
+   "en": "Freeman",
+   "src": "ps1"
+  },
+  {
+   "index": 26,
+   "jp": "イワン",
+   "colour": "赤",
+   "reset": true,
+   "en": "Ivan",
+   "src": "ps1"
+  },
+  {
+   "index": 27,
+   "jp": "リサ",
+   "colour": "赤",
+   "reset": true,
+   "en": "Lisa",
+   "src": "ps1"
+  },
+  {
+   "index": 28,
+   "jp": "リエ",
+   "colour": "紫",
+   "reset": true,
+   "en": "Rie",
+   "src": "ps1"
+  },
+  {
+   "index": 29,
+   "jp": "ヒマゴギャル",
+   "colour": "紫",
+   "reset": true,
+   "en": "Young Gal",
+   "src": "ps1"
+  },
+  {
+   "index": 30,
+   "jp": "フクイ２世",
+   "colour": "黄",
+   "reset": true,
+   "en": "Fukui II",
+   "src": "ps1"
+  },
+  {
+   "index": 31,
+   "jp": "声",
+   "colour": "白",
+   "reset": true,
+   "en": "Voice",
+   "src": "ps1"
+  },
+  {
+   "index": 32,
+   "jp": "相沢",
+   "colour": "黄",
+   "reset": true,
+   "en": "Aizawa",
+   "src": "ps1"
+  },
+  {
+   "index": 33,
+   "jp": "朝多",
+   "colour": "緑",
+   "reset": true,
+   "en": "Asato",
+   "src": "ps1"
+  },
+  {
+   "index": 34,
+   "jp": "留守電",
+   "colour": "白",
+   "reset": false,
+   "en": "Ans. Machine",
+   "src": "ps1"
+  },
+  {
+   "index": 35,
+   "jp": "水谷",
+   "colour": "青",
+   "reset": true,
+   "en": "Mizutani",
+   "src": "ps1"
+  },
+  {
+   "index": 36,
+   "jp": "清原",
+   "colour": "白",
+   "reset": false,
+   "en": "Kiyohara",
+   "src": "ps1"
+  },
+  {
+   "index": 37,
+   "jp": "岐田寸",
+   "colour": "白",
+   "reset": false,
+   "en": "Kidasu",
+   "src": "ps1"
+  },
+  {
+   "index": 38,
+   "jp": "野口",
+   "colour": "白",
+   "reset": false,
+   "en": "Noguchi",
+   "src": "ps1"
+  },
+  {
+   "index": 39,
+   "jp": "安達",
+   "colour": "白",
+   "reset": false,
+   "en": "Adachi",
+   "src": "ps1"
+  },
+  {
+   "index": 40,
+   "jp": "吉冨",
+   "colour": "白",
+   "reset": false,
+   "en": "Yoshitomi",
+   "src": "ps1"
+  },
+  {
+   "index": 41,
+   "jp": "物体",
+   "colour": "白",
+   "reset": false,
+   "en": "Object",
+   "src": "ps1"
+  },
+  {
+   "index": 42,
+   "jp": "高行",
+   "colour": "白",
+   "reset": false,
+   "en": "Takayuki",
+   "src": "ps1"
+  },
+  {
+   "index": 43,
+   "jp": "浅見",
+   "colour": "白",
+   "reset": false,
+   "en": "Asami",
+   "src": "ps1"
+  },
+  {
+   "index": 44,
+   "jp": "直哉",
+   "colour": "白",
+   "reset": false,
+   "en": "Naoya",
+   "src": "ps1"
+  },
+  {
+   "index": 45,
+   "jp": "由美子",
+   "colour": "白",
+   "reset": false,
+   "en": "Yumiko",
+   "src": "ps1"
+  },
+  {
+   "index": 46,
+   "jp": "小松原",
+   "colour": "白",
+   "reset": false,
+   "en": "Komatsubara",
+   "src": "ps1"
+  },
+  {
+   "index": 47,
+   "jp": "小松原弟",
+   "colour": "白",
+   "reset": false,
+   "en": "Kom. Brother",
+   "src": "ps1"
+  },
+  {
+   "index": 48,
+   "jp": "松川",
+   "colour": "白",
+   "reset": false,
+   "en": "Matsukawa",
+   "src": "ps1"
+  },
+  {
+   "index": 49,
+   "jp": "タッチャン",
+   "colour": "白",
+   "reset": false,
+   "en": "Tacchan",
+   "src": "ps1"
+  },
+  {
+   "index": 50,
+   "jp": "ガウディ",
+   "colour": "黄",
+   "reset": true,
+   "en": "Gaudi",
+   "src": "ps1"
+  },
+  {
+   "index": 51,
+   "jp": "コナミ",
+   "colour": "白",
+   "reset": false,
+   "en": "Konami",
+   "src": "ps1"
+  },
+  {
+   "index": 52,
+   "jp": "虹野",
+   "colour": "水",
+   "reset": true,
+   "en": "Nijino",
+   "src": "saturn"
+  },
+  {
+   "index": 53,
+   "jp": "藤崎",
+   "colour": "赤",
+   "reset": true,
+   "en": "Fujisaki",
+   "src": "saturn"
+  },
+  {
+   "index": 54,
+   "jp": "如月",
+   "colour": "緑",
+   "reset": true,
+   "en": "Kisaragi",
+   "src": "saturn"
+  },
+  {
+   "index": 55,
+   "jp": "紐緒",
+   "colour": "青",
+   "reset": true,
+   "en": "Himoo",
+   "src": "saturn"
+  },
+  {
+   "index": 56,
+   "jp": "片桐",
+   "colour": "青",
+   "reset": true,
+   "en": "Katagiri",
+   "src": "saturn"
+  },
+  {
+   "index": 57,
+   "jp": "古式",
+   "colour": "紫",
+   "reset": true,
+   "en": "Koshiki",
+   "src": "saturn"
+  },
+  {
+   "index": 58,
+   "jp": "清川",
+   "colour": "緑",
+   "reset": true,
+   "en": "Kiyokawa",
+   "src": "saturn"
+  },
+  {
+   "index": 59,
+   "jp": "鏡",
+   "colour": "紫",
+   "reset": true,
+   "en": "Kagami",
+   "src": "saturn"
+  },
+  {
+   "index": 60,
+   "jp": "朝日奈",
+   "colour": "赤",
+   "reset": true,
+   "en": "Asahina",
+   "src": "saturn"
+  },
+  {
+   "index": 61,
+   "jp": "美樹原",
+   "colour": "黄",
+   "reset": true,
+   "en": "Mikihara",
+   "src": "saturn"
+  },
+  {
+   "index": 62,
+   "jp": "早乙女",
+   "colour": "黄",
+   "reset": true,
+   "en": "Saotome",
+   "src": "saturn"
+  },
+  {
+   "index": 63,
+   "jp": "伊集院",
+   "colour": "黄",
+   "reset": true,
+   "en": "Ijuin",
+   "src": "saturn"
+  },
+  {
+   "index": 64,
+   "jp": "スキオス",
+   "colour": "黄",
+   "reset": true,
+   "en": "Skios",
+   "src": "saturn"
+  },
+  {
+   "index": 65,
+   "jp": "綱島",
+   "colour": "白",
+   "reset": true,
+   "en": "Tsunashima",
+   "src": "saturn"
+  },
+  {
+   "index": 66,
+   "jp": "高木",
+   "colour": "白",
+   "reset": true,
+   "en": "Takagi",
+   "src": "saturn"
+  },
+  {
+   "index": 67,
+   "jp": "山岸",
+   "colour": "黄",
+   "reset": true,
+   "en": "Yamagishi",
+   "src": "saturn"
+  },
+  {
+   "index": 68,
+   "jp": "小池",
+   "colour": "白",
+   "reset": true,
+   "en": "Koike",
+   "src": "saturn"
+  },
+  {
+   "index": 69,
+   "jp": "木村",
+   "colour": "白",
+   "reset": true,
+   "en": "Kimura",
+   "src": "saturn"
+  },
+  {
+   "index": 70,
+   "jp": "平田",
+   "colour": "白",
+   "reset": true,
+   "en": "Hirata",
+   "src": "saturn"
+  },
+  {
+   "index": 71,
+   "jp": "荘司",
+   "colour": "白",
+   "reset": true,
+   "en": "Shoji",
+   "src": "saturn"
+  },
+  {
+   "index": 72,
+   "jp": "中村",
+   "colour": "白",
+   "reset": true,
+   "en": "Nakamura",
+   "src": "saturn"
+  },
+  {
+   "index": 73,
+   "jp": "オウム",
+   "colour": "白",
+   "reset": false,
+   "en": "Parrot",
+   "src": "ps1",
+   "note": "JP オウム = parrot; the PS1's dialogue calls it Parrot (ISZ_B1B0) while its speaker table still reads the old decode slip Oume"
+  },
+  {
+   "index": 74,
+   "jp": "客",
+   "colour": "白",
+   "reset": false,
+   "en": "Customer",
+   "src": "ps1"
+  },
+  {
+   "index": 75,
+   "jp": "ペトロビッチ",
+   "colour": "青",
+   "reset": true,
+   "en": "Petrovich",
+   "src": "ps1"
+  },
+  {
+   "index": 76,
+   "jp": "ランダム",
+   "colour": "紫",
+   "reset": true,
+   "en": "Randam",
+   "src": "ps1"
+  },
+  {
+   "index": 77,
+   "jp": "ドライバー",
+   "colour": "赤",
+   "reset": true,
+   "en": "Driver",
+   "src": "ps1"
+  }
+ ]
+}

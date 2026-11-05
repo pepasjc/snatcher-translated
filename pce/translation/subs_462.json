@@ -1,0 +1,418 @@
+{
+ "86": {
+  "speaker": "Metal Gear",
+  "en": "Promise you'll come back.",
+  "ps1": [
+   "B250_c10f52"
+  ],
+  "cards": [
+   "Promise you'll come|back."
+  ],
+  "layout": "plain"
+ },
+ "d0": {
+  "speaker": "Lisa",
+  "en": "JUNKER? All right. I'll open the door.",
+  "ps1": [
+   "B120_f21_0"
+  ],
+  "cards": [
+   "JUNKER? All right. I'll|open the door."
+  ],
+  "layout": "plain"
+ },
+ "d1": {
+  "speaker": "Metal Gear",
+  "en": "Be careful, Gillian.",
+  "ps1": [
+   "B120_f22_0"
+  ],
+  "cards": [
+   "Be careful, Gillian."
+  ]
+ },
+ "d2": {
+  "speaker": "Gillian",
+  "en": "Oh, it's a woman.",
+  "ps1": [
+   "B120_f23_0"
+  ],
+  "cards": [
+   "Oh, it's a woman."
+  ]
+ },
+ "d3": {
+  "speaker": "Gillian",
+  "en": "Hmm. This alone does not prove that Freddy Nielsen is a Snatcher.",
+  "ps1": [
+   "B120_f24_0",
+   "B120_f24_0b"
+  ],
+  "cards": [
+   "Hmm. This alone|does not prove that|Freddy Nielsen is a|Snatcher."
+  ]
+ },
+ "d4": {
+  "speaker": "Metal Gear",
+  "en": "Right. We need evidence to get a scanning warrant.",
+  "ps1": [
+   "B120_f25_0"
+  ],
+  "cards": [
+   "Right. We need|evidence to get a|scanning warrant."
+  ]
+ },
+ "d5": {
+  "speaker": "Gillian",
+  "en": "I'd like to see the bathroom.",
+  "ps1": [
+   "B120_f26_0"
+  ],
+  "cards": [
+   "I'd like to see the|bathroom."
+  ]
+ },
+ "d6": {
+  "speaker": "Lisa",
+  "en": "Oh, need the toilet?",
+  "ps1": [
+   "B120_f27_0"
+  ],
+  "cards": [
+   "Oh, need the toilet?"
+  ],
+  "layout": "plain"
+ },
+ "d7": {
+  "speaker": "Metal Gear",
+  "en": "No, no. We'd like to inspect your bathroom.",
+  "ps1": [
+   "B120_f28_0"
+  ],
+  "cards": [
+   "No, no. We'd like|to inspect your|bathroom."
+  ]
+ },
+ "d8": {
+  "speaker": "Lisa",
+  "en": "Go ahead.",
+  "ps1": [
+   "B120_f29_0"
+  ],
+  "cards": [
+   "Go ahead."
+  ],
+  "layout": "plain"
+ },
+ "d9": {
+  "speaker": "Metal Gear",
+  "en": "There's no doubt. Freddy Nielsen is a Snatcher. With this much circumstantial evidence, we can get a warrant to scan Freddy, Gillian.",
+  "ps1": [
+   "B120_f30_0",
+   "B120_f30_0b",
+   "B120_f30_0c"
+  ],
+  "cards": [
+   "There's no doubt.|Freddy Nielsen is a|Snatcher.",
+   "With this much|circumstantial|evidence,",
+   "we can get a|warrant to scan|Freddy, Gillian."
+  ],
+  "turns": [
+   5.18,
+   9.26
+  ]
+ },
+ "da": {
+  "speaker": "Gillian",
+  "en": "I've finally found you, Snatcher!",
+  "ps1": [
+   "B120_f31_0"
+  ],
+  "cards": [
+   "I've finally found|you, Snatcher!"
+  ]
+ },
+ "db": {
+  "speaker": "Lisa",
+  "en": "You saw it.",
+  "ps1": [
+   "B120_f32_0"
+  ],
+  "cards": [
+   "You saw it."
+  ],
+  "layout": "plain"
+ },
+ "dc": {
+  "speaker": "Gillian",
+  "en": "Who's there?!",
+  "ps1": [
+   "B120_f33_0"
+  ],
+  "cards": [
+   "Who's there?!"
+  ]
+ },
+ "dd": {
+  "speaker": "Lisa",
+  "en": "You saw it, JUNKER!",
+  "ps1": [
+   "B120_f34_0"
+  ],
+  "cards": [
+   "You saw it, JUNKER!"
+  ],
+  "layout": "plain"
+ },
+ "de": {
+  "speaker": "Gillian",
+  "en": "Those scratches!",
+  "ps1": [
+   "B120_f35_0"
+  ],
+  "cards": [
+   "Those scratches!"
+  ]
+ },
+ "df": {
+  "speaker": "Metal Gear",
+  "en": "Jean made those!",
+  "ps1": [
+   "B120_f36_0"
+  ],
+  "cards": [
+   "Jean made those!"
+  ]
+ },
+ "e0": {
+  "speaker": "Lisa",
+  "en": "You're going to die, JUNKER!",
+  "ps1": [
+   "B120_f37_0"
+  ],
+  "cards": [
+   "You're going to die,|JUNKER!"
+  ],
+  "layout": "plain"
+ },
+ "e1": {
+  "speaker": "Gillian",
+  "en": "Tough bastard. So this is a Snatcher.",
+  "ps1": [
+   "B120_f38_0"
+  ],
+  "cards": [
+   "Tough bastard. So|this is a Snatcher."
+  ]
+ },
+ "e2": {
+  "speaker": "Metal Gear",
+  "en": "Is it really dead?",
+  "ps1": [
+   "B120_f39_0"
+  ],
+  "cards": [
+   "Is it really dead?"
+  ]
+ },
+ "e3": {
+  "speaker": "Metal Gear",
+  "en": "Did Lisa and Freddy kill Jean?",
+  "ps1": [
+   "B120_f40_0"
+  ],
+  "cards": [
+   "Did Lisa and Freddy|kill Jean?"
+  ]
+ },
+ "e4": {
+  "speaker": "Gillian",
+  "en": "Freddy? Where is he?",
+  "ps1": [
+   "B120_f41_0"
+  ],
+  "cards": [
+   "Freddy? Where is he?"
+  ]
+ },
+ "e5": {
+  "speaker": "Metal Gear",
+  "en": "We'll call the junk disposal team later. Let's go outside for now.",
+  "ps1": [
+   "B120_f42_0",
+   "B120_f42_0b"
+  ],
+  "cards": [
+   "We'll call the junk|disposal team|later. Let's go|outside for now."
+  ]
+ },
+ "e6": {
+  "speaker": "Gillian",
+  "en": "We're outside.",
+  "ps1": [
+   "B120_f43_0"
+  ],
+  "cards": [
+   "We're outside."
+  ],
+  "layout": "plain"
+ },
+ "e7": {
+  "speaker": "Gillian",
+  "en": "The lights came on! No one's supposed to be inside.",
+  "ps1": [
+   "B120_f44_0"
+  ],
+  "cards": [
+   "The lights came on!|No one's supposed|to be inside."
+  ]
+ },
+ "e8": {
+  "speaker": "Metal Gear",
+  "en": "Could Freddy have come home?",
+  "ps1": [
+   "B120_f45_0"
+  ],
+  "cards": [
+   "Could Freddy have|come home?"
+  ]
+ },
+ "e9": {
+  "speaker": "Gillian",
+  "en": "This should be the only way in or out. How did he get inside?",
+  "ps1": [
+   "B120_f46_0",
+   "B120_f46_0b"
+  ],
+  "cards": [
+   "This should be the|only way in or out.|How did he get|inside?"
+  ]
+ },
+ "ea": {
+  "speaker": "Gillian",
+  "en": "Let's check it out!",
+  "ps1": [
+   "B120_f47_0"
+  ],
+  "cards": [
+   "Let's check it out!"
+  ]
+ },
+ "eb": {
+  "speaker": "Gillian",
+  "en": "Metal, force the lock!",
+  "ps1": [
+   "B120_f12_0"
+  ],
+  "cards": [
+   "Metal, force the|lock!"
+  ]
+ },
+ "ec": {
+  "speaker": "Metal Gear",
+  "en": "Understood. I will search Alphaville for apartment 202's electronic lock code.",
+  "ps1": [
+   "B120_f13_0",
+   "B120_f13_0b"
+  ],
+  "cards": [
+   "Understood.",
+   "I will search|Alphaville",
+   "for apartment 202's|electronic lock|code."
+  ],
+  "turns": [
+   1.58,
+   3.0
+  ]
+ },
+ "ed": {
+  "speaker": "Gillian",
+  "en": "Hurry, Metal!",
+  "ps1": [
+   "B120_f14_0"
+  ],
+  "cards": [
+   "Hurry, Metal!"
+  ]
+ },
+ "ee": {
+  "speaker": "Metal Gear",
+  "en": "Almost there. Entering Alphaville's MR district management area.",
+  "ps1": [
+   "B120_f15_0",
+   "B120_f15_0b"
+  ],
+  "cards": [
+   "Almost there.",
+   "Entering|Alphaville's MR|district management|area."
+  ],
+  "turns": [
+   2.66
+  ]
+ },
+ "ef": {
+  "speaker": "Metal Gear",
+  "en": "Code found. Opening the door.",
+  "ps1": [
+   "B120_f16_0"
+  ],
+  "cards": [
+   "Code found. Opening|the door."
+  ]
+ },
+ "f0": {
+  "speaker": "Gillian",
+  "en": "Good!",
+  "ps1": [
+   "B120_f17_0"
+  ],
+  "cards": [
+   "Good!"
+  ]
+ },
+ "f1": {
+  "speaker": "Gillian",
+  "en": "The tub's empty! It was full of water a moment ago.",
+  "ps1": [
+   "B120_f18_0"
+  ],
+  "cards": [
+   "The tub's empty! It|was full of water a|moment ago."
+  ]
+ },
+ "f2": {
+  "speaker": "Metal Gear",
+  "en": "Movement detected! It's in this room.",
+  "ps1": [
+   "B120_f19_0"
+  ],
+  "cards": [
+   "Movement detected!|It's in this room."
+  ]
+ },
+ "f3": {
+  "speaker": "Gillian",
+  "en": "Where is it? Where is that thing?",
+  "ps1": [
+   "B120_f20_0"
+  ],
+  "cards": [
+   "Where is it? Where|is that thing?"
+  ]
+ },
+ "f4": {
+  "speaker": "Metal Gear",
+  "en": "Gillian, look out!",
+  "ps1": [
+   "B120_f21_0b"
+  ],
+  "cards": [
+   "Gillian, look out!"
+  ]
+ },
+ "_unmatched": {
+  "fa": "0.00 XAS_S000.XA[9]",
+  "19": "0.12 XAS_S000.XA[77]",
+  "fc": "0.00 XAS_S000.XA[9]"
+ }
+}

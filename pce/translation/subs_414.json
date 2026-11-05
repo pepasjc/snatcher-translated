@@ -1,0 +1,480 @@
+{
+ "7c": {
+  "speaker": "Gillian",
+  "en": "All right, let's try some. For research.",
+  "ps1": [
+   "B0E0_104"
+  ],
+  "cards": [
+   "All right, let's|try some. For|research."
+  ]
+ },
+ "7d": {
+  "speaker": "Metal Gear",
+  "en": "Let's!",
+  "ps1": [
+   "B0E0_105"
+  ],
+  "cards": [
+   "Let's!"
+  ]
+ },
+ "7e": {
+  "speaker": "Gillian",
+  "en": "Two Neo Kobe-yaki, please.",
+  "ps1": [
+   "B0E0_106"
+  ],
+  "cards": [
+   "Two Neo Kobe-yaki,|please."
+  ]
+ },
+ "7f": {
+  "speaker": "Cook",
+  "en": "Here are the ingredients. Make it yourself.",
+  "ps1": [
+   "B0E0_107"
+  ],
+  "cards": [
+   "Here are the|ingredients. Make|it yourself."
+  ]
+ },
+ "80": {
+  "speaker": "Gillian",
+  "en": "Here, Metal. This one's yours.",
+  "ps1": [
+   "B0E0_108"
+  ],
+  "cards": [
+   "Here, Metal. This|one's yours."
+  ]
+ },
+ "81": {
+  "speaker": "Metal Gear",
+  "en": "We'll drop them in the broth together. Do it right or they won't set.",
+  "ps1": [
+   "B0E0_109"
+  ],
+  "cards": [
+   "We'll drop them in|the broth together.|Do it right or they|won't set."
+  ]
+ },
+ "82": {
+  "speaker": "Gillian",
+  "en": "Got it. Ready, go!",
+  "ps1": [
+   "B0E0_110"
+  ],
+  "cards": [
+   "Got it. Ready, go!"
+  ]
+ },
+ "83": {
+  "speaker": "Metal Gear",
+  "en": "They're in. They'll float up soon. When they do, scoop them onto a plate. Be careful.",
+  "ps1": [
+   "B0E0_111",
+   "B0E0_111b"
+  ],
+  "cards": [
+   "They're in. They'll|float up soon. When|they do, scoop them|onto a plate.",
+   "Be careful."
+  ],
+  "turns": [
+   6.16
+  ]
+ },
+ "84": {
+  "speaker": "Gillian",
+  "en": "All right, I'm ready!",
+  "ps1": [
+   "B0E0_112"
+  ],
+  "cards": [
+   "All right, I'm|ready!"
+  ]
+ },
+ "85": {
+  "speaker": "Metal Gear",
+  "en": "Ah, it's floated up. That's mine.",
+  "ps1": [],
+  "cards": [
+   "Ah, it's floated|up. That's mine."
+  ]
+ },
+ "86": {
+  "speaker": "Gillian",
+  "en": "Nice catch! Where's mine?",
+  "ps1": [
+   "B0E0_113"
+  ],
+  "cards": [
+   "Nice catch! Where's|mine?"
+  ]
+ },
+ "88": {
+  "speaker": "Metal Gear",
+  "en": "What's happened to it?",
+  "ps1": [
+   "B0E0_114"
+  ],
+  "cards": [
+   "What's happened to|it?"
+  ]
+ },
+ "89": {
+  "speaker": "Gillian",
+  "en": "Huh? Where's mine?",
+  "ps1": [
+   "B0E0_115",
+   "B0E0_115b"
+  ],
+  "cards": [
+   "Huh? Where's mine?"
+  ]
+ },
+ "8a": {
+  "speaker": "Cook",
+  "en": "Oh, yours isn't floating up?",
+  "ps1": [
+   "B0E0_116"
+  ],
+  "cards": [
+   "Oh, yours isn't|floating up?"
+  ]
+ },
+ "8c": {
+  "speaker": "Cook",
+  "en": "Sorry about that. It happens sometimes. Hope you don't mind, pal.",
+  "ps1": [
+   "B0E0_117",
+   "B0E0_117b"
+  ],
+  "cards": [
+   "Sorry about that.|It happens|sometimes. Hope you|don't mind, pal."
+  ]
+ },
+ "8d": {
+  "speaker": "Gillian",
+  "en": "What?",
+  "ps1": [
+   "B0E0_118"
+  ],
+  "cards": [
+   "What?"
+  ]
+ },
+ "8e": {
+  "speaker": "Metal Gear",
+  "en": "Let's go, Gillian!",
+  "ps1": [
+   "B0E0_119"
+  ],
+  "cards": [
+   "Let's go, Gillian!"
+  ]
+ },
+ "8f": {
+  "speaker": "Gillian",
+  "en": "But my Kobe-yaki! Neo Kobe is sinking!",
+  "ps1": [
+   "B0E0_120"
+  ],
+  "cards": [
+   "But my Kobe-yaki!|Neo Kobe is sinking!"
+  ]
+ },
+ "90": {
+  "speaker": "Metal Gear",
+  "en": "Come on, let's go!",
+  "ps1": [
+   "B0E0_121"
+  ],
+  "cards": [
+   "Come on, let's go!"
+  ]
+ },
+ "91": {
+  "speaker": "Gillian",
+  "en": "Ugh, I'm never eating there again. What a letdown.",
+  "ps1": [
+   "B0E0_122"
+  ],
+  "cards": [
+   "Ugh, I'm never|eating there again.|What a letdown."
+  ]
+ },
+ "92": {
+  "speaker": "Gillian",
+  "en": "Don't send this record to HQ, Metal.",
+  "ps1": [
+   "B0E0_123"
+  ],
+  "cards": [
+   "Don't send this|record to HQ, Metal."
+  ]
+ },
+ "93": {
+  "speaker": "Metal Gear",
+  "en": "I know. We're in this together.",
+  "ps1": [
+   "B0E0_124"
+  ],
+  "cards": [
+   "I know. We're in|this together."
+  ]
+ },
+ "94": {
+  "speaker": "Gillian",
+  "en": "All right, I'll take this video.",
+  "ps1": [
+   "B0E0_001"
+  ],
+  "cards": [
+   "All right, I'll|take this video."
+  ]
+ },
+ "95": {
+  "speaker": "Clerk",
+  "en": "You certainly like your entertainment, sir. Thank you!",
+  "ps1": [
+   "B0E0_002",
+   "B0E0_002b"
+  ],
+  "cards": [
+   "You certainly like|your entertainment,|sir. Thank you!"
+  ]
+ },
+ "96": {
+  "speaker": "Gillian",
+  "en": "I bought it, Metal! Now what? Is there a machine that can play this tape?",
+  "ps1": [
+   "B0E0_003",
+   "B0E0_003b"
+  ],
+  "cards": [
+   "I bought it, Metal!|Now what? Is there|a machine that can|play this tape?"
+  ]
+ },
+ "97": {
+  "speaker": "Metal Gear",
+  "en": "That could be difficult. There may be none left.",
+  "ps1": [
+   "B0E0_004"
+  ],
+  "cards": [
+   "That could be|difficult. There|may be none left."
+  ]
+ },
+ "98": {
+  "speaker": "Gillian",
+  "en": "Wh-what? Then it's useless!",
+  "ps1": [
+   "B0E0_005"
+  ],
+  "cards": [
+   "Wh-what? Then it's|useless!"
+  ]
+ },
+ "99": {
+  "speaker": "Metal Gear",
+  "en": "Wait, there's a way. I'll play it myself.",
+  "ps1": [
+   "B0E0_006"
+  ],
+  "cards": [
+   "Wait, there's a|way. I'll play it|myself."
+  ]
+ },
+ "9a": {
+  "speaker": "Gillian",
+  "en": "Can you do that?",
+  "ps1": [
+   "B0E0_007"
+  ],
+  "cards": [
+   "Can you do that?"
+  ]
+ },
+ "9b": {
+  "speaker": "Metal Gear",
+  "en": "I'll try to make it work.",
+  "ps1": [
+   "B0E0_008"
+  ],
+  "cards": [
+   "I'll try to make it|work."
+  ]
+ },
+ "9c": {
+  "speaker": "Gillian",
+  "en": "I'm counting on you. You know what to do. Here.",
+  "ps1": [
+   "B0E0_009"
+  ],
+  "cards": [
+   "I'm counting on|you. You know what|to do. Here."
+  ]
+ },
+ "9d": {
+  "speaker": "Metal Gear",
+  "en": "I'll play it internally first. Then I'll store the images in my memory.",
+  "ps1": [
+   "B0E0_010",
+   "B0E0_010b"
+  ],
+  "cards": [
+   "I'll play it|internally first.|Then I'll store the|images in my memory."
+  ]
+ },
+ "9e": {
+  "speaker": "Metal Gear",
+  "en": "Oh! Ah... ah... ah... ahh... Incredible!",
+  "cards": [
+   "Oh! Ah... ah...|ah... ahh...|Incredible!"
+  ]
+ },
+ "9f": {
+  "speaker": "Gillian",
+  "en": "What's wrong, Metal?",
+  "ps1": [
+   "B0E0_011"
+  ],
+  "cards": [
+   "What's wrong, Metal?"
+  ]
+ },
+ "a1": {
+  "speaker": "Gillian",
+  "en": "Metal!",
+  "ps1": [
+   "B0E0_012"
+  ],
+  "cards": [
+   "Metal!"
+  ]
+ },
+ "a3": {
+  "speaker": "Gillian",
+  "en": "Hey, Metal! What's wrong?",
+  "ps1": [
+   "B0E0_013"
+  ],
+  "cards": [
+   "Hey, Metal! What's|wrong?"
+  ]
+ },
+ "a4": {
+  "speaker": "Metal Gear",
+  "en": "Whoa... that was incredible...",
+  "ps1": [],
+  "cards": [
+   "Whoa... that was|incredible..."
+  ]
+ },
+ "a5": {
+  "speaker": "Gillian",
+  "en": "Let me see too, Metal!",
+  "ps1": [
+   "B0E0_014"
+  ],
+  "cards": [
+   "Let me see too,|Metal!"
+  ]
+ },
+ "a6": {
+  "speaker": "Metal Gear",
+  "en": "Well, it was so intense that it wiped out the data.",
+  "ps1": [
+   "B0E0_015"
+  ],
+  "cards": [
+   "Well, it was so|intense that it|wiped out the data."
+  ]
+ },
+ "a7": {
+  "speaker": "Gillian",
+  "en": "Wiped it out?",
+  "ps1": [
+   "B0E0_016"
+  ],
+  "cards": [
+   "Wiped it out?"
+  ]
+ },
+ "a8": {
+  "speaker": "Metal Gear",
+  "en": "Yes. The images are gone.",
+  "ps1": [
+   "B0E0_017"
+  ],
+  "cards": [
+   "Yes. The images are|gone."
+  ]
+ },
+ "a9": {
+  "speaker": "Gillian",
+  "en": "Gone? Just my luck.",
+  "ps1": [
+   "B0E0_018"
+  ],
+  "cards": [
+   "Gone? Just my luck."
+  ]
+ },
+ "aa": {
+  "speaker": "Metal Gear",
+  "en": "Would you like me to describe it?",
+  "ps1": [
+   "B0E0_019"
+  ],
+  "cards": [
+   "Would you like me|to describe it?"
+  ]
+ },
+ "ab": {
+  "speaker": "Gillian",
+  "en": "Forget it. No dirty stories from you.",
+  "ps1": [
+   "B0E0_020",
+   "B0E0_020b"
+  ],
+  "cards": [
+   "Forget it. No dirty|stories from you."
+  ]
+ },
+ "ac": {
+  "speaker": "Waiter",
+  "en": "Welcome. A table for one?",
+  "ps1": [
+   "B0F0_000"
+  ],
+  "cards": [
+   "Welcome. A table for|one?"
+  ],
+  "layout": "plain"
+ },
+ "ad": {
+  "speaker": "Barker",
+  "en": "Ah, hey, now! Excuse me! Heh heh heh...",
+  "cards": [
+   "Ah, hey, now! Excuse|me! Heh heh heh..."
+  ],
+  "layout": "plain"
+ },
+ "ae": {
+  "speaker": "Barker",
+  "en": "Heh heh heh heh heh!",
+  "cards": [
+   "Heh heh heh heh heh!"
+  ],
+  "layout": "plain"
+ },
+ "_unmatched": {
+  "87": "0.10 XAS_M000.XA[53]",
+  "8b": "0.06 XAS_M000.XA[277]",
+  "fd": "0.05 XAS_S000.XA[40]",
+  "a0": "0.29 XAS_M000.XA[453]",
+  "a2": "0.05 XAS_S000.XA[40]"
+ }
+}

@@ -1,0 +1,10 @@
+{"scene":"B100","note":"B100 census from Luiz's card (Act 1 inside Outer Heaven with the master): sweep every verb twice, then call Isabella, ask about Gibson, show the photo, then the ID (thrown out).",
+ "actions":[
+  {"sweep":["Look","Investigate","Ask","Talk","Call","Listen"],"rounds":2,"avoid":["Go out"]},
+  {"path":["Call","Dancer|Isabella"],"optional":true},
+  {"path":["Ask","About Gibson"],"optional":true},
+  {"path":["Item","Show","Photo","Gibson's photo"],"optional":true,"reps":2},
+  {"sweep":["Ask","Talk","Look","Investigate"],"rounds":2,"avoid":["Go out"]},
+  {"path":["Item","Show","JUNKER ID"],"optional":true,"patience":3000},
+  {"idle":2000}
+ ]}

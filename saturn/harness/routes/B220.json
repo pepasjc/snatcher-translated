@@ -1,0 +1,300 @@
+{
+ "scene": "B220",
+ "note": "The air duct after the reconstruction (guides/ps1.txt AIR DUCT; found step by step with savestates 2026-09-17, work/saturn/auto/maze*.py): Metal's light, the wall/roof/floor/scratches/sand/pollen; Forward -> the fork maze ('Which way now?'): Turn right, Turn left -> the insector guard -> the button room; Investigate everything there until 'Press button' appears; press it ONCE (the button toggles; a second press closes the path again); Move > Turn right reaches 'the first fork' as a crossroad ('So it was the exit switch') and Go straight is the new path -> the security wall shuts (the trap): Investigate the walls, Ram wall > Fire Blaster, Go straight/Turn right -> the insector swarm, Look Forward/Behind, Listen, Talk -> Freddy's apartment (the living room, the map), the street, Take a taxi, Give destination x3 -> Chin Shu Ho: one shot to the face (cell 5, middle right) -> JUNKER HQ sealed (B230). Fights: body, except the driver.",
+ "actions": [
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "fight": "body"
+  },
+  {
+   "sweep": [
+    "Use Metal Gear"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Save"
+   ]
+  },
+  {
+   "idle": 600
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Listen"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Forward",
+    "Advance",
+    "Go on",
+    "Proceed"
+   ]
+  },
+  {
+   "save": "B220_swept"
+  },
+  {
+   "path": [
+    "Forward|Advance|Go on|Proceed"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "idle": 3000
+  },
+  {
+   "save": "B220_fork"
+  },
+  {
+   "path": [
+    "Turn right"
+   ],
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Turn left"
+   ],
+   "patience": 3000
+  },
+  {
+   "idle": 2000
+  },
+  {
+   "wait_menu": true,
+   "patience": 20000
+  },
+  {
+   "save": "B220_after_fight"
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look",
+    "Listen",
+    "Talk",
+    "Use Metal Gear"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Forward",
+    "Press",
+    "Push",
+    "Press button",
+    "Save",
+    "Turn on light"
+   ]
+  },
+  {
+   "save": "B220_button"
+  },
+  {
+   "path": [
+    "Press button"
+   ],
+   "patience": 1800,
+   "strict": true
+  },
+  {
+   "path": [
+    "Move",
+    "Turn right"
+   ],
+   "patience": 3000,
+   "strict": true
+  },
+  {
+   "path": [
+    "Go straight"
+   ],
+   "patience": 6000,
+   "strict": true
+  },
+  {
+   "save": "B220_trap"
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look",
+    "Talk",
+    "Listen",
+    "Use Metal Gear",
+    "Fire Blaster",
+    "Hit wall",
+    "Ram wall"
+   ],
+   "rounds": 4,
+   "avoid": [
+    "Save",
+    "Go straight",
+    "Turn right",
+    "Turn left",
+    "Back"
+   ],
+   "depth_limit": 2
+  },
+  {
+   "path": [
+    "Go straight"
+   ],
+   "strict": true,
+   "patience": 6000
+  },
+  {
+   "wait_menu": true,
+   "patience": 20000
+  },
+  {
+   "save": "B220_freddy"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Listen"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Go out",
+    "Exit",
+    "Go underground"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Living room|Go to living room"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out",
+    "Exit",
+    "Go underground"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Go out|Exit"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "path": [
+    "Go out|Exit"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "save": "B220_street"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Take a taxi",
+    "Ride in taxi",
+    "Taxi",
+    "Board",
+    "Go back inside"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Take a taxi|Ride in taxi|Taxi|Board Tricycle"
+   ],
+   "optional": false,
+   "patience": 1800,
+   "strict": true
+  },
+  {
+   "save": "B220_taxi"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Give destination",
+    "Go back inside",
+    "Save"
+   ]
+  },
+  {
+   "fight": "cell5"
+  },
+  {
+   "path": [
+    "Give destination"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "path": [
+    "Give destination"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "path": [
+    "Give destination"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "path": [
+    "Give destination"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "path": [
+    "Give destination"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "wait_menu": true,
+   "patience": 40000
+  },
+  {
+   "save": "B230_arrive"
+  },
+  {
+   "idle": 300
+  }
+ ]
+}

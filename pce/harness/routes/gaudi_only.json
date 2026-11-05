@@ -1,0 +1,6 @@
+[
+ {"choose": "Use Gaudi"},
+ {"wait": 600},
+ {"read": 2000},
+ {"items": true}
+]

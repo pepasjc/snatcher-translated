@@ -1,0 +1,336 @@
+{
+ "file": "DATA.BIN[26]",
+ "entry": 26,
+ "text_base": 2804,
+ "twins": [
+  "B050"
+ ],
+ "strings": [
+  {
+   "off": 2804,
+   "budget": 5,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 2809,
+   "budget": 75,
+   "en": "There is not enough free space in￥the backup RAM to save data.",
+   "carry": "new"
+  },
+  {
+   "off": 2884,
+   "budget": 57,
+   "en": "Saving new data needs 64 blocks￥of free space.",
+   "carry": "new"
+  },
+  {
+   "off": 2941,
+   "budget": 121,
+   "en": "In the Saturn's Memory Manager￥screen, erase other data or copy￥it to the cartridge RAM and then￥restart the game.",
+   "carry": "new"
+  },
+  {
+   "off": 3062,
+   "budget": 35,
+   "en": "The new data will not be saved.",
+   "src": "B050:1096",
+   "carry": "candidate_edit",
+   "en_candidate": "The new data will not be saved.",
+   "sim": 0.56,
+   "note": "re-adapted 2026-09-30: new PS1 wording"
+  },
+  {
+   "off": 3097,
+   "budget": 77,
+   "en": "You can save to the internal RAM￥or the cartridge RAM.￥Which will it be?",
+   "carry": "new"
+  },
+  {
+   "off": 3174,
+   "budget": 11,
+   "en": "Internal",
+   "carry": "new",
+   "long": "Internal RAM",
+   "note": "menu item"
+  },
+  {
+   "off": 3185,
+   "budget": 27,
+   "en": "Saving to internal RAM.",
+   "carry": "new"
+  },
+  {
+   "off": 3212,
+   "budget": 19,
+   "en": "Cartridge RAM",
+   "carry": "new",
+   "note": "menu item"
+  },
+  {
+   "off": 3231,
+   "budget": 35,
+   "en": "Saving to the cartridge RAM now.",
+   "carry": "new"
+  },
+  {
+   "off": 3266,
+   "budget": 45,
+   "en": "＠赤No backup RAM is connected.",
+   "carry": "new"
+  },
+  {
+   "off": 3311,
+   "budget": 19,
+   "en": "1 NO DATA",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3330,
+   "budget": 53,
+   "en": "Create a new save with this data?",
+   "carry": "new"
+  },
+  {
+   "off": 3383,
+   "budget": 11,
+   "en": "Save",
+   "src": "B050:2167",
+   "carry": "exact"
+  },
+  {
+   "off": 3394,
+   "budget": 13,
+   "en": "Don't save",
+   "src": "B050:1083",
+   "carry": "exact"
+  },
+  {
+   "off": 3407,
+   "budget": 47,
+   "en": "Then the new data￥will not be saved.",
+   "carry": "new"
+  },
+  {
+   "off": 3454,
+   "budget": 73,
+   "en": "There is not enough free space in￥the backup RAM to save new data.",
+   "carry": "new"
+  },
+  {
+   "off": 3527,
+   "budget": 13,
+   "en": "1 ACT 1",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3540,
+   "budget": 67,
+   "en": "Erase the old data and save the￥new data in its place?",
+   "carry": "new"
+  },
+  {
+   "off": 3607,
+   "budget": 13,
+   "en": "1 ACT 2",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3620,
+   "budget": 13,
+   "en": "1 ACT 3",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3633,
+   "budget": 19,
+   "en": "1 ACT 1 END",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3652,
+   "budget": 19,
+   "en": "1 ACT 2 END",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3671,
+   "budget": 19,
+   "en": "2 NO DATA",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3690,
+   "budget": 13,
+   "en": "2 ACT 1",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3703,
+   "budget": 13,
+   "en": "2 ACT 2",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3716,
+   "budget": 13,
+   "en": "2 ACT 3",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3729,
+   "budget": 19,
+   "en": "2 ACT 1 END",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3748,
+   "budget": 19,
+   "en": "2 ACT 2 END",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3767,
+   "budget": 19,
+   "en": "3 NO DATA",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3786,
+   "budget": 13,
+   "en": "3 ACT 1",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3799,
+   "budget": 13,
+   "en": "3 ACT 2",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3812,
+   "budget": 13,
+   "en": "3 ACT 3",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3825,
+   "budget": 19,
+   "en": "3 ACT 1 END",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3844,
+   "budget": 19,
+   "en": "3 ACT 2 END",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3863,
+   "budget": 19,
+   "en": "4 NO DATA",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3882,
+   "budget": 13,
+   "en": "4 ACT 1",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3895,
+   "budget": 13,
+   "en": "4 ACT 2",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3908,
+   "budget": 13,
+   "en": "4 ACT 3",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3921,
+   "budget": 19,
+   "en": "4 ACT 1 END",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3940,
+   "budget": 19,
+   "en": "4 ACT 2 END",
+   "carry": "new",
+   "note": "save slot label"
+  },
+  {
+   "off": 3959,
+   "budget": 39,
+   "en": "＠赤It is write-protected.",
+   "carry": "new"
+  },
+  {
+   "off": 3998,
+   "budget": 71,
+   "en": "＠赤Save failed.＠白 Try saving again?",
+   "src": "B050:2205",
+   "carry": "candidate_ok",
+   "en_candidate": "＠赤Save failed.＠白 Try saving again?",
+   "sim": 0.97
+  },
+  {
+   "off": 4069,
+   "budget": 41,
+   "en": "Save complete.￥Resuming the case.",
+   "src": "B050:2270",
+   "carry": "exact",
+   "long": "Save complete. Continuing the￥investigation."
+  },
+  {
+   "off": 4110,
+   "budget": 111,
+   "en": "＠赤An error occurred while checking the￥backup RAM. Please check your backup￥RAM.",
+   "src": "B050:2311",
+   "carry": "candidate_edit",
+   "en_candidate": "＠赤A problem occurred during the card￥check. Please check the memory card.",
+   "sim": 0.71,
+   "note": "re-adapted 2026-09-30: Saturn backup RAM; new PS1 wording"
+  },
+  {
+   "off": 4221,
+   "budget": 9,
+   "en": "Checked",
+   "src": "B050:2404",
+   "carry": "exact",
+   "long": "Confirmed"
+  },
+  {
+   "off": 4232,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

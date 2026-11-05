@@ -1,0 +1,1693 @@
+{
+ "file": "ISZ_B0B0.BIN",
+ "text_base": 4590,
+ "strings": [
+  {
+   "off": 4591,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 4595,
+   "budget": 37,
+   "en": "Gillian, your apartment block.",
+   "long": "We're outside your apartment￥building, Gillian."
+  },
+  {
+   "off": 4632,
+   "budget": 35,
+   "en": "...Outside Gillian's apartment.",
+   "long": "We're outside Gillian's apartment￥building."
+  },
+  {
+   "off": 4667,
+   "budget": 33,
+   "en": "Catherine will have gone home.",
+   "long": "Catherine must have gone home by￥now."
+  },
+  {
+   "off": 4700,
+   "budget": 13,
+   "en": "I expect so."
+  },
+  {
+   "off": 4713,
+   "budget": 19,
+   "en": "Is anyone home?"
+  },
+  {
+   "off": 4732,
+   "budget": 13,
+   "en": "Naturally.",
+   "long": "Of course not."
+  },
+  {
+   "off": 4745,
+   "budget": 21,
+   "en": "You're cold."
+  },
+  {
+   "off": 4766,
+   "budget": 31,
+   "en": "You hate being alone, Gillian.",
+   "long": "You get lonely easily, don't you,￥Gillian?"
+  },
+  {
+   "off": 4797,
+   "budget": 27,
+   "en": "If only Jamie were here."
+  },
+  {
+   "off": 4824,
+   "budget": 27,
+   "en": "I had a home once too.",
+   "long": "I suppose I do have a home to come￥back to."
+  },
+  {
+   "off": 4851,
+   "budget": 57,
+   "en": "A week since you moved in.￥Settled in yet?",
+   "long": "It's been a week since you moved in.￥Are you settling in?"
+  },
+  {
+   "off": 4908,
+   "budget": 51,
+   "en": "It's the same anywhere. I'm still￥living alone."
+  },
+  {
+   "off": 4959,
+   "budget": 5,
+   "en": "Move"
+  },
+  {
+   "off": 4964,
+   "budget": 9,
+   "en": "Get in",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 4973,
+   "budget": 9,
+   "en": "Go in",
+   "long": "Go inside"
+  },
+  {
+   "off": 4982,
+   "budget": 49,
+   "en": "Enough resting.￥Back to the case, quickly.",
+   "long": "Enough breaks. We need to get back￥to the investigation."
+  },
+  {
+   "off": 5031,
+   "budget": 53,
+   "en": "You just had a break. Let's get back￥to work."
+  },
+  {
+   "off": 5084,
+   "budget": 53,
+   "en": "Let's not take as many breaks as￥last time."
+  },
+  {
+   "off": 5137,
+   "budget": 17,
+   "en": "...Yeah, yeah.",
+   "long": "All right, all right."
+  },
+  {
+   "off": 5154,
+   "budget": 35,
+   "en": "...The Chief will scold me again.",
+   "long": "Or the Chief will tell me off again."
+  },
+  {
+   "off": 5189,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 5194,
+   "budget": 11,
+   "en": "Apartments"
+  },
+  {
+   "off": 5205,
+   "budget": 49,
+   "en": "The apartment the state￥arranged for Gillian.",
+   "long": "The government arranged this￥apartment for you, Gillian."
+  },
+  {
+   "off": 5254,
+   "budget": 45,
+   "en": "A poor area, but the block￥is grand, no?",
+   "long": "The neighborhood isn't great, but￥the building's luxurious."
+  },
+  {
+   "off": 5299,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 5306,
+   "budget": 69,
+   "en": "The line between South and￥North. Not a nice area,￥put kindly.",
+   "long": "It's on the border between the￥southern and northern districts. ＠＠I￥can't call it a good neighborhood."
+  },
+  {
+   "off": 5375,
+   "budget": 43,
+   "en": "I can't complain.￥Land is dear here.",
+   "long": "I can't complain. Even here, land is￥expensive."
+  },
+  {
+   "off": 5418,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 5425,
+   "budget": 41,
+   "en": "A 20th-century relic,￥but reinforced.",
+   "long": "It dates from the twentieth century,￥but it's been reinforced."
+  },
+  {
+   "off": 5466,
+   "budget": 45,
+   "en": "I can still hear the neighbors,￥though."
+  },
+  {
+   "off": 5511,
+   "budget": 67,
+   "en": "Right on the line between￥South and North, few￥live here.",
+   "long": "Few people seem to live here, right￥on the edge of the northern and￥southern residential areas."
+  },
+  {
+   "off": 5578,
+   "budget": 63,
+   "en": "Shops shut early, it's that unsafe.￥So inconvenient...",
+   "long": "Crime makes the shops close early.￥＠＠It's terribly inconvenient."
+  },
+  {
+   "off": 5641,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 5646,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 5661,
+   "budget": 13,
+   "en": "Videophone"
+  },
+  {
+   "off": 5674,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 5685,
+   "budget": 37,
+   "en": "I'll save your progress now."
+  },
+  {
+   "off": 5722,
+   "budget": 21,
+   "en": "Gillian's living rm.",
+   "long": "Your living room, Gillian."
+  },
+  {
+   "off": 5743,
+   "budget": 17,
+   "en": "The living room."
+  },
+  {
+   "off": 5760,
+   "budget": 27,
+   "en": "Nobody here, as expected."
+  },
+  {
+   "off": 5787,
+   "budget": 29,
+   "en": "Don't be disappointed."
+  },
+  {
+   "off": 5816,
+   "budget": 69,
+   "en": "Very tidy for a bachelor. I'm￥impressed."
+  },
+  {
+   "off": 5885,
+   "budget": 61,
+   "en": "You're a fussy robot...￥No friends, have you?",
+   "long": "You always have a comment, don't￥you? I bet you don't have any￥friends."
+  },
+  {
+   "off": 5946,
+   "budget": 91,
+   "en": "My job is to support you and watch￥over your work as a JUNKER."
+  },
+  {
+   "off": 6037,
+   "budget": 29,
+   "en": "See to it? You mean spy.",
+   "long": "Watch over me? You mean keep tabs on￥me."
+  },
+  {
+   "off": 6066,
+   "budget": 21,
+   "en": "Something like that."
+  },
+  {
+   "off": 6087,
+   "budget": 11,
+   "en": "Enter bath"
+  },
+  {
+   "off": 6098,
+   "budget": 9,
+   "en": "Go out"
+  },
+  {
+   "off": 6107,
+   "budget": 59,
+   "en": "Please call your wife sometime,￥Gillian."
+  },
+  {
+   "off": 6166,
+   "budget": 57,
+   "en": "You're the type who falls apart when￥he lives alone.",
+   "long": "You're the kind of person who falls￥apart living alone."
+  },
+  {
+   "off": 6223,
+   "budget": 17,
+   "en": "Jamie, eh..."
+  },
+  {
+   "off": 6240,
+   "budget": 37,
+   "en": "The Chief told you the same thing."
+  },
+  {
+   "off": 6277,
+   "budget": 21,
+   "en": "That's right."
+  },
+  {
+   "off": 6298,
+   "budget": 5,
+   "en": "Room",
+   "long": "Inside"
+  },
+  {
+   "off": 6303,
+   "budget": 45,
+   "en": "Nothing unusual. All clear."
+  },
+  {
+   "off": 6348,
+   "budget": 27,
+   "en": "How can you tell?"
+  },
+  {
+   "off": 6375,
+   "budget": 49,
+   "en": "I have a complete record of your￥apartment."
+  },
+  {
+   "off": 6424,
+   "budget": 37,
+   "en": "(So nothing odd can stay here...)",
+   "long": "(I'd better not leave anything￥embarrassing around.)"
+  },
+  {
+   "off": 6461,
+   "budget": 29,
+   "en": "Nothing of note to be seen.",
+   "long": "I don't see anything of interest."
+  },
+  {
+   "off": 6490,
+   "budget": 31,
+   "en": "Sorry there's nothing of note!",
+   "long": "Sorry I don't own anything￥interesting!"
+  },
+  {
+   "off": 6521,
+   "budget": 55,
+   "en": "Don't be angry. That's not what I￥meant."
+  },
+  {
+   "off": 6576,
+   "budget": 3,
+   "en": "Sh",
+   "long": "Shelf"
+  },
+  {
+   "off": 6579,
+   "budget": 35,
+   "en": "Gillian, a photo on the shelf.",
+   "long": "There's a photo on the shelf,￥Gillian."
+  },
+  {
+   "off": 6614,
+   "budget": 31,
+   "en": "Yes. It means a lot to me."
+  },
+  {
+   "off": 6645,
+   "budget": 31,
+   "en": "Nothing else on the shelf.",
+   "long": "There's nothing else on the shelf."
+  },
+  {
+   "off": 6676,
+   "budget": 63,
+   "en": "One sofa bed. Such a bare, lonely￥room."
+  },
+  {
+   "off": 6739,
+   "budget": 37,
+   "en": "I'm going to buy more furniture."
+  },
+  {
+   "off": 6776,
+   "budget": 45,
+   "en": "Just enough room for someone living￥alone."
+  },
+  {
+   "off": 6821,
+   "budget": 29,
+   "en": "Stop stressing 'one person'.",
+   "long": "Stop emphasizing the \"alone\" part."
+  },
+  {
+   "off": 6850,
+   "budget": 5,
+   "en": "Pic",
+   "long": "Photo"
+  },
+  {
+   "off": 6855,
+   "budget": 31,
+   "en": "A photo of ＠赤Jamie＠白."
+  },
+  {
+   "off": 6886,
+   "budget": 45,
+   "en": "Your estranged wife. She's￥beautiful."
+  },
+  {
+   "off": 6931,
+   "budget": 83,
+   "en": "It looks like Jamie young,￥but where was it taken?￥I have no memory of it...",
+   "long": "It looks like Jamie when she was￥young. Where was this taken? I can't￥remember at all."
+  },
+  {
+   "off": 7014,
+   "budget": 41,
+   "en": "Very young. Early teens, perhaps?",
+   "long": "She's very young. In her early￥teens, perhaps?"
+  },
+  {
+   "off": 7055,
+   "budget": 29,
+   "en": "...A girl's face still.",
+   "long": "She still has a child's face."
+  },
+  {
+   "off": 7084,
+   "budget": 23,
+   "en": "A photo of Jamie..."
+  },
+  {
+   "off": 7107,
+   "budget": 35,
+   "en": "Beautiful, every time...",
+   "long": "She's beautiful every time I see￥her."
+  },
+  {
+   "off": 7142,
+   "budget": 43,
+   "en": "Do you want the photo?"
+  },
+  {
+   "off": 7185,
+   "budget": 73,
+   "en": "No, thank you. I have recordings of￥your videophone calls with her."
+  },
+  {
+   "off": 7258,
+   "budget": 29,
+   "en": "You wretch. That's my wife!",
+   "long": "You little thief! She's my wife!"
+  },
+  {
+   "off": 7287,
+   "budget": 33,
+   "en": "Recording the case is my work.",
+   "long": "Recording the investigation is my￥job."
+  },
+  {
+   "off": 7320,
+   "budget": 23,
+   "en": "A shameless lecher.",
+   "long": "You dirty-minded robot."
+  },
+  {
+   "off": 7343,
+   "budget": 81,
+   "en": "(I wrote her videophone number on￥the back of the photo.)"
+  },
+  {
+   "off": 7424,
+   "budget": 53,
+   "en": "No sign of a woman anywhere. How￥lonely."
+  },
+  {
+   "off": 7477,
+   "budget": 75,
+   "en": "Shut up. It really stings coming￥from a robot."
+  },
+  {
+   "off": 7552,
+   "budget": 89,
+   "en": "The sadness of a lonely man. Life￥alone must be dull for a man over￥thirty."
+  },
+  {
+   "off": 7641,
+   "budget": 49,
+   "en": "Good, so from now on you'll clean￥the place?",
+   "long": "Good. You'll do the cleaning from￥now on, then?"
+  },
+  {
+   "off": 7690,
+   "budget": 63,
+   "en": "My work is information support.￥I have no cleaning function.",
+   "long": "I provide information support. I￥don't have a cleaning function."
+  },
+  {
+   "off": 7753,
+   "budget": 55,
+   "en": "I can tell you where the￥cheapest vacuums are.",
+   "long": "But I can tell you which appliance￥stores sell cheap vacuum cleaners."
+  },
+  {
+   "off": 7808,
+   "budget": 21,
+   "en": "I don't need that!",
+   "long": "I don't need that information!"
+  },
+  {
+   "off": 7829,
+   "budget": 55,
+   "en": "No movement detected. We seem to be￥alone."
+  },
+  {
+   "off": 7884,
+   "budget": 53,
+   "en": "Nothing unusual. It's just bare."
+  },
+  {
+   "off": 7937,
+   "budget": 51,
+   "en": "Of course.￥It's my home... nobody should be here.",
+   "long": "Of course. It's my home. Nobody else￥should be here."
+  },
+  {
+   "off": 7988,
+   "budget": 21,
+   "en": "That's lonely too."
+  },
+  {
+   "off": 8009,
+   "budget": 81,
+   "en": "Jamie's videophone number is on the￥back. ＠赤39-3444＠白."
+  },
+  {
+   "off": 8090,
+   "budget": 91,
+   "en": "There are numbers on the back.￥＠赤39-3444＠白. A videophone number?"
+  },
+  {
+   "off": 8181,
+   "budget": 45,
+   "en": "That's right...￥Where Jamie is staying.",
+   "long": "Yes. It's the number where Jamie's￥living now."
+  },
+  {
+   "off": 8226,
+   "budget": 37,
+   "en": "Why don't you call her later?"
+  },
+  {
+   "off": 8263,
+   "budget": 21,
+   "en": "Mind your own..."
+  },
+  {
+   "off": 8284,
+   "budget": 37,
+   "en": "A last-century instant print.",
+   "long": "It's an instant photo from the last￥century."
+  },
+  {
+   "off": 8321,
+   "budget": 85,
+   "en": "The ink and fading suggest it's at￥least thirty years old."
+  },
+  {
+   "off": 8406,
+   "budget": 59,
+   "en": "Jamie's number is 39-3444."
+  },
+  {
+   "off": 8465,
+   "budget": 35,
+   "en": "What are you being coy about?",
+   "long": "Why are you acting so aloof,￥Gillian?"
+  },
+  {
+   "off": 8500,
+   "budget": 21,
+   "en": "You called already.",
+   "long": "You've already called her."
+  },
+  {
+   "off": 8521,
+   "budget": 57,
+   "en": "Why don't you call her at least￥once, Gillian?"
+  },
+  {
+   "off": 8578,
+   "budget": 57,
+   "en": "Is this the Moscow Olympics emblem?"
+  },
+  {
+   "off": 8635,
+   "budget": 91,
+   "en": "Wait. The Moscow Olympics? The last￥Olympics in Moscow were"
+  },
+  {
+   "off": 8726,
+   "budget": 31,
+   "en": "Before the Catastrophe!",
+   "long": "before the Catastrophe, at the end￥of the twentieth century!"
+  },
+  {
+   "off": 8757,
+   "budget": 37,
+   "en": "It looks doctored, though."
+  },
+  {
+   "off": 8794,
+   "budget": 25,
+   "en": "Doctored... on purpose?",
+   "long": "Doctored? Someone altered it?"
+  },
+  {
+   "off": 8819,
+   "budget": 15,
+   "en": "Something odd.",
+   "long": "Something's strange."
+  },
+  {
+   "off": 8834,
+   "budget": 35,
+   "en": "Over thirty years old. Doctored?"
+  },
+  {
+   "off": 8869,
+   "budget": 37,
+   "en": "And the Moscow Olympics."
+  },
+  {
+   "off": 8906,
+   "budget": 37,
+   "en": "Could it relate to her past?",
+   "long": "Could it have something to do with￥her past?"
+  },
+  {
+   "off": 8943,
+   "budget": 41,
+   "en": "If it's doctored, why...￥I don't know.",
+   "long": "If it's doctored, why? I don't￥understand."
+  },
+  {
+   "off": 8984,
+   "budget": 41,
+   "en": "Well, take good care of her photo."
+  },
+  {
+   "off": 9025,
+   "budget": 21,
+   "en": "Gillian's bathroom.",
+   "long": "Your bathroom, Gillian."
+  },
+  {
+   "off": 9046,
+   "budget": 25,
+   "en": "We're in the bathroom."
+  },
+  {
+   "off": 9071,
+   "budget": 45,
+   "en": "So this is where Catherine's￥underwear lay.",
+   "long": "This is where Catherine's underwear￥was lying."
+  },
+  {
+   "off": 9116,
+   "budget": 45,
+   "en": "We've already returned it to￥Catherine."
+  },
+  {
+   "off": 9161,
+   "budget": 27,
+   "en": "(What a shame.)"
+  },
+  {
+   "off": 9188,
+   "budget": 77,
+   "en": "An ordinary bathroom.￥A standard low-cost energy-saving￥unit bath.",
+   "long": "An ordinary bathroom. The standard￥model in a budget, energy-saving￥prefab range."
+  },
+  {
+   "off": 9265,
+   "budget": 43,
+   "en": "Sorry my bathroom's so cheap."
+  },
+  {
+   "off": 9308,
+   "budget": 45,
+   "en": "Not after Freddy's￥splendid bathroom...",
+   "long": "After seeing Freddy's luxurious￥bathroom, this is a letdown."
+  },
+  {
+   "off": 9353,
+   "budget": 37,
+   "en": "It's better than Ivan's, isn't it?"
+  },
+  {
+   "off": 9390,
+   "budget": 31,
+   "en": "That's one way to look at it."
+  },
+  {
+   "off": 9421,
+   "budget": 7,
+   "en": "Basin"
+  },
+  {
+   "off": 9428,
+   "budget": 29,
+   "en": "A perfume bottle and razor.",
+   "long": "There's a perfume bottle and a￥razor."
+  },
+  {
+   "off": 9457,
+   "budget": 49,
+   "en": "There's a hand dryer with a small￥sterilizer."
+  },
+  {
+   "off": 9506,
+   "budget": 61,
+   "en": "Now you know why I couldn't lend￥Catherine a handkerchief."
+  },
+  {
+   "off": 9567,
+   "budget": 37,
+   "en": "...An excuse made up￥just now?",
+   "long": "You just made that excuse up, didn't￥you?"
+  },
+  {
+   "off": 9604,
+   "budget": 7,
+   "en": "Toilet"
+  },
+  {
+   "off": 9611,
+   "budget": 55,
+   "en": "Your toilet has a health monitoring￥system."
+  },
+  {
+   "off": 9666,
+   "budget": 69,
+   "en": "Really? I had no idea. I haven't￥spent much time here."
+  },
+  {
+   "off": 9735,
+   "budget": 5,
+   "en": "Musk",
+   "long": "Perfume"
+  },
+  {
+   "off": 9740,
+   "budget": 35,
+   "en": "That's the perfume Jamie used."
+  },
+  {
+   "off": 9775,
+   "budget": 41,
+   "en": "Her scent really does linger here."
+  },
+  {
+   "off": 9816,
+   "budget": 41,
+   "en": "She'll come back. I'm sure of it."
+  },
+  {
+   "off": 9857,
+   "budget": 85,
+   "en": "If Jamie moves in, I could bear￥being your Navigator a little￥longer."
+  },
+  {
+   "off": 9942,
+   "budget": 47,
+   "en": "You've got good taste in women,￥Metal."
+  },
+  {
+   "off": 9989,
+   "budget": 31,
+   "en": "Yes, we agree for once.",
+   "long": "Yes. We finally agree on something."
+  },
+  {
+   "off": 10020,
+   "budget": 13,
+   "en": "So it seems."
+  },
+  {
+   "off": 10033,
+   "budget": 61,
+   "en": "My taste in women was programmed￥from your data too."
+  },
+  {
+   "off": 10094,
+   "budget": 45,
+   "en": "Then you understand how much this￥hurts?"
+  },
+  {
+   "off": 10139,
+   "budget": 7,
+   "en": "..."
+  },
+  {
+   "off": 10146,
+   "budget": 11,
+   "en": "What's up?",
+   "long": "What's wrong?"
+  },
+  {
+   "off": 10157,
+   "budget": 41,
+   "en": "I can only think of you as pitiful.",
+   "long": "I can only conclude that you're￥pathetic."
+  },
+  {
+   "off": 10198,
+   "budget": 33,
+   "en": "...You and I don't get on.",
+   "long": "We really don't get along after all."
+  },
+  {
+   "off": 10231,
+   "budget": 7,
+   "en": "Razor"
+  },
+  {
+   "off": 10238,
+   "budget": 37,
+   "en": "It's a micro-laser feather razor."
+  },
+  {
+   "off": 10275,
+   "budget": 41,
+   "en": "The walls and floor are tiled."
+  },
+  {
+   "off": 10316,
+   "budget": 37,
+   "en": "A shower booth beside the tub.",
+   "long": "There's a shower stall beside the￥tub."
+  },
+  {
+   "off": 10353,
+   "budget": 55,
+   "en": "Nothing unusual. The drain is clear￥too."
+  },
+  {
+   "off": 10408,
+   "budget": 45,
+   "en": "The sink is fine. It's safe to use."
+  },
+  {
+   "off": 10453,
+   "budget": 41,
+   "en": "Stop checking everything, Metal."
+  },
+  {
+   "off": 10494,
+   "budget": 45,
+   "en": "I can't help it. I'm an analysis￥robot."
+  },
+  {
+   "off": 10539,
+   "budget": 33,
+   "en": "A toilet check-up system...",
+   "long": "The toilet's health monitoring￥system"
+  },
+  {
+   "off": 10572,
+   "budget": 95,
+   "en": "During use it reads warmth,￥blood pressure, pulse, urine and￥stool to judge condition.",
+   "long": "checks your temperature, blood￥pressure, and pulse, and analyzes￥urine and stool to assess your￥health."
+  },
+  {
+   "off": 10667,
+   "budget": 53,
+   "en": "Why not try it, Gillian?"
+  },
+  {
+   "off": 10720,
+   "budget": 37,
+   "en": "It's an expensive women's perfume."
+  },
+  {
+   "off": 10757,
+   "budget": 43,
+   "en": "Yes. Jamie always uses it."
+  },
+  {
+   "off": 10800,
+   "budget": 35,
+   "en": "It leaves hardly any stubble."
+  },
+  {
+   "off": 10835,
+   "budget": 9,
+   "en": "Do",
+   "long": "Do something"
+  },
+  {
+   "off": 10844,
+   "budget": 11,
+   "en": "Use toilet"
+  },
+  {
+   "off": 10855,
+   "budget": 43,
+   "en": "No use straining now...￥nothing left...",
+   "long": "No matter how hard I try, there's￥nothing left."
+  },
+  {
+   "off": 10898,
+   "budget": 61,
+   "en": "Right! I've been holding it in.￥Excuse me, Metal."
+  },
+  {
+   "off": 10959,
+   "budget": 27,
+   "en": "Excuse me, Metal."
+  },
+  {
+   "off": 10986,
+   "budget": 35,
+   "en": "I think I ate too much udon."
+  },
+  {
+   "off": 11021,
+   "budget": 49,
+   "en": "I ate too much. I was stuffed."
+  },
+  {
+   "off": 11070,
+   "budget": 27,
+   "en": "Ah, that's a relief."
+  },
+  {
+   "off": 11097,
+   "budget": 69,
+   "en": "The toilet's monitor says you're￥perfectly healthy, Gillian."
+  },
+  {
+   "off": 11166,
+   "budget": 25,
+   "en": "Plenty of life in me...",
+   "long": "Plenty of life in me yet."
+  },
+  {
+   "off": 11191,
+   "budget": 59,
+   "en": "Gillian! Trouble!￥By the toilet check-up system...",
+   "long": "Gillian! This is serious! According￥to the toilet's monitor,"
+  },
+  {
+   "off": 11250,
+   "budget": 13,
+   "en": "What is it!!",
+   "long": "What's wrong?!"
+  },
+  {
+   "off": 11263,
+   "budget": 25,
+   "en": "...Healthy as a horse.",
+   "long": "You're so healthy it could kill you."
+  },
+  {
+   "off": 11288,
+   "budget": 23,
+   "en": "...Perfectly healthy.",
+   "long": "You're perfectly healthy."
+  },
+  {
+   "off": 11311,
+   "budget": 55,
+   "en": "All that food at Outer Heaven is￥coming out now."
+  },
+  {
+   "off": 11366,
+   "budget": 23,
+   "en": "...A happy man.",
+   "long": "Simple pleasures, I suppose."
+  },
+  {
+   "off": 11389,
+   "budget": 41,
+   "en": "Udon digests well.￥Plenty coming out.",
+   "long": "Udon really is easy to digest. It￥comes right out."
+  },
+  {
+   "off": 11430,
+   "budget": 33,
+   "en": "...You ate two portions.",
+   "long": "That's because you ate two servings."
+  },
+  {
+   "off": 11463,
+   "budget": 21,
+   "en": "Aah!"
+  },
+  {
+   "off": 11484,
+   "budget": 13,
+   "en": "What is it!?",
+   "long": "What's wrong?!"
+  },
+  {
+   "off": 11497,
+   "budget": 37,
+   "en": "The nanomachines inside you...",
+   "long": "The nanomachines I injected into￥you!"
+  },
+  {
+   "off": 11534,
+   "budget": 25,
+   "en": "Oh, they're flushed?",
+   "long": "Oh. Did I flush them away?"
+  },
+  {
+   "off": 11559,
+   "budget": 45,
+   "en": "This is bad. They're extremely￥expensive."
+  },
+  {
+   "off": 11604,
+   "budget": 43,
+   "en": "What could I do?￥What comes out, comes.",
+   "long": "I can't help it. When you've got to￥go, you've got to go."
+  },
+  {
+   "off": 11647,
+   "budget": 23,
+   "en": "Harry will be angry."
+  },
+  {
+   "off": 11670,
+   "budget": 57,
+   "en": "...I'll inject more in secret.￥Hold out your arm.",
+   "long": "I'll give you another dose and keep￥it quiet. Hold out your arm."
+  },
+  {
+   "off": 11727,
+   "budget": 19,
+   "en": "What! Another jab?",
+   "long": "What? Another injection?"
+  },
+  {
+   "off": 11746,
+   "budget": 31,
+   "en": "It's for your sake, Gillian.",
+   "long": "It's for your own good, Gillian."
+  },
+  {
+   "off": 11777,
+   "budget": 17,
+   "en": "Oww!"
+  },
+  {
+   "off": 11794,
+   "budget": 35,
+   "en": "That hurts like hell."
+  },
+  {
+   "off": 11829,
+   "budget": 47,
+   "en": "I'd rather take an Insector's needle￥gun."
+  },
+  {
+   "off": 11876,
+   "budget": 9,
+   "en": "Smell"
+  },
+  {
+   "off": 11885,
+   "budget": 37,
+   "en": "Sniff, sniff. Mmm, Jamie!"
+  },
+  {
+   "off": 11922,
+   "budget": 27,
+   "en": "...Did you remember?",
+   "long": "Did you remember something?"
+  },
+  {
+   "off": 11949,
+   "budget": 65,
+   "en": "N-no, nothing. (He caught me at a￥bad moment.)"
+  },
+  {
+   "off": 12014,
+   "budget": 31,
+   "en": "Sniff, sniff. Smells nice."
+  },
+  {
+   "off": 12045,
+   "budget": 7,
+   "en": "Shave"
+  },
+  {
+   "off": 12052,
+   "budget": 47,
+   "en": "Ow! I shaved too much and cut￥myself."
+  },
+  {
+   "off": 12099,
+   "budget": 53,
+   "en": "More of this and my face is all￥cuts. Best stop...",
+   "long": "Any more and I'll cut my face to￥pieces. Better stop."
+  },
+  {
+   "off": 12152,
+   "budget": 25,
+   "en": "I know. I'll shave."
+  },
+  {
+   "off": 12177,
+   "budget": 29,
+   "en": "Maybe I'll shave again."
+  },
+  {
+   "off": 12206,
+   "budget": 49,
+   "en": "Look how much stubble is left."
+  },
+  {
+   "off": 12255,
+   "budget": 45,
+   "en": "That's odd. I shaved this morning."
+  },
+  {
+   "off": 12300,
+   "budget": 31,
+   "en": "It's night now, Gillian."
+  },
+  {
+   "off": 12331,
+   "budget": 27,
+   "en": "Whew. Much better."
+  },
+  {
+   "off": 12358,
+   "budget": 27,
+   "en": "You look fresh now."
+  },
+  {
+   "off": 12385,
+   "budget": 31,
+   "en": "Looking handsome."
+  },
+  {
+   "off": 12416,
+   "budget": 41,
+   "en": "Jamie won't be able to resist me￥now."
+  },
+  {
+   "off": 12457,
+   "budget": 35,
+   "en": "You'll only get turned down again."
+  },
+  {
+   "off": 12492,
+   "budget": 93,
+   "en": "No, wait...￥What if I skip shaving, look worn￥out, and stir Jamie's maternal￥instinct?",
+   "long": "Wait. What if I stop shaving and￥look miserable? That might bring out￥Jamie's motherly instincts."
+  },
+  {
+   "off": 12585,
+   "budget": 27,
+   "en": "It'll only put her off."
+  },
+  {
+   "off": 12612,
+   "budget": 41,
+   "en": "Why don't you shave, Gillian?"
+  },
+  {
+   "off": 12653,
+   "budget": 37,
+   "en": "We've spent quite a while relaxing."
+  },
+  {
+   "off": 12690,
+   "budget": 49,
+   "en": "...This late already?￥Let's resume the case.",
+   "long": "Is it that late already? Let's get￥back to the investigation."
+  },
+  {
+   "off": 12739,
+   "budget": 19,
+   "en": "A long rest, that.",
+   "long": "That was a long break."
+  },
+  {
+   "off": 12758,
+   "budget": 43,
+   "en": "Damn. I got too comfortable."
+  },
+  {
+   "off": 12801,
+   "budget": 29,
+   "en": "Let's hurry back to work.",
+   "long": "Let's hurry back to the￥investigation."
+  },
+  {
+   "off": 12830,
+   "budget": 53,
+   "en": "That little rest should have￥refreshed you."
+  },
+  {
+   "off": 12883,
+   "budget": 37,
+   "en": "Yes. Let's get back to work."
+  },
+  {
+   "off": 12920,
+   "budget": 45,
+   "en": "Enough of a break.￥Back to the case.",
+   "long": "That's enough rest. Let's get back￥to the investigation."
+  },
+  {
+   "off": 12965,
+   "budget": 21,
+   "en": "Right, to work.",
+   "long": "All right. Let's do this."
+  },
+  {
+   "off": 12986,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 13001,
+   "budget": 69,
+   "en": "The ID card proving all JUNKER￥authority. Keep it safe.",
+   "long": "This ID card certifies all your￥authority as a JUNKER. Keep it safe."
+  },
+  {
+   "off": 13070,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 13077,
+   "budget": 35,
+   "en": "The money JUNKER issued you."
+  },
+  {
+   "off": 13112,
+   "budget": 5,
+   "en": "Drop",
+   "long": "Candy"
+  },
+  {
+   "off": 13117,
+   "budget": 35,
+   "en": "Candy found in Jean's pocket."
+  },
+  {
+   "off": 13152,
+   "budget": 7,
+   "en": "Proof",
+   "long": "Evidence"
+  },
+  {
+   "off": 13159,
+   "budget": 7,
+   "en": "Paper",
+   "long": "Scrap of paper"
+  },
+  {
+   "off": 13166,
+   "budget": 79,
+   "en": "Gibson's memo on where the￥computer data on the Snatcher￥weakness is kept.",
+   "long": "Gibson's note tells us where he￥stored the computer data on the￥Snatchers' weakness."
+  },
+  {
+   "off": 13245,
+   "budget": 47,
+   "en": "What does \"Search the house!\" mean?"
+  },
+  {
+   "off": 13292,
+   "budget": 5,
+   "en": "Key"
+  },
+  {
+   "off": 13297,
+   "budget": 33,
+   "en": "The key to Gibson's desk drawer."
+  },
+  {
+   "off": 13330,
+   "budget": 33,
+   "en": "Quite an antique."
+  },
+  {
+   "off": 13363,
+   "budget": 3,
+   "en": "Pc",
+   "long": "Chess piece"
+  },
+  {
+   "off": 13366,
+   "budget": 37,
+   "en": "The chess piece Gibson carried."
+  },
+  {
+   "off": 13403,
+   "budget": 45,
+   "en": "The chess piece found in Gibson's￥coat."
+  },
+  {
+   "off": 13448,
+   "budget": 9,
+   "en": "Disk"
+  },
+  {
+   "off": 13457,
+   "budget": 45,
+   "en": "The disk with the Snatchers'￥weakness.",
+   "long": "The disk with the Snatchers'￥weakness recorded on it."
+  },
+  {
+   "off": 13502,
+   "budget": 37,
+   "en": "It's a computer floppy disk."
+  },
+  {
+   "off": 13539,
+   "budget": 11,
+   "en": "Sunblock"
+  },
+  {
+   "off": 13550,
+   "budget": 81,
+   "en": "Sunscreen used by the Snatchers, if￥Gibson was right."
+  },
+  {
+   "off": 13631,
+   "budget": 41,
+   "en": "And we confirmed it at Joy Division."
+  },
+  {
+   "off": 13672,
+   "budget": 71,
+   "en": "Plain sunblock.￥The seal carries the logo of the￥shop it came from.",
+   "long": "Ordinary sunscreen. The label has￥the logo of the store that sold it."
+  },
+  {
+   "off": 13743,
+   "budget": 7,
+   "en": "Mask"
+  },
+  {
+   "off": 13750,
+   "budget": 47,
+   "en": "The costume mask we bought at Joy￥Division."
+  },
+  {
+   "off": 13797,
+   "budget": 21,
+   "en": "A Moai mask."
+  },
+  {
+   "off": 13818,
+   "budget": 25,
+   "en": "A Koitsu mask."
+  },
+  {
+   "off": 13843,
+   "budget": 15,
+   "en": "Gibson's photo"
+  },
+  {
+   "off": 13858,
+   "budget": 41,
+   "en": "A photograph of Jean Jack Gibson."
+  },
+  {
+   "off": 13899,
+   "budget": 17,
+   "en": "Montage photo"
+  },
+  {
+   "off": 13916,
+   "budget": 47,
+   "en": "A composite based on a witness's￥description."
+  },
+  {
+   "off": 13963,
+   "budget": 67,
+   "en": "Its embedded chip holds all your￥data, Gillian."
+  },
+  {
+   "off": 14030,
+   "budget": 49,
+   "en": "Case expenses are covered￥as work requires.",
+   "long": "In principle, there's no limit on￥legitimate investigation expenses."
+  },
+  {
+   "off": 14079,
+   "budget": 45,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "long": "The candy Jean gave to children at￥the orphanage."
+  },
+  {
+   "off": 14124,
+   "budget": 25,
+   "en": "A note Jean left behind."
+  },
+  {
+   "off": 14149,
+   "budget": 55,
+   "en": "Plain paper. It's certainly￥Jean's handwriting.",
+   "long": "It's ordinary paper, and definitely￥Jean's handwriting."
+  },
+  {
+   "off": 14204,
+   "budget": 35,
+   "en": "Key to Gibson's squad desk.",
+   "long": "The key to Gibson's desk in the￥Squad room."
+  },
+  {
+   "off": 14239,
+   "budget": 83,
+   "en": "What does it open? Does anywhere￥still use a key like this?"
+  },
+  {
+   "off": 14322,
+   "budget": 57,
+   "en": "A wooden chess piece. The queen."
+  },
+  {
+   "off": 14379,
+   "budget": 37,
+   "en": "A carved wooden chess piece."
+  },
+  {
+   "off": 14416,
+   "budget": 45,
+   "en": "The disk holding Gibson's￥case data.",
+   "long": "The disk containing Gibson's￥investigation records."
+  },
+  {
+   "off": 14461,
+   "budget": 37,
+   "en": "It's a five-inch floppy disk."
+  },
+  {
+   "off": 14498,
+   "budget": 67,
+   "en": "The bottle says, \"JOY DIVISION. The￥store that has everything.\""
+  },
+  {
+   "off": 14565,
+   "budget": 49,
+   "en": "It was definitely sold at Joy￥Division."
+  },
+  {
+   "off": 14614,
+   "budget": 53,
+   "en": "Tracing where it was bought￥may give us a lead.",
+   "long": "We might find a lead by checking the￥store that sold it."
+  },
+  {
+   "off": 14667,
+   "budget": 63,
+   "en": "A fine special-effects mask by￥Rick Bakery, all the rage now.",
+   "long": "It's an intricate special-effects￥mask by the popular Rick Bakery."
+  },
+  {
+   "off": 14730,
+   "budget": 41,
+   "en": "A 2D composite photo by Gaudi.",
+   "long": "A computer-generated 2D composite￥made by Gaudi."
+  },
+  {
+   "off": 14771,
+   "budget": 73,
+   "en": "Gibson took it from his chessboard￥at home. What could it mean?"
+  },
+  {
+   "off": 14844,
+   "budget": 37,
+   "en": "Jean liked riddles."
+  },
+  {
+   "off": 14881,
+   "budget": 31,
+   "en": "Is it hinting at something?",
+   "long": "Could it be a clue to something?"
+  },
+  {
+   "off": 14912,
+   "budget": 35,
+   "en": "It really does look like Ivan."
+  },
+  {
+   "off": 14947,
+   "budget": 53,
+   "en": "We can't blame Alphaville for￥matching him."
+  },
+  {
+   "off": 15000,
+   "budget": 47,
+   "en": "House? Come to think...￥I've no home either.",
+   "long": "Home? Come to think of it, I don't￥have a home to go back to."
+  },
+  {
+   "off": 15047,
+   "budget": 67,
+   "en": "Cheer up. You'll live with Jamie￥again someday."
+  },
+  {
+   "off": 15114,
+   "budget": 53,
+   "en": "A family. Maybe that doesn't suit a￥JUNKER."
+  },
+  {
+   "off": 15167,
+   "budget": 21,
+   "en": "Plenty left, surely?",
+   "long": "There's still plenty left, right?"
+  },
+  {
+   "off": 15188,
+   "budget": 47,
+   "en": "It's dropped a bit, with￥your food and drink.",
+   "long": "Your eating and drinking binges have￥made quite a dent."
+  },
+  {
+   "off": 15235,
+   "budget": 45,
+   "en": "Don't make it sound bad.￥They're expenses.",
+   "long": "Don't make it sound so bad. Those￥were necessary expenses."
+  },
+  {
+   "off": 15280,
+   "budget": 79,
+   "en": "Actually, (It's cash. If I keep￥quiet, nobody knows how much I've￥spent.)"
+  },
+  {
+   "off": 15359,
+   "budget": 19,
+   "en": "Did you say that?",
+   "long": "Did you say something?"
+  },
+  {
+   "off": 15378,
+   "budget": 21,
+   "en": "No. Never mind."
+  },
+  {
+   "off": 15399,
+   "budget": 67,
+   "en": "Gibson's chess piece, a clue to￥Queen Hospital's name."
+  },
+  {
+   "off": 15466,
+   "budget": 7,
+   "en": "Chart",
+   "long": "Medical chart"
+  },
+  {
+   "off": 15473,
+   "budget": 41,
+   "en": "A chart with a Snatcher's￥name on it.",
+   "long": "The medical chart with a Snatcher's￥name on it."
+  },
+  {
+   "off": 15514,
+   "budget": 37,
+   "en": "Found on a desk at￥Queen Hospital.",
+   "long": "We found it in a desk at Queen￥Hospital."
+  },
+  {
+   "off": 15551,
+   "budget": 7,
+   "en": "Match",
+   "long": "Matches"
+  },
+  {
+   "off": 15558,
+   "budget": 43,
+   "en": "Old-fashioned matches from Queen￥Hosp.",
+   "long": "Old-fashioned matches from Queen￥Hospital."
+  },
+  {
+   "off": 15601,
+   "budget": 9,
+   "en": "Memo"
+  },
+  {
+   "off": 15610,
+   "budget": 31,
+   "en": "A memo in Harry's hand.",
+   "long": "A note apparently written by Harry."
+  },
+  {
+   "off": 15641,
+   "budget": 43,
+   "en": "The note from the Mechanic room."
+  },
+  {
+   "off": 15684,
+   "budget": 13,
+   "en": "Video memory"
+  },
+  {
+   "off": 15697,
+   "budget": 13,
+   "en": "Little John"
+  },
+  {
+   "off": 15710,
+   "budget": 47,
+   "en": "An image recovered from Little￥John's memory."
+  },
+  {
+   "off": 15757,
+   "budget": 9,
+   "en": "Red Sq.",
+   "long": "Red Square"
+  },
+  {
+   "off": 15766,
+   "budget": 41,
+   "en": "A still photo hidden in￥the Chief's rm",
+   "long": "The photograph hidden in the Chief's￥office."
+  },
+  {
+   "off": 15807,
+   "budget": 5,
+   "en": "Dome",
+   "long": "Temple"
+  },
+  {
+   "off": 15812,
+   "budget": 47,
+   "en": "Temple painting from a￥Queen Hospital room.",
+   "long": "The painting of a cathedral that￥hung in Queen Hospital."
+  },
+  {
+   "off": 15859,
+   "budget": 57,
+   "en": "The piece was a clue to Queen￥Hospital's name."
+  },
+  {
+   "off": 15916,
+   "budget": 83,
+   "en": "A code using Chinese chemical￥element names. It decodes to BENSON."
+  },
+  {
+   "off": 15999,
+   "budget": 65,
+   "en": "It seems to be part of a medical￥chart. What does it say?"
+  },
+  {
+   "off": 16064,
+   "budget": 73,
+   "en": "Matches from Outer Heaven. Probably￥a free gift for regular customers."
+  },
+  {
+   "off": 16137,
+   "budget": 63,
+   "en": "'face to face'.￥A memo telling the secret￥of the illusion.",
+   "long": "\"Face to face.\" A note revealing￥the secret of the optical illusion."
+  },
+  {
+   "off": 16200,
+   "budget": 79,
+   "en": "\"Face to face.\" It's Harry's￥handwriting, but what does it mean?"
+  },
+  {
+   "off": 16279,
+   "budget": 53,
+   "en": "An image of Queen Hospital's neon￥sign."
+  },
+  {
+   "off": 16332,
+   "budget": 67,
+   "en": "It reads \"OLEEN Hospital.\" It must￥be a hospital's neon sign."
+  },
+  {
+   "off": 16399,
+   "budget": 65,
+   "en": "A photograph of Moscow's Red Square￥before the Catastrophe."
+  },
+  {
+   "off": 16464,
+   "budget": 67,
+   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "long": "St. Basil's Cathedral, a famous￥cathedral in Moscow before the￥Catastrophe."
+  },
+  {
+   "off": 16533,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

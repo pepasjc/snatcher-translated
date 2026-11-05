@@ -1,0 +1,4361 @@
+{
+ "file": "DATA.BIN[24]",
+ "entry": 24,
+ "text_base": 4872,
+ "twins": [
+  "B030"
+ ],
+ "strings": [
+  {
+   "off": 4873,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 4877,
+   "budget": 89,
+   "en": "＠緑I am JUNKER HQ's mother￥computer, AI system ＠黄Gaudi＠緑.",
+   "src": "B030:5514",
+   "carry": "exact",
+   "long": "＠緑I am ＠黄Gaudi＠緑, the artificial￥intelligence system in￥JUNKER headquarters' central￥computer."
+  },
+  {
+   "off": 4966,
+   "budget": 39,
+   "en": "＠緑Please insert your ID card.",
+   "src": "B030:5603",
+   "carry": "exact"
+  },
+  {
+   "off": 5005,
+   "budget": 31,
+   "en": "Huh?ω It has a personality?",
+   "src": "B030:5642",
+   "carry": "candidate_edit",
+   "en_candidate": "Huh. It has a personality?",
+   "sim": 0.97,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the question mark as in the jp; re-adapted 2026-09-30: new PS1 wording, ω kept after ?"
+  },
+  {
+   "off": 5036,
+   "budget": 57,
+   "en": "...Asks every single time.￥An inflexible machine.",
+   "src": "B030:5671",
+   "carry": "exact",
+   "long": "You ask every time? You're not a￥very flexible computer."
+  },
+  {
+   "off": 5093,
+   "budget": 11,
+   "en": "Use card",
+   "src": "B030:5728",
+   "carry": "exact"
+  },
+  {
+   "off": 5104,
+   "budget": 41,
+   "en": "All right. I'll insert my JUNKER￥card.",
+   "src": "B030:5739",
+   "carry": "exact"
+  },
+  {
+   "off": 5145,
+   "budget": 29,
+   "en": "I'm putting the card in.",
+   "src": "B030:5780",
+   "carry": "exact"
+  },
+  {
+   "off": 5174,
+   "budget": 17,
+   "en": "Don't use Gaudi",
+   "src": "B030:5809",
+   "carry": "exact"
+  },
+  {
+   "off": 5191,
+   "budget": 29,
+   "en": "...Better leave it for now.",
+   "src": "B030:5826",
+   "carry": "exact",
+   "long": "On second thought, I'll do it￥another time."
+  },
+  {
+   "off": 5220,
+   "budget": 27,
+   "en": "Actually, forget it.",
+   "src": "B030:5855",
+   "carry": "exact"
+  },
+  {
+   "off": 5247,
+   "budget": 57,
+   "en": "＠緑Gillian Seed. User ID￥confirmed.",
+   "src": "B030:5882",
+   "carry": "exact"
+  },
+  {
+   "off": 5304,
+   "budget": 31,
+   "en": "＠緑 What do you need?",
+   "src": "B030:5939",
+   "carry": "exact",
+   "long": "＠緑What information do you￥need?"
+  },
+  {
+   "off": 5335,
+   "budget": 41,
+   "en": "Good. It recognized me.",
+   "src": "B030:5970",
+   "carry": "exact"
+  },
+  {
+   "off": 5376,
+   "budget": 17,
+   "en": "Load person file",
+   "src": "B030:6011",
+   "carry": "exact"
+  },
+  {
+   "off": 5393,
+   "budget": 69,
+   "en": "   ＠緑Person file.￥Enter the name with the￥cursor.",
+   "src": "B030:6028",
+   "carry": "exact",
+   "long": "＠緑Personnel files. Use the￥cursor to enter the name of￥the person you want to find."
+  },
+  {
+   "off": 5462,
+   "budget": 39,
+   "en": "＠緑Enter the name with no￥space.",
+   "src": "B030:6097",
+   "carry": "exact",
+   "long": "＠緑Enter the name without a￥space between the first and￥last names."
+  },
+  {
+   "off": 5501,
+   "budget": 79,
+   "en": "＠緑For example, enter Suzuki￥Konami as ＠黄\"SUZUKIKONAMI\"＠緑.",
+   "src": "B030:6136",
+   "carry": "exact"
+  },
+  {
+   "off": 5580,
+   "budget": 71,
+   "en": "＠緑You can also search by￥entering just ＠黄\"SUZUKI\"＠緑.",
+   "src": "B030:6215",
+   "carry": "exact"
+  },
+  {
+   "off": 5651,
+   "budget": 17,
+   "en": "Load fact file",
+   "src": "B030:6286",
+   "carry": "exact"
+  },
+  {
+   "off": 5668,
+   "budget": 63,
+   "en": "＠緑Topic file. Select the topic￥you want to search for.",
+   "src": "B030:6303",
+   "carry": "exact",
+   "long": "＠緑Subject files. Select the￥subject you want to search￥for."
+  },
+  {
+   "off": 5731,
+   "budget": 17,
+   "en": "Create montage",
+   "src": "B030:6366",
+   "carry": "exact"
+  },
+  {
+   "off": 5748,
+   "budget": 69,
+   "en": "＠緑Montage mode.￥Select each facial part to￥build a likeness.",
+   "src": "B030:6383",
+   "carry": "exact",
+   "long": "＠緑Composite portrait mode.￥Select each facial feature￥to build a face."
+  },
+  {
+   "off": 5817,
+   "budget": 13,
+   "en": "Log off",
+   "src": "B030:6452",
+   "carry": "exact"
+  },
+  {
+   "off": 5830,
+   "budget": 33,
+   "en": "＠緑Was this helpful?",
+   "src": "B030:6465",
+   "carry": "exact"
+  },
+  {
+   "off": 5863,
+   "budget": 31,
+   "en": "＠緑 Good work today...",
+   "src": "B030:6498",
+   "carry": "exact",
+   "long": "＠緑Thank you for using this￥system."
+  },
+  {
+   "off": 5894,
+   "budget": 33,
+   "en": "＠緑 ...Please come again...",
+   "src": "B030:6529",
+   "carry": "exact",
+   "long": "＠緑I look forward to your next￥visit."
+  },
+  {
+   "off": 5927,
+   "budget": 5,
+   "en": "Hist",
+   "src": "B030:6562",
+   "carry": "exact",
+   "long": "History"
+  },
+  {
+   "off": 5932,
+   "budget": 7,
+   "en": "Ruin",
+   "src": "B030:6567",
+   "carry": "exact",
+   "long": "The Catastrophe"
+  },
+  {
+   "off": 5939,
+   "budget": 23,
+   "en": "＠緑 'The Catastrophe'",
+   "src": "B030:6574",
+   "carry": "exact"
+  },
+  {
+   "off": 5962,
+   "budget": 79,
+   "en": "＠緑▽June 6, 1991: a blast of￥unknown cause at Chernoton￥Institute, Moscow.",
+   "src": "B030:6597",
+   "carry": "exact",
+   "long": "＠緑On June 6, 1991, an enormous￥explosion of unknown cause￥occurred at the Chernoton￥Research Institute in￥Moscow."
+  },
+  {
+   "off": 6041,
+   "budget": 115,
+   "en": "＠緑The Soviet bio-weapon then￥in development, Lucifer￥Alpha, leaked into the air:￥history's worst biohazard.",
+   "src": "B030:6676",
+   "carry": "exact",
+   "long": "＠緑Lucifer Alpha, a biological￥weapon under development by￥the former Soviet military,￥escaped into the atmosphere,￥causing history's worst￥biological disaster.",
+   "note": "row 3,4 re-wrapped at 14"
+  },
+  {
+   "off": 6156,
+   "budget": 73,
+   "en": "＠緑In a week it wiped out 80%￥of Eastern Europe and￥Eurasia.",
+   "src": "B030:6791",
+   "carry": "exact",
+   "long": "＠緑Within a week, it had killed￥nearly 80% of the population￥of Eastern Europe and￥Eurasia."
+  },
+  {
+   "off": 6229,
+   "budget": 81,
+   "en": "＠緑▽Six months on, nearing￥Asia, Lucifer Alpha mutated￥and became harmless.",
+   "src": "B030:6864",
+   "carry": "exact",
+   "long": "＠緑Six months later, Lucifer￥Alpha was approaching Asia￥when it mutated and became￥harmless."
+  },
+  {
+   "off": 6310,
+   "budget": 101,
+   "en": "＠緑▽The emptied northern￥Eurasian region is UN￥neutral territory still,￥closely watched.",
+   "src": "B030:6945",
+   "carry": "exact",
+   "long": "＠緑The depopulated northern￥Eurasian region has remained￥neutral territory under the￥UN ever since, drawing￥worldwide political￥attention."
+  },
+  {
+   "off": 6411,
+   "budget": 43,
+   "en": "＠緑Known since as 'the￥Catastrophe'.",
+   "src": "B030:7046",
+   "carry": "exact",
+   "long": "＠緑These events are known as￥the Catastrophe."
+  },
+  {
+   "off": 6454,
+   "budget": 79,
+   "en": "＠緑▽Vast reports were filed,￥yet the truth was never￥disclosed.",
+   "src": "B030:7089",
+   "carry": "exact",
+   "long": "＠緑An enormous number of￥reports were submitted after￥the accident, but its true￥cause remains unknown."
+  },
+  {
+   "off": 6533,
+   "budget": 15,
+   "en": "World War III",
+   "src": "B030:7168",
+   "carry": "exact"
+  },
+  {
+   "off": 6548,
+   "budget": 53,
+   "en": "＠緑World War III (2005-2006)",
+   "src": "B030:7183",
+   "carry": "exact"
+  },
+  {
+   "off": 6601,
+   "budget": 117,
+   "en": "＠緑▽Aug 24, 2005: 14 years on,￥war broke out over the UN￥neutral zone, Earth's￥greatest buffer.",
+   "src": "B030:7236",
+   "carry": "exact",
+   "long": "＠緑World War III broke out on￥August 24, 2005, over the UN￥neutral territory, the￥world's largest buffer zone￥for the fourteen years since￥the Catastrophe."
+  },
+  {
+   "off": 6718,
+   "budget": 109,
+   "en": "＠緑▽Right-wing Soviet￥remnants, backed by China,￥moved to invade the neutral￥zone.",
+   "src": "B030:7353",
+   "carry": "exact",
+   "long": "＠緑China provided military￥support to right-wing￥remnants of the former￥Soviet army who had escaped￥the Catastrophe, backing￥their invasion of the￥neutral zone."
+  },
+  {
+   "off": 6827,
+   "budget": 85,
+   "en": "＠緑▽A Western economic￥blockade forced China out at￥once, and the UN won.",
+   "src": "B030:7462",
+   "carry": "exact",
+   "long": "＠緑However, a Western economic￥blockade quickly forced￥China to withdraw, securing￥victory for UN forces."
+  },
+  {
+   "off": 6912,
+   "budget": 61,
+   "en": "＠緑Over in six months, it is￥called the Half-Year War.",
+   "src": "B030:7547",
+   "carry": "exact",
+   "long": "＠緑The conflict lasted just six￥months and became known as￥the Half-Year War."
+  },
+  {
+   "off": 6973,
+   "budget": 17,
+   "en": "Siberia",
+   "src": "B030:7608",
+   "carry": "exact",
+   "long": "Siberian Territory"
+  },
+  {
+   "off": 6990,
+   "budget": 29,
+   "en": " ＠緑'Siberian Territory'",
+   "src": "B030:7625",
+   "carry": "exact",
+   "long": "＠緑Siberian Neutral Territory"
+  },
+  {
+   "off": 7019,
+   "budget": 109,
+   "en": "＠緑▽Siberia, emptied by the￥Catastrophe, is UN-run,￥closed as a non-intervention￥zone for 50 years.",
+   "src": "B030:7654",
+   "carry": "exact",
+   "long": "＠緑The UN administers Siberia,￥depopulated by the￥Catastrophe. It has been￥left undisturbed as a￥nonintervention zone for￥fifty years.",
+   "note": "row 1 re-wrapped at 14; 5 rows (box has 4)"
+  },
+  {
+   "off": 7128,
+   "budget": 89,
+   "en": "＠緑Lucifer Alpha's aftereffects￥leave nothing growing there￥for half a century.",
+   "src": "B030:7763",
+   "carry": "exact",
+   "long": "＠緑The lingering effects of￥Lucifer Alpha will prevent￥any plants or animals from￥growing there for the next￥half century."
+  },
+  {
+   "off": 7217,
+   "budget": 103,
+   "en": "＠緑▽Fearing another war, the￥UN sends a Siberian survey￥team yearly to watch the￥zone.",
+   "src": "B030:7852",
+   "carry": "exact",
+   "long": "＠緑To prevent a resurgence of￥World War III, the UN sends￥a Siberian Expedition every￥year to monitor the neutral￥zone."
+  },
+  {
+   "off": 7320,
+   "budget": 9,
+   "en": "Nuclear",
+   "src": "B030:7955",
+   "carry": "exact",
+   "long": "Nuclear Abolition"
+  },
+  {
+   "off": 7329,
+   "budget": 27,
+   "en": "  ＠緑'Nuclear Abolition'",
+   "src": "B030:7964",
+   "carry": "exact",
+   "long": "＠緑Elimination of Nuclear￥Weapons"
+  },
+  {
+   "off": 7356,
+   "budget": 103,
+   "en": "＠緑▽Beginning with the INF￥Treaty of 1987, strategic￥nuclear arsenals were￥steadily reduced.",
+   "src": "B030:7991",
+   "carry": "exact",
+   "long": "＠緑The 1987 Intermediate-Range￥Nuclear Forces Treaty led to￥ongoing reductions in￥strategic nuclear weapons."
+  },
+  {
+   "off": 7459,
+   "budget": 107,
+   "en": "＠緑▽In 2007 the IAEA enacted￥its ban on production of￥weapons-grade fissile￥material...",
+   "src": "B030:8094",
+   "carry": "exact",
+   "long": "＠緑In 2007, the International￥Atomic Energy Agency￥implemented an agreement to￥halt production of fissile￥material for weapons."
+  },
+  {
+   "off": 7566,
+   "budget": 109,
+   "en": "＠緑and military nuclear arms￥ended in UN member states.￥Some non-members reportedly￥hold them still.",
+   "src": "B030:8201",
+   "carry": "exact",
+   "long": "＠緑This eliminated military￥nuclear weapons in UN member￥states. However, some￥nonmember states are said to￥still produce and possess￥them."
+  },
+  {
+   "off": 7675,
+   "budget": 103,
+   "en": "＠緑Today only so-called￥deterrent nuclear arms￥remain, held under UN￥control for peace.",
+   "src": "B030:8310",
+   "carry": "exact",
+   "long": "＠緑Officially, only nuclear￥weapons held under UN￥control as a deterrent to￥preserve peace remain.",
+   "note": "row 1 re-wrapped at 14; 5 rows (box has 4)"
+  },
+  {
+   "off": 7778,
+   "budget": 9,
+   "en": "Hunts",
+   "src": "B030:8413",
+   "carry": "exact",
+   "long": "Witch hunts"
+  },
+  {
+   "off": 7787,
+   "budget": 53,
+   "en": "＠緑Witch Hunts (Bioroid Hunts)",
+   "src": "B030:8422",
+   "carry": "exact"
+  },
+  {
+   "off": 7840,
+   "budget": 47,
+   "en": "＠緑▽Born of the Snatcher￥problem.",
+   "src": "B030:8475",
+   "carry": "exact",
+   "long": "＠緑A social phenomenon caused￥by the Snatcher crisis."
+  },
+  {
+   "off": 7887,
+   "budget": 113,
+   "en": "＠緑Terror of Snatcher￥infiltration drove￥hysterical mobs to denounce,￥injure and kill innocents.",
+   "src": "B030:8522",
+   "carry": "exact",
+   "long": "＠緑Fear of Snatcher￥infiltration drives mobs to￥accuse innocent people of￥being Snatchers, attacking￥and killing them.",
+   "note": "5 rows (box has 4)"
+  },
+  {
+   "off": 8000,
+   "budget": 105,
+   "en": "＠緑The victims were mainly the￥socially vulnerable.￥The name comes from the￥medieval witch hunts.",
+   "src": "B030:8635",
+   "carry": "exact",
+   "long": "＠緑The victims are mainly￥people with little social￥power. The name comes from￥the resemblance to medieval￥witch hunts."
+  },
+  {
+   "off": 8105,
+   "budget": 107,
+   "en": "＠緑▽Worst of all, tied to the￥North-South divide, northern￥citizens attacked the￥southern slums...",
+   "src": "B030:8740",
+   "carry": "exact",
+   "long": "＠緑One particularly serious￥development arose from the￥North-South divide: groups￥of northern citizens￥attacked residents of the￥southern slums."
+  },
+  {
+   "off": 8212,
+   "budget": 95,
+   "en": "＠緑fused with anti-slum￥feeling.￥Many with no Snatcher link￥lost their lives.",
+   "src": "B030:8847",
+   "carry": "exact",
+   "long": "＠緑Fueled by hostility toward￥the slums, these attacks￥killed many people with no￥connection to Snatchers."
+  },
+  {
+   "off": 8307,
+   "budget": 101,
+   "en": "＠緑▽The witch hunts subsided￥once it became clear that￥only VIPs were targeted for￥snatching...",
+   "src": "B030:8942",
+   "carry": "exact",
+   "long": "＠緑The witch hunts subsided￥once it became clear that￥Snatchers targeted only￥important people.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 8408,
+   "budget": 93,
+   "en": "＠緑but some cults keep up the￥atrocities, deepening the￥North-South rift.",
+   "src": "B030:9043",
+   "carry": "exact",
+   "long": "＠緑However, some cults continue￥these atrocities, deepening￥the conflict between North￥and South."
+  },
+  {
+   "off": 8501,
+   "budget": 15,
+   "en": "Back to menu",
+   "src": "B030:9136",
+   "carry": "exact"
+  },
+  {
+   "off": 8516,
+   "budget": 17,
+   "en": "JUNKER files",
+   "src": "B030:9151",
+   "carry": "exact"
+  },
+  {
+   "off": 8533,
+   "budget": 9,
+   "en": "Makeup",
+   "src": "B030:9168",
+   "carry": "exact",
+   "long": "Organization"
+  },
+  {
+   "off": 8542,
+   "budget": 9,
+   "en": "The name",
+   "src": "B030:9177",
+   "carry": "exact",
+   "long": "Official name"
+  },
+  {
+   "off": 8551,
+   "budget": 31,
+   "en": "＠緑JUNKER's Full Name",
+   "src": "B030:9186",
+   "carry": "exact"
+  },
+  {
+   "off": 8582,
+   "budget": 107,
+   "en": "＠緑Judgement Uninfected",
+   "src": "B030:9217",
+   "carry": "exact"
+  },
+  {
+   "off": 8689,
+   "budget": 117,
+   "en": "＠緑Naked Kind &",
+   "src": "B030:9324",
+   "carry": "exact"
+  },
+  {
+   "off": 8806,
+   "budget": 95,
+   "en": "＠緑Execute Ranger",
+   "src": "B030:9441",
+   "carry": "exact"
+  },
+  {
+   "off": 8901,
+   "budget": 93,
+   "en": "＠緑It also carries the sense of￥'JUNK (scrap) + ER (person)￥ = scrap handler'.",
+   "src": "B030:9536",
+   "carry": "exact",
+   "long": "＠緑The name also combines￥\"junk\" (scrap metal) and￥\"-er\" (a person), meaning a￥scrap disposer."
+  },
+  {
+   "off": 8994,
+   "budget": 9,
+   "en": "Founding",
+   "src": "B030:9629",
+   "carry": "exact",
+   "long": "Founding history"
+  },
+  {
+   "off": 9003,
+   "budget": 31,
+   "en": "＠緑JUNKER's History",
+   "src": "B030:9638",
+   "carry": "exact"
+  },
+  {
+   "off": 9034,
+   "budget": 61,
+   "en": "＠緑▽April 2042 Police HQ forms￥an Anti-Snatcher Unit",
+   "src": "B030:9669",
+   "carry": "exact",
+   "long": "＠緑April 2042: The Metropolitan￥Police establish a special￥anti-Snatcher unit."
+  },
+  {
+   "off": 9095,
+   "budget": 73,
+   "en": "＠緑▽May 2042 Government￥intelligence forms an￥anti-Snatcher team...",
+   "src": "B030:9730",
+   "carry": "exact",
+   "long": "＠緑May 2042: Government￥intelligence establishes an￥anti-Snatcher science team",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 9168,
+   "budget": 55,
+   "en": "＠緑called RUG HUNT, meaning￥\"scrap disposers.\"",
+   "src": "B030:9803",
+   "carry": "exact"
+  },
+  {
+   "off": 9223,
+   "budget": 101,
+   "en": "＠緑▽August 2042 Police team￥and Rug Hunt merge; JUNKER￥is founded under the￥government.",
+   "src": "B030:9858",
+   "carry": "exact",
+   "long": "＠緑August 2042: The police team￥and RUG HUNT merge.￥JUNKER is officially￥established as an agency￥reporting directly to the￥government."
+  },
+  {
+   "off": 9324,
+   "budget": 5,
+   "en": "Unit",
+   "src": "B030:9959",
+   "carry": "exact",
+   "long": "Structure"
+  },
+  {
+   "off": 9329,
+   "budget": 29,
+   "en": "＠緑JUNKER's Organization",
+   "src": "B030:9964",
+   "carry": "exact"
+  },
+  {
+   "off": 9358,
+   "budget": 115,
+   "en": "＠緑Headed by the Chief (Brain),￥with Mechanic, Operator, the￥Runners in the field, and￥accompanying",
+   "src": "B030:9993",
+   "carry": "exact",
+   "long": "＠緑JUNKER consists of a Chief,￥called the Head or Brain, a￥Mechanic, an Operator, field￥investigators called￥Runners,"
+  },
+  {
+   "off": 9473,
+   "budget": 69,
+   "en": "＠緑support robots that go with￥them, known as 'Navigators'.",
+   "src": "B030:10108",
+   "carry": "exact",
+   "long": "＠緑and support robots called￥Navigators who accompany the￥Runners."
+  },
+  {
+   "off": 9542,
+   "budget": 65,
+   "en": "＠緑A forensics branch called￥JUNK serves as indirect￥support.",
+   "src": "B030:10177",
+   "carry": "exact",
+   "long": "＠緑A forensic division called￥JUNK provides additional￥support.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 9607,
+   "budget": 87,
+   "en": "＠緑The Mechanic develops and￥maintains all equipment used￥by JUNKER.",
+   "src": "B030:10242",
+   "carry": "exact"
+  },
+  {
+   "off": 9694,
+   "budget": 87,
+   "en": "＠緑▽The Operator processes all￥data sent back by the￥Navigators and others.",
+   "src": "B030:10329",
+   "carry": "exact",
+   "long": "＠緑The Operator processes all￥incoming data, including￥transmissions from￥Navigators."
+  },
+  {
+   "off": 9781,
+   "budget": 79,
+   "en": "＠緑The Head monitors the entire￥situation and directs the￥Runners.",
+   "src": "B030:10416",
+   "carry": "exact"
+  },
+  {
+   "off": 9860,
+   "budget": 77,
+   "en": "＠緑▽The Runner works the field￥with a Navigator: risky￥duty.",
+   "src": "B030:10495",
+   "carry": "exact",
+   "long": "＠緑Runners conduct field￥investigations with￥Navigators. Their work is￥dangerous."
+  },
+  {
+   "off": 9937,
+   "budget": 67,
+   "en": "＠緑▽JUNK handles aftercare at￥scenes Runners have cleared.",
+   "src": "B030:10572",
+   "carry": "exact",
+   "long": "＠緑JUNK handles the follow-up￥work at scenes after the￥Runners finish."
+  },
+  {
+   "off": 10004,
+   "budget": 9,
+   "en": "Staff",
+   "src": "B030:10639",
+   "carry": "exact",
+   "long": "JUNKER Staff"
+  },
+  {
+   "off": 10013,
+   "budget": 31,
+   "en": "＠緑JUNKER Staff",
+   "src": "B030:10648",
+   "carry": "exact"
+  },
+  {
+   "off": 10044,
+   "budget": 105,
+   "en": "＠緑Benson Cunningham: Chief.￥Harry Benson: Mechanic.",
+   "src": "B030:10679",
+   "carry": "exact"
+  },
+  {
+   "off": 10149,
+   "budget": 101,
+   "en": "＠緑Mika Slayton: Operator.￥Gillian Seed: Runner.",
+   "src": "B030:10784",
+   "carry": "exact"
+  },
+  {
+   "off": 10250,
+   "budget": 105,
+   "en": "＠緑Lewis Gilmore: Runner,￥killed in action. Sergio￥Glazer: Runner, killed in￥action.",
+   "src": "B030:10885",
+   "carry": "exact"
+  },
+  {
+   "off": 10355,
+   "budget": 109,
+   "en": "＠緑David Johnson: Runner,￥retired. Schultz Deckard:￥Runner, killed in action.",
+   "src": "B030:10990",
+   "carry": "exact"
+  },
+  {
+   "off": 10464,
+   "budget": 89,
+   "en": "＠緑Jean Jack Gibson: Runner,￥killed in action. Current as￥of December 2042.",
+   "src": "B030:11099",
+   "carry": "exact"
+  },
+  {
+   "off": 10553,
+   "budget": 113,
+   "en": "＠緑Benson Cunningham: Chief.￥Jean Jack Gibson: Runner.",
+   "src": "B030:11188",
+   "carry": "exact"
+  },
+  {
+   "off": 10666,
+   "budget": 101,
+   "en": "＠緑Harry Benson: Mechanic. Mika￥Slayton: Operator.",
+   "src": "B030:11301",
+   "carry": "exact"
+  },
+  {
+   "off": 10767,
+   "budget": 101,
+   "en": "＠緑Gillian Seed: Runner, newly￥assigned. Lewis Gilmore:￥Runner, killed in action.",
+   "src": "B030:11402",
+   "carry": "exact"
+  },
+  {
+   "off": 10868,
+   "budget": 109,
+   "en": "＠緑Sergio Glazer: Runner,￥killed in action. David￥Johnson: Runner, retired.",
+   "src": "B030:11503",
+   "carry": "exact"
+  },
+  {
+   "off": 10977,
+   "budget": 85,
+   "en": "＠緑Schultz Deckard: Runner,￥killed in action. Current as￥of December 2042.",
+   "src": "B030:11612",
+   "carry": "exact"
+  },
+  {
+   "off": 11062,
+   "budget": 9,
+   "en": "HQ rooms",
+   "src": "B030:11697",
+   "carry": "exact",
+   "long": "HQ Facilities"
+  },
+  {
+   "off": 11071,
+   "budget": 31,
+   "en": "＠緑'JUNKER HQ Facilities'",
+   "src": "B030:11706",
+   "carry": "exact",
+   "long": "＠緑JUNKER Headquarters￥Facilities"
+  },
+  {
+   "off": 11102,
+   "budget": 107,
+   "en": "＠緑▽Front ▽Corridor￥▽Chief's office￥▽Mechanic room￥▽Range (Junker's Eye)",
+   "src": "B030:11737",
+   "carry": "exact",
+   "long": "＠緑Reception. Hallway. Chief's￥office. Mechanic room.￥Shooting range, featuring￥the JUNKER's Eye training￥system.",
+   "note": "5 rows (box has 4)"
+  },
+  {
+   "off": 11209,
+   "budget": 83,
+   "en": "＠緑Squad room.ωComputer room,￥housing the Gaudi AI.￥Tricycle parking area.",
+   "src": "B030:11844",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Squad room. Computer room,￥housing the Gaudi AI.￥Tricycle parking area.",
+   "sim": 0.97,
+   "note": "Saturn-only code ω kept where the jp has it (in place of the PS1's space); re-adapted 2026-09-30: new PS1 wording, ω kept between items"
+  },
+  {
+   "off": 11292,
+   "budget": 11,
+   "en": "HQ data",
+   "src": "B030:11927",
+   "carry": "exact"
+  },
+  {
+   "off": 11303,
+   "budget": 29,
+   "en": "＠緑'JUNKER Data'",
+   "src": "B030:11938",
+   "carry": "exact",
+   "long": "＠緑JUNKER Contact Information"
+  },
+  {
+   "off": 11332,
+   "budget": 87,
+   "en": "＠緑Address: MT-7-3-2, Port￥Island, Central District,￥Neo Kobe City.",
+   "src": "B030:11967",
+   "carry": "exact"
+  },
+  {
+   "off": 11419,
+   "budget": 45,
+   "en": "＠緑Konami Omni Building, 150th￥floor.",
+   "src": "B030:12054",
+   "carry": "exact"
+  },
+  {
+   "off": 11464,
+   "budget": 83,
+   "en": "＠緑▽(Konami Omni Building: 165￥floors above ground, 35￥below, 630 meters tall)",
+   "src": "B030:12099",
+   "carry": "exact",
+   "long": "＠緑Konami Omni Building: 165￥floors above ground, 35￥below ground, 630 meters￥tall.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 11547,
+   "budget": 75,
+   "en": "＠緑Videophone: 256-128.￥Snatcher emergency hotline.",
+   "src": "B030:12182",
+   "carry": "exact"
+  },
+  {
+   "off": 11622,
+   "budget": 7,
+   "en": "Rules",
+   "src": "B030:12257",
+   "carry": "exact",
+   "long": "Five rules"
+  },
+  {
+   "off": 11629,
+   "budget": 29,
+   "en": "＠緑The Five JUNKER Rules",
+   "src": "B030:12264",
+   "carry": "exact"
+  },
+  {
+   "off": 11658,
+   "budget": 73,
+   "en": "＠緑These five rules govern￥JUNKER's conduct and￥investigations.",
+   "src": "B030:12293",
+   "carry": "exact"
+  },
+  {
+   "off": 11731,
+   "budget": 77,
+   "en": "＠緑1. JUNKER's purpose is to￥eliminate the bioroids known￥as Snatchers.",
+   "src": "B030:12366",
+   "carry": "exact"
+  },
+  {
+   "off": 11808,
+   "budget": 85,
+   "en": "＠緑2. JUNKER must not harm￥humans, even when carrying￥out Article 1.",
+   "src": "B030:12443",
+   "carry": "exact"
+  },
+  {
+   "off": 11893,
+   "budget": 87,
+   "en": "＠緑3) Under Civil Law 18-12,￥Human Rights in Snatcher￥Cases,",
+   "src": "B030:12528",
+   "carry": "exact",
+   "long": "＠緑3. Under Civil Code Article￥18, Section 12, \"Human￥Rights Protection in￥Snatcher Cases,\""
+  },
+  {
+   "off": 11980,
+   "budget": 103,
+   "en": "＠緑without absolute proof of a￥Snatcher, no direct search￥or restraint may be￥performed.",
+   "src": "B030:12615",
+   "carry": "exact",
+   "long": "＠緑JUNKER may not directly￥examine or physically￥restrain a suspect without￥conclusive evidence that the￥suspect is a Snatcher."
+  },
+  {
+   "off": 12083,
+   "budget": 85,
+   "en": "＠緑4. Under Criminal Code￥Special Provision 3,￥\"Assistance to Bounty￥Hunters,\"",
+   "src": "B030:12718",
+   "carry": "exact"
+  },
+  {
+   "off": 12168,
+   "budget": 61,
+   "en": "＠緑JUNKER must cooperate with￥civilian bounty hunters.",
+   "src": "B030:12803",
+   "carry": "exact",
+   "long": "＠緑JUNKER must cooperate with￥and support civilian bounty￥hunters."
+  },
+  {
+   "off": 12229,
+   "budget": 107,
+   "en": "＠緑5) To carry out rule one,￥JUNKER is authorized to￥carry the Blaster and a￥Navigator.",
+   "src": "B030:12864",
+   "carry": "exact",
+   "long": "＠緑5. JUNKER personnel are￥specially authorized to￥carry Blasters and use￥Navigators to carry out￥Article 1."
+  },
+  {
+   "off": 12336,
+   "budget": 17,
+   "en": "Scanning warrant",
+   "src": "B030:12971",
+   "carry": "exact"
+  },
+  {
+   "off": 12353,
+   "budget": 29,
+   "en": "＠緑Scanning Warrants",
+   "src": "B030:12988",
+   "carry": "exact"
+  },
+  {
+   "off": 12382,
+   "budget": 107,
+   "en": "＠緑Civil Code Article 18,￥Section 12, \"Human Rights￥Protection in Snatcher￥Cases,\"",
+   "src": "B030:13017",
+   "carry": "exact"
+  },
+  {
+   "off": 12489,
+   "budget": 113,
+   "en": "＠緑gives citizens the right to￥refuse direct examination,￥or scanning, by JUNKER.",
+   "src": "B030:13124",
+   "carry": "exact"
+  },
+  {
+   "off": 12602,
+   "budget": 109,
+   "en": "＠緑JUNKER may conduct a direct￥scan only after presenting a￥court-issued scanning￥warrant.",
+   "src": "B030:13237",
+   "carry": "exact"
+  },
+  {
+   "off": 12711,
+   "budget": 69,
+   "en": "＠緑individual by sensor is thus￥banned until a warrant￥issues.",
+   "src": "B030:13346",
+   "carry": "exact",
+   "long": "＠緑Until a warrant is issued,￥scientific scanning of￥individuals with any kind of￥sensor is prohibited."
+  },
+  {
+   "off": 12780,
+   "budget": 15,
+   "en": "Runner gear",
+   "src": "B030:13415",
+   "carry": "exact"
+  },
+  {
+   "off": 12795,
+   "budget": 15,
+   "en": "Life items",
+   "src": "B030:13430",
+   "carry": "exact"
+  },
+  {
+   "off": 12810,
+   "budget": 11,
+   "en": "JK card",
+   "src": "B030:13445",
+   "carry": "exact"
+  },
+  {
+   "off": 12821,
+   "budget": 25,
+   "en": "＠緑JK Card",
+   "src": "B030:13456",
+   "carry": "exact"
+  },
+  {
+   "off": 12846,
+   "budget": 53,
+   "en": "＠緑A JUNKER-only ID card built￥around an IC chip.",
+   "src": "B030:13481",
+   "carry": "exact",
+   "long": "＠緑An ID card with an￥integrated circuit chip,￥issued exclusively to JUNKER￥personnel."
+  },
+  {
+   "off": 12899,
+   "budget": 89,
+   "en": "＠緑It records every detail of￥the bearer, DNA included,￥guaranteeing identity.",
+   "src": "B030:13534",
+   "carry": "exact",
+   "long": "＠緑It stores all the holder's￥personal data, including￥their DNA pattern, to verify￥their identity."
+  },
+  {
+   "off": 12988,
+   "budget": 11,
+   "en": "JK coat",
+   "src": "B030:13623",
+   "carry": "exact"
+  },
+  {
+   "off": 12999,
+   "budget": 25,
+   "en": "＠緑JK Coat",
+   "src": "B030:13634",
+   "carry": "exact"
+  },
+  {
+   "off": 13024,
+   "budget": 73,
+   "en": "＠緑The Runner's coat: aramid￥fiber plus flex-armor￥material.",
+   "src": "B030:13659",
+   "carry": "exact",
+   "long": "＠緑A coat designed exclusively￥for Runners, made from￥aramid fibers and Flex￥Armor."
+  },
+  {
+   "off": 13097,
+   "budget": 117,
+   "en": "＠緑Two aramid types, meta-meta￥(heat resistant to 800C) and￥para-para (a 0.1mm strand￥bears 50kg),",
+   "src": "B030:13732",
+   "carry": "exact",
+   "long": "＠緑It uses two types of aramid￥fiber: meta-meta, which￥withstands heat up to 800￥degrees Celsius, and￥para-para, which supports 50￥kilograms at a diameter of￥0.1 millimeters."
+  },
+  {
+   "off": 13214,
+   "budget": 103,
+   "en": "＠緑combine for heat and impact￥defense. Flex armor, which￥hardens under shock, backs￥the collar",
+   "src": "B030:13849",
+   "carry": "exact",
+   "long": "＠緑Together, these fibers￥provide heat resistance and￥durability. Flex Armor￥hardens under pressure or￥impact"
+  },
+  {
+   "off": 13317,
+   "budget": 97,
+   "en": "＠緑to reinforce the collar and￥chest. These materials￥require each coat to be￥tailored",
+   "src": "B030:13952",
+   "carry": "exact"
+  },
+  {
+   "off": 13414,
+   "budget": 31,
+   "en": "＠緑structure.",
+   "src": "B030:14049",
+   "carry": "exact",
+   "long": "＠緑to the Runner's build and￥physique."
+  },
+  {
+   "off": 13445,
+   "budget": 11,
+   "en": "JK belt",
+   "src": "B030:14080",
+   "carry": "exact"
+  },
+  {
+   "off": 13456,
+   "budget": 25,
+   "en": "＠緑JK Belt",
+   "src": "B030:14091",
+   "carry": "exact"
+  },
+  {
+   "off": 13481,
+   "budget": 89,
+   "en": "＠緑Made from shape-memory￥alloy, shape-memory ceramic,￥and flexible thermoplastic.",
+   "src": "B030:14116",
+   "carry": "exact"
+  },
+  {
+   "off": 13570,
+   "budget": 65,
+   "en": "＠緑In emergencies, charging the￥buckle turns it into a￥baton.",
+   "src": "B030:14205",
+   "carry": "exact",
+   "long": "＠緑In an emergency, applying￥voltage to electrodes in the￥buckle turns it into a￥baton."
+  },
+  {
+   "off": 13635,
+   "budget": 17,
+   "en": "Skin spray",
+   "src": "B030:14270",
+   "carry": "exact"
+  },
+  {
+   "off": 13652,
+   "budget": 27,
+   "en": "＠緑Artificial Skin Spray",
+   "src": "B030:14287",
+   "carry": "exact"
+  },
+  {
+   "off": 13679,
+   "budget": 89,
+   "en": "＠緑Artificial skin-tissue spray￥from protein engineering and￥biochemistry.",
+   "src": "B030:14314",
+   "carry": "exact",
+   "long": "＠緑An artificial skin tissue￥spray developed through￥protein engineering and￥biochemistry."
+  },
+  {
+   "off": 13768,
+   "budget": 75,
+   "en": "＠緑Applied to exposed skin it￥protects against heat and￥shock.",
+   "src": "B030:14403",
+   "carry": "exact",
+   "long": "＠緑Applied to exposed areas of￥the body, it protects the￥skin against heat and￥impact."
+  },
+  {
+   "off": 13843,
+   "budget": 95,
+   "en": "＠緑Oxygen passes, but sweat and￥waste do not, so remove it￥within 24 hours.",
+   "src": "B030:14478",
+   "carry": "exact",
+   "long": "＠緑It allows oxygen exchange￥but blocks perspiration and￥waste removal, so it must be￥peeled off within 24 hours."
+  },
+  {
+   "off": 13938,
+   "budget": 11,
+   "en": "J Blood",
+   "src": "B030:14573",
+   "carry": "exact"
+  },
+  {
+   "off": 13949,
+   "budget": 25,
+   "en": "＠緑J Blood",
+   "src": "B030:14584",
+   "carry": "exact"
+  },
+  {
+   "off": 13974,
+   "budget": 107,
+   "en": "＠緑Runners, so often wounded,￥raise survival odds with one￥of two blood exchange￥methods.",
+   "src": "B030:14609",
+   "carry": "exact",
+   "long": "＠緑Runners are frequently￥injured. The following two￥blood replacement methods￥help improve their chances￥of survival and reduce￥fatalities."
+  },
+  {
+   "off": 14081,
+   "budget": 107,
+   "en": "＠緑(1) Artificial exchange: a￥Runner's blood is swapped￥for artificial and kept,￥returned as needed.",
+   "src": "B030:14716",
+   "carry": "exact",
+   "long": "＠緑1. Artificial blood￥replacement. The Runner's￥blood is replaced with￥artificial blood and stored￥for transfusion back into￥the body as needed."
+  },
+  {
+   "off": 14188,
+   "budget": 71,
+   "en": "＠緑Artificial blood is￥unlimited, so blood loss is￥not fatal.",
+   "src": "B030:14823",
+   "carry": "exact",
+   "long": "＠緑Artificial blood can be￥produced and transfused in￥unlimited quantities,￥eliminating the danger of￥severe blood loss."
+  },
+  {
+   "off": 14259,
+   "budget": 73,
+   "en": "＠緑However, purifying it￥burdens the kidneys,￥requiring dialysis.",
+   "src": "B030:14894",
+   "carry": "exact",
+   "long": "＠緑However, filtering￥artificial blood strains the￥kidneys, making dialysis￥necessary."
+  },
+  {
+   "off": 14332,
+   "budget": 111,
+   "en": "＠緑(2) Autologous exchange￥ (blood doping): the￥Runner's own blood is￥enriched and concentrated...",
+   "src": "B030:14967",
+   "carry": "exact",
+   "long": "＠緑2. Frozen self-donated blood￥replacement, also called￥blood doping. The Runner's￥own blood is enriched with￥costly nutrients and￥concentrated in advance."
+  },
+  {
+   "off": 14443,
+   "budget": 65,
+   "en": "＠緑then held at -42C and thawed￥for transfusion as needed.",
+   "src": "B030:15078",
+   "carry": "exact",
+   "long": "＠緑It is stored at minus 42￥degrees Celsius, then thawed￥and transfused back into the￥Runner as needed."
+  },
+  {
+   "off": 14508,
+   "budget": 17,
+   "en": "Junker's High",
+   "src": "B030:15143",
+   "carry": "exact"
+  },
+  {
+   "off": 14525,
+   "budget": 29,
+   "en": "＠緑JUNKER's High",
+   "src": "B030:15160",
+   "carry": "exact"
+  },
+  {
+   "off": 14554,
+   "budget": 61,
+   "en": "＠緑Adrenaline chewing gum￥issued to JUNKER personnel.",
+   "src": "B030:15189",
+   "carry": "exact"
+  },
+  {
+   "off": 14615,
+   "budget": 81,
+   "en": "＠緑Military issue for emergency￥adrenaline. It drew notice￥in World War III.",
+   "src": "B030:15250",
+   "carry": "exact",
+   "long": "＠緑A military product designed￥to supply adrenaline in￥emergencies. It gained￥attention during World War￥III."
+  },
+  {
+   "off": 14696,
+   "budget": 83,
+   "en": "＠緑Adrenaline lifts a JUNKER's￥stability, reflexes and￥stamina in a crisis.",
+   "src": "B030:15331",
+   "carry": "exact",
+   "long": "＠緑The adrenaline improves￥JUNKER personnel's￥physiological stability,￥reflexes, and strength in￥emergencies."
+  },
+  {
+   "off": 14779,
+   "budget": 103,
+   "en": "＠緑Long use brings lethargy and￥fatigue. The trade calls it￥'bottled hysterical￥strength'.",
+   "src": "B030:15414",
+   "carry": "exact",
+   "long": "＠緑Prolonged use causes￥weakness and fatigue. It is￥known in the field as￥\"instant emergency￥strength.\""
+  },
+  {
+   "off": 14882,
+   "budget": 11,
+   "en": "Nanobots",
+   "src": "B030:15517",
+   "carry": "exact",
+   "long": "Nanomachines"
+  },
+  {
+   "off": 14893,
+   "budget": 25,
+   "en": "＠緑Nanomachines",
+   "src": "B030:15528",
+   "carry": "exact"
+  },
+  {
+   "off": 14918,
+   "budget": 93,
+   "en": "＠緑Microscopic medical robots￥developed by JUNKER Mechanic￥Harry Benson.",
+   "src": "B030:15553",
+   "carry": "exact"
+  },
+  {
+   "off": 15011,
+   "budget": 67,
+   "en": "＠緑Injected, they ride the￥blood and repair harm from￥within.",
+   "src": "B030:15646",
+   "carry": "exact",
+   "long": "＠緑Once injected, they travel￥through the bloodstream and￥treat problems from inside￥the body."
+  },
+  {
+   "off": 15078,
+   "budget": 67,
+   "en": "＠緑A special coating prevents￥an antibody response.",
+   "src": "B030:15713",
+   "carry": "exact"
+  },
+  {
+   "off": 15145,
+   "budget": 13,
+   "en": "Navigator",
+   "src": "B030:15780",
+   "carry": "exact"
+  },
+  {
+   "off": 15158,
+   "budget": 27,
+   "en": "＠緑Navigators",
+   "src": "B030:15793",
+   "carry": "exact"
+  },
+  {
+   "off": 15185,
+   "budget": 51,
+   "en": "＠緑An analysis robot aiding a￥Runner's work.",
+   "src": "B030:15820",
+   "carry": "exact",
+   "long": "＠緑Analytical robots that￥support Runners'￥investigations."
+  },
+  {
+   "off": 15236,
+   "budget": 115,
+   "en": "＠緑Navigators handle analysis,￥records and comms, keeping a￥JUNKER's investigation￥smooth.",
+   "src": "B030:15871",
+   "carry": "exact",
+   "long": "＠緑Navigators handle analysis,￥recording, and￥communications to keep￥JUNKER investigations￥running smoothly."
+  },
+  {
+   "off": 15351,
+   "budget": 113,
+   "en": "＠緑Each is programmed to suit￥its Runner, giving mental￥support to men under￥constant strain.",
+   "src": "B030:15986",
+   "carry": "exact",
+   "long": "＠緑Each is programmed to suit￥its Runner's personality and￥provide psychological￥support during their￥stressful work."
+  },
+  {
+   "off": 15464,
+   "budget": 67,
+   "en": "＠緑Carrying many sensors, it￥detects danger of any kind.",
+   "src": "B030:16099",
+   "carry": "exact",
+   "long": "＠緑They also carry a range of￥sensors to detect all kinds￥of danger."
+  },
+  {
+   "off": 15531,
+   "budget": 85,
+   "en": "＠緑Once a scanning warrant is￥issued, they can scan human￥bodies.",
+   "src": "B030:16166",
+   "carry": "exact"
+  },
+  {
+   "off": 15616,
+   "budget": 95,
+   "en": "＠緑Without a warrant, a control￥circuit leaves it￥unresponsive to any such￥order.",
+   "src": "B030:16251",
+   "carry": "exact",
+   "long": "＠緑Without a warrant, however,￥a control circuit blocks all￥commands to perform such￥scans."
+  },
+  {
+   "off": 15711,
+   "budget": 15,
+   "en": "Tricycle",
+   "src": "B030:16346",
+   "carry": "exact"
+  },
+  {
+   "off": 15726,
+   "budget": 27,
+   "en": "＠緑Tricycle",
+   "src": "B030:16361",
+   "carry": "exact"
+  },
+  {
+   "off": 15753,
+   "budget": 107,
+   "en": "＠緑JUNKER's air-ground vehicle.￥Three-wheel drive on land;￥wheels retract for hover and￥jet flight.",
+   "src": "B030:16388",
+   "carry": "exact",
+   "long": "＠緑JUNKER's vehicle for ground￥and air travel. It uses￥three-wheel drive on the￥ground and retracts its￥wheels for jet-powered￥hovering and flight."
+  },
+  {
+   "off": 15860,
+   "budget": 97,
+   "en": "＠緑Tied to city traffic control￥for automatic driving. Auto￥and manual are switchable.",
+   "src": "B030:16495",
+   "carry": "exact",
+   "long": "＠緑It links directly to the￥city's traffic management￥system for automatic￥operation. Drivers can￥switch between automatic and￥manual control."
+  },
+  {
+   "off": 15957,
+   "budget": 105,
+   "en": "＠緑In manual mode the onboard￥computer assists according￥to each driver's skill and￥temperament.",
+   "src": "B030:16592",
+   "carry": "exact",
+   "long": "＠緑In manual mode, the onboard￥computer assists each driver￥according to their skill and￥personality."
+  },
+  {
+   "off": 16062,
+   "budget": 77,
+   "en": "＠緑A safety function can force￥a return to auto control.",
+   "src": "B030:16697",
+   "carry": "exact",
+   "long": "＠緑A safety function allows the￥computer to override the￥driver and switch to￥automatic control."
+  },
+  {
+   "off": 16139,
+   "budget": 11,
+   "en": "Blaster",
+   "src": "B030:16774",
+   "carry": "exact"
+  },
+  {
+   "off": 16150,
+   "budget": 25,
+   "en": "＠緑Blaster",
+   "src": "B030:16785",
+   "carry": "exact"
+  },
+  {
+   "off": 16175,
+   "budget": 57,
+   "en": "＠緑The only official gun that￥can kill a Snatcher.",
+   "src": "B030:16810",
+   "carry": "exact",
+   "long": "＠緑The only officially approved￥firearm capable of￥destroying Snatchers."
+  },
+  {
+   "off": 16232,
+   "budget": 111,
+   "en": "＠緑Its body is made from￥advanced engineering￥plastic, carbon fiber, and￥ceramic. It is extremely￥light",
+   "src": "B030:16867",
+   "carry": "exact",
+   "note": "5 rows (box has 4)"
+  },
+  {
+   "off": 16343,
+   "budget": 93,
+   "en": "＠緑temperature. Grip and￥trigger are ergonomically￥designed to fit the user's￥hand.",
+   "src": "B030:16978",
+   "carry": "exact",
+   "long": "＠緑and resists deformation from￥temperature changes. The￥grip and trigger are￥ergonomically designed to￥fit the user's hand."
+  },
+  {
+   "off": 16436,
+   "budget": 79,
+   "en": "＠緑Feedback raises fire rate￥without limit, matching the￥user's reflexes.",
+   "src": "B030:17071",
+   "carry": "exact",
+   "long": "＠緑A feedback mechanism lets it￥fire as fast as the user's￥reflexes allow, with no￥upper limit."
+  },
+  {
+   "off": 16515,
+   "budget": 17,
+   "en": "Snatcher files",
+   "src": "B030:17150",
+   "carry": "exact"
+  },
+  {
+   "off": 16532,
+   "budget": 13,
+   "en": "Insector",
+   "src": "B030:17167",
+   "carry": "exact"
+  },
+  {
+   "off": 16545,
+   "budget": 27,
+   "en": "＠緑Insector",
+   "src": "B030:17180",
+   "carry": "exact"
+  },
+  {
+   "off": 16572,
+   "budget": 57,
+   "en": "＠緑▽A spider robot Snatchers￥use as a warning sensor.",
+   "src": "B030:17207",
+   "carry": "exact",
+   "long": "＠緑A spider-shaped robot used￥by Snatchers as a warning￥sensor."
+  },
+  {
+   "off": 16629,
+   "budget": 117,
+   "en": "＠緑It spins sensor threads from￥its abdomen and needle-guns￥whatever touches them.￥Jet driven; it can jump.",
+   "src": "B030:17264",
+   "carry": "exact",
+   "long": "＠緑It spins a network of sensor￥threads from its rear and￥fires its needle gun at￥anyone who touches them. It￥has jet propulsion and can￥jump."
+  },
+  {
+   "off": 16746,
+   "budget": 99,
+   "en": "＠緑JUNK has attempted analysis￥many times, but the￥self-destruct device leaves￥much unknown.",
+   "src": "B030:17381",
+   "carry": "exact",
+   "long": "＠緑JUNK has repeatedly￥attempted to analyze￥Insectors, but their￥self-destruct devices have￥left many details unknown.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 16845,
+   "budget": 41,
+   "en": "＠緑Body length 30cm.￥Weight 500g.",
+   "src": "B030:17480",
+   "carry": "exact",
+   "long": "＠緑Length: 30 centimeters.￥Weight: 500 grams."
+  },
+  {
+   "off": 16886,
+   "budget": 7,
+   "en": "Facts",
+   "src": "B030:17521",
+   "carry": "exact",
+   "long": "Findings"
+  },
+  {
+   "off": 16893,
+   "budget": 31,
+   "en": "＠緑'Known Facts on Snatchers'",
+   "src": "B030:17528",
+   "carry": "exact",
+   "long": "＠緑Known Facts About Snatchers"
+  },
+  {
+   "off": 16924,
+   "budget": 47,
+   "en": "＠緑1) Snatchers act in winter,￥by night.",
+   "src": "B030:17559",
+   "carry": "exact",
+   "long": "＠緑1. Snatchers operate at￥night, during winter."
+  },
+  {
+   "off": 16971,
+   "budget": 115,
+   "en": "＠緑2) Snatchers take only VIPs.￥Their aim seems to lie not￥in the snatch but its￥effects.",
+   "src": "B030:17606",
+   "carry": "exact",
+   "long": "＠緑2. Snatchers replace only￥important people. Their aim￥appears to be the￥consequences of these￥replacements, rather than￥replacement itself."
+  },
+  {
+   "off": 17086,
+   "budget": 115,
+   "en": "＠緑3) There are limits to the￥snatching ability. The￥joints and skeleton have￥fixed ranges of extension.",
+   "src": "B030:17721",
+   "carry": "exact",
+   "long": "＠緑3. Their ability to imitate￥humans has limits. Their￥body parts, joints, and￥skeletons can expand and￥contract only within a￥certain range."
+  },
+  {
+   "off": 17201,
+   "budget": 117,
+   "en": "＠緑That range is estimated at￥150-180cm in height.￥Children and the elderly are￥thus thought unsnatchable.",
+   "src": "B030:17836",
+   "carry": "exact",
+   "long": "＠緑Their estimated height range￥is 150 to 180 centimeters.￥They are therefore believed￥unable to replace children￥or elderly people.",
+   "note": "row 1,2 re-wrapped at 14; 5 rows (box has 4)"
+  },
+  {
+   "off": 17318,
+   "budget": 55,
+   "en": "＠緑4. Weapon: a laser cannon￥inside the mouth.",
+   "src": "B030:17953",
+   "carry": "exact"
+  },
+  {
+   "off": 17373,
+   "budget": 61,
+   "en": "＠緑5) Snatcher weak point: thin￥armor at the head slit.",
+   "src": "B030:18008",
+   "carry": "exact",
+   "long": "＠緑5. Weak point: the thin￥armor around the slit in the￥head."
+  },
+  {
+   "off": 17434,
+   "budget": 77,
+   "en": "＠緑6) Their flawed artificial￥skin turns cancerous under￥long UV.",
+   "src": "B030:18069",
+   "carry": "exact",
+   "long": "＠緑6. Their imperfect￥artificial skin becomes￥cancerous after prolonged￥exposure to ultraviolet￥light."
+  },
+  {
+   "off": 17511,
+   "budget": 95,
+   "en": "＠緑7) Snatchers are thought to￥hide where the snow cedar￥grows.",
+   "src": "B030:18146",
+   "carry": "exact",
+   "long": "＠緑7. Snatchers are believed to￥hide in areas where a￥special variety of cedar￥called Snow Cedar grows."
+  },
+  {
+   "off": 17606,
+   "budget": 5,
+   "en": "Log",
+   "src": "B030:18241",
+   "carry": "exact",
+   "long": "Timeline"
+  },
+  {
+   "off": 17611,
+   "budget": 29,
+   "en": "＠緑Snatcher Chronology",
+   "src": "B030:18246",
+   "carry": "exact"
+  },
+  {
+   "off": 17640,
+   "budget": 59,
+   "en": "＠緑December 22, 2039: First￥contact.",
+   "src": "B030:18275",
+   "carry": "exact"
+  },
+  {
+   "off": 17699,
+   "budget": 75,
+   "en": "＠緑Bioroid wreckage found in￥flight SOS4003, downed on￥Mt. Rokko.",
+   "src": "B030:18334",
+   "carry": "exact",
+   "long": "＠緑Bioroid remains are￥discovered in the wreckage￥of SOS Flight 4003, which￥crashed in the Rokko￥Mountains."
+  },
+  {
+   "off": 17774,
+   "budget": 111,
+   "en": "＠緑February 18, 2040: A￥Snatcher impersonating￥then-mayor B. O'Connor of￥Kobe is arrested but￥self-destructs during￥transport.",
+   "src": "B030:18409",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑▽February 18, 2041 A￥Snatcher posing as Kobe￥mayor B. O'Connor is￥caught, then self-destructs.",
+   "sim": 0.96,
+   "note": "re-adapted 2026-09-30: own year 2040 kept; new PS1 long"
+  },
+  {
+   "off": 17885,
+   "budget": 63,
+   "en": "＠緑December 2041: Panic￥grips Neo Kobe City.",
+   "src": "B030:18520",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑December: Panic grips Neo￥Kobe City.",
+   "sim": 0.91,
+   "note": "re-adapted 2026-09-30: extra year 2041; new PS1 wording"
+  },
+  {
+   "off": 17948,
+   "budget": 81,
+   "en": "＠緑Witch hunts called \"Bioroid￥Hunts\" break out across the￥city.",
+   "src": "B030:18573",
+   "carry": "exact"
+  },
+  {
+   "off": 18029,
+   "budget": 107,
+   "en": "＠緑▽November 3, 2042 A KBC￥anchor is exposed as a￥Snatcher and disposed of.￥Remains self-destruct.",
+   "src": "B030:18654",
+   "carry": "exact",
+   "long": "＠緑November 3, 2042: A KBC news￥anchor is exposed as a￥Snatcher and eliminated. Its￥remains self-destruct."
+  },
+  {
+   "off": 18136,
+   "budget": 97,
+   "en": "＠緑▽November 15 A cult leader￥is exposed as a Snatcher;￥burns in a crash during￥pursuit.",
+   "src": "B030:18761",
+   "carry": "exact",
+   "long": "＠緑November 15: The leader of a￥progressive new religious￥group is exposed as a￥Snatcher. It catches fire in￥a traffic accident during￥pursuit."
+  },
+  {
+   "off": 18233,
+   "budget": 101,
+   "en": "＠緑▽November 20 A biotech￥ex-chief is exposed as a￥Snatcher, disposed of.￥Remains stolen.",
+   "src": "B030:18858",
+   "carry": "exact",
+   "long": "＠緑November 20: The former￥president of a biotechnology￥company is exposed as a￥Snatcher and eliminated. Its￥remains are stolen during￥transport."
+  },
+  {
+   "off": 18334,
+   "budget": 9,
+   "en": "Bounties",
+   "src": "B030:18959",
+   "carry": "exact"
+  },
+  {
+   "off": 18343,
+   "budget": 57,
+   "en": "＠緑Bounty Hunter System",
+   "src": "B030:18968",
+   "carry": "exact"
+  },
+  {
+   "off": 18400,
+   "budget": 103,
+   "en": "＠緑▽In late 2041 police sought￥public help against￥Snatchers and set up the￥bounty system.",
+   "src": "B030:19025",
+   "carry": "exact",
+   "long": "＠緑At the end of 2041, the￥Metropolitan Police￥introduced the following￥bounty system to enlist￥public help in eliminating￥Snatchers."
+  },
+  {
+   "off": 18503,
+   "budget": 115,
+   "en": "＠緑Any Kobe citizen with the￥vote may register through￥simple steps (gun permit,￥psych test, JUNKER test...)",
+   "src": "B030:19128",
+   "carry": "exact",
+   "long": "＠緑Any Kobe citizen eligible to￥vote may complete a simple￥application process,￥including proof of firearm￥ownership, psychological￥testing, and a JUNKER test,",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 18618,
+   "budget": 77,
+   "en": "＠緑to register under the Bounty￥Hunter System.",
+   "src": "B030:19243",
+   "carry": "exact"
+  },
+  {
+   "off": 18695,
+   "budget": 53,
+   "en": "＠緑Payment for a disposal is￥judged case by case.",
+   "src": "B030:19320",
+   "carry": "exact",
+   "long": "＠緑The reward for eliminating a￥Snatcher is determined by￥the circumstances."
+  },
+  {
+   "off": 18748,
+   "budget": 85,
+   "en": "＠緑Registered hunters carry￥heavy insurance for￥accidents while on duty.",
+   "src": "B030:19373",
+   "carry": "exact",
+   "long": "＠緑Registered hunters also￥receive substantial￥insurance coverage for￥accidents that occur during￥their work."
+  },
+  {
+   "off": 18833,
+   "budget": 17,
+   "en": "Neo Kobe files",
+   "src": "B030:19458",
+   "carry": "exact"
+  },
+  {
+   "off": 18850,
+   "budget": 17,
+   "en": "Neo Kobe data",
+   "src": "B030:19475",
+   "carry": "exact"
+  },
+  {
+   "off": 18867,
+   "budget": 31,
+   "en": "＠緑Neo Kobe City Data",
+   "src": "B030:19492",
+   "carry": "exact"
+  },
+  {
+   "off": 18898,
+   "budget": 117,
+   "en": "＠緑Total population: 5.83￥million. Ethnic makeup:￥Japanese 30%, Chinese 24%,￥Caucasian 16%,",
+   "src": "B030:19523",
+   "carry": "exact"
+  },
+  {
+   "off": 19015,
+   "budget": 117,
+   "en": "＠緑Russian 10%, Spanish 5%,￥Filipino 5%, Jewish 3%,",
+   "src": "B030:19640",
+   "carry": "exact"
+  },
+  {
+   "off": 19132,
+   "budget": 89,
+   "en": "＠緑other 7%. Estimated￥unregistered population: 1.2￥million.",
+   "src": "B030:19757",
+   "carry": "exact"
+  },
+  {
+   "off": 19221,
+   "budget": 33,
+   "en": "＠緑Total area: unknown.",
+   "src": "B030:19846",
+   "carry": "exact"
+  },
+  {
+   "off": 19254,
+   "budget": 27,
+   "en": "＠緑The City's Origins",
+   "src": "B030:19896",
+   "carry": "exact"
+  },
+  {
+   "off": 19281,
+   "budget": 117,
+   "en": "＠緑Late in the 20th century,￥work began linking the￥man-made isles of the Seto￥Sea: Port, Rokko, Shin-Kobe.",
+   "src": "B030:19923",
+   "carry": "exact",
+   "long": "＠緑At the end of the twentieth￥century, work began to￥connect artificial islands￥in the Seto Inland Sea,￥including Port Island, Rokko￥Island, and New Kobe￥International Airport.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 19398,
+   "budget": 109,
+   "en": "＠緑Early in the 21st century￥the Neo Kobe City Plan set￥out to unite the five island￥blocks into one.",
+   "src": "B030:20040",
+   "carry": "exact",
+   "long": "＠緑Early in the twenty-first￥century, the Neo Kobe City￥Project began merging the￥islands' five separate￥sections into one."
+  },
+  {
+   "off": 19507,
+   "budget": 113,
+   "en": "＠緑It finished ten years on￥with the Kobe Expo, a new￥world city taking in mass￥migration from Asia.",
+   "src": "B030:20149",
+   "carry": "exact",
+   "long": "＠緑Completed ten years later￥for the opening of the Kobe￥Expo, the new international￥city on reclaimed land￥welcomed large numbers of￥immigrants from Asia."
+  },
+  {
+   "off": 19620,
+   "budget": 69,
+   "en": "＠緑By 2040 it held a grim name:￥'Crime Ville', worst on￥Earth.",
+   "src": "B030:20262",
+   "carry": "exact",
+   "long": "＠緑By 2040, it had earned￥notoriety as \"Crimeville,\"￥the world's worst city for￥crime."
+  },
+  {
+   "off": 19689,
+   "budget": 17,
+   "en": "Kobe Bridge",
+   "src": "B030:20331",
+   "carry": "exact"
+  },
+  {
+   "off": 19706,
+   "budget": 29,
+   "en": "＠緑Kobe Bridge",
+   "src": "B030:20348",
+   "carry": "exact"
+  },
+  {
+   "off": 19735,
+   "budget": 93,
+   "en": "＠緑▽December 1, 2042 Total￥isolation of Neo Kobe is￥enacted against Snatcher￥spread.",
+   "src": "B030:20377",
+   "carry": "exact",
+   "long": "＠緑December 1, 2042: Neo Kobe￥is completely isolated to￥prevent the spread of￥Snatchers."
+  },
+  {
+   "off": 19828,
+   "budget": 109,
+   "en": "＠緑Kobe Bridge, sole link to￥the mainland, shuts; air and￥sea routes pass to army and￥police control.",
+   "src": "B030:20470",
+   "carry": "exact",
+   "long": "＠緑Kobe Bridge, the city's only￥connection to the mainland,￥is closed. Air and sea￥routes are placed under￥military and city police￥control."
+  },
+  {
+   "off": 19937,
+   "budget": 59,
+   "en": "＠緑Crossing needs a pass and a￥strict inspection.",
+   "src": "B030:20579",
+   "carry": "exact",
+   "long": "＠緑Crossing the bridge requires￥a travel pass and a thorough￥inspection."
+  },
+  {
+   "off": 19996,
+   "budget": 13,
+   "en": "Alphaville",
+   "src": "B030:20638",
+   "carry": "exact"
+  },
+  {
+   "off": 20009,
+   "budget": 27,
+   "en": "＠緑Alphaville",
+   "src": "B030:20651",
+   "carry": "exact"
+  },
+  {
+   "off": 20036,
+   "budget": 69,
+   "en": "＠緑The mother computer system￥governing Neo Kobe City.",
+   "src": "B030:20678",
+   "carry": "exact",
+   "long": "＠緑The central computer system￥that governs and manages Neo￥Kobe City."
+  },
+  {
+   "off": 20105,
+   "budget": 117,
+   "en": "＠緑It links hundreds of￥computers throughout the￥city to simulate the neural￥circuits of the human brain",
+   "src": "B030:20747",
+   "carry": "candidate_ok",
+   "en_candidate": "＠緑It links hundreds of￥computers and simulates￥human neural circuits for￥ultra-fast processing:",
+   "sim": 0.89,
+   "note": "the PS1 line is part of this one; the Saturn moves 'massively parallel' up into this record; the English keeps it on the next page (4-row limit); re-adapted 2026-09-30: new PS1 long ('massively parallel' stays on next page)"
+  },
+  {
+   "off": 20222,
+   "budget": 89,
+   "en": "＠緑as a massively parallel￥neural computer capable of￥extremely fast processing.￥As the city's central￥information system,",
+   "src": "B030:20852",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑a massively parallel neuron￥computer.￥As the hub of information￥control it holds data on￥every...",
+   "sim": 0.89,
+   "note": "re-adapted 2026-09-30: new PS1 long"
+  },
+  {
+   "off": 20311,
+   "budget": 85,
+   "en": "＠緑person, company and group,￥running finance, trade and￥transport day to day.",
+   "src": "B030:20963",
+   "carry": "exact",
+   "long": "＠緑it holds data on every￥individual, company, and￥organization, and manages￥everyday finance,￥distribution, and￥transportation."
+  },
+  {
+   "off": 20396,
+   "budget": 81,
+   "en": "＠緑Software maintenance is￥handled by Konami￥Corporation, Development 48.",
+   "src": "B030:21048",
+   "carry": "exact",
+   "long": "＠緑Konami Corporation's￥Development Division 48￥maintains Alphaville's￥software."
+  },
+  {
+   "off": 20477,
+   "budget": 11,
+   "en": "Snow cedar",
+   "src": "B030:21184",
+   "carry": "exact"
+  },
+  {
+   "off": 20488,
+   "budget": 25,
+   "en": "＠緑Snow Cedar",
+   "src": "B030:21195",
+   "carry": "exact"
+  },
+  {
+   "off": 20513,
+   "budget": 81,
+   "en": "＠緑A cedar bred by gene￥splicing.￥(The name also covers its￥pollen.)",
+   "src": "B030:21220",
+   "carry": "exact",
+   "long": "＠緑A genetically modified￥variety of cedar. The name￥commonly refers to its￥pollen as well."
+  },
+  {
+   "off": 20594,
+   "budget": 67,
+   "en": "＠緑Built for military use; the￥pollen badly disrupts radio.",
+   "src": "B030:21301",
+   "carry": "exact",
+   "long": "＠緑Developed for military use,￥its pollen causes severe￥radio interference."
+  },
+  {
+   "off": 20661,
+   "budget": 99,
+   "en": "＠緑It harms people too: heavy￥inhalation causes￥respiratory failure and￥sometimes fatal shock.",
+   "src": "B030:21368",
+   "carry": "exact",
+   "long": "＠緑It is also harmful to￥humans. Inhaling large￥quantities causes￥respiratory problems and can￥sometimes lead to fatal￥shock.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 20760,
+   "budget": 73,
+   "en": "＠緑Even light exposure brings￥allergies: runny nose,￥sneezing.",
+   "src": "B030:21467",
+   "carry": "exact",
+   "long": "＠緑Even small quantities cause￥allergic symptoms such as a￥runny nose and sneezing."
+  },
+  {
+   "off": 20833,
+   "budget": 79,
+   "en": "＠緑Its pollen is larger than￥cedar and looks like snow,￥hence the name.",
+   "src": "B030:21540",
+   "carry": "exact",
+   "long": "＠緑Its pollen is larger than￥ordinary cedar pollen and￥resembles snow, giving Snow￥Cedar its name."
+  },
+  {
+   "off": 20912,
+   "budget": 89,
+   "en": "＠緑It breeds fast and harms￥nature, so postwar removal￥cut its numbers sharply.",
+   "src": "B030:21619",
+   "carry": "exact",
+   "long": "＠緑It reproduces rapidly and￥harms the environment.￥Extensive removal efforts￥after the war reduced its￥numbers."
+  },
+  {
+   "off": 21001,
+   "budget": 89,
+   "en": "＠緑Even so it grows widely in￥temperate and subarctic￥lands with plentiful water.",
+   "src": "B030:21708",
+   "carry": "exact",
+   "long": "＠緑However, it still grows￥abundantly in areas with￥plentiful water, such as￥rivers, in temperate and￥subarctic climates."
+  },
+  {
+   "off": 21090,
+   "budget": 77,
+   "en": "＠緑In the city, snow cedar is￥confirmed only along the Ina￥River basin.",
+   "src": "B030:21797",
+   "carry": "exact",
+   "long": "＠緑Within the city, Snow Cedar￥has only been confirmed in￥the Ina River basin."
+  },
+  {
+   "off": 21167,
+   "budget": 101,
+   "en": "＠緑Because the pollen turns up￥wherever Snatchers have￥been, the link draws growing￥attention.",
+   "src": "B030:21874",
+   "carry": "exact",
+   "long": "＠緑Its pollen is found at sites￥of Snatcher activity,￥drawing attention to a￥possible connection."
+  },
+  {
+   "off": 21268,
+   "budget": 9,
+   "en": "STBO",
+   "src": "B030:21975",
+   "carry": "exact"
+  },
+  {
+   "off": 21277,
+   "budget": 25,
+   "en": "＠緑STBO",
+   "src": "B030:21984",
+   "carry": "exact"
+  },
+  {
+   "off": 21302,
+   "budget": 65,
+   "en": "＠緑A disease of unknown origin,￥spread from France since￥2030.",
+   "src": "B030:22009",
+   "carry": "exact",
+   "long": "＠緑An unidentified disease that￥has spread since 2030,￥mainly in France.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 21367,
+   "budget": 61,
+   "en": "＠緑Neo Kobe's first patient was￥confirmed in summer 2035.",
+   "src": "B030:22074",
+   "carry": "exact",
+   "long": "＠緑Neo Kobe's first case was￥confirmed in the summer of￥2035."
+  },
+  {
+   "off": 21428,
+   "budget": 103,
+   "en": "＠緑153,000 cases are recognized￥worldwide; latent carriers￥are said to number five￥times that.",
+   "src": "B030:22135",
+   "carry": "exact",
+   "long": "＠緑There are currently 153,000￥confirmed STBO cases￥worldwide, but the number of￥undetected infections is￥thought to be at least five￥times higher."
+  },
+  {
+   "off": 21531,
+   "budget": 107,
+   "en": "＠緑Fever, joint and muscle￥pain, diarrhea, swollen￥nodes, convulsions,￥pneumonia. Over 60% die.",
+   "src": "B030:22238",
+   "carry": "exact",
+   "long": "＠緑Symptoms include fever,￥joint and muscle pain,￥diarrhea, lymph gland￥tumors, convulsions, and￥pneumonia. The fatality rate￥exceeds 60%.",
+   "note": "row 1 re-wrapped at 14; 5 rows (box has 4)"
+  },
+  {
+   "off": 21638,
+   "budget": 115,
+   "en": "＠緑It spreads through blood,￥saliva and semen, most often￥by intercourse or￥intravenous injection.",
+   "src": "B030:22345",
+   "carry": "exact",
+   "long": "＠緑Transmission through blood,￥saliva, and semen has been￥confirmed. Sexual contact￥and intravenous injections￥are thought to be common￥routes of infection."
+  },
+  {
+   "off": 21753,
+   "budget": 109,
+   "en": "＠緑Some call it a mutation of￥the AIDS virus that spread￥fifty years ago, but as yet",
+   "src": "B030:22460",
+   "carry": "exact",
+   "long": "＠緑One theory holds that it is￥a mutation of the AIDS virus￥(human T-cell leukemia￥virus), which spread fifty￥years ago."
+  },
+  {
+   "off": 21862,
+   "budget": 61,
+   "en": "＠緑No effective vaccine or￥treatment has yet been￥found.",
+   "src": "B030:22569",
+   "carry": "exact"
+  },
+  {
+   "off": 21923,
+   "budget": 97,
+   "en": "＠緑Stimulants and dirty needles￥in back-alley clinics made￥it rampant among the poor.",
+   "src": "B030:22630",
+   "carry": "exact",
+   "long": "＠緑Stimulant injections and￥unsanitary needles used in￥underground clinics are￥driving a serious outbreak￥among the poor."
+  },
+  {
+   "off": 22020,
+   "budget": 109,
+   "en": "＠緑The virus has broken down￥communication between￥people, indirectly helping￥Snatchers spread.",
+   "src": "B030:22727",
+   "carry": "exact"
+  },
+  {
+   "off": 22129,
+   "budget": 17,
+   "en": "Liquid Sky",
+   "src": "B030:22836",
+   "carry": "exact"
+  },
+  {
+   "off": 22146,
+   "budget": 29,
+   "en": "＠緑Liquid Sky",
+   "src": "B030:22853",
+   "carry": "exact"
+  },
+  {
+   "off": 22175,
+   "budget": 51,
+   "en": "＠緑A new alkaloid hallucinogen￥(tripper drug).",
+   "src": "B030:22882",
+   "carry": "exact",
+   "long": "＠緑A new alkaloid hallucinogen,￥also called a tripper drug."
+  },
+  {
+   "off": 22226,
+   "budget": 93,
+   "en": "＠緑Oral or injected. It hits￥the nervous system, causing￥thrill and visual￥distortion.",
+   "src": "B030:22933",
+   "carry": "exact",
+   "long": "＠緑Taken orally or injected￥into a vein or under the￥skin, it strongly affects￥the nervous system, causing￥excitement and visual￥disturbances.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 22319,
+   "budget": 87,
+   "en": "＠緑Synthesized after the￥brain's own chemicals, it￥strips away anxiety and￥fear.",
+   "src": "B030:23026",
+   "carry": "exact",
+   "long": "＠緑Synthesized to mimic￥chemicals in the human￥brain, it specifically￥suppresses anxiety and fear.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 22406,
+   "budget": 115,
+   "en": "＠緑It spread fast among the￥young from the late 2030s.￥It curbs brain chemicals,￥and with long use",
+   "src": "B030:23113",
+   "carry": "exact",
+   "long": "＠緑Its use has spread rapidly￥among young people since the￥late 2030s. It suppresses￥the release of brain￥chemicals, and prolonged use"
+  },
+  {
+   "off": 22521,
+   "budget": 69,
+   "en": "＠緑tolerance builds; quitting￥can leave the nerves￥failing.",
+   "src": "B030:23228",
+   "carry": "exact",
+   "long": "＠緑creates tolerance. Stopping￥use can cause central￥nervous system failure."
+  },
+  {
+   "off": 22590,
+   "budget": 75,
+   "en": "＠緑In Neo Kobe the trade is run￥by Mr. Big (class-one￥wanted).",
+   "src": "B030:23297",
+   "carry": "exact",
+   "long": "＠緑Mr. Big, a top-priority￥wanted criminal, controls￥the trade in Neo Kobe City."
+  },
+  {
+   "off": 22665,
+   "budget": 5,
+   "en": "Mart",
+   "src": "B030:23372",
+   "carry": "exact",
+   "long": "Black market"
+  },
+  {
+   "off": 22670,
+   "budget": 23,
+   "en": "    ＠緑'Black Market'",
+   "src": "B030:23377",
+   "carry": "exact"
+  },
+  {
+   "off": 22693,
+   "budget": 57,
+   "en": "＠緑The illegal marketplace in￥Neo Kobe City.",
+   "src": "B030:23400",
+   "carry": "exact"
+  },
+  {
+   "off": 22750,
+   "budget": 81,
+   "en": "＠緑Being unlicensed, it deals￥in goods of every kind,￥legal or not.",
+   "src": "B030:23457",
+   "carry": "exact",
+   "long": "＠緑As an unauthorized market,￥it offers a wide range of￥goods, both legal and￥illegal."
+  },
+  {
+   "off": 22831,
+   "budget": 83,
+   "en": "＠緑Enterprising Chinese￥immigrants flowed in, and￥the market grew enormously.",
+   "src": "B030:23538",
+   "carry": "exact",
+   "long": "＠緑An influx of Chinese￥immigrants with strong￥business skills greatly￥expanded the black market."
+  },
+  {
+   "off": 22914,
+   "budget": 65,
+   "en": "＠緑It is even said to be larger￥than the legal market.",
+   "src": "B030:23621",
+   "carry": "exact"
+  },
+  {
+   "off": 22979,
+   "budget": 107,
+   "en": "＠緑Its customers were mainly￥mainland immigrants and￥illegal entrants, serving￥the underworld...",
+   "src": "B030:23686",
+   "carry": "exact",
+   "long": "＠緑Its customers were mainly￥immigrants from the￥continent and people who￥entered illegally, making it￥a market for the underground￥economy."
+  },
+  {
+   "off": 23086,
+   "budget": 103,
+   "en": "＠緑but lately ordinary citizens￥flock there for scale and￥low prices, hurting legal￥trade.",
+   "src": "B030:23793",
+   "carry": "exact",
+   "long": "＠緑In recent years, its size￥and low prices have also￥attracted many ordinary￥citizens, hurting the legal￥market."
+  },
+  {
+   "off": 23189,
+   "budget": 89,
+   "en": "＠緑Joy Division is Neo Kobe's￥largest black market￥district.",
+   "src": "B030:23896",
+   "carry": "exact"
+  },
+  {
+   "off": 23278,
+   "budget": 5,
+   "en": "Ways",
+   "src": "B030:23985",
+   "carry": "exact",
+   "long": "Transport"
+  },
+  {
+   "off": 23283,
+   "budget": 17,
+   "en": "Tube liner",
+   "src": "B030:23990",
+   "carry": "exact"
+  },
+  {
+   "off": 23300,
+   "budget": 29,
+   "en": "＠緑Tube Liner",
+   "src": "B030:24007",
+   "carry": "exact"
+  },
+  {
+   "off": 23329,
+   "budget": 49,
+   "en": "＠緑A superconducting￥linear-motor train.",
+   "src": "B030:24036",
+   "carry": "exact"
+  },
+  {
+   "off": 23378,
+   "budget": 105,
+   "en": "＠緑It carried the city forty￥years, then closed as the￥South became slums and auto￥traffic arrived.",
+   "src": "B030:24085",
+   "carry": "exact",
+   "long": "＠緑It served the city for forty￥years after the war, but was￥discontinued as the South￥became a slum and the￥Automated Traffic System￥took over.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 23483,
+   "budget": 115,
+   "en": "＠緑The first plan ran trains￥through near-vacuum tubes to￥cut air resistance to nearly￥zero, but...",
+   "src": "B030:24190",
+   "carry": "candidate_ok",
+   "en_candidate": "＠緑The first plan ran trains￥through near-vacuum tubes to￥cut air resistance to nearly￥zero, but...",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "＠緑The original plan called for￥trains to run through tubes￥containing almost no air,￥reducing air resistance to￥nearly zero."
+  },
+  {
+   "off": 23598,
+   "budget": 61,
+   "en": "＠緑cost and soft island ground￥kept it from being built.",
+   "src": "B030:24307",
+   "carry": "exact",
+   "long": "＠緑Rising costs and the￥artificial islands' unstable￥foundations prevented this￥from being realized."
+  },
+  {
+   "off": 23659,
+   "budget": 89,
+   "en": "＠緑The abandoned Tube Liner￥tunnels still remain beneath￥the city.",
+   "src": "B030:24368",
+   "carry": "exact"
+  },
+  {
+   "off": 23748,
+   "budget": 87,
+   "en": "＠緑Land disputes and weak￥ground left the old tube￥route untouched ever since.",
+   "src": "B030:24457",
+   "carry": "exact",
+   "long": "＠緑Land ownership issues and￥ground conditions have left￥the former Tube Liner￥network untouched."
+  },
+  {
+   "off": 23835,
+   "budget": 17,
+   "en": "Auto traffic",
+   "src": "B030:24544",
+   "carry": "exact",
+   "long": "Automatic traffic"
+  },
+  {
+   "off": 23852,
+   "budget": 29,
+   "en": "＠緑Automated Traffic System",
+   "src": "B030:24561",
+   "carry": "exact"
+  },
+  {
+   "off": 23881,
+   "budget": 117,
+   "en": "＠緑A system keeping order by￥managing every road,￥waterway and air route in￥Neo Kobe through Alphaville.",
+   "src": "B030:24590",
+   "carry": "exact",
+   "long": "＠緑This system maintains￥orderly traffic by placing￥all of Neo Kobe's roads,￥waterways, and air routes￥under Alphaville's control."
+  },
+  {
+   "off": 23998,
+   "budget": 117,
+   "en": "＠緑With advanced safety￥vehicles (ASV), road￥accidents and jams ended;￥traffic trouble is history.",
+   "src": "B030:24707",
+   "carry": "exact",
+   "long": "＠緑Combined with Advanced￥Safety Vehicles (ASVs), it￥eliminated road accidents￥and congestion, making￥traffic problems a thing of￥the past.",
+   "note": "row 1 re-wrapped at 14; 5 rows (box has 4)"
+  },
+  {
+   "off": 24115,
+   "budget": 77,
+   "en": "＠緑This comprehensive automated￥system made mass transit￥unnecessary.",
+   "src": "B030:24824",
+   "carry": "exact"
+  },
+  {
+   "off": 24192,
+   "budget": 11,
+   "en": "Black taxi",
+   "src": "B030:24901",
+   "carry": "exact"
+  },
+  {
+   "off": 24203,
+   "budget": 25,
+   "en": "＠緑Unlicensed Taxis",
+   "src": "B030:24912",
+   "carry": "exact"
+  },
+  {
+   "off": 24228,
+   "budget": 33,
+   "en": "＠緑An illegal manned taxi.",
+   "src": "B030:24937",
+   "carry": "exact",
+   "long": "＠緑Illegal taxis operated by￥human drivers."
+  },
+  {
+   "off": 24261,
+   "budget": 117,
+   "en": "＠緑'Taxi' normally means the￥unmanned, computer-run cars￥of the automatic system; but￥those need proof of",
+   "src": "B030:24970",
+   "carry": "exact",
+   "long": "＠緑Ordinary taxis are￥driverless vehicles￥controlled by the Automated￥Traffic System. Riding one￥requires proof of￥citizenship."
+  },
+  {
+   "off": 24378,
+   "budget": 97,
+   "en": "＠緑citizenship to board, serve￥only controlled zones, and￥record every pickup and￥drop-off.",
+   "src": "B030:25087",
+   "carry": "exact",
+   "long": "＠緑They operate only within the￥central information system's￥coverage area, and record￥all pickup and drop-off￥locations.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 24475,
+   "budget": 107,
+   "en": "＠緑So immigrants and illegals,￥said to top 25% of the￥people, cannot use unmanned￥taxis.",
+   "src": "B030:25184",
+   "carry": "exact",
+   "long": "＠緑Immigrants and people who￥entered illegally, said to￥account for over 25% of the￥city's population, therefore￥cannot use driverless taxis.",
+   "note": "row 1,2,3,4 re-wrapped at 14"
+  },
+  {
+   "off": 24582,
+   "budget": 115,
+   "en": "＠緑Black taxis ask no questions￥and go anywhere in the city,￥which makes them popular￥with riders.",
+   "src": "B030:25291",
+   "carry": "exact",
+   "long": "＠緑Unlicensed taxis ask no￥questions about a￥passenger's identity and can￥travel anywhere in the city,￥making them popular with￥passengers."
+  },
+  {
+   "off": 24697,
+   "budget": 95,
+   "en": "＠緑Illegal though they are,￥black taxis operate openly￥and have even organized￥themselves.",
+   "src": "B030:25406",
+   "carry": "exact",
+   "long": "＠緑Despite being illegal, these￥taxis continue to operate￥openly and have even formed￥organizations.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 24792,
+   "budget": 117,
+   "en": "＠緑The government can no longer￥ignore them. It is￥considering a new law to￥take effect next April",
+   "src": "B030:25501",
+   "carry": "exact"
+  },
+  {
+   "off": 24909,
+   "budget": 67,
+   "en": "＠緑with a view to licensing and￥legalizing them after￥review.",
+   "src": "B030:25618",
+   "carry": "exact",
+   "long": "＠緑that would legalize these￥operators by granting￥licenses after screening."
+  },
+  {
+   "off": 24976,
+   "budget": 9,
+   "en": "Culture",
+   "src": "B030:25685",
+   "carry": "exact"
+  },
+  {
+   "off": 24985,
+   "budget": 5,
+   "en": "Sci",
+   "src": "B030:25694",
+   "carry": "exact",
+   "long": "Science"
+  },
+  {
+   "off": 24990,
+   "budget": 9,
+   "en": "Space",
+   "src": "B030:25699",
+   "carry": "exact",
+   "long": "Space program"
+  },
+  {
+   "off": 24999,
+   "budget": 25,
+   "en": "＠緑Space Development",
+   "src": "B030:25708",
+   "carry": "exact"
+  },
+  {
+   "off": 25024,
+   "budget": 113,
+   "en": "＠緑Plans to send humanity to￥space arose late in the 20th￥century; worsening warming￥and biohazard...",
+   "src": "B030:25733",
+   "carry": "exact",
+   "long": "＠緑Plans to send humanity into￥space emerged in the late￥twentieth century. Rapid￥global warming, biological￥disasters, and other threats"
+  },
+  {
+   "off": 25137,
+   "budget": 57,
+   "en": "＠緑only spurred the trend on.",
+   "src": "B030:25846",
+   "carry": "exact",
+   "long": "＠緑accelerated these plans as￥Earth's environment￥deteriorated."
+  },
+  {
+   "off": 25194,
+   "budget": 101,
+   "en": "＠緑The US station Freedom and￥fusion rocketry carried￥humanity into space by great￥strides.",
+   "src": "B030:25903",
+   "carry": "exact",
+   "long": "＠緑The American space station￥Freedom and the development￥of fusion rockets brought￥major advances in humanity's￥expansion into space."
+  },
+  {
+   "off": 25295,
+   "budget": 97,
+   "en": "＠緑In 2010 the first space￥colony, Beyond Coast, was￥completed, and emigration￥became real.",
+   "src": "B030:26004",
+   "carry": "exact",
+   "long": "＠緑Humanity's first space￥colony, Beyond Coast, was￥completed in 2010, making￥settlement in space a￥reality.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 25392,
+   "budget": 85,
+   "en": "＠緑A lunar base mines helium-3￥for fusion, and Mars￥expansion is under way.",
+   "src": "B030:26101",
+   "carry": "exact",
+   "long": "＠緑A lunar base now mines￥helium-3 for nuclear fusion,￥and expansion onto Mars is￥progressing."
+  },
+  {
+   "off": 25477,
+   "budget": 11,
+   "en": "Mars log",
+   "src": "B030:26186",
+   "carry": "exact",
+   "long": "Mars Chronicles"
+  },
+  {
+   "off": 25488,
+   "budget": 37,
+   "en": "＠緑Mars Exploration Data",
+   "src": "B030:26197",
+   "carry": "exact"
+  },
+  {
+   "off": 25525,
+   "budget": 113,
+   "en": "＠緑▽August 1988: Phobos 1 and￥2 survey Mars and its moons￥Phobos and Deimos.￥(USSR)",
+   "src": "B030:26234",
+   "carry": "exact",
+   "long": "＠緑August 1988: The former￥Soviet Union's Phobos￥Project sends Phobos 1 and 2￥to survey Mars and its￥moons, Phobos and Deimos."
+  },
+  {
+   "off": 25638,
+   "budget": 105,
+   "en": "＠緑October 1989: America's Mars￥Observer probe surveys the￥planet's weather and￥geology.",
+   "src": "B030:26347",
+   "carry": "exact"
+  },
+  {
+   "off": 25743,
+   "budget": 61,
+   "en": "＠緑▽1992: Vesta program.￥Mars, asteroid and comet￥survey.",
+   "src": "B030:26452",
+   "carry": "exact",
+   "long": "＠緑1992: Project Vesta explores￥Mars, asteroids, and comets."
+  },
+  {
+   "off": 25804,
+   "budget": 83,
+   "en": "＠緑Begun by Eastern Europe, it￥passed to US support after￥the Catastrophe.",
+   "src": "B030:26513",
+   "carry": "exact",
+   "long": "＠緑Originally led by Eastern￥European nations, it￥received American support￥after the chaos of the￥Catastrophe."
+  },
+  {
+   "off": 25887,
+   "budget": 57,
+   "en": "＠緑▽2005￥Unmanned Mars robot factory￥'Wells' begun.",
+   "src": "B030:26596",
+   "carry": "exact",
+   "long": "＠緑2005: Work begins on Wells,￥an automated robot factory￥on Mars."
+  },
+  {
+   "off": 25944,
+   "budget": 37,
+   "en": "＠緑▽2012￥First manned Mars trip.",
+   "src": "B030:26653",
+   "carry": "exact",
+   "long": "＠緑2012: The first crewed￥flight to Mars."
+  },
+  {
+   "off": 25981,
+   "budget": 51,
+   "en": "＠緑▽2015￥Manned test base 'Le Guin'￥begun.",
+   "src": "B030:26690",
+   "carry": "exact",
+   "long": "＠緑2015: Work begins on Le￥Guin, a crewed experimental￥base."
+  },
+  {
+   "off": 26032,
+   "budget": 51,
+   "en": "＠緑▽2022￥Mars spaceport 'McCaffrey'￥begun.",
+   "src": "B030:26741",
+   "carry": "exact",
+   "long": "＠緑2022: Work begins on￥McCaffrey Spaceport on Mars."
+  },
+  {
+   "off": 26083,
+   "budget": 53,
+   "en": "＠緑2025: Dick, the first Mars￥base, is completed.",
+   "src": "B030:26792",
+   "carry": "exact"
+  },
+  {
+   "off": 26136,
+   "budget": 57,
+   "en": "＠緑▽2030￥Full-scale base 'Burroughs'￥opens.",
+   "src": "B030:26845",
+   "carry": "exact",
+   "long": "＠緑2030: Burroughs, a￥full-scale Mars base, begins￥operations."
+  },
+  {
+   "off": 26193,
+   "budget": 51,
+   "en": "＠緑▽2035￥First Mars mine 'Asimov'￥opens.",
+   "src": "B030:26902",
+   "carry": "exact",
+   "long": "＠緑2035: Asimov, the first mine￥on Mars, begins operations."
+  },
+  {
+   "off": 26244,
+   "budget": 13,
+   "en": "Terraforming",
+   "src": "B030:26953",
+   "carry": "exact"
+  },
+  {
+   "off": 26257,
+   "budget": 27,
+   "en": "＠緑 'Mars Greening Plan'",
+   "src": "B030:26966",
+   "carry": "exact",
+   "long": "＠緑Mars Terraforming Project"
+  },
+  {
+   "off": 26284,
+   "budget": 71,
+   "en": "＠緑A plan to transform barren￥Mars into a green world like￥Earth.",
+   "src": "B030:26993",
+   "carry": "exact"
+  },
+  {
+   "off": 26355,
+   "budget": 111,
+   "en": "＠緑First, orbital mirrors raise￥the sunlight reaching the￥ground, while greenhouse gas￥is spread...",
+   "src": "B030:27064",
+   "carry": "exact",
+   "long": "＠緑First, orbital mirrors will￥increase the sunlight￥reaching the surface, while￥greenhouse gases are￥released on the ground"
+  },
+  {
+   "off": 26466,
+   "budget": 61,
+   "en": "＠緑warming Mars until yeasts￥and bacteria can survive.",
+   "src": "B030:27175",
+   "carry": "exact",
+   "long": "＠緑to warm Mars enough for￥yeast and bacteria to￥survive."
+  },
+  {
+   "off": 26527,
+   "budget": 85,
+   "en": "＠緑Then the oxygen those￥organisms give off makes￥room for higher life.",
+   "src": "B030:27236",
+   "carry": "exact",
+   "long": "＠緑The oxygen produced by these￥organisms would then allow￥more complex life to￥survive."
+  },
+  {
+   "off": 26612,
+   "budget": 113,
+   "en": "＠緑Vast frozen water found￥underground by the Mars￥bases suddenly made the plan￥look practical.",
+   "src": "B030:27321",
+   "carry": "exact",
+   "long": "＠緑Surveys from the Mars bases￥revealed vast reserves of￥underground ice, suddenly￥making the project seem￥feasible."
+  },
+  {
+   "off": 26725,
+   "budget": 111,
+   "en": "＠緑It proceeds under the￥slogans 'green land from a￥red planet' and 'the new￥Mars colony'. First...",
+   "src": "B030:27434",
+   "carry": "exact",
+   "long": "＠緑The project is proceeding￥under the slogans \"Turn the￥Red Planet Green\" and \"Mars:￥A New Colony.\" Its first￥phase"
+  },
+  {
+   "off": 26836,
+   "budget": 53,
+   "en": "＠緑will install solar mirrors￥in 2045.",
+   "src": "B030:27545",
+   "carry": "exact"
+  },
+  {
+   "off": 26889,
+   "budget": 87,
+   "en": "＠緑The Beagle Jerusalem￥recently launched carrying￥the first Mars survey￥settlers.",
+   "src": "B030:27598",
+   "carry": "exact",
+   "long": "＠緑The Beagle Jerusalem￥recently launched with the￥first group of surveyors and￥settlers bound for Mars.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 26976,
+   "budget": 13,
+   "en": "Bio-comm",
+   "src": "B030:27685",
+   "carry": "exact",
+   "long": "Biocommunication"
+  },
+  {
+   "off": 26989,
+   "budget": 33,
+   "en": "＠緑Biocommunication",
+   "src": "B030:27698",
+   "carry": "exact"
+  },
+  {
+   "off": 27022,
+   "budget": 107,
+   "en": "＠緑Wordless communication, by￥detecting an organism's￥chemical signals and turning￥them into data.",
+   "src": "B030:27731",
+   "carry": "exact",
+   "long": "＠緑Communication without￥language, using machines to￥detect biological responses￥such as chemicals released￥by living organisms and￥convert them into signals."
+  },
+  {
+   "off": 27129,
+   "budget": 117,
+   "en": "＠緑It may eventually allow￥humans to communicate with￥other species. For now,￥ethical concerns restrict it",
+   "src": "B030:27838",
+   "carry": "exact"
+  },
+  {
+   "off": 27246,
+   "budget": 85,
+   "en": "＠緑observing and studying them.￥As for consciousness in￥vertebrates...",
+   "src": "B030:27955",
+   "carry": "exact",
+   "long": "＠緑to one-way observation and￥study of other organisms by￥humans. Consciousness in￥vertebrates"
+  },
+  {
+   "off": 27331,
+   "budget": 101,
+   "en": "＠緑together with PET scans of￥brain activity, we are￥coming close to￥understanding it.",
+   "src": "B030:28040",
+   "carry": "exact",
+   "long": "＠緑is now close to being￥understood, thanks also to￥studies of brain activity￥using PET (positron emission￥tomography)."
+  },
+  {
+   "off": 27432,
+   "budget": 17,
+   "en": "Dream coder",
+   "src": "B030:28141",
+   "carry": "exact"
+  },
+  {
+   "off": 27449,
+   "budget": 29,
+   "en": "＠緑Dream Coder",
+   "src": "B030:28158",
+   "carry": "exact"
+  },
+  {
+   "off": 27478,
+   "budget": 93,
+   "en": "＠緑A device recording dreams￥from brainwaves, rendering￥sight, sound, taste and￥touch.",
+   "src": "B030:28187",
+   "carry": "exact",
+   "long": "＠緑A device that records￥dreams. It uses brainwave￥signals and other data to￥reconstruct and record￥sights, sounds, tastes,￥touch, and other sensations."
+  },
+  {
+   "off": 27571,
+   "budget": 67,
+   "en": "＠緑Only qualified analysts or￥counselors may play them￥back.",
+   "src": "B030:28280",
+   "carry": "exact",
+   "long": "＠緑Only qualified￥psychoanalysts or counselors￥may play these recordings￥back."
+  },
+  {
+   "off": 27638,
+   "budget": 51,
+   "en": "＠緑They are not yet accepted as￥legal evidence.",
+   "src": "B030:28347",
+   "carry": "exact",
+   "long": "＠緑They are not currently￥admissible as legal￥evidence."
+  },
+  {
+   "off": 27689,
+   "budget": 15,
+   "en": "Culture, sport",
+   "src": "B030:28398",
+   "carry": "exact"
+  },
+  {
+   "off": 27704,
+   "budget": 13,
+   "en": "Bio zoo",
+   "src": "B030:28413",
+   "carry": "exact"
+  },
+  {
+   "off": 27717,
+   "budget": 27,
+   "en": "＠緑Bio Zoo",
+   "src": "B030:28426",
+   "carry": "exact"
+  },
+  {
+   "off": 27744,
+   "budget": 81,
+   "en": "＠緑A living gene museum of￥spliced rarities and￥protected extinct species.",
+   "src": "B030:28453",
+   "carry": "exact",
+   "long": "＠緑A living museum of genes,￥housing protected animals,￥including genetically￥engineered creatures and￥revived extinct species."
+  },
+  {
+   "off": 27825,
+   "budget": 113,
+   "en": "＠緑Built by the IUCN to￥protect, revive and breed￥endangered mammals and￥birds.",
+   "src": "B030:28534",
+   "carry": "exact",
+   "long": "＠緑The International Union for￥Conservation of Nature￥(IUCN) established it to￥protect, restore, and breed￥endangered mammals, birds,￥and other animals."
+  },
+  {
+   "off": 27938,
+   "budget": 73,
+   "en": "＠緑Besides live animals it￥keeps frozen genes of every￥species.",
+   "src": "B030:28647",
+   "carry": "exact",
+   "long": "＠緑Besides keeping live￥animals, it also preserves￥frozen genetic material from￥all kinds of species."
+  },
+  {
+   "off": 28011,
+   "budget": 75,
+   "en": "＠緑In '42 a baby unicorn was￥born (a natural birth),￥making headlines.",
+   "src": "B030:28720",
+   "carry": "exact",
+   "long": "＠緑The successful natural birth￥of a baby unicorn in 2042￥drew widespread attention.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 28086,
+   "budget": 75,
+   "en": "＠緑The baby unicorn has also￥become Neo Kobe's mascot.",
+   "src": "B030:28795",
+   "carry": "exact"
+  },
+  {
+   "off": 28161,
+   "budget": 17,
+   "en": "Robo musical",
+   "src": "B030:28870",
+   "carry": "exact"
+  },
+  {
+   "off": 28178,
+   "budget": 29,
+   "en": "＠緑Robot Musicals",
+   "src": "B030:28887",
+   "carry": "exact"
+  },
+  {
+   "off": 28207,
+   "budget": 49,
+   "en": "＠緑Musicals performed by￥humanoid robots.",
+   "src": "B030:28916",
+   "carry": "exact"
+  },
+  {
+   "off": 28256,
+   "budget": 97,
+   "en": "＠緑Faces and movement are￥sampled from real actors, so￥the acting is￥indistinguishable.",
+   "src": "B030:28965",
+   "carry": "exact",
+   "long": "＠緑Their expressions and￥movements are sampled from￥real actors, making their￥performances￥indistinguishable from the￥originals."
+  },
+  {
+   "off": 28353,
+   "budget": 109,
+   "en": "＠緑Their appeal is that any￥actor's performance can be￥reproduced exactly, as many￥times as you like.",
+   "src": "B030:29062",
+   "carry": "exact",
+   "long": "＠緑Their popularity comes from￥the ability to recreate￥various actors' performances￥perfectly, time after time."
+  },
+  {
+   "off": 28462,
+   "budget": 109,
+   "en": "＠緑Changing the software￥changes the play; lately￥kabuki and noh software have￥drawn crowds too.",
+   "src": "B030:29171",
+   "carry": "exact",
+   "long": "＠緑Changing the software lets￥them perform different￥shows. Programs for￥traditional arts such as￥kabuki and noh have recently￥become popular."
+  },
+  {
+   "off": 28571,
+   "budget": 89,
+   "en": "＠緑Since old masters' acting￥and dancing revive, elderly￥fans support it too.",
+   "src": "B030:29280",
+   "carry": "exact",
+   "long": "＠緑They can also recreate the￥acting and dancing of past￥stars, winning support from￥older theater fans."
+  },
+  {
+   "off": 28660,
+   "budget": 87,
+   "en": "＠緑As of 2042, The Phantom of￥the Opera continues its long￥run.",
+   "src": "B030:29369",
+   "carry": "exact"
+  },
+  {
+   "off": 28747,
+   "budget": 17,
+   "en": "Pochette pet",
+   "src": "B030:29456",
+   "carry": "exact"
+  },
+  {
+   "off": 28764,
+   "budget": 29,
+   "en": "＠緑Purse Pets",
+   "src": "B030:29473",
+   "carry": "exact"
+  },
+  {
+   "off": 28793,
+   "budget": 59,
+   "en": "＠緑A pet bred from marsupials￥that doubles as a bag.",
+   "src": "B030:29502",
+   "carry": "exact",
+   "long": "＠緑Pets developed from modified￥marsupials that can also￥serve as purses."
+  },
+  {
+   "off": 28852,
+   "budget": 83,
+   "en": "＠緑Adding bag duty to a pet￥made it a huge hit in the￥2040s.",
+   "src": "B030:29561",
+   "carry": "exact",
+   "long": "＠緑The added usefulness of a￥pet that doubles as a bag￥made them a major hit in the￥2040s."
+  },
+  {
+   "off": 28935,
+   "budget": 113,
+   "en": "＠緑It first appeared in a￥commercial for another￥purpose; the press seized on￥it and a boom followed.",
+   "src": "B030:29644",
+   "carry": "exact",
+   "long": "＠緑They first appeared in a￥commercial for a different￥purpose. Media attention￥then sparked a huge craze￥for Purse Pets."
+  },
+  {
+   "off": 29048,
+   "budget": 71,
+   "en": "＠緑Several firms clashed then￥over the pochette pet￥copyright.",
+   "src": "B030:29757",
+   "carry": "exact",
+   "long": "＠緑Several companies disputed￥the copyright to Purse Pets￥at the time."
+  },
+  {
+   "off": 29119,
+   "budget": 69,
+   "en": "＠緑An animal welfare complaint￥in '41 cooled the craze.",
+   "src": "B030:29828",
+   "carry": "exact",
+   "long": "＠緑Complaints from an animal￥welfare association in 2041￥briefly dampened their￥popularity."
+  },
+  {
+   "off": 29188,
+   "budget": 11,
+   "en": "Kobe-yaki",
+   "src": "B030:29897",
+   "carry": "exact"
+  },
+  {
+   "off": 29199,
+   "budget": 25,
+   "en": "＠緑Kobe Yaki",
+   "src": "B030:29908",
+   "carry": "exact"
+  },
+  {
+   "off": 29224,
+   "budget": 77,
+   "en": "＠緑A dish born when a student￥dropped okonomiyaki filling￥into broth.",
+   "src": "B030:29933",
+   "carry": "exact",
+   "long": "＠緑A dish invented when a￥student dropped okonomiyaki￥ingredients into broth."
+  },
+  {
+   "off": 29301,
+   "budget": 71,
+   "en": "＠緑The name plays on how it￥floats up in the broth, and￥Neo Kobe.",
+   "src": "B030:30010",
+   "carry": "exact",
+   "long": "＠緑The name comes from the way￥the ingredients float to the￥surface, resembling Neo￥Kobe's islands."
+  },
+  {
+   "off": 29372,
+   "budget": 65,
+   "en": "＠緑Countless varieties exist,￥according to what is put￥inside.",
+   "src": "B030:30081",
+   "carry": "exact",
+   "long": "＠緑Countless varieties of Kobe￥Yaki exist, depending on the￥ingredients used.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 29437,
+   "budget": 73,
+   "en": "＠緑It is now popular nationwide￥as a new addition to Kansai￥cuisine.",
+   "src": "B030:30146",
+   "carry": "exact"
+  },
+  {
+   "off": 29510,
+   "budget": 9,
+   "en": "Retina",
+   "src": "B030:30219",
+   "carry": "exact",
+   "long": "Retina Reading"
+  },
+  {
+   "off": 29519,
+   "budget": 25,
+   "en": "＠緑'Retina Reading'",
+   "src": "B030:30228",
+   "carry": "exact",
+   "long": "＠緑Retinal Fortune-Telling"
+  },
+  {
+   "off": 29544,
+   "budget": 73,
+   "en": "＠緑New high-tech fortune￥telling: fate read from the￥retina pattern.",
+   "src": "B030:30253",
+   "carry": "exact",
+   "long": "＠緑A new form of high-tech￥fortune-telling that reads a￥person's retinal pattern.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 29617,
+   "budget": 71,
+   "en": "＠緑Like fingerprints and voice,￥retinal patterns differ.",
+   "src": "B030:30326",
+   "carry": "exact",
+   "long": "＠緑It is based on the fact that￥retinal patterns, like￥fingerprints and￥voiceprints, are unique to￥each individual."
+  },
+  {
+   "off": 29688,
+   "budget": 17,
+   "en": "Aero surfing",
+   "src": "B030:30397",
+   "carry": "exact"
+  },
+  {
+   "off": 29705,
+   "budget": 29,
+   "en": "＠緑Aero Surfing",
+   "src": "B030:30414",
+   "carry": "exact"
+  },
+  {
+   "off": 29734,
+   "budget": 49,
+   "en": "＠緑A sport wildly popular with￥the young.",
+   "src": "B030:30443",
+   "carry": "exact",
+   "long": "＠緑A sport that has become￥enormously popular among￥young people."
+  },
+  {
+   "off": 29783,
+   "budget": 105,
+   "en": "＠緑With the sea polluted, a new￥surfing built on￥aerodynamics captured the￥city's surfers.",
+   "src": "B030:30492",
+   "carry": "candidate_ok",
+   "en_candidate": "＠緑With the sea polluted, a new￥surfing built on￥aerodynamics captured the￥city's surfers.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "＠緑With the city's seas￥polluted, this new form of￥surfing based on￥aerodynamics has excited a￥new generation of surfers."
+  },
+  {
+   "off": 29888,
+   "budget": 111,
+   "en": "＠緑Aero surfing needs only￥protectors, an air surfboard￥and a simple air wave system￥to enjoy,",
+   "src": "B030:30599",
+   "carry": "exact",
+   "long": "＠緑All it takes is protective￥gear, an air surfboard, and￥a simple airwave generator,￥called an Air Wave System,",
+   "note": "row 2,3,4 re-wrapped at 14"
+  },
+  {
+   "off": 29999,
+   "budget": 67,
+   "en": "＠緑so it caught on hardest￥among the young of the￥slums.",
+   "src": "B030:30710",
+   "carry": "exact",
+   "long": "＠緑making it easy to enjoy and￥especially popular among￥young people in the slums."
+  },
+  {
+   "off": 30066,
+   "budget": 93,
+   "en": "＠緑Wave height is controlled￥and it runs all year, so￥meets are held everywhere.",
+   "src": "B030:30777",
+   "carry": "exact",
+   "long": "＠緑Wave height can be freely￥adjusted, and it can be￥enjoyed all year, so￥competitions are held all￥over."
+  },
+  {
+   "off": 30159,
+   "budget": 17,
+   "en": "Dragon Force",
+   "src": "B030:30870",
+   "carry": "exact"
+  },
+  {
+   "off": 30176,
+   "budget": 29,
+   "en": "＠緑Dragon Force",
+   "src": "B030:30887",
+   "carry": "exact"
+  },
+  {
+   "off": 30205,
+   "budget": 77,
+   "en": "＠緑A sport riding the winged￥dragon horse, created by￥gene splicing.",
+   "src": "B030:30916",
+   "carry": "exact",
+   "long": "＠緑A sport involving riding￥genetically engineered￥winged horses called Dragon￥Horses."
+  },
+  {
+   "off": 30282,
+   "budget": 77,
+   "en": "＠緑A high-society sport from￥Britain, judged on glide￥range and time.",
+   "src": "B030:30993",
+   "carry": "exact",
+   "long": "＠緑Imported from Britain, this￥upper-class sport tests￥gliding distance and time￥aloft."
+  },
+  {
+   "off": 30359,
+   "budget": 89,
+   "en": "＠緑The dragon horse is￥pony-sized and flies some 40￥to 70 meters.",
+   "src": "B030:31070",
+   "carry": "exact",
+   "long": "＠緑Dragon Horses are about the￥size of small ponies and can￥fly roughly 40 to 70 meters."
+  },
+  {
+   "off": 30448,
+   "budget": 71,
+   "en": "＠緑Neo Kobe's first official￥meet was held offshore in￥'40.",
+   "src": "B030:31159",
+   "carry": "exact",
+   "long": "＠緑Neo Kobe's first official￥competition was held at an￥offshore facility in 2040."
+  },
+  {
+   "off": 30519,
+   "budget": 117,
+   "en": "＠緑The first meet's official￥record: 82 meters, 30￥seconds, by invited foreign￥horse Oracion Highlander.",
+   "src": "B030:31230",
+   "carry": "exact",
+   "long": "＠緑The inaugural winner flew 82￥meters in 30 seconds. It was￥a visiting horse from￥abroad, of the Oracion￥Highlander breed.",
+   "note": "row 1 re-wrapped at 14; 5 rows (box has 4)"
+  },
+  {
+   "off": 30636,
+   "budget": 5,
+   "en": "Rule",
+   "src": "B030:31347",
+   "carry": "exact",
+   "long": "Politics"
+  },
+  {
+   "off": 30641,
+   "budget": 15,
+   "en": "Isolation",
+   "src": "B030:31352",
+   "carry": "exact",
+   "long": "City isolation"
+  },
+  {
+   "off": 30656,
+   "budget": 27,
+   "en": "＠緑City Quarantine Policy",
+   "src": "B030:31367",
+   "carry": "exact"
+  },
+  {
+   "off": 30683,
+   "budget": 101,
+   "en": "＠緑Alarmed by Snatcher￥infiltration, the government￥designated Neo Kobe City a￥contaminated area.",
+   "src": "B030:31394",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 30784,
+   "budget": 87,
+   "en": "＠緑The cabinet ordered all land￥and sea routes closed except￥for Neo Kobe Bridge.",
+   "src": "B030:31497",
+   "carry": "exact"
+  },
+  {
+   "off": 30871,
+   "budget": 51,
+   "en": "＠緑The policy took effect on￥December 1, 2042.",
+   "src": "B030:31584",
+   "carry": "exact"
+  },
+  {
+   "off": 30922,
+   "budget": 83,
+   "en": "＠緑Spread to other regions was￥stopped, but the city's￥isolation deepened.",
+   "src": "B030:31635",
+   "carry": "exact",
+   "long": "＠緑This prevented Snatchers￥from spreading elsewhere but￥deepened the city's￥isolation."
+  },
+  {
+   "off": 31005,
+   "budget": 81,
+   "en": "＠緑No lasting solution to the￥Snatcher problem has yet￥been found.",
+   "src": "B030:31718",
+   "carry": "exact"
+  },
+  {
+   "off": 31086,
+   "budget": 9,
+   "en": "Divide",
+   "src": "B030:31799",
+   "carry": "exact",
+   "long": "North-South Divide"
+  },
+  {
+   "off": 31095,
+   "budget": 25,
+   "en": "＠緑'North-South Divide'",
+   "src": "B030:31808",
+   "carry": "exact",
+   "long": "＠緑The North-South Divide"
+  },
+  {
+   "off": 31120,
+   "budget": 117,
+   "en": "＠緑Since the 2020 Multi-Ethnic￥City Declaration, many￥peoples have settled in Neo￥Kobe, which inevitably...",
+   "src": "B030:31833",
+   "carry": "exact",
+   "long": "＠緑Since its 2020 declaration￥as a multiethnic city, Neo￥Kobe has attracted￥immigrants of many￥ethnicities and races."
+  },
+  {
+   "off": 31237,
+   "budget": 47,
+   "en": "＠緑split society and bred a￥rich- poor gap.",
+   "src": "B030:31950",
+   "carry": "exact",
+   "long": "＠緑This inevitably divided￥society and created a gap￥between rich and poor."
+  },
+  {
+   "off": 31284,
+   "budget": 117,
+   "en": "＠緑Wealthy old residents live￥by the government district￥north; poor newcomers took￥the southern districts.",
+   "src": "B030:31997",
+   "carry": "exact",
+   "long": "＠緑Wealthy, established￥residents live mainly around￥the government district in￥the North. Poor newcomers￥settled in the newer areas￥of the South."
+  },
+  {
+   "off": 31401,
+   "budget": 79,
+   "en": "＠緑The migrants who poured in￥after the Catastrophe drove￥this further.",
+   "src": "B030:32114",
+   "carry": "exact",
+   "long": "＠緑The large influx of￥immigrants after the￥Catastrophe accelerated this￥trend."
+  },
+  {
+   "off": 31480,
+   "budget": 111,
+   "en": "＠緑They built an underground￥society, dividing the city￥into two separate societies:￥North and South.",
+   "src": "B030:32193",
+   "carry": "exact"
+  },
+  {
+   "off": 31591,
+   "budget": 9,
+   "en": "Freemen",
+   "src": "B030:32304",
+   "carry": "exact"
+  },
+  {
+   "off": 31600,
+   "budget": 25,
+   "en": "＠緑Freemen",
+   "src": "B030:32313",
+   "carry": "exact"
+  },
+  {
+   "off": 31625,
+   "budget": 103,
+   "en": "＠緑Homeless who live with their￥personal data erased from￥state and communal￥databanks.",
+   "src": "B030:32338",
+   "carry": "exact",
+   "long": "＠緑Homeless people, also called￥Freemen, who erase their￥personal data from national￥and community databases."
+  },
+  {
+   "off": 31728,
+   "budget": 109,
+   "en": "＠緑In this information age,￥erasing that data denies￥your very social existence,￥and their numbers...",
+   "src": "B030:32441",
+   "carry": "exact",
+   "long": "＠緑In today's highly￥computerized society,￥deleting personal records￥means giving up one's social￥identity. The growing number￥of Freemen"
+  },
+  {
+   "off": 31837,
+   "budget": 59,
+   "en": "＠緑weigh on public order and￥labour in places.",
+   "src": "B030:32550",
+   "carry": "exact",
+   "long": "＠緑has caused serious problems￥in some areas, particularly￥for public safety and￥employment."
+  },
+  {
+   "off": 31896,
+   "budget": 117,
+   "en": "＠緑Many Freemen formerly worked￥in computer networking,￥making this a new problem of￥the information age.",
+   "src": "B030:32609",
+   "carry": "exact"
+  },
+  {
+   "off": 32013,
+   "budget": 81,
+   "en": "＠緑Freemen settle outside the￥data zones, or below in the￥old tube route.",
+   "src": "B030:32726",
+   "carry": "exact",
+   "long": "＠緑Many live outside the city's￥information network or￥underground in the abandoned￥Tube Liner tunnels."
+  },
+  {
+   "off": 32094,
+   "budget": 9,
+   "en": "Migrants",
+   "src": "B030:32807",
+   "carry": "exact",
+   "long": "Migration Problem"
+  },
+  {
+   "off": 32103,
+   "budget": 25,
+   "en": "＠緑Immigration",
+   "src": "B030:32816",
+   "carry": "exact"
+  },
+  {
+   "off": 32128,
+   "budget": 95,
+   "en": "＠緑The Catastrophe drove￥Eurasians from their land,￥and mass migration became a￥problem.",
+   "src": "B030:32841",
+   "carry": "exact",
+   "long": "＠緑Eurasians who lost their￥homes in the Catastrophe￥fled abroad, creating a mass￥immigration crisis."
+  },
+  {
+   "off": 32223,
+   "budget": 81,
+   "en": "＠緑Chinese migrants were most￥numerous: 100,000 entered￥Japan in five waves.",
+   "src": "B030:32936",
+   "carry": "exact",
+   "long": "＠緑Chinese immigrants were￥particularly numerous. A￥total of 100,000 arrived in￥Japan in five waves."
+  },
+  {
+   "off": 32304,
+   "budget": 107,
+   "en": "＠緑Japan sent most of those￥accepted to Neo Kobe City,￥then styled a multi-ethnic￥city.",
+   "src": "B030:33017",
+   "carry": "exact",
+   "long": "＠緑The Japanese government￥concentrated most of the￥immigrants it accepted in￥Neo Kobe, which was￥promoting itself as a￥multiethnic city."
+  },
+  {
+   "off": 32411,
+   "budget": 109,
+   "en": "＠緑So the Chinese became second￥only to the Japanese, but￥their living standard was￥low, and most...",
+   "src": "B030:33124",
+   "carry": "exact",
+   "long": "＠緑As a result, the Chinese￥became the city's￥second-largest population￥group after the Japanese.￥Their living standards￥remain low, and most"
+  },
+  {
+   "off": 32520,
+   "budget": 53,
+   "en": "＠緑were forced to live in the￥southern slums.",
+   "src": "B030:33233",
+   "carry": "exact",
+   "long": "＠緑have no choice but to live￥in the southern slums."
+  },
+  {
+   "off": 32573,
+   "budget": 113,
+   "en": "＠緑Many Chinese migrants resent￥this; most became an￥underground force, beyond￥official reach.",
+   "src": "B030:33286",
+   "carry": "exact",
+   "long": "＠緑Many Chinese immigrants￥resent this situation. Most￥have joined underground￥groups, forming a society￥beyond the authorities'￥reach."
+  },
+  {
+   "off": 32686,
+   "budget": 17,
+   "en": "Kyoto Summit",
+   "src": "B030:33399",
+   "carry": "exact"
+  },
+  {
+   "off": 32703,
+   "budget": 29,
+   "en": "＠緑Kyoto Summit",
+   "src": "B030:33416",
+   "carry": "exact"
+  },
+  {
+   "off": 32732,
+   "budget": 71,
+   "en": "＠緑A summit of leading nations,￥held in Kyoto in December￥2042.",
+   "src": "B030:33445",
+   "carry": "exact",
+   "long": "＠緑A summit of industrialized￥nations' leaders scheduled￥for December 2042 in Kyoto."
+  },
+  {
+   "off": 32803,
+   "budget": 113,
+   "en": "＠緑Its theme is resource rights￥in the Siberian neutral￥zone, but the press is loud￥about the Snatcher item.",
+   "src": "B030:33516",
+   "carry": "exact",
+   "long": "＠緑Its main topic is ownership￥of resources in the Siberian￥Neutral Zone, but the￥inclusion of the Snatcher￥problem has attracted media￥attention.",
+   "note": "row 1 re-wrapped at 14"
+  },
+  {
+   "off": 32916,
+   "budget": 115,
+   "en": "＠緑Snatcher infection draws￥worldwide attention, yet￥none has been sighted￥outside Neo Kobe...",
+   "src": "B030:33629",
+   "carry": "exact",
+   "long": "＠緑Snatcher infiltration has￥drawn worldwide attention,￥although no Snatchers have￥been sighted outside Neo￥Kobe."
+  },
+  {
+   "off": 33031,
+   "budget": 77,
+   "en": "＠緑so talks are expected on￥preventing any spread beyond￥the city.",
+   "src": "B030:33744",
+   "carry": "exact",
+   "long": "＠緑The summit is expected to￥consider ways to prevent￥them from leaving the city."
+  },
+  {
+   "off": 33108,
+   "budget": 103,
+   "en": "＠緑Attention soared when the￥French premier said the city￥should be wiped out by￥nuclear strike.",
+   "src": "B030:33821",
+   "carry": "exact",
+   "long": "＠緑Interest in the summit￥surged after the French￥prime minister called for￥the city's destruction with￥nuclear weapons."
+  },
+  {
+   "off": 33211,
+   "budget": 15,
+   "en": "Free zones",
+   "src": "B030:33924",
+   "carry": "exact",
+   "long": "Uncensored areas"
+  },
+  {
+   "off": 33226,
+   "budget": 27,
+   "en": "  ＠緑Uncensored areas",
+   "src": "B030:33939",
+   "carry": "exact",
+   "long": "＠緑Districts Outside the￥Information Network"
+  },
+  {
+   "off": 33253,
+   "budget": 107,
+   "en": "＠緑Neo Kobe divides into￥data-managed zones of fibre￥and satellite and slums￥outside them.",
+   "src": "B030:33966",
+   "carry": "exact",
+   "long": "＠緑Neo Kobe is divided into￥districts managed through￥fiber-optic and satellite￥networks, and slum areas￥outside that system."
+  },
+  {
+   "off": 33360,
+   "budget": 77,
+   "en": "＠緑Those without proof of￥identity gather beyond the￥data net.",
+   "src": "B030:34073",
+   "carry": "exact",
+   "long": "＠緑People unable to obtain￥identification or have their￥identity verified inevitably￥gather outside the managed￥districts."
+  },
+  {
+   "off": 33437,
+   "budget": 81,
+   "en": "＠緑No cards can be used there.￥Cash is the only accepted￥form of payment.",
+   "src": "B030:34150",
+   "carry": "exact"
+  },
+  {
+   "off": 33518,
+   "budget": 117,
+   "en": "＠緑The city has filed bills for￥years to clear these￥districts, but for many￥reasons none has passed.",
+   "src": "B030:34231",
+   "carry": "exact",
+   "long": "＠緑For several years, the city￥has proposed legislation to￥clear these areas, but￥various obstacles have kept￥it from passing."
+  },
+  {
+   "off": 33635,
+   "budget": 73,
+   "en": "＠緑In fact nearly 30% of the￥city is outside data￥control.",
+   "src": "B030:34348",
+   "carry": "exact",
+   "long": "＠緑Nearly 30% of the city is￥officially classified as￥outside the information￥network."
+  },
+  {
+   "off": 33708,
+   "budget": 59,
+   "en": "＠緑With candidate areas not yet￥named, it reaches 40%.",
+   "src": "B030:34421",
+   "carry": "exact",
+   "long": "＠緑Including areas awaiting￥classification brings the￥total to 40%."
+  },
+  {
+   "off": 33767,
+   "budget": 37,
+   "en": "Let's play with the montage, then.",
+   "src": "B030:34480",
+   "carry": "exact",
+   "long": "Let's have some fun with the￥composite portrait system."
+  },
+  {
+   "off": 33804,
+   "budget": 45,
+   "en": "But... the montage cannot be￥matched.",
+   "src": "B030:34517",
+   "carry": "exact",
+   "long": "You won't be able to search for a￥match, though."
+  },
+  {
+   "off": 33849,
+   "budget": 45,
+   "en": "Let's create a composite portrait.",
+   "src": "B030:34562",
+   "carry": "exact"
+  },
+  {
+   "off": 33894,
+   "budget": 69,
+   "en": "The montage you create can be￥searched with the 'Match' command.",
+   "src": "B030:34607",
+   "carry": "exact",
+   "long": "Use the \"Match\" command to search￥for someone matching your portrait."
+  },
+  {
+   "off": 33963,
+   "budget": 11,
+   "en": "Stop",
+   "src": "B030:34676",
+   "carry": "exact",
+   "long": "Quit montage"
+  },
+  {
+   "off": 33974,
+   "budget": 9,
+   "en": "Match",
+   "src": "B030:34687",
+   "carry": "exact"
+  },
+  {
+   "off": 33983,
+   "budget": 33,
+   "en": "＠赤SEARCHING FILES＠Ｃ",
+   "src": "B030:34696",
+   "carry": "exact"
+  },
+  {
+   "off": 34016,
+   "budget": 61,
+   "en": "＠緑Matching the montage against￥＠赤Alphaville＠緑.",
+   "src": "B030:34729",
+   "carry": "exact",
+   "long": "＠緑Checking your composite￥portrait against￥＠赤Alphaville's＠緑 records."
+  },
+  {
+   "off": 34077,
+   "budget": 33,
+   "en": "＠黄MATCH FOUND＠Ｃ",
+   "src": "B030:34790",
+   "carry": "exact"
+  },
+  {
+   "off": 34110,
+   "budget": 15,
+   "en": "We did it!",
+   "src": "B030:34823",
+   "carry": "exact"
+  },
+  {
+   "off": 34125,
+   "budget": 29,
+   "en": "You did it!ω Gillian!",
+   "src": "B030:34838",
+   "carry": "candidate_edit",
+   "en_candidate": "You did it, Gillian!",
+   "sim": 0.96,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the exclamation as in the jp; re-adapted 2026-09-30: new PS1 wording, ω kept after !"
+  },
+  {
+   "off": 34154,
+   "budget": 41,
+   "en": "＠緑2 persons match the montage￥photo.",
+   "src": "B030:34865",
+   "carry": "exact",
+   "long": "＠緑Two people match the￥composite portrait."
+  },
+  {
+   "off": 34195,
+   "budget": 29,
+   "en": "＠緑 First, a 70% match",
+   "src": "B030:34906",
+   "carry": "exact",
+   "long": "＠緑First match: 70% similarity."
+  },
+  {
+   "off": 34224,
+   "budget": 29,
+   "en": "＠緑Ivan Rodriguez",
+   "src": "B030:34935",
+   "carry": "exact"
+  },
+  {
+   "off": 34253,
+   "budget": 63,
+   "en": "＠緑Amateur aero surfer.￥Age: 27.",
+   "src": "B030:34964",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑Amateur air surfer. Age: 27.",
+   "sim": 0.97,
+   "note": "re-adapted 2026-09-30: Saturn's 'aero' kept; new PS1 format"
+  },
+  {
+   "off": 34316,
+   "budget": 91,
+   "en": "＠緑▽Address: SN district,￥South Itayado 5-22 (outside￥data control)￥▽Family: none",
+   "src": "B030:35027",
+   "carry": "exact",
+   "long": "＠緑Address: 5-22 South Itayado,￥SN District. Note: outside￥the information network.￥Family: none."
+  },
+  {
+   "off": 34407,
+   "budget": 29,
+   "en": "＠緑 Second, 65% match",
+   "src": "B030:35118",
+   "carry": "exact",
+   "long": "＠緑Second match: 65%￥similarity."
+  },
+  {
+   "off": 34436,
+   "budget": 31,
+   "en": "＠緑Freddy Nielsen",
+   "src": "B030:35147",
+   "carry": "exact"
+  },
+  {
+   "off": 34467,
+   "budget": 65,
+   "en": "＠緑Independent taxi driver.￥Age: 29.",
+   "src": "B030:35178",
+   "carry": "exact"
+  },
+  {
+   "off": 34532,
+   "budget": 95,
+   "en": "＠緑Address: Domitle Okamoto,￥Apartment 202, 3-7 New￥Okamoto, MR District.￥Family: wife, Lisa, age 25.",
+   "src": "B030:35243",
+   "carry": "candidate_edit",
+   "en_candidate": "＠緑▽Address: MR dist., New￥Okamoto 3-78, Domitle￥Okamoto 202￥▽Family: wife Lisa, 25.",
+   "sim": 0.99,
+   "note": "re-adapted 2026-09-30: own address 3-7 kept; new PS1 long"
+  },
+  {
+   "off": 34627,
+   "budget": 45,
+   "en": "＠緑Printing the composite￥portrait.",
+   "src": "B030:35340",
+   "carry": "exact"
+  },
+  {
+   "off": 34672,
+   "budget": 53,
+   "en": "Gillian, the montage has been￥printed out.",
+   "src": "B030:35385",
+   "carry": "exact",
+   "long": "Gillian, the composite portrait has￥finished printing."
+  },
+  {
+   "off": 34725,
+   "budget": 19,
+   "en": "With this...",
+   "src": "B030:35438",
+   "carry": "exact"
+  },
+  {
+   "off": 34744,
+   "budget": 81,
+   "en": "A rough 2D copy of the 3D image,￥but it should serve￥the investigation.",
+   "src": "B030:35457",
+   "carry": "exact",
+   "long": "It's a simplified two-dimensional￥version of the 3D image, but it￥should help our investigation."
+  },
+  {
+   "off": 34825,
+   "budget": 55,
+   "en": "We have their names and addresses.￥Shall we head out?",
+   "src": "B030:35538",
+   "carry": "exact",
+   "long": "Now we have the suspects' names and￥addresses. Shall we go?"
+  },
+  {
+   "off": 34880,
+   "budget": 59,
+   "en": "One of these two is the Snatcher who￥killed Jean.",
+   "src": "B030:35593",
+   "carry": "exact"
+  },
+  {
+   "off": 34939,
+   "budget": 25,
+   "en": "We've come this far.",
+   "src": "B030:35652",
+   "carry": "exact",
+   "long": "We've finally made some progress."
+  },
+  {
+   "off": 34964,
+   "budget": 45,
+   "en": "Let's go question the suspects,￥Gillian!",
+   "src": "B030:35677",
+   "carry": "rebroken",
+   "long": "Let's go investigate the suspects,￥Gillian!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 35009,
+   "budget": 37,
+   "en": "＠赤FILE NOT FOUND＠Ｃ",
+   "src": "B030:35720",
+   "carry": "exact"
+  },
+  {
+   "off": 35046,
+   "budget": 25,
+   "en": "Wrong face shape...?",
+   "src": "B030:35757",
+   "carry": "exact",
+   "long": "Could the face shape be wrong?"
+  },
+  {
+   "off": 35071,
+   "budget": 29,
+   "en": "Could the eyes be wrong?",
+   "src": "B030:35782",
+   "carry": "exact"
+  },
+  {
+   "off": 35100,
+   "budget": 29,
+   "en": "Could the nose be wrong?",
+   "src": "B030:35811",
+   "carry": "exact"
+  },
+  {
+   "off": 35129,
+   "budget": 29,
+   "en": "Could the mouth be wrong?",
+   "src": "B030:35840",
+   "carry": "exact"
+  },
+  {
+   "off": 35158,
+   "budget": 25,
+   "en": "Wrong hair, perhaps...?",
+   "src": "B030:35869",
+   "carry": "exact",
+   "long": "Could the hairstyle be wrong?"
+  },
+  {
+   "off": 35183,
+   "budget": 103,
+   "en": "Could the portrait be wrong?ω Try to￥remember the features and start￥again.",
+   "src": "B030:35894",
+   "carry": "candidate_edit",
+   "en_candidate": "Perhaps the portrait is wrong. Try￥to remember the features and start￥again.",
+   "sim": 0.99,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the question mark as in the jp; re-adapted 2026-09-30: new PS1 wording, ω kept after ?"
+  },
+  {
+   "off": 35286,
+   "budget": 41,
+   "en": "Gillian, there isn't enough data￥here.",
+   "src": "B030:35991",
+   "carry": "exact"
+  },
+  {
+   "off": 35327,
+   "budget": 31,
+   "en": "Look carefully, Gillian.",
+   "src": "B030:36032",
+   "carry": "exact"
+  },
+  {
+   "off": 35358,
+   "budget": 29,
+   "en": "The face data is missing.",
+   "src": "B030:36063",
+   "carry": "exact",
+   "long": "You haven't entered the face shape."
+  },
+  {
+   "off": 35387,
+   "budget": 27,
+   "en": "The eye data is missing.",
+   "src": "B030:36092",
+   "carry": "exact",
+   "long": "You haven't entered the eyes."
+  },
+  {
+   "off": 35414,
+   "budget": 27,
+   "en": "The nose data is missing.",
+   "src": "B030:36119",
+   "carry": "exact",
+   "long": "You haven't entered the nose."
+  },
+  {
+   "off": 35441,
+   "budget": 27,
+   "en": "The mouth data is missing.",
+   "src": "B030:36146",
+   "carry": "exact",
+   "long": "You haven't entered the mouth."
+  },
+  {
+   "off": 35468,
+   "budget": 29,
+   "en": "The hair data is missing.",
+   "src": "B030:36173",
+   "carry": "exact",
+   "long": "You haven't entered the hairstyle."
+  },
+  {
+   "off": 35497,
+   "budget": 51,
+   "en": "Unfinished. That's no￥human face yet.",
+   "src": "B030:36202",
+   "carry": "exact",
+   "long": "It's still unfinished. You can't￥call that a human face."
+  },
+  {
+   "off": 35548,
+   "budget": 45,
+   "en": "You haven't entered anything yet.",
+   "src": "B030:36253",
+   "carry": "exact"
+  },
+  {
+   "off": 35593,
+   "budget": 5,
+   "en": "Face",
+   "src": "B030:36298",
+   "carry": "exact",
+   "long": "Outline"
+  },
+  {
+   "off": 35598,
+   "budget": 65,
+   "en": "Isabella said it was ＠赤\"kind of￥bony,\"＠白 remember?",
+   "src": "B030:36303",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 35663,
+   "budget": 29,
+   "en": "I'd say number 2 or 3.",
+   "src": "B030:36366",
+   "carry": "exact"
+  },
+  {
+   "off": 35692,
+   "budget": 7,
+   "en": "Face 1",
+   "src": "B030:36395",
+   "carry": "exact",
+   "long": "Outline 1"
+  },
+  {
+   "off": 35699,
+   "budget": 13,
+   "en": "Face 1.",
+   "src": "B030:36402",
+   "carry": "exact",
+   "long": "Face shape 1."
+  },
+  {
+   "off": 35712,
+   "budget": 7,
+   "en": "Face 2",
+   "src": "B030:36415",
+   "carry": "exact",
+   "long": "Outline 2"
+  },
+  {
+   "off": 35719,
+   "budget": 13,
+   "en": "Face 2.",
+   "src": "B030:36422",
+   "carry": "exact",
+   "long": "Face shape 2."
+  },
+  {
+   "off": 35732,
+   "budget": 29,
+   "en": "...A bit too sharp?",
+   "src": "B030:36435",
+   "carry": "exact",
+   "long": "Maybe that's a little too pointed."
+  },
+  {
+   "off": 35761,
+   "budget": 7,
+   "en": "Face 3",
+   "src": "B030:36464",
+   "carry": "exact",
+   "long": "Outline 3"
+  },
+  {
+   "off": 35768,
+   "budget": 13,
+   "en": "Face 3.",
+   "src": "B030:36471",
+   "carry": "exact",
+   "long": "Face shape 3."
+  },
+  {
+   "off": 35781,
+   "budget": 7,
+   "en": "Face 4",
+   "src": "B030:36484",
+   "carry": "exact",
+   "long": "Outline 4"
+  },
+  {
+   "off": 35788,
+   "budget": 13,
+   "en": "Face 4.",
+   "src": "B030:36491",
+   "carry": "exact",
+   "long": "Face shape 4."
+  },
+  {
+   "off": 35801,
+   "budget": 7,
+   "en": "Face 5",
+   "src": "B030:36504",
+   "carry": "exact",
+   "long": "Outline 5"
+  },
+  {
+   "off": 35808,
+   "budget": 13,
+   "en": "Face 5.",
+   "src": "B030:36511",
+   "carry": "exact",
+   "long": "Face shape 5."
+  },
+  {
+   "off": 35821,
+   "budget": 7,
+   "en": "Face 6",
+   "src": "B030:36524",
+   "carry": "exact",
+   "long": "Outline 6"
+  },
+  {
+   "off": 35828,
+   "budget": 13,
+   "en": "Face 6.",
+   "src": "B030:36531",
+   "carry": "exact",
+   "long": "Face shape 6."
+  },
+  {
+   "off": 35841,
+   "budget": 3,
+   "en": "Ey",
+   "src": "B030:36544",
+   "carry": "exact",
+   "long": "Eyes"
+  },
+  {
+   "off": 35844,
+   "budget": 79,
+   "en": "Isabella said, ＠赤\"He had sharp,￥threatening eyes.\"＠白",
+   "src": "B030:36547",
+   "carry": "exact"
+  },
+  {
+   "off": 35923,
+   "budget": 29,
+   "en": "I'd say number 3 or 6.",
+   "src": "B030:36626",
+   "carry": "exact"
+  },
+  {
+   "off": 35952,
+   "budget": 5,
+   "en": "E1",
+   "src": "B030:36655",
+   "carry": "exact",
+   "long": "Eyes 1"
+  },
+  {
+   "off": 35957,
+   "budget": 11,
+   "en": "Eyes 1.",
+   "src": "B030:36660",
+   "carry": "exact"
+  },
+  {
+   "off": 35968,
+   "budget": 5,
+   "en": "E2",
+   "src": "B030:36671",
+   "carry": "exact",
+   "long": "Eyes 2"
+  },
+  {
+   "off": 35973,
+   "budget": 11,
+   "en": "Eyes 2.",
+   "src": "B030:36676",
+   "carry": "exact"
+  },
+  {
+   "off": 35984,
+   "budget": 5,
+   "en": "E3",
+   "src": "B030:36687",
+   "carry": "exact",
+   "long": "Eyes 3"
+  },
+  {
+   "off": 35989,
+   "budget": 11,
+   "en": "Eyes 3.",
+   "src": "B030:36692",
+   "carry": "exact"
+  },
+  {
+   "off": 36000,
+   "budget": 5,
+   "en": "E4",
+   "src": "B030:36703",
+   "carry": "exact",
+   "long": "Eyes 4"
+  },
+  {
+   "off": 36005,
+   "budget": 11,
+   "en": "Eyes 4.",
+   "src": "B030:36708",
+   "carry": "exact"
+  },
+  {
+   "off": 36016,
+   "budget": 5,
+   "en": "E5",
+   "src": "B030:36719",
+   "carry": "exact",
+   "long": "Eyes 5"
+  },
+  {
+   "off": 36021,
+   "budget": 11,
+   "en": "Eyes 5.",
+   "src": "B030:36724",
+   "carry": "exact"
+  },
+  {
+   "off": 36032,
+   "budget": 5,
+   "en": "E6",
+   "src": "B030:36735",
+   "carry": "exact",
+   "long": "Eyes 6"
+  },
+  {
+   "off": 36037,
+   "budget": 11,
+   "en": "Eyes 6.",
+   "src": "B030:36740",
+   "carry": "exact"
+  },
+  {
+   "off": 36048,
+   "budget": 3,
+   "en": "No",
+   "src": "B030:36751",
+   "carry": "exact",
+   "long": "Nose"
+  },
+  {
+   "off": 36051,
+   "budget": 67,
+   "en": "Isabella said it was ＠赤\"pointed, like￥an eagle's beak.\"＠白",
+   "src": "B030:36754",
+   "carry": "candidate_ok",
+   "en_candidate": "Isabella said it was ＠赤\"pointed, like￥an eagle's beak.\"＠白",
+   "sim": 0.99
+  },
+  {
+   "off": 36118,
+   "budget": 29,
+   "en": "I'd say number 1 or 3.",
+   "src": "B030:36823",
+   "carry": "exact"
+  },
+  {
+   "off": 36147,
+   "budget": 5,
+   "en": "N1",
+   "src": "B030:36852",
+   "carry": "exact",
+   "long": "Nose 1"
+  },
+  {
+   "off": 36152,
+   "budget": 11,
+   "en": "Nose 1.",
+   "src": "B030:36857",
+   "carry": "exact"
+  },
+  {
+   "off": 36163,
+   "budget": 5,
+   "en": "N2",
+   "src": "B030:36868",
+   "carry": "exact",
+   "long": "Nose 2"
+  },
+  {
+   "off": 36168,
+   "budget": 11,
+   "en": "Nose 2.",
+   "src": "B030:36873",
+   "carry": "exact"
+  },
+  {
+   "off": 36179,
+   "budget": 5,
+   "en": "N3",
+   "src": "B030:36884",
+   "carry": "exact",
+   "long": "Nose 3"
+  },
+  {
+   "off": 36184,
+   "budget": 11,
+   "en": "Nose 3.",
+   "src": "B030:36889",
+   "carry": "exact"
+  },
+  {
+   "off": 36195,
+   "budget": 27,
+   "en": "That doesn't look right.",
+   "src": "B030:36900",
+   "carry": "exact"
+  },
+  {
+   "off": 36222,
+   "budget": 5,
+   "en": "N4",
+   "src": "B030:36927",
+   "carry": "exact",
+   "long": "Nose 4"
+  },
+  {
+   "off": 36227,
+   "budget": 11,
+   "en": "Nose 4.",
+   "src": "B030:36932",
+   "carry": "exact"
+  },
+  {
+   "off": 36238,
+   "budget": 5,
+   "en": "N5",
+   "src": "B030:36943",
+   "carry": "exact",
+   "long": "Nose 5"
+  },
+  {
+   "off": 36243,
+   "budget": 11,
+   "en": "Nose 5.",
+   "src": "B030:36948",
+   "carry": "exact"
+  },
+  {
+   "off": 36254,
+   "budget": 5,
+   "en": "N6",
+   "src": "B030:36959",
+   "carry": "exact",
+   "long": "Nose 6"
+  },
+  {
+   "off": 36259,
+   "budget": 11,
+   "en": "Nose 6.",
+   "src": "B030:36964",
+   "carry": "exact"
+  },
+  {
+   "off": 36270,
+   "budget": 3,
+   "en": "Mo",
+   "src": "B030:36975",
+   "carry": "exact",
+   "long": "Mouth"
+  },
+  {
+   "off": 36273,
+   "budget": 67,
+   "en": "Isabella said, ＠赤\"Yes, his lips were￥thin.\"＠白",
+   "src": "B030:36978",
+   "carry": "exact"
+  },
+  {
+   "off": 36340,
+   "budget": 41,
+   "en": "Thin, huh? Number 2 or 3, then.",
+   "src": "B030:37045",
+   "carry": "exact"
+  },
+  {
+   "off": 36381,
+   "budget": 5,
+   "en": "M1",
+   "src": "B030:37086",
+   "carry": "exact",
+   "long": "Mouth 1"
+  },
+  {
+   "off": 36386,
+   "budget": 11,
+   "en": "Mouth 1.",
+   "src": "B030:37091",
+   "carry": "exact"
+  },
+  {
+   "off": 36397,
+   "budget": 5,
+   "en": "M2",
+   "src": "B030:37102",
+   "carry": "exact",
+   "long": "Mouth 2"
+  },
+  {
+   "off": 36402,
+   "budget": 11,
+   "en": "Mouth 2.",
+   "src": "B030:37107",
+   "carry": "exact"
+  },
+  {
+   "off": 36413,
+   "budget": 5,
+   "en": "M3",
+   "src": "B030:37118",
+   "carry": "exact",
+   "long": "Mouth 3"
+  },
+  {
+   "off": 36418,
+   "budget": 11,
+   "en": "Mouth 3.",
+   "src": "B030:37123",
+   "carry": "exact"
+  },
+  {
+   "off": 36429,
+   "budget": 5,
+   "en": "M4",
+   "src": "B030:37134",
+   "carry": "exact",
+   "long": "Mouth 4"
+  },
+  {
+   "off": 36434,
+   "budget": 11,
+   "en": "Mouth 4.",
+   "src": "B030:37139",
+   "carry": "exact"
+  },
+  {
+   "off": 36445,
+   "budget": 5,
+   "en": "M5",
+   "src": "B030:37150",
+   "carry": "exact",
+   "long": "Mouth 5"
+  },
+  {
+   "off": 36450,
+   "budget": 11,
+   "en": "Mouth 5.",
+   "src": "B030:37155",
+   "carry": "exact"
+  },
+  {
+   "off": 36461,
+   "budget": 5,
+   "en": "M6",
+   "src": "B030:37166",
+   "carry": "exact",
+   "long": "Mouth 6"
+  },
+  {
+   "off": 36466,
+   "budget": 11,
+   "en": "Mouth 6.",
+   "src": "B030:37171",
+   "carry": "exact"
+  },
+  {
+   "off": 36477,
+   "budget": 5,
+   "en": "Hair",
+   "src": "B030:37182",
+   "carry": "exact"
+  },
+  {
+   "off": 36482,
+   "budget": 79,
+   "en": "Isabella said it was ＠赤\"smooth, swept￥back.\"＠白",
+   "src": "B030:37187",
+   "carry": "exact"
+  },
+  {
+   "off": 36561,
+   "budget": 37,
+   "en": "Smooth? Maybe number 2 or 3.",
+   "src": "B030:37266",
+   "carry": "exact"
+  },
+  {
+   "off": 36598,
+   "budget": 7,
+   "en": "Hair 1",
+   "src": "B030:37303",
+   "carry": "exact"
+  },
+  {
+   "off": 36605,
+   "budget": 13,
+   "en": "Hairstyle 1.",
+   "src": "B030:37310",
+   "carry": "exact"
+  },
+  {
+   "off": 36618,
+   "budget": 7,
+   "en": "Hair 2",
+   "src": "B030:37323",
+   "carry": "exact"
+  },
+  {
+   "off": 36625,
+   "budget": 13,
+   "en": "Hairstyle 2.",
+   "src": "B030:37330",
+   "carry": "exact"
+  },
+  {
+   "off": 36638,
+   "budget": 7,
+   "en": "Hair 3",
+   "src": "B030:37343",
+   "carry": "exact"
+  },
+  {
+   "off": 36645,
+   "budget": 13,
+   "en": "Hairstyle 3.",
+   "src": "B030:37350",
+   "carry": "exact"
+  },
+  {
+   "off": 36658,
+   "budget": 7,
+   "en": "Hair 4",
+   "src": "B030:37363",
+   "carry": "exact"
+  },
+  {
+   "off": 36665,
+   "budget": 13,
+   "en": "Hairstyle 4.",
+   "src": "B030:37370",
+   "carry": "exact"
+  },
+  {
+   "off": 36678,
+   "budget": 7,
+   "en": "Hair 5",
+   "src": "B030:37383",
+   "carry": "exact"
+  },
+  {
+   "off": 36685,
+   "budget": 13,
+   "en": "Hairstyle 5.",
+   "src": "B030:37390",
+   "carry": "exact"
+  },
+  {
+   "off": 36698,
+   "budget": 7,
+   "en": "Hair 6",
+   "src": "B030:37403",
+   "carry": "exact"
+  },
+  {
+   "off": 36705,
+   "budget": 13,
+   "en": "Hairstyle 6.",
+   "src": "B030:37410",
+   "carry": "exact"
+  },
+  {
+   "off": 36720,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

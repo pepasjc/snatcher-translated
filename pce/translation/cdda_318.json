@@ -1,0 +1,32 @@
+[
+ {
+  "track": 20,
+  "start": 13.04,
+  "end": 21.26,
+  "speaker": "",
+  "en": "My first day, and already a case. Gibson, an ace JUNKER, has cornered a suspected Snatcher.",
+  "ps1": "B010_fly_0",
+  "ps1_more": [
+   "B010_fly_0b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "My first day, and already a case.",
+   "Gibson, an ace JUNKER, has cornered|a suspected Snatcher."
+  ],
+  "reveal_end": 20.12
+ },
+ {
+  "track": 20,
+  "start": 21.26,
+  "end": 26.7,
+  "speaker": "",
+  "en": "Is the man really a Snatcher? And what are Snatchers?",
+  "ps1": "B010_fly_0c",
+  "layout": "plain",
+  "cards": [
+   "Is the man really a Snatcher? And|what are Snatchers?"
+  ],
+  "reveal_end": 25.7
+ }
+]

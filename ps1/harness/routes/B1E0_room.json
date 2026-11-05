@@ -1,0 +1,5 @@
+{"scene":"B1E0","actions":[
+  {"path":["Use Metal Gear","Turn on light"],"optional":true,"patience":600},
+  {"sweep":["Look","Investigate","Look around"],"rounds":3,"avoid":["Go out"]},
+  {"save":"B1E0_dr3lit"}
+ ]}

@@ -1,0 +1,276 @@
+{
+ "scene": "B1C0",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B1C0_f23_0",
+   "line": 334,
+   "act": 2,
+   "sector": 1367,
+   "offset": 1819,
+   "size": 49844,
+   "b0": 0,
+   "b1": 49844,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian, I'm detecting movement! Be careful! It's outside the window!",
+   "rows": [
+    "Gillian, I'm detecting",
+    "movement! Be careful! It's",
+    "outside the window!"
+   ],
+   "rows_plain": [
+    "Gillian, I'm detecting movement! Be",
+    "careful! It's outside the window!"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1C0_f24_0",
+   "line": 335,
+   "act": 2,
+   "sector": 1389,
+   "offset": 535,
+   "size": 5482,
+   "b0": 0,
+   "b1": 5482,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Alice!",
+   "rows": [
+    "Alice!"
+   ],
+   "rows_plain": [
+    "Alice!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1C0_f25_0",
+   "line": 336,
+   "act": 2,
+   "sector": 1391,
+   "offset": 1369,
+   "size": 34725,
+   "b0": 0,
+   "b1": 34725,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "She's been torn to pieces. We can't save her!",
+   "rows": [
+    "She's been torn to pieces.",
+    "We can't save her!"
+   ],
+   "rows_plain": [
+    "She's been torn to pieces. We can't",
+    "save her!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f26_0",
+   "line": 337,
+   "act": 2,
+   "sector": 1406,
+   "offset": 1234,
+   "size": 15746,
+   "b0": 0,
+   "b1": 15746,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Could a Snatcher have done this?",
+   "rows": [
+    "Could a Snatcher have done",
+    "this?"
+   ],
+   "rows_plain": [
+    "Could a Snatcher have done this?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f27_0",
+   "line": 338,
+   "act": 2,
+   "sector": 1413,
+   "offset": 712,
+   "size": 52442,
+   "b0": 0,
+   "b1": 52442,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What a horrible thing to do! Where's Catherine?",
+   "rows": [
+    "What a horrible thing to do!",
+    "Where's Catherine?"
+   ],
+   "rows_plain": [
+    "What a horrible thing to do! Where's",
+    "Catherine?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f28_0",
+   "line": 339,
+   "act": 2,
+   "sector": 1435,
+   "offset": 2026,
+   "size": 46177,
+   "b0": 0,
+   "b1": 46177,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We'll leave the scene to the junk squad. Let's find Catherine.",
+   "rows": [
+    "We'll leave the scene to the",
+    "junk squad. Let's find",
+    "Catherine."
+   ],
+   "rows_plain": [
+    "We'll leave the scene to the junk",
+    "squad. Let's find Catherine."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f29_0",
+   "line": 340,
+   "act": 2,
+   "sector": 1455,
+   "offset": 1723,
+   "size": 50018,
+   "b0": 0,
+   "b1": 50018,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Judging by the state of this room, the Snatchers haven't found what they want.",
+   "rows": [
+    "Judging by the state of this",
+    "room, the Snatchers haven't",
+    "found what they want."
+   ],
+   "rows_plain": [
+    "Judging by the state of this room,",
+    "the Snatchers haven't found what",
+    "they want."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f30_0",
+   "line": 341,
+   "act": 2,
+   "sector": 1477,
+   "offset": 613,
+   "size": 37195,
+   "b0": 0,
+   "b1": 37195,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "So Catherine is still safe?",
+   "rows": [
+    "So Catherine is still safe?"
+   ],
+   "rows_plain": [
+    "So Catherine is still safe?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f31_0",
+   "line": 342,
+   "act": 2,
+   "sector": 1493,
+   "offset": 624,
+   "size": 29246,
+   "b0": 0,
+   "b1": 29246,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Had they caught Catherine, they wouldn't have trashed the room.",
+   "rows": [
+    "Had they caught Catherine,",
+    "they wouldn't have trashed",
+    "the room."
+   ],
+   "rows_plain": [
+    "Had they caught Catherine, they",
+    "wouldn't have trashed the room."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f32_0",
+   "line": 343,
+   "act": 2,
+   "sector": 1505,
+   "offset": 1982,
+   "size": 37528,
+   "b0": 0,
+   "b1": 37528,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I see. Catherine escaped with what they want.",
+   "rows": [
+    "I see. Catherine escaped",
+    "with what they want."
+   ],
+   "rows_plain": [
+    "I see. Catherine escaped with what",
+    "they want."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1C0_f33_0",
+   "line": 344,
+   "act": 2,
+   "sector": 1522,
+   "offset": 2,
+   "size": 65444,
+   "b0": 0,
+   "b1": 65444,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Right. Metal, let's find Catherine before they do. Back to the Tricycle first.",
+   "rows": [
+    "Right. Metal, let's find",
+    "Catherine before they do.",
+    "Back to the Tricycle first."
+   ],
+   "rows_plain": [
+    "Right. Metal, let's find Catherine",
+    "before they do. Back to the Tricycle",
+    "first."
+   ],
+   "enabled": true
+  }
+ ]
+}

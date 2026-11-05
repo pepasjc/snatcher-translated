@@ -1,0 +1,1298 @@
+{
+ "file": "DATA.BIN[43]",
+ "entry": 43,
+ "text_base": 2783,
+ "twins": [
+  "B160"
+ ],
+ "strings": [
+  {
+   "off": 2783,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 2788,
+   "budget": 37,
+   "en": "The Chief's office.￥He is out.",
+   "src": "B160:2429",
+   "carry": "exact",
+   "long": "This is the Chief's office. He seems￥to be out."
+  },
+  {
+   "off": 2825,
+   "budget": 13,
+   "en": "Chief's rm.",
+   "src": "B160:2466",
+   "carry": "exact",
+   "long": "This is the Chief's office."
+  },
+  {
+   "off": 2838,
+   "budget": 85,
+   "en": "Let's look for evidence of whether￥he's a Snatcher before he returns.",
+   "src": "B160:2479",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 2923,
+   "budget": 35,
+   "en": "Let's search for clues again.",
+   "src": "B160:2562",
+   "carry": "exact"
+  },
+  {
+   "off": 2958,
+   "budget": 5,
+   "en": "Move",
+   "src": "B160:2597",
+   "carry": "exact"
+  },
+  {
+   "off": 2963,
+   "budget": 49,
+   "en": "First, I'll put the Red Square photo￥back.",
+   "src": "B160:2602",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3012,
+   "budget": 69,
+   "en": "Aye, best keep quiet that we've￥found this picture's secret...",
+   "src": "B160:2649",
+   "carry": "rebroken",
+   "long": "Right. We mustn't let him know we've￥discovered the painting's secret.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3081,
+   "budget": 31,
+   "en": "Putting the photo back.",
+   "src": "B160:2716",
+   "carry": "exact",
+   "long": "I'll put the Red Square photo back."
+  },
+  {
+   "off": 3112,
+   "budget": 37,
+   "en": "First, I'll put the photo back.",
+   "src": "B160:2747",
+   "carry": "exact"
+  },
+  {
+   "off": 3149,
+   "budget": 37,
+   "en": "Right. But what is it a photo of?",
+   "src": "B160:2784",
+   "carry": "exact"
+  },
+  {
+   "off": 3186,
+   "budget": 21,
+   "en": "Restoring the photo.",
+   "src": "B160:2821",
+   "carry": "exact",
+   "long": "I'll put the photo back."
+  },
+  {
+   "off": 3207,
+   "budget": 5,
+   "en": "Look",
+   "src": "B160:2842",
+   "carry": "exact"
+  },
+  {
+   "off": 3212,
+   "budget": 5,
+   "en": "Seat",
+   "src": "B160:2847",
+   "carry": "exact",
+   "long": "Chair"
+  },
+  {
+   "off": 3217,
+   "budget": 35,
+   "en": "The Chief's chair.￥He isn't here.",
+   "src": "B160:2852",
+   "carry": "exact",
+   "long": "It's the Chief's chair. He isn't￥here."
+  },
+  {
+   "off": 3252,
+   "budget": 33,
+   "en": "The Chief has stepped out.",
+   "src": "B160:2887",
+   "carry": "exact",
+   "long": "The Chief seems to have stepped out."
+  },
+  {
+   "off": 3285,
+   "budget": 9,
+   "en": "Monitor",
+   "src": "B160:2920",
+   "carry": "exact"
+  },
+  {
+   "off": 3294,
+   "budget": 25,
+   "en": "The monitors are off.",
+   "src": "B160:2929",
+   "carry": "exact"
+  },
+  {
+   "off": 3319,
+   "budget": 53,
+   "en": "That's unusual. The monitors are￥switched off.",
+   "src": "B160:2954",
+   "carry": "exact"
+  },
+  {
+   "off": 3372,
+   "budget": 3,
+   "en": "Ar",
+   "src": "B160:3007",
+   "carry": "exact",
+   "long": "Picture"
+  },
+  {
+   "off": 3375,
+   "budget": 57,
+   "en": "Wait!￥Something odd about this￥vase picture!",
+   "src": "B160:3010",
+   "carry": "exact",
+   "long": "Wait! Isn't there something strange￥about this picture of a vase?"
+  },
+  {
+   "off": 3432,
+   "budget": 35,
+   "en": "Look! Doesn't it look like a face?",
+   "src": "B160:3067",
+   "carry": "exact"
+  },
+  {
+   "off": 3467,
+   "budget": 29,
+   "en": "A face? I don't see it.",
+   "src": "B160:3102",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3496,
+   "budget": 27,
+   "en": "See, like faces, no?",
+   "src": "B160:3129",
+   "carry": "exact",
+   "long": "Look. Doesn't it look like a face?"
+  },
+  {
+   "off": 3523,
+   "budget": 49,
+   "en": "Can't tell. Looks like a￥plain vase picture.",
+   "src": "B160:3156",
+   "carry": "rebroken",
+   "long": "I'm not sure, but it seems to be￥just a picture of a vase.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3572,
+   "budget": 5,
+   "en": "Pic",
+   "src": "B160:3203",
+   "carry": "exact",
+   "long": "Photo"
+  },
+  {
+   "off": 3577,
+   "budget": 39,
+   "en": "Seems I've seen it...￥Can't recall.",
+   "src": "B160:3208",
+   "carry": "rebroken",
+   "long": "I feel like I've seen it before. I￥can't remember.",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 3616,
+   "budget": 37,
+   "en": "Why would a photo like this be here?",
+   "src": "B160:3249",
+   "carry": "exact"
+  },
+  {
+   "off": 3653,
+   "budget": 7,
+   "en": "Check",
+   "src": "B160:3286",
+   "carry": "exact",
+   "long": "Investigate"
+  },
+  {
+   "off": 3660,
+   "budget": 35,
+   "en": "The surface of the chair is cold.",
+   "src": "B160:3293",
+   "carry": "exact"
+  },
+  {
+   "off": 3695,
+   "budget": 37,
+   "en": "He left his seat a while ago.",
+   "src": "B160:3328",
+   "carry": "exact",
+   "long": "He seems to have been gone quite a￥while."
+  },
+  {
+   "off": 3732,
+   "budget": 41,
+   "en": "Most of the monitors are cold.",
+   "src": "B160:3365",
+   "carry": "exact"
+  },
+  {
+   "off": 3773,
+   "budget": 47,
+   "en": "Switched off a good while ago.",
+   "src": "B160:3406",
+   "carry": "rebroken",
+   "long": "They seem to have been turned off￥quite a while ago.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3820,
+   "budget": 55,
+   "en": "Look. I thought it was just a￥picture of a vase.",
+   "src": "B160:3451",
+   "carry": "exact"
+  },
+  {
+   "off": 3875,
+   "budget": 47,
+   "en": "But look at the white space. Face to￥face!",
+   "src": "B160:3506",
+   "carry": "exact"
+  },
+  {
+   "off": 3922,
+   "budget": 81,
+   "en": "Could this be the \"Face to Face\"￥from Harry's note?",
+   "src": "B160:3553",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4003,
+   "budget": 29,
+   "en": "An optical illusion.",
+   "src": "B160:3632",
+   "carry": "exact",
+   "long": "It's an optical illusion designed to￥fool human eyes."
+  },
+  {
+   "off": 4032,
+   "budget": 51,
+   "en": "...Meaning something not human￥can see it?",
+   "src": "B160:3661",
+   "carry": "rebroken",
+   "long": "Does that mean someone who isn't￥human could see it?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4083,
+   "budget": 29,
+   "en": "Let's take a closer look.",
+   "src": "B160:3710",
+   "carry": "exact"
+  },
+  {
+   "off": 4112,
+   "budget": 31,
+   "en": "Check the face-to-face part.",
+   "src": "B160:3739",
+   "carry": "exact",
+   "long": "Check the part with the two faces."
+  },
+  {
+   "off": 4143,
+   "budget": 57,
+   "en": "There's a switch between the faces!￥I'll press it.",
+   "src": "B160:3770",
+   "carry": "candidate_ok",
+   "en_candidate": "There's a switch between the faces!￥I'll press it.",
+   "sim": 0.96,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 4200,
+   "budget": 35,
+   "en": "The picture flipped to a photo.",
+   "src": "B160:3829",
+   "carry": "exact",
+   "long": "The picture turned over, revealing a￥photograph."
+  },
+  {
+   "off": 4235,
+   "budget": 35,
+   "en": "I'll press the switch.",
+   "src": "B160:3864",
+   "carry": "exact"
+  },
+  {
+   "off": 4270,
+   "budget": 103,
+   "en": "＠黄I've wondered for a while. Doesn't￥this vase picture clash with the￥room's mood?＠白",
+   "src": "B160:3899",
+   "carry": "rebroken",
+   "long": "＠黄This has bothered me for a while.￥Doesn't that vase picture seem out￥of place in this room?＠白",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 4373,
+   "budget": 31,
+   "en": "It's been bothering me too.",
+   "src": "B160:3998",
+   "carry": "exact"
+  },
+  {
+   "off": 4404,
+   "budget": 29,
+   "en": "Metal, doesn't it seem odd?",
+   "src": "B160:4029",
+   "carry": "exact",
+   "long": "Doesn't something seem wrong, Metal?"
+  },
+  {
+   "off": 4433,
+   "budget": 11,
+   "en": "What is?",
+   "src": "B160:4058",
+   "carry": "exact",
+   "long": "What do you mean?"
+  },
+  {
+   "off": 4444,
+   "budget": 101,
+   "en": "If... I were a Snatcher, would I hide￥an incriminating photograph somewhere￥so obvious?",
+   "src": "B160:4108",
+   "carry": "candidate_edit",
+   "en_candidate": "would I hide an incriminating￥photograph somewhere so obvious?",
+   "sim": 0.72,
+   "note": "re-adapted 2026-09-30: new PS1 wording + extra clause"
+  },
+  {
+   "off": 4545,
+   "budget": 19,
+   "en": "You have a point.",
+   "src": "B160:4173",
+   "carry": "exact"
+  },
+  {
+   "off": 4564,
+   "budget": 59,
+   "en": "Some reason must keep it here￥despite the risk.",
+   "src": "B160:4192",
+   "carry": "rebroken",
+   "long": "There must be a reason to keep it￥here, even at that risk.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4623,
+   "budget": 53,
+   "en": "Red Square...?￥Why is it in the Chief's room...",
+   "src": "B160:4249",
+   "carry": "exact",
+   "long": "Red Square? Why would the Chief have￥a photo of that?"
+  },
+  {
+   "off": 4676,
+   "budget": 67,
+   "en": "By the print's pixel state, this￥photo is half a century old.",
+   "src": "B160:4302",
+   "carry": "rebroken",
+   "long": "Judging by the condition of the￥printed image, this photograph is￥fifty years old.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4743,
+   "budget": 5,
+   "en": "Item",
+   "src": "B160:4367",
+   "carry": "exact"
+  },
+  {
+   "off": 4748,
+   "budget": 7,
+   "en": "Lookω",
+   "src": "B160:2842",
+   "carry": "candidate_edit",
+   "en_candidate": "Look",
+   "sim": 0.8,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label"
+  },
+  {
+   "off": 4755,
+   "budget": 9,
+   "en": "Investigateω",
+   "src": "B160:3286",
+   "carry": "candidate_edit",
+   "en_candidate": "Check",
+   "sim": 0.86,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label; re-adapted 2026-09-30: PS1 label (long 'Investigate') + ω kept after it"
+  },
+  {
+   "off": 4764,
+   "budget": 15,
+   "en": "Use Metal Gear",
+   "src": "B160:4372",
+   "carry": "exact"
+  },
+  {
+   "off": 4779,
+   "budget": 13,
+   "en": "Videophone",
+   "src": "B160:4387",
+   "carry": "exact"
+  },
+  {
+   "off": 4792,
+   "budget": 11,
+   "en": "Save",
+   "src": "B160:4400",
+   "carry": "exact"
+  },
+  {
+   "off": 4803,
+   "budget": 37,
+   "en": "I'll save your progress now.",
+   "src": "B160:4411",
+   "carry": "exact"
+  },
+  {
+   "off": 4840,
+   "budget": 47,
+   "en": "Either the Chief or Harry is a￥Snatcher?",
+   "src": "B160:4448",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4887,
+   "budget": 77,
+   "en": "...Let's find evidence.￥Go about it carelessly and￥we're in trouble.",
+   "src": "B160:4493",
+   "carry": "rebroken",
+   "long": "Let's find evidence. If we don't￥proceed carefully, this could go￥terribly wrong.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4964,
+   "budget": 35,
+   "en": "Let's start with this room.",
+   "src": "B160:4568",
+   "carry": "exact"
+  },
+  {
+   "off": 4999,
+   "budget": 33,
+   "en": "They both seem to be out.",
+   "src": "B160:4603",
+   "carry": "exact"
+  },
+  {
+   "off": 5032,
+   "budget": 25,
+   "en": "Let's search this room.",
+   "src": "B160:4636",
+   "carry": "exact",
+   "long": "Let's search this room next."
+  },
+  {
+   "off": 5057,
+   "budget": 33,
+   "en": "Metal, where is this photo of?",
+   "src": "B160:4661",
+   "carry": "exact",
+   "long": "Where was this photo taken, Metal?"
+  },
+  {
+   "off": 5090,
+   "budget": 77,
+   "en": "I'll search Alphaville's records to￥identify the location.",
+   "src": "B160:4694",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5167,
+   "budget": 21,
+   "en": "I've found it.",
+   "src": "B160:4769",
+   "carry": "exact"
+  },
+  {
+   "off": 5188,
+   "budget": 57,
+   "en": "It's Red Square in Moscow, before￥the Catastrophe.",
+   "src": "B160:4790",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5245,
+   "budget": 49,
+   "en": "Red Square...?￥Why such a photo in his room?",
+   "src": "B160:4845",
+   "carry": "exact",
+   "long": "Red Square? Why would the Chief have￥a photo of that?"
+  },
+  {
+   "off": 5294,
+   "budget": 31,
+   "en": "Save the image.",
+   "src": "B160:4894",
+   "carry": "exact"
+  },
+  {
+   "off": 5325,
+   "budget": 37,
+   "en": "I've saved the photograph in memory.",
+   "src": "B160:4925",
+   "carry": "exact"
+  },
+  {
+   "off": 5362,
+   "budget": 19,
+   "en": "The Chief's photo?",
+   "src": "B160:4962",
+   "carry": "exact",
+   "long": "The Chief had this photo?"
+  },
+  {
+   "off": 5381,
+   "budget": 45,
+   "en": "Or did someone plant it to frame￥him?",
+   "src": "B160:4981",
+   "carry": "exact"
+  },
+  {
+   "off": 5426,
+   "budget": 43,
+   "en": "And Harry's matches. Which one is￥it?",
+   "src": "B160:5026",
+   "carry": "exact"
+  },
+  {
+   "off": 5469,
+   "budget": 19,
+   "en": "Which one?",
+   "src": "B160:5069",
+   "carry": "exact"
+  },
+  {
+   "off": 5488,
+   "budget": 55,
+   "en": "Nothing conclusive.￥Both are just circumstantial.",
+   "src": "B160:5088",
+   "carry": "exact",
+   "long": "There's nothing conclusive. Both are￥only circumstantial evidence."
+  },
+  {
+   "off": 5543,
+   "budget": 29,
+   "en": "Or could it be someone else?",
+   "src": "B160:5143",
+   "carry": "exact"
+  },
+  {
+   "off": 5572,
+   "budget": 63,
+   "en": "At this rate that 'BENSON' chart￥looks suspect too?",
+   "src": "B160:5172",
+   "carry": "exact",
+   "long": "Even that medical record with BENSON￥on it seems suspicious now."
+  },
+  {
+   "off": 5635,
+   "budget": 25,
+   "en": "Planted for us....?",
+   "src": "B160:5235",
+   "carry": "exact",
+   "long": "Did they deliberately leave it for￥us?"
+  },
+  {
+   "off": 5660,
+   "budget": 63,
+   "en": "To begin with,￥a Snatcher leaving a chart is￥itself odd.",
+   "src": "B160:5260",
+   "carry": "rebroken",
+   "long": "It's strange that a Snatcher would￥leave a medical record behind at￥all.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5723,
+   "budget": 13,
+   "en": "A trap?",
+   "src": "B160:5321",
+   "carry": "exact",
+   "long": "Is it a trap?"
+  },
+  {
+   "off": 5736,
+   "budget": 29,
+   "en": "We can't say yet.",
+   "src": "B160:5334",
+   "carry": "exact"
+  },
+  {
+   "off": 5765,
+   "budget": 27,
+   "en": "The Chief left his office?",
+   "src": "B160:5363",
+   "carry": "exact"
+  },
+  {
+   "off": 5792,
+   "budget": 57,
+   "en": "As Mika said, busy with summit￥preparations?",
+   "src": "B160:5390",
+   "carry": "exact",
+   "long": "Could he be busy preparing for the￥summit, as Mika said?"
+  },
+  {
+   "off": 5849,
+   "budget": 51,
+   "en": "If it were work he'd say￥where he was going?",
+   "src": "B160:5447",
+   "carry": "rebroken",
+   "long": "If he went out on business, he'd at￥least say where he was going.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5900,
+   "budget": 37,
+   "en": "The Chief seems out for a while.",
+   "src": "B160:5496",
+   "carry": "exact",
+   "long": "It looks like the Chief's been out￥for a while."
+  },
+  {
+   "off": 5937,
+   "budget": 21,
+   "en": "It does.",
+   "src": "B160:5533",
+   "carry": "exact"
+  },
+  {
+   "off": 5958,
+   "budget": 61,
+   "en": "This is the Mechanic room. Harry￥seems to be out.",
+   "src": "B160:5554",
+   "carry": "exact"
+  },
+  {
+   "off": 6019,
+   "budget": 53,
+   "en": "Let's look for clues before Harry￥returns.",
+   "src": "B160:5615",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6072,
+   "budget": 35,
+   "en": "Let's find clues while he's out.",
+   "src": "B160:5666",
+   "carry": "exact",
+   "long": "Let's look for clues while he's out."
+  },
+  {
+   "off": 6107,
+   "budget": 9,
+   "en": "Poster",
+   "src": "B160:5701",
+   "carry": "exact"
+  },
+  {
+   "off": 6116,
+   "budget": 31,
+   "en": "A last-century film starlet.",
+   "src": "B160:5710",
+   "carry": "exact",
+   "long": "She's a sexy movie star from the￥last century."
+  },
+  {
+   "off": 6147,
+   "budget": 29,
+   "en": "A photo of Harry as a boy.",
+   "src": "B160:5741",
+   "carry": "exact",
+   "long": "It's a photograph of Harry as a boy."
+  },
+  {
+   "off": 6176,
+   "budget": 7,
+   "en": "Desk",
+   "src": "B160:5770",
+   "carry": "exact"
+  },
+  {
+   "off": 6183,
+   "budget": 27,
+   "en": "Matches lie on the desk.",
+   "src": "B160:5777",
+   "carry": "exact",
+   "long": "There are matches on the desk."
+  },
+  {
+   "off": 6210,
+   "budget": 23,
+   "en": "Something on the desk.",
+   "src": "B160:5804",
+   "carry": "exact",
+   "long": "There's something on the desk."
+  },
+  {
+   "off": 6233,
+   "budget": 49,
+   "en": "＠赤Matches＠白 and a ＠赤note＠白.",
+   "src": "B160:5827",
+   "carry": "exact"
+  },
+  {
+   "off": 6282,
+   "budget": 33,
+   "en": "Matches and a memo on it.",
+   "src": "B160:5876",
+   "carry": "exact",
+   "long": "There are matches and a note on the￥desk."
+  },
+  {
+   "off": 6315,
+   "budget": 7,
+   "en": "Match",
+   "src": "B160:5909",
+   "carry": "exact",
+   "long": "Matches"
+  },
+  {
+   "off": 6322,
+   "budget": 67,
+   "en": "The box has the Outer Heaven logo￥printed on it.",
+   "src": "B160:5916",
+   "carry": "candidate_ok",
+   "en_candidate": "The box has the Outer Heaven logo￥printed on it.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 6389,
+   "budget": 9,
+   "en": "Memo",
+   "src": "B160:5983",
+   "carry": "exact"
+  },
+  {
+   "off": 6398,
+   "budget": 57,
+   "en": "It says ＠赤\"Face to Face.\"＠白",
+   "src": "B160:5992",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6455,
+   "budget": 17,
+   "en": "Face to face?",
+   "src": "B160:6047",
+   "carry": "exact"
+  },
+  {
+   "off": 6472,
+   "budget": 45,
+   "en": "Well worn, but the corners￥are reinforced.",
+   "src": "B160:6064",
+   "carry": "candidate_ok",
+   "en_candidate": "Well worn, but the corners￥are reinforced.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "It's badly worn, but all four￥corners have been reinforced."
+  },
+  {
+   "off": 6517,
+   "budget": 41,
+   "en": "Harry really seems to treasure it.",
+   "src": "B160:6109",
+   "carry": "exact"
+  },
+  {
+   "off": 6558,
+   "budget": 53,
+   "en": "The original photo would show us￥Harry's parents.",
+   "src": "B160:6150",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6611,
+   "budget": 79,
+   "en": "These are definitely the matches￥given to regulars at Outer Heaven.",
+   "src": "B160:6201",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6690,
+   "budget": 57,
+   "en": "They're the matches given out at￥Outer Heaven.",
+   "src": "B160:6278",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6747,
+   "budget": 37,
+   "en": "Harry's hand. A message?",
+   "src": "B160:6333",
+   "carry": "rebroken",
+   "long": "It's Harry's handwriting. Did he￥leave us a message?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6784,
+   "budget": 85,
+   "en": "'Face to face' is the key...￥All we can do is search where￥the phrase leads.",
+   "src": "B160:6368",
+   "carry": "rebroken",
+   "long": "\"Face to face\" is the key. We'll￥have to search wherever that phrase￥brings to mind.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6869,
+   "budget": 97,
+   "en": "Perhaps it means \"Look for face to￥face,\" or \"Pay attention to face￥to face.\"",
+   "src": "B160:6451",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6966,
+   "budget": 33,
+   "en": "Keep that note.",
+   "src": "B160:6546",
+   "carry": "exact"
+  },
+  {
+   "off": 6999,
+   "budget": 41,
+   "en": "I'll take the note.",
+   "src": "B160:6579",
+   "carry": "exact"
+  },
+  {
+   "off": 7040,
+   "budget": 53,
+   "en": "From Outer Heaven? Harry had these?",
+   "src": "B160:6620",
+   "carry": "candidate_ok",
+   "en_candidate": "From Outer Heaven? Harry had these?",
+   "sim": 0.96,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 7093,
+   "budget": 59,
+   "en": "Harry is the only person at JUNKER￥HQ who smokes.",
+   "src": "B160:6675",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7152,
+   "budget": 17,
+   "en": "Not Harry?",
+   "src": "B160:6732",
+   "carry": "exact",
+   "long": "Could Harry be the one?"
+  },
+  {
+   "off": 7169,
+   "budget": 51,
+   "en": "If he has matches from Outer￥Heaven...",
+   "src": "B160:6749",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7220,
+   "budget": 37,
+   "en": "Harry, a Snatcher? It can't be.",
+   "src": "B160:6798",
+   "carry": "exact"
+  },
+  {
+   "off": 7257,
+   "budget": 27,
+   "en": "Let's take these matches.",
+   "src": "B160:6835",
+   "carry": "exact"
+  },
+  {
+   "off": 7284,
+   "budget": 65,
+   "en": "There's no need. They're identical￥to the ones we have.",
+   "src": "B160:6862",
+   "carry": "exact"
+  },
+  {
+   "off": 7349,
+   "budget": 55,
+   "en": "I've recorded them.￥...They'd only weigh us down.",
+   "src": "B160:6927",
+   "carry": "exact",
+   "long": "I've recorded what we found.￥Carrying more would only weigh us￥down."
+  },
+  {
+   "off": 7404,
+   "budget": 27,
+   "en": "Let's leave them here.",
+   "src": "B160:6982",
+   "carry": "exact"
+  },
+  {
+   "off": 7431,
+   "budget": 15,
+   "en": "JUNKER ID",
+   "src": "B160:7009",
+   "carry": "exact"
+  },
+  {
+   "off": 7446,
+   "budget": 73,
+   "en": "The ID card proving all JUNKER￥authority. Keep it safe.",
+   "src": "B160:7024",
+   "carry": "rebroken",
+   "long": "This ID card certifies all your￥authority as a JUNKER. Take good￥care of it.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 7519,
+   "budget": 7,
+   "en": "Funds",
+   "src": "B160:7093",
+   "carry": "exact"
+  },
+  {
+   "off": 7526,
+   "budget": 35,
+   "en": "It's the money JUNKER provided.",
+   "src": "B160:7100",
+   "carry": "exact"
+  },
+  {
+   "off": 7561,
+   "budget": 5,
+   "en": "Drop",
+   "src": "B160:7135",
+   "carry": "exact",
+   "long": "Candy"
+  },
+  {
+   "off": 7566,
+   "budget": 35,
+   "en": "It's the candy from Jean's pocket.",
+   "src": "B160:7140",
+   "carry": "exact"
+  },
+  {
+   "off": 7601,
+   "budget": 7,
+   "en": "Proof",
+   "src": "B160:7175",
+   "carry": "exact",
+   "long": "Evidence"
+  },
+  {
+   "off": 7608,
+   "budget": 3,
+   "en": "Pc",
+   "src": "B160:7182",
+   "carry": "exact",
+   "long": "Chess piece"
+  },
+  {
+   "off": 7611,
+   "budget": 63,
+   "en": "Gibson's chess piece, hinting￥at Queen Hospital.",
+   "src": "B160:7185",
+   "carry": "rebroken",
+   "long": "It's Gibson's chess piece, the clue￥to Queen Hospital's name.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7674,
+   "budget": 37,
+   "en": "A chess piece Gibson was carrying.",
+   "src": "B160:7246",
+   "carry": "exact",
+   "long": "It's the chess piece Gibson was￥carrying."
+  },
+  {
+   "off": 7711,
+   "budget": 7,
+   "en": "Chart",
+   "src": "B160:7283",
+   "carry": "exact",
+   "long": "Medical chart"
+  },
+  {
+   "off": 7718,
+   "budget": 41,
+   "en": "A chart with a Snatcher's￥name on it.",
+   "src": "B160:7290",
+   "carry": "exact",
+   "long": "It's the medical record with a￥Snatcher's name on it."
+  },
+  {
+   "off": 7759,
+   "budget": 37,
+   "en": "Found on a desk at￥Queen Hospital.",
+   "src": "B160:7331",
+   "carry": "exact",
+   "long": "We found it in the desk at Queen￥Hospital."
+  },
+  {
+   "off": 7796,
+   "budget": 45,
+   "en": "Old-fashioned matches from￥Queen Hosp.",
+   "src": "B160:7368",
+   "carry": "rebroken",
+   "long": "They're the old-fashioned matches￥from Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7841,
+   "budget": 31,
+   "en": "A memo in Harry's hand.",
+   "src": "B160:7411",
+   "carry": "exact",
+   "long": "It's the note Harry apparently￥wrote."
+  },
+  {
+   "off": 7872,
+   "budget": 45,
+   "en": "A memo left in the mechanic room.",
+   "src": "B160:7442",
+   "carry": "rebroken",
+   "long": "It's the note we found in the￥Mechanic room.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7917,
+   "budget": 13,
+   "en": "Video memory",
+   "src": "B160:7485",
+   "carry": "exact"
+  },
+  {
+   "off": 7930,
+   "budget": 13,
+   "en": "Little John",
+   "src": "B160:7498",
+   "carry": "exact"
+  },
+  {
+   "off": 7943,
+   "budget": 49,
+   "en": "Footage left in Little John's￥memory.",
+   "src": "B160:7511",
+   "carry": "rebroken",
+   "long": "It's the image recovered from Little￥John's memory.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7992,
+   "budget": 9,
+   "en": "Red Sq.",
+   "src": "B160:7558",
+   "carry": "exact",
+   "long": "Red Square"
+  },
+  {
+   "off": 8001,
+   "budget": 41,
+   "en": "A still photo hidden in￥the Chief's rm",
+   "src": "B160:7567",
+   "carry": "exact",
+   "long": "It's the photograph hidden in the￥Chief's office."
+  },
+  {
+   "off": 8042,
+   "budget": 5,
+   "en": "Hall",
+   "src": "B160:7608",
+   "carry": "exact",
+   "long": "Temple"
+  },
+  {
+   "off": 8047,
+   "budget": 49,
+   "en": "Temple painting from a￥Queen Hospital room.",
+   "src": "B160:7613",
+   "carry": "rebroken",
+   "long": "It's the picture of a temple that￥was hanging in Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8096,
+   "budget": 67,
+   "en": "It has a built-in chip containing￥all your records, Gillian.",
+   "src": "B160:7660",
+   "carry": "exact"
+  },
+  {
+   "off": 8163,
+   "budget": 51,
+   "en": "Case expenses are covered￥as work requires.",
+   "src": "B160:7727",
+   "carry": "rebroken",
+   "long": "In principle, there's no limit on￥reimbursement for necessary￥investigation expenses.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8214,
+   "budget": 47,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "src": "B160:7776",
+   "carry": "rebroken",
+   "long": "It's the candy Jean used to give the￥children at the orphanage.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8261,
+   "budget": 59,
+   "en": "So the piece pointed to the name￥of Queen Hospital.",
+   "src": "B160:7821",
+   "carry": "rebroken",
+   "long": "This piece was apparently meant to￥tell us the name Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8320,
+   "budget": 57,
+   "en": "It's a wooden chess piece. The￥queen.",
+   "src": "B160:7878",
+   "carry": "exact"
+  },
+  {
+   "off": 8377,
+   "budget": 85,
+   "en": "It's a code using Chinese chemical￥element symbols. Decoded, it reads￥BENSON.",
+   "src": "B160:7935",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8462,
+   "budget": 65,
+   "en": "It seems to be part of a medical￥record, but what does it say?",
+   "src": "B160:8018",
+   "carry": "exact"
+  },
+  {
+   "off": 8527,
+   "budget": 73,
+   "en": "Matches from 'Outer Heaven'.￥A gift for the regulars,￥no doubt.",
+   "src": "B160:8083",
+   "carry": "exact",
+   "long": "They're matches from Outer Heaven.￥Probably free gifts for regular￥customers."
+  },
+  {
+   "off": 8600,
+   "budget": 63,
+   "en": "'Face to Face'.￥A memo on the illusion￥picture's secret.",
+   "src": "B160:8156",
+   "carry": "exact",
+   "long": "\"Face to face.\" The note reveals￥the secret of the optical illusion."
+  },
+  {
+   "off": 8663,
+   "budget": 77,
+   "en": "\"Face to face.\" It's Harry's￥handwriting, but what does it mean?",
+   "src": "B160:8219",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8740,
+   "budget": 55,
+   "en": "It's an image of Queen Hospital's￥neon sign.",
+   "src": "B160:8294",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8795,
+   "budget": 69,
+   "en": "It reads \"Hospital OLEEN.\" It must￥be a hospital's neon sign.",
+   "src": "B160:8347",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8864,
+   "budget": 65,
+   "en": "A still photo of Red Square￥in Moscow, before the Catastrophe.",
+   "src": "B160:8414",
+   "carry": "exact",
+   "long": "It's a photograph of Red Square in￥Moscow before the Catastrophe."
+  },
+  {
+   "off": 8929,
+   "budget": 69,
+   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "src": "B160:8479",
+   "carry": "rebroken",
+   "long": "It's St. Basil's Cathedral, a famous￥church in Moscow before the￥Catastrophe.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8998,
+   "budget": 37,
+   "en": "Who really wrote this?",
+   "src": "B160:8546",
+   "carry": "exact"
+  },
+  {
+   "off": 9035,
+   "budget": 57,
+   "en": "Anyone could imitate Harry's￥handwriting.",
+   "src": "B160:8583",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9092,
+   "budget": 45,
+   "en": "Same as the mechanic room￥matches.",
+   "src": "B160:8638",
+   "carry": "rebroken",
+   "long": "They're the same matches as the ones￥in the Mechanic room.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9137,
+   "budget": 25,
+   "en": "That's what it means.",
+   "src": "B160:8681",
+   "carry": "exact"
+  },
+  {
+   "off": 9164,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

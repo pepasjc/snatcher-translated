@@ -1,0 +1,45 @@
+{
+ "scene": "B0B0",
+ "note": "Gillian's apartment from the B0A0_auto bookmark (the tricycle at HQ, its destination list):  Gillian's home, then Look/Check sweeps (the videophone call to Jamie needs the keypad driver - not yet).",
+ "actions": [
+  {
+   "path": [
+    "Gillian's home"
+   ],
+   "patience": 4000
+  },
+  {
+   "idle": 600
+  },
+  {
+   "wait_menu": true,
+   "patience": 12000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "wait_menu": true,
+   "patience": 12000
+  },
+  {
+   "save": "B0B0_start"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Item",
+    "Listen"
+   ],
+   "rounds": 2
+  },
+  {
+   "save": "B0B0_swept"
+  }
+ ]
+}

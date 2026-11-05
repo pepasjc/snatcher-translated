@@ -1,0 +1,1384 @@
+{
+ "file": "ISZ_B190.BIN",
+ "text_base": 4400,
+ "strings": [
+  {
+   "off": 4400,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 4405,
+   "budget": 17,
+   "en": "Look 'around'"
+  },
+  {
+   "off": 4422,
+   "budget": 15,
+   "en": "Check Santa"
+  },
+  {
+   "off": 4437,
+   "budget": 19,
+   "en": "Outside Altamira.",
+   "long": "We're outside Altamira."
+  },
+  {
+   "off": 4456,
+   "budget": 37,
+   "en": "I wonder if Napoleon is here."
+  },
+  {
+   "off": 4493,
+   "budget": 59,
+   "en": "We're finished here. Let's hurry to￥Oleen Hospital."
+  },
+  {
+   "off": 4552,
+   "budget": 79,
+   "en": "No use staying here.￥Let's go to the 'Oleen' Hospital￥Napoleon spoke of.",
+   "long": "There's no point staying here. Let's￥try the Oleen Hospital Napoleon￥mentioned."
+  },
+  {
+   "off": 4631,
+   "budget": 77,
+   "en": "We need to contact Napoleon by￥videophone before we can meet him."
+  },
+  {
+   "off": 4708,
+   "budget": 49,
+   "en": "To meet Napoleon,￥we must call first...",
+   "long": "If you want to meet Napoleon, we￥need to call him."
+  },
+  {
+   "off": 4757,
+   "budget": 63,
+   "en": "Kept waiting so long, Napoleon may￥have gone home.",
+   "long": "We kept Napoleon waiting so long￥that he's probably gone home."
+  },
+  {
+   "off": 4820,
+   "budget": 47,
+   "en": "Napoleon has probably gone home￥already."
+  },
+  {
+   "off": 4867,
+   "budget": 9,
+   "en": "Get in",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 4876,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 4881,
+   "budget": 3,
+   "en": "St",
+   "long": "Street"
+  },
+  {
+   "off": 4884,
+   "budget": 27,
+   "en": "The town is all Christmas.",
+   "long": "The whole city is ready for￥Christmas."
+  },
+  {
+   "off": 4911,
+   "budget": 53,
+   "en": "There are decorated Christmas trees￥everywhere."
+  },
+  {
+   "off": 4964,
+   "budget": 43,
+   "en": "It really is close now.￥Christmas...",
+   "long": "Christmas really is just around the￥corner."
+  },
+  {
+   "off": 5007,
+   "budget": 41,
+   "en": "What of Christmas,￥Gillian?",
+   "long": "What are your plans for Christmas,￥Gillian?"
+  },
+  {
+   "off": 5048,
+   "budget": 51,
+   "en": "Me? I'll be with Jamie. Well, I'm￥not sure."
+  },
+  {
+   "off": 5099,
+   "budget": 45,
+   "en": "So you have not made any firm plans￥yet?"
+  },
+  {
+   "off": 5144,
+   "budget": 9,
+   "en": "No."
+  },
+  {
+   "off": 5153,
+   "budget": 55,
+   "en": "Don't worry. I won't let you spend￥Christmas alone."
+  },
+  {
+   "off": 5208,
+   "budget": 59,
+   "en": "Turned down, Gillian?￥Then it's Christmas with me.",
+   "long": "If she turns you down, we can spend￥Christmas together, Gillian."
+  },
+  {
+   "off": 5267,
+   "budget": 11,
+   "en": "With you?"
+  },
+  {
+   "off": 5278,
+   "budget": 33,
+   "en": "It'll be my first Christmas."
+  },
+  {
+   "off": 5311,
+   "budget": 29,
+   "en": "As a last resort, I mean...",
+   "long": "You can save me as a last resort."
+  },
+  {
+   "off": 5340,
+   "budget": 23,
+   "en": "That is the worst.",
+   "long": "That would be the worst part."
+  },
+  {
+   "off": 5363,
+   "budget": 7,
+   "en": "Neon",
+   "long": "Neon signs"
+  },
+  {
+   "off": 5370,
+   "budget": 45,
+   "en": "There really are a lot of neon￥signs."
+  },
+  {
+   "off": 5415,
+   "budget": 61,
+   "en": "Oh?￥The 'P' of Pachinko is out,￥leaving a risky word.",
+   "long": "Oh! The letters Gr and als in that￥Great Meals sign are out. Now it￥says Eat Me!"
+  },
+  {
+   "off": 5476,
+   "budget": 35,
+   "en": "All sorts, and very pretty.",
+   "long": "So many different signs. They're￥beautiful."
+  },
+  {
+   "off": 5511,
+   "budget": 55,
+   "en": "The neon looks like Christmas￥lights. Very festive."
+  },
+  {
+   "off": 5566,
+   "budget": 17,
+   "en": "Ad display"
+  },
+  {
+   "off": 5583,
+   "budget": 45,
+   "en": "New-year show trailers and￥adverts run.",
+   "long": "They're showing ads and previews of￥holiday programs."
+  },
+  {
+   "off": 5628,
+   "budget": 63,
+   "en": "Lots of people are meeting in front￥of the giant screen."
+  },
+  {
+   "off": 5691,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 5698,
+   "budget": 71,
+   "en": "It really feels like Christmas.￥There's ＠赤Santa Claus＠白!"
+  },
+  {
+   "off": 5769,
+   "budget": 43,
+   "en": "I'm glad you got to eat it this￥time."
+  },
+  {
+   "off": 5812,
+   "budget": 49,
+   "en": "I'm never eating Neo Kobe Yaki￥again."
+  },
+  {
+   "off": 5861,
+   "budget": 13,
+   "en": "Passersby"
+  },
+  {
+   "off": 5874,
+   "budget": 47,
+   "en": "Year's end.￥Everyone hurrying to and fro.",
+   "long": "Everyone's rushing about. It must be￥the end of the year."
+  },
+  {
+   "off": 5921,
+   "budget": 65,
+   "en": "Nobody seems worried about the￥Snatchers at all."
+  },
+  {
+   "off": 5986,
+   "budget": 15,
+   "en": "Santa"
+  },
+  {
+   "off": 6001,
+   "budget": 71,
+   "en": "＠黄Someone dressed as Santa Claus is￥handing out tissues.＠白"
+  },
+  {
+   "off": 6072,
+   "budget": 31,
+   "en": "Hmm? That Santa Claus."
+  },
+  {
+   "off": 6103,
+   "budget": 27,
+   "en": "What? Is something wrong?"
+  },
+  {
+   "off": 6130,
+   "budget": 25,
+   "en": "No... my fancy, perhaps?",
+   "long": "No. Maybe it's my imagination."
+  },
+  {
+   "off": 6155,
+   "budget": 17,
+   "en": "Shall I check?",
+   "long": "Shall we take a closer look?"
+  },
+  {
+   "off": 6172,
+   "budget": 57,
+   "en": "At year's end one often sees folk￥dressed as Santa.",
+   "long": "You often see people dressed as￥Santa this time of year."
+  },
+  {
+   "off": 6229,
+   "budget": 45,
+   "en": "I know, but... that Santa Claus...",
+   "long": "True, but there's something about￥that one."
+  },
+  {
+   "off": 6274,
+   "budget": 43,
+   "en": "If it bugs you, let's check?",
+   "long": "If you're so curious, why don't we￥take a closer look?"
+  },
+  {
+   "off": 6317,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 6324,
+   "budget": 41,
+   "en": "Boiling over with Christmas￥sales.",
+   "long": "The Christmas sales have everyone￥excited."
+  },
+  {
+   "off": 6365,
+   "budget": 51,
+   "en": "Nobody seems concerned about the￥Snatchers."
+  },
+  {
+   "off": 6416,
+   "budget": 49,
+   "en": "Christmas songs in many tongues￥are playing.",
+   "long": "Christmas songs are playing in all￥sorts of languages."
+  },
+  {
+   "off": 6465,
+   "budget": 45,
+   "en": "Faith or no,￥Christmas is Christmas...",
+   "long": "Christmas is Christmas, whatever￥your religion."
+  },
+  {
+   "off": 6510,
+   "budget": 37,
+   "en": "Neon signs in many tongues.",
+   "long": "There are neon signs in many￥languages."
+  },
+  {
+   "off": 6547,
+   "budget": 49,
+   "en": "Mostly 3D images made to￥look like neon tubes.",
+   "long": "Most are 3D projections made to look￥like neon tubes."
+  },
+  {
+   "off": 6596,
+   "budget": 41,
+   "en": "All sorts of adverts, really.",
+   "long": "They're showing all sorts of￥commercials."
+  },
+  {
+   "off": 6637,
+   "budget": 53,
+   "en": "Seen like this, the ads￥are part of the scenery.",
+   "long": "Seen this way, even the commercials￥are part of the city scenery."
+  },
+  {
+   "off": 6690,
+   "budget": 41,
+   "en": "None of the remaining ads look￥useful."
+  },
+  {
+   "off": 6731,
+   "budget": 31,
+   "en": "Someone dropped something odd!",
+   "long": "Someone dropped something strange!"
+  },
+  {
+   "off": 6762,
+   "budget": 21,
+   "en": "A cigarette end.",
+   "long": "It's a cigarette butt."
+  },
+  {
+   "off": 6783,
+   "budget": 13,
+   "en": "I see..."
+  },
+  {
+   "off": 6796,
+   "budget": 41,
+   "en": "Let's take a closer look at that￥Santa."
+  },
+  {
+   "off": 6837,
+   "budget": 19,
+   "en": "Let's go..."
+  },
+  {
+   "off": 6856,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 6861,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 6876,
+   "budget": 13,
+   "en": "Videophone"
+  },
+  {
+   "off": 6889,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 6900,
+   "budget": 37,
+   "en": "I'll save our progress so far."
+  },
+  {
+   "off": 6937,
+   "budget": 35,
+   "en": "I don't see anyone suspicious."
+  },
+  {
+   "off": 6972,
+   "budget": 51,
+   "en": "Quite ordinary people.￥Nothing suspicious.",
+   "long": "They're ordinary people. Nothing￥suspicious about them."
+  },
+  {
+   "off": 7023,
+   "budget": 59,
+   "en": "But a Snatcher could be hiding among￥them."
+  },
+  {
+   "off": 7082,
+   "budget": 41,
+   "en": "Think that and you'd￥never go out.",
+   "long": "Think like that and you'll be too￥scared to walk down the street."
+  },
+  {
+   "off": 7123,
+   "budget": 11,
+   "en": "Napoleon"
+  },
+  {
+   "off": 7134,
+   "budget": 45,
+   "en": "A Chinese Santa Claus...￥it doesn't suit.",
+   "long": "A Chinese Santa Claus? It doesn't￥suit you."
+  },
+  {
+   "off": 7179,
+   "budget": 21,
+   "en": "Well, excuse me."
+  },
+  {
+   "off": 7200,
+   "budget": 67,
+   "en": "It's a disguise! I don't dress like￥this for fun."
+  },
+  {
+   "off": 7267,
+   "budget": 61,
+   "en": "I'm not wearing this for fun. It's a￥disguise."
+  },
+  {
+   "off": 7328,
+   "budget": 5,
+   "en": "Garb",
+   "long": "Clothes"
+  },
+  {
+   "off": 7333,
+   "budget": 35,
+   "en": "A typical Santa Claus outfit."
+  },
+  {
+   "off": 7368,
+   "budget": 27,
+   "en": "He bears a large sack.",
+   "long": "He's carrying a large sack on his￥back."
+  },
+  {
+   "off": 7395,
+   "budget": 41,
+   "en": "What's in there? Presents?"
+  },
+  {
+   "off": 7436,
+   "budget": 33,
+   "en": "Want some? It's tissues."
+  },
+  {
+   "off": 7469,
+   "budget": 25,
+   "en": "No, thanks. No, thanks."
+  },
+  {
+   "off": 7494,
+   "budget": 31,
+   "en": "Hey! Keep your hands off me!"
+  },
+  {
+   "off": 7525,
+   "budget": 33,
+   "en": "Don't pull it! It's borrowed!",
+   "long": "Don't pull on the costume! It's￥borrowed!"
+  },
+  {
+   "off": 7558,
+   "budget": 63,
+   "en": "The label says it's made by Rick￥Bakery Studio."
+  },
+  {
+   "off": 7621,
+   "budget": 59,
+   "en": "The make-up studio that makes￥Outer Heaven's masks.",
+   "long": "That's the makeup studio that makes￥masks for Outer Heaven."
+  },
+  {
+   "off": 7680,
+   "budget": 65,
+   "en": "Rick Bakery Studio made, so￥a proper costume indeed.",
+   "long": "It's a convincing costume, as you'd￥expect from Rick Bakery Studio."
+  },
+  {
+   "off": 7745,
+   "budget": 53,
+   "en": "Oh, the place the Joy Division clerk￥recommended?"
+  },
+  {
+   "off": 7798,
+   "budget": 5,
+   "en": "Ask"
+  },
+  {
+   "off": 7803,
+   "budget": 15,
+   "en": "About Napoleon"
+  },
+  {
+   "off": 7818,
+   "budget": 45,
+   "en": "Time you told me who you are?",
+   "long": "Isn't it time you told me who you￥really are?"
+  },
+  {
+   "off": 7863,
+   "budget": 49,
+   "en": "An informant's best left￥a mystery.",
+   "long": "An informant is easier to deal with￥when he stays a mystery."
+  },
+  {
+   "off": 7912,
+   "budget": 33,
+   "en": "In time you'll come to know.",
+   "long": "You will find out sooner or later."
+  },
+  {
+   "off": 7945,
+   "budget": 31,
+   "en": "Maybe. Someday."
+  },
+  {
+   "off": 7976,
+   "budget": 15,
+   "en": "Black clinic",
+   "long": "Illegal hospital"
+  },
+  {
+   "off": 7991,
+   "budget": 35,
+   "en": "Tell me about the black clinics.",
+   "long": "I need information about underground￥hospitals."
+  },
+  {
+   "off": 8026,
+   "budget": 105,
+   "en": "Besides the registered hospitals￥the city has countless black￥ones. Knowing them all is beyond me.",
+   "long": "Besides the registered hospitals,￥the city has countless illegal ones.￥Nobody could keep track of them all."
+  },
+  {
+   "off": 8131,
+   "budget": 85,
+   "en": "No, wait...￥if it's a black practice...￥the drug route might tell.",
+   "long": "Wait. You might be able to trace￥those illegal clinics through their￥medical supplies."
+  },
+  {
+   "off": 8216,
+   "budget": 59,
+   "en": "Nearly all city medicines￥are made on the island.",
+   "long": "Most of the city's medical drugs are￥made here on the island."
+  },
+  {
+   "off": 8275,
+   "budget": 77,
+   "en": "Right. All island drugs pass￥through ＠赤Kobe Pharmaceutical＠白.",
+   "long": "That's right. All drugs on the￥island are distributed through the￥＠赤Kobe Pharmaceutical Research￥Institute＠白."
+  },
+  {
+   "off": 8352,
+   "budget": 37,
+   "en": "Jamie is looking into it now."
+  },
+  {
+   "off": 8389,
+   "budget": 63,
+   "en": "'Kobe Pharmaceutical'...?￥That's it, Jamie works there!￥",
+   "long": "The Kobe Pharmaceutical Research￥Institute? Of course! Jamie works￥there!"
+  },
+  {
+   "off": 8452,
+   "budget": 87,
+   "en": "Jamie should be overseeing drug￥shipments on the island. She might￥know something."
+  },
+  {
+   "off": 8539,
+   "budget": 67,
+   "en": "That's right! ＠黄Let's call Jamie later￥and ask her."
+  },
+  {
+   "off": 8606,
+   "budget": 57,
+   "en": "Better to ask an expert in that￥line than me.",
+   "long": "You'll have better luck asking an￥expert in the field than me."
+  },
+  {
+   "off": 8663,
+   "budget": 11,
+   "en": "OLEEN"
+  },
+  {
+   "off": 8674,
+   "budget": 95,
+   "en": "It may not be the one you're after,￥but I know a place called ＠赤Oleen￥Hospital＠白."
+  },
+  {
+   "off": 8769,
+   "budget": 47,
+   "en": "Only that 'Oleen Hospital'￥comes to mind...",
+   "long": "Oleen Hospital is the only one that￥comes to mind."
+  },
+  {
+   "off": 8816,
+   "budget": 31,
+   "en": "First, let's see my payment."
+  },
+  {
+   "off": 8847,
+   "budget": 13,
+   "en": "Oleen Hosp.",
+   "long": "Oleen Hospital"
+  },
+  {
+   "off": 8860,
+   "budget": 57,
+   "en": "....No details, but a mean place￥in the RF district.",
+   "long": "I don't know much about it. It's a￥shabby little hospital in the RF￥district."
+  },
+  {
+   "off": 8917,
+   "budget": 31,
+   "en": "Why not check it out?"
+  },
+  {
+   "off": 8948,
+   "budget": 59,
+   "en": "That's all I know. You'll have to￥see for yourself."
+  },
+  {
+   "off": 9007,
+   "budget": 77,
+   "en": "This is my trade.￥You understand? A little more￥generosity, please...",
+   "long": "This is a business, you understand?￥You'll have to be a little more￥generous."
+  },
+  {
+   "off": 9084,
+   "budget": 11,
+   "en": "Snow cedar"
+  },
+  {
+   "off": 9095,
+   "budget": 85,
+   "en": "A subspecies the army bred long￥ago, they say.￥A barrier weapon for bases.",
+   "long": "It's supposedly a subspecies the￥military engineered long ago to form￥defensive barriers around bases and￥the like."
+  },
+  {
+   "off": 9180,
+   "budget": 47,
+   "en": "But wasn't it all destroyed years￥ago?"
+  },
+  {
+   "off": 9227,
+   "budget": 59,
+   "en": "But they say it's breeding￥somewhere, these three years.",
+   "long": "They say it's been growing somewhere￥again for about three years."
+  },
+  {
+   "off": 9286,
+   "budget": 47,
+   "en": "Three years?￥That matches the Snatchers.",
+   "long": "Three years? That's when the￥Snatchers appeared."
+  },
+  {
+   "off": 9333,
+   "budget": 115,
+   "en": "Clear it and it breeds again.￥The breeding grounds are off￥limits, but the wind carries￥it to town.",
+   "long": "It grows right back even if they￥remove it. The affected areas are￥off-limits, but the wind carries the￥pollen into town."
+  },
+  {
+   "off": 9448,
+   "budget": 7,
+   "en": "Show"
+  },
+  {
+   "off": 9455,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 9470,
+   "budget": 57,
+   "en": "For your own sake, don't flash that￥around here."
+  },
+  {
+   "off": 9527,
+   "budget": 45,
+   "en": "I get it already! You're a JUNKER!"
+  },
+  {
+   "off": 9572,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 9579,
+   "budget": 35,
+   "en": "Cheapskate. Just showing it off?"
+  },
+  {
+   "off": 9614,
+   "budget": 43,
+   "en": "Oh? You've got quite a bit there."
+  },
+  {
+   "off": 9657,
+   "budget": 25,
+   "en": "So, what do you want??",
+   "long": "So, what do you want to know?"
+  },
+  {
+   "off": 9682,
+   "budget": 5,
+   "en": "Drop",
+   "long": "Candy"
+  },
+  {
+   "off": 9687,
+   "budget": 29,
+   "en": "That's Gibson's candy."
+  },
+  {
+   "off": 9716,
+   "budget": 35,
+   "en": "He always carried it with him."
+  },
+  {
+   "off": 9751,
+   "budget": 11,
+   "en": "Chess man",
+   "long": "Chess piece"
+  },
+  {
+   "off": 9762,
+   "budget": 41,
+   "en": "Still no idea what this piece￥means.",
+   "long": "I still don't know what this chess￥piece means."
+  },
+  {
+   "off": 9803,
+   "budget": 25,
+   "en": "What could it be?"
+  },
+  {
+   "off": 9828,
+   "budget": 13,
+   "en": "Video memory"
+  },
+  {
+   "off": 9841,
+   "budget": 13,
+   "en": "Little John"
+  },
+  {
+   "off": 9854,
+   "budget": 57,
+   "en": "HOSPITAL OLEEN? What language is￥that?"
+  },
+  {
+   "off": 9911,
+   "budget": 33,
+   "en": "Where's that?￥Never seen it.",
+   "long": "Where could it be? I've never seen￥it."
+  },
+  {
+   "off": 9944,
+   "budget": 5,
+   "en": "Use"
+  },
+  {
+   "off": 9949,
+   "budget": 41,
+   "en": "Greedy as ever. Take it!"
+  },
+  {
+   "off": 9990,
+   "budget": 21,
+   "en": "Heh, much obliged.",
+   "long": "Heh. Always a pleasure."
+  },
+  {
+   "off": 10011,
+   "budget": 61,
+   "en": "Waste it for nothing and they￥call it wasted tax again!",
+   "long": "Keep throwing money away and people￥will accuse us of wasting taxes￥again!"
+  },
+  {
+   "off": 10072,
+   "budget": 21,
+   "en": "Damn it. Keep it!"
+  },
+  {
+   "off": 10093,
+   "budget": 27,
+   "en": "Heh. Much appreciated."
+  },
+  {
+   "off": 10120,
+   "budget": 75,
+   "en": "With these things, timing the￥payment is all.￥Or you get bled.",
+   "long": "Timing is everything when you offer￥money. Otherwise he'll just keep￥taking it."
+  },
+  {
+   "off": 10195,
+   "budget": 49,
+   "en": "Calling me out, then the￥videophone. Rude.",
+   "long": "You call me out here, then use the￥videophone? That's rude."
+  },
+  {
+   "off": 10244,
+   "budget": 31,
+   "en": "Use the videophone later."
+  },
+  {
+   "off": 10275,
+   "budget": 29,
+   "en": "Business? Be quick.",
+   "long": "If you want something, make it￥quick."
+  },
+  {
+   "off": 10304,
+   "budget": 21,
+   "en": "A cold, Napoleon?",
+   "long": "Caught a cold, Napoleon?"
+  },
+  {
+   "off": 10325,
+   "budget": 15,
+   "en": "Allergies."
+  },
+  {
+   "off": 10340,
+   "budget": 79,
+   "en": "There's a ragweed sort that￥blooms in winter...￥its pollen, it seems.",
+   "long": "Apparently some kind of ragweed￥blooms in winter. Its pollen must be￥causing this."
+  },
+  {
+   "off": 10419,
+   "budget": 73,
+   "en": "It blooms in midwinter and its￥pollen causes allergies. Snow￥Cedar?!"
+  },
+  {
+   "off": 10492,
+   "budget": 53,
+   "en": "Snatchers always bring a Snow Cedar￥response.",
+   "long": "We always detect Snow Cedar when a￥Snatcher appears."
+  },
+  {
+   "off": 10545,
+   "budget": 47,
+   "en": "I can't stop sneezing."
+  },
+  {
+   "off": 10592,
+   "budget": 21,
+   "en": "You've got it bad."
+  },
+  {
+   "off": 10613,
+   "budget": 31,
+   "en": "Let's look for Catherine."
+  },
+  {
+   "off": 10644,
+   "budget": 55,
+   "en": "Catherine did say she comes here￥often."
+  },
+  {
+   "off": 10699,
+   "budget": 51,
+   "en": "Catherine isn't here.￥Let's search elsewhere!",
+   "long": "Catherine doesn't seem to be here.￥Let's look elsewhere!"
+  },
+  {
+   "off": 10750,
+   "budget": 53,
+   "en": "Catherine hasn't come here.￥Let's look elsewhere.",
+   "long": "It doesn't look like Catherine came￥here. Let's try somewhere else."
+  },
+  {
+   "off": 10803,
+   "budget": 21,
+   "en": "Try elsewhere, then.",
+   "long": "Let's try somewhere else."
+  },
+  {
+   "off": 10824,
+   "budget": 37,
+   "en": "Shall we trust the fortune teller?"
+  },
+  {
+   "off": 10861,
+   "budget": 55,
+   "en": "It's even more crowded and festive￥than last time."
+  },
+  {
+   "off": 10916,
+   "budget": 53,
+   "en": "Even if Catherine's here,￥finding her is a job.",
+   "long": "Even if Catherine is here, finding￥her will be difficult."
+  },
+  {
+   "off": 10969,
+   "budget": 17,
+   "en": "Shop window"
+  },
+  {
+   "off": 10986,
+   "budget": 57,
+   "en": "Christmas and end-of-year￥merchandise is on display.",
+   "long": "The displays are full of Christmas￥and year-end merchandise."
+  },
+  {
+   "off": 11043,
+   "budget": 49,
+   "en": "Many clothes Catherine would like￥are out too.",
+   "long": "There are lots of clothes Catherine￥would like."
+  },
+  {
+   "off": 11092,
+   "budget": 31,
+   "en": "Catherine isn't here."
+  },
+  {
+   "off": 11123,
+   "budget": 57,
+   "en": "Couples and families enjoy the￥Christmas air.",
+   "long": "Couples and families are enjoying￥the Christmas atmosphere."
+  },
+  {
+   "off": 11180,
+   "budget": 21,
+   "en": "Oh! Over there!"
+  },
+  {
+   "off": 11201,
+   "budget": 21,
+   "en": "Was that Catherine?",
+   "long": "Did you find Catherine?"
+  },
+  {
+   "off": 11222,
+   "budget": 25,
+   "en": "No, wrong person...",
+   "long": "No, I mistook someone else for her."
+  },
+  {
+   "off": 11247,
+   "budget": 25,
+   "en": "It wasn't her after all."
+  },
+  {
+   "off": 11272,
+   "budget": 31,
+   "en": "I don't see Catherine."
+  },
+  {
+   "off": 11303,
+   "budget": 41,
+   "en": "The town is decorated more￥each day.",
+   "long": "The city gets more decorations every￥day."
+  },
+  {
+   "off": 11344,
+   "budget": 33,
+   "en": "Ah, tissues lie there.",
+   "long": "Oh, there's a pack of tissues on the￥ground."
+  },
+  {
+   "off": 11377,
+   "budget": 37,
+   "en": "The kind Napoleon was handing out."
+  },
+  {
+   "off": 11414,
+   "budget": 31,
+   "en": "These seem to be different."
+  },
+  {
+   "off": 11445,
+   "budget": 49,
+   "en": "Catherine isn't near the shop￥windows."
+  },
+  {
+   "off": 11494,
+   "budget": 31,
+   "en": "No sign of Catherine.",
+   "long": "I can't see Catherine anywhere."
+  },
+  {
+   "off": 11525,
+   "budget": 55,
+   "en": "Finding Catherine in this crowd will￥be difficult."
+  },
+  {
+   "off": 11580,
+   "budget": 11,
+   "en": "Tissues"
+  },
+  {
+   "off": 11591,
+   "budget": 79,
+   "en": "There's an ad on it. Cupid's Love￥Videophone."
+  },
+  {
+   "off": 11670,
+   "budget": 19,
+   "en": "A dial Q2, that.",
+   "long": "A Q2 phone service."
+  },
+  {
+   "off": 11689,
+   "budget": 83,
+   "en": "It seems so. The number for men is￥＠赤39-0910＠白."
+  },
+  {
+   "off": 11772,
+   "budget": 55,
+   "en": "＠赤39-0910＠白. Got it."
+  },
+  {
+   "off": 11827,
+   "budget": 33,
+   "en": "Surely... you mean to call?",
+   "long": "You're not planning to call, are￥you?"
+  },
+  {
+   "off": 11860,
+   "budget": 19,
+   "en": "Who knows?"
+  },
+  {
+   "off": 11879,
+   "budget": 15,
+   "en": "Find Catherine"
+  },
+  {
+   "off": 11894,
+   "budget": 51,
+   "en": "Catherine! Catherine! Answer me if￥you're here!"
+  },
+  {
+   "off": 11945,
+   "budget": 41,
+   "en": "In such a crowd￥she can't hear.",
+   "long": "She won't hear you in this crowd,￥Gillian."
+  },
+  {
+   "off": 11986,
+   "budget": 59,
+   "en": "Right, try the busy quarter!￥Metal, don't miss her!",
+   "long": "Let's search the shopping district!￥Keep your eyes open, Metal!"
+  },
+  {
+   "off": 12045,
+   "budget": 47,
+   "en": "Understood. I won't miss Catherine!"
+  },
+  {
+   "off": 12092,
+   "budget": 25,
+   "en": "No good. Not a sign.",
+   "long": "No luck. She's nowhere in sight."
+  },
+  {
+   "off": 12117,
+   "budget": 19,
+   "en": "She's not here.",
+   "long": "She doesn't seem to be here."
+  },
+  {
+   "off": 12136,
+   "budget": 33,
+   "en": "Let's split up! I'll go here!",
+   "long": "Let's split up! I'll go this way!"
+  },
+  {
+   "off": 12169,
+   "budget": 29,
+   "en": "Then I'll search over here."
+  },
+  {
+   "off": 12198,
+   "budget": 9,
+   "en": "Found?",
+   "long": "Did you find her?"
+  },
+  {
+   "off": 12207,
+   "budget": 27,
+   "en": "No, I can't find her!"
+  },
+  {
+   "off": 12234,
+   "budget": 29,
+   "en": "Let's look over there."
+  },
+  {
+   "off": 12263,
+   "budget": 25,
+   "en": "No good, not a sign.",
+   "long": "No luck. She's nowhere in sight."
+  },
+  {
+   "off": 12288,
+   "budget": 53,
+   "en": "Still searching? I don't think she's￥here."
+  },
+  {
+   "off": 12341,
+   "budget": 29,
+   "en": "Ah, that fortune teller!!",
+   "long": "Oh, there's that fortune teller!"
+  },
+  {
+   "off": 12370,
+   "budget": 21,
+   "en": "That fraud?!"
+  },
+  {
+   "off": 12391,
+   "budget": 85,
+   "en": "Don't get so angry. We could ask her￥to tell us where Catherine is."
+  },
+  {
+   "off": 12476,
+   "budget": 45,
+   "en": "She won't know. She's a fake."
+  },
+  {
+   "off": 12521,
+   "budget": 81,
+   "en": "She has an excellent network of￥contacts. She might know something."
+  },
+  {
+   "off": 12602,
+   "budget": 15,
+   "en": "More than us?",
+   "long": "Better than ours?"
+  },
+  {
+   "off": 12617,
+   "budget": 13,
+   "en": "Divine",
+   "long": "Get a reading"
+  },
+  {
+   "off": 12630,
+   "budget": 69,
+   "en": "The ID card proving all JUNKER￥authority. Keep it safe.",
+   "long": "This ID card certifies all your￥authority as a JUNKER. Take good￥care of it."
+  },
+  {
+   "off": 12699,
+   "budget": 35,
+   "en": "It's the money JUNKER provided."
+  },
+  {
+   "off": 12734,
+   "budget": 35,
+   "en": "It's the candy from Jean's pocket."
+  },
+  {
+   "off": 12769,
+   "budget": 7,
+   "en": "Proof",
+   "long": "Evidence"
+  },
+  {
+   "off": 12776,
+   "budget": 3,
+   "en": "Pc",
+   "long": "Chess piece"
+  },
+  {
+   "off": 12779,
+   "budget": 67,
+   "en": "It's Gibson's chess piece, the clue￥to Queen Hospital's name."
+  },
+  {
+   "off": 12846,
+   "budget": 37,
+   "en": "A chess piece Gibson carried.",
+   "long": "It's the chess piece Gibson was￥carrying."
+  },
+  {
+   "off": 12883,
+   "budget": 7,
+   "en": "Chart",
+   "long": "Medical chart"
+  },
+  {
+   "off": 12890,
+   "budget": 41,
+   "en": "A chart with a Snatcher's￥name on it.",
+   "long": "It's the medical record with a￥Snatcher's name on it."
+  },
+  {
+   "off": 12931,
+   "budget": 37,
+   "en": "Found on a desk at￥Queen Hospital.",
+   "long": "We found it in the desk at Queen￥Hospital."
+  },
+  {
+   "off": 12968,
+   "budget": 7,
+   "en": "Match",
+   "long": "Matches"
+  },
+  {
+   "off": 12975,
+   "budget": 43,
+   "en": "Old-fashioned matches from￥Queen Hosp.",
+   "long": "They're the old-fashioned matches￥from Queen Hospital."
+  },
+  {
+   "off": 13018,
+   "budget": 9,
+   "en": "Memo"
+  },
+  {
+   "off": 13027,
+   "budget": 31,
+   "en": "A memo in Harry's hand.",
+   "long": "It's the note Harry apparently￥wrote."
+  },
+  {
+   "off": 13058,
+   "budget": 43,
+   "en": "A memo left in the mechanic room.",
+   "long": "It's the note we found in the￥Mechanic room."
+  },
+  {
+   "off": 13101,
+   "budget": 47,
+   "en": "Footage left in Little John's￥memory.",
+   "long": "It's the image recovered from Little￥John's memory."
+  },
+  {
+   "off": 13148,
+   "budget": 9,
+   "en": "Red Sq.",
+   "long": "Red Square"
+  },
+  {
+   "off": 13157,
+   "budget": 41,
+   "en": "A still photo hidden in￥the Chief's rm",
+   "long": "It's the photograph hidden in the￥Chief's office."
+  },
+  {
+   "off": 13198,
+   "budget": 5,
+   "en": "Hall",
+   "long": "Temple"
+  },
+  {
+   "off": 13203,
+   "budget": 47,
+   "en": "Temple painting from a￥Queen Hospital room.",
+   "long": "It's the picture of a temple that￥was hanging in Queen Hospital."
+  },
+  {
+   "off": 13250,
+   "budget": 67,
+   "en": "It has a built-in chip containing￥all your records, Gillian."
+  },
+  {
+   "off": 13317,
+   "budget": 49,
+   "en": "Case expenses are covered￥as work requires.",
+   "long": "In principle, there's no limit on￥reimbursement for necessary￥investigation expenses."
+  },
+  {
+   "off": 13366,
+   "budget": 45,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "long": "It's the candy Jean used to give the￥children at the orphanage."
+  },
+  {
+   "off": 13411,
+   "budget": 57,
+   "en": "So the piece pointed to the name￥of Queen Hospital.",
+   "long": "This piece was apparently meant to￥tell us the name Queen Hospital."
+  },
+  {
+   "off": 13468,
+   "budget": 57,
+   "en": "It's a wooden chess piece. The￥queen."
+  },
+  {
+   "off": 13525,
+   "budget": 83,
+   "en": "It's a code using Chinese chemical￥element symbols. Decoded, it reads￥BENSON."
+  },
+  {
+   "off": 13608,
+   "budget": 65,
+   "en": "It seems to be part of a medical￥record, but what does it say?"
+  },
+  {
+   "off": 13673,
+   "budget": 73,
+   "en": "Matches from Outer Heaven.￥A little gift for the regulars,￥no doubt.",
+   "long": "They're matches from Outer Heaven.￥Probably free gifts for regular￥customers."
+  },
+  {
+   "off": 13746,
+   "budget": 61,
+   "en": "'face to face'￥A memo on the illusion￥picture's secret.",
+   "long": "Face to face. This note reveals the￥secret of the optical illusion."
+  },
+  {
+   "off": 13807,
+   "budget": 77,
+   "en": "\"Face to face.\" It's Harry's￥handwriting, but what does it mean?"
+  },
+  {
+   "off": 13884,
+   "budget": 53,
+   "en": "It's an image of Queen Hospital's￥neon sign."
+  },
+  {
+   "off": 13937,
+   "budget": 67,
+   "en": "It reads \"Hospital OLEEN.\" It must￥be a hospital's neon sign."
+  },
+  {
+   "off": 14004,
+   "budget": 65,
+   "en": "A still photo of Red Square￥in Moscow, before the Catastrophe.",
+   "long": "It's a photograph of Red Square in￥Moscow before the Catastrophe."
+  },
+  {
+   "off": 14069,
+   "budget": 67,
+   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "long": "It's St. Basil's Cathedral, a famous￥landmark in Moscow before the￥Catastrophe."
+  },
+  {
+   "off": 14136,
+   "budget": 19,
+   "en": "Money's no worry.",
+   "long": "Money won't be a problem."
+  },
+  {
+   "off": 14155,
+   "budget": 41,
+   "en": "Look flush and they'll￥fleece you.",
+   "long": "If they think you have an endless￥supply, they'll overcharge you."
+  },
+  {
+   "off": 14196,
+   "budget": 35,
+   "en": "The neon can't be seen from here.",
+   "long": "I can't see that neon sign from￥here."
+  },
+  {
+   "off": 14231,
+   "budget": 43,
+   "en": "That hospital isn't in Altamira.",
+   "long": "That hospital doesn't seem to be in￥Altamira."
+  },
+  {
+   "off": 14276,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

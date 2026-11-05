@@ -1,0 +1,1986 @@
+{
+ "file": "ISZ_B0E0.BIN",
+ "text_base": 5725,
+ "strings": [
+  {
+   "off": 5725,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 5730,
+   "budget": 25,
+   "en": "We're outside the shop."
+  },
+  {
+   "off": 5755,
+   "budget": 17,
+   "en": "Aaaah!"
+  },
+  {
+   "off": 5772,
+   "budget": 15,
+   "en": "What's wrong?!"
+  },
+  {
+   "off": 5787,
+   "budget": 21,
+   "en": "Look! A monster!"
+  },
+  {
+   "off": 5808,
+   "budget": 23,
+   "en": "What?! That guy?"
+  },
+  {
+   "off": 5831,
+   "budget": 33,
+   "en": "That's the mystery beast 'him'!",
+   "long": "It's Koitsu, the mysterious￥creature!"
+  },
+  {
+   "off": 5864,
+   "budget": 33,
+   "en": "It's a Moai from Easter Island!"
+  },
+  {
+   "off": 5897,
+   "budget": 29,
+   "en": "Everyone's looking at me."
+  },
+  {
+   "off": 5926,
+   "budget": 43,
+   "en": "You're still wearing the mask,￥Gillian."
+  },
+  {
+   "off": 5969,
+   "budget": 39,
+   "en": "Oh, right. Of course."
+  },
+  {
+   "off": 6008,
+   "budget": 33,
+   "en": "Honestly. Pay attention!"
+  },
+  {
+   "off": 6041,
+   "budget": 47,
+   "en": "Sorry, sorry. There. It's off."
+  },
+  {
+   "off": 6088,
+   "budget": 25,
+   "en": "Honestly... twice now.",
+   "long": "Honestly. That's the second time!"
+  },
+  {
+   "off": 6113,
+   "budget": 49,
+   "en": "Just kidding. There, it's off now."
+  },
+  {
+   "off": 6162,
+   "budget": 29,
+   "en": "We're outside Joy Division."
+  },
+  {
+   "off": 6191,
+   "budget": 35,
+   "en": "Oh, that logo! Now I see."
+  },
+  {
+   "off": 6226,
+   "budget": 77,
+   "en": "Less a shop than a village.￥This whole quarter seems to be￥Joy Division.",
+   "long": "It's more like a village than a￥shop. This whole area seems to be￥Joy Division."
+  },
+  {
+   "off": 6303,
+   "budget": 53,
+   "en": "Oi, out of the way!￥Don't stand in the road!",
+   "long": "Hey, move it! Why are you standing￥in the middle of the road?"
+  },
+  {
+   "off": 6356,
+   "budget": 11,
+   "en": "Ouch!"
+  },
+  {
+   "off": 6367,
+   "budget": 35,
+   "en": "Idiot! Don't stop there!"
+  },
+  {
+   "off": 6402,
+   "budget": 11,
+   "en": "Oof!"
+  },
+  {
+   "off": 6413,
+   "budget": 75,
+   "en": "Who's blocking the street? Get￥moving, country boy!"
+  },
+  {
+   "off": 6488,
+   "budget": 33,
+   "en": "Yikes! What a horrible place!"
+  },
+  {
+   "off": 6521,
+   "budget": 59,
+   "en": "Let's get out of this frightening￥place, Gillian."
+  },
+  {
+   "off": 6580,
+   "budget": 35,
+   "en": "Let's leave, Gillian. Quickly."
+  },
+  {
+   "off": 6615,
+   "budget": 37,
+   "en": "Let's finish up quickly, Gillian.",
+   "long": "Let's finish our business quickly,￥Gillian."
+  },
+  {
+   "off": 6652,
+   "budget": 37,
+   "en": "Let's get this job over with."
+  },
+  {
+   "off": 6689,
+   "budget": 5,
+   "en": "Move"
+  },
+  {
+   "off": 6694,
+   "budget": 9,
+   "en": "Get in",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 6703,
+   "budget": 11,
+   "en": "Enter shop"
+  },
+  {
+   "off": 6714,
+   "budget": 27,
+   "en": "Metal, into that shop.",
+   "long": "Metal, we're going into that shop."
+  },
+  {
+   "off": 6741,
+   "budget": 23,
+   "en": "Wait for me!"
+  },
+  {
+   "off": 6764,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 6769,
+   "budget": 13,
+   "en": "Passersby"
+  },
+  {
+   "off": 6782,
+   "budget": 33,
+   "en": "Everyone here looks dangerous."
+  },
+  {
+   "off": 6815,
+   "budget": 51,
+   "en": "Avoid eye contact, Gillian!"
+  },
+  {
+   "off": 6866,
+   "budget": 47,
+   "en": "This strange air hardly￥feels like Japan.",
+   "long": "This place feels so strange. It's￥hard to believe we're in Japan."
+  },
+  {
+   "off": 6913,
+   "budget": 29,
+   "en": "Someone's shouting there.",
+   "long": "There's someone screaming over￥there."
+  },
+  {
+   "off": 6942,
+   "budget": 21,
+   "en": "Why isn't he moving?"
+  },
+  {
+   "off": 6963,
+   "budget": 35,
+   "en": "It's \"live art.\" Very popular now."
+  },
+  {
+   "off": 6998,
+   "budget": 17,
+   "en": "Live art?"
+  },
+  {
+   "off": 7015,
+   "budget": 57,
+   "en": "Street performers recreate famous￥paintings."
+  },
+  {
+   "off": 7072,
+   "budget": 23,
+   "en": "Is that Munch?"
+  },
+  {
+   "off": 7095,
+   "budget": 7,
+   "en": "Mark"
+  },
+  {
+   "off": 7102,
+   "budget": 43,
+   "en": "The Joy Division logo."
+  },
+  {
+   "off": 7145,
+   "budget": 33,
+   "en": "A black market with signs. Bold.",
+   "long": "A black market with a sign. That's￥bold."
+  },
+  {
+   "off": 7178,
+   "budget": 23,
+   "en": "Tacit approval, that.",
+   "long": "Everyone turns a blind eye."
+  },
+  {
+   "off": 7201,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 7208,
+   "budget": 39,
+   "en": "A huge crowd.￥A black market indeed.",
+   "long": "What a crowd. Definitely a black￥market."
+  },
+  {
+   "off": 7247,
+   "budget": 37,
+   "en": "Dangerous types prowling.",
+   "long": "Dangerous-looking people are￥wandering around."
+  },
+  {
+   "off": 7284,
+   "budget": 65,
+   "en": "People seem to be bartering, too.￥It's like another country."
+  },
+  {
+   "off": 7349,
+   "budget": 11,
+   "en": "Gachapon"
+  },
+  {
+   "off": 7360,
+   "budget": 67,
+   "en": "'Panic Corps'?￥...Rubber toys shaped like insects￥and reptiles.",
+   "long": "\"Panic Squad\"? Rubber toys￥shaped like insects and reptiles."
+  },
+  {
+   "off": 7427,
+   "budget": 99,
+   "en": "Prank toys. Spiders, cockroaches,￥scorpions, frogs, snakes. Quite a￥variety."
+  },
+  {
+   "off": 7526,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 7533,
+   "budget": 35,
+   "en": "No, I'm scared. Do it yourself!"
+  },
+  {
+   "off": 7568,
+   "budget": 89,
+   "en": "People who can't get permits gather￥here. With money, it seems you can￥buy anything.",
+   "long": "People who can't get permits gather￥here. With enough money, you can￥apparently buy anything."
+  },
+  {
+   "off": 7657,
+   "budget": 77,
+   "en": "No use checking.￥No permits, no data registration,￥not one of them.",
+   "long": "There's no point checking them. They￥have no permits and aren't in the￥records."
+  },
+  {
+   "off": 7734,
+   "budget": 35,
+   "en": "Neo Kobe's illegal citizens.",
+   "long": "They're living in Neo Kobe￥illegally."
+  },
+  {
+   "off": 7769,
+   "budget": 53,
+   "en": "Doesn't that look like Konami's￥logo?"
+  },
+  {
+   "off": 7822,
+   "budget": 43,
+   "en": "Maybe they have the same owners."
+  },
+  {
+   "off": 7865,
+   "budget": 57,
+   "en": "A community of black-market traders.￥Dozens of shops."
+  },
+  {
+   "off": 7922,
+   "budget": 41,
+   "en": "Stalls and stands choke the road.",
+   "long": "Stalls and street vendors fill the￥road."
+  },
+  {
+   "off": 7963,
+   "budget": 29,
+   "en": "Spilling from the shops.",
+   "long": "The shops have spilled out onto the￥street."
+  },
+  {
+   "off": 7992,
+   "budget": 5,
+   "en": "Cart",
+   "long": "Food stall"
+  },
+  {
+   "off": 7997,
+   "budget": 33,
+   "en": "There are lots of food stalls."
+  },
+  {
+   "off": 8030,
+   "budget": 89,
+   "en": "Octopus balls, savory pancakes,￥grilled shellfish, corn dogs and￥＠赤Neo Kobe-yaki..."
+  },
+  {
+   "off": 8119,
+   "budget": 41,
+   "en": "Neo Kobe-yaki? What's that?"
+  },
+  {
+   "off": 8160,
+   "budget": 107,
+   "en": "They drop flour and savory pancake￥fillings into boiling broth. It sets￥and floats like an island."
+  },
+  {
+   "off": 8267,
+   "budget": 79,
+   "en": "Huh... so, Neo Kobe-yaki?￥An okonomiyaki take on akashiyaki?￥Any good?",
+   "long": "So that's why it's called Neo￥Kobe-yaki? Like Akashi dumplings￥made with pancake ingredients? Is it￥good?"
+  },
+  {
+   "off": 8346,
+   "budget": 89,
+   "en": "And how! Since it appeared, takoyaki￥and okonomiyaki barely sell￥in Kansai.",
+   "long": "Delicious! It's so popular that￥octopus balls and savory pancakes￥hardly sell in Kansai anymore."
+  },
+  {
+   "off": 8435,
+   "budget": 47,
+   "en": "I never want to see Neo Kobe-yaki￥again."
+  },
+  {
+   "off": 8482,
+   "budget": 65,
+   "en": "Put in a coin and turn the handle to￥get a capsule."
+  },
+  {
+   "off": 8547,
+   "budget": 67,
+   "en": "Look, there are good capsules near￥the bottom. Now's your chance.",
+   "long": "Look, there are good capsules near￥the bottom. You might get a good one￥now."
+  },
+  {
+   "off": 8614,
+   "budget": 11,
+   "en": "Sniff"
+  },
+  {
+   "off": 8625,
+   "budget": 19,
+   "en": "Smells good."
+  },
+  {
+   "off": 8644,
+   "budget": 17,
+   "en": "Sniff, sniff."
+  },
+  {
+   "off": 8661,
+   "budget": 23,
+   "en": "Getting hungry?"
+  },
+  {
+   "off": 8684,
+   "budget": 23,
+   "en": "I'm getting hungry."
+  },
+  {
+   "off": 8707,
+   "budget": 29,
+   "en": "Have some Neo Kobe-yaki?",
+   "long": "How about some Neo Kobe-yaki?"
+  },
+  {
+   "off": 8736,
+   "budget": 19,
+   "en": "Sounds good."
+  },
+  {
+   "off": 8755,
+   "budget": 45,
+   "en": "The smell from the stalls.￥Appetizing...",
+   "long": "It's coming from the food stalls.￥Smells delicious."
+  },
+  {
+   "off": 8800,
+   "budget": 17,
+   "en": "Eat Kobe-yaki"
+  },
+  {
+   "off": 8817,
+   "budget": 15,
+   "en": "Gachapon"
+  },
+  {
+   "off": 8832,
+   "budget": 35,
+   "en": "Got any coins? A ten-credit coin?"
+  },
+  {
+   "off": 8867,
+   "budget": 25,
+   "en": "A few. Here."
+  },
+  {
+   "off": 8892,
+   "budget": 41,
+   "en": "I'll get a big spider and scare￥Mika."
+  },
+  {
+   "off": 8933,
+   "budget": 31,
+   "en": "Here goes! Turn!"
+  },
+  {
+   "off": 8964,
+   "budget": 27,
+   "en": "Here it comes! What is it?"
+  },
+  {
+   "off": 8991,
+   "budget": 23,
+   "en": "A fly. Damn."
+  },
+  {
+   "off": 9014,
+   "budget": 51,
+   "en": "A waste. Don't throw it away.￥That's expenses...",
+   "long": "Don't throw it away! That's a waste￥of our expense money."
+  },
+  {
+   "off": 9065,
+   "budget": 47,
+   "en": "Got another ten-credit coin?"
+  },
+  {
+   "off": 9112,
+   "budget": 25,
+   "en": "Make this the last one."
+  },
+  {
+   "off": 9137,
+   "budget": 47,
+   "en": "Come on, cockroach! Turn!"
+  },
+  {
+   "off": 9184,
+   "budget": 29,
+   "en": "...It's out! What this time?",
+   "long": "Here it comes! What is it this time?"
+  },
+  {
+   "off": 9213,
+   "budget": 27,
+   "en": "A mosquito. Damn it!"
+  },
+  {
+   "off": 9240,
+   "budget": 35,
+   "en": "You have no luck, Gillian."
+  },
+  {
+   "off": 9275,
+   "budget": 15,
+   "en": "Got a coin?",
+   "long": "Got another coin?"
+  },
+  {
+   "off": 9290,
+   "budget": 21,
+   "en": "Truly the last one!",
+   "long": "This really is the last one!"
+  },
+  {
+   "off": 9311,
+   "budget": 45,
+   "en": "Come on, scorpion! Turn!"
+  },
+  {
+   "off": 9356,
+   "budget": 23,
+   "en": "Here it comes! Well?"
+  },
+  {
+   "off": 9379,
+   "budget": 43,
+   "en": "Another fly. Damn it!"
+  },
+  {
+   "off": 9422,
+   "budget": 21,
+   "en": "Stop it already!"
+  },
+  {
+   "off": 9443,
+   "budget": 41,
+   "en": "Flies seem to follow me everywhere."
+  },
+  {
+   "off": 9484,
+   "budget": 35,
+   "en": "Lend me a coin! Just one more try."
+  },
+  {
+   "off": 9519,
+   "budget": 19,
+   "en": "Still going?",
+   "long": "You're still going?"
+  },
+  {
+   "off": 9538,
+   "budget": 67,
+   "en": "Flies can't come up every time.￥This time it'll be a good one.",
+   "long": "I can't get another fly, can I? This￥time I'll get something great."
+  },
+  {
+   "off": 9605,
+   "budget": 43,
+   "en": "This really, truly is the last one."
+  },
+  {
+   "off": 9648,
+   "budget": 47,
+   "en": "Come on, lizard! Turn!"
+  },
+  {
+   "off": 9695,
+   "budget": 25,
+   "en": "Here it comes! Well?"
+  },
+  {
+   "off": 9720,
+   "budget": 13,
+   "en": "......"
+  },
+  {
+   "off": 9733,
+   "budget": 15,
+   "en": "What's wrong?"
+  },
+  {
+   "off": 9748,
+   "budget": 29,
+   "en": "A fly. Another fly."
+  },
+  {
+   "off": 9777,
+   "budget": 61,
+   "en": "The ruins, and now this...￥You have a bond with flies.",
+   "long": "First the factory ruins, now this.￥Flies really do follow you, Gillian."
+  },
+  {
+   "off": 9838,
+   "budget": 45,
+   "en": "Fat lot of good flies￥do me...",
+   "long": "Being popular with flies doesn't do￥me any good."
+  },
+  {
+   "off": 9883,
+   "budget": 27,
+   "en": "My life... only flies.",
+   "long": "My life. Nothing but flies."
+  },
+  {
+   "off": 9910,
+   "budget": 23,
+   "en": "Now you get it!",
+   "long": "Have you learned your lesson now?"
+  },
+  {
+   "off": 9933,
+   "budget": 41,
+   "en": "You promised not to waste money."
+  },
+  {
+   "off": 9974,
+   "budget": 39,
+   "en": "It isn't waste.￥Social studies....",
+   "long": "It's not a waste. It's a life￥lesson."
+  },
+  {
+   "off": 10013,
+   "budget": 25,
+   "en": "Gachapon as study?",
+   "long": "Capsule toys are a life lesson?"
+  },
+  {
+   "off": 10038,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 10043,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 10058,
+   "budget": 13,
+   "en": "Videophone"
+  },
+  {
+   "off": 10071,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 10082,
+   "budget": 37,
+   "en": "I'll save your progress now."
+  },
+  {
+   "off": 10119,
+   "budget": 33,
+   "en": "We're inside Joy Division."
+  },
+  {
+   "off": 10152,
+   "budget": 31,
+   "en": "Welcome! Oh, it's you."
+  },
+  {
+   "off": 10183,
+   "budget": 43,
+   "en": "How's the mask? Glad you bought it?"
+  },
+  {
+   "off": 10226,
+   "budget": 15,
+   "en": "Welcome!"
+  },
+  {
+   "off": 10241,
+   "budget": 95,
+   "en": "Thank you for shopping with us. Here￥at Joy Division..."
+  },
+  {
+   "off": 10336,
+   "budget": 65,
+   "en": "Customer announcement. Would the￥customer from Okamoto..."
+  },
+  {
+   "off": 10401,
+   "budget": 85,
+   "en": "We buy and sell without requiring￥customer identification."
+  },
+  {
+   "off": 10486,
+   "budget": 75,
+   "en": "We never disclose your purchase￥records. Shop with confidence."
+  },
+  {
+   "off": 10561,
+   "budget": 9,
+   "en": "Go out"
+  },
+  {
+   "off": 10570,
+   "budget": 21,
+   "en": "Metal, let's go out.",
+   "long": "Let's go outside, Metal."
+  },
+  {
+   "off": 10591,
+   "budget": 33,
+   "en": "Thanks! Come again!"
+  },
+  {
+   "off": 10624,
+   "budget": 5,
+   "en": "Shop",
+   "long": "Inside store"
+  },
+  {
+   "off": 10629,
+   "budget": 83,
+   "en": "Wow! What a selection. You really￥could find anything here."
+  },
+  {
+   "off": 10712,
+   "budget": 101,
+   "en": "A palace of consumerism. They might￥have more stock than the licensed￥shops."
+  },
+  {
+   "off": 10813,
+   "budget": 5,
+   "en": "Cler",
+   "long": "Clerk"
+  },
+  {
+   "off": 10818,
+   "budget": 63,
+   "en": "Hiding the face. Doesn't want￥to be identified, no doubt.",
+   "long": "He's hiding his face. He clearly￥doesn't want to be identified."
+  },
+  {
+   "off": 10881,
+   "budget": 53,
+   "en": "A black market.￥A photo could mean trouble.",
+   "long": "It's a black market. A photograph￥could mean trouble."
+  },
+  {
+   "off": 10934,
+   "budget": 41,
+   "en": "He's a creepy fellow. Be careful!"
+  },
+  {
+   "off": 10975,
+   "budget": 53,
+   "en": "You look creepy yourself with that￥thing on."
+  },
+  {
+   "off": 11028,
+   "budget": 11,
+   "en": "Customers",
+   "long": "Other customers"
+  },
+  {
+   "off": 11039,
+   "budget": 99,
+   "en": "Chinese, Spanish, Mongolian, Ainu,￥Korean. A real melting pot."
+  },
+  {
+   "off": 11138,
+   "budget": 57,
+   "en": "So many languages. That's Neo Kobe￥for you."
+  },
+  {
+   "off": 11195,
+   "budget": 5,
+   "en": "Ware",
+   "long": "Goods"
+  },
+  {
+   "off": 11200,
+   "budget": 53,
+   "en": "Everything from the cradle to the￥grave."
+  },
+  {
+   "off": 11253,
+   "budget": 51,
+   "en": "Electronics, parts and junk￥piled in mountains.",
+   "long": "Mountains of electronics, components￥and scrap parts."
+  },
+  {
+   "off": 11304,
+   "budget": 45,
+   "en": "I suppose old Akihabara was like￥this."
+  },
+  {
+   "off": 11349,
+   "budget": 61,
+   "en": "I heard Harry often went there to￥buy scrap parts."
+  },
+  {
+   "off": 11410,
+   "budget": 3,
+   "en": "Wl",
+   "long": "Wall"
+  },
+  {
+   "off": 11413,
+   "budget": 61,
+   "en": "Wow! Full-face makeup masks!"
+  },
+  {
+   "off": 11474,
+   "budget": 77,
+   "en": "They must be out of display space.￥They've hung everything on the￥walls."
+  },
+  {
+   "off": 11551,
+   "budget": 31,
+   "en": "Looks like a pub, doesn't it?"
+  },
+  {
+   "off": 11582,
+   "budget": 7,
+   "en": "Mask"
+  },
+  {
+   "off": 11589,
+   "budget": 31,
+   "en": "There's only one left."
+  },
+  {
+   "off": 11620,
+   "budget": 27,
+   "en": "Only the Moai is left."
+  },
+  {
+   "off": 11647,
+   "budget": 27,
+   "en": "Only Koitsu is left."
+  },
+  {
+   "off": 11674,
+   "budget": 103,
+   "en": "Look! Replica Moai and Koitsu masks.￥They're beautifully made."
+  },
+  {
+   "off": 11777,
+   "budget": 73,
+   "en": "You've got a good eye. Those￥full-face masks are our pride and￥joy!"
+  },
+  {
+   "off": 11850,
+   "budget": 33,
+   "en": "That's the only one left."
+  },
+  {
+   "off": 11883,
+   "budget": 53,
+   "en": "There are replica Moai and Koitsu￥masks."
+  },
+  {
+   "off": 11936,
+   "budget": 53,
+   "en": "Checking every corner here would￥take three days.",
+   "long": "It would take three days to examine￥everything here."
+  },
+  {
+   "off": 11989,
+   "budget": 81,
+   "en": "The shop overflows with goods.￥You can't tell stock from rubbish.",
+   "long": "The shop is crammed with goods. I￥can't tell the merchandise from the￥rubbish."
+  },
+  {
+   "off": 12070,
+   "budget": 91,
+   "en": "The clerk looks wary. He's probably￥carrying a hidden weapon. Let's not￥search him."
+  },
+  {
+   "off": 12161,
+   "budget": 53,
+   "en": "A black-market clerk.￥Not a man to take lightly.",
+   "long": "He's a black-market clerk. I doubt￥he'll be easy to deal with."
+  },
+  {
+   "off": 12214,
+   "budget": 55,
+   "en": "Shady types, all.￥Checking is wasted time.",
+   "long": "They all look suspicious. Checking￥them would be a waste of time."
+  },
+  {
+   "off": 12269,
+   "budget": 61,
+   "en": "We shouldn't cause trouble here.￥Leave them alone."
+  },
+  {
+   "off": 12330,
+   "budget": 75,
+   "en": "New goods, used, stolen, unsold,￥originals...￥Anything can be had here.",
+   "long": "New, used, stolen, custom-made, even￥things not normally for sale. They￥have everything."
+  },
+  {
+   "off": 12405,
+   "budget": 65,
+   "en": "Premium pieces too, but truly at￥half the usual price.",
+   "long": "Some rare items carry a premium, but￥most things cost about half the￥normal price."
+  },
+  {
+   "off": 12470,
+   "budget": 107,
+   "en": "This is cast by laser measurement￥from original moulds by Rick Bakery,￥the special make-up artist.",
+   "long": "These molds were made by￥laser-scanning original sculptures￥by special-effects makeup artist￥Rick Bakery."
+  },
+  {
+   "off": 12577,
+   "budget": 37,
+   "en": "Special rubber and urethane.",
+   "long": "They're made of special rubber and￥urethane."
+  },
+  {
+   "off": 12614,
+   "budget": 31,
+   "en": "Now I want another one.",
+   "long": "I'm starting to want another one."
+  },
+  {
+   "off": 12645,
+   "budget": 43,
+   "en": "See? It's beautifully made."
+  },
+  {
+   "off": 12688,
+   "budget": 25,
+   "en": "You like it, don't you?"
+  },
+  {
+   "off": 12713,
+   "budget": 69,
+   "en": "A limited replica mask.￥Miss it and you'll never￥see one again.",
+   "long": "Limited-edition replica masks. Miss￥your chance now and you'll never get￥one."
+  },
+  {
+   "off": 12782,
+   "budget": 13,
+   "en": "Videotape"
+  },
+  {
+   "off": 12795,
+   "budget": 53,
+   "en": "What's... AV actress war?￥Hyperdimension play...",
+   "long": "Let's see. \"Adult Video All-Stars\"?￥\"Pleasure Beyond Dimensions\"?"
+  },
+  {
+   "off": 12848,
+   "budget": 37,
+   "en": "Oh, that? It's a porn video."
+  },
+  {
+   "off": 12885,
+   "budget": 29,
+   "en": "Want it?￥I'll cut a deal?",
+   "long": "Want it? I'll give you a discount."
+  },
+  {
+   "off": 12914,
+   "budget": 77,
+   "en": "Simulated sex by sight alone.￥Old media, from when it￥was still tame.",
+   "long": "An old medium that simulated sex￥through images alone. Media were￥still rather tame then."
+  },
+  {
+   "off": 12991,
+   "budget": 65,
+   "en": "So this... an adult video?￥The late 20th century's￥big hit...",
+   "long": "So this is a porn video? They were￥hugely popular at the end of the￥twentieth century."
+  },
+  {
+   "off": 13056,
+   "budget": 5,
+   "en": "Ask"
+  },
+  {
+   "off": 13061,
+   "budget": 13,
+   "en": "About Gibson"
+  },
+  {
+   "off": 13074,
+   "budget": 35,
+   "en": "I've told you everything I know."
+  },
+  {
+   "off": 13109,
+   "budget": 59,
+   "en": "That fellow came in often. Said he￥collected antiques."
+  },
+  {
+   "off": 13168,
+   "budget": 55,
+   "en": "But lately... he seemed to have￥some other purpose.",
+   "long": "Lately, though, he seemed to have￥something else in mind."
+  },
+  {
+   "off": 13223,
+   "budget": 107,
+   "en": "He seemed to be watching someone.￥Oh, right. He kept asking about￥sunscreen, too."
+  },
+  {
+   "off": 13330,
+   "budget": 101,
+   "en": "He seemed to be watching someone.￥Come to think of it, he kept asking￥about sunscreen."
+  },
+  {
+   "off": 13431,
+   "budget": 43,
+   "en": "Just a customer.￥I know nothing.",
+   "long": "He was just a customer. I didn't￥know him personally."
+  },
+  {
+   "off": 13474,
+   "budget": 27,
+   "en": "Gibson? Who's that?"
+  },
+  {
+   "off": 13501,
+   "budget": 21,
+   "en": "Looking for someone?"
+  },
+  {
+   "off": 13522,
+   "budget": 17,
+   "en": "Joy Division"
+  },
+  {
+   "off": 13539,
+   "budget": 65,
+   "en": "This is it. Next door too...￥the next. This whole quarter.",
+   "long": "This is it. So's the shop next door,￥and the next. This whole area."
+  },
+  {
+   "off": 13604,
+   "budget": 63,
+   "en": "Come once... you never forget it, eh?￥A toy box for adults.",
+   "long": "Once you've been here, you never￥forget it. A toy box for grown-ups."
+  },
+  {
+   "off": 13667,
+   "budget": 11,
+   "en": "Whale food",
+   "long": "Whale restaurant"
+  },
+  {
+   "off": 13678,
+   "budget": 67,
+   "en": "Heh, you know your stuff. You mean￥Outer Heaven."
+  },
+  {
+   "off": 13745,
+   "budget": 71,
+   "en": "Even we won't touch whale meat.￥That's an international crime."
+  },
+  {
+   "off": 13816,
+   "budget": 77,
+   "en": "Whale's bad news... get caught,￥never come back. Nobody￥here deals it.",
+   "long": "Whale meat means trouble. Get caught￥and you'll never get out. Nobody￥here deals in it."
+  },
+  {
+   "off": 13893,
+   "budget": 15,
+   "en": "Outer Heaven"
+  },
+  {
+   "off": 13908,
+   "budget": 23,
+   "en": "You! Where'd you hear!",
+   "long": "Where did you hear that?!"
+  },
+  {
+   "off": 13931,
+   "budget": 17,
+   "en": "Oh, around..."
+  },
+  {
+   "off": 13948,
+   "budget": 103,
+   "en": "I see. You know your stuff. ＠赤OUTER￥HEAVEN＠白 is a popular costume pub."
+  },
+  {
+   "off": 14051,
+   "budget": 101,
+   "en": "We sell our full-face masks under an￥exclusive deal with Outer Heaven."
+  },
+  {
+   "off": 14152,
+   "budget": 83,
+   "en": "You need one to get into Outer￥Heaven during costume hours."
+  },
+  {
+   "off": 14235,
+   "budget": 87,
+   "en": "Their shows are great, and the guest￥dancers are first-rate. You should￥go."
+  },
+  {
+   "off": 14322,
+   "budget": 63,
+   "en": "Buy one of those masks and you're￥practically a member."
+  },
+  {
+   "off": 14385,
+   "budget": 13,
+   "en": "China doctor",
+   "long": "Chinese doctor"
+  },
+  {
+   "off": 14398,
+   "budget": 41,
+   "en": "I've told you everything I know."
+  },
+  {
+   "off": 14439,
+   "budget": 99,
+   "en": "A small bearded fellow, was it?￥Bought the lot with a burly￥westerner.￥A whole carton...",
+   "long": "A short man with a beard, I think.￥He and a big Western man bought the￥lot. A whole cardboard box."
+  },
+  {
+   "off": 14538,
+   "budget": 35,
+   "en": "Setting up shop somewhere...",
+   "long": "Maybe they're setting up a business￥somewhere."
+  },
+  {
+   "off": 14573,
+   "budget": 109,
+   "en": "No assembly or painting needed. The￥sculptor painted and finished each￥one. A deluxe limited edition."
+  },
+  {
+   "off": 14682,
+   "budget": 53,
+   "en": "Wear this costume and you'll amaze￥everyone."
+  },
+  {
+   "off": 14735,
+   "budget": 77,
+   "en": "Animatronics and dummy heads with￥gimmicks are for display. No fun.",
+   "long": "Animatronics and dummy heads just￥sit on display. Where's the fun in￥that?"
+  },
+  {
+   "off": 14812,
+   "budget": 9,
+   "en": "Computer"
+  },
+  {
+   "off": 14821,
+   "budget": 41,
+   "en": "Do you sell old computers here?"
+  },
+  {
+   "off": 14862,
+   "budget": 53,
+   "en": "Not anymore. We used to have a few."
+  },
+  {
+   "off": 14915,
+   "budget": 31,
+   "en": "Collectors bought them all."
+  },
+  {
+   "off": 14946,
+   "budget": 81,
+   "en": "Collectors have been buying them up.￥I doubt anyone has any left."
+  },
+  {
+   "off": 15027,
+   "budget": 9,
+   "en": "Shop",
+   "long": "Buy something"
+  },
+  {
+   "off": 15036,
+   "budget": 11,
+   "en": "Sunblock"
+  },
+  {
+   "off": 15047,
+   "budget": 31,
+   "en": "Sorry, we're out of stock."
+  },
+  {
+   "off": 15078,
+   "budget": 29,
+   "en": "No idea when we'll get more."
+  },
+  {
+   "off": 15107,
+   "budget": 3,
+   "en": "Wn",
+   "long": "Woman"
+  },
+  {
+   "off": 15110,
+   "budget": 37,
+   "en": "We don't deal in that."
+  },
+  {
+   "off": 15147,
+   "budget": 51,
+   "en": "Don't get the wrong idea. No women￥or drugs here."
+  },
+  {
+   "off": 15198,
+   "budget": 31,
+   "en": "The video didn't do it, eh.",
+   "long": "Videos aren't enough for you, I see."
+  },
+  {
+   "off": 15229,
+   "budget": 51,
+   "en": "What are you saying.￥I never watched it... sob.",
+   "long": "What are you talking about? I￥haven't even watched one. Give me a￥break."
+  },
+  {
+   "off": 15280,
+   "budget": 9,
+   "en": "Kindness"
+  },
+  {
+   "off": 15289,
+   "budget": 41,
+   "en": "You can't buy that with money, sir."
+  },
+  {
+   "off": 15330,
+   "budget": 65,
+   "en": "Nobody buys or sells that stuff￥anymore."
+  },
+  {
+   "off": 15395,
+   "budget": 37,
+   "en": "Didn't you just buy one?"
+  },
+  {
+   "off": 15432,
+   "budget": 35,
+   "en": "You already have one."
+  },
+  {
+   "off": 15467,
+   "budget": 41,
+   "en": "A full-face mask? Which one?"
+  },
+  {
+   "off": 15508,
+   "budget": 63,
+   "en": "They're all excellent. Each one￥handmade by Rick Bakery."
+  },
+  {
+   "off": 15571,
+   "budget": 7,
+   "en": "Him",
+   "long": "This guy"
+  },
+  {
+   "off": 15578,
+   "budget": 67,
+   "en": "Thanks. The Koitsu mask. How about a￥blue bodysuit to go with it?"
+  },
+  {
+   "off": 15645,
+   "budget": 19,
+   "en": "Just the mask."
+  },
+  {
+   "off": 15664,
+   "budget": 53,
+   "en": "All right. That'll be 2,000 credits."
+  },
+  {
+   "off": 15717,
+   "budget": 7,
+   "en": "Moai"
+  },
+  {
+   "off": 15724,
+   "budget": 27,
+   "en": "Thanks. One Moai mask."
+  },
+  {
+   "off": 15751,
+   "budget": 49,
+   "en": "Thank you. That'll be 1,500 credits."
+  },
+  {
+   "off": 15800,
+   "budget": 7,
+   "en": "Show"
+  },
+  {
+   "off": 15807,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 15822,
+   "budget": 47,
+   "en": "I've been long in this trade.￥A replica, no?",
+   "long": "I've been in this business a long￥time. That's a replica, isn't it?"
+  },
+  {
+   "off": 15869,
+   "budget": 43,
+   "en": "What's that?￥...Worth nothing to me.",
+   "long": "What's that? You won't get any money￥for it."
+  },
+  {
+   "off": 15912,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 15919,
+   "budget": 55,
+   "en": "You're loaded! You can buy plenty￥more with that."
+  },
+  {
+   "off": 15974,
+   "budget": 53,
+   "en": "Cash? Good. I like customers who pay￥cash."
+  },
+  {
+   "off": 16027,
+   "budget": 33,
+   "en": "That much buys anything.",
+   "long": "You can buy anything with that much."
+  },
+  {
+   "off": 16060,
+   "budget": 5,
+   "en": "Drop",
+   "long": "Candy"
+  },
+  {
+   "off": 16065,
+   "budget": 33,
+   "en": "I've got better candy than that."
+  },
+  {
+   "off": 16098,
+   "budget": 7,
+   "en": "Proof",
+   "long": "Evidence"
+  },
+  {
+   "off": 16105,
+   "budget": 7,
+   "en": "Paper",
+   "long": "Scrap of paper"
+  },
+  {
+   "off": 16112,
+   "budget": 37,
+   "en": "What's that? A property listing?"
+  },
+  {
+   "off": 16149,
+   "budget": 5,
+   "en": "Key"
+  },
+  {
+   "off": 16154,
+   "budget": 57,
+   "en": "A key? Selling it? It's not worth a￥penny."
+  },
+  {
+   "off": 16211,
+   "budget": 3,
+   "en": "Pc",
+   "long": "Chess piece"
+  },
+  {
+   "off": 16214,
+   "budget": 61,
+   "en": "A chess piece? Nobody plays that￥anymore."
+  },
+  {
+   "off": 16275,
+   "budget": 9,
+   "en": "Disk"
+  },
+  {
+   "off": 16284,
+   "budget": 89,
+   "en": "A five-inch disk. We sell them, but￥you need a very old computer to use￥one."
+  },
+  {
+   "off": 16373,
+   "budget": 33,
+   "en": "Yes, that's one of our products."
+  },
+  {
+   "off": 16406,
+   "budget": 5,
+   "en": "Pic",
+   "long": "Photo"
+  },
+  {
+   "off": 16411,
+   "budget": 15,
+   "en": "Gibson's photo"
+  },
+  {
+   "off": 16426,
+   "budget": 31,
+   "en": "I've told you all I know.",
+   "long": "I've told you everything I know."
+  },
+  {
+   "off": 16457,
+   "budget": 53,
+   "en": "I've seen this man, surely...￥don't know him well.",
+   "long": "I've definitely seen him, but I￥don't know him well."
+  },
+  {
+   "off": 16510,
+   "budget": 31,
+   "en": "Do you know him?"
+  },
+  {
+   "off": 16541,
+   "budget": 33,
+   "en": "Wait. I've seen him somewhere."
+  },
+  {
+   "off": 16574,
+   "budget": 23,
+   "en": "Who was he again?"
+  },
+  {
+   "off": 16597,
+   "budget": 35,
+   "en": "Oh, him? He comes here often."
+  },
+  {
+   "off": 16632,
+   "budget": 55,
+   "en": "Yes, he bought a bottle of sunscreen￥the other day."
+  },
+  {
+   "off": 16687,
+   "budget": 17,
+   "en": "Montage photo"
+  },
+  {
+   "off": 16704,
+   "budget": 23,
+   "en": "No, my mistake.",
+   "long": "No, probably my imagination."
+  },
+  {
+   "off": 16727,
+   "budget": 35,
+   "en": "It suits you."
+  },
+  {
+   "off": 16762,
+   "budget": 33,
+   "en": "Thanks. That's one of ours."
+  },
+  {
+   "off": 16795,
+   "budget": 5,
+   "en": "Use"
+  },
+  {
+   "off": 16800,
+   "budget": 43,
+   "en": "You're wearing it now.￥...Take it off?",
+   "long": "You're already wearing it. Want to￥take it off?"
+  },
+  {
+   "off": 16843,
+   "budget": 5,
+   "en": "Doff",
+   "long": "Undress"
+  },
+  {
+   "off": 16848,
+   "budget": 29,
+   "en": "Yes, I'll take it off."
+  },
+  {
+   "off": 16877,
+   "budget": 9,
+   "en": "Keep on",
+   "long": "Stay dressed"
+  },
+  {
+   "off": 16886,
+   "budget": 37,
+   "en": "No, I'll keep it on a little longer."
+  },
+  {
+   "off": 16923,
+   "budget": 47,
+   "en": "Let's try it on. There!"
+  },
+  {
+   "off": 16970,
+   "budget": 37,
+   "en": "A perfect fit. Looks good on you."
+  },
+  {
+   "off": 17007,
+   "budget": 49,
+   "en": "It's not hot in here. Good￥ventilation."
+  },
+  {
+   "off": 17056,
+   "budget": 53,
+   "en": "Don't wear it here! It's￥embarrassing."
+  },
+  {
+   "off": 17109,
+   "budget": 33,
+   "en": "Come on... don't be shy.",
+   "long": "What's wrong with it? Don't be￥embarrassed."
+  },
+  {
+   "off": 17142,
+   "budget": 67,
+   "en": "Wearing it here again!?￥You do love transforming,￥don't you!?",
+   "long": "You're putting it on here again? You￥really like becoming someone else,￥don't you?"
+  },
+  {
+   "off": 17209,
+   "budget": 13,
+   "en": "Trans-form!",
+   "long": "Transformation!"
+  },
+  {
+   "off": 17222,
+   "budget": 39,
+   "en": "Haven't you played enough, Gillian?"
+  },
+  {
+   "off": 17261,
+   "budget": 61,
+   "en": "Best not videophone here.￥...This is a black-market shop.",
+   "long": "A video call here would be a bad￥idea. This is a black-market shop."
+  },
+  {
+   "off": 17322,
+   "budget": 55,
+   "en": "Too much noise in here.￥The videophone won't work.",
+   "long": "There's too much interference in the￥shop for a video call."
+  },
+  {
+   "off": 17377,
+   "budget": 41,
+   "en": "Not so bad once you￥talk to him, eh?",
+   "long": "He's surprisingly friendly once you￥talk to him."
+  },
+  {
+   "off": 17418,
+   "budget": 51,
+   "en": "How about a Santa costume?"
+  },
+  {
+   "off": 17469,
+   "budget": 37,
+   "en": "Selling well now.￥'Tis the season.",
+   "long": "They're selling well. It's the￥season."
+  },
+  {
+   "off": 17506,
+   "budget": 37,
+   "en": "A Santa costume? I don't need one."
+  },
+  {
+   "off": 17543,
+   "budget": 43,
+   "en": "I've got Santa costumes, if you want￥one."
+  },
+  {
+   "off": 17586,
+   "budget": 23,
+   "en": "I see, no need..."
+  },
+  {
+   "off": 17609,
+   "budget": 63,
+   "en": "...Has the world gone mad?￥Selling so well in midwinter.",
+   "long": "Has the world gone mad? It's selling￥well in the middle of winter."
+  },
+  {
+   "off": 17672,
+   "budget": 75,
+   "en": "A ＠赤Chinese doctor＠白 came the￥other day, bought my whole stock.",
+   "long": "A ＠赤Chinese doctor＠白 came in the other￥day and bought our entire stock."
+  },
+  {
+   "off": 17747,
+   "budget": 57,
+   "en": "Strange, though. Why sunscreen at￥this time of year?"
+  },
+  {
+   "off": 17804,
+   "budget": 67,
+   "en": "A new fashion? What a strange trend.￥Sunscreen in midwinter."
+  },
+  {
+   "off": 17871,
+   "budget": 47,
+   "en": "...Hm?￥That vending machine out front?",
+   "long": "What's this vending machine outside￥the shop?"
+  },
+  {
+   "off": 17918,
+   "budget": 27,
+   "en": "A capsule toy machine!"
+  },
+  {
+   "off": 17945,
+   "budget": 13,
+   "en": "A gachapon?",
+   "long": "Capsule toys?"
+  },
+  {
+   "off": 17958,
+   "budget": 69,
+   "en": "Put in a coin and out comes a￥capsule with a toy inside."
+  },
+  {
+   "off": 18027,
+   "budget": 41,
+   "en": "Really? They had things like that?"
+  },
+  {
+   "off": 18068,
+   "budget": 37,
+   "en": "Something's lying on the floor."
+  },
+  {
+   "off": 18105,
+   "budget": 11,
+   "en": "What now?",
+   "long": "What is it?"
+  },
+  {
+   "off": 18116,
+   "budget": 33,
+   "en": "A videotape."
+  },
+  {
+   "off": 18149,
+   "budget": 17,
+   "en": "A videotape?"
+  },
+  {
+   "off": 18166,
+   "budget": 91,
+   "en": "Long ago images were kept on￥magnetic tape for playback.￥Old media, pre-LD.",
+   "long": "People used to record and play video￥on magnetic tape. It's an old format￥from before laserdiscs became￥popular."
+  },
+  {
+   "off": 18257,
+   "budget": 31,
+   "en": "I wonder what's on it."
+  },
+  {
+   "off": 18288,
+   "budget": 23,
+   "en": "Why not take a look?"
+  },
+  {
+   "off": 18311,
+   "budget": 69,
+   "en": "This ID confirms all your authority￥as a JUNKER. Keep it safe."
+  },
+  {
+   "off": 18380,
+   "budget": 35,
+   "en": "The money issued to you by JUNKER."
+  },
+  {
+   "off": 18415,
+   "budget": 35,
+   "en": "The candy from Jean's pocket."
+  },
+  {
+   "off": 18450,
+   "budget": 79,
+   "en": "Gibson's memo on where the￥computer data on the Snatcher￥weakness is kept.",
+   "long": "Gibson's note tells us where to find￥his computer data on the Snatchers'￥weakness."
+  },
+  {
+   "off": 18529,
+   "budget": 47,
+   "en": "What does \"Search the house!\" mean?"
+  },
+  {
+   "off": 18576,
+   "budget": 33,
+   "en": "The key to Gibson's desk drawer."
+  },
+  {
+   "off": 18609,
+   "budget": 33,
+   "en": "Quite an antique."
+  },
+  {
+   "off": 18642,
+   "budget": 37,
+   "en": "The chess piece Gibson was carrying."
+  },
+  {
+   "off": 18679,
+   "budget": 45,
+   "en": "The chess piece we found in Gibson's￥coat."
+  },
+  {
+   "off": 18724,
+   "budget": 45,
+   "en": "The disk with the Snatchers'￥weakness.",
+   "long": "The disk containing the Snatchers'￥weakness."
+  },
+  {
+   "off": 18769,
+   "budget": 37,
+   "en": "A computer floppy disk."
+  },
+  {
+   "off": 18806,
+   "budget": 81,
+   "en": "Sunscreen used by the Snatchers, if￥Gibson was right."
+  },
+  {
+   "off": 18887,
+   "budget": 41,
+   "en": "And we confirmed it at Joy Division."
+  },
+  {
+   "off": 18928,
+   "budget": 71,
+   "en": "Plain sunblock.￥The seal carries the logo of the￥shop it came from.",
+   "long": "Ordinary sunscreen. The sticker has￥the logo of the shop that sold it."
+  },
+  {
+   "off": 18999,
+   "budget": 51,
+   "en": "A costume mask bought at Joy￥Division."
+  },
+  {
+   "off": 19050,
+   "budget": 21,
+   "en": "A Moai mask."
+  },
+  {
+   "off": 19071,
+   "budget": 25,
+   "en": "A Koitsu mask."
+  },
+  {
+   "off": 19096,
+   "budget": 41,
+   "en": "A photo of Jean Jack Gibson."
+  },
+  {
+   "off": 19137,
+   "budget": 47,
+   "en": "A montage built from a￥witness account.",
+   "long": "A composite portrait based on a￥witness's description."
+  },
+  {
+   "off": 19184,
+   "budget": 67,
+   "en": "Its built-in chip stores all your￥data, Gillian."
+  },
+  {
+   "off": 19251,
+   "budget": 49,
+   "en": "Case expenses are covered￥as work requires.",
+   "long": "In principle, there's no limit on￥expenses necessary for the￥investigation."
+  },
+  {
+   "off": 19300,
+   "budget": 45,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "long": "The candy Jean gave to the children￥at the orphanage."
+  },
+  {
+   "off": 19345,
+   "budget": 25,
+   "en": "The note Jean left."
+  },
+  {
+   "off": 19370,
+   "budget": 55,
+   "en": "Plain paper. It's certainly Jean's￥handwriting.",
+   "long": "It's on ordinary paper. Definitely￥Jean's handwriting."
+  },
+  {
+   "off": 19425,
+   "budget": 35,
+   "en": "Key to Gibson's squad desk.",
+   "long": "The key to Gibson's desk in the￥Squad room."
+  },
+  {
+   "off": 19460,
+   "budget": 83,
+   "en": "What does it open? Does anyone still￥use keys like this?"
+  },
+  {
+   "off": 19543,
+   "budget": 57,
+   "en": "A wooden chess piece. The queen."
+  },
+  {
+   "off": 19600,
+   "budget": 37,
+   "en": "A carved wooden chess piece."
+  },
+  {
+   "off": 19637,
+   "budget": 45,
+   "en": "The disk holding Gibson's￥case data.",
+   "long": "The disk containing Gibson's￥investigation data."
+  },
+  {
+   "off": 19682,
+   "budget": 37,
+   "en": "A five-inch floppy disk."
+  },
+  {
+   "off": 19719,
+   "budget": 69,
+   "en": "The bottle says, \"JOY DIVISION. The￥store that has everything.\""
+  },
+  {
+   "off": 19788,
+   "budget": 49,
+   "en": "It certainly looks like Joy Division￥sold it."
+  },
+  {
+   "off": 19837,
+   "budget": 53,
+   "en": "Tracing where it was bought￥may give us a lead.",
+   "long": "Finding out where it was bought￥might give us a lead."
+  },
+  {
+   "off": 19890,
+   "budget": 63,
+   "en": "A fine special-effects mask by￥Rick Bakery, all the rage now.",
+   "long": "A detailed special-effects mask by￥Rick Bakery. They're very popular￥now."
+  },
+  {
+   "off": 19953,
+   "budget": 41,
+   "en": "A 2D composite photo by Gaudi.",
+   "long": "A computer-generated 2D portrait￥made by Gaudi."
+  },
+  {
+   "off": 19994,
+   "budget": 73,
+   "en": "Gibson took it from his chessboard￥at home. What could it mean?"
+  },
+  {
+   "off": 20067,
+   "budget": 37,
+   "en": "Jean liked riddles."
+  },
+  {
+   "off": 20104,
+   "budget": 31,
+   "en": "Is it hinting at something?",
+   "long": "Could it be a clue to something?"
+  },
+  {
+   "off": 20135,
+   "budget": 35,
+   "en": "He really does look like Ivan."
+  },
+  {
+   "off": 20170,
+   "budget": 53,
+   "en": "We can hardly blame Alphaville's￥matching system."
+  },
+  {
+   "off": 20223,
+   "budget": 47,
+   "en": "House? Come to think...￥I've no home either.",
+   "long": "Home. Come to think of it, I don't￥have a home to return to."
+  },
+  {
+   "off": 20270,
+   "budget": 67,
+   "en": "Cheer up. You'll live with Jamie￥again someday."
+  },
+  {
+   "off": 20337,
+   "budget": 53,
+   "en": "A family life might not suit a￥JUNKER anyway."
+  },
+  {
+   "off": 20390,
+   "budget": 35,
+   "en": "Enough left for shopping, surely?",
+   "long": "We've still got enough to shop,￥right?"
+  },
+  {
+   "off": 20425,
+   "budget": 47,
+   "en": "It's dropped a bit, with￥your food and drink.",
+   "long": "You've spent quite a lot on eating￥and drinking, Gillian."
+  },
+  {
+   "off": 20472,
+   "budget": 37,
+   "en": "Don't be strict.￥They're expenses.",
+   "long": "Don't be so strict. Those were￥necessary investigation expenses."
+  },
+  {
+   "off": 20509,
+   "budget": 37,
+   "en": "Buy only what the case needs.",
+   "long": "Only buy what we need for the￥investigation."
+  },
+  {
+   "off": 20546,
+   "budget": 39,
+   "en": "I know. (Fat chance!)"
+  },
+  {
+   "off": 20585,
+   "budget": 41,
+   "en": "...Honestly,￥playing gachapon there?",
+   "long": "That's what happens when you spend￥it on capsule toys."
+  },
+  {
+   "off": 20626,
+   "budget": 23,
+   "en": "A good lesson, no?",
+   "long": "A valuable lesson, wasn't it?"
+  },
+  {
+   "off": 20649,
+   "budget": 23,
+   "en": "Such a child..."
+  },
+  {
+   "off": 20672,
+   "budget": 49,
+   "en": "Better not show that here, Gillian."
+  },
+  {
+   "off": 20721,
+   "budget": 17,
+   "en": "They'd be wary.",
+   "long": "It'll put them on guard."
+  },
+  {
+   "off": 20738,
+   "budget": 19,
+   "en": "Exactly."
+  },
+  {
+   "off": 20759,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

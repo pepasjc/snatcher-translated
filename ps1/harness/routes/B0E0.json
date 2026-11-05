@@ -1,0 +1,42 @@
+{
+ "scene": "B0E0",
+ "note": "Joy Division street and store (guides/ps1.txt PLATO'S CAVERN): the food stand is on the street - SMELL, INVESTIGATE FOOD STAND x2, SMELL, EAT. Then the store: enter, look at the wall x2, buy a mask; the fortune teller and the video are street sweeps too.",
+ "actions": [
+  {
+   "save": "B0E0_start"
+  },
+  {
+   "sweep": [
+    "Sniff",
+    "Investigate",
+    "Sniff",
+    "Eat",
+    "Look",
+    "Listen",
+    "Talk",
+    "Ask"
+   ],
+   "rounds": 3,
+   "why": "SMELL, INVESTIGATE FOOD STAND (Cart) x2, SMELL, EAT"
+  },
+  {
+   "save": "B0E0_street"
+  },
+  {
+   "sweep": [
+    "Move"
+   ],
+   "each": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Ask",
+    "Buy",
+    "Sniff",
+    "Eat"
+   ],
+   "each_rounds": 2,
+   "rounds": 2
+  }
+ ]
+}

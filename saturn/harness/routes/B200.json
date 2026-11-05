@@ -1,0 +1,263 @@
+{
+ "scene": "B200",
+ "note": "The basement under Queen Hospital (guides/ps1.txt second QUEENS HOSPITAL 'Once in the basement'; the PS1's B1E0_random tail + B200_rooms_to_switches + B200_basement): reception desk, switches 1 and 2, Door 1 (Look around after the sweep -> the snatcher: 'top-middle' = the brow between the eyes, then 'cell6' = bottom-left for the risen one, as on the PS1; START draws the Blaster), Door 2 (shelf, containers, ceiling, desk top, monitors), Investigate > Button twice and Talk (only then does 'Press button' offer '1 and 2 together'), Door 3 (the remains: time of death, cause, identity), Reconstruct -> the long reconstruction (the PS1's B210, under B200 here), then the air duct (B220).",
+ "actions": [
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "fight": [
+    "top-middle",
+    "cell6"
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Look around"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out",
+    "Go upstairs"
+   ]
+  },
+  {
+   "sweep": [
+    "Press switch",
+    "Use switches",
+    "Press button"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "1 and 2 together",
+    "Both"
+   ]
+  },
+  {
+   "save": "B200_swept"
+  },
+  {
+   "path": [
+    "Move",
+    "Door 1"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "save": "B200_door1"
+  },
+  {
+   "sweep": [
+    "Look over",
+    "Look",
+    "Investigate",
+    "Talk",
+    "Look around"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "path": [
+    "Look over"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "idle": 1200
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "path": [
+    "Look around"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "save": "B200_room1_done"
+  },
+  {
+   "path": [
+    "Go out"
+   ],
+   "optional": true,
+   "patience": 1200
+  },
+  {
+   "path": [
+    "Move",
+    "Go out"
+   ],
+   "optional": true,
+   "patience": 1200
+  },
+  {
+   "path": [
+    "Move",
+    "Door 2"
+   ],
+   "optional": true,
+   "patience": 1200
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "save": "B200_room2_done"
+  },
+  {
+   "path": [
+    "Go out"
+   ],
+   "optional": true,
+   "patience": 1200
+  },
+  {
+   "path": [
+    "Move",
+    "Go out"
+   ],
+   "optional": true,
+   "patience": 1200
+  },
+  {
+   "save": "B200_pre_both"
+  },
+  {
+   "path": [
+    "Investigate",
+    "Button|Switches"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "path": [
+    "Investigate",
+    "Button|Switches"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "path": [
+    "Talk"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "path": [
+    "Press button|Press switch|Use switches",
+    "1 and 2 together|Both|1 and 2"
+   ],
+   "patience": 1800
+  },
+  {
+   "idle": 2500
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "idle": 600
+  },
+  {
+   "path": [
+    "Move",
+    "Door 3"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "idle": 7000
+  },
+  {
+   "save": "B200_door3"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Look around"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Reconstruct"
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate"
+   ],
+   "rounds": 3,
+   "avoid": [
+    "Go out",
+    "Reconstruct"
+   ]
+  },
+  {
+   "save": "B200_restore"
+  },
+  {
+   "path": [
+    "Reconstruct|Investigate",
+    "Reconstruct|Remains"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "path": [
+    "Reconstruct"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "idle": 80000
+  },
+  {
+   "wait_menu": true,
+   "patience": 30000
+  },
+  {
+   "save": "B220_arrive"
+  },
+  {
+   "idle": 300
+  }
+ ]
+}

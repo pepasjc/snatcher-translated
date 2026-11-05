@@ -1,0 +1,1348 @@
+{
+ "scene": "B080",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B080_f1_0",
+   "line": 0,
+   "act": 1,
+   "sector": 0,
+   "offset": 0,
+   "size": 36838,
+   "b0": 0,
+   "b1": 36838,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Hey! No eating and drinking binges on expenses!",
+   "rows": [
+    "Hey! No eating and drinking",
+    "binges on expenses!"
+   ],
+   "rows_plain": [
+    "Hey! No eating and drinking binges",
+    "on expenses!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B080_f2_0",
+   "line": 1,
+   "act": 1,
+   "sector": 15,
+   "offset": 1978,
+   "size": 31417,
+   "b0": 0,
+   "b1": 31417,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "W-what are you talking about?",
+   "rows": [
+    "W-what are you talking",
+    "about?"
+   ],
+   "rows_plain": [
+    "W-what are you talking about?"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B080_f3_0",
+   "line": 2,
+   "act": 1,
+   "sector": 29,
+   "offset": 859,
+   "size": 46010,
+   "b0": 0,
+   "b1": 46010,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Don't play dumb. Metal Gear sends me all the data.",
+   "rows": [
+    "Don't play dumb. Metal Gear",
+    "sends me all the data."
+   ],
+   "rows_plain": [
+    "Don't play dumb. Metal Gear sends me",
+    "all the data."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B080_f4_0",
+   "line": 3,
+   "act": 1,
+   "sector": 49,
+   "offset": 389,
+   "size": 6277,
+   "b0": 0,
+   "b1": 6277,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal?",
+   "rows": [
+    "Metal?"
+   ],
+   "rows_plain": [
+    "Metal?"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B080_f5_0",
+   "line": 4,
+   "act": 1,
+   "sector": 51,
+   "offset": 2018,
+   "size": 33834,
+   "b0": 0,
+   "b1": 33834,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Th-that's why I warned you.",
+   "rows": [
+    "Th-that's why I warned you."
+   ],
+   "rows_plain": [
+    "Th-that's why I warned you."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B080_f6_0",
+   "line": 5,
+   "act": 1,
+   "sector": 66,
+   "offset": 992,
+   "size": 20299,
+   "b0": 0,
+   "b1": 20299,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Don't let it happen again.",
+   "rows": [
+    "Don't let it happen again."
+   ],
+   "rows_plain": [
+    "Don't let it happen again."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B080_042",
+   "line": 6,
+   "act": 1,
+   "sector": 75,
+   "offset": 375,
+   "size": 13226,
+   "b0": 0,
+   "b1": 13226,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What kind of medicine is this?",
+   "rows": [
+    "What kind of medicine is",
+    "this?"
+   ],
+   "rows_plain": [
+    "What kind of medicine is this?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B080_043",
+   "line": 7,
+   "act": 1,
+   "sector": 80,
+   "offset": 1981,
+   "size": 16683,
+   "b0": 0,
+   "b1": 16683,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll analyze it.",
+   "rows": [
+    "I'll analyze it."
+   ],
+   "rows_plain": [
+    "I'll analyze it."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B080_044",
+   "line": 8,
+   "act": 1,
+   "sector": 88,
+   "offset": 72,
+   "size": 73107,
+   "b0": 0,
+   "b1": 73107,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Antacids, mucosal protectants, H2 blockers. Medicine for stomach ulcers.",
+   "rows": [
+    "Antacids, mucosal",
+    "protectants, H2 blockers.",
+    "Medicine for stomach ulcers."
+   ],
+   "rows_plain": [
+    "Antacids, mucosal protectants, H2",
+    "blockers. Medicine for stomach",
+    "ulcers."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B080_046",
+   "line": 9,
+   "act": 1,
+   "sector": 119,
+   "offset": 1135,
+   "size": 128703,
+   "b0": 0,
+   "b1": 54610,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Gibson had serious stomach trouble, yet he ate whale meat.",
+   "rows": [
+    "Gibson had serious stomach",
+    "trouble, yet he ate whale",
+    "meat."
+   ],
+   "rows_plain": [
+    "Gibson had serious stomach trouble,",
+    "yet he ate whale meat."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B080_046b",
+   "line": 9,
+   "act": 1,
+   "sector": 119,
+   "offset": 1135,
+   "size": 128703,
+   "b0": 54610,
+   "b1": 128703,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "There's something behind this. He must have had a reason to eat it.",
+   "rows": [
+    "There's something behind",
+    "this. He must have had a",
+    "reason to eat it."
+   ],
+   "rows_plain": [
+    "There's something behind this. He",
+    "must have had a reason to eat it."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B080_0_00",
+   "reel": 98,
+   "sdaif": "SDAIF_98.AIF",
+   "rate": 30000,
+   "frames": 1949415,
+   "b0": 238830,
+   "b1": 410014,
+   "size": 3898884,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We're back at JUNKER HQ.",
+   "rows": [
+    "We're back at JUNKER HQ."
+   ],
+   "rows_plain": [
+    "We're back at JUNKER HQ."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_0_01",
+   "reel": 98,
+   "sdaif": "SDAIF_98.AIF",
+   "rate": 30000,
+   "frames": 1949415,
+   "b0": 410014,
+   "b1": 486808,
+   "size": 3898884,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "We're back.",
+   "rows": [
+    "We're back."
+   ],
+   "rows_plain": [
+    "We're back."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B080_0_02",
+   "reel": 98,
+   "sdaif": "SDAIF_98.AIF",
+   "rate": 30000,
+   "frames": 1949415,
+   "b0": 486808,
+   "b1": 962762,
+   "size": 3898884,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Going inside. We're at the front desk.",
+   "rows": [
+    "Going inside. We're at the",
+    "front desk."
+   ],
+   "rows_plain": [
+    "Going inside. We're at the front",
+    "desk."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_0_04",
+   "reel": 98,
+   "sdaif": "SDAIF_98.AIF",
+   "rate": 30000,
+   "frames": 1949415,
+   "b0": 962762,
+   "b1": 1195542,
+   "size": 3898884,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "I heard about Jean, Gillian.",
+   "rows": [
+    "I heard about Jean, Gillian."
+   ],
+   "rows_plain": [
+    "I heard about Jean, Gillian."
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B080_0_05",
+   "reel": 98,
+   "sdaif": "SDAIF_98.AIF",
+   "rate": 30000,
+   "frames": 1949415,
+   "b0": 1195542,
+   "b1": 1377524,
+   "size": 3898884,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I'm sorry. I was too inexperienced.",
+   "rows": [
+    "I'm sorry. I was too",
+    "inexperienced."
+   ],
+   "rows_plain": [
+    "I'm sorry. I was too inexperienced."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B080_0_06",
+   "reel": 98,
+   "sdaif": "SDAIF_98.AIF",
+   "rate": 30000,
+   "frames": 1949415,
+   "b0": 1377524,
+   "b1": 1561108,
+   "size": 3898884,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "You did well, Gillian.",
+   "rows": [
+    "You did well, Gillian."
+   ],
+   "rows_plain": [
+    "You did well, Gillian."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_0_07",
+   "reel": 98,
+   "sdaif": "SDAIF_98.AIF",
+   "rate": 30000,
+   "frames": 1949415,
+   "b0": 1561108,
+   "b1": 2260242,
+   "size": 3898884,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "That's right, Gillian. It wasn't your fault. The Chief is waiting, Gillian.",
+   "rows": [
+    "That's right, Gillian. It",
+    "wasn't your fault. The Chief",
+    "is waiting, Gillian."
+   ],
+   "rows_plain": [
+    "That's right, Gillian. It wasn't",
+    "your fault. The Chief is waiting,",
+    "Gillian."
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B080_0_09",
+   "reel": 98,
+   "sdaif": "SDAIF_98.AIF",
+   "rate": 30000,
+   "frames": 1949415,
+   "b0": 2260242,
+   "b1": 2400628,
+   "size": 3898884,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The Chief's office.",
+   "rows": [
+    "The Chief's office."
+   ],
+   "rows_plain": [
+    "The Chief's office."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_0_10",
+   "reel": 98,
+   "sdaif": "SDAIF_98.AIF",
+   "rate": 30000,
+   "frames": 1949415,
+   "b0": 2400628,
+   "b1": 2645006,
+   "size": 3898884,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "A rough start to your new job, Seed. Well done.",
+   "rows": [
+    "A rough start to your new",
+    "job, Seed. Well done."
+   ],
+   "rows_plain": [
+    "A rough start to your new job, Seed.",
+    "Well done."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B080_0_10b",
+   "reel": 98,
+   "sdaif": "SDAIF_98.AIF",
+   "rate": 30000,
+   "frames": 1949415,
+   "b0": 2645006,
+   "b1": 3099928,
+   "size": 3898884,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Metal Gear's data showed me what happened at the scene. I'm sorry about Gibson.",
+   "rows": [
+    "Metal Gear's data showed me",
+    "what happened at the scene.",
+    "I'm sorry about Gibson."
+   ],
+   "rows_plain": [
+    "Metal Gear's data showed me what",
+    "happened at the scene. I'm sorry",
+    "about Gibson."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B080_0_10bb",
+   "reel": 98,
+   "sdaif": "SDAIF_98.AIF",
+   "rate": 30000,
+   "frames": 1949415,
+   "b0": 3099928,
+   "b1": 3898884,
+   "size": 3898884,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Carry on for him too, Seed. You're the only one who can fight the Snatchers now.",
+   "rows": [
+    "Carry on for him too, Seed.",
+    "You're the only one who can",
+    "fight the Snatchers now."
+   ],
+   "rows_plain": [
+    "Carry on for him too, Seed. You're",
+    "the only one who can fight the",
+    "Snatchers now."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B080_1_00",
+   "reel": 121,
+   "sdaif": "SDAIF_C1.AIF",
+   "rate": 30000,
+   "frames": 1816069,
+   "b0": 121186,
+   "b1": 400232,
+   "size": 3632192,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Well, the JUNKER returns.",
+   "rows": [
+    "Well, the JUNKER returns."
+   ],
+   "rows_plain": [
+    "Well, the JUNKER returns."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B080_1_01",
+   "reel": 121,
+   "sdaif": "SDAIF_C1.AIF",
+   "rate": 30000,
+   "frames": 1816069,
+   "b0": 400232,
+   "b1": 606518,
+   "size": 3632192,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'm detecting alcohol. He seems drunk.",
+   "rows": [
+    "I'm detecting alcohol. He",
+    "seems drunk."
+   ],
+   "rows_plain": [
+    "I'm detecting alcohol. He seems",
+    "drunk."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_1_02",
+   "reel": 121,
+   "sdaif": "SDAIF_C1.AIF",
+   "rate": 30000,
+   "frames": 1816069,
+   "b0": 606518,
+   "b1": 1319326,
+   "size": 3632192,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "I thought you were more capable than this. What good was the backup?",
+   "rows": [
+    "I thought you were more",
+    "capable than this. What good",
+    "was the backup?"
+   ],
+   "rows_plain": [
+    "I thought you were more capable than",
+    "this. What good was the backup?"
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B080_1_02b",
+   "reel": 121,
+   "sdaif": "SDAIF_C1.AIF",
+   "rate": 30000,
+   "frames": 1816069,
+   "b0": 1319326,
+   "b1": 1865826,
+   "size": 3632192,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "If you'd been a little more capable, Jean might not have had to die.",
+   "rows": [
+    "If you'd been a little more",
+    "capable, Jean might not have",
+    "had to die."
+   ],
+   "rows_plain": [
+    "If you'd been a little more capable,",
+    "Jean might not have had to die."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B080_1_06",
+   "reel": 121,
+   "sdaif": "SDAIF_C1.AIF",
+   "rate": 30000,
+   "frames": 1816069,
+   "b0": 1865826,
+   "b1": 1991756,
+   "size": 3632192,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "That's not true, Harry.",
+   "rows": [
+    "That's not true, Harry."
+   ],
+   "rows_plain": [
+    "That's not true, Harry."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_1_07",
+   "reel": 121,
+   "sdaif": "SDAIF_C1.AIF",
+   "rate": 30000,
+   "frames": 1816069,
+   "b0": 1991756,
+   "b1": 2340364,
+   "size": 3632192,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "It's all right, Metal. Harry's right.",
+   "rows": [
+    "It's all right, Metal.",
+    "Harry's right."
+   ],
+   "rows_plain": [
+    "It's all right, Metal. Harry's",
+    "right."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B080_1_08",
+   "reel": 121,
+   "sdaif": "SDAIF_C1.AIF",
+   "rate": 30000,
+   "frames": 1816069,
+   "b0": 2340364,
+   "b1": 2886862,
+   "size": 3632192,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Jean... I'm sorry, lad. It wasn't your fault.",
+   "rows": [
+    "Jean... I'm sorry, lad. It",
+    "wasn't your fault."
+   ],
+   "rows_plain": [
+    "Jean... I'm sorry, lad. It wasn't",
+    "your fault."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B080_1_09",
+   "reel": 121,
+   "sdaif": "SDAIF_C1.AIF",
+   "rate": 30000,
+   "frames": 1816069,
+   "b0": 2886862,
+   "b1": 3201888,
+   "size": 3632192,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal, give Harry Little John's memory chip, the one we found at the scene.",
+   "rows": [
+    "Metal, give Harry Little",
+    "John's memory chip, the one",
+    "we found at the scene."
+   ],
+   "rows_plain": [
+    "Metal, give Harry Little John's",
+    "memory chip, the one we found at the",
+    "scene."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B080_1_10",
+   "reel": 121,
+   "sdaif": "SDAIF_C1.AIF",
+   "rate": 30000,
+   "frames": 1816069,
+   "b0": 3201888,
+   "b1": 3630054,
+   "size": 3632192,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Understood. Here's Little John's memory, Harry.",
+   "rows": [
+    "Understood. Here's Little",
+    "John's memory, Harry."
+   ],
+   "rows_plain": [
+    "Understood. Here's Little John's",
+    "memory, Harry."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_00",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 350362,
+   "b1": 748256,
+   "size": 9161248,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Let's go over your report again. Metal Gear, if you would.",
+   "rows": [
+    "Let's go over your report",
+    "again. Metal Gear, if you",
+    "would."
+   ],
+   "rows_plain": [
+    "Let's go over your report again.",
+    "Metal Gear, if you would."
+   ],
+   "enabled": true,
+   "face_char": 3
+  },
+  {
+   "id": "B080_2_01",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 748256,
+   "b1": 1238928,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Yes. I'll play back the footage I recorded.",
+   "rows": [
+    "Yes. I'll play back the",
+    "footage I recorded."
+   ],
+   "rows_plain": [
+    "Yes. I'll play back the footage I",
+    "recorded."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01b",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 1238928,
+   "b1": 1344900,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "After Gibson contacted you,",
+   "rows": [
+    "After Gibson contacted you,"
+   ],
+   "rows_plain": [
+    "After Gibson contacted you,"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01c",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 1344900,
+   "b1": 1632426,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "you went straight to the factory ruins in the M district.",
+   "rows": [
+    "you went straight to the",
+    "factory ruins in the M",
+    "district."
+   ],
+   "rows_plain": [
+    "you went straight to the factory",
+    "ruins in the M district."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01d",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 1632426,
+   "b1": 2013526,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Someone had murdered Gibson inside the factory ruins.",
+   "rows": [
+    "Someone had murdered Gibson",
+    "inside the factory ruins."
+   ],
+   "rows_plain": [
+    "Someone had murdered Gibson inside",
+    "the factory ruins."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01e",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 2013526,
+   "b1": 2403327,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Hair and skin found on his body suggest two Snatchers killed him,",
+   "rows": [
+    "Hair and skin found on his",
+    "body suggest two Snatchers",
+    "killed him,"
+   ],
+   "rows_plain": [
+    "Hair and skin found on his body",
+    "suggest two Snatchers killed him,"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01f",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 2403327,
+   "b1": 2544986,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "one male and one female.",
+   "rows": [
+    "one male and one female."
+   ],
+   "rows_plain": [
+    "one male and one female."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01g",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 2544986,
+   "b1": 2711610,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gibson's investigation records",
+   "rows": [
+    "Gibson's investigation",
+    "records"
+   ],
+   "rows_plain": [
+    "Gibson's investigation records"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01gb",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 2711610,
+   "b1": 3066205,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "on the floppy disk revealed a serious weakness in the Snatchers.",
+   "rows": [
+    "on the floppy disk revealed",
+    "a serious weakness in the",
+    "Snatchers."
+   ],
+   "rows_plain": [
+    "on the floppy disk revealed a",
+    "serious weakness in the Snatchers."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01j",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 3066205,
+   "b1": 3435952,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "It seems the Snatchers killed Gibson because he discovered it.",
+   "rows": [
+    "It seems the Snatchers",
+    "killed Gibson because he",
+    "discovered it."
+   ],
+   "rows_plain": [
+    "It seems the Snatchers killed Gibson",
+    "because he discovered it."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01jb",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 3435952,
+   "b1": 3873838,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Their weakness lies in how they differ from real humans.",
+   "rows": [
+    "Their weakness lies in how",
+    "they differ from real",
+    "humans."
+   ],
+   "rows_plain": [
+    "Their weakness lies in how they",
+    "differ from real humans."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01l",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 3873838,
+   "b1": 4169760,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Prolonged UV exposure makes their artificial skin cancerous.",
+   "rows": [
+    "Prolonged UV exposure makes",
+    "their artificial skin",
+    "cancerous."
+   ],
+   "rows_plain": [
+    "Prolonged UV exposure makes their",
+    "artificial skin cancerous."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01m",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 4169760,
+   "b1": 4523668,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "It develops a form of malignant melanoma.",
+   "rows": [
+    "It develops a form of",
+    "malignant melanoma."
+   ],
+   "rows_plain": [
+    "It develops a form of malignant",
+    "melanoma."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01n",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 4523668,
+   "b1": 4897970,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "This limits where and when they can operate.",
+   "rows": [
+    "This limits where and when",
+    "they can operate."
+   ],
+   "rows_plain": [
+    "This limits where and when they can",
+    "operate."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01o",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 4897970,
+   "b1": 5247878,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Only at night, in midwinter when the days are short.",
+   "rows": [
+    "Only at night, in midwinter",
+    "when the days are short."
+   ],
+   "rows_plain": [
+    "Only at night, in midwinter when the",
+    "days are short."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01p",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 5247878,
+   "b1": 5664168,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Their artificial skin needs at least six months to stabilize.",
+   "rows": [
+    "Their artificial skin needs",
+    "at least six months to",
+    "stabilize."
+   ],
+   "rows_plain": [
+    "Their artificial skin needs at least",
+    "six months to stabilize."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01q",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 5664168,
+   "b1": 5935298,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Those six months are their weakness.",
+   "rows": [
+    "Those six months are their",
+    "weakness."
+   ],
+   "rows_plain": [
+    "Those six months are their weakness."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01r",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 5935298,
+   "b1": 6206426,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "They must stay out of UV light for that entire time.",
+   "rows": [
+    "They must stay out of UV",
+    "light for that entire time."
+   ],
+   "rows_plain": [
+    "They must stay out of UV light for",
+    "that entire time."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01rb",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 6206426,
+   "b1": 6737486,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gibson must have uncovered this using his skills as a former Science Cop.",
+   "rows": [
+    "Gibson must have uncovered",
+    "this using his skills as a",
+    "former Science Cop."
+   ],
+   "rows_plain": [
+    "Gibson must have uncovered this",
+    "using his skills as a former Science",
+    "Cop."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01t",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 6737486,
+   "b1": 7111788,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "That's why they wore sunscreen, even in midwinter.",
+   "rows": [
+    "That's why they wore",
+    "sunscreen, even in",
+    "midwinter."
+   ],
+   "rows_plain": [
+    "That's why they wore sunscreen, even",
+    "in midwinter."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01u",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 7111788,
+   "b1": 7588864,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "All this means they need one thing to survive.",
+   "rows": [
+    "All this means they need one",
+    "thing to survive."
+   ],
+   "rows_plain": [
+    "All this means they need one thing",
+    "to survive."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01v",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 7588864,
+   "b1": 7995558,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "A hospital that can maintain their cancerous artificial skin.",
+   "rows": [
+    "A hospital that can maintain",
+    "their cancerous artificial",
+    "skin."
+   ],
+   "rows_plain": [
+    "A hospital that can maintain their",
+    "cancerous artificial skin."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01vb",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 7995558,
+   "b1": 8437042,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gibson may have found the hospital doing that maintenance.",
+   "rows": [
+    "Gibson may have found the",
+    "hospital doing that",
+    "maintenance."
+   ],
+   "rows_plain": [
+    "Gibson may have found the hospital",
+    "doing that maintenance."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01x",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 8437042,
+   "b1": 8714999,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "To retrace Gibson's steps, you followed the whale meat",
+   "rows": [
+    "To retrace Gibson's steps,",
+    "you followed the whale meat"
+   ],
+   "rows_plain": [
+    "To retrace Gibson's steps, you",
+    "followed the whale meat"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B080_2_01y",
+   "reel": 151,
+   "sdaif": "SDAIF_F1.AIF",
+   "rate": 30000,
+   "frames": 4580597,
+   "b0": 8714999,
+   "b1": 9156054,
+   "size": 9161248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "in his stomach to Outer Heaven, the only restaurant that serves it.",
+   "rows": [
+    "in his stomach to Outer",
+    "Heaven, the only restaurant",
+    "that serves it."
+   ],
+   "rows_plain": [
+    "in his stomach to Outer Heaven, the",
+    "only restaurant that serves it."
+   ],
+   "enabled": true,
+   "face_char": 5
+  }
+ ]
+}

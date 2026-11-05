@@ -1,0 +1,80 @@
+{
+ "scene": "B030",
+ "note": "GitHub #31: Gaudi's Neo Kobe files list scrolled past its first eight items (Uncontrolled areas / Freemen / Migration Problem / Back to menu)",
+ "actions": [
+  {
+   "path": [
+    "Use Gaudi",
+    "Use card"
+   ],
+   "optional": true,
+   "patience": 60
+  },
+  {
+   "path": [
+    "Load fact file",
+    "Neo Kobe files"
+   ]
+  },
+  {
+   "idle": 120
+  },
+  {
+   "press": "down"
+  },
+  {
+   "idle": 40
+  },
+  {
+   "press": "down"
+  },
+  {
+   "idle": 40
+  },
+  {
+   "press": "down"
+  },
+  {
+   "idle": 40
+  },
+  {
+   "press": "down"
+  },
+  {
+   "idle": 40
+  },
+  {
+   "press": "down"
+  },
+  {
+   "idle": 40
+  },
+  {
+   "press": "down"
+  },
+  {
+   "idle": 40
+  },
+  {
+   "press": "down"
+  },
+  {
+   "idle": 40
+  },
+  {
+   "press": "down"
+  },
+  {
+   "idle": 40
+  },
+  {
+   "press": "down"
+  },
+  {
+   "idle": 40
+  },
+  {
+   "idle": 200
+  }
+ ]
+}

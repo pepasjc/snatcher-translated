@@ -1,0 +1,1409 @@
+{
+ "file": "ISZ_B1D0.BIN",
+ "text_base": 3964,
+ "strings": [
+  {
+   "off": 3964,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 3969,
+   "budget": 25,
+   "en": "Outside Outer Heaven.",
+   "long": "We're outside Outer Heaven."
+  },
+  {
+   "off": 3994,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 3999,
+   "budget": 9,
+   "en": "Barker"
+  },
+  {
+   "off": 4008,
+   "budget": 43,
+   "en": "The werewolf-masked barker￥from before.",
+   "long": "It's the doorman in the werewolf￥mask from before."
+  },
+  {
+   "off": 4051,
+   "budget": 61,
+   "en": "He's wearing a mask, so I can't tell￥if he's the same man."
+  },
+  {
+   "off": 4112,
+   "budget": 71,
+   "en": "A mask that detailed has to be￥molded to fit. It's the same￥doorman."
+  },
+  {
+   "off": 4183,
+   "budget": 59,
+   "en": "Looking at his mask won't tell us if￥he's Napoleon."
+  },
+  {
+   "off": 4242,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 4249,
+   "budget": 59,
+   "en": "It doesn't seem to be costume time￥right now."
+  },
+  {
+   "off": 4308,
+   "budget": 37,
+   "en": "It's as lively as ever around here."
+  },
+  {
+   "off": 4345,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 4352,
+   "budget": 23,
+   "en": "You're Napoleon!"
+  },
+  {
+   "off": 4375,
+   "budget": 35,
+   "en": "Playing dumb... show yourself!",
+   "long": "Stop playing dumb! Show me who you￥really are!"
+  },
+  {
+   "off": 4410,
+   "budget": 25,
+   "en": "Stop! What's the idea!!",
+   "long": "Stop it! What are you doing?"
+  },
+  {
+   "off": 4435,
+   "budget": 31,
+   "en": "Stop it... show me proof!",
+   "long": "Cut it out! Show me some proof!"
+  },
+  {
+   "off": 4466,
+   "budget": 27,
+   "en": "Enough wild accusations!",
+   "long": "Stop making crazy accusations!"
+  },
+  {
+   "off": 4493,
+   "budget": 47,
+   "en": "He's right.￥Let's prove it with our heads.",
+   "long": "He's right. Let's think of a way to￥prove it."
+  },
+  {
+   "off": 4540,
+   "budget": 35,
+   "en": "You're almost there. Think back."
+  },
+  {
+   "off": 4575,
+   "budget": 25,
+   "en": "Wait, could you be?"
+  },
+  {
+   "off": 4600,
+   "budget": 29,
+   "en": "What's the idea, suddenly!",
+   "long": "What are you doing? What's gotten￥into you?"
+  },
+  {
+   "off": 4629,
+   "budget": 29,
+   "en": "Are you out of your mind?"
+  },
+  {
+   "off": 4658,
+   "budget": 37,
+   "en": "Stop that, or I'll call the bouncer."
+  },
+  {
+   "off": 4695,
+   "budget": 47,
+   "en": "Christmas parties fill￥every place.",
+   "long": "All the clubs are full of Christmas￥and year-end parties."
+  },
+  {
+   "off": 4742,
+   "budget": 47,
+   "en": "A few drunks are crouched on the￥ground."
+  },
+  {
+   "off": 4789,
+   "budget": 69,
+   "en": "The world's full of problems.￥They're drinking to escape reality."
+  },
+  {
+   "off": 4858,
+   "budget": 49,
+   "en": "...Gillian,￥man is a weak species...",
+   "long": "Humans are a fragile species, aren't￥they, Gillian?"
+  },
+  {
+   "off": 4907,
+   "budget": 43,
+   "en": "Aye.￥And they prey on that weakness...",
+   "long": "Yeah. And they take advantage of￥that weakness."
+  },
+  {
+   "off": 4950,
+   "budget": 7,
+   "en": "Mask"
+  },
+  {
+   "off": 4957,
+   "budget": 33,
+   "en": "Enough. Rip the mask off?",
+   "long": "This is a pain. Let's just pull his￥mask off."
+  },
+  {
+   "off": 4990,
+   "budget": 27,
+   "en": "Ow! What are you doing?"
+  },
+  {
+   "off": 5017,
+   "budget": 47,
+   "en": "It won't come off.￥Bonded fast to the flesh.",
+   "long": "It won't come off. It's firmly glued￥to his skin."
+  },
+  {
+   "off": 5064,
+   "budget": 11,
+   "en": "Ouch!!",
+   "long": "That hurts!"
+  },
+  {
+   "off": 5075,
+   "budget": 71,
+   "en": "A special adhesive.￥Without solvent the skin￥comes away with it.",
+   "long": "It's a special adhesive. Without the￥proper solvent, his skin will come￥off too."
+  },
+  {
+   "off": 5146,
+   "budget": 45,
+   "en": "Right.￥Brute force... use your head.",
+   "long": "That's right. Quit throwing your￥weight around and use your head."
+  },
+  {
+   "off": 5191,
+   "budget": 5,
+   "en": "Talk"
+  },
+  {
+   "off": 5196,
+   "budget": 57,
+   "en": "You look a lot like someone I know.￥Could you be?"
+  },
+  {
+   "off": 5253,
+   "budget": 19,
+   "en": "Napoleon?"
+  },
+  {
+   "off": 5272,
+   "budget": 69,
+   "en": "You're imagining things, sir. I￥don't know any Napoleon."
+  },
+  {
+   "off": 5341,
+   "budget": 47,
+   "en": "I know it's you, Napoleon! Drop the￥act!"
+  },
+  {
+   "off": 5388,
+   "budget": 43,
+   "en": "You've got the wrong man, sir."
+  },
+  {
+   "off": 5431,
+   "budget": 45,
+   "en": "Napoleon!?￥...What is it? Don't play!",
+   "long": "Napoleon! What's gotten into you?￥Quit fooling around!"
+  },
+  {
+   "off": 5476,
+   "budget": 35,
+   "en": "I'm just a doorman."
+  },
+  {
+   "off": 5511,
+   "budget": 11,
+   "en": "Press him"
+  },
+  {
+   "off": 5522,
+   "budget": 31,
+   "en": "You're Napoleon, aren't you?"
+  },
+  {
+   "off": 5553,
+   "budget": 91,
+   "en": "It's all right. I guarantee￥your safety.￥So fear nothing.￥...Show yourself!",
+   "long": "It's all right. I'll guarantee your￥safety. There's nothing to worry￥about. Tell me who you are!"
+  },
+  {
+   "off": 5644,
+   "budget": 91,
+   "en": "This is getting tiresome. What proof￥do you have that I'm this Napoleon￥fellow?"
+  },
+  {
+   "off": 5735,
+   "budget": 35,
+   "en": "Go on, sir. Prove it."
+  },
+  {
+   "off": 5770,
+   "budget": 13,
+   "en": "Proof..."
+  },
+  {
+   "off": 5783,
+   "budget": 35,
+   "en": "You say it without decent proof?",
+   "long": "You're saying that without any real￥proof?"
+  },
+  {
+   "off": 5818,
+   "budget": 35,
+   "en": "You're still not using your head."
+  },
+  {
+   "off": 5853,
+   "budget": 35,
+   "en": "Well, think a little harder."
+  },
+  {
+   "off": 5888,
+   "budget": 9,
+   "en": "Prove it",
+   "long": "Give proof"
+  },
+  {
+   "off": 5897,
+   "budget": 7,
+   "en": "Build",
+   "long": "Body type"
+  },
+  {
+   "off": 5904,
+   "budget": 37,
+   "en": "Yes, your height is the same.",
+   "long": "That's right. You're about the same￥height."
+  },
+  {
+   "off": 5941,
+   "budget": 47,
+   "en": "Same height.￥That short build's a giveaway!",
+   "long": "You're the same height. Being that￥short is hard to miss!"
+  },
+  {
+   "off": 5988,
+   "budget": 5,
+   "en": "Tone",
+   "long": "Voice"
+  },
+  {
+   "off": 5993,
+   "budget": 51,
+   "en": "Yes, the voice is alike.￥...Alike indeed.",
+   "long": "That's it. Your voice sounds like￥his. It really does."
+  },
+  {
+   "off": 6044,
+   "budget": 19,
+   "en": "Your voice is his.",
+   "long": "You have the same voice."
+  },
+  {
+   "off": 6063,
+   "budget": 45,
+   "en": "Want to try a voiceprint analysis,￥Metal?"
+  },
+  {
+   "off": 6108,
+   "budget": 85,
+   "en": "Sadly I hold no voiceprint data for￥Napoleon.￥Sorry. Careless of me...",
+   "long": "Unfortunately, I didn't record￥Napoleon's voiceprint. I'm sorry.￥That was careless."
+  },
+  {
+   "off": 6193,
+   "budget": 19,
+   "en": "Too bad for you."
+  },
+  {
+   "off": 6212,
+   "budget": 11,
+   "en": "Accent"
+  },
+  {
+   "off": 6223,
+   "budget": 29,
+   "en": "Your speech is alike too.",
+   "long": "That's it. You talk like him too."
+  },
+  {
+   "off": 6252,
+   "budget": 31,
+   "en": "Speech and accent alike.",
+   "long": "Your accent and the way you speak￥are the same."
+  },
+  {
+   "off": 6283,
+   "budget": 5,
+   "en": "Ways",
+   "long": "Personality"
+  },
+  {
+   "off": 6288,
+   "budget": 47,
+   "en": "That suspicious nature.￥Just like him.",
+   "long": "That's it. You're just as suspicious￥as he is."
+  },
+  {
+   "off": 6335,
+   "budget": 35,
+   "en": "That's his nature exactly.",
+   "long": "You've got exactly the same￥personality."
+  },
+  {
+   "off": 6370,
+   "budget": 5,
+   "en": "Odor",
+   "long": "Smell"
+  },
+  {
+   "off": 6375,
+   "budget": 35,
+   "en": "Yes, that smell. Just like his.",
+   "long": "That's it. You smell just like him."
+  },
+  {
+   "off": 6410,
+   "budget": 51,
+   "en": "Huh? What did Napoleon smell like?"
+  },
+  {
+   "off": 6461,
+   "budget": 21,
+   "en": "Shut up! Keep quiet."
+  },
+  {
+   "off": 6482,
+   "budget": 29,
+   "en": "That smell... Napoleon.",
+   "long": "That body odor. You're Napoleon."
+  },
+  {
+   "off": 6511,
+   "budget": 9,
+   "en": "Sneeze"
+  },
+  {
+   "off": 6520,
+   "budget": 93,
+   "en": "That's it! That sneeze! Now I￥remember. Napoleon's allergic to￥pollen."
+  },
+  {
+   "off": 6613,
+   "budget": 67,
+   "en": "All right, I'll let you off the￥hook. I was just teasing you."
+  },
+  {
+   "off": 6680,
+   "budget": 71,
+   "en": "Good work, Gillian. You really are a￥JUNKER. Come on in!"
+  },
+  {
+   "off": 6751,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 6766,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 6777,
+   "budget": 37,
+   "en": "I'll save your progress now."
+  },
+  {
+   "off": 6814,
+   "budget": 29,
+   "en": "That doesn't prove anything."
+  },
+  {
+   "off": 6843,
+   "budget": 27,
+   "en": "Oh, really? So what?"
+  },
+  {
+   "off": 6870,
+   "budget": 31,
+   "en": "Huh. That's your reason?"
+  },
+  {
+   "off": 6901,
+   "budget": 27,
+   "en": "Select Deduce."
+  },
+  {
+   "off": 6928,
+   "budget": 11,
+   "en": "Napoleon"
+  },
+  {
+   "off": 6939,
+   "budget": 41,
+   "en": "You look almost normal like this."
+  },
+  {
+   "off": 6980,
+   "budget": 33,
+   "en": "Ordinary? What do you mean?",
+   "long": "Normal? What's that supposed to￥mean?"
+  },
+  {
+   "off": 7013,
+   "budget": 83,
+   "en": "That doorman outfit suits you.￥Better than the Santa suit, anyway."
+  },
+  {
+   "off": 7096,
+   "budget": 17,
+   "en": "Mind your own!",
+   "long": "Mind your own business!"
+  },
+  {
+   "off": 7113,
+   "budget": 79,
+   "en": "It isn't cosplay time today.￥Don't gawk around.￥The guests dislike it.",
+   "long": "It's not costume time today. Stop￥looking around so much. You're￥bothering the customers."
+  },
+  {
+   "off": 7192,
+   "budget": 49,
+   "en": "See? We do pretty well even without￥costumes."
+  },
+  {
+   "off": 7241,
+   "budget": 31,
+   "en": "So Isabella's gone."
+  },
+  {
+   "off": 7272,
+   "budget": 9,
+   "en": "Table"
+  },
+  {
+   "off": 7281,
+   "budget": 51,
+   "en": "Not synthetic timber.￥Costly, surprisingly.",
+   "long": "This isn't synthetic wood. It's￥surprisingly expensive."
+  },
+  {
+   "off": 7332,
+   "budget": 59,
+   "en": "This table will do.￥It's the club's biggest blind spot.",
+   "long": "We're safe at this table. It's the￥best hidden spot in the club."
+  },
+  {
+   "off": 7391,
+   "budget": 59,
+   "en": "Hey, enough with the suspicion. I'm￥the real thing!"
+  },
+  {
+   "off": 7450,
+   "budget": 41,
+   "en": "That suspicious, you'll￥lose friends.",
+   "long": "You'll lose your friends if you're￥that suspicious."
+  },
+  {
+   "off": 7491,
+   "budget": 47,
+   "en": "It's fine.￥No suspicious figures for now.",
+   "long": "It's all right. There's no one￥suspicious around so far."
+  },
+  {
+   "off": 7538,
+   "budget": 67,
+   "en": "With this crowd, we won't stand out.￥We can talk safely."
+  },
+  {
+   "off": 7605,
+   "budget": 51,
+   "en": "There are no listening devices.￥Don't worry."
+  },
+  {
+   "off": 7656,
+   "budget": 25,
+   "en": "Come on, trust me."
+  },
+  {
+   "off": 7681,
+   "budget": 29,
+   "en": "No cameras either.",
+   "long": "There aren't any cameras either."
+  },
+  {
+   "off": 7710,
+   "budget": 5,
+   "en": "Ask"
+  },
+  {
+   "off": 7715,
+   "budget": 17,
+   "en": "His nationality"
+  },
+  {
+   "off": 7732,
+   "budget": 23,
+   "en": "You're Chinese, right?"
+  },
+  {
+   "off": 7755,
+   "budget": 75,
+   "en": "That's right, I'm pure Chinese. I￥only came to Kobe after I turned 20.",
+   "long": "That's right. I'm Chinese through￥and through. I didn't come to Kobe￥until I was over twenty."
+  },
+  {
+   "off": 7830,
+   "budget": 55,
+   "en": "The China I know is post-war,￥so no fond memories.",
+   "long": "The China I knew had already lost￥the war. I don't have many good￥memories."
+  },
+  {
+   "off": 7885,
+   "budget": 73,
+   "en": "The Catastrophe changed our whole￥lives. It was a terrible mistake."
+  },
+  {
+   "off": 7958,
+   "budget": 11,
+   "en": "The cipher",
+   "long": "Meaning of code"
+  },
+  {
+   "off": 7969,
+   "budget": 49,
+   "en": "How would you read ＠赤BENSON＠白 aloud?"
+  },
+  {
+   "off": 8018,
+   "budget": 61,
+   "en": "You'd pronounce ＠赤BENSON＠白 as ＠赤Benson＠白,￥right?"
+  },
+  {
+   "off": 8079,
+   "budget": 37,
+   "en": "What do you mean, Chinese￥symbols?",
+   "long": "What do you mean, Chinese symbols￥for elements?"
+  },
+  {
+   "off": 8116,
+   "budget": 89,
+   "en": "Leftmost is beryllium,￥next and last nitrogen,￥third sulphur, fourth oxygen.",
+   "long": "The first character is beryllium,￥the second and last are nitrogen,￥the third is sulfur, and the fourth￥is oxygen."
+  },
+  {
+   "off": 8205,
+   "budget": 53,
+   "en": "Beryllium, nitrogen, sulphur,￥oxygen... I have it!",
+   "long": "Beryllium, nitrogen, sulfur, oxygen.￥I'm getting it!"
+  },
+  {
+   "off": 8258,
+   "budget": 47,
+   "en": "Gillian, let's deduce the name.",
+   "long": "Gillian, let's work out the name in￥this code."
+  },
+  {
+   "off": 8305,
+   "budget": 53,
+   "en": "Again.￥...These are Chinese element￥symbols.",
+   "long": "I'll say it again. These are Chinese￥symbols for chemical elements."
+  },
+  {
+   "off": 8358,
+   "budget": 87,
+   "en": "Leftmost is beryllium,￥next and last nitrogen,￥third sulphur, fourth oxygen.",
+   "long": "The first character is beryllium,￥the second and last are nitrogen,￥the third is sulfur, and the fourth￥is oxygen."
+  },
+  {
+   "off": 8445,
+   "budget": 55,
+   "en": "Beryllium, Nitrogen, Sulphur,￥Oxygen, Nitrogen.",
+   "long": "In order, they're beryllium,￥nitrogen, sulfur, oxygen, nitrogen."
+  },
+  {
+   "off": 8500,
+   "budget": 53,
+   "en": "A simple cipher of Chinese￥element symbols.",
+   "long": "It's a simple code using Chinese￥symbols for chemical elements."
+  },
+  {
+   "off": 8553,
+   "budget": 9,
+   "en": "Symbols",
+   "long": "Element symbols"
+  },
+  {
+   "off": 8562,
+   "budget": 43,
+   "en": "Put them into ordinary￥symbols and...",
+   "long": "Replace the Chinese characters with￥the standard chemical symbols,"
+  },
+  {
+   "off": 8605,
+   "budget": 31,
+   "en": "and you get ＠赤BENSON＠白."
+  },
+  {
+   "off": 8636,
+   "budget": 63,
+   "en": "In other words, the chemical symbols￥spell ＠赤BENSON＠白."
+  },
+  {
+   "off": 8699,
+   "budget": 61,
+   "en": "Come on, you learned this in school!￥Check your textbook!"
+  },
+  {
+   "off": 8760,
+   "budget": 99,
+   "en": "Nitrogen is '＠赤N＠白', beryllium '＠赤BE＠白',￥oxygen '＠赤O＠白', sulphur '＠赤S＠白'.",
+   "long": "Nitrogen is ＠赤N＠白, beryllium is ＠赤Be＠白,￥oxygen is ＠赤O＠白, and sulfur is ＠赤S＠白."
+  },
+  {
+   "off": 8859,
+   "budget": 149,
+   "en": "In that order...￥beryllium's '＠赤BE＠白', nitrogen's￥'＠赤N＠白', sulphur's '＠赤S＠白',￥oxygen's '＠赤O＠白', nitrogen '＠赤N＠白'.",
+   "long": "Put them in this order: ＠赤Be＠白 for￥beryllium, ＠赤N＠白 for nitrogen, ＠赤S＠白 for￥sulfur, ＠赤O＠白 for oxygen, and ＠赤N＠白 for￥nitrogen."
+  },
+  {
+   "off": 9008,
+   "budget": 21,
+   "en": "Get it now?"
+  },
+  {
+   "off": 9029,
+   "budget": 73,
+   "en": "You know element symbols are written￥in the alphabet, surely?",
+   "long": "You know chemical symbols are￥usually written with letters, don't￥you?"
+  },
+  {
+   "off": 9102,
+   "budget": 37,
+   "en": "This medical record is an exception."
+  },
+  {
+   "off": 9139,
+   "budget": 81,
+   "en": "This chart is in Chinese￥symbols. Put them into the￥alphabet. What then?",
+   "long": "This record uses Chinese symbols for￥the elements. What happens if you￥convert them to letters?"
+  },
+  {
+   "off": 9220,
+   "budget": 9,
+   "en": "Deduce"
+  },
+  {
+   "off": 9229,
+   "budget": 79,
+   "en": "Who is the person named in this￥record? ＠赤Enter the name."
+  },
+  {
+   "off": 9308,
+   "budget": 89,
+   "en": "Who could the person named in this￥record be? ＠赤Enter the name again."
+  },
+  {
+   "off": 9397,
+   "budget": 69,
+   "en": "Why not enter ＠赤BENSON＠白, as Napoleon￥suggested?"
+  },
+  {
+   "off": 9466,
+   "budget": 79,
+   "en": "Based on what we've worked out, why￥not enter ＠赤BENSON＠白?"
+  },
+  {
+   "off": 9545,
+   "budget": 13,
+   "en": "",
+   "lock": false,
+   "long": "ＢＥＮＳＯＮ以外"
+  },
+  {
+   "off": 9558,
+   "budget": 5,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 9563,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＢＥＮＳＯＮ"
+  },
+  {
+   "off": 9572,
+   "budget": 7,
+   "en": "",
+   "lock": false,
+   "long": "ＢＥＮＳＯ"
+  },
+  {
+   "off": 9579,
+   "budget": 7,
+   "en": "",
+   "lock": false,
+   "long": "ＢＮＳＯＮ"
+  },
+  {
+   "off": 9586,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＢＡＮＳＯＮ"
+  },
+  {
+   "off": 9595,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＢＩＮＳＯＮ"
+  },
+  {
+   "off": 9604,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＢＵＮＳＯＮ"
+  },
+  {
+   "off": 9613,
+   "budget": 23,
+   "en": "I've got it! BNSON!"
+  },
+  {
+   "off": 9636,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＢＯＮＳＯＮ"
+  },
+  {
+   "off": 9645,
+   "budget": 9,
+   "en": "Gibson"
+  },
+  {
+   "off": 9654,
+   "budget": 37,
+   "en": "What are you saying!￥Now!",
+   "long": "What are you talking about? This is￥no time for that!"
+  },
+  {
+   "off": 9691,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＢＵＮＳＥＮ"
+  },
+  {
+   "off": 9700,
+   "budget": 57,
+   "en": "The tsukudani there is good.￥.....No, not that.",
+   "long": "Their food simmered in soy sauce is￥delicious. Wait, that's not it!"
+  },
+  {
+   "off": 9757,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＢＥＮＺＥＮＥ"
+  },
+  {
+   "off": 9766,
+   "budget": 15,
+   "en": "Huh?"
+  },
+  {
+   "off": 9781,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＢＥＮＮＮＮ"
+  },
+  {
+   "off": 9790,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＢＥＮＳＯＳＯ"
+  },
+  {
+   "off": 9799,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＢＥＮＮＳＯ"
+  },
+  {
+   "off": 9808,
+   "budget": 9,
+   "en": "",
+   "lock": false,
+   "long": "ＢＥＴＳＯＮ"
+  },
+  {
+   "off": 9817,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 9822,
+   "budget": 7,
+   "en": "Show"
+  },
+  {
+   "off": 9829,
+   "budget": 7,
+   "en": "Chart",
+   "long": "Medical chart"
+  },
+  {
+   "off": 9836,
+   "budget": 69,
+   "en": "Look at this.￥You're Chinese, no?￥Do you know what it means?",
+   "long": "Take a look at this. You're Chinese,￥right? Can you tell me what it￥means?"
+  },
+  {
+   "off": 9905,
+   "budget": 45,
+   "en": "I see. No wonder you're having￥trouble."
+  },
+  {
+   "off": 9950,
+   "budget": 17,
+   "en": "...Meaning what?",
+   "long": "What do you mean?"
+  },
+  {
+   "off": 9967,
+   "budget": 83,
+   "en": "Chinese element symbols.￥Without my chemistry I￥wouldn't have known either.",
+   "long": "These are Chinese symbols for￥chemical elements. I wouldn't have￥known if I hadn't majored in￥chemistry."
+  },
+  {
+   "off": 10050,
+   "budget": 31,
+   "en": "A cipher of element symbols.",
+   "long": "It's a code using chemical symbols."
+  },
+  {
+   "off": 10081,
+   "budget": 37,
+   "en": "Take a look at this medical record."
+  },
+  {
+   "off": 10118,
+   "budget": 77,
+   "en": "Why show me a chart of all things?￥I've no medical knowledge at all...",
+   "long": "Why are you showing me a medical￥record? I don't know a thing about￥medicine."
+  },
+  {
+   "off": 10195,
+   "budget": 45,
+   "en": "What of the chart?￥I don't follow you.",
+   "long": "What about the record? I don't know￥what you're getting at."
+  },
+  {
+   "off": 10240,
+   "budget": 7,
+   "en": "Match",
+   "long": "Matches"
+  },
+  {
+   "off": 10247,
+   "budget": 65,
+   "en": "Our matches, these. Retro, no?￥Given only to regulars.",
+   "long": "These are our matches. Pretty￥old-fashioned, huh? We only give￥them to regulars."
+  },
+  {
+   "off": 10312,
+   "budget": 47,
+   "en": "So the Queen Hospital lot came here￥as well.",
+   "long": "So the people at Queen Hospital came￥here too."
+  },
+  {
+   "off": 10359,
+   "budget": 23,
+   "en": "Ours, sure enough.",
+   "long": "They're definitely our matches."
+  },
+  {
+   "off": 10382,
+   "budget": 13,
+   "en": "Video memory"
+  },
+  {
+   "off": 10395,
+   "budget": 11,
+   "en": "Temple",
+   "long": "Temple picture"
+  },
+  {
+   "off": 10406,
+   "budget": 55,
+   "en": "A Bee Land building?￥Princess someone's castle... no.",
+   "long": "A building at Bee Land? Some￥princess's castle? No, that's not￥it."
+  },
+  {
+   "off": 10461,
+   "budget": 29,
+   "en": "No idea... no such place.",
+   "long": "Never seen a building like that."
+  },
+  {
+   "off": 10490,
+   "budget": 69,
+   "en": "What do you mean? There's nothing to￥support that. Think carefully."
+  },
+  {
+   "off": 10559,
+   "budget": 35,
+   "en": "That's not right, Gillian."
+  },
+  {
+   "off": 10594,
+   "budget": 35,
+   "en": "Do the symbols mean something?",
+   "long": "Could the chemical symbols mean￥something?"
+  },
+  {
+   "off": 10629,
+   "budget": 69,
+   "en": "No, that's wrong. It must mean￥something. Think carefully."
+  },
+  {
+   "off": 10698,
+   "budget": 37,
+   "en": "That makes no sense.￥That's it!",
+   "long": "That doesn't make sense. Wait, I've￥got it!"
+  },
+  {
+   "off": 10735,
+   "budget": 47,
+   "en": "Ordinary symbols are in￥the alphabet, no?",
+   "long": "Standard chemical symbols use￥letters, don't they?"
+  },
+  {
+   "off": 10782,
+   "budget": 49,
+   "en": "Still not right. It has to make￥sense."
+  },
+  {
+   "off": 10831,
+   "budget": 17,
+   "en": "That's wrong..."
+  },
+  {
+   "off": 10848,
+   "budget": 105,
+   "en": "Try converting the Chinese symbols￥in the record into standard chemical￥symbols. That must be it!"
+  },
+  {
+   "off": 10953,
+   "budget": 47,
+   "en": "Wrong.￥Think hard about the element symbols.",
+   "long": "No. Think carefully about the￥chemical symbols."
+  },
+  {
+   "off": 11000,
+   "budget": 31,
+   "en": "You're almost there. Listen."
+  },
+  {
+   "off": 11031,
+   "budget": 45,
+   "en": "This cipher was Chinese￥element symbols.",
+   "long": "The code was made up of Chinese￥symbols for chemical elements."
+  },
+  {
+   "off": 11076,
+   "budget": 89,
+   "en": "Replace the Chinese symbols with￥standard ones, and you get ＠赤BENSON＠白."
+  },
+  {
+   "off": 11165,
+   "budget": 79,
+   "en": "Now, how do you read the letters￥＠赤BENSON＠白?"
+  },
+  {
+   "off": 11244,
+   "budget": 31,
+   "en": "Say these letters and...?",
+   "long": "How do you pronounce these letters?"
+  },
+  {
+   "off": 11275,
+   "budget": 75,
+   "en": "No, Gillian.￥Look up the element symbols and read￥them straight off.",
+   "long": "No, Gillian. Just look up the￥chemical symbols and read them as a￥word."
+  },
+  {
+   "off": 11350,
+   "budget": 69,
+   "en": "The standard chemical symbols spell￥＠赤BENSON＠白."
+  },
+  {
+   "off": 11419,
+   "budget": 39,
+   "en": "Gillian, please enter something!"
+  },
+  {
+   "off": 11458,
+   "budget": 37,
+   "en": "You haven't entered anything!"
+  },
+  {
+   "off": 11495,
+   "budget": 25,
+   "en": "Something feels missing.",
+   "long": "I think something's missing."
+  },
+  {
+   "off": 11520,
+   "budget": 45,
+   "en": "That isn't beryllium's symbol.",
+   "long": "That's not the chemical symbol for￥beryllium."
+  },
+  {
+   "off": 11565,
+   "budget": 31,
+   "en": "Let's ask Napoleon."
+  },
+  {
+   "off": 11596,
+   "budget": 21,
+   "en": "Wrong, Gillian.",
+   "long": "That's not right, Gillian."
+  },
+  {
+   "off": 11617,
+   "budget": 35,
+   "en": "Let's have Napoleon explain."
+  },
+  {
+   "off": 11652,
+   "budget": 23,
+   "en": "You're close."
+  },
+  {
+   "off": 11675,
+   "budget": 25,
+   "en": "You know the answer?"
+  },
+  {
+   "off": 11700,
+   "budget": 37,
+   "en": "No, no. It's just a feeling."
+  },
+  {
+   "off": 11737,
+   "budget": 51,
+   "en": "Gillian, you're close...￥a little more.",
+   "long": "You're getting close, Gillian. Just￥a little further."
+  },
+  {
+   "off": 11788,
+   "budget": 49,
+   "en": "Be careful. Those letters are easy￥to mix up."
+  },
+  {
+   "off": 11837,
+   "budget": 57,
+   "en": "Check the letters carefully when you￥enter them."
+  },
+  {
+   "off": 11894,
+   "budget": 31,
+   "en": "You're really very close."
+  },
+  {
+   "off": 11925,
+   "budget": 45,
+   "en": "Yes, my favourite film￥director, no?",
+   "long": "Wait, he's my favorite film￥director, isn't he?"
+  },
+  {
+   "off": 11970,
+   "budget": 31,
+   "en": "Let's go see his new one too.",
+   "long": "Let's go see his new movie too."
+  },
+  {
+   "off": 12001,
+   "budget": 27,
+   "en": "Well, that aside....",
+   "long": "Anyway, back to the matter at hand."
+  },
+  {
+   "off": 12028,
+   "budget": 41,
+   "en": "You're very close. Just one more￥step."
+  },
+  {
+   "off": 12069,
+   "budget": 57,
+   "en": "You've got the general idea. Just a￥little more."
+  },
+  {
+   "off": 12126,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 12141,
+   "budget": 71,
+   "en": "This ID card proves your full￥authority as a JUNKER. Keep it safe."
+  },
+  {
+   "off": 12212,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 12219,
+   "budget": 35,
+   "en": "This is the money JUNKER gave you."
+  },
+  {
+   "off": 12254,
+   "budget": 5,
+   "en": "Drop",
+   "long": "Candy"
+  },
+  {
+   "off": 12259,
+   "budget": 35,
+   "en": "This candy was in Jean's pocket."
+  },
+  {
+   "off": 12294,
+   "budget": 7,
+   "en": "Proof",
+   "long": "Evidence"
+  },
+  {
+   "off": 12301,
+   "budget": 3,
+   "en": "Pc",
+   "long": "Chess piece"
+  },
+  {
+   "off": 12304,
+   "budget": 65,
+   "en": "Gibson carried this chess piece as a￥clue to Queen Hospital."
+  },
+  {
+   "off": 12369,
+   "budget": 37,
+   "en": "This is the chess piece Gibson had."
+  },
+  {
+   "off": 12406,
+   "budget": 45,
+   "en": "A chart with a Snatcher's name.",
+   "long": "This medical record gives a￥Snatcher's name."
+  },
+  {
+   "off": 12451,
+   "budget": 37,
+   "en": "Found on a desk at￥Queen Hospital.",
+   "long": "We found this in a desk at Queen￥Hospital."
+  },
+  {
+   "off": 12488,
+   "budget": 43,
+   "en": "Old-fashioned matches from￥Queen Hosp.",
+   "long": "These old-fashioned matches were at￥Queen Hospital."
+  },
+  {
+   "off": 12531,
+   "budget": 9,
+   "en": "Memo"
+  },
+  {
+   "off": 12540,
+   "budget": 31,
+   "en": "A memo in Harry's hand.",
+   "long": "Harry seems to have written this￥note."
+  },
+  {
+   "off": 12571,
+   "budget": 43,
+   "en": "This note was in the Mechanic room."
+  },
+  {
+   "off": 12614,
+   "budget": 13,
+   "en": "Little John"
+  },
+  {
+   "off": 12627,
+   "budget": 47,
+   "en": "Footage left in Little John's￥memory.",
+   "long": "This image was stored in Little￥John's memory."
+  },
+  {
+   "off": 12674,
+   "budget": 9,
+   "en": "Red Sq.",
+   "long": "Red Square"
+  },
+  {
+   "off": 12683,
+   "budget": 43,
+   "en": "A 'still photo' from the￥Chief's office.",
+   "long": "This photograph was hidden in the￥Chief's office."
+  },
+  {
+   "off": 12726,
+   "budget": 5,
+   "en": "Hall",
+   "long": "Temple"
+  },
+  {
+   "off": 12731,
+   "budget": 47,
+   "en": "Temple painting from a￥Queen Hospital room.",
+   "long": "This picture of a cathedral hung in￥a room at Queen Hospital."
+  },
+  {
+   "off": 12778,
+   "budget": 67,
+   "en": "It has an integrated circuit￥containing all your data, Gillian."
+  },
+  {
+   "off": 12845,
+   "budget": 49,
+   "en": "Case expenses are covered￥as work requires.",
+   "long": "In principle, there's no limit on￥necessary investigation expenses."
+  },
+  {
+   "off": 12894,
+   "budget": 45,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "long": "Jean gave this candy to the children￥at the orphanage."
+  },
+  {
+   "off": 12939,
+   "budget": 59,
+   "en": "This piece was meant to tell￥the name of Queen Hospital.",
+   "long": "It seems this piece was meant to￥tell us the name of Queen Hospital."
+  },
+  {
+   "off": 12998,
+   "budget": 57,
+   "en": "It's a wooden chess piece. The￥queen."
+  },
+  {
+   "off": 13055,
+   "budget": 83,
+   "en": "It's a cipher written in Chinese￥element symbols. Decoded, it reads￥BENSON.",
+   "long": "It's a code written using Chinese￥symbols for chemical elements. It￥decodes to BENSON."
+  },
+  {
+   "off": 13138,
+   "budget": 65,
+   "en": "It seems to be part of a medical￥record. What does it say?"
+  },
+  {
+   "off": 13203,
+   "budget": 73,
+   "en": "Matches from 'Outer Heaven'.￥A trifle given to regulars,￥surely.",
+   "long": "These are Outer Heaven matches. They￥probably give them to regular￥customers."
+  },
+  {
+   "off": 13276,
+   "budget": 63,
+   "en": "'face to face'.￥A memo telling the secret￥of the illusion.",
+   "long": "\"Face to face.\" This note explains￥the secret of the optical illusion."
+  },
+  {
+   "off": 13339,
+   "budget": 79,
+   "en": "\"Face to face.\" It's Harry's￥handwriting, but what does it mean?"
+  },
+  {
+   "off": 13418,
+   "budget": 53,
+   "en": "This image shows the QUEEN Hospital￥neon sign."
+  },
+  {
+   "off": 13471,
+   "budget": 67,
+   "en": "It reads \"OLEEN Hospital.\" It must￥be a hospital's neon sign."
+  },
+  {
+   "off": 13538,
+   "budget": 65,
+   "en": "A still photo of Red Square￥in Moscow, before the Catastrophe.",
+   "long": "This is a photograph of Red Square￥in Moscow before the Catastrophe."
+  },
+  {
+   "off": 13603,
+   "budget": 67,
+   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "long": "It's St. Basil's Cathedral, a famous￥cathedral in Moscow before the￥Catastrophe."
+  },
+  {
+   "off": 13670,
+   "budget": 47,
+   "en": "We got as far as element symbols...",
+   "long": "We know they're chemical symbols,￥but that's all."
+  },
+  {
+   "off": 13717,
+   "budget": 37,
+   "en": "That's definitely from this club."
+  },
+  {
+   "off": 13754,
+   "budget": 21,
+   "en": "Have we cash left?",
+   "long": "Do I still have any cash?"
+  },
+  {
+   "off": 13775,
+   "budget": 21,
+   "en": "Our balance is fine.",
+   "long": "You have enough left."
+  },
+  {
+   "off": 13796,
+   "budget": 53,
+   "en": "Don't worry. I won't charge you for￥the table."
+  },
+  {
+   "off": 13851,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

@@ -1,0 +1,395 @@
+[
+ {
+  "track": 14,
+  "start": 1.44,
+  "end": 2.56,
+  "speaker": "Mika",
+  "en": "I'm coming, too!",
+  "ps1": "B240_m_00",
+  "layout": "plain",
+  "cards": [
+   "I'm coming, too!"
+  ],
+  "reveal_end": 2.42
+ },
+ {
+  "track": 14,
+  "start": 2.56,
+  "end": 3.2,
+  "speaker": "Gillian",
+  "en": "No!",
+  "ps1": "B240_m_01",
+  "cards": [
+   "No!"
+  ],
+  "reveal_end": 3.1
+ },
+ {
+  "track": 14,
+  "start": 3.2,
+  "end": 4.62,
+  "speaker": "Mika",
+  "en": "I'm a JUNKER, too!",
+  "ps1": "B240_m_02",
+  "layout": "plain",
+  "cards": [
+   "I'm a JUNKER, too!"
+  ],
+  "reveal_end": 4.46
+ },
+ {
+  "track": 14,
+  "start": 4.62,
+  "end": 6.7,
+  "speaker": "Gillian",
+  "en": "I know! And a good one!",
+  "ps1": "B240_m_03",
+  "cards": [
+   "I know! And a good|one!"
+  ],
+  "layout": "plain",
+  "reveal_end": 6.5
+ },
+ {
+  "track": 14,
+  "start": 6.7,
+  "end": 7.4,
+  "speaker": "Mika",
+  "en": "Then let me!",
+  "ps1": "B240_m_04",
+  "layout": "plain",
+  "cards": [
+   "Then let me!"
+  ],
+  "reveal_end": 7.2
+ },
+ {
+  "track": 14,
+  "start": 7.4,
+  "end": 12.36,
+  "speaker": "Gillian",
+  "en": "Guard the delegates at the summit. I doubt the Snatchers have given up.",
+  "ps1": "B240_m_05",
+  "ps1_more": [
+   "B240_m_06"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Guard the delegates|at the summit.",
+   "I doubt the Snatchers|have given up."
+  ],
+  "reveal_end": 12.36
+ },
+ {
+  "track": 14,
+  "start": 12.36,
+  "end": 16.12,
+  "speaker": "Mika",
+  "en": "The summit's in Kyoto! I can't just run away!",
+  "ps1": "B240_m_07",
+  "cards": [
+   "The summit's in|Kyoto! I can't just|run away!"
+  ],
+  "layout": "face",
+  "reveal_end": 15.88
+ },
+ {
+  "track": 14,
+  "start": 16.12,
+  "end": 19.08,
+  "speaker": "Gillian",
+  "en": "Convince them not to drop a nuclear bomb on the city!",
+  "ps1": "B240_m_09",
+  "layout": "plain",
+  "cards": [
+   "Convince them not to|drop a nuclear bomb on the city!"
+  ],
+  "reveal_end": 18.94
+ },
+ {
+  "track": 14,
+  "start": 19.08,
+  "end": 22.42,
+  "speaker": "Gillian",
+  "en": "We've found their hideout! No need to sink the whole island!",
+  "ps1": "B240_m_10",
+  "ps1_more": [
+   "B240_m_11"
+  ],
+  "layout": "plain",
+  "cards": [
+   "We've found their|hideout!",
+   "No need to sink the|whole island!"
+  ],
+  "reveal_end": 22.08
+ },
+ {
+  "track": 14,
+  "start": 22.42,
+  "end": 23.14,
+  "speaker": "Mika",
+  "en": "But...",
+  "ps1": "B240_m_12",
+  "cards": [
+   "But..."
+  ],
+  "reveal_end": 22.76
+ },
+ {
+  "track": 14,
+  "start": 23.14,
+  "end": 26.14,
+  "speaker": "Gillian",
+  "en": "It won't be easy. Can you do it?",
+  "ps1": "B240_m_13",
+  "layout": "plain",
+  "cards": [
+   "It won't be easy. Can|you do it?"
+  ],
+  "reveal_end": 25.04
+ },
+ {
+  "track": 14,
+  "start": 26.14,
+  "end": 30.1,
+  "speaker": "Mika",
+  "en": "All right, Gillian. I'll find a way.",
+  "ps1": "B240_m_14",
+  "cards": [
+   "All right, Gillian.|I'll find a way."
+  ],
+  "layout": "face",
+  "reveal_end": 29.98
+ },
+ {
+  "track": 14,
+  "start": 30.1,
+  "end": 32.44,
+  "speaker": "Gillian",
+  "en": "Thank you, Mika.",
+  "ps1": "B240_m_16",
+  "layout": "plain",
+  "cards": [
+   "Thank you, Mika."
+  ],
+  "reveal_end": 31.74
+ },
+ {
+  "track": 14,
+  "start": 32.44,
+  "end": 34.6,
+  "speaker": "Mika",
+  "en": "Don't say that.",
+  "ps1": "B240_m_17",
+  "cards": [
+   "Don't say that."
+  ],
+  "layout": "face",
+  "reveal_end": 33.76
+ },
+ {
+  "track": 14,
+  "start": 34.6,
+  "end": 37.96,
+  "speaker": "Metal Gear",
+  "en": "Come on. Let's go!",
+  "ps1": "B240_m_18",
+  "layout": "plain",
+  "cards": [
+   "Come on. Let's go!"
+  ],
+  "reveal_end": 36.1
+ },
+ {
+  "track": 14,
+  "start": 37.96,
+  "end": 39.16,
+  "speaker": "Mika",
+  "en": "Gillian!",
+  "ps1": "B240_m_19",
+  "cards": [
+   "Gillian!"
+  ],
+  "reveal_end": 39.1
+ },
+ {
+  "track": 14,
+  "start": 39.16,
+  "end": 42.06,
+  "speaker": "Gillian",
+  "en": "What?",
+  "ps1": "B240_m_20",
+  "cards": [
+   "What?"
+  ],
+  "reveal_end": 39.56,
+  "layout": "plain"
+ },
+ {
+  "track": 14,
+  "start": 42.06,
+  "end": 43.18,
+  "speaker": "Mika",
+  "en": "Well...",
+  "ps1": "B240_m_21",
+  "cards": [
+   "Well..."
+  ],
+  "reveal_end": 43.18,
+  "layout": "plain"
+ },
+ {
+  "track": 14,
+  "start": 43.18,
+  "end": 45.36,
+  "speaker": "Gillian",
+  "en": "What is it?",
+  "ps1": "B240_m_22",
+  "cards": [
+   "What is it?"
+  ],
+  "layout": "face",
+  "reveal_end": 43.82
+ },
+ {
+  "track": 14,
+  "start": 45.36,
+  "end": 47.86,
+  "speaker": "Mika",
+  "en": "How about dinner sometime?",
+  "ps1": "B240_m_23",
+  "layout": "plain",
+  "cards": [
+   "How about dinner sometime?"
+  ],
+  "reveal_end": 47.34
+ },
+ {
+  "track": 14,
+  "start": 47.86,
+  "end": 48.98,
+  "speaker": "Gillian",
+  "en": "Dinner?",
+  "ps1": "B240_m_24",
+  "cards": [
+   "Dinner?"
+  ],
+  "reveal_end": 48.62
+ },
+ {
+  "track": 14,
+  "start": 48.98,
+  "end": 52.58,
+  "speaker": "Mika",
+  "en": "Yes. Dinner!",
+  "ps1": "B240_m_25",
+  "layout": "plain",
+  "cards": [
+   "Yes. Dinner!"
+  ],
+  "reveal_end": 51.86
+ },
+ {
+  "track": 14,
+  "start": 52.58,
+  "end": 53.74,
+  "speaker": "Gillian",
+  "en": "Mika...",
+  "ps1": "B240_m_27",
+  "cards": [
+   "Mika..."
+  ],
+  "reveal_end": 53.4
+ },
+ {
+  "track": 14,
+  "start": 53.74,
+  "end": 58.96,
+  "speaker": "Mika",
+  "en": "Why not? We can dress up. It's Christmas!",
+  "ps1": "B240_m_28",
+  "layout": "plain",
+  "cards": [
+   "Why not? We can dress up.|It's Christmas!"
+  ],
+  "reveal_end": 58.68
+ },
+ {
+  "track": 14,
+  "start": 58.96,
+  "end": 61.74,
+  "speaker": "Gillian",
+  "en": "Christmas. I'll be back by then.",
+  "ps1": "B240_m_30",
+  "cards": [
+   "Christmas. I'll be|back by then."
+  ],
+  "layout": "plain",
+  "reveal_end": 61.74
+ },
+ {
+  "track": 14,
+  "start": 61.74,
+  "end": 63.94,
+  "speaker": "Metal Gear",
+  "en": "Let's hurry, Gillian!",
+  "ps1": "B240_m_32",
+  "layout": "plain",
+  "cards": [
+   "Let's hurry,|Gillian!"
+  ],
+  "reveal_end": 63.58
+ },
+ {
+  "track": 14,
+  "start": 63.94,
+  "end": 68.84,
+  "speaker": "Mika",
+  "en": "Promise me! It's a date!",
+  "ps1": "B240_m_33",
+  "layout": "plain",
+  "cards": [
+   "Promise me! It's a date!"
+  ],
+  "reveal_end": 67.98
+ },
+ {
+  "track": 14,
+  "start": 68.84,
+  "end": 73.56,
+  "speaker": "Gillian",
+  "en": "All right! I'll go ahead and say a prayer.",
+  "ps1": "B240_m_35",
+  "cards": [
+   "All right! I'll go|ahead and say a|prayer."
+  ],
+  "layout": "face",
+  "reveal_end": 72.72
+ },
+ {
+  "track": 14,
+  "start": 73.56,
+  "end": 77.06,
+  "speaker": "Mika",
+  "en": "See you soon, Gillian!",
+  "ps1": "B240_m_37",
+  "layout": "plain",
+  "cards": [
+   "See you soon, Gillian!"
+  ],
+  "reveal_end": 75.68
+ },
+ {
+  "track": 14,
+  "start": 77.06,
+  "end": 79.56,
+  "speaker": "Gillian",
+  "en": "Let's go, Metal.",
+  "ps1": "B240_m_38",
+  "cards": [
+   "Let's go, Metal."
+  ],
+  "layout": "face",
+  "reveal_end": 78.56
+ }
+]

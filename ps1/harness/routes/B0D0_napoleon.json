@@ -1,0 +1,188 @@
+{
+ "scene": "B0D0",
+ "note": "Altamira with Napoleon (guides/ps1.txt ALTON PLAZA): show the ID, talk about Gibson, ask about the restaurant, pay, ask about Outer Heaven (club, location), pay, ask about Joy Division. Unlocks Outer Heaven and Joy Division on the map. Then ride to Outer Heaven, mask on, go in.",
+ "source": "guides/ps1.txt ALTON PLAZA",
+ "actions": [
+  {
+   "save": "B0D0_start"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Hit on her",
+    "Get fortune told"
+   ]
+  },
+  {
+   "path": [
+    "Item",
+    "Show",
+    "JUNKER ID"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Talk",
+    "About Gibson"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Ask",
+    "Whale restaurant"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Item",
+    "Use",
+    "Funds"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Ask",
+    "Whale restaurant"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Ask",
+    "Outer Heaven"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Ask",
+    "Outer Heaven",
+    "About the club"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Ask",
+    "Outer Heaven",
+    "Club location"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Item",
+    "Use",
+    "Funds"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Ask",
+    "Joy Division"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Ask",
+    "Joy Division",
+    "Club location"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "About the arrest",
+    "Let him go"
+   ]
+  },
+  {
+   "save": "B0D0_asked"
+  },
+  {
+   "path": [
+    "Let him go"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Board Tricycle"
+   ]
+  },
+  {
+   "path": [
+    "Outer Heaven"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B0F0_arrive"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Item",
+    "Use",
+    "Mask"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Item",
+    "Use",
+    "Mask",
+    "Stay dressed"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Move",
+    "Go inside"
+   ]
+  },
+  {
+   "save": "B100_arrive"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 2
+  }
+ ]
+}

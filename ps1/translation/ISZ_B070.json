@@ -1,0 +1,2466 @@
+{
+ "file": "ISZ_B070.BIN",
+ "text_base": 5563,
+ "strings": [
+  {
+   "off": 5565,
+   "budget": 3,
+   "en": ""
+  },
+  {
+   "off": 5568,
+   "budget": 37,
+   "en": "Let's make a videophone call."
+  },
+  {
+   "off": 5605,
+   "budget": 7,
+   "en": "Call"
+  },
+  {
+   "off": 5612,
+   "budget": 19,
+   "en": "What number?",
+   "long": "What number shall I dial?"
+  },
+  {
+   "off": 5631,
+   "budget": 5,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5636,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5643,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5650,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5657,
+   "budget": 23,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5680,
+   "budget": 23,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5703,
+   "budget": 13,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5716,
+   "budget": 5,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5721,
+   "budget": 9,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5730,
+   "budget": 9,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5739,
+   "budget": 9,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5748,
+   "budget": 5,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5753,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5768,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5783,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5798,
+   "budget": 5,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5803,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5818,
+   "budget": 61,
+   "en": "She's gone out. Let's hurry to￥Altamira ourselves."
+  },
+  {
+   "off": 5879,
+   "budget": 31,
+   "en": "No answer. Could they be out?"
+  },
+  {
+   "off": 5910,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5925,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5940,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5955,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5970,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 5985,
+   "budget": 45,
+   "en": "We should stay out of their affairs￥now."
+  },
+  {
+   "off": 6030,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6045,
+   "budget": 5,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6050,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6065,
+   "budget": 5,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6070,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6085,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6100,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6115,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6130,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6145,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6160,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6175,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6190,
+   "budget": 5,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6195,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6210,
+   "budget": 55,
+   "en": "We don't need anything from Joy￥Division, do we?"
+  },
+  {
+   "off": 6265,
+   "budget": 5,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6270,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6285,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6300,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6315,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6330,
+   "budget": 5,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6335,
+   "budget": 5,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6340,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6355,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6370,
+   "budget": 15,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 6385,
+   "budget": 9,
+   "en": "No call",
+   "long": "Don't call"
+  },
+  {
+   "off": 6394,
+   "budget": 17,
+   "en": "Ask Metal"
+  },
+  {
+   "off": 6411,
+   "budget": 9,
+   "en": "Jamie"
+  },
+  {
+   "off": 6420,
+   "budget": 41,
+   "en": "What was Jamie's videophone number?"
+  },
+  {
+   "off": 6461,
+   "budget": 67,
+   "en": "Jamie's home number is on speed dial￥＠赤01＠白."
+  },
+  {
+   "off": 6528,
+   "budget": 79,
+   "en": "She's often at Neo Kobe￥Pharmaceutical Lab, so I'll save￥that number too."
+  },
+  {
+   "off": 6607,
+   "budget": 63,
+   "en": "Registering Neo Kobe Pharma as￥speed dial ＠赤02＠白.",
+   "long": "I'll put Neo Kobe Pharmaceutical Lab￥on speed dial ＠赤02＠白."
+  },
+  {
+   "off": 6670,
+   "budget": 77,
+   "en": "You'll want to reach Jamie often, so￥let's set a speed dial.",
+   "long": "You'll want to keep in touch with￥Jamie. I'll put her numbers on speed￥dial."
+  },
+  {
+   "off": 6747,
+   "budget": 103,
+   "en": "I'll save Jamie's home as ＠赤01＠白 and Neo￥Kobe Pharmaceutical Lab as ＠赤02＠白."
+  },
+  {
+   "off": 6850,
+   "budget": 85,
+   "en": "Dial 01 for Jamie's home and 02 for￥Neo Kobe Pharmaceutical Lab.￥Remember that."
+  },
+  {
+   "off": 6935,
+   "budget": 37,
+   "en": "At this hour Jamie's at the lab.",
+   "long": "Jamie must be at the lab at this￥hour."
+  },
+  {
+   "off": 6972,
+   "budget": 45,
+   "en": "39-3444. Speed dial 01."
+  },
+  {
+   "off": 7017,
+   "budget": 63,
+   "en": "You'll be calling her often. I'll￥put it on speed dial."
+  },
+  {
+   "off": 7080,
+   "budget": 37,
+   "en": "＠赤I-I won't call her that often!"
+  },
+  {
+   "off": 7117,
+   "budget": 31,
+   "en": "It's fine.￥No need to be shy.",
+   "long": "It's all right. No need to be￥embarrassed."
+  },
+  {
+   "off": 7148,
+   "budget": 23,
+   "en": "I-I'm not shy..."
+  },
+  {
+   "off": 7171,
+   "budget": 55,
+   "en": "Registering Jamie's home as speed￥dial ＠赤01＠白.",
+   "long": "I'll put Jamie's home number on￥speed dial ＠赤01＠白."
+  },
+  {
+   "off": 7226,
+   "budget": 43,
+   "en": "Don't forget it again. Heh heh."
+  },
+  {
+   "off": 7269,
+   "budget": 11,
+   "en": "Napoleon"
+  },
+  {
+   "off": 7280,
+   "budget": 43,
+   "en": "What was Napoleon's videophone￥number?"
+  },
+  {
+   "off": 7323,
+   "budget": 47,
+   "en": "It's speed dial ＠赤05＠白. Remember that."
+  },
+  {
+   "off": 7370,
+   "budget": 23,
+   "en": "Please learn it now.",
+   "long": "Please try to remember it this time."
+  },
+  {
+   "off": 7393,
+   "budget": 29,
+   "en": "It's 39-5644."
+  },
+  {
+   "off": 7422,
+   "budget": 53,
+   "en": "Your memory is terrible. I'll put it￥on speed dial."
+  },
+  {
+   "off": 7475,
+   "budget": 79,
+   "en": "I've saved Napoleon's number as ＠赤05＠白.￥Don't forget it."
+  },
+  {
+   "off": 7554,
+   "budget": 5,
+   "en": "Q2"
+  },
+  {
+   "off": 7559,
+   "budget": 7,
+   "en": "Quiz"
+  },
+  {
+   "off": 7566,
+   "budget": 77,
+   "en": "What was the videophone number on￥those tissues we got outside￥Altamira?"
+  },
+  {
+   "off": 7643,
+   "budget": 27,
+   "en": "It's 55-6666."
+  },
+  {
+   "off": 7670,
+   "budget": 7,
+   "en": "Adult"
+  },
+  {
+   "off": 7677,
+   "budget": 61,
+   "en": "What number did they give me￥for the quiz answer?",
+   "long": "What was the videophone number we￥got for answering the quiz￥correctly?"
+  },
+  {
+   "off": 7738,
+   "budget": 35,
+   "en": "It's 0990-931919."
+  },
+  {
+   "off": 7773,
+   "budget": 17,
+   "en": "Love Cupid"
+  },
+  {
+   "off": 7790,
+   "budget": 77,
+   "en": "What was the number on the tissue￥packet picked up outside Altamira?",
+   "long": "What was the videophone number on￥those tissues we found outside￥Altamira?"
+  },
+  {
+   "off": 7867,
+   "budget": 27,
+   "en": "It's 39-0910."
+  },
+  {
+   "off": 7894,
+   "budget": 9,
+   "en": "Isabella"
+  },
+  {
+   "off": 7903,
+   "budget": 41,
+   "en": "What was Isabella's videophone￥number?"
+  },
+  {
+   "off": 7944,
+   "budget": 27,
+   "en": "It's 39-6004."
+  },
+  {
+   "off": 7971,
+   "budget": 9,
+   "en": "Old man",
+   "long": "Old man's house"
+  },
+  {
+   "off": 7980,
+   "budget": 49,
+   "en": "The number of the old man￥by Ivan's place.",
+   "long": "That's the number for the old man￥outside Ivan's house."
+  },
+  {
+   "off": 8029,
+   "budget": 27,
+   "en": "It's 30-2501."
+  },
+  {
+   "off": 8056,
+   "budget": 35,
+   "en": "Oh, it's you... after information?",
+   "long": "Oh, it's you. Need some information?"
+  },
+  {
+   "off": 8091,
+   "budget": 29,
+   "en": "Right. I need your help...",
+   "long": "That's right. I need your help."
+  },
+  {
+   "off": 8120,
+   "budget": 25,
+   "en": "The password first?",
+   "long": "Password first, all right?"
+  },
+  {
+   "off": 8145,
+   "budget": 19,
+   "en": "Oh, it's you?"
+  },
+  {
+   "off": 8164,
+   "budget": 31,
+   "en": "Sorry I'm not a woman."
+  },
+  {
+   "off": 8195,
+   "budget": 33,
+   "en": "Never mind. The password first?",
+   "long": "All right. How about the password￥first?"
+  },
+  {
+   "off": 8228,
+   "budget": 13,
+   "en": "＠赤Revolt?",
+   "long": "＠赤The revolution is?"
+  },
+  {
+   "off": 8241,
+   "budget": 11,
+   "en": "＠赤Days?",
+   "long": "＠赤The Hundred Days?"
+  },
+  {
+   "off": 8252,
+   "budget": 21,
+   "en": "Enter your answer."
+  },
+  {
+   "off": 8273,
+   "budget": 7,
+   "en": "Answer"
+  },
+  {
+   "off": 8280,
+   "budget": 7,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 8287,
+   "budget": 13,
+   "en": "Way off!",
+   "long": "Not even close!"
+  },
+  {
+   "off": 8300,
+   "budget": 5,
+   "en": "",
+   "lock": true
+  },
+  {
+   "off": 8305,
+   "budget": 33,
+   "en": "You haven't entered anything!"
+  },
+  {
+   "off": 8338,
+   "budget": 9,
+   "en": "",
+   "long": "ＲＥＶＯＬＴ"
+  },
+  {
+   "off": 8347,
+   "budget": 15,
+   "en": "Just an echo.",
+   "long": "You just repeated it back to me."
+  },
+  {
+   "off": 8362,
+   "budget": 9,
+   "en": "",
+   "long": "ＮＯＩＤＥＡ"
+  },
+  {
+   "off": 8371,
+   "budget": 7,
+   "en": "",
+   "long": "ＤＵＮＮＯ"
+  },
+  {
+   "off": 8378,
+   "budget": 9,
+   "en": "",
+   "long": "ＮＯＣＬＵＥ"
+  },
+  {
+   "off": 8387,
+   "budget": 9,
+   "en": "",
+   "long": "ＭＥＭＯＲＩＡＬ"
+  },
+  {
+   "off": 8396,
+   "budget": 33,
+   "en": "That's an obscure choice, but"
+  },
+  {
+   "off": 8429,
+   "budget": 9,
+   "en": "",
+   "long": "ＴＯＧＥＴＨＥＲ"
+  },
+  {
+   "off": 8438,
+   "budget": 21,
+   "en": "What a stale slogan.",
+   "long": "What a tired old slogan."
+  },
+  {
+   "off": 8459,
+   "budget": 7,
+   "en": "",
+   "long": "ＨＯＮＯＵＲ"
+  },
+  {
+   "off": 8466,
+   "budget": 17,
+   "en": "About England?",
+   "long": "Are you talking about England?"
+  },
+  {
+   "off": 8483,
+   "budget": 9,
+   "en": "",
+   "long": "ＡＭＥＲＩＣＡ"
+  },
+  {
+   "off": 8492,
+   "budget": 21,
+   "en": "An odd answer..."
+  },
+  {
+   "off": 8513,
+   "budget": 9,
+   "en": "",
+   "long": "ＦＲＡＮＣＥ"
+  },
+  {
+   "off": 8522,
+   "budget": 21,
+   "en": "Wrong on purpose?",
+   "long": "Are you trying to get it wrong?"
+  },
+  {
+   "off": 8543,
+   "budget": 7,
+   "en": "",
+   "long": "ＥＮＤＳ"
+  },
+  {
+   "off": 8550,
+   "budget": 15,
+   "en": "So close..."
+  },
+  {
+   "off": 8565,
+   "budget": 9,
+   "en": "ＯＶＥＲ"
+  },
+  {
+   "off": 8574,
+   "budget": 9,
+   "en": "Nothing",
+   "long": "Don't answer"
+  },
+  {
+   "off": 8583,
+   "budget": 23,
+   "en": "Never heard of that."
+  },
+  {
+   "off": 8606,
+   "budget": 9,
+   "en": "ＷＡＲ"
+  },
+  {
+   "off": 8615,
+   "budget": 25,
+   "en": "There was that too.",
+   "long": "Oh, right. There was one of those￥too."
+  },
+  {
+   "off": 8640,
+   "budget": 5,
+   "en": "",
+   "long": "ＨＡＣＫ"
+  },
+  {
+   "off": 8645,
+   "budget": 23,
+   "en": "Mind your health.",
+   "long": "Careful you don't catch it."
+  },
+  {
+   "off": 8668,
+   "budget": 5,
+   "en": "",
+   "long": "ＷＥＥＤ"
+  },
+  {
+   "off": 8673,
+   "budget": 19,
+   "en": "A daisy annual?",
+   "long": "An annual in the daisy family?"
+  },
+  {
+   "off": 8692,
+   "budget": 9,
+   "en": "",
+   "long": "ＳＬＥＥＰＥＲ"
+  },
+  {
+   "off": 8701,
+   "budget": 21,
+   "en": "That's 'three year'.",
+   "long": "That would be three years."
+  },
+  {
+   "off": 8722,
+   "budget": 7,
+   "en": "",
+   "long": "ＲＥＩＮ"
+  },
+  {
+   "off": 8729,
+   "budget": 27,
+   "en": "Go look it up properly.",
+   "long": "Look it up in a dictionary."
+  },
+  {
+   "off": 8756,
+   "budget": 7,
+   "en": "",
+   "long": "ＲＥＩＧＮ"
+  },
+  {
+   "off": 8763,
+   "budget": 71,
+   "en": "You pass...￥The videophone's no good.￥Meet at the usual place!!",
+   "long": "All right, you pass. We can't talk￥on the videophone. Meet me at the￥usual place!"
+  },
+  {
+   "off": 8834,
+   "budget": 37,
+   "en": "Don't break your word!￥Come now!!",
+   "long": "Don't stand me up this time! Get￥over here!"
+  },
+  {
+   "off": 8871,
+   "budget": 51,
+   "en": "...See you then. So long.￥Go and study up!",
+   "long": "Goodbye, then. Come back when you've￥studied some more!"
+  },
+  {
+   "off": 8922,
+   "budget": 27,
+   "en": "Gillian, forgotten?",
+   "long": "Gillian, have you forgotten?"
+  },
+  {
+   "off": 8949,
+   "budget": 35,
+   "en": "...A hundred days ＠赤REIGN＠白?",
+   "long": "The Hundred Days' ＠赤REIGN＠白, remember?"
+  },
+  {
+   "off": 8984,
+   "budget": 31,
+   "en": "Your memory is terrible."
+  },
+  {
+   "off": 9015,
+   "budget": 39,
+   "en": "...The revolution is ＠赤OVER＠白?",
+   "long": "The revolution is ＠赤OVER＠白, remember?"
+  },
+  {
+   "off": 9054,
+   "budget": 15,
+   "en": "Don't know it"
+  },
+  {
+   "off": 9069,
+   "budget": 37,
+   "en": "He hung up. What shall we do?"
+  },
+  {
+   "off": 9106,
+   "budget": 49,
+   "en": "That's strange. I'm sure the number￥is right."
+  },
+  {
+   "off": 9155,
+   "budget": 49,
+   "en": "Could the Snatchers have killed￥Napoleon too?"
+  },
+  {
+   "off": 9204,
+   "budget": 35,
+   "en": "Strange!￥Where has he gone?",
+   "long": "This is strange! Where did he￥disappear to?"
+  },
+  {
+   "off": 9239,
+   "budget": 65,
+   "en": "...Napoleon could have cracked that￥chart cipher.",
+   "long": "Napoleon might be able to crack the￥code in that medical chart."
+  },
+  {
+   "off": 9304,
+   "budget": 27,
+   "en": "Huh? What's that symbol?"
+  },
+  {
+   "off": 9331,
+   "budget": 25,
+   "en": "Seen it somewhere...",
+   "long": "I think I've seen it somewhere."
+  },
+  {
+   "off": 9356,
+   "budget": 41,
+   "en": "Where on earth did Napoleon go?"
+  },
+  {
+   "off": 9397,
+   "budget": 85,
+   "en": "That symbol again. What is it? I￥don't think it's KTT's."
+  },
+  {
+   "off": 9482,
+   "budget": 19,
+   "en": "A werewolf... yes!",
+   "long": "A werewolf! Of course!"
+  },
+  {
+   "off": 9501,
+   "budget": 105,
+   "en": "I know where Napoleon is! You've￥worked it out too, haven't you,￥Gillian? Let's go see him."
+  },
+  {
+   "off": 9606,
+   "budget": 71,
+   "en": "This must be a message from￥Napoleon, Gillian. I'm sure of it."
+  },
+  {
+   "off": 9677,
+   "budget": 79,
+   "en": "The video is a clue to his location.￥Let's hurry there."
+  },
+  {
+   "off": 9756,
+   "budget": 57,
+   "en": "I still have no idea what you're￥talking about."
+  },
+  {
+   "off": 9813,
+   "budget": 57,
+   "en": "Gillian, the werewolf.￥You've met him before, no?",
+   "long": "The werewolf, Gillian. You've met￥him before, haven't you?"
+  },
+  {
+   "off": 9870,
+   "budget": 53,
+   "en": "The hint is the werewolf.￥You met him recently?",
+   "long": "The werewolf is the clue. We met him￥somewhere before, remember?"
+  },
+  {
+   "off": 9923,
+   "budget": 49,
+   "en": "That werewolf.￥At the whale place...",
+   "long": "You know, the werewolf at that place￥that serves whale meat."
+  },
+  {
+   "off": 9972,
+   "budget": 25,
+   "en": "A Snatcher!"
+  },
+  {
+   "off": 9997,
+   "budget": 5,
+   "en": "!!"
+  },
+  {
+   "off": 10002,
+   "budget": 23,
+   "en": "The lab after all..."
+  },
+  {
+   "off": 10025,
+   "budget": 43,
+   "en": "Wasn't Jamie at the lab?"
+  },
+  {
+   "off": 10068,
+   "budget": 21,
+   "en": "So she was...."
+  },
+  {
+   "off": 10089,
+   "budget": 57,
+   "en": "She's at the lab.￥You spoke on the videophone earlier.",
+   "long": "She's at the lab. We just spoke to￥her on the videophone, remember?"
+  },
+  {
+   "off": 10146,
+   "budget": 21,
+   "en": "The lab again..."
+  },
+  {
+   "off": 10167,
+   "budget": 23,
+   "en": "She's busy, isn't she?"
+  },
+  {
+   "off": 10190,
+   "budget": 55,
+   "en": "She's at the lab.￥Why not try calling there?",
+   "long": "She's at the lab. Why don't you try￥calling her there?"
+  },
+  {
+   "off": 10245,
+   "budget": 73,
+   "en": "That scared me! Where did Jamie￥learn a trick like that?"
+  },
+  {
+   "off": 10318,
+   "budget": 37,
+   "en": "Because I showed her the mask?",
+   "long": "Maybe it's because you showed her￥that mask."
+  },
+  {
+   "off": 10355,
+   "budget": 55,
+   "en": "The Joy Division one?￥Even so, that joke went far.",
+   "long": "The one from Joy Division? Even so,￥that joke went too far."
+  },
+  {
+   "off": 10410,
+   "budget": 53,
+   "en": "Because you keep calling and￥calling?",
+   "long": "Maybe it's because you keep￥pestering her with calls."
+  },
+  {
+   "off": 10463,
+   "budget": 27,
+   "en": "What do you mean, Metal!?",
+   "long": "What's that supposed to mean,￥Metal?!"
+  },
+  {
+   "off": 10490,
+   "budget": 105,
+   "en": "No need to be embarrassed. Jamie's￥completely snatched your heart."
+  },
+  {
+   "off": 10595,
+   "budget": 25,
+   "en": "Sorry to call at work...",
+   "long": "Sorry to bother you at work."
+  },
+  {
+   "off": 10620,
+   "budget": 53,
+   "en": "Make sure you ask Jamie, Gillian."
+  },
+  {
+   "off": 10673,
+   "budget": 37,
+   "en": "I know. A back-alley clinic￥lead?",
+   "long": "I know. About the illegal clinic,￥right?"
+  },
+  {
+   "off": 10710,
+   "budget": 17,
+   "en": "Hang up"
+  },
+  {
+   "off": 10727,
+   "budget": 47,
+   "en": "I'll hang up now, Jamie. See you."
+  },
+  {
+   "off": 10774,
+   "budget": 43,
+   "en": "If I learn of that hospital,￥I'll call.",
+   "long": "I'll call if I find out anything￥about that clinic."
+  },
+  {
+   "off": 10817,
+   "budget": 21,
+   "en": "Counting on you.",
+   "long": "I'm counting on you, Jamie."
+  },
+  {
+   "off": 10838,
+   "budget": 53,
+   "en": "I'll check our records for Queen￥Hospital too."
+  },
+  {
+   "off": 10891,
+   "budget": 23,
+   "en": "Thank you, Jamie."
+  },
+  {
+   "off": 10914,
+   "budget": 33,
+   "en": "Bye, Gillian!"
+  },
+  {
+   "off": 10947,
+   "budget": 31,
+   "en": "See you, Gillian. Bye!"
+  },
+  {
+   "off": 10978,
+   "budget": 57,
+   "en": "What's wrong, Gillian? Didn't you￥want something?"
+  },
+  {
+   "off": 11035,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 11040,
+   "budget": 45,
+   "en": "Jamie.￥I can't see you well from here!",
+   "long": "I can't get a good look at you from￥here, Jamie!"
+  },
+  {
+   "off": 11085,
+   "budget": 61,
+   "en": "Gillian... don't be absurd.￥...Though it's rather nice.",
+   "long": "Don't be unreasonable, Gillian.￥Though I'm a little flattered."
+  },
+  {
+   "off": 11146,
+   "budget": 15,
+   "en": "Jamie..."
+  },
+  {
+   "off": 11161,
+   "budget": 45,
+   "en": "What's wrong, Gillian? Cheer up."
+  },
+  {
+   "off": 11206,
+   "budget": 33,
+   "en": "Jamie, it's been a while.",
+   "long": "We haven't seen each other for a￥while, Jamie."
+  },
+  {
+   "off": 11239,
+   "budget": 47,
+   "en": "No. Not since before you joined￥JUNKER."
+  },
+  {
+   "off": 11286,
+   "budget": 75,
+   "en": "What did you say back then?￥The tricycle's engine drowned it￥out...",
+   "long": "What did you say that day? I￥couldn't hear over the Tricycle￥taking off."
+  },
+  {
+   "off": 11361,
+   "budget": 25,
+   "en": "Nothing. Never mind."
+  },
+  {
+   "off": 11386,
+   "budget": 37,
+   "en": "Jamie, you look lovely as ever...",
+   "long": "You look as beautiful as ever,￥Jamie."
+  },
+  {
+   "off": 11423,
+   "budget": 43,
+   "en": "Oh, Gillian. You haven't changed."
+  },
+  {
+   "off": 11466,
+   "budget": 69,
+   "en": "So we do have a past together. Even￥if it's only a little."
+  },
+  {
+   "off": 11535,
+   "budget": 33,
+   "en": "Jamie, that lab coat suits you.",
+   "long": "That lab coat really suits you,￥Jamie."
+  },
+  {
+   "off": 11568,
+   "budget": 13,
+   "en": "Does it?",
+   "long": "You think so?"
+  },
+  {
+   "off": 11581,
+   "budget": 27,
+   "en": "You look well. Very well."
+  },
+  {
+   "off": 11608,
+   "budget": 21,
+   "en": "I'm getting by."
+  },
+  {
+   "off": 11629,
+   "budget": 5,
+   "en": "Talk"
+  },
+  {
+   "off": 11634,
+   "budget": 13,
+   "en": "My feelings"
+  },
+  {
+   "off": 11647,
+   "budget": 69,
+   "en": "We don't have memories, Jamie. But￥we can make new ones."
+  },
+  {
+   "off": 11716,
+   "budget": 33,
+   "en": "Yes, Gillian. But..."
+  },
+  {
+   "off": 11749,
+   "budget": 57,
+   "en": "Forget the past we lost.￥Let's build a future together.",
+   "long": "Let's build a future together￥instead of being trapped in a past￥we've lost."
+  },
+  {
+   "off": 11806,
+   "budget": 59,
+   "en": "I know you're right, but I still￥can't make up my mind."
+  },
+  {
+   "off": 11865,
+   "budget": 37,
+   "en": "Are we really going to end up apart?"
+  },
+  {
+   "off": 11902,
+   "budget": 47,
+   "en": "We could still part￥without any hurt, no?",
+   "long": "We can still separate without￥hurting each other, can't we?"
+  },
+  {
+   "off": 11949,
+   "budget": 45,
+   "en": "Jamie, living apart taught me￥something.",
+   "long": "Living apart from you has made me￥realize something, Jamie."
+  },
+  {
+   "off": 11994,
+   "budget": 85,
+   "en": "My 'memories of you' from before￥the loss won't return.￥But my feelings for you...",
+   "long": "I may never get back the memories of￥our old life together. But my￥feelings for you..."
+  },
+  {
+   "off": 12079,
+   "budget": 15,
+   "en": "Gillian..."
+  },
+  {
+   "off": 12094,
+   "budget": 81,
+   "en": "My feelings for you haven't faded.￥No, perhaps I've begun to love you￥anew.",
+   "long": "My feelings haven't disappeared.￥Maybe I've fallen in love with you￥all over again."
+  },
+  {
+   "off": 12175,
+   "budget": 37,
+   "en": "Never mind who we￥were before.",
+   "long": "Regardless of who we were in that￥lost past."
+  },
+  {
+   "off": 12212,
+   "budget": 89,
+   "en": "Thank you, Gillian. You're right. We￥can't keep looking back forever."
+  },
+  {
+   "off": 12301,
+   "budget": 51,
+   "en": "We didn't live together long, but I￥enjoyed it."
+  },
+  {
+   "off": 12352,
+   "budget": 31,
+   "en": "...We did nothing but quarrel.",
+   "long": "Even though we were always fighting."
+  },
+  {
+   "off": 12383,
+   "budget": 35,
+   "en": "Yes. But I miss those days."
+  },
+  {
+   "off": 12418,
+   "budget": 27,
+   "en": "Our one and only memory.",
+   "long": "They're the only memories we have."
+  },
+  {
+   "off": 12445,
+   "budget": 11,
+   "en": "My work"
+  },
+  {
+   "off": 12456,
+   "budget": 71,
+   "en": "At first, I wasn't sure I could￥handle being a JUNKER."
+  },
+  {
+   "off": 12527,
+   "budget": 101,
+   "en": "Everyone does... especially people￥like us, who lost their memories.￥We don't know what suits us.",
+   "long": "Everyone feels that way. Especially￥people like us who've lost their￥memories. We don't know what we're￥suited for."
+  },
+  {
+   "off": 12628,
+   "budget": 49,
+   "en": "Looks like my aptitude test wasn't￥too far off."
+  },
+  {
+   "off": 12677,
+   "budget": 65,
+   "en": "It's dangerous, but this job helps￥me discover who I am."
+  },
+  {
+   "off": 12742,
+   "budget": 83,
+   "en": "I see. Your own acts surprise you,￥and you feel you've seen￥your true nature?",
+   "long": "I understand. You surprise yourself￥with what you do, and feel like￥you've seen who you really are."
+  },
+  {
+   "off": 12825,
+   "budget": 83,
+   "en": "It feels like fate. Me and JUNKER.￥And the two of us and the Snatchers."
+  },
+  {
+   "off": 12908,
+   "budget": 93,
+   "en": "There must be some connection.￥Otherwise, why would they have￥brought us to Neo Kobe?"
+  },
+  {
+   "off": 13001,
+   "budget": 31,
+   "en": "But how long will it go on?"
+  },
+  {
+   "off": 13032,
+   "budget": 27,
+   "en": "This chase after them...",
+   "long": "This game of chase with them."
+  },
+  {
+   "off": 13059,
+   "budget": 41,
+   "en": "Until our memories come back,￥perhaps.",
+   "long": "Probably until we recover our￥memories."
+  },
+  {
+   "off": 13100,
+   "budget": 99,
+   "en": "Snatchers seem to have taken over some hospital on the island. About that...￥I need your help.",
+   "long": "The Snatchers seem to have taken￥over a hospital somewhere on the￥island. I need your help with it."
+  },
+  {
+   "off": 13199,
+   "budget": 53,
+   "en": "Anytime, Gillian. If there's￥anything I can do."
+  },
+  {
+   "off": 13252,
+   "budget": 61,
+   "en": "I'll see what I can find out. It￥might take some time."
+  },
+  {
+   "off": 13313,
+   "budget": 61,
+   "en": "Ask me anything. I may be able to￥help with that."
+  },
+  {
+   "off": 13374,
+   "budget": 11,
+   "en": "Voicemail"
+  },
+  {
+   "off": 13385,
+   "budget": 45,
+   "en": "Jamie, that answerphone joke￥went too far!",
+   "long": "That answering machine message went￥too far, Jamie!"
+  },
+  {
+   "off": 13430,
+   "budget": 15,
+   "en": "Startled you?",
+   "long": "Did I scare you?"
+  },
+  {
+   "off": 13445,
+   "budget": 25,
+   "en": "Yes, you scared me."
+  },
+  {
+   "off": 13470,
+   "budget": 11,
+   "en": "Worried?",
+   "long": "Were you worried?"
+  },
+  {
+   "off": 13481,
+   "budget": 21,
+   "en": "Yes, I worried..."
+  },
+  {
+   "off": 13502,
+   "budget": 13,
+   "en": "How much?"
+  },
+  {
+   "off": 13515,
+   "budget": 31,
+   "en": "How much? A lot."
+  },
+  {
+   "off": 13546,
+   "budget": 15,
+   "en": "I'm glad..."
+  },
+  {
+   "off": 13561,
+   "budget": 55,
+   "en": "No more jokes like that.￥You, a Snatcher...",
+   "long": "Don't ever joke like that again. You￥being a Snatcher..."
+  },
+  {
+   "off": 13616,
+   "budget": 27,
+   "en": "Not even as a joke.",
+   "long": "I don't even want to think about it￥as a joke."
+  },
+  {
+   "off": 13643,
+   "budget": 27,
+   "en": "All right, Gillian."
+  },
+  {
+   "off": 13670,
+   "budget": 37,
+   "en": "But that mask was really well made."
+  },
+  {
+   "off": 13707,
+   "budget": 63,
+   "en": "Gillian had shown me the Outer￥Heaven mask, you see...",
+   "long": "You gave me the idea when you showed￥me your Outer Heaven mask."
+  },
+  {
+   "off": 13770,
+   "budget": 31,
+   "en": "Is that Joy Division work?",
+   "long": "Was that one made by Joy Division?"
+  },
+  {
+   "off": 13801,
+   "budget": 33,
+   "en": "Yes.￥It belongs to a colleague.",
+   "long": "Yes. It belongs to someone at the￥lab."
+  },
+  {
+   "off": 13834,
+   "budget": 31,
+   "en": "No wonder it looked so good."
+  },
+  {
+   "off": 13865,
+   "budget": 17,
+   "en": "Seen at Altamira"
+  },
+  {
+   "off": 13882,
+   "budget": 33,
+   "en": "Jamie? Sorry about￥before.",
+   "long": "I'm sorry about the other day,￥Jamie."
+  },
+  {
+   "off": 13915,
+   "budget": 19,
+   "en": "Oh, that?"
+  },
+  {
+   "off": 13934,
+   "budget": 17,
+   "en": "The Chief said.",
+   "long": "The Chief told me."
+  },
+  {
+   "off": 13951,
+   "budget": 13,
+   "en": "I see...."
+  },
+  {
+   "off": 13964,
+   "budget": 29,
+   "en": "But why didn't you tell me?"
+  },
+  {
+   "off": 13993,
+   "budget": 19,
+   "en": "I wonder why."
+  },
+  {
+   "off": 14012,
+   "budget": 29,
+   "en": "Sorry.￥Childish of me...",
+   "long": "I'm sorry. I was being childish."
+  },
+  {
+   "off": 14041,
+   "budget": 29,
+   "en": "I just lost my temper."
+  },
+  {
+   "off": 14070,
+   "budget": 11,
+   "en": "Gillian?"
+  },
+  {
+   "off": 14081,
+   "budget": 11,
+   "en": "Yes?"
+  },
+  {
+   "off": 14092,
+   "budget": 59,
+   "en": "Listen, there's only you.￥I think of you always.",
+   "long": "Listen, you're the only one for me.￥I'm always thinking of you."
+  },
+  {
+   "off": 14151,
+   "budget": 21,
+   "en": "Remember that."
+  },
+  {
+   "off": 14172,
+   "budget": 23,
+   "en": "Thank you, Jamie."
+  },
+  {
+   "off": 14195,
+   "budget": 59,
+   "en": "Remember when I asked if you'd been￥to Altamira, Jamie?"
+  },
+  {
+   "off": 14254,
+   "budget": 11,
+   "en": "Yes..."
+  },
+  {
+   "off": 14265,
+   "budget": 33,
+   "en": "You said you'd never been there."
+  },
+  {
+   "off": 14298,
+   "budget": 9,
+   "en": "Right.",
+   "long": "That's right."
+  },
+  {
+   "off": 14307,
+   "budget": 17,
+   "en": "Don't lie..."
+  },
+  {
+   "off": 14324,
+   "budget": 9,
+   "en": "...."
+  },
+  {
+   "off": 14333,
+   "budget": 23,
+   "en": "Jamie, truth is I..."
+  },
+  {
+   "off": 14356,
+   "budget": 13,
+   "en": "What?"
+  },
+  {
+   "off": 14369,
+   "budget": 49,
+   "en": "I saw you walking with the Chief."
+  },
+  {
+   "off": 14418,
+   "budget": 19,
+   "en": "A mistake, surely?",
+   "long": "It must be some mistake, right?"
+  },
+  {
+   "off": 14437,
+   "budget": 21,
+   "en": "Oh. You saw us?"
+  },
+  {
+   "off": 14458,
+   "budget": 5,
+   "en": "Huh?",
+   "long": "What?"
+  },
+  {
+   "off": 14463,
+   "budget": 25,
+   "en": "You mistook someone.",
+   "long": "You must have mistaken someone else￥for me."
+  },
+  {
+   "off": 14488,
+   "budget": 9,
+   "en": "Mistook?",
+   "long": "Someone else?"
+  },
+  {
+   "off": 14497,
+   "budget": 35,
+   "en": "Come on, no more gloomy talk?",
+   "long": "Let's stop talking about such gloomy￥things."
+  },
+  {
+   "off": 14532,
+   "budget": 19,
+   "en": "That's suspicious."
+  },
+  {
+   "off": 14551,
+   "budget": 25,
+   "en": "Don't go prying!",
+   "long": "Stop prying into my life!"
+  },
+  {
+   "off": 14576,
+   "budget": 13,
+   "en": "......"
+  },
+  {
+   "off": 14589,
+   "budget": 9,
+   "en": "Photo",
+   "long": "About the photo"
+  },
+  {
+   "off": 14598,
+   "budget": 23,
+   "en": "One thing I'd ask.",
+   "long": "There's something I want to ask you."
+  },
+  {
+   "off": 14621,
+   "budget": 7,
+   "en": "What?"
+  },
+  {
+   "off": 14628,
+   "budget": 37,
+   "en": "Remember that photo of you I have?"
+  },
+  {
+   "off": 14665,
+   "budget": 37,
+   "en": "Oh, the one from when I was a child?"
+  },
+  {
+   "off": 14702,
+   "budget": 17,
+   "en": "Where was it?",
+   "long": "Where was it taken?"
+  },
+  {
+   "off": 14719,
+   "budget": 49,
+   "en": "Who knows... some Olympics,￥by the look of it?",
+   "long": "I'm not sure. It looked like the￥Olympics somewhere."
+  },
+  {
+   "off": 14768,
+   "budget": 33,
+   "en": "How long have we had it?"
+  },
+  {
+   "off": 14801,
+   "budget": 59,
+   "en": "I think we had it when we were￥rescued."
+  },
+  {
+   "off": 14860,
+   "budget": 65,
+   "en": "I see. It might be from the Moscow￥Olympics."
+  },
+  {
+   "off": 14925,
+   "budget": 31,
+   "en": "Moscow? When was that?"
+  },
+  {
+   "off": 14956,
+   "budget": 43,
+   "en": "Long ago.￥Long before we were born.",
+   "long": "A long time ago. Long before we were￥born."
+  },
+  {
+   "off": 14999,
+   "budget": 11,
+   "en": "That's it?",
+   "long": "How could that be?"
+  },
+  {
+   "off": 15010,
+   "budget": 41,
+   "en": "It looks like the photo was￥doctored."
+  },
+  {
+   "off": 15051,
+   "budget": 23,
+   "en": "Doctored?￥Who? Why?",
+   "long": "Doctored? By whom? Why?"
+  },
+  {
+   "off": 15074,
+   "budget": 65,
+   "en": "I don't know. Maybe we're guinea￥pigs."
+  },
+  {
+   "off": 15139,
+   "budget": 13,
+   "en": "Meaning?",
+   "long": "What do you mean?"
+  },
+  {
+   "off": 15152,
+   "budget": 53,
+   "en": "Maybe someone we can't see is￥pulling our strings."
+  },
+  {
+   "off": 15205,
+   "budget": 51,
+   "en": "Are we the only ones who don't know￥who we are?"
+  },
+  {
+   "off": 15256,
+   "budget": 31,
+   "en": "The government may know...",
+   "long": "The government might know something."
+  },
+  {
+   "off": 15287,
+   "budget": 41,
+   "en": "Let's stop. We are who we are."
+  },
+  {
+   "off": 15328,
+   "budget": 29,
+   "en": "Let's think of what's ahead.",
+   "long": "Let's think about the future."
+  },
+  {
+   "off": 15357,
+   "budget": 5,
+   "en": "Ask"
+  },
+  {
+   "off": 15362,
+   "budget": 5,
+   "en": "Mind",
+   "long": "Memory"
+  },
+  {
+   "off": 15367,
+   "budget": 37,
+   "en": "Any sign of your memory coming back?"
+  },
+  {
+   "off": 15404,
+   "budget": 61,
+   "en": "I wonder if I did this kind of work￥long ago."
+  },
+  {
+   "off": 15465,
+   "budget": 61,
+   "en": "I feel I wore a lab coat.￥Do you remember, Gillian?",
+   "long": "I have a feeling I wore a lab coat.￥Don't you remember, Gillian?"
+  },
+  {
+   "off": 15526,
+   "budget": 51,
+   "en": "Jamie in a lab coat...￥...I remember nothing.",
+   "long": "You in a lab coat? No, it doesn't￥bring anything back."
+  },
+  {
+   "off": 15577,
+   "budget": 21,
+   "en": "The memory cure?",
+   "long": "What about your memory treatment?"
+  },
+  {
+   "off": 15598,
+   "budget": 15,
+   "en": "Still going.",
+   "long": "I'm still going."
+  },
+  {
+   "off": 15613,
+   "budget": 15,
+   "en": "How is it?",
+   "long": "How's it going?"
+  },
+  {
+   "off": 15628,
+   "budget": 17,
+   "en": "Same as ever..."
+  },
+  {
+   "off": 15645,
+   "budget": 15,
+   "en": "I see."
+  },
+  {
+   "off": 15660,
+   "budget": 83,
+   "en": "Sometimes I catch a faint glimpse.￥But it disappears when I try to￥remember."
+  },
+  {
+   "off": 15743,
+   "budget": 49,
+   "en": "With this, it seems...￥you just have to wait.",
+   "long": "It seems we just have to wait for it￥to come back on its own."
+  },
+  {
+   "off": 15792,
+   "budget": 17,
+   "en": "UV hospital"
+  },
+  {
+   "off": 15809,
+   "budget": 77,
+   "en": "A Snatcher would need a hospital￥with UV therapy equipment. Know of￥any?",
+   "long": "The Snatchers need a hospital with￥ultraviolet treatment equipment. Do￥you know any?"
+  },
+  {
+   "off": 15886,
+   "budget": 93,
+   "en": "UV therapy clinics aren't rare.￥But we keep records with the￥island's clinics. I'll look.",
+   "long": "Quite a few hospitals have that￥equipment. We have business records￥for hospitals on the island, so I'll￥check."
+  },
+  {
+   "off": 15979,
+   "budget": 89,
+   "en": "...Don't expect much though.￥A back-alley clinic making its￥own drugs, I can't trace.",
+   "long": "But don't get your hopes up. If it's￥an illegal clinic that develops its￥own drugs, I can't help."
+  },
+  {
+   "off": 16068,
+   "budget": 41,
+   "en": "I'll call if I find anything,￥Gillian."
+  },
+  {
+   "off": 16109,
+   "budget": 47,
+   "en": "Don't worry. I'll call if I find￥anything."
+  },
+  {
+   "off": 16156,
+   "budget": 35,
+   "en": "Now I've a reason to talk to you.",
+   "long": "Now I have another excuse to talk to￥you."
+  },
+  {
+   "off": 16191,
+   "budget": 45,
+   "en": "Silly. You don't need to worry about￥that."
+  },
+  {
+   "off": 16236,
+   "budget": 11,
+   "en": "I..."
+  },
+  {
+   "off": 16247,
+   "budget": 25,
+   "en": "No. I'm sorry."
+  },
+  {
+   "off": 16272,
+   "budget": 13,
+   "en": "Oleen Hosp",
+   "long": "Oleen Hospital"
+  },
+  {
+   "off": 16285,
+   "budget": 89,
+   "en": "Oleen Hospital? Ah, the cat and dog￥place? Should be a proper￥animal clinic, honest.",
+   "long": "Oleen Hospital? The one for dogs and￥cats? It should be a perfectly￥legitimate veterinary hospital."
+  },
+  {
+   "off": 16374,
+   "budget": 51,
+   "en": "I don't think Oleen relates￥to Snatchers.",
+   "long": "I don't think Oleen Hospital has￥anything to do with the Snatchers."
+  },
+  {
+   "off": 16425,
+   "budget": 13,
+   "en": "Queen Hosp",
+   "long": "Queen Hospital"
+  },
+  {
+   "off": 16438,
+   "budget": 61,
+   "en": "Queen Hospital? Wait, I'll check the￥records. Here it is!"
+  },
+  {
+   "off": 16499,
+   "budget": 79,
+   "en": "...Queen Hospital. Oct to Dec￥they ordered anticancer￥drugs in bulk.",
+   "long": "Queen Hospital. They've ordered huge￥amounts of cancer drugs from October￥through December."
+  },
+  {
+   "off": 16578,
+   "budget": 23,
+   "en": "Anticancer drugs? So",
+   "long": "Cancer drugs? Just as I thought."
+  },
+  {
+   "off": 16601,
+   "budget": 15,
+   "en": "Settled, then.",
+   "long": "That settles it."
+  },
+  {
+   "off": 16616,
+   "budget": 29,
+   "en": "Chin Shuho,￥Chinese",
+   "long": "The director is Chin Shu Ho. He's￥Chinese."
+  },
+  {
+   "off": 16645,
+   "budget": 15,
+   "en": "Chin Shu Ho..."
+  },
+  {
+   "off": 16660,
+   "budget": 71,
+   "en": "That unusually large order of cancer￥drugs worries me. Be careful."
+  },
+  {
+   "off": 16731,
+   "budget": 43,
+   "en": "Our records don't have any more￥details."
+  },
+  {
+   "off": 16774,
+   "budget": 7,
+   "en": "Chin"
+  },
+  {
+   "off": 16781,
+   "budget": 27,
+   "en": "What sort of man is Chin?",
+   "long": "What kind of man is Chin Shu Ho?"
+  },
+  {
+   "off": 16808,
+   "budget": 79,
+   "en": "A name I've never heard.￥...No data either.￥An unlicensed back-alley doctor?",
+   "long": "I've never heard of him, and we have￥no records. Maybe he's an unlicensed￥doctor."
+  },
+  {
+   "off": 16887,
+   "budget": 37,
+   "en": "Have you checked JUNKER's records?"
+  },
+  {
+   "off": 16924,
+   "budget": 25,
+   "en": "Yes... quite a villain.",
+   "long": "Yes. He's quite a criminal."
+  },
+  {
+   "off": 16949,
+   "budget": 71,
+   "en": "A record, and his licence revoked.￥The city is full of such doctors.",
+   "long": "So he lost his medical license￥because of his criminal record.￥There are many illegal doctors like￥that in the city."
+  },
+  {
+   "off": 17020,
+   "budget": 69,
+   "en": "Why don't you check JUNKER's￥records? You might find something."
+  },
+  {
+   "off": 17089,
+   "budget": 43,
+   "en": "I'll check our database too."
+  },
+  {
+   "off": 17132,
+   "budget": 15,
+   "en": "Please do."
+  },
+  {
+   "off": 17147,
+   "budget": 3,
+   "en": "Dm",
+   "long": "Dream"
+  },
+  {
+   "off": 17150,
+   "budget": 33,
+   "en": "Jamie, still that dream?",
+   "long": "Are you still having that dream,￥Jamie?"
+  },
+  {
+   "off": 17183,
+   "budget": 29,
+   "en": "Yes. Every day lately."
+  },
+  {
+   "off": 17212,
+   "budget": 53,
+   "en": "A meaningful dream?￥What does the counselor say?",
+   "long": "It sounds like it means something.￥What does your counselor say?"
+  },
+  {
+   "off": 17265,
+   "budget": 43,
+   "en": "That I'm rejecting something."
+  },
+  {
+   "off": 17308,
+   "budget": 63,
+   "en": "I'm scared. I'd rather my memories￥never came back."
+  },
+  {
+   "off": 17371,
+   "budget": 11,
+   "en": "Jamie?"
+  },
+  {
+   "off": 17382,
+   "budget": 67,
+   "en": "Maybe our relationship would be￥better off staying as it is too."
+  },
+  {
+   "off": 17449,
+   "budget": 35,
+   "en": "It can't stay like this.",
+   "long": "We can't just leave things like￥this."
+  },
+  {
+   "off": 17484,
+   "budget": 45,
+   "en": "Were we really married, Gillian?"
+  },
+  {
+   "off": 17529,
+   "budget": 15,
+   "en": "What do you...",
+   "long": "What do you mean?"
+  },
+  {
+   "off": 17544,
+   "budget": 39,
+   "en": "What if we were enemies?"
+  },
+  {
+   "off": 17583,
+   "budget": 17,
+   "en": "That couldn't..."
+  },
+  {
+   "off": 17600,
+   "budget": 75,
+   "en": "I care about you. But it's not￥because of our past."
+  },
+  {
+   "off": 17675,
+   "budget": 9,
+   "en": "Me too.",
+   "long": "I feel the same way."
+  },
+  {
+   "off": 17684,
+   "budget": 35,
+   "en": "Then why can't we stay as we are?"
+  },
+  {
+   "off": 17719,
+   "budget": 43,
+   "en": "All right.￥Let's take it as it comes.",
+   "long": "All right. Let's live our lives￥without forcing things."
+  },
+  {
+   "off": 17762,
+   "budget": 41,
+   "en": "But...￥the dream comes again tonight.",
+   "long": "But that dream will torment me again￥tonight."
+  },
+  {
+   "off": 17803,
+   "budget": 39,
+   "en": "Jamie, it's not just you. Me too...",
+   "long": "You're not alone, Jamie. I have my￥dreams too."
+  },
+  {
+   "off": 17842,
+   "budget": 27,
+   "en": "Thank you, Gillian."
+  },
+  {
+   "off": 17869,
+   "budget": 13,
+   "en": "Ask her out"
+  },
+  {
+   "off": 17882,
+   "budget": 47,
+   "en": "...Thank you for asking me￥to dinner lately.",
+   "long": "Thank you for inviting me to dinner￥the other day."
+  },
+  {
+   "off": 17929,
+   "budget": 55,
+   "en": "...Thank you for asking me￥to the musical recently.",
+   "long": "Thank you for inviting me to the￥musical the other day."
+  },
+  {
+   "off": 17984,
+   "budget": 49,
+   "en": "...Thank you for asking me￥to the zoo recently.",
+   "long": "Thank you for inviting me to the zoo￥the other day."
+  },
+  {
+   "off": 18033,
+   "budget": 49,
+   "en": "...Thank you for asking me￥to the park lately.",
+   "long": "Thank you for inviting me to the￥amusement park the other day."
+  },
+  {
+   "off": 18082,
+   "budget": 45,
+   "en": "...Thank you for asking me￥to the sea.",
+   "long": "Thank you for inviting me to the￥beach the other day."
+  },
+  {
+   "off": 18127,
+   "budget": 49,
+   "en": "...Thank you for asking me￥to the race lately.",
+   "long": "Thank you for inviting me to the￥races the other day."
+  },
+  {
+   "off": 18176,
+   "budget": 47,
+   "en": "...Thank you for asking me￥out drinking.",
+   "long": "Thank you for inviting me out for a￥drink the other day."
+  },
+  {
+   "off": 18223,
+   "budget": 59,
+   "en": "Thank you for inviting me to the￥arcade the other day."
+  },
+  {
+   "off": 18282,
+   "budget": 49,
+   "en": "...Thank you for asking me￥to the aquarium.",
+   "long": "Thank you for inviting me to the￥aquarium the other day."
+  },
+  {
+   "off": 18331,
+   "budget": 47,
+   "en": "I couldn't go, but it was nice to be￥asked.",
+   "long": "I couldn't go, but the thought made￥me happy."
+  },
+  {
+   "off": 18378,
+   "budget": 37,
+   "en": "Meet now, or maybe￥never again?",
+   "long": "If we don't meet now, we may never￥get another chance."
+  },
+  {
+   "off": 18415,
+   "budget": 49,
+   "en": "Don't say sad things.￥It's hard for me too...",
+   "long": "Don't say such sad things. This is￥hard for me too."
+  },
+  {
+   "off": 18464,
+   "budget": 57,
+   "en": "I want to see you and talk in￥person, Jamie."
+  },
+  {
+   "off": 18521,
+   "budget": 75,
+   "en": "I'm always thinking of you, Gillian.￥But it's better if we don't meet."
+  },
+  {
+   "off": 18596,
+   "budget": 23,
+   "en": "We'd only drift apart.",
+   "long": "We'd only misunderstand each other￥again."
+  },
+  {
+   "off": 18619,
+   "budget": 29,
+   "en": "Can't we meet somewhere?"
+  },
+  {
+   "off": 18648,
+   "budget": 43,
+   "en": "It hurts to see you. This is better."
+  },
+  {
+   "off": 18691,
+   "budget": 15,
+   "en": "I miss you..."
+  },
+  {
+   "off": 18706,
+   "budget": 33,
+   "en": "We can't meet... not as we are.",
+   "long": "We can't see each other while things￥are like this."
+  },
+  {
+   "off": 18739,
+   "budget": 11,
+   "en": "Show item"
+  },
+  {
+   "off": 18750,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 18765,
+   "budget": 71,
+   "en": "Is that your JUNKER ID? It's￥surprisingly stylish."
+  },
+  {
+   "off": 18836,
+   "budget": 35,
+   "en": "Stylish? I suppose so."
+  },
+  {
+   "off": 18871,
+   "budget": 59,
+   "en": "Gillian, I'm glad.￥Now you have proof of who you are...",
+   "long": "I'm glad you have something to prove￥who you are now, Gillian."
+  },
+  {
+   "off": 18930,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 18937,
+   "budget": 59,
+   "en": "Don't worry about money. I have my￥job."
+  },
+  {
+   "off": 18996,
+   "budget": 51,
+   "en": "So you're paid properly.￥...That's a relief.",
+   "long": "I'm relieved to hear you're getting￥paid properly."
+  },
+  {
+   "off": 19047,
+   "budget": 23,
+   "en": "These are expenses..."
+  },
+  {
+   "off": 19070,
+   "budget": 21,
+   "en": "Keep quiet, Metal!"
+  },
+  {
+   "off": 19091,
+   "budget": 15,
+   "en": "Y-yes..."
+  },
+  {
+   "off": 19106,
+   "budget": 5,
+   "en": "Drop",
+   "long": "Candy"
+  },
+  {
+   "off": 19111,
+   "budget": 15,
+   "en": "That candy?",
+   "long": "What's that candy?"
+  },
+  {
+   "off": 19126,
+   "budget": 43,
+   "en": "A keepsake of Gibson, my￥partner to be.",
+   "long": "It belonged to Gibson. He was￥supposed to be my colleague."
+  },
+  {
+   "off": 19169,
+   "budget": 9,
+   "en": "Candy?",
+   "long": "That candy?"
+  },
+  {
+   "off": 19178,
+   "budget": 37,
+   "en": "He gave it to orphans, I hear.",
+   "long": "They say he handed it out to￥children at an orphanage."
+  },
+  {
+   "off": 19215,
+   "budget": 21,
+   "en": "He was a kind man.",
+   "long": "He must have been a kind man."
+  },
+  {
+   "off": 19236,
+   "budget": 21,
+   "en": "Gibson's candy."
+  },
+  {
+   "off": 19257,
+   "budget": 11,
+   "en": "Chess man",
+   "long": "Chess piece"
+  },
+  {
+   "off": 19268,
+   "budget": 45,
+   "en": "That's a chess piece?￥Something wrong...",
+   "long": "That's a chess piece, isn't it?￥What's wrong?"
+  },
+  {
+   "off": 19313,
+   "budget": 23,
+   "en": "I still don't know."
+  },
+  {
+   "off": 19336,
+   "budget": 35,
+   "en": "Could it mean something too?"
+  },
+  {
+   "off": 19371,
+   "budget": 41,
+   "en": "Knowing Gibson, it probably does."
+  },
+  {
+   "off": 19412,
+   "budget": 7,
+   "en": "Chart",
+   "long": "Medical chart"
+  },
+  {
+   "off": 19419,
+   "budget": 61,
+   "en": "This came from Queen Hospital, the￥place I told you about."
+  },
+  {
+   "off": 19480,
+   "budget": 89,
+   "en": "This came from Queen Hospital. We￥think the Snatchers go there for￥maintenance."
+  },
+  {
+   "off": 19569,
+   "budget": 17,
+   "en": "Make aught of it",
+   "long": "Can you make anything of it?"
+  },
+  {
+   "off": 19586,
+   "budget": 145,
+   "en": "A medical chart, perhaps...?￥This is Chinese, isn't it?￥I can't read it...￥Back-alley doctors write in code for￥safety. Isn't this the same?",
+   "long": "It looks like a medical chart. Is￥this Chinese? I can't read it.￥Illegal doctors use codes to protect￥themselves. Maybe that's what this￥is."
+  },
+  {
+   "off": 19731,
+   "budget": 77,
+   "en": "Chinese? Of course! Napoleon's￥Chinese! He might understand it."
+  },
+  {
+   "off": 19808,
+   "budget": 91,
+   "en": "These five characters are the￥patient's name, surely? Ask￥someone who knows Chinese.",
+   "long": "Those five characters must be the￥patient's name. Someone who knows￥Chinese might be able to read them."
+  },
+  {
+   "off": 19899,
+   "budget": 31,
+   "en": "Let's ask Napoleon."
+  },
+  {
+   "off": 19930,
+   "budget": 7,
+   "en": "Match",
+   "long": "Matches"
+  },
+  {
+   "off": 19937,
+   "budget": 25,
+   "en": "Do you smoke, Gillian?"
+  },
+  {
+   "off": 19962,
+   "budget": 37,
+   "en": "No, these are needed for the case.",
+   "long": "No. I need these for the￥investigation."
+  },
+  {
+   "off": 19999,
+   "budget": 57,
+   "en": "I see. Not many people smoke these￥days, do they?"
+  },
+  {
+   "off": 20056,
+   "budget": 55,
+   "en": "Smoking is bad for you, Gillian.￥Don't ever start."
+  },
+  {
+   "off": 20111,
+   "budget": 41,
+   "en": "Don't worry. I'm always chewing gum."
+  },
+  {
+   "off": 20152,
+   "budget": 53,
+   "en": "JUNKER issues us gum with adrenaline￥in it."
+  },
+  {
+   "off": 20205,
+   "budget": 13,
+   "en": "Video memory"
+  },
+  {
+   "off": 20218,
+   "budget": 13,
+   "en": "Little John"
+  },
+  {
+   "off": 20231,
+   "budget": 35,
+   "en": "I see. It was QUEEN."
+  },
+  {
+   "off": 20266,
+   "budget": 73,
+   "en": "OLEEN? I've never heard of it. Is it￥on this island?"
+  },
+  {
+   "off": 20339,
+   "budget": 61,
+   "en": "Almost all drug work on the￥island is done here...",
+   "long": "We handle most of the island's drug￥development and management here."
+  },
+  {
+   "off": 20400,
+   "budget": 45,
+   "en": "I don't know any hospital called￥OLEEN."
+  },
+  {
+   "off": 20445,
+   "budget": 5,
+   "en": "Hall",
+   "long": "Temple"
+  },
+  {
+   "off": 20450,
+   "budget": 25,
+   "en": "A palace... where is it?",
+   "long": "A palace. Where could it be?"
+  },
+  {
+   "off": 20475,
+   "budget": 25,
+   "en": "Some distant palace.",
+   "long": "It looks like a palace somewhere far￥away."
+  },
+  {
+   "off": 20500,
+   "budget": 25,
+   "en": "...It's not connecting.",
+   "long": "The call won't go through."
+  },
+  {
+   "off": 20525,
+   "budget": 33,
+   "en": "The line seems to be busy."
+  },
+  {
+   "off": 20560,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

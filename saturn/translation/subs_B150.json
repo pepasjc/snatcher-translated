@@ -1,0 +1,405 @@
+{
+ "scene": "B150",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B150_f23_0",
+   "line": 255,
+   "act": 2,
+   "sector": 0,
+   "offset": 0,
+   "size": 61741,
+   "b0": 0,
+   "b1": 61741,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "There you are, Gillian. I've restored Little John's memory chip.",
+   "rows": [
+    "There you are, Gillian. I've",
+    "restored Little John's",
+    "memory chip."
+   ],
+   "rows_plain": [
+    "There you are, Gillian. I've",
+    "restored Little John's memory chip."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B150_f24_0",
+   "line": 256,
+   "act": 2,
+   "sector": 26,
+   "offset": 1317,
+   "size": 24987,
+   "b0": 0,
+   "b1": 24987,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Was there anything on it?",
+   "rows": [
+    "Was there anything on it?"
+   ],
+   "rows_plain": [
+    "Was there anything on it?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B150_f25_0",
+   "line": 257,
+   "act": 2,
+   "sector": 37,
+   "offset": 740,
+   "size": 47949,
+   "b0": 0,
+   "b1": 47949,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Hold your horses. I'll play it now. Watch the monitor.",
+   "rows": [
+    "Hold your horses. I'll play",
+    "it now. Watch the monitor."
+   ],
+   "rows_plain": [
+    "Hold your horses. I'll play it now.",
+    "Watch the monitor."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B150_f26_0",
+   "line": 258,
+   "act": 2,
+   "sector": 57,
+   "offset": 2209,
+   "size": 78603,
+   "b0": 0,
+   "b1": 35952,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "His memory was damaged almost beyond repair.",
+   "rows": [
+    "His memory was damaged",
+    "almost beyond repair."
+   ],
+   "rows_plain": [
+    "His memory was damaged almost beyond",
+    "repair."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B150_f26_0b",
+   "line": 258,
+   "act": 2,
+   "sector": 57,
+   "offset": 2209,
+   "size": 78603,
+   "b0": 35952,
+   "b1": 78603,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Those Snatchers knew what they were doing.",
+   "rows": [
+    "Those Snatchers knew what",
+    "they were doing."
+   ],
+   "rows_plain": [
+    "Those Snatchers knew what they were",
+    "doing."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B150_f27_0",
+   "line": 259,
+   "act": 2,
+   "sector": 91,
+   "offset": 1796,
+   "size": 31265,
+   "b0": 0,
+   "b1": 31265,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "So there was nothing left?",
+   "rows": [
+    "So there was nothing left?"
+   ],
+   "rows_plain": [
+    "So there was nothing left?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B150_f28_0",
+   "line": 260,
+   "act": 2,
+   "sector": 105,
+   "offset": 525,
+   "size": 182876,
+   "b0": 0,
+   "b1": 92618,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Wait, don't rush me. I managed to restore one scene. Just the picture.",
+   "rows": [
+    "Wait, don't rush me. I",
+    "managed to restore one",
+    "scene. Just the picture."
+   ],
+   "rows_plain": [
+    "Wait, don't rush me. I managed to",
+    "restore one scene. Just the picture."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B150_f28_0b",
+   "line": 260,
+   "act": 2,
+   "sector": 105,
+   "offset": 525,
+   "size": 182876,
+   "b0": 92618,
+   "b1": 182876,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "I don't know what it means, but it's definitely something Jean witnessed.",
+   "rows": [
+    "I don't know what it means,",
+    "but it's definitely",
+    "something Jean witnessed."
+   ],
+   "rows_plain": [
+    "I don't know what it means, but it's",
+    "definitely something Jean witnessed."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B150_f29_0",
+   "line": 261,
+   "act": 2,
+   "sector": 183,
+   "offset": 2129,
+   "size": 25377,
+   "b0": 0,
+   "b1": 25377,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Ready? Here it is!",
+   "rows": [
+    "Ready? Here it is!"
+   ],
+   "rows_plain": [
+    "Ready? Here it is!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B150_f30_0",
+   "line": 262,
+   "act": 2,
+   "sector": 194,
+   "offset": 1942,
+   "size": 23346,
+   "b0": 0,
+   "b1": 23346,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Know what that is, Gillian?",
+   "rows": [
+    "Know what that is, Gillian?"
+   ],
+   "rows_plain": [
+    "Know what that is, Gillian?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B150_f31_0",
+   "line": 263,
+   "act": 2,
+   "sector": 204,
+   "offset": 2048,
+   "size": 140306,
+   "b0": 0,
+   "b1": 62489,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Hospital OLEEN. Oleen Hospital?",
+   "rows": [
+    "Hospital OLEEN. Oleen",
+    "Hospital?"
+   ],
+   "rows_plain": [
+    "Hospital OLEEN. Oleen Hospital?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B150_f31_0b",
+   "line": 263,
+   "act": 2,
+   "sector": 204,
+   "offset": 2048,
+   "size": 140306,
+   "b0": 80027,
+   "b1": 140306,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Could this be the hospital Gibson found? The one occupied by the Snatchers?",
+   "rows": [
+    "Could this be the hospital",
+    "Gibson found? The one",
+    "occupied by the Snatchers?"
+   ],
+   "rows_plain": [
+    "Could this be the hospital Gibson",
+    "found? The one occupied by the",
+    "Snatchers?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B150_f32_0",
+   "line": 264,
+   "act": 2,
+   "sector": 265,
+   "offset": 590,
+   "size": 140680,
+   "b0": 0,
+   "b1": 89033,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Try looking it up in Gaudi. But if it's unlicensed, you can't count on the records.",
+   "rows": [
+    "Try looking it up in Gaudi.",
+    "But if it's unlicensed, you",
+    "can't count on the records."
+   ],
+   "rows_plain": [
+    "Try looking it up in Gaudi. But if",
+    "it's unlicensed, you can't count on",
+    "the records."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B150_f32_0b",
+   "line": 264,
+   "act": 2,
+   "sector": 265,
+   "offset": 590,
+   "size": 140680,
+   "b0": 89033,
+   "b1": 140680,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Neo Kobe is full of underground hospitals.",
+   "rows": [
+    "Neo Kobe is full of",
+    "underground hospitals."
+   ],
+   "rows_plain": [
+    "Neo Kobe is full of underground",
+    "hospitals."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B150_f33_0",
+   "line": 265,
+   "act": 2,
+   "sector": 325,
+   "offset": 1830,
+   "size": 59729,
+   "b0": 0,
+   "b1": 59729,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Maybe the sign curves around and there's more after OLEEN.",
+   "rows": [
+    "Maybe the sign curves around",
+    "and there's more after",
+    "OLEEN."
+   ],
+   "rows_plain": [
+    "Maybe the sign curves around and",
+    "there's more after OLEEN."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B150_f34_0",
+   "line": 266,
+   "act": 2,
+   "sector": 351,
+   "offset": 1135,
+   "size": 66263,
+   "b0": 0,
+   "b1": 32688,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I've saved the image. You can view it anytime.",
+   "rows": [
+    "I've saved the image. You",
+    "can view it anytime."
+   ],
+   "rows_plain": [
+    "I've saved the image. You can view",
+    "it anytime."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B150_f34_0b",
+   "line": 266,
+   "act": 2,
+   "sector": 351,
+   "offset": 1135,
+   "size": 66263,
+   "b0": 32688,
+   "b1": 66263,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Select Video memory from your inventory.",
+   "rows": [
+    "Select Video memory from",
+    "your inventory."
+   ],
+   "rows_plain": [
+    "Select Video memory from your",
+    "inventory."
+   ],
+   "enabled": true
+  }
+ ]
+}

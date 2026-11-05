@@ -1,0 +1,1105 @@
+[
+ {
+  "track": 11,
+  "start": 1.06,
+  "end": 4.02,
+  "speaker": "Gillian",
+  "en": "Old man!",
+  "ps1": "B230_h_00",
+  "cards": [
+   "Old man!"
+  ],
+  "reveal_end": 2.08,
+  "layout": "plain"
+ },
+ {
+  "track": 11,
+  "start": 4.02,
+  "end": 14.38,
+  "speaker": "Harry",
+  "en": "Oh, Gillian. I've gotten old. Look at me.",
+  "ps1": "B230_h_01",
+  "layout": "plain",
+  "cards": [
+   "Oh, Gillian. I've|gotten old. Look at me."
+  ],
+  "reveal_end": 13.64
+ },
+ {
+  "track": 11,
+  "start": 14.38,
+  "end": 16.78,
+  "speaker": "Gillian",
+  "en": "What happened?",
+  "ps1": "B230_h_04",
+  "layout": "plain",
+  "cards": [
+   "What happened?"
+  ],
+  "reveal_end": 15.36
+ },
+ {
+  "track": 11,
+  "start": 16.78,
+  "end": 24.28,
+  "speaker": "Harry",
+  "en": "I saw the chief tampering with your car.",
+  "ps1": "B230_h_05",
+  "layout": "plain",
+  "cards": [
+   "I saw the chief|tampering with your car."
+  ],
+  "reveal_end": 23.92
+ },
+ {
+  "track": 11,
+  "start": 24.28,
+  "end": 30.14,
+  "speaker": "Harry",
+  "en": "And that strange picture in his office.",
+  "ps1": "B230_h_05b",
+  "layout": "plain",
+  "cards": [
+   "And that strange|picture in his office."
+  ],
+  "reveal_end": 29.52
+ },
+ {
+  "track": 11,
+  "start": 30.14,
+  "end": 36.68,
+  "speaker": "Gillian",
+  "en": "Metal, how is he? Metal!",
+  "ps1": "B230_h_07",
+  "layout": "plain",
+  "cards": [
+   "Metal, how is he?|Metal!"
+  ],
+  "reveal_end": 35.38
+ },
+ {
+  "track": 11,
+  "start": 36.68,
+  "end": 40.28,
+  "speaker": "Metal Gear",
+  "en": "I can't tell you.",
+  "ps1": "B230_h_09",
+  "cards": [
+   "I can't tell you."
+  ],
+  "reveal_end": 38.44
+ },
+ {
+  "track": 11,
+  "start": 40.28,
+  "end": 42.98,
+  "speaker": "Gillian",
+  "en": "That bad?",
+  "ps1": "B230_h_10",
+  "cards": [
+   "That bad?"
+  ],
+  "reveal_end": 41.98,
+  "layout": "plain"
+ },
+ {
+  "track": 11,
+  "start": 42.98,
+  "end": 51.92,
+  "speaker": "Harry",
+  "en": "Gillian, when I confronted him, he showed his true form.",
+  "ps1": "B230_h_11",
+  "layout": "plain",
+  "cards": [
+   "Gillian, when I|confronted him,",
+   "he showed his true form."
+  ],
+  "reveal_end": 50.98
+ },
+ {
+  "track": 11,
+  "start": 51.92,
+  "end": 58.62,
+  "speaker": "Harry",
+  "en": "All I could do was wound him.",
+  "ps1": "B230_h_11b",
+  "layout": "plain",
+  "cards": [
+   "All I could do was|wound him."
+  ],
+  "reveal_end": 57.94
+ },
+ {
+  "track": 11,
+  "start": 58.62,
+  "end": 65.84,
+  "speaker": "Gillian",
+  "en": "I understand, old man. Don't talk. Metal, can't you do something?",
+  "ps1": "B230_h_13",
+  "ps1_more": [
+   "B230_h_13b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I understand, old|man. Don't talk.",
+   "Metal, can't you do|something?"
+  ],
+  "reveal_end": 65.42
+ },
+ {
+  "track": 11,
+  "start": 65.84,
+  "end": 69.5,
+  "speaker": "Harry",
+  "en": "Gillian.",
+  "ps1": "B230_h_16",
+  "cards": [
+   "Gillian."
+  ],
+  "reveal_end": 66.98,
+  "layout": "plain"
+ },
+ {
+  "track": 11,
+  "start": 69.5,
+  "end": 84.4,
+  "speaker": "Gillian",
+  "en": "You'll be fine. He says it's just a scratch. Good timing. Why not take some time off and relax? You've been working too hard.",
+  "ps1": "B230_h_17",
+  "layout": "plain",
+  "cards": [
+   "You'll be fine. He|says it's just a scratch.",
+   "Good timing. Why not|take some time off and relax?",
+   "You've been working|too hard."
+  ],
+  "seams": [
+   [
+    11,
+    76.46
+   ]
+  ],
+  "ps1_more": [
+   "B230_h_17b",
+   "B230_h_17c"
+  ],
+  "reveal_end": 83.56
+ },
+ {
+  "track": 11,
+  "start": 84.4,
+  "end": 94.42,
+  "speaker": "Harry",
+  "en": "It's all right. I know my own body. You're a good man.",
+  "ps1": "B230_h_22",
+  "layout": "plain",
+  "cards": [
+   "It's all right. I know|my own body. You're a good man."
+  ],
+  "reveal_end": 93.88
+ },
+ {
+  "track": 11,
+  "start": 94.42,
+  "end": 96.4,
+  "speaker": "Gillian",
+  "en": "Old man...",
+  "ps1": "B230_h_25a",
+  "cards": [
+   "Old man..."
+  ],
+  "reveal_end": 95.9,
+  "layout": "plain"
+ },
+ {
+  "track": 11,
+  "start": 96.4,
+  "end": 102.2,
+  "speaker": "Harry",
+  "en": "I like you. I can't quite explain it.",
+  "ps1": "B230_h_25",
+  "layout": "plain",
+  "cards": [
+   "I like you. I can't|quite explain it."
+  ],
+  "reveal_end": 101.22
+ },
+ {
+  "track": 11,
+  "start": 102.2,
+  "end": 108.16,
+  "speaker": "Harry",
+  "en": "I've never been good at telling people how I feel.",
+  "ps1": "B230_h_25b",
+  "layout": "plain",
+  "cards": [
+   "I've never been good at|telling people how I feel."
+  ],
+  "reveal_end": 107.08
+ },
+ {
+  "track": 11,
+  "start": 108.16,
+  "end": 114.88,
+  "speaker": "Harry",
+  "en": "That's it. You remind me of what I remember of my father.",
+  "ps1": "B230_h_25c",
+  "layout": "plain",
+  "cards": [
+   "That's it. You remind|me of what I remember of my father."
+  ],
+  "reveal_end": 114.02
+ },
+ {
+  "track": 11,
+  "start": 114.88,
+  "end": 117.8,
+  "speaker": "Metal Gear",
+  "en": "Pulse and blood pressure dropping.",
+  "ps1": "B230_h_29",
+  "cards": [
+   "Pulse and blood|pressure dropping."
+  ],
+  "layout": "face",
+  "reveal_end": 117.58
+ },
+ {
+  "track": 11,
+  "start": 117.8,
+  "end": 126.2,
+  "speaker": "Gillian",
+  "en": "Hang on, old man. We can share some Napoleon again.",
+  "ps1": "B230_h_30",
+  "layout": "plain",
+  "cards": [
+   "Hang on, old man. We|can share some Napoleon again."
+  ],
+  "reveal_end": 124.28
+ },
+ {
+  "track": 11,
+  "start": 126.2,
+  "end": 131.38,
+  "speaker": "Harry",
+  "en": "That sounds good. You, Jean and me.",
+  "ps1": "B230_h_32",
+  "layout": "plain",
+  "reveal_end": 131.42,
+  "cards": [
+   "That sounds good. You,|Jean and me."
+  ]
+ },
+ {
+  "track": 11,
+  "start": 131.38,
+  "end": 132.62,
+  "reveal_end": 132.36,
+  "speaker": "Metal Gear",
+  "en": "But Jean...",
+  "layout": "face",
+  "note": "PCE-only line (ジャンは?), translated 2026-10-18",
+  "cards": [
+   "But Jean..."
+  ]
+ },
+ {
+  "track": 11,
+  "start": 132.62,
+  "end": 136.12,
+  "reveal_end": 134.96,
+  "speaker": "Gillian",
+  "en": "Metal, it's all right. It's all right.",
+  "layout": "plain",
+  "ps1": "B230_h_32b",
+  "cards": [
+   "Metal, it's all|right. It's all right."
+  ]
+ },
+ {
+  "track": 11,
+  "start": 136.12,
+  "end": 144.98,
+  "speaker": "Harry",
+  "en": "I've always been alone, Gillian. I never knew my parents or siblings.",
+  "ps1": "B230_h_32c",
+  "ps1_more": [
+   "B230_h_32d"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I've always been alone,|Gillian.",
+   "I never knew my parents|or siblings."
+  ],
+  "reveal_end": 144.4
+ },
+ {
+  "track": 11,
+  "start": 144.98,
+  "end": 149.82,
+  "speaker": "Harry",
+  "en": "So I stubbornly went through life alone.",
+  "ps1": "B230_h_32e",
+  "layout": "plain",
+  "cards": [
+   "So I stubbornly went|through life alone."
+  ],
+  "reveal_end": 149.38
+ },
+ {
+  "track": 11,
+  "start": 149.82,
+  "end": 160.56,
+  "speaker": "Harry",
+  "en": "Wearing a brave face. Trusting no one. But I was wrong.",
+  "ps1": "B230_h_32f",
+  "layout": "plain",
+  "cards": [
+   "Wearing a brave face.|Trusting no one. But I was wrong."
+  ],
+  "reveal_end": 157.62
+ },
+ {
+  "track": 11,
+  "start": 160.56,
+  "end": 163.14,
+  "speaker": "Metal Gear",
+  "en": "Blood pressure still falling.",
+  "ps1": "B230_h_41",
+  "cards": [
+   "Blood pressure|still falling."
+  ],
+  "reveal_end": 162.86
+ },
+ {
+  "track": 11,
+  "start": 163.14,
+  "end": 165.4,
+  "speaker": "Gillian",
+  "en": "Old man...",
+  "ps1": "B230_h_42",
+  "cards": [
+   "Old man..."
+  ],
+  "reveal_end": 164.06,
+  "layout": "plain"
+ },
+ {
+  "track": 11,
+  "start": 165.4,
+  "end": 177.14,
+  "speaker": "Harry",
+  "en": "When Jean died, and now, I've felt human warmth. The human heart.",
+  "ps1": "B230_h_43",
+  "ps1_more": [
+   "B230_h_43b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "When Jean died, and|now, I've felt human warmth.",
+   "The human heart."
+  ],
+  "reveal_end": 176.58
+ },
+ {
+  "track": 11,
+  "start": 177.14,
+  "end": 179.44,
+  "speaker": "Gillian",
+  "en": "I understand.",
+  "ps1": "B230_h_47",
+  "cards": [
+   "I understand."
+  ],
+  "reveal_end": 178.06,
+  "layout": "plain"
+ },
+ {
+  "track": 11,
+  "start": 179.44,
+  "end": 189.5,
+  "speaker": "Harry",
+  "en": "Gillian. I wanted to live happily with everyone.",
+  "ps1": "B230_h_48",
+  "layout": "plain",
+  "cards": [
+   "Gillian. I wanted to|live happily with everyone."
+  ],
+  "reveal_end": 187.26
+ },
+ {
+  "track": 11,
+  "start": 189.5,
+  "end": 198.96,
+  "speaker": "Harry",
+  "en": "For fifty years, I've wanted kindness.",
+  "ps1": "B230_h_48b",
+  "layout": "plain",
+  "cards": [
+   "For fifty years, I've|wanted kindness."
+  ],
+  "reveal_end": 198.4
+ },
+ {
+  "track": 11,
+  "start": 198.96,
+  "end": 201.0,
+  "speaker": "Harry",
+  "en": "People who could trust each other.",
+  "ps1": "B230_h_48c",
+  "layout": "plain",
+  "cards": [
+   "People who could trust|each other."
+  ],
+  "reveal_end": 200.94
+ },
+ {
+  "track": 11,
+  "start": 201.0,
+  "end": 205.96,
+  "speaker": "Metal Gear",
+  "en": "He's in danger, Gillian.",
+  "ps1": "B230_h_56",
+  "cards": [
+   "He's in danger,|Gillian."
+  ],
+  "layout": "face",
+  "reveal_end": 202.6
+ },
+ {
+  "track": 11,
+  "start": 205.96,
+  "end": 212.98,
+  "speaker": "Harry",
+  "en": "I've talked too much. I'm counting on you, Gillian.",
+  "ps1": "B230_h_57",
+  "layout": "plain",
+  "cards": [
+   "I've talked too much.|I'm counting on you, Gillian."
+  ],
+  "reveal_end": 212.82
+ },
+ {
+  "track": 11,
+  "start": 212.98,
+  "end": 219.14,
+  "speaker": "Harry",
+  "en": "Looks like they've come for me.",
+  "ps1": "B230_h_57b",
+  "layout": "plain",
+  "cards": [
+   "Looks like they've come|for me."
+  ],
+  "reveal_end": 216.73
+ },
+ {
+  "track": 11,
+  "start": 219.14,
+  "end": 223.2,
+  "speaker": "Harry",
+  "en": "Even a lonely old man gets someone to take him home.",
+  "ps1": "B230_h_57c",
+  "layout": "plain",
+  "cards": [
+   "Even a lonely old man|gets someone to take him home."
+  ],
+  "reveal_end": 223.2
+ },
+ {
+  "track": 11,
+  "start": 223.2,
+  "end": 226.9,
+  "speaker": "Gillian",
+  "en": "Old man!",
+  "ps1": "B230_h_61",
+  "cards": [
+   "Old man!"
+  ],
+  "reveal_end": 224.38,
+  "layout": "plain"
+ },
+ {
+  "track": 11,
+  "start": 226.9,
+  "end": 231.36,
+  "speaker": "Harry",
+  "en": "Gillian, you have to trust.",
+  "ps1": "B230_h_62",
+  "layout": "plain",
+  "cards": [
+   "Gillian, you have to|trust."
+  ],
+  "reveal_end": 230.6
+ },
+ {
+  "track": 11,
+  "start": 231.36,
+  "end": 240.14,
+  "speaker": "Harry",
+  "en": "The last JUNKER...",
+  "ps1": "B230_h_62b",
+  "layout": "plain",
+  "cards": [
+   "The last JUNKER..."
+  ],
+  "reveal_end": 236.76
+ },
+ {
+  "track": 11,
+  "start": 240.14,
+  "end": 243.8,
+  "speaker": "Mika",
+  "en": "Harry! Harry!",
+  "ps1": "B230_h_64",
+  "layout": "plain",
+  "cards": [
+   "Harry! Harry!"
+  ],
+  "reveal_end": 242.38
+ },
+ {
+  "track": 11,
+  "start": 243.8,
+  "end": 253.44,
+  "speaker": "Metal Gear",
+  "en": "His pulse has stopped. His pupils are dilated.",
+  "ps1": "B230_h_65",
+  "cards": [
+   "His pulse has|stopped. His pupils|are dilated."
+  ],
+  "layout": "face",
+  "reveal_end": 248.9
+ },
+ {
+  "track": 11,
+  "start": 253.44,
+  "end": 259.08,
+  "speaker": "Gillian",
+  "en": "Cunningham! No, Snatcher! You'll pay for this!",
+  "ps1": "B230_h_67",
+  "cards": [
+   "Cunningham! No,|Snatcher! You'll|pay for this!"
+  ],
+  "layout": "face",
+  "reveal_end": 257.68
+ },
+ {
+  "track": 11,
+  "start": 259.08,
+  "end": 264.88,
+  "speaker": "Metal Gear",
+  "en": "There's no time to grieve. The Snatcher is still hiding inside headquarters.",
+  "ps1": "B230_h_69",
+  "ps1_more": [
+   "B230_h_70"
+  ],
+  "cards": [
+   "There's no time to|grieve.",
+   "The Snatcher is|still hiding inside|headquarters."
+  ],
+  "layout": "face",
+  "reveal_end": 264.46
+ },
+ {
+  "track": 11,
+  "start": 264.88,
+  "end": 272.94,
+  "speaker": "Gillian",
+  "en": "Listen, Metal. If I die, take Mika and get out.",
+  "ps1": "B230_h_71",
+  "cards": [
+   "Listen, Metal. If I|die, take Mika and|get out."
+  ],
+  "layout": "face",
+  "reveal_end": 272.22
+ },
+ {
+  "track": 11,
+  "start": 272.94,
+  "end": 276.14,
+  "speaker": "Gillian",
+  "en": "Blow up JUNKER headquarters. Understand?",
+  "ps1": "B230_h_71b",
+  "cards": [
+   "Blow up JUNKER|headquarters.|Understand?"
+  ],
+  "reveal_end": 275.74
+ },
+ {
+  "track": 11,
+  "start": 276.14,
+  "end": 283.02,
+  "speaker": "Metal Gear",
+  "en": "Understood. I hope it won't come to that. Where should we start looking?",
+  "ps1": "B230_h_75",
+  "ps1_more": [
+   "B230_h_76"
+  ],
+  "cards": [
+   "Understood. I hope|it won't come to|that. Where should|we start looking?"
+  ],
+  "layout": "face",
+  "reveal_end": 282.02
+ },
+ {
+  "track": 12,
+  "start": 0.0,
+  "end": 4.16,
+  "speaker": "Metal Gear",
+  "en": "The Snatcher has stopped functioning.",
+  "ps1": "B230_a_00",
+  "cards": [
+   "The Snatcher has|stopped functioning."
+  ],
+  "layout": "face",
+  "reveal_end": 2.6
+ },
+ {
+  "track": 12,
+  "start": 4.16,
+  "end": 7.96,
+  "speaker": "Gillian",
+  "en": "Mika, are you all right?",
+  "ps1": "B230_a_01",
+  "cards": [
+   "Mika, are you all|right?"
+  ],
+  "reveal_end": 5.94
+ },
+ {
+  "track": 12,
+  "start": 7.96,
+  "end": 9.8,
+  "speaker": "Mika",
+  "en": "Yes. Thank you.",
+  "ps1": "B230_a_02",
+  "cards": [
+   "Yes. Thank you."
+  ],
+  "layout": "face",
+  "reveal_end": 8.98
+ },
+ {
+  "track": 12,
+  "start": 9.8,
+  "end": 20.28,
+  "speaker": "Gillian",
+  "en": "We got him, Randam. It took a while, but I paid you back.",
+  "ps1": "B230_a_03",
+  "cards": [
+   "We got him, Randam.|It took a while,|but I paid you back."
+  ],
+  "layout": "face",
+  "reveal_end": 16.5
+ },
+ {
+  "track": 12,
+  "start": 20.28,
+  "end": 25.3,
+  "speaker": "Chief",
+  "en": "JUNKER! Don't think this is over!",
+  "ps1": "B230_a_04",
+  "layout": "plain",
+  "cards": [
+   "JUNKER! Don't think|this is over!"
+  ],
+  "reveal_end": 24.02
+ },
+ {
+  "track": 12,
+  "start": 25.3,
+  "end": 30.42,
+  "speaker": "Metal Gear",
+  "en": "His last words. The Snatcher's energy is fading.",
+  "ps1": "B230_a_05",
+  "cards": [
+   "His last words. The|Snatcher's energy|is fading."
+  ],
+  "layout": "face",
+  "reveal_end": 29.54
+ },
+ {
+  "track": 12,
+  "start": 30.42,
+  "end": 39.24,
+  "speaker": "Chief",
+  "en": "Queen Hospital was merely a facility for maintaining our artificial skin.",
+  "ps1": "B230_a_06",
+  "ps1_more": [
+   "B230_a_06b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Queen Hospital was|merely a facility",
+   "for maintaining our|artificial skin."
+  ],
+  "reveal_end": 38.0
+ },
+ {
+  "track": 12,
+  "start": 39.24,
+  "end": 55.16,
+  "speaker": "Chief",
+  "en": "There are still more of our comrades in this city than you can possibly imagine. Now we will begin the second phase.",
+  "ps1": "B230_a_06c",
+  "layout": "plain",
+  "cards": [
+   "There are still more of|our comrades",
+   "in this city than you|can possibly imagine.",
+   "Now we will begin the|second phase."
+  ],
+  "reveal_end": 53.96
+ },
+ {
+  "track": 12,
+  "start": 55.16,
+  "end": 61.76,
+  "speaker": "Chief",
+  "en": "For that, we need Dr. Lorraine's help.",
+  "ps1": "B230_a_06e",
+  "layout": "plain",
+  "cards": [
+   "For that, we need Dr.|Lorraine's help."
+  ],
+  "reveal_end": 59.58
+ },
+ {
+  "track": 12,
+  "start": 61.76,
+  "end": 72.4,
+  "speaker": "Chief",
+  "en": "You are insignificant, as long as your memory stays lost.",
+  "ps1": "B230_a_06f",
+  "layout": "plain",
+  "cards": [
+   "You are insignificant,|as long as your memory stays lost."
+  ],
+  "reveal_end": 71.0
+ },
+ {
+  "track": 12,
+  "start": 72.4,
+  "end": 78.88,
+  "speaker": "Chief",
+  "en": "Bad luck, JUNKER!",
+  "ps1": "B230_a_06g",
+  "layout": "plain",
+  "cards": [
+   "Bad luck, JUNKER!"
+  ],
+  "reveal_end": 76.0
+ },
+ {
+  "track": 12,
+  "start": 78.88,
+  "end": 85.94,
+  "speaker": "Gillian",
+  "en": "My memory. Snatchers. Dr. Lorraine.",
+  "ps1": "B230_a_13",
+  "cards": [
+   "My memory.|Snatchers. Dr.|Lorraine."
+  ],
+  "reveal_end": 85.42
+ },
+ {
+  "track": 12,
+  "start": 85.94,
+  "end": 100.98,
+  "speaker": "Mika",
+  "en": "Harry! Why? Why does it have to be the good people who die?",
+  "ps1": "B230_a_14",
+  "cards": [
+   "Harry! Why? Why|does it have to be|the good people who|die?"
+  ],
+  "layout": "face",
+  "reveal_end": 100.92
+ },
+ {
+  "track": 12,
+  "start": 100.98,
+  "end": 101.78,
+  "speaker": "Gillian",
+  "en": "Mika.",
+  "ps1": "B230_a_18",
+  "cards": [
+   "Mika."
+  ],
+  "reveal_end": 101.3
+ },
+ {
+  "track": 12,
+  "start": 101.78,
+  "end": 103.8,
+  "speaker": "Mika",
+  "en": "This isn't right!",
+  "ps1": "B230_a_19",
+  "cards": [
+   "This isn't right!"
+  ],
+  "layout": "face",
+  "reveal_end": 103.6
+ },
+ {
+  "track": 12,
+  "start": 103.8,
+  "end": 111.98,
+  "speaker": "Gillian",
+  "en": "Mika, I won't let anyone else die. I swore to Harry and Randam.",
+  "ps1": "B230_a_20",
+  "ps1_more": [
+   "B230_a_21"
+  ],
+  "cards": [
+   "Mika, I won't let|anyone else die. I|swore to Harry and|Randam."
+  ],
+  "layout": "face",
+  "reveal_end": 110.58
+ },
+ {
+  "track": 12,
+  "start": 111.98,
+  "end": 114.82,
+  "speaker": "Gillian",
+  "en": "There are still Snatchers in this city.",
+  "ps1": "B230_a_22",
+  "cards": [
+   "There are still|Snatchers in this|city."
+  ],
+  "reveal_end": 114.5
+ },
+ {
+  "track": 12,
+  "start": 114.82,
+  "end": 118.26,
+  "speaker": "Gillian",
+  "en": "Our fight against them has only just begun.",
+  "ps1": "B230_a_25",
+  "cards": [
+   "Our fight against|them has only just|begun."
+  ],
+  "layout": "face",
+  "reveal_end": 117.26
+ },
+ {
+  "track": 13,
+  "start": 0.3,
+  "end": 11.16,
+  "speaker": "Metal Gear",
+  "en": "Gillian, an urgent call from Jamie. I'll connect you.",
+  "ps1": "B230_j_00",
+  "layout": "plain",
+  "cards": [
+   "Gillian, an urgent|call from Jamie. I'll connect you."
+  ],
+  "reveal_end": 7.76
+ },
+ {
+  "track": 13,
+  "start": 11.16,
+  "end": 14.22,
+  "speaker": "Jamie",
+  "en": "Gillian, my memory's back!",
+  "ps1": "B230_j_01",
+  "cards": [
+   "Gillian, my memory's|back!"
+  ],
+  "reveal_end": 13.76,
+  "layout": "plain"
+ },
+ {
+  "track": 13,
+  "start": 14.22,
+  "end": 19.86,
+  "speaker": "Gillian",
+  "en": "Your memory's back? Who are we?",
+  "ps1": "B230_j_02",
+  "cards": [
+   "Your memory's back?|Who are we?"
+  ],
+  "layout": "face",
+  "reveal_end": 17.66
+ },
+ {
+  "track": 13,
+  "start": 19.86,
+  "end": 22.8,
+  "speaker": "Jamie",
+  "en": "We did something terrible.",
+  "ps1": "B230_j_04",
+  "cards": [
+   "We did something|terrible."
+  ],
+  "reveal_end": 22.8,
+  "layout": "plain"
+ },
+ {
+  "track": 13,
+  "start": 22.8,
+  "end": 24.44,
+  "speaker": "Gillian",
+  "en": "Jamie, what's wrong?",
+  "ps1": "B230_j_05",
+  "cards": [
+   "Jamie, what's wrong?"
+  ],
+  "layout": "face",
+  "reveal_end": 23.76
+ },
+ {
+  "track": 13,
+  "start": 24.44,
+  "end": 32.68,
+  "speaker": "Jamie",
+  "en": "I can't say it over the videophone! I'd rather my memory had never come back!",
+  "ps1": "B230_j_06",
+  "ps1_more": [
+   "B230_j_06b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I can't say it over the|videophone!",
+   "I'd rather my memory|had never come back!"
+  ],
+  "reveal_end": 32.08
+ },
+ {
+  "track": 13,
+  "start": 32.68,
+  "end": 36.6,
+  "speaker": "Gillian",
+  "en": "All right, Jamie. I'll be right there! Where are you?",
+  "ps1": "B230_j_09",
+  "cards": [
+   "All right, Jamie.|I'll be right|there! Where are|you?"
+  ],
+  "layout": "face",
+  "reveal_end": 35.64
+ },
+ {
+  "track": 13,
+  "start": 36.6,
+  "end": 43.02,
+  "speaker": "Jamie",
+  "en": "I never should have woken... Gillian, I'm sorry. I can't tell you. They're holding the child hostage.",
+  "ps1": "B230_j_11",
+  "layout": "plain",
+  "cards": [
+   "I never should have|woken... Gillian, I'm sorry.",
+   "I can't tell you.|They're holding the child hostage."
+  ],
+  "seams": [
+   [
+    12,
+    41.14
+   ]
+  ],
+  "ps1_more": [
+   "B230_j_11b"
+  ],
+  "reveal_end": 42.9
+ },
+ {
+  "track": 13,
+  "start": 43.02,
+  "end": 44.22,
+  "speaker": "Gillian",
+  "en": "The child?",
+  "ps1": "B230_j_14",
+  "cards": [
+   "The child?"
+  ],
+  "reveal_end": 43.72
+ },
+ {
+  "track": 13,
+  "start": 44.22,
+  "end": 46.02,
+  "speaker": "Jamie",
+  "en": "Dr. Madnar is here, too.",
+  "ps1": "B230_j_15",
+  "layout": "plain",
+  "cards": [
+   "Dr. Madnar is here, too."
+  ],
+  "reveal_end": 45.82
+ },
+ {
+  "track": 13,
+  "start": 46.02,
+  "end": 47.58,
+  "speaker": "Gillian",
+  "en": "What are you talking about, Jamie?",
+  "ps1": "B230_j_16",
+  "cards": [
+   "What are you|talking about,|Jamie?"
+  ],
+  "layout": "face",
+  "reveal_end": 46.9
+ },
+ {
+  "track": 13,
+  "start": 47.58,
+  "end": 52.9,
+  "speaker": "Jamie",
+  "en": "I'm sorry. Snatchers! Gillian!",
+  "ps1": "B230_j_17",
+  "cards": [
+   "I'm sorry. Snatchers!|Gillian!"
+  ],
+  "reveal_end": 52.8,
+  "layout": "plain"
+ },
+ {
+  "track": 13,
+  "start": 52.9,
+  "end": 53.44,
+  "speaker": "Gillian",
+  "en": "Jamie! Jamie!",
+  "ps1": "B230_j_20",
+  "cards": [
+   "Jamie! Jamie!"
+  ],
+  "layout": "face",
+  "reveal_end": 53.44
+ },
+ {
+  "track": 13,
+  "start": 53.44,
+  "end": 58.74,
+  "speaker": "Madnar",
+  "en": "Gillian. We have Dr. Lorraine.",
+  "ps1": "B230_j_23",
+  "layout": "plain",
+  "cards": [
+   "Gillian. We have Dr.|Lorraine."
+  ],
+  "reveal_end": 57.64
+ },
+ {
+  "track": 13,
+  "start": 58.74,
+  "end": 65.16,
+  "speaker": "Madnar",
+  "en": "We just need her to help us a little. At our Kremlin.",
+  "ps1": "B230_j_23b",
+  "ps1_more": [
+   "B230_j_23c"
+  ],
+  "layout": "plain",
+  "cards": [
+   "We just need her to|help us a little. At our Kremlin."
+  ],
+  "reveal_end": 64.82
+ },
+ {
+  "track": 13,
+  "start": 65.16,
+  "end": 69.1,
+  "speaker": "Madnar",
+  "en": "Until then, behave yourself, Dr. Seed.",
+  "ps1": "B230_j_23d",
+  "layout": "plain",
+  "cards": [
+   "Until then, behave|yourself, Dr. Seed."
+  ],
+  "reveal_end": 68.1
+ }
+]

@@ -1,0 +1,274 @@
+[
+{
+"items": 1
+},
+{
+"save": "duct0"
+},
+{
+"submenu": [
+"Use Metal Gear",
+"Turn on light"
+]
+},
+{
+"read": 6000
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 3
+},
+{
+"read": 3000
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"items": 1
+},
+{
+"save": "duct_searched"
+},
+{
+"aim": "centre"
+},
+{
+"choose": "Forward"
+},
+{
+"read": 15000
+},
+{
+"items": 1
+},
+{
+"save": "duct_fought"
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"repeat": [
+{
+"maybe": "Listen"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Listen"
+},
+{
+"read": 6000
+},
+{
+"maybe": "Talk"
+},
+{
+"read": 6000
+},
+{
+"items": 1
+}
+],
+"max": 4
+},
+{
+"sweep": "Talk",
+"rounds": 3
+},
+{
+"read": 3000
+},
+{
+"items": 1
+},
+{
+"save": "duct_talked"
+},
+{
+"repeat": [
+{
+"maybe": "Forward"
+},
+{
+"read": 15000
+},
+{
+"maybe": "Go underground"
+},
+{
+"read": 15000
+},
+{
+"maybe": "Go back inside"
+},
+{
+"read": 15000
+},
+{
+"items": 1
+}
+],
+"until": "Move",
+"max": 6
+},
+{
+"save": "freddy2"
+},
+{
+"items": 1
+},
+{
+"choose": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"To living room",
+"Living room",
+"Go to bathroom"
+]
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"choose": "Move"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Go out",
+"To living room",
+"Living room"
+]
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"maybe": "Move"
+},
+{
+"maybe": "Go out"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"aim": "head"
+},
+{
+"choose": [
+"Move",
+"Take a taxi"
+]
+},
+{
+"items": 1
+},
+{
+"maybe": "Take a taxi"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"save": "taxi"
+},
+{
+"repeat": [
+{
+"maybe": "Give destination"
+},
+{
+"read": 10000
+},
+{
+"items": 1
+}
+],
+"until": "Exit Tricycle",
+"max": 5
+},
+{
+"read": 20000
+},
+{
+"items": 1
+},
+{
+"save": "act2_h_end"
+}
+]

@@ -1,0 +1,73 @@
+{
+ "scene": "B0D0",
+ "note": "Altamira from the B080_front bookmark: the tricycle to Altamira, then the PS1's B0D0 sweeps (look/check x6, show ID, talk about Gibson, ask about the restaurant, cash, Outer Heaven, Joy Division).",
+ "actions": [
+  {
+   "path": [
+    "Move|Go out|Board Tricycle",
+    "Board Tricycle|Tricycle|Front"
+   ],
+   "patience": 4000,
+   "optional": true
+  },
+  {
+   "path": [
+    "Board Tricycle|Tricycle"
+   ],
+   "optional": true,
+   "patience": 2000
+  },
+  {
+   "path": [
+    "Altamira"
+   ],
+   "patience": 4000
+  },
+  {
+   "idle": 600
+  },
+  {
+   "wait_menu": true,
+   "patience": 12000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true,
+   "patience": 4000
+  },
+  {
+   "save": "B0D0_start"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Ask",
+    "Item",
+    "Listen"
+   ],
+   "rounds": 3
+  },
+  {
+   "save": "B0D0_swept"
+  },
+  {
+   "sweep": [
+    "Move"
+   ],
+   "each": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Ask",
+    "Item",
+    "Listen"
+   ],
+   "each_rounds": 2,
+   "rounds": 2
+  }
+ ]
+}

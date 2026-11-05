@@ -1,0 +1,221 @@
+[
+ {"aim": "centre"},
+ {
+  "choose": "Ivan's home"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "choose": "Exit Tricycle"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "save": "ivan0"
+ },
+ {
+  "items": 1
+ },
+ {
+  "sweep": "Look",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Item"
+ },
+ {
+  "choose": "Show"
+ },
+ {
+  "choose": "Photo"
+ },
+ {
+  "items": 1
+ },
+ {
+  "choose": "Montage photo"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Talk",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "save": "ivan_freeman"
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "items": 1
+ },
+ {
+  "choose": "Room 301"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "save": "ivan_door"
+ },
+ {
+  "items": 1
+ },
+ {
+  "sweep": "Look",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "repeat": [
+   {
+    "maybe": "Knock"
+   },
+   {
+    "read": 6000
+   },
+   {
+    "maybe": "Talk"
+   },
+   {
+    "read": 6000
+   }
+  ],
+  "until": "fought",
+  "max": 6
+ },
+ {
+  "read": 8000
+ },
+ {
+  "save": "ivan_in"
+ },
+ {
+  "items": 1
+ },
+ {
+  "choose": "Interrogate"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "maybe": "Interrogate"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "maybe": "Pull a gun"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "maybe": "Interrogate"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "save": "ivan_room"
+ },
+ {
+  "items": 1
+ },
+ {
+  "sweep": "Look",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Smell",
+  "rounds": 1
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 2
+ },
+ {
+  "read": 8000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 1
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 1
+ },
+ {
+  "read": 12000
+ },
+ {
+  "save": "act1_f_end"
+ },
+ {
+  "items": 1
+ }
+]

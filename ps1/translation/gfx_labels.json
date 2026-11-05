@@ -1,0 +1,60 @@
+{
+ "_comment": "English for small Japanese labels baked into graphics (ps1/tools/gfxlabels.py): the videophone cards (BUG-009), the note from Gibson's body (BUG-007), the JUNKER HQ poster and the joke phone-book pictures. Coordinates and colours are palette indices on the joined items of one section. Background signage is left as Konami drew it.",
+ "CMC_B000": {"tag": "card1", "section": 0, "items": [0, 1], "crop": [0, 14, 121, 58], "edits": [
+   {"erase": [5, 26, 114, 40], "fill": 19},
+   {"text": "Number not in use.", "y": 27, "span": [6, 113], "ink": 20, "shadow": 18}
+ ]},
+ "CMC_B010": {"tag": "card2", "section": 0, "items": [0, 1], "crop": [0, 32, 121, 94], "edits": [
+   {"erase": [9, 41, 112, 66], "fill": 19},
+   {"text": "No video signal", "y": 43, "span": [10, 111], "ink": 20, "shadow": 18},
+   {"text": "from the caller.", "y": 56, "span": [10, 111], "ink": 20, "shadow": 18},
+   {"move": [77, 76, 101, 82], "dx": 3, "fill": 19},
+   {"copy": [39, 76, 41, 82], "to": [77, 76]},
+   {"move": [19, 76, 104, 82], "dx": -1, "fill": 19}
+ ]},
+ "CXC_B050": {"tag": "note", "section": 1, "items": [0], "crop": [70, 4, 121, 50], "preview_cap": ["work/s_b020full/p_060660.png", -20, 56], "edits": [
+   {"inpaint": [76, 11, 103, 36], "values": [1]},
+   {"remap": [76, 11, 116, 35], "map": {"2": 18, "4": 18, "17": 18, "5": 18, "6": 7, "18": 7}},
+   {"text": "Search", "y": 13, "span": [77, 105], "ink": 1, "font": "5x7"},
+   {"text": "the", "y": 21, "span": [77, 105], "ink": 1, "font": "5x7"},
+   {"text": "house", "y": 29, "span": [77, 105], "ink": 1, "font": "5x7"}
+ ]},
+ "CXH_BX30": {"tag": "poster", "section": 1, "items": [0], "preview_cap": ["work/gfxcensus/run_poster_B010_start/p_000200.png", 92, 32], "edits": [
+   {"inpaint": [10, 12, 49, 38], "values": [2, 4]},
+   {"pixels": ["###..####.....##.", "#..#.#.......#..#", "###..###.....#..#", "#..#.#.......####", "#..#.#.......#..#", "###..####....#..#"], "x": "center", "span": [11, 41], "y": 13, "ink": 2, "drop": 4},
+   {"copy": [11, 22, 41, 28], "to": [11, 22], "source": "original", "only": [2, 4]},
+   {"pixels": ["#####..##...##..#", "..#...#..#.#..#.#", "..#...#..#.#..#.#", "..#...#..#.#..#.#", "..#...#..#.#..#..", "..#....##...##..#"], "x": "center", "span": [11, 41], "y": 31, "ink": 2, "drop": 4}
+ ]},
+ "CMC_B0F0": {"tag": "joke_rusu", "section": 1, "items": [0], "preview_lut": "grey", "edits": [
+   {"erase": [0, 96, 78, 111], "fill": 0},
+   {"erase": [0, 112, 111, 123], "fill": 0},
+   {"text": "Not home!", "y": 98, "x": 2, "span": [0, 78], "ink": 104},
+   {"text": "OPTION MENU", "y": 112, "x": 2, "span": [0, 111], "ink": 104}
+ ]},
+ "CMC_B100": {"tag": "joke_imasen", "section": 1, "items": [3], "preview_lut": "grey", "edits": [
+   {"erase": [0, 0, 119, 27], "fill": 192},
+   {"erase": [100, 28, 119, 29], "fill": 192},
+   {"text": "Not in.", "y": 4, "span": [0, 119], "ink": 236, "scale": 2}
+ ]},
+ "CMC_B0D0": {"tag": "joke_araki", "section": 1, "items": [1], "preview_lut": "grey", "edits": [
+   {"inpaint": [0, 50, 119, 95], "values": [125, 79]},
+   {"text": "Mr. Araki, sulking", "y": 55, "span": [0, 119], "ink": 125, "shadow": 72},
+   {"text": "that he can't type", "y": 68, "span": [0, 119], "ink": 125, "shadow": 72},
+   {"text": "with paws (approx.)", "y": 81, "span": [0, 119], "ink": 125, "shadow": 72}
+ ]},
+ "CXC_B010": {"tag": "note_B010", "section": 1, "items": [0], "preview_lut": "grey", "edits": [
+   {"stamp": "CXC_B050", "src": [72, 8, 119, 43], "to": [64, 56]}
+ ]},
+ "CXC_B030": {"tag": "note_B030", "section": 1, "items": [0], "preview_lut": "grey", "edits": [
+   {"stamp": "CXC_B050", "src": [72, 8, 119, 43], "to": [40, 88]}
+ ]},
+ "CXC_B040": {"tag": "note_B040", "section": 1, "items": [1], "preview_lut": "grey", "edits": [
+   {"stamp": "CXC_B050", "src": [72, 8, 119, 43], "to": [40, 8]}
+ ]},
+ "CXC_B000": {"tag": "note_B000", "section": 1, "items": [0], "preview_lut": "grey", "edits": [
+   {"stamp": "CXC_B050", "src": [72, 8, 119, 43], "to": [96, 56]}
+ ]},
+ "CXC_B020": {"tag": "note_B020", "section": 1, "items": [0], "preview_lut": "grey", "edits": [
+   {"stamp": "CXC_B050", "src": [72, 8, 119, 43], "to": [64, 104]}
+ ]}
+}

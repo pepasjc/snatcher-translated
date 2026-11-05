@@ -1,0 +1,3539 @@
+{
+ "scene": "B240",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B240_c5f24",
+   "reel": 139,
+   "sdaif": "SDAIF_D9.AIF",
+   "rate": 22050,
+   "frames": 550798,
+   "b0": 54,
+   "b1": 484750,
+   "size": 2203246,
+   "speaker": "TV",
+   "colour": 7,
+   "en": "With twelve hours until the Kyoto Summit,",
+   "rows": [
+    "With twelve hours until the",
+    "Kyoto Summit,"
+   ],
+   "rows_plain": [
+    "With twelve hours until the Kyoto",
+    "Summit,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c5f24b",
+   "reel": 139,
+   "sdaif": "SDAIF_D9.AIF",
+   "rate": 22050,
+   "frames": 550798,
+   "b0": 484750,
+   "b1": 1102554,
+   "size": 2203246,
+   "speaker": "TV",
+   "colour": 7,
+   "en": "delegates from around the world are arriving in Kyoto.",
+   "rows": [
+    "delegates from around the",
+    "world are arriving in Kyoto."
+   ],
+   "rows_plain": [
+    "delegates from around the world are",
+    "arriving in Kyoto."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c5f24c",
+   "reel": 139,
+   "sdaif": "SDAIF_D9.AIF",
+   "rate": 22050,
+   "frames": 550798,
+   "b0": 1322818,
+   "b1": 1782129,
+   "size": 2203246,
+   "speaker": "TV",
+   "colour": 7,
+   "en": "Recent polls at home and abroad show growing support for a complete quarantine",
+   "rows": [
+    "Recent polls at home and",
+    "abroad show growing support",
+    "for a complete quarantine"
+   ],
+   "rows_plain": [
+    "Recent polls at home and abroad show",
+    "growing support for a complete",
+    "quarantine"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c5f24d",
+   "reel": 139,
+   "sdaif": "SDAIF_D9.AIF",
+   "rate": 22050,
+   "frames": 550798,
+   "b0": 1782129,
+   "b1": 2187382,
+   "size": 2203246,
+   "speaker": "TV",
+   "colour": 7,
+   "en": "of Neo Kobe, apparently driven by fears of Snatcher infiltration.",
+   "rows": [
+    "of Neo Kobe, apparently",
+    "driven by fears of Snatcher",
+    "infiltration."
+   ],
+   "rows_plain": [
+    "of Neo Kobe, apparently driven by",
+    "fears of Snatcher infiltration."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f72",
+   "line": 628,
+   "act": 3,
+   "sector": 79,
+   "offset": 154,
+   "size": 61390,
+   "b0": 0,
+   "b1": 61390,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Now that the chief's death is confirmed, JUNKER will soon lose its authority.",
+   "rows": [
+    "Now that the chief's death",
+    "is confirmed, JUNKER will",
+    "soon lose its authority."
+   ],
+   "rows_plain": [
+    "Now that the chief's death is",
+    "confirmed, JUNKER will soon lose its",
+    "authority."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_f73",
+   "line": 629,
+   "act": 3,
+   "sector": 105,
+   "offset": 1120,
+   "size": 43592,
+   "b0": 0,
+   "b1": 43592,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The summit will decide Neo Kobe's fate in twelve hours.",
+   "rows": [
+    "The summit will decide Neo",
+    "Kobe's fate in twelve hours."
+   ],
+   "rows_plain": [
+    "The summit will decide Neo Kobe's",
+    "fate in twelve hours."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f74",
+   "line": 630,
+   "act": 3,
+   "sector": 124,
+   "offset": 556,
+   "size": 49810,
+   "b0": 0,
+   "b1": 49810,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "They say a nuclear bomb will wipe out the city and its Snatchers.",
+   "rows": [
+    "They say a nuclear bomb will",
+    "wipe out the city and its",
+    "Snatchers."
+   ],
+   "rows_plain": [
+    "They say a nuclear bomb will wipe",
+    "out the city and its Snatchers."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f75",
+   "line": 631,
+   "act": 3,
+   "sector": 145,
+   "offset": 1562,
+   "size": 19049,
+   "b0": 0,
+   "b1": 19049,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Insane! In the 21st century?",
+   "rows": [
+    "Insane! In the 21st century?"
+   ],
+   "rows_plain": [
+    "Insane! In the 21st century?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_f76",
+   "line": 632,
+   "act": 3,
+   "sector": 153,
+   "offset": 2019,
+   "size": 69318,
+   "b0": 0,
+   "b1": 69318,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "It's not just a rumor. Every country fears the spread of Snatchers.",
+   "rows": [
+    "It's not just a rumor. Every",
+    "country fears the spread of",
+    "Snatchers."
+   ],
+   "rows_plain": [
+    "It's not just a rumor. Every country",
+    "fears the spread of Snatchers."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f77",
+   "line": 633,
+   "act": 3,
+   "sector": 183,
+   "offset": 1617,
+   "size": 46211,
+   "b0": 0,
+   "b1": 46211,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "The chief was going to the summit to stop that. But now there's no hope.",
+   "rows": [
+    "The chief was going to the",
+    "summit to stop that. But now",
+    "there's no hope."
+   ],
+   "rows_plain": [
+    "The chief was going to the summit to",
+    "stop that. But now there's no hope."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f78",
+   "line": 634,
+   "act": 3,
+   "sector": 203,
+   "offset": 1348,
+   "size": 43561,
+   "b0": 0,
+   "b1": 43561,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The government began pressuring JUNKER several months ago.",
+   "rows": [
+    "The government began",
+    "pressuring JUNKER several",
+    "months ago."
+   ],
+   "rows_plain": [
+    "The government began pressuring",
+    "JUNKER several months ago."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f79",
+   "line": 635,
+   "act": 3,
+   "sector": 222,
+   "offset": 753,
+   "size": 46628,
+   "b0": 0,
+   "b1": 46628,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Your transfer to JUNKER was our last chance, Gillian.",
+   "rows": [
+    "Your transfer to JUNKER was",
+    "our last chance, Gillian."
+   ],
+   "rows_plain": [
+    "Your transfer to JUNKER was our last",
+    "chance, Gillian."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f80",
+   "line": 636,
+   "act": 3,
+   "sector": 242,
+   "offset": 901,
+   "size": 54887,
+   "b0": 0,
+   "b1": 54887,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Now that even the chief was snatched, they have even less reason to trust JUNKER.",
+   "rows": [
+    "Now that even the chief was",
+    "snatched, they have even",
+    "less reason to trust JUNKER."
+   ],
+   "rows_plain": [
+    "Now that even the chief was",
+    "snatched, they have even less reason",
+    "to trust JUNKER."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f81",
+   "line": 637,
+   "act": 3,
+   "sector": 266,
+   "offset": 12,
+   "size": 38755,
+   "b0": 0,
+   "b1": 38755,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "The military and FBI will apparently take over.",
+   "rows": [
+    "The military and FBI will",
+    "apparently take over."
+   ],
+   "rows_plain": [
+    "The military and FBI will",
+    "apparently take over."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f82",
+   "line": 638,
+   "act": 3,
+   "sector": 282,
+   "offset": 1583,
+   "size": 33791,
+   "b0": 0,
+   "b1": 33791,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Yes. That will also be decided in twelve hours.",
+   "rows": [
+    "Yes. That will also be",
+    "decided in twelve hours."
+   ],
+   "rows_plain": [
+    "Yes. That will also be decided in",
+    "twelve hours."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f83",
+   "line": 639,
+   "act": 3,
+   "sector": 297,
+   "offset": 514,
+   "size": 35237,
+   "b0": 0,
+   "b1": 35237,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Twelve hours to find their hideout.",
+   "rows": [
+    "Twelve hours to find their",
+    "hideout."
+   ],
+   "rows_plain": [
+    "Twelve hours to find their hideout."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_f84",
+   "line": 640,
+   "act": 3,
+   "sector": 312,
+   "offset": 891,
+   "size": 25130,
+   "b0": 0,
+   "b1": 25130,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Or we're dead, along with everyone in the city.",
+   "rows": [
+    "Or we're dead, along with",
+    "everyone in the city."
+   ],
+   "rows_plain": [
+    "Or we're dead, along with everyone",
+    "in the city."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f85",
+   "line": 641,
+   "act": 3,
+   "sector": 323,
+   "offset": 457,
+   "size": 39626,
+   "b0": 0,
+   "b1": 39626,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "To them, this city's a tumor. Cut it out and sink it.",
+   "rows": [
+    "To them, this city's a",
+    "tumor. Cut it out and sink",
+    "it."
+   ],
+   "rows_plain": [
+    "To them, this city's a tumor. Cut it",
+    "out and sink it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f86",
+   "line": 642,
+   "act": 3,
+   "sector": 340,
+   "offset": 575,
+   "size": 30675,
+   "b0": 0,
+   "b1": 30675,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We have to strike the Snatchers' base before that.",
+   "rows": [
+    "We have to strike the",
+    "Snatchers' base before that."
+   ],
+   "rows_plain": [
+    "We have to strike the Snatchers'",
+    "base before that."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f87",
+   "line": 643,
+   "act": 3,
+   "sector": 353,
+   "offset": 1038,
+   "size": 12090,
+   "b0": 0,
+   "b1": 12090,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Can you do it, Gillian?",
+   "rows": [
+    "Can you do it, Gillian?"
+   ],
+   "rows_plain": [
+    "Can you do it, Gillian?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f88",
+   "line": 644,
+   "act": 3,
+   "sector": 358,
+   "offset": 1508,
+   "size": 18316,
+   "b0": 0,
+   "b1": 18316,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "If we can find their hideout.",
+   "rows": [
+    "If we can find their",
+    "hideout."
+   ],
+   "rows_plain": [
+    "If we can find their hideout."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f89",
+   "line": 645,
+   "act": 3,
+   "sector": 366,
+   "offset": 1232,
+   "size": 60352,
+   "b0": 0,
+   "b1": 60352,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Attacking places like Queen Hospital won't help. We have to hit their main base.",
+   "rows": [
+    "Attacking places like Queen",
+    "Hospital won't help. We have",
+    "to hit their main base."
+   ],
+   "rows_plain": [
+    "Attacking places like Queen Hospital",
+    "won't help. We have to hit their",
+    "main base."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f90",
+   "line": 646,
+   "act": 3,
+   "sector": 392,
+   "offset": 1160,
+   "size": 22086,
+   "b0": 0,
+   "b1": 22086,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What about the chief Snatcher's memory?",
+   "rows": [
+    "What about the chief",
+    "Snatcher's memory?"
+   ],
+   "rows_plain": [
+    "What about the chief Snatcher's",
+    "memory?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f91",
+   "line": 647,
+   "act": 3,
+   "sector": 402,
+   "offset": 6,
+   "size": 48219,
+   "b0": 0,
+   "b1": 48219,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Completely erased, as before. A form of self-destruction.",
+   "rows": [
+    "Completely erased, as",
+    "before. A form of",
+    "self-destruction."
+   ],
+   "rows_plain": [
+    "Completely erased, as before. A form",
+    "of self-destruction."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f92",
+   "line": 648,
+   "act": 3,
+   "sector": 422,
+   "offset": 1745,
+   "size": 36639,
+   "b0": 0,
+   "b1": 36639,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal! What about tracing Jamie's videophone call?",
+   "rows": [
+    "Metal! What about tracing",
+    "Jamie's videophone call?"
+   ],
+   "rows_plain": [
+    "Metal! What about tracing Jamie's",
+    "videophone call?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f93",
+   "line": 649,
+   "act": 3,
+   "sector": 438,
+   "offset": 1200,
+   "size": 62410,
+   "b0": 0,
+   "b1": 62410,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "There wasn't enough time. But it definitely came from somewhere in this city.",
+   "rows": [
+    "There wasn't enough time.",
+    "But it definitely came from",
+    "somewhere in this city."
+   ],
+   "rows_plain": [
+    "There wasn't enough time. But it",
+    "definitely came from somewhere in",
+    "this city."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_f94",
+   "line": 650,
+   "act": 3,
+   "sector": 465,
+   "offset": 862,
+   "size": 30542,
+   "b0": 0,
+   "b1": 30542,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Damn it! Where? Where are they?",
+   "rows": [
+    "Damn it! Where? Where are",
+    "they?"
+   ],
+   "rows_plain": [
+    "Damn it! Where? Where are they?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_f95",
+   "line": 651,
+   "act": 3,
+   "sector": 478,
+   "offset": 1192,
+   "size": 63781,
+   "b0": 0,
+   "b1": 28052,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Can't you remember anything, Gillian?",
+   "rows": [
+    "Can't you remember anything,",
+    "Gillian?"
+   ],
+   "rows_plain": [
+    "Can't you remember anything,",
+    "Gillian?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f95b",
+   "line": 651,
+   "act": 3,
+   "sector": 478,
+   "offset": 1192,
+   "size": 63781,
+   "b0": 28052,
+   "b1": 63781,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Did Jamie say anything about a connection to the Snatchers?",
+   "rows": [
+    "Did Jamie say anything about",
+    "a connection to the",
+    "Snatchers?"
+   ],
+   "rows_plain": [
+    "Did Jamie say anything about a",
+    "connection to the Snatchers?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f96",
+   "line": 652,
+   "act": 3,
+   "sector": 505,
+   "offset": 2225,
+   "size": 32707,
+   "b0": 0,
+   "b1": 32707,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I can't remember a thing.",
+   "rows": [
+    "I can't remember a thing."
+   ],
+   "rows_plain": [
+    "I can't remember a thing."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f97",
+   "line": 653,
+   "act": 3,
+   "sector": 520,
+   "offset": 72,
+   "size": 88664,
+   "b0": 0,
+   "b1": 69496,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal, tell me everything you know about who I am! Why was I sent to JUNKER?",
+   "rows": [
+    "Metal, tell me everything",
+    "you know about who I am! Why",
+    "was I sent to JUNKER?"
+   ],
+   "rows_plain": [
+    "Metal, tell me everything you know",
+    "about who I am! Why was I sent to",
+    "JUNKER?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f97b",
+   "line": 653,
+   "act": 3,
+   "sector": 520,
+   "offset": 72,
+   "size": 88664,
+   "b0": 69496,
+   "b1": 88664,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Where did I come from?",
+   "rows": [
+    "Where did I come from?"
+   ],
+   "rows_plain": [
+    "Where did I come from?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_f98",
+   "line": 654,
+   "act": 3,
+   "sector": 558,
+   "offset": 424,
+   "size": 14883,
+   "b0": 0,
+   "b1": 14883,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Gillian...",
+   "rows": [
+    "Gillian..."
+   ],
+   "rows_plain": [
+    "Gillian..."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f1",
+   "line": 655,
+   "act": 3,
+   "sector": 564,
+   "offset": 1363,
+   "size": 33851,
+   "b0": 0,
+   "b1": 33851,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The chief's gone! Tell me what you know, Metal!",
+   "rows": [
+    "The chief's gone! Tell me",
+    "what you know, Metal!"
+   ],
+   "rows_plain": [
+    "The chief's gone! Tell me what you",
+    "know, Metal!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_c9f2",
+   "line": 656,
+   "act": 3,
+   "sector": 579,
+   "offset": 354,
+   "size": 13356,
+   "b0": 0,
+   "b1": 13356,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Well, you see...",
+   "rows": [
+    "Well, you see..."
+   ],
+   "rows_plain": [
+    "Well, you see..."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f3",
+   "line": 657,
+   "act": 3,
+   "sector": 584,
+   "offset": 2090,
+   "size": 6281,
+   "b0": 0,
+   "b1": 6281,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal!",
+   "rows": [
+    "Metal!"
+   ],
+   "rows_plain": [
+    "Metal!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f4",
+   "line": 658,
+   "act": 3,
+   "sector": 587,
+   "offset": 1399,
+   "size": 60839,
+   "b0": 0,
+   "b1": 60839,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Understood. With the chief dead, you're in command now.",
+   "rows": [
+    "Understood. With the chief",
+    "dead, you're in command now."
+   ],
+   "rows_plain": [
+    "Understood. With the chief dead,",
+    "you're in command now."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f5",
+   "line": 659,
+   "act": 3,
+   "sector": 613,
+   "offset": 1814,
+   "size": 15618,
+   "b0": 0,
+   "b1": 15618,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "You knew?",
+   "rows": [
+    "You knew?"
+   ],
+   "rows_plain": [
+    "You knew?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f6",
+   "line": 660,
+   "act": 3,
+   "sector": 620,
+   "offset": 1164,
+   "size": 9774,
+   "b0": 0,
+   "b1": 9774,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Of course.",
+   "rows": [
+    "Of course."
+   ],
+   "rows_plain": [
+    "Of course."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f7",
+   "line": 661,
+   "act": 3,
+   "sector": 624,
+   "offset": 1642,
+   "size": 18297,
+   "b0": 0,
+   "b1": 18297,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Where were we rescued?",
+   "rows": [
+    "Where were we rescued?"
+   ],
+   "rows_plain": [
+    "Where were we rescued?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f8",
+   "line": 662,
+   "act": 3,
+   "sector": 632,
+   "offset": 1347,
+   "size": 114485,
+   "b0": 0,
+   "b1": 65504,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "You and Jamie were rescued three years ago, on September 25, 2039,",
+   "rows": [
+    "You and Jamie were rescued",
+    "three years ago, on",
+    "September 25, 2039,"
+   ],
+   "rows_plain": [
+    "You and Jamie were rescued three",
+    "years ago, on September 25, 2039,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f8b",
+   "line": 662,
+   "act": 3,
+   "sector": 632,
+   "offset": 1347,
+   "size": 114485,
+   "b0": 65504,
+   "b1": 114485,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "from the Siberian neutral zone by the seventeenth Siberian expedition.",
+   "rows": [
+    "from the Siberian neutral",
+    "zone by the seventeenth",
+    "Siberian expedition."
+   ],
+   "rows_plain": [
+    "from the Siberian neutral zone by",
+    "the seventeenth Siberian expedition."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f9",
+   "line": 663,
+   "act": 3,
+   "sector": 681,
+   "offset": 1956,
+   "size": 70286,
+   "b0": 0,
+   "b1": 38327,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "To be precise, you were found in cryogenic pods",
+   "rows": [
+    "To be precise, you were",
+    "found in cryogenic pods"
+   ],
+   "rows_plain": [
+    "To be precise, you were found in",
+    "cryogenic pods"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f9b",
+   "line": 663,
+   "act": 3,
+   "sector": 681,
+   "offset": 1956,
+   "size": 70286,
+   "b0": 38327,
+   "b1": 70286,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "in an underground shelter near Moscow.",
+   "rows": [
+    "in an underground shelter",
+    "near Moscow."
+   ],
+   "rows_plain": [
+    "in an underground shelter near",
+    "Moscow."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f10",
+   "line": 664,
+   "act": 3,
+   "sector": 712,
+   "offset": 198,
+   "size": 30083,
+   "b0": 0,
+   "b1": 30083,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Cryogenic sleep? Artificial hibernation?",
+   "rows": [
+    "Cryogenic sleep? Artificial",
+    "hibernation?"
+   ],
+   "rows_plain": [
+    "Cryogenic sleep? Artificial",
+    "hibernation?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f11",
+   "line": 665,
+   "act": 3,
+   "sector": 725,
+   "offset": 69,
+   "size": 19492,
+   "b0": 0,
+   "b1": 19492,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "This photo was taken at the time.",
+   "rows": [
+    "This photo was taken at the",
+    "time."
+   ],
+   "rows_plain": [
+    "This photo was taken at the time."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f12",
+   "line": 666,
+   "act": 3,
+   "sector": 733,
+   "offset": 969,
+   "size": 72976,
+   "b0": 0,
+   "b1": 36047,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We don't know how long you'd been asleep there.",
+   "rows": [
+    "We don't know how long you'd",
+    "been asleep there."
+   ],
+   "rows_plain": [
+    "We don't know how long you'd been",
+    "asleep there."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f12b",
+   "line": 666,
+   "act": 3,
+   "sector": 733,
+   "offset": 969,
+   "size": 72976,
+   "b0": 36047,
+   "b1": 72976,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "A third, empty pod was found with you.",
+   "rows": [
+    "A third, empty pod was found",
+    "with you."
+   ],
+   "rows_plain": [
+    "A third, empty pod was found with",
+    "you."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f13",
+   "line": 667,
+   "act": 3,
+   "sector": 764,
+   "offset": 1901,
+   "size": 12651,
+   "b0": 0,
+   "b1": 12651,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Three pods?",
+   "rows": [
+    "Three pods?"
+   ],
+   "rows_plain": [
+    "Three pods?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f14",
+   "line": 668,
+   "act": 3,
+   "sector": 770,
+   "offset": 608,
+   "size": 106004,
+   "b0": 0,
+   "b1": 45861,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "You were revived and placed under military protection.",
+   "rows": [
+    "You were revived and placed",
+    "under military protection."
+   ],
+   "rows_plain": [
+    "You were revived and placed under",
+    "military protection."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f14b",
+   "line": 668,
+   "act": 3,
+   "sector": 770,
+   "offset": 608,
+   "size": 106004,
+   "b0": 45861,
+   "b1": 106004,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "You had both lost all your memories, perhaps from prolonged cryogenic sleep.",
+   "rows": [
+    "You had both lost all your",
+    "memories, perhaps from",
+    "prolonged cryogenic sleep."
+   ],
+   "rows_plain": [
+    "You had both lost all your memories,",
+    "perhaps from prolonged cryogenic",
+    "sleep."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f15",
+   "line": 669,
+   "act": 3,
+   "sector": 815,
+   "offset": 2032,
+   "size": 28494,
+   "b0": 0,
+   "b1": 28494,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Or perhaps they'd been erased.",
+   "rows": [
+    "Or perhaps they'd been",
+    "erased."
+   ],
+   "rows_plain": [
+    "Or perhaps they'd been erased."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_c9f16",
+   "line": 670,
+   "act": 3,
+   "sector": 828,
+   "offset": 314,
+   "size": 33522,
+   "b0": 0,
+   "b1": 33522,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "This was your only possession when you were rescued.",
+   "rows": [
+    "This was your only",
+    "possession when you were",
+    "rescued."
+   ],
+   "rows_plain": [
+    "This was your only possession when",
+    "you were rescued."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f17",
+   "line": 671,
+   "act": 3,
+   "sector": 842,
+   "offset": 1300,
+   "size": 40443,
+   "b0": 0,
+   "b1": 40443,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Isn't that a picture of Harry as a child?",
+   "rows": [
+    "Isn't that a picture of",
+    "Harry as a child?"
+   ],
+   "rows_plain": [
+    "Isn't that a picture of Harry as a",
+    "child?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f18",
+   "line": 672,
+   "act": 3,
+   "sector": 859,
+   "offset": 2235,
+   "size": 76894,
+   "b0": 0,
+   "b1": 76894,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Yes. Harry is your son, yours and Jamie's. DNA tests confirmed it.",
+   "rows": [
+    "Yes. Harry is your son,",
+    "yours and Jamie's. DNA tests",
+    "confirmed it."
+   ],
+   "rows_plain": [
+    "Yes. Harry is your son, yours and",
+    "Jamie's. DNA tests confirmed it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f19",
+   "line": 673,
+   "act": 3,
+   "sector": 893,
+   "offset": 113,
+   "size": 19429,
+   "b0": 0,
+   "b1": 19429,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The old man was my son?",
+   "rows": [
+    "The old man was my son?"
+   ],
+   "rows_plain": [
+    "The old man was my son?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f20",
+   "line": 674,
+   "act": 3,
+   "sector": 901,
+   "offset": 950,
+   "size": 89788,
+   "b0": 0,
+   "b1": 89788,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Using the photo's data, we identified you as Gillian Seed and Jamie Lorraine.",
+   "rows": [
+    "Using the photo's data, we",
+    "identified you as Gillian",
+    "Seed and Jamie Lorraine."
+   ],
+   "rows_plain": [
+    "Using the photo's data, we",
+    "identified you as Gillian Seed and",
+    "Jamie Lorraine."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f21",
+   "line": 675,
+   "act": 3,
+   "sector": 940,
+   "offset": 102,
+   "size": 51406,
+   "b0": 0,
+   "b1": 51406,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Both American citizens, born in the 1970s.",
+   "rows": [
+    "Both American citizens, born",
+    "in the 1970s."
+   ],
+   "rows_plain": [
+    "Both American citizens, born in the",
+    "1970s."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f22",
+   "line": 676,
+   "act": 3,
+   "sector": 962,
+   "offset": 380,
+   "size": 27842,
+   "b0": 0,
+   "b1": 27842,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "The 1970s?",
+   "rows": [
+    "The 1970s?"
+   ],
+   "rows_plain": [
+    "The 1970s?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f23",
+   "line": 677,
+   "act": 3,
+   "sector": 974,
+   "offset": 334,
+   "size": 72695,
+   "b0": 0,
+   "b1": 72695,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "You both disappeared in 1985. There are no records of you after that.",
+   "rows": [
+    "You both disappeared in",
+    "1985. There are no records",
+    "of you after that."
+   ],
+   "rows_plain": [
+    "You both disappeared in 1985. There",
+    "are no records of you after that."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_c9f24",
+   "line": 678,
+   "act": 3,
+   "sector": 1005,
+   "offset": 985,
+   "size": 10582,
+   "b0": 0,
+   "b1": 10582,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "1985.",
+   "rows": [
+    "1985."
+   ],
+   "rows_plain": [
+    "1985."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f25",
+   "line": 679,
+   "act": 3,
+   "sector": 1009,
+   "offset": 2271,
+   "size": 45554,
+   "b0": 0,
+   "b1": 45554,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Yes. You come from the world of fifty years ago.",
+   "rows": [
+    "Yes. You come from the world",
+    "of fifty years ago."
+   ],
+   "rows_plain": [
+    "Yes. You come from the world of",
+    "fifty years ago."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f26",
+   "line": 680,
+   "act": 3,
+   "sector": 1029,
+   "offset": 1345,
+   "size": 34247,
+   "b0": 0,
+   "b1": 34247,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "But what does that have to do with the Snatchers?",
+   "rows": [
+    "But what does that have to",
+    "do with the Snatchers?"
+   ],
+   "rows_plain": [
+    "But what does that have to do with",
+    "the Snatchers?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f27",
+   "line": 681,
+   "act": 3,
+   "sector": 1044,
+   "offset": 732,
+   "size": 102336,
+   "b0": 0,
+   "b1": 65430,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Well, the expedition that rescued you had an accident on the way back.",
+   "rows": [
+    "Well, the expedition that",
+    "rescued you had an accident",
+    "on the way back."
+   ],
+   "rows_plain": [
+    "Well, the expedition that rescued",
+    "you had an accident on the way back."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f27b",
+   "line": 681,
+   "act": 3,
+   "sector": 1044,
+   "offset": 732,
+   "size": 102336,
+   "b0": 65430,
+   "b1": 102336,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "You both survived, but most of the team died.",
+   "rows": [
+    "You both survived, but most",
+    "of the team died."
+   ],
+   "rows_plain": [
+    "You both survived, but most of the",
+    "team died."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f28",
+   "line": 682,
+   "act": 3,
+   "sector": 1088,
+   "offset": 812,
+   "size": 25462,
+   "b0": 0,
+   "b1": 25462,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "There was a Snatcher among them.",
+   "rows": [
+    "There was a Snatcher among",
+    "them."
+   ],
+   "rows_plain": [
+    "There was a Snatcher among them."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f29",
+   "line": 683,
+   "act": 3,
+   "sector": 1099,
+   "offset": 710,
+   "size": 67969,
+   "b0": 0,
+   "b1": 67969,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "They'd all been thoroughly examined before departure. So if they were snatched...",
+   "rows": [
+    "They'd all been thoroughly",
+    "examined before departure.",
+    "So if they were snatched..."
+   ],
+   "rows_plain": [
+    "They'd all been thoroughly examined",
+    "before departure. So if they were",
+    "snatched..."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_c9f30",
+   "line": 684,
+   "act": 3,
+   "sector": 1128,
+   "offset": 1283,
+   "size": 14982,
+   "b0": 0,
+   "b1": 14982,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Somewhere in Siberia.",
+   "rows": [
+    "Somewhere in Siberia."
+   ],
+   "rows_plain": [
+    "Somewhere in Siberia."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f31",
+   "line": 685,
+   "act": 3,
+   "sector": 1134,
+   "offset": 2321,
+   "size": 89459,
+   "b0": 0,
+   "b1": 10373,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Yes.",
+   "rows": [
+    "Yes."
+   ],
+   "rows_plain": [
+    "Yes."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f31b",
+   "line": 685,
+   "act": 3,
+   "sector": 1134,
+   "offset": 2321,
+   "size": 89459,
+   "b0": 10373,
+   "b1": 44985,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The government sent you both to JUNKER",
+   "rows": [
+    "The government sent you both",
+    "to JUNKER"
+   ],
+   "rows_plain": [
+    "The government sent you both to",
+    "JUNKER"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f31bb",
+   "line": 685,
+   "act": 3,
+   "sector": 1134,
+   "offset": 2321,
+   "size": 89459,
+   "b0": 44985,
+   "b1": 89459,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "to learn your identities and uncover the truth about Snatchers.",
+   "rows": [
+    "to learn your identities and",
+    "uncover the truth about",
+    "Snatchers."
+   ],
+   "rows_plain": [
+    "to learn your identities and uncover",
+    "the truth about Snatchers."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f32",
+   "line": 686,
+   "act": 3,
+   "sector": 1173,
+   "offset": 1144,
+   "size": 41223,
+   "b0": 0,
+   "b1": 41223,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "They hoped contact with Snatchers would restore your memories.",
+   "rows": [
+    "They hoped contact with",
+    "Snatchers would restore your",
+    "memories."
+   ],
+   "rows_plain": [
+    "They hoped contact with Snatchers",
+    "would restore your memories."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f33",
+   "line": 687,
+   "act": 3,
+   "sector": 1191,
+   "offset": 535,
+   "size": 14498,
+   "b0": 0,
+   "b1": 14498,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Moscow, fifty years ago.",
+   "rows": [
+    "Moscow, fifty years ago."
+   ],
+   "rows_plain": [
+    "Moscow, fifty years ago."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f34",
+   "line": 688,
+   "act": 3,
+   "sector": 1197,
+   "offset": 1089,
+   "size": 47706,
+   "b0": 0,
+   "b1": 47706,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Almost everyone who knew Moscow then died in the outbreak.",
+   "rows": [
+    "Almost everyone who knew",
+    "Moscow then died in the",
+    "outbreak."
+   ],
+   "rows_plain": [
+    "Almost everyone who knew Moscow then",
+    "died in the outbreak."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f35",
+   "line": 689,
+   "act": 3,
+   "sector": 1217,
+   "offset": 2315,
+   "size": 28588,
+   "b0": 0,
+   "b1": 28588,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "So you two are the only living witnesses.",
+   "rows": [
+    "So you two are the only",
+    "living witnesses."
+   ],
+   "rows_plain": [
+    "So you two are the only living",
+    "witnesses."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f36",
+   "line": 690,
+   "act": 3,
+   "sector": 1230,
+   "offset": 691,
+   "size": 34364,
+   "b0": 0,
+   "b1": 34364,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The old man. Harry was our son.",
+   "rows": [
+    "The old man. Harry was our",
+    "son."
+   ],
+   "rows_plain": [
+    "The old man. Harry was our son."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f37",
+   "line": 691,
+   "act": 3,
+   "sector": 1245,
+   "offset": 195,
+   "size": 10993,
+   "b0": 0,
+   "b1": 10993,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Did he know?",
+   "rows": [
+    "Did he know?"
+   ],
+   "rows_plain": [
+    "Did he know?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f38",
+   "line": 692,
+   "act": 3,
+   "sector": 1249,
+   "offset": 1892,
+   "size": 45227,
+   "b0": 0,
+   "b1": 45227,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "No. It was top secret. He was told nothing.",
+   "rows": [
+    "No. It was top secret. He",
+    "was told nothing."
+   ],
+   "rows_plain": [
+    "No. It was top secret. He was told",
+    "nothing."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f39",
+   "line": 693,
+   "act": 3,
+   "sector": 1269,
+   "offset": 639,
+   "size": 51519,
+   "b0": 0,
+   "b1": 51519,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "My God. I couldn't do anything for him.",
+   "rows": [
+    "My God. I couldn't do",
+    "anything for him."
+   ],
+   "rows_plain": [
+    "My God. I couldn't do anything for",
+    "him."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f40",
+   "line": 694,
+   "act": 3,
+   "sector": 1291,
+   "offset": 1030,
+   "size": 60632,
+   "b0": 0,
+   "b1": 60632,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Wait, Gillian. Didn't Jamie say they were holding her child hostage?",
+   "rows": [
+    "Wait, Gillian. Didn't Jamie",
+    "say they were holding her",
+    "child hostage?"
+   ],
+   "rows_plain": [
+    "Wait, Gillian. Didn't Jamie say they",
+    "were holding her child hostage?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_c9f41",
+   "line": 695,
+   "act": 3,
+   "sector": 1317,
+   "offset": 1238,
+   "size": 60804,
+   "b0": 0,
+   "b1": 60804,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That's it! They're using Harry to threaten Jamie.",
+   "rows": [
+    "That's it! They're using",
+    "Harry to threaten Jamie."
+   ],
+   "rows_plain": [
+    "That's it! They're using Harry to",
+    "threaten Jamie."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f42",
+   "line": 696,
+   "act": 3,
+   "sector": 1343,
+   "offset": 1618,
+   "size": 21245,
+   "b0": 0,
+   "b1": 21245,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We must find their hideout, fast!",
+   "rows": [
+    "We must find their hideout,",
+    "fast!"
+   ],
+   "rows_plain": [
+    "We must find their hideout, fast!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f43",
+   "line": 697,
+   "act": 3,
+   "sector": 1352,
+   "offset": 1947,
+   "size": 12346,
+   "b0": 0,
+   "b1": 12346,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "We have twelve hours.",
+   "rows": [
+    "We have twelve hours."
+   ],
+   "rows_plain": [
+    "We have twelve hours."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f44",
+   "line": 698,
+   "act": 3,
+   "sector": 1358,
+   "offset": 349,
+   "size": 52019,
+   "b0": 0,
+   "b1": 52019,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Let's review what we know, Gillian. We might find a clue.",
+   "rows": [
+    "Let's review what we know,",
+    "Gillian. We might find a",
+    "clue."
+   ],
+   "rows_plain": [
+    "Let's review what we know, Gillian.",
+    "We might find a clue."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_c9f45",
+   "line": 699,
+   "act": 3,
+   "sector": 1380,
+   "offset": 1240,
+   "size": 34139,
+   "b0": 0,
+   "b1": 34139,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Right. Their behavior might tell us something.",
+   "rows": [
+    "Right. Their behavior might",
+    "tell us something."
+   ],
+   "rows_plain": [
+    "Right. Their behavior might tell us",
+    "something."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f46",
+   "line": 700,
+   "act": 3,
+   "sector": 1395,
+   "offset": 519,
+   "size": 35087,
+   "b0": 0,
+   "b1": 35087,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's go over what we've learned about the Snatchers.",
+   "rows": [
+    "Let's go over what we've",
+    "learned about the Snatchers."
+   ],
+   "rows_plain": [
+    "Let's go over what we've learned",
+    "about the Snatchers."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f47",
+   "line": 701,
+   "act": 3,
+   "sector": 1410,
+   "offset": 746,
+   "size": 31368,
+   "b0": 0,
+   "b1": 31368,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "First, what is their weakness?",
+   "rows": [
+    "First, what is their",
+    "weakness?"
+   ],
+   "rows_plain": [
+    "First, what is their weakness?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f48",
+   "line": 702,
+   "act": 3,
+   "sector": 1423,
+   "offset": 1902,
+   "size": 139162,
+   "b0": 0,
+   "b1": 33095,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "It may be a kind of homing instinct.",
+   "rows": [
+    "It may be a kind of homing",
+    "instinct."
+   ],
+   "rows_plain": [
+    "It may be a kind of homing instinct."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_c9f48b",
+   "line": 702,
+   "act": 3,
+   "sector": 1423,
+   "offset": 1902,
+   "size": 139162,
+   "b0": 33095,
+   "b1": 81797,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Their base might be somewhere that reminds them of their creator.",
+   "rows": [
+    "Their base might be",
+    "somewhere that reminds them",
+    "of their creator."
+   ],
+   "rows_plain": [
+    "Their base might be somewhere that",
+    "reminds them of their creator."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_c9f48c",
+   "line": 702,
+   "act": 3,
+   "sector": 1423,
+   "offset": 1902,
+   "size": 139162,
+   "b0": 81797,
+   "b1": 139162,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "I've seen many similar cases in criminal psychology.",
+   "rows": [
+    "I've seen many similar cases",
+    "in criminal psychology."
+   ],
+   "rows_plain": [
+    "I've seen many similar cases in",
+    "criminal psychology."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_c9f49",
+   "line": 703,
+   "act": 3,
+   "sector": 1483,
+   "offset": 1624,
+   "size": 24092,
+   "b0": 0,
+   "b1": 24092,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Somewhere in this city that resembles Moscow.",
+   "rows": [
+    "Somewhere in this city that",
+    "resembles Moscow."
+   ],
+   "rows_plain": [
+    "Somewhere in this city that",
+    "resembles Moscow."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f50",
+   "line": 704,
+   "act": 3,
+   "sector": 1494,
+   "offset": 152,
+   "size": 51626,
+   "b0": 0,
+   "b1": 51626,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Moscow's cold, isn't it? It snows there in winter?",
+   "rows": [
+    "Moscow's cold, isn't it? It",
+    "snows there in winter?"
+   ],
+   "rows_plain": [
+    "Moscow's cold, isn't it? It snows",
+    "there in winter?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_c9f51",
+   "line": 705,
+   "act": 3,
+   "sector": 1516,
+   "offset": 650,
+   "size": 3813,
+   "b0": 0,
+   "b1": 3813,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Snow?",
+   "rows": [
+    "Snow?"
+   ],
+   "rows_plain": [
+    "Snow?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f52",
+   "line": 706,
+   "act": 3,
+   "sector": 1517,
+   "offset": 2139,
+   "size": 36076,
+   "b0": 0,
+   "b1": 36076,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "It hasn't snowed in Neo Kobe for years.",
+   "rows": [
+    "It hasn't snowed in Neo Kobe",
+    "for years."
+   ],
+   "rows_plain": [
+    "It hasn't snowed in Neo Kobe for",
+    "years."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f53",
+   "line": 707,
+   "act": 3,
+   "sector": 1533,
+   "offset": 1031,
+   "size": 15046,
+   "b0": 0,
+   "b1": 15046,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Then that's not it.",
+   "rows": [
+    "Then that's not it."
+   ],
+   "rows_plain": [
+    "Then that's not it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f54",
+   "line": 708,
+   "act": 3,
+   "sector": 1539,
+   "offset": 2133,
+   "size": 37966,
+   "b0": 0,
+   "b1": 37966,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Wait. What about that pollen? Snow Cedar!",
+   "rows": [
+    "Wait. What about that",
+    "pollen? Snow Cedar!"
+   ],
+   "rows_plain": [
+    "Wait. What about that pollen? Snow",
+    "Cedar!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f55",
+   "line": 709,
+   "act": 3,
+   "sector": 1556,
+   "offset": 591,
+   "size": 49814,
+   "b0": 0,
+   "b1": 49814,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "There was snow in Jamie's videophone call, too.",
+   "rows": [
+    "There was snow in Jamie's",
+    "videophone call, too."
+   ],
+   "rows_plain": [
+    "There was snow in Jamie's videophone",
+    "call, too."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_c9f56",
+   "line": 710,
+   "act": 3,
+   "sector": 1577,
+   "offset": 1601,
+   "size": 43167,
+   "b0": 0,
+   "b1": 43167,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That's it! Their hideout is somewhere along the Ina River.",
+   "rows": [
+    "That's it! Their hideout is",
+    "somewhere along the Ina",
+    "River."
+   ],
+   "rows_plain": [
+    "That's it! Their hideout is",
+    "somewhere along the Ina River."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_c9f57",
+   "line": 711,
+   "act": 3,
+   "sector": 1596,
+   "offset": 612,
+   "size": 38395,
+   "b0": 0,
+   "b1": 38395,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "But the Ina River covers too much ground.",
+   "rows": [
+    "But the Ina River covers too",
+    "much ground."
+   ],
+   "rows_plain": [
+    "But the Ina River covers too much",
+    "ground."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f58",
+   "line": 712,
+   "act": 3,
+   "sector": 1612,
+   "offset": 1823,
+   "size": 41069,
+   "b0": 0,
+   "b1": 41069,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's put everything we've discussed on a map, Gillian.",
+   "rows": [
+    "Let's put everything we've",
+    "discussed on a map, Gillian."
+   ],
+   "rows_plain": [
+    "Let's put everything we've discussed",
+    "on a map, Gillian."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f59",
+   "line": 713,
+   "act": 3,
+   "sector": 1630,
+   "offset": 1060,
+   "size": 53758,
+   "b0": 0,
+   "b1": 25610,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "This is an enlarged map of the Ina River area",
+   "rows": [
+    "This is an enlarged map of",
+    "the Ina River area"
+   ],
+   "rows_plain": [
+    "This is an enlarged map of the Ina",
+    "River area"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f59b",
+   "line": 713,
+   "act": 3,
+   "sector": 1630,
+   "offset": 1060,
+   "size": 53758,
+   "b0": 25610,
+   "b1": 53758,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "in southwestern Neo Kobe City.",
+   "rows": [
+    "in southwestern Neo Kobe",
+    "City."
+   ],
+   "rows_plain": [
+    "in southwestern Neo Kobe City."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f60",
+   "line": 714,
+   "act": 3,
+   "sector": 1653,
+   "offset": 1366,
+   "size": 38680,
+   "b0": 0,
+   "b1": 38680,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The blue areas show where Snow Cedar grows.",
+   "rows": [
+    "The blue areas show where",
+    "Snow Cedar grows."
+   ],
+   "rows_plain": [
+    "The blue areas show where Snow Cedar",
+    "grows."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f61",
+   "line": 715,
+   "act": 3,
+   "sector": 1670,
+   "offset": 538,
+   "size": 42667,
+   "b0": 0,
+   "b1": 42667,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Now I'll overlay the Tube Liner routes.",
+   "rows": [
+    "Now I'll overlay the Tube",
+    "Liner routes."
+   ],
+   "rows_plain": [
+    "Now I'll overlay the Tube Liner",
+    "routes."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f62",
+   "line": 716,
+   "act": 3,
+   "sector": 1688,
+   "offset": 1373,
+   "size": 39546,
+   "b0": 0,
+   "b1": 39546,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll isolate the areas where the routes and cedars overlap.",
+   "rows": [
+    "I'll isolate the areas where",
+    "the routes and cedars",
+    "overlap."
+   ],
+   "rows_plain": [
+    "I'll isolate the areas where the",
+    "routes and cedars overlap."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f63",
+   "line": 717,
+   "act": 3,
+   "sector": 1705,
+   "offset": 1411,
+   "size": 45095,
+   "b0": 0,
+   "b1": 45095,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "It's still too big. All that ground in twelve hours?",
+   "rows": [
+    "It's still too big. All that",
+    "ground in twelve hours?"
+   ],
+   "rows_plain": [
+    "It's still too big. All that ground",
+    "in twelve hours?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f64",
+   "line": 718,
+   "act": 3,
+   "sector": 1725,
+   "offset": 26,
+   "size": 123020,
+   "b0": 0,
+   "b1": 21222,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Don't give up, Gillian.",
+   "rows": [
+    "Don't give up, Gillian."
+   ],
+   "rows_plain": [
+    "Don't give up, Gillian."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f64b",
+   "line": 718,
+   "act": 3,
+   "sector": 1725,
+   "offset": 26,
+   "size": 123020,
+   "b0": 21222,
+   "b1": 93522,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "If it reminds them of home, perhaps the geography is similar, too.",
+   "rows": [
+    "If it reminds them of home,",
+    "perhaps the geography is",
+    "similar, too."
+   ],
+   "rows_plain": [
+    "If it reminds them of home, perhaps",
+    "the geography is similar, too."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f64c",
+   "line": 718,
+   "act": 3,
+   "sector": 1725,
+   "offset": 26,
+   "size": 123020,
+   "b0": 93522,
+   "b1": 123020,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "The same terrain would give them the same view.",
+   "rows": [
+    "The same terrain would give",
+    "them the same view."
+   ],
+   "rows_plain": [
+    "The same terrain would give them the",
+    "same view."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f65",
+   "line": 719,
+   "act": 3,
+   "sector": 1777,
+   "offset": 2198,
+   "size": 35322,
+   "b0": 0,
+   "b1": 35322,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll display a map of Moscow beside it.",
+   "rows": [
+    "I'll display a map of Moscow",
+    "beside it."
+   ],
+   "rows_plain": [
+    "I'll display a map of Moscow beside",
+    "it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f66",
+   "line": 720,
+   "act": 3,
+   "sector": 1793,
+   "offset": 336,
+   "size": 14219,
+   "b0": 0,
+   "b1": 14219,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Huh? Look at that!",
+   "rows": [
+    "Huh? Look at that!"
+   ],
+   "rows_plain": [
+    "Huh? Look at that!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f67",
+   "line": 721,
+   "act": 3,
+   "sector": 1799,
+   "offset": 611,
+   "size": 28108,
+   "b0": 0,
+   "b1": 28108,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Look! The rivers have the same shape!",
+   "rows": [
+    "Look! The rivers have the",
+    "same shape!"
+   ],
+   "rows_plain": [
+    "Look! The rivers have the same",
+    "shape!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f68",
+   "line": 722,
+   "act": 3,
+   "sector": 1811,
+   "offset": 831,
+   "size": 24085,
+   "b0": 0,
+   "b1": 24085,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "This one is the Moskva River.",
+   "rows": [
+    "This one is the Moskva",
+    "River."
+   ],
+   "rows_plain": [
+    "This one is the Moskva River."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f69",
+   "line": 723,
+   "act": 3,
+   "sector": 1821,
+   "offset": 1676,
+   "size": 72372,
+   "b0": 0,
+   "b1": 72372,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Looks like our theory was right. Metal, show us where Jamie and I were rescued.",
+   "rows": [
+    "Looks like our theory was",
+    "right. Metal, show us where",
+    "Jamie and I were rescued."
+   ],
+   "rows_plain": [
+    "Looks like our theory was right.",
+    "Metal, show us where Jamie and I",
+    "were rescued."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f70",
+   "line": 724,
+   "act": 3,
+   "sector": 1852,
+   "offset": 2004,
+   "size": 7486,
+   "b0": 0,
+   "b1": 7486,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Understood.",
+   "rows": [
+    "Understood."
+   ],
+   "rows_plain": [
+    "Understood."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f71",
+   "line": 725,
+   "act": 3,
+   "sector": 1856,
+   "offset": 194,
+   "size": 6534,
+   "b0": 0,
+   "b1": 6534,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Here.",
+   "rows": [
+    "Here."
+   ],
+   "rows_plain": [
+    "Here."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f72",
+   "line": 726,
+   "act": 3,
+   "sector": 1858,
+   "offset": 2080,
+   "size": 33573,
+   "b0": 0,
+   "b1": 33573,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal, what was here before the Catastrophe?",
+   "rows": [
+    "Metal, what was here before",
+    "the Catastrophe?"
+   ],
+   "rows_plain": [
+    "Metal, what was here before the",
+    "Catastrophe?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f73",
+   "line": 727,
+   "act": 3,
+   "sector": 1873,
+   "offset": 793,
+   "size": 25248,
+   "b0": 0,
+   "b1": 25248,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The Kremlin. The nerve center of the Soviet Union.",
+   "rows": [
+    "The Kremlin. The nerve",
+    "center of the Soviet Union."
+   ],
+   "rows_plain": [
+    "The Kremlin. The nerve center of the",
+    "Soviet Union."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f74",
+   "line": 728,
+   "act": 3,
+   "sector": 1884,
+   "offset": 477,
+   "size": 47114,
+   "b0": 0,
+   "b1": 47114,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "The Kremlin? The Snatcher said he was taking Jamie to the Kremlin!",
+   "rows": [
+    "The Kremlin? The Snatcher",
+    "said he was taking Jamie to",
+    "the Kremlin!"
+   ],
+   "rows_plain": [
+    "The Kremlin? The Snatcher said he",
+    "was taking Jamie to the Kremlin!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f75",
+   "line": 729,
+   "act": 3,
+   "sector": 1904,
+   "offset": 1111,
+   "size": 32415,
+   "b0": 0,
+   "b1": 32415,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal, what part of this city corresponds to the Kremlin?",
+   "rows": [
+    "Metal, what part of this",
+    "city corresponds to the",
+    "Kremlin?"
+   ],
+   "rows_plain": [
+    "Metal, what part of this city",
+    "corresponds to the Kremlin?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f76",
+   "line": 730,
+   "act": 3,
+   "sector": 1918,
+   "offset": 990,
+   "size": 7233,
+   "b0": 0,
+   "b1": 7233,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Understood.",
+   "rows": [
+    "Understood."
+   ],
+   "rows_plain": [
+    "Understood."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f77",
+   "line": 731,
+   "act": 3,
+   "sector": 1921,
+   "offset": 1251,
+   "size": 30366,
+   "b0": 0,
+   "b1": 30366,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Found it. An old church.",
+   "rows": [
+    "Found it. An old church."
+   ],
+   "rows_plain": [
+    "Found it. An old church."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f78",
+   "line": 732,
+   "act": 3,
+   "sector": 1934,
+   "offset": 1405,
+   "size": 44738,
+   "b0": 0,
+   "b1": 44738,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "A huge, empty church. It's been in ruins for twenty years.",
+   "rows": [
+    "A huge, empty church. It's",
+    "been in ruins for twenty",
+    "years."
+   ],
+   "rows_plain": [
+    "A huge, empty church. It's been in",
+    "ruins for twenty years."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f79",
+   "line": 733,
+   "act": 3,
+   "sector": 1953,
+   "offset": 1987,
+   "size": 41515,
+   "b0": 0,
+   "b1": 41515,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Right where the Snow Cedars and subway routes overlap!",
+   "rows": [
+    "Right where the Snow Cedars",
+    "and subway routes overlap!"
+   ],
+   "rows_plain": [
+    "Right where the Snow Cedars and",
+    "subway routes overlap!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f80",
+   "line": 734,
+   "act": 3,
+   "sector": 1971,
+   "offset": 1670,
+   "size": 44718,
+   "b0": 0,
+   "b1": 44718,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That's it! Their main base. A second Kremlin!",
+   "rows": [
+    "That's it! Their main base.",
+    "A second Kremlin!"
+   ],
+   "rows_plain": [
+    "That's it! Their main base. A second",
+    "Kremlin!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_c9f81",
+   "line": 735,
+   "act": 3,
+   "sector": 1990,
+   "offset": 2232,
+   "size": 15395,
+   "b0": 0,
+   "b1": 15395,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's hurry, Gillian!",
+   "rows": [
+    "Let's hurry, Gillian!"
+   ],
+   "rows_plain": [
+    "Let's hurry, Gillian!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B240_c9f82",
+   "line": 736,
+   "act": 3,
+   "sector": 1997,
+   "offset": 1359,
+   "size": 17498,
+   "b0": 0,
+   "b1": 17498,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Wait, Gillian!",
+   "rows": [
+    "Wait, Gillian!"
+   ],
+   "rows_plain": [
+    "Wait, Gillian!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B240_m_00",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 54,
+   "b1": 151330,
+   "size": 4762558,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "I'm coming, too!",
+   "rows": [
+    "I'm coming, too!"
+   ],
+   "rows_plain": [
+    "I'm coming, too!"
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B240_m_01",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 151330,
+   "b1": 188548,
+   "size": 4762558,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "No!",
+   "rows": [
+    "No!"
+   ],
+   "rows_plain": [
+    "No!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B240_m_02",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 188548,
+   "b1": 272590,
+   "size": 4762558,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "I'm a JUNKER, too!",
+   "rows": [
+    "I'm a JUNKER, too!"
+   ],
+   "rows_plain": [
+    "I'm a JUNKER, too!"
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B240_m_03",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 272590,
+   "b1": 398254,
+   "size": 4762558,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I know! And a good one!",
+   "rows": [
+    "I know! And a good one!"
+   ],
+   "rows_plain": [
+    "I know! And a good one!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B240_m_04",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 398254,
+   "b1": 440274,
+   "size": 4762558,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Then let me!",
+   "rows": [
+    "Then let me!"
+   ],
+   "rows_plain": [
+    "Then let me!"
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B240_m_05",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 440274,
+   "b1": 739226,
+   "size": 4762558,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Guard the delegates at the summit. I doubt the Snatchers have given up.",
+   "rows": [
+    "Guard the delegates at the",
+    "summit. I doubt the",
+    "Snatchers have given up."
+   ],
+   "rows_plain": [
+    "Guard the delegates at the summit. I",
+    "doubt the Snatchers have given up."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B240_m_07",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 739226,
+   "b1": 965740,
+   "size": 4762558,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "The summit's in Kyoto! I can't just run away!",
+   "rows": [
+    "The summit's in Kyoto! I",
+    "can't just run away!"
+   ],
+   "rows_plain": [
+    "The summit's in Kyoto! I can't just",
+    "run away!"
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B240_m_09",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 965740,
+   "b1": 1249082,
+   "size": 4762558,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Convince them not to drop a nuclear bomb on the city! We've found their hideout!",
+   "rows": [
+    "Convince them not to drop a",
+    "nuclear bomb on the city!",
+    "We've found their hideout!"
+   ],
+   "rows_plain": [
+    "Convince them not to drop a nuclear",
+    "bomb on the city! We've found their",
+    "hideout!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B240_m_10",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 1249082,
+   "b1": 1340328,
+   "size": 4762558,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "No need to sink the whole island!",
+   "rows": [
+    "No need to sink the whole",
+    "island!"
+   ],
+   "rows_plain": [
+    "No need to sink the whole island!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B240_m_12",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 1340328,
+   "b1": 1384750,
+   "size": 4762558,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "But...",
+   "rows": [
+    "But..."
+   ],
+   "rows_plain": [
+    "But..."
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B240_m_13",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 1384750,
+   "b1": 1564442,
+   "size": 4762558,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "It won't be easy. Can you do it?",
+   "rows": [
+    "It won't be easy. Can you do",
+    "it?"
+   ],
+   "rows_plain": [
+    "It won't be easy. Can you do it?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B240_m_14",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 1564442,
+   "b1": 1781750,
+   "size": 4762558,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "All right, Gillian. I'll find a way.",
+   "rows": [
+    "All right, Gillian. I'll",
+    "find a way."
+   ],
+   "rows_plain": [
+    "All right, Gillian. I'll find a way."
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B240_m_16",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 1781750,
+   "b1": 1942632,
+   "size": 4762558,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Thank you, Mika.",
+   "rows": [
+    "Thank you, Mika."
+   ],
+   "rows_plain": [
+    "Thank you, Mika."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B240_m_17",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 1942632,
+   "b1": 2072296,
+   "size": 4762558,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Don't say that.",
+   "rows": [
+    "Don't say that."
+   ],
+   "rows_plain": [
+    "Don't say that."
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B240_m_18",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 2072296,
+   "b1": 2274798,
+   "size": 4762558,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Come on. Let's go!",
+   "rows": [
+    "Come on. Let's go!"
+   ],
+   "rows_plain": [
+    "Come on. Let's go!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B240_m_19",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 2274798,
+   "b1": 2324024,
+   "size": 4762558,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Gillian!",
+   "rows": [
+    "Gillian!"
+   ],
+   "rows_plain": [
+    "Gillian!"
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B240_m_20",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 2324024,
+   "b1": 2528126,
+   "size": 4762558,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What?",
+   "rows": [
+    "What?"
+   ],
+   "rows_plain": [
+    "What?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B240_m_21",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 2528126,
+   "b1": 2588156,
+   "size": 4762558,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Well...",
+   "rows": [
+    "Well..."
+   ],
+   "rows_plain": [
+    "Well..."
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B240_m_22",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 2588156,
+   "b1": 2718622,
+   "size": 4762558,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What is it?",
+   "rows": [
+    "What is it?"
+   ],
+   "rows_plain": [
+    "What is it?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B240_m_23",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 2718622,
+   "b1": 2869898,
+   "size": 4762558,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "How about dinner sometime?",
+   "rows": [
+    "How about dinner sometime?"
+   ],
+   "rows_plain": [
+    "How about dinner sometime?"
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B240_m_24",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 2869898,
+   "b1": 2934732,
+   "size": 4762558,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Dinner?",
+   "rows": [
+    "Dinner?"
+   ],
+   "rows_plain": [
+    "Dinner?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B240_m_25",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 2934732,
+   "b1": 3144838,
+   "size": 4762558,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Yes. Dinner!",
+   "rows": [
+    "Yes. Dinner!"
+   ],
+   "rows_plain": [
+    "Yes. Dinner!"
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B240_m_27",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 3144838,
+   "b1": 3219274,
+   "size": 4762558,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Mika...",
+   "rows": [
+    "Mika..."
+   ],
+   "rows_plain": [
+    "Mika..."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B240_m_28",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 3219274,
+   "b1": 3531032,
+   "size": 4762558,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Why not? We can dress up. It's Christmas!",
+   "rows": [
+    "Why not? We can dress up.",
+    "It's Christmas!"
+   ],
+   "rows_plain": [
+    "Why not? We can dress up. It's",
+    "Christmas!"
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B240_m_30",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 3531032,
+   "b1": 3684710,
+   "size": 4762558,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Christmas. I'll be back by then.",
+   "rows": [
+    "Christmas. I'll be back by",
+    "then."
+   ],
+   "rows_plain": [
+    "Christmas. I'll be back by then."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B240_m_32",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 3684710,
+   "b1": 3831184,
+   "size": 4762558,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's hurry, Gillian!",
+   "rows": [
+    "Let's hurry, Gillian!"
+   ],
+   "rows_plain": [
+    "Let's hurry, Gillian!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B240_m_33",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 3831184,
+   "b1": 4124932,
+   "size": 4762558,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Promise me! It's a date!",
+   "rows": [
+    "Promise me! It's a date!"
+   ],
+   "rows_plain": [
+    "Promise me! It's a date!"
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B240_m_35",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 4124932,
+   "b1": 4420280,
+   "size": 4762558,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "All right! I'll go ahead and say a prayer.",
+   "rows": [
+    "All right! I'll go ahead and",
+    "say a prayer."
+   ],
+   "rows_plain": [
+    "All right! I'll go ahead and say a",
+    "prayer."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B240_m_37",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 4420280,
+   "b1": 4625184,
+   "size": 4762558,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "See you soon, Gillian!",
+   "rows": [
+    "See you soon, Gillian!"
+   ],
+   "rows_plain": [
+    "See you soon, Gillian!"
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B240_m_38",
+   "reel": 134,
+   "sdaif": "SDAIF_D4.AIF",
+   "rate": 30000,
+   "frames": 2381252,
+   "b0": 4625184,
+   "b1": 4762558,
+   "size": 4762558,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Let's go, Metal.",
+   "rows": [
+    "Let's go, Metal."
+   ],
+   "rows_plain": [
+    "Let's go, Metal."
+   ],
+   "enabled": true,
+   "face_char": 1
+  }
+ ]
+}

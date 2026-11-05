@@ -1,0 +1,1962 @@
+{
+ "file": "ISZ_B020.BIN",
+ "text_base": 7587,
+ "strings": [
+  {
+   "off": 7588,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 7592,
+   "budget": 27,
+   "en": "Please check the memory."
+  },
+  {
+   "off": 7619,
+   "budget": 57,
+   "en": "Debug: In factory area 3, you died.￥You're dead."
+  },
+  {
+   "off": 7676,
+   "budget": 39,
+   "en": "After Gibson checks, figure appears.",
+   "long": "A figure appears after you finish￥examining Gibson."
+  },
+  {
+   "off": 7715,
+   "budget": 37,
+   "en": "The factory ruins.￥What now?",
+   "long": "We've arrived at the factory ruins.￥What would you like to do?"
+  },
+  {
+   "off": 7752,
+   "budget": 11,
+   "en": "Get out",
+   "long": "Exit Tricycle"
+  },
+  {
+   "off": 7763,
+   "budget": 17,
+   "en": "JUNKER HQ"
+  },
+  {
+   "off": 7780,
+   "budget": 25,
+   "en": "Maybe head back to HQ?",
+   "long": "On second thought, shall we go back￥to HQ?"
+  },
+  {
+   "off": 7805,
+   "budget": 11,
+   "en": "Gillian's",
+   "long": "Gillian's home"
+  },
+  {
+   "off": 7816,
+   "budget": 39,
+   "en": "Jean is waiting. Let's hurry!"
+  },
+  {
+   "off": 7855,
+   "budget": 37,
+   "en": "Let's get to the scene, Gillian!"
+  },
+  {
+   "off": 7892,
+   "budget": 57,
+   "en": "The factory ruins.￥This is where Jean called from.",
+   "long": "We've arrived at the factory ruins.￥This is where Jean called from."
+  },
+  {
+   "off": 7949,
+   "budget": 65,
+   "en": "Gillian, that scream worries me.￥Let's get inside the plant.",
+   "long": "I'm worried about that scream,￥Gillian. Let's get inside the￥factory."
+  },
+  {
+   "off": 8014,
+   "budget": 41,
+   "en": "I'm worried about Jean. Let's hurry!"
+  },
+  {
+   "off": 8055,
+   "budget": 9,
+   "en": "Go in",
+   "long": "Go inside"
+  },
+  {
+   "off": 8064,
+   "budget": 71,
+   "en": "We're going in. Be ready to draw￥your Blaster at any moment!"
+  },
+  {
+   "off": 8135,
+   "budget": 93,
+   "en": "Press SELECT on the controller or￥the right mouse button to draw your￥Blaster."
+  },
+  {
+   "off": 8228,
+   "budget": 85,
+   "en": "＠黄We don't know what's ahead. Save￥your progress in case something￥happens."
+  },
+  {
+   "off": 8313,
+   "budget": 9,
+   "en": "Get in",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 8322,
+   "budget": 25,
+   "en": "Dangerous. Head back?",
+   "long": "Looks dangerous. Shall we go home?"
+  },
+  {
+   "off": 8347,
+   "budget": 55,
+   "en": "No! Jean should be waiting for us.￥Let's get moving."
+  },
+  {
+   "off": 8402,
+   "budget": 35,
+   "en": "Looks too scary. Shall we go home?",
+   "long": "It does look scary. Shall we go home￥after all?"
+  },
+  {
+   "off": 8437,
+   "budget": 61,
+   "en": "You're a JUNKER now. Pull yourself￥together!"
+  },
+  {
+   "off": 8498,
+   "budget": 25,
+   "en": "Are we really going in?"
+  },
+  {
+   "off": 8523,
+   "budget": 21,
+   "en": "Please, be brave!"
+  },
+  {
+   "off": 8544,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 8549,
+   "budget": 5,
+   "en": "Bldg",
+   "long": "Building"
+  },
+  {
+   "off": 8554,
+   "budget": 91,
+   "en": "An old plant, built back in the￥manned-factory era.￥Abandoned now, it seems.",
+   "long": "An old factory. Judging by the￥design, it dates from when factories￥still had human workers. It appears￥to be abandoned."
+  },
+  {
+   "off": 8645,
+   "budget": 25,
+   "en": "It's eerie here."
+  },
+  {
+   "off": 8670,
+   "budget": 3,
+   "en": "Sk",
+   "long": "Sky"
+  },
+  {
+   "off": 8673,
+   "budget": 37,
+   "en": "Storm clouds rushing past.",
+   "long": "The clouds are moving. It looks like￥a storm is coming."
+  },
+  {
+   "off": 8710,
+   "budget": 47,
+   "en": "Stare away. Nothing's￥falling on us yet.",
+   "long": "Nothing will fall out of the sky, no￥matter how long you stare at it."
+  },
+  {
+   "off": 8757,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 8764,
+   "budget": 47,
+   "en": "A desolate place.￥Not a soul in sight.",
+   "long": "This place is run-down. There's no￥one in sight."
+  },
+  {
+   "off": 8811,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 8818,
+   "budget": 63,
+   "en": "It's badly decayed. Probably￥abandoned since last century.",
+   "long": "It's badly run-down. It was probably￥abandoned in the last century."
+  },
+  {
+   "off": 8881,
+   "budget": 27,
+   "en": "Nothing suspicious."
+  },
+  {
+   "off": 8908,
+   "budget": 33,
+   "en": "No suspicious figures around.",
+   "long": "I don't see anyone suspicious￥nearby."
+  },
+  {
+   "off": 8941,
+   "budget": 29,
+   "en": "Jean is inside after all."
+  },
+  {
+   "off": 8970,
+   "budget": 55,
+   "en": "Jean isn't out here. He must be￥inside."
+  },
+  {
+   "off": 9025,
+   "budget": 9,
+   "en": "Motion",
+   "long": "Motion detector"
+  },
+  {
+   "off": 9034,
+   "budget": 31,
+   "en": "Metal... any readings?",
+   "long": "Metal, are you picking up anything?"
+  },
+  {
+   "off": 9065,
+   "budget": 41,
+   "en": "Multiple signals inside￥the building.",
+   "long": "I'm detecting several moving objects￥inside the building."
+  },
+  {
+   "off": 9106,
+   "budget": 35,
+   "en": "I can't say more from out here...",
+   "long": "We'll have to go inside to find out￥more."
+  },
+  {
+   "off": 9141,
+   "budget": 57,
+   "en": "I can't tell much from here. We'll￥have to go inside."
+  },
+  {
+   "off": 9198,
+   "budget": 37,
+   "en": "I can't tell without going in.",
+   "long": "We won't know much until we go￥inside."
+  },
+  {
+   "off": 9235,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 9240,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 9255,
+   "budget": 13,
+   "en": "Videophone"
+  },
+  {
+   "off": 9268,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 9279,
+   "budget": 37,
+   "en": "I'll save your progress now."
+  },
+  {
+   "off": 9316,
+   "budget": 27,
+   "en": "We're inside the factory."
+  },
+  {
+   "off": 9343,
+   "budget": 47,
+   "en": "The place from Gibson's￥videophone call!",
+   "long": "This is the place we saw on Gibson's￥videophone call!"
+  },
+  {
+   "off": 9390,
+   "budget": 5,
+   "en": "Move"
+  },
+  {
+   "off": 9395,
+   "budget": 9,
+   "en": "Forward"
+  },
+  {
+   "off": 9404,
+   "budget": 9,
+   "en": "Go out"
+  },
+  {
+   "off": 9413,
+   "budget": 35,
+   "en": "The search isn't finished...",
+   "long": "We haven't finished investigating￥yet."
+  },
+  {
+   "off": 9448,
+   "budget": 29,
+   "en": "Let's search a bit longer.",
+   "long": "Let's keep investigating a little￥longer."
+  },
+  {
+   "off": 9477,
+   "budget": 41,
+   "en": "Leaving already?￥The case isn't done.",
+   "long": "Leaving already? We haven't finished￥the investigation."
+  },
+  {
+   "off": 9518,
+   "budget": 5,
+   "en": "Feet"
+  },
+  {
+   "off": 9523,
+   "budget": 53,
+   "en": "There's debris everywhere. Watch￥your step."
+  },
+  {
+   "off": 9576,
+   "budget": 3,
+   "en": "Wl",
+   "long": "Wall"
+  },
+  {
+   "off": 9579,
+   "budget": 35,
+   "en": "Pipes running in every direction.",
+   "long": "Pipes of some kind run all through￥here."
+  },
+  {
+   "off": 9614,
+   "budget": 5,
+   "en": "Roof"
+  },
+  {
+   "off": 9619,
+   "budget": 33,
+   "en": "The ceiling looks fragile too."
+  },
+  {
+   "off": 9652,
+   "budget": 35,
+   "en": "Terribly run down.￥A total ruin.",
+   "long": "It's badly damaged. A complete ruin."
+  },
+  {
+   "off": 9687,
+   "budget": 7,
+   "en": "Pipes"
+  },
+  {
+   "off": 9694,
+   "budget": 29,
+   "en": "Rusted through in places.",
+   "long": "Rust has weakened it in places."
+  },
+  {
+   "off": 9723,
+   "budget": 41,
+   "en": "None of my sensors can find￥anything."
+  },
+  {
+   "off": 9764,
+   "budget": 29,
+   "en": "Nothing of note here.",
+   "long": "There's nothing of interest in￥sight."
+  },
+  {
+   "off": 9793,
+   "budget": 41,
+   "en": "The concrete is at the￥end of its life.",
+   "long": "The concrete seems to be at the end￥of its life."
+  },
+  {
+   "off": 9834,
+   "budget": 43,
+   "en": "It may collapse any moment.￥Be careful.",
+   "long": "It could collapse at any moment. Be￥careful."
+  },
+  {
+   "off": 9877,
+   "budget": 23,
+   "en": "Nothing suspicious.",
+   "long": "There's nothing suspicious."
+  },
+  {
+   "off": 9900,
+   "budget": 29,
+   "en": "Where did the Snatcher go?"
+  },
+  {
+   "off": 9929,
+   "budget": 25,
+   "en": "Where's Gibson?"
+  },
+  {
+   "off": 9954,
+   "budget": 37,
+   "en": "＠赤Ow!＠白 I burned myself!"
+  },
+  {
+   "off": 9991,
+   "budget": 53,
+   "en": "Careful, please.￥The steam makes the surface hot.",
+   "long": "Be careful. The steam has made the￥surface very hot."
+  },
+  {
+   "off": 10044,
+   "budget": 45,
+   "en": "Steam is still coming out. Don't￥touch it."
+  },
+  {
+   "off": 10089,
+   "budget": 31,
+   "en": "Hey Metal. Any readings?",
+   "long": "Metal, are you picking up anything?"
+  },
+  {
+   "off": 10120,
+   "budget": 51,
+   "en": "No. We seem to be the only things￥moving."
+  },
+  {
+   "off": 10171,
+   "budget": 59,
+   "en": "Nothing is moving. That's strange.￥Where's Jean?"
+  },
+  {
+   "off": 10230,
+   "budget": 29,
+   "en": "Nothing so far."
+  },
+  {
+   "off": 10259,
+   "budget": 17,
+   "en": "No readings."
+  },
+  {
+   "off": 10276,
+   "budget": 15,
+   "en": "Huh?"
+  },
+  {
+   "off": 10291,
+   "budget": 67,
+   "en": "Wait. Something's moving! It's￥coming this way!"
+  },
+  {
+   "off": 10358,
+   "budget": 21,
+   "en": "What? Where?"
+  },
+  {
+   "off": 10379,
+   "budget": 43,
+   "en": "Straight ahead. Ten meters. Nine.￥Eight."
+  },
+  {
+   "off": 10422,
+   "budget": 21,
+   "en": "...7... 6..."
+  },
+  {
+   "off": 10443,
+   "budget": 31,
+   "en": "Impossible! I see nothing!",
+   "long": "That's impossible! I can't see￥anything!"
+  },
+  {
+   "off": 10474,
+   "budget": 31,
+   "en": "Five. Four. Three."
+  },
+  {
+   "off": 10505,
+   "budget": 37,
+   "en": "I've identified it. It's just a fly."
+  },
+  {
+   "off": 10542,
+   "budget": 5,
+   "en": "Hear",
+   "long": "Listen"
+  },
+  {
+   "off": 10547,
+   "budget": 27,
+   "en": "All I can hear is thunder."
+  },
+  {
+   "off": 10574,
+   "budget": 31,
+   "en": "Nothing but the thunder.",
+   "long": "I can't hear anything besides￥thunder."
+  },
+  {
+   "off": 10605,
+   "budget": 13,
+   "en": "Analysis"
+  },
+  {
+   "off": 10618,
+   "budget": 91,
+   "en": "＠赤Insectors! Fight back with your￥Blaster!＠Ｃ"
+  },
+  {
+   "off": 10709,
+   "budget": 23,
+   "en": "Motion signal... gone.",
+   "long": "The motion readings are gone."
+  },
+  {
+   "off": 10732,
+   "budget": 93,
+   "en": "Press SELECT on the controller or￥the right mouse button to draw your￥Blaster."
+  },
+  {
+   "off": 10825,
+   "budget": 59,
+   "en": "This isn't training.＠Ｃ"
+  },
+  {
+   "off": 10884,
+   "budget": 73,
+   "en": "I know. I've practiced in the￥Shooting range.＠Ｃ"
+  },
+  {
+   "off": 10957,
+   "budget": 29,
+   "en": "That was close, Gillian."
+  },
+  {
+   "off": 10986,
+   "budget": 35,
+   "en": "Yeah. I took five hits."
+  },
+  {
+   "off": 11021,
+   "budget": 29,
+   "en": "Damn. I took four hits."
+  },
+  {
+   "off": 11050,
+   "budget": 29,
+   "en": "Damn. I took three hits."
+  },
+  {
+   "off": 11079,
+   "budget": 25,
+   "en": "Gillian, you alright?",
+   "long": "Gillian, are you all right?"
+  },
+  {
+   "off": 11104,
+   "budget": 27,
+   "en": "Damn. I took two hits."
+  },
+  {
+   "off": 11131,
+   "budget": 27,
+   "en": "Damn. I took a hit."
+  },
+  {
+   "off": 11158,
+   "budget": 37,
+   "en": "First aid.￥Stopping the bleeding.",
+   "long": "I'll give you first aid, Gillian.￥First, I'll stop the bleeding."
+  },
+  {
+   "off": 11195,
+   "budget": 21,
+   "en": "Please, Metal."
+  },
+  {
+   "off": 11216,
+   "budget": 31,
+   "en": "...Bleeding stopped.￥Clean.",
+   "long": "The bleeding has stopped. I've￥disinfected the wound."
+  },
+  {
+   "off": 11247,
+   "budget": 33,
+   "en": "Junker's Blood and a painkiller.",
+   "long": "Now I'll give you Junker's Blood and￥a painkiller."
+  },
+  {
+   "off": 11280,
+   "budget": 45,
+   "en": "Now I'll inject the medical￥nanomachines."
+  },
+  {
+   "off": 11325,
+   "budget": 17,
+   "en": "Ugh!"
+  },
+  {
+   "off": 11342,
+   "budget": 15,
+   "en": "Whew."
+  },
+  {
+   "off": 11357,
+   "budget": 29,
+   "en": "That will hold for a while.",
+   "long": "You should be all right for a while￥now."
+  },
+  {
+   "off": 11386,
+   "budget": 33,
+   "en": "Close one... stay sharp.",
+   "long": "That was close. I'd better be￥careful."
+  },
+  {
+   "off": 11419,
+   "budget": 31,
+   "en": "Stopping the bleeding again.",
+   "long": "Gillian, I'll stop the bleeding￥again."
+  },
+  {
+   "off": 11450,
+   "budget": 17,
+   "en": "Whew!"
+  },
+  {
+   "off": 11467,
+   "budget": 47,
+   "en": "The nanomachines still work￥inside you.",
+   "long": "The nanomachines I injected are￥still treating you from inside."
+  },
+  {
+   "off": 11514,
+   "budget": 25,
+   "en": "You're fine for now.",
+   "long": "You're all right for now."
+  },
+  {
+   "off": 11539,
+   "budget": 25,
+   "en": "The danger isn't over.",
+   "long": "We're not out of danger yet."
+  },
+  {
+   "off": 11564,
+   "budget": 95,
+   "en": "＠赤Insectors! Fight back with your￥Blaster!＠Ｃ"
+  },
+  {
+   "off": 11659,
+   "budget": 63,
+   "en": "What's this? I'm picking up￥something near Little John."
+  },
+  {
+   "off": 11722,
+   "budget": 57,
+   "en": "I thought Little John had shut down￥completely."
+  },
+  {
+   "off": 11779,
+   "budget": 37,
+   "en": "Gibson worries me.￥Let's push on!",
+   "long": "I'm worried about Gibson. Let's keep￥moving!"
+  },
+  {
+   "off": 11816,
+   "budget": 65,
+   "en": "We don't know what's ahead. Proceed￥carefully."
+  },
+  {
+   "off": 11881,
+   "budget": 9,
+   "en": "Back"
+  },
+  {
+   "off": 11890,
+   "budget": 51,
+   "en": "Ceiling panels fell. Wiring￥hangs exposed.",
+   "long": "The ceiling panels have fallen,￥exposing the wiring."
+  },
+  {
+   "off": 11941,
+   "budget": 41,
+   "en": "There's a time bomb on Little John."
+  },
+  {
+   "off": 11982,
+   "budget": 61,
+   "en": "Little John's wreckage everywhere.￥It's terrible...",
+   "long": "Little John's remains are scattered￥everywhere. It's awful."
+  },
+  {
+   "off": 12043,
+   "budget": 51,
+   "en": "There's nothing unusual besides￥Little John."
+  },
+  {
+   "off": 12094,
+   "budget": 45,
+   "en": "The time bomb appears to be the only￥trap."
+  },
+  {
+   "off": 12139,
+   "budget": 59,
+   "en": "There's rubble everywhere. Nothing￥unusual in sight."
+  },
+  {
+   "off": 12198,
+   "budget": 15,
+   "en": "Little John"
+  },
+  {
+   "off": 12213,
+   "budget": 71,
+   "en": "＠黄Just to be safe, save frequently￥from now on.＠白"
+  },
+  {
+   "off": 12284,
+   "budget": 85,
+   "en": "＠黄Anything could happen. Save￥frequently from now on.＠白"
+  },
+  {
+   "off": 12369,
+   "budget": 63,
+   "en": "Come to think of it, I haven't￥saved since we arrived.",
+   "long": "Come to think of it, I haven't saved￥once since we got to the factory￥ruins."
+  },
+  {
+   "off": 12432,
+   "budget": 29,
+   "en": "It's a time bomb! Run!"
+  },
+  {
+   "off": 12461,
+   "budget": 75,
+   "en": "Oh, Little John. He's wrecked.￥There's no way to repair this."
+  },
+  {
+   "off": 12536,
+   "budget": 21,
+   "en": "Little John..."
+  },
+  {
+   "off": 12557,
+   "budget": 21,
+   "en": "They tore him apart.",
+   "long": "They really tore him apart."
+  },
+  {
+   "off": 12578,
+   "budget": 41,
+   "en": "Water is dripping from the￥sprinkler."
+  },
+  {
+   "off": 12619,
+   "budget": 29,
+   "en": "...The drips echo oddly.",
+   "long": "The dripping water makes a strange￥echo."
+  },
+  {
+   "off": 12648,
+   "budget": 37,
+   "en": "Nothing usable as evidence.",
+   "long": "I don't see anything we could use as￥evidence."
+  },
+  {
+   "off": 12685,
+   "budget": 45,
+   "en": "I can't find any of Little John's￥parts."
+  },
+  {
+   "off": 12730,
+   "budget": 35,
+   "en": "We seem to be the only ones here."
+  },
+  {
+   "off": 12765,
+   "budget": 53,
+   "en": "I hope we can recover Little John's￥memory."
+  },
+  {
+   "off": 12818,
+   "budget": 73,
+   "en": "Laser cannon scars.￥Most circuits burned through.",
+   "long": "There are signs of laser cannon￥fire. Most of his circuits are￥burned out."
+  },
+  {
+   "off": 12891,
+   "budget": 29,
+   "en": "He's shut down completely."
+  },
+  {
+   "off": 12920,
+   "budget": 73,
+   "en": "But his ＠赤memory＠白 might still be￥intact."
+  },
+  {
+   "off": 12993,
+   "budget": 49,
+   "en": "With Gibson gone, that memory￥is all we have.",
+   "long": "With Gibson dead, that memory is all￥we have to go on."
+  },
+  {
+   "off": 13042,
+   "budget": 61,
+   "en": "A navigator wouldn't leave its￥Runner for no good reason...",
+   "long": "A Navigator wouldn't leave his￥Runner without a very good reason."
+  },
+  {
+   "off": 13103,
+   "budget": 29,
+   "en": "Hurry, or Gibson's done for.",
+   "long": "Gibson's in danger. We have to￥hurry."
+  },
+  {
+   "off": 13132,
+   "budget": 27,
+   "en": "That figure inside. No...",
+   "long": "That figure back there. Could it be?"
+  },
+  {
+   "off": 13159,
+   "budget": 19,
+   "en": "Let's go and see.",
+   "long": "Let's go and check."
+  },
+  {
+   "off": 13178,
+   "budget": 9,
+   "en": "Memory"
+  },
+  {
+   "off": 13187,
+   "budget": 9,
+   "en": "Bomb",
+   "long": "Time bomb"
+  },
+  {
+   "off": 13196,
+   "budget": 63,
+   "en": "I can't defuse it! We need a bomb￥disposal team."
+  },
+  {
+   "off": 13259,
+   "budget": 21,
+   "en": "Let's get out, fast.",
+   "long": "Let's get out of here, quickly!"
+  },
+  {
+   "off": 13280,
+   "budget": 41,
+   "en": "All I can hear is the bomb's timer."
+  },
+  {
+   "off": 13321,
+   "budget": 45,
+   "en": "It's coming from Little John."
+  },
+  {
+   "off": 13366,
+   "budget": 33,
+   "en": "Let's look at Little John.",
+   "long": "Let's take a look at Little John."
+  },
+  {
+   "off": 13399,
+   "budget": 37,
+   "en": "I hear something like a timer.",
+   "long": "I can hear something that sounds￥like a timer."
+  },
+  {
+   "off": 13436,
+   "budget": 57,
+   "en": "Only the drips and Little John's￥shorting circuits.",
+   "long": "All I can hear is dripping water and￥Little John's circuits shorting out."
+  },
+  {
+   "off": 13493,
+   "budget": 45,
+   "en": "Quiet.￥Nothing but dripping water.",
+   "long": "It's quiet. Not a sound except￥dripping water."
+  },
+  {
+   "off": 13538,
+   "budget": 29,
+   "en": "There's nothing unusual."
+  },
+  {
+   "off": 13567,
+   "budget": 61,
+   "en": "Abandoned a long time.￥They should demolish it.",
+   "long": "It seems to have been abandoned for￥a long time. They should tear it￥down soon."
+  },
+  {
+   "off": 13628,
+   "budget": 33,
+   "en": "Even the graffiti is ancient.",
+   "long": "Even the graffiti on the walls is￥very old."
+  },
+  {
+   "off": 13661,
+   "budget": 41,
+   "en": "We're the only ones￥in this area.",
+   "long": "We seem to be the only ones in this￥area."
+  },
+  {
+   "off": 13702,
+   "budget": 25,
+   "en": "Ah! Someone's down!",
+   "long": "Look! Someone's lying on the ground."
+  },
+  {
+   "off": 13727,
+   "budget": 17,
+   "en": "It's a dead end."
+  },
+  {
+   "off": 13744,
+   "budget": 47,
+   "en": "A dead end? Then where did the￥Snatcher go?"
+  },
+  {
+   "off": 13791,
+   "budget": 27,
+   "en": "We can't get out this way!"
+  },
+  {
+   "off": 13818,
+   "budget": 19,
+   "en": "Only way is back.",
+   "long": "We'll have to go back."
+  },
+  {
+   "off": 13837,
+   "budget": 23,
+   "en": "Back to the entrance.",
+   "long": "Let's head back to the entrance."
+  },
+  {
+   "off": 13860,
+   "budget": 45,
+   "en": "No time.￥Let's get out of here!",
+   "long": "There's no time. We need to get out￥of here!"
+  },
+  {
+   "off": 13905,
+   "budget": 45,
+   "en": "Gillian! It's going to blow.￥Fall back!!",
+   "long": "Gillian! It's going to explode! Get￥out of here!"
+  },
+  {
+   "off": 13950,
+   "budget": 61,
+   "en": "We'll be dead if we waste any more￥time. Get out, Gillian!"
+  },
+  {
+   "off": 14011,
+   "budget": 83,
+   "en": "I hear something like a timer. Turn￥your TV volume all the way up."
+  },
+  {
+   "off": 14094,
+   "budget": 73,
+   "en": "Turn the TV volume to max.￥Something ticking, like a clock.",
+   "long": "Turn your TV volume all the way up.￥There's a sound like a clock￥ticking."
+  },
+  {
+   "off": 14167,
+   "budget": 25,
+   "en": "I can hear something."
+  },
+  {
+   "off": 14192,
+   "budget": 23,
+   "en": "I hear nothing..."
+  },
+  {
+   "off": 14215,
+   "budget": 53,
+   "en": "＠黄Try turning up your TV volume.＠白"
+  },
+  {
+   "off": 14268,
+   "budget": 23,
+   "en": "I hear nothing..."
+  },
+  {
+   "off": 14291,
+   "budget": 27,
+   "en": "Shh! There, you hear it?",
+   "long": "Shh! Listen. Can you hear it?"
+  },
+  {
+   "off": 14318,
+   "budget": 31,
+   "en": "Something crossed the passage!",
+   "long": "Something just crossed the passage￥up ahead!"
+  },
+  {
+   "off": 14349,
+   "budget": 29,
+   "en": "What on earth happened here?"
+  },
+  {
+   "off": 14378,
+   "budget": 61,
+   "en": "Let's examine Little John.￥He must have recorded something.",
+   "long": "Shall we examine Little John? He￥must have recorded something."
+  },
+  {
+   "off": 14439,
+   "budget": 25,
+   "en": "That navigator, then.",
+   "long": "That Navigator we saw earlier?"
+  },
+  {
+   "off": 14464,
+   "budget": 35,
+   "en": "Let's check Jean's belongings too."
+  },
+  {
+   "off": 14499,
+   "budget": 43,
+   "en": "Right. There might be a clue."
+  },
+  {
+   "off": 14542,
+   "budget": 45,
+   "en": "Gillian! Hurry! Let's follow that￥figure!"
+  },
+  {
+   "off": 14587,
+   "budget": 69,
+   "en": "Where are you going?￥The Snatcher-like shadow went￥the other way.",
+   "long": "Where are you going? That figure we￥thought was a Snatcher went the￥other way."
+  },
+  {
+   "off": 14656,
+   "budget": 29,
+   "en": "Running away, Gillian??",
+   "long": "Are you running away, Gillian?"
+  },
+  {
+   "off": 14685,
+   "budget": 5,
+   "en": "Body",
+   "long": "Corpse"
+  },
+  {
+   "off": 14690,
+   "budget": 55,
+   "en": "Gibson... the ace of aces,￥taken this easily...",
+   "long": "Gibson. Everyone said he was one of￥the best. How could they kill him so￥easily?"
+  },
+  {
+   "off": 14745,
+   "budget": 45,
+   "en": "The enemy could still be hiding￥nearby."
+  },
+  {
+   "off": 14790,
+   "budget": 37,
+   "en": "I never thought we'd meet like this."
+  },
+  {
+   "off": 14827,
+   "budget": 29,
+   "en": "For Jean to be killed...",
+   "long": "I can't believe they got Jean."
+  },
+  {
+   "off": 14856,
+   "budget": 3,
+   "en": "Pp",
+   "long": "The man"
+  },
+  {
+   "off": 14859,
+   "budget": 15,
+   "en": "Jean!"
+  },
+  {
+   "off": 14874,
+   "budget": 65,
+   "en": "Jean? Th-this is Gibson?! His head's￥been twisted off."
+  },
+  {
+   "off": 14939,
+   "budget": 5,
+   "en": "Grnd",
+   "long": "Ground"
+  },
+  {
+   "off": 14944,
+   "budget": 37,
+   "en": "Oh!￥A Blaster on the ground.",
+   "long": "Look! There's a Blaster on the￥ground."
+  },
+  {
+   "off": 14981,
+   "budget": 31,
+   "en": "I don't see anything else."
+  },
+  {
+   "off": 15012,
+   "budget": 45,
+   "en": "Signs of a struggle, but￥hard to make out.",
+   "long": "There are signs of a struggle on the￥ground, but I can't make them out."
+  },
+  {
+   "off": 15057,
+   "budget": 11,
+   "en": "Blaster"
+  },
+  {
+   "off": 15068,
+   "budget": 47,
+   "en": "It's been crushed flat.￥Tremendous force.",
+   "long": "It's been crushed flat. That took￥incredible strength."
+  },
+  {
+   "off": 15115,
+   "budget": 43,
+   "en": "The Blaster's been bent like taffy."
+  },
+  {
+   "off": 15158,
+   "budget": 5,
+   "en": "Key"
+  },
+  {
+   "off": 15163,
+   "budget": 33,
+   "en": "That's quite an antique."
+  },
+  {
+   "off": 15196,
+   "budget": 7,
+   "en": "Scrap",
+   "long": "Scrap of paper"
+  },
+  {
+   "off": 15203,
+   "budget": 55,
+   "en": "What does ＠赤\"Search the house!\"＠白 mean?"
+  },
+  {
+   "off": 15258,
+   "budget": 9,
+   "en": "Gibson"
+  },
+  {
+   "off": 15267,
+   "budget": 49,
+   "en": "I examined the whole body￥and recorded it all.",
+   "long": "I've examined the whole body and￥recorded everything on video."
+  },
+  {
+   "off": 15316,
+   "budget": 51,
+   "en": "Look, something in Jean's￥＠赤right hand＠白.",
+   "long": "Look! Jean's holding something in￥his ＠赤right hand＠白."
+  },
+  {
+   "off": 15367,
+   "budget": 17,
+   "en": "He's still warm."
+  },
+  {
+   "off": 15384,
+   "budget": 33,
+   "en": "That scream must have been him.",
+   "long": "That scream we heard must have been￥his."
+  },
+  {
+   "off": 15417,
+   "budget": 59,
+   "en": "Neck wrung through.￥Instant death. Terrible force...",
+   "long": "His head's been twisted off. He￥probably died instantly. That took￥incredible strength."
+  },
+  {
+   "off": 15476,
+   "budget": 5,
+   "en": "Wear",
+   "long": "Clothes"
+  },
+  {
+   "off": 15481,
+   "budget": 55,
+   "en": "Oh?￥Candy, from his pocket.￥What's this?",
+   "long": "Oh? There's candy in his pocket.￥What's it doing here?"
+  },
+  {
+   "off": 15536,
+   "budget": 47,
+   "en": ".....￥For the children at￥the orphanage.",
+   "long": "He was going to give it to the￥children at the orphanage."
+  },
+  {
+   "off": 15583,
+   "budget": 21,
+   "en": "...What shall we do?",
+   "long": "What should we do with it?"
+  },
+  {
+   "off": 15604,
+   "budget": 29,
+   "en": "We'll keep it.￥A memento.",
+   "long": "Let's keep it. Something to remember￥him by."
+  },
+  {
+   "off": 15633,
+   "budget": 45,
+   "en": "There's no more evidence in his￥clothes."
+  },
+  {
+   "off": 15678,
+   "budget": 49,
+   "en": "Oh? A ＠赤paper scrap＠白￥in his inner pocket.",
+   "long": "Oh? There's a ＠赤piece of paper＠白 in his￥inside pocket."
+  },
+  {
+   "off": 15727,
+   "budget": 41,
+   "en": "There's a ＠赤key＠白 in his pocket."
+  },
+  {
+   "off": 15768,
+   "budget": 5,
+   "en": "Hand",
+   "long": "Right hand"
+  },
+  {
+   "off": 15773,
+   "budget": 49,
+   "en": "＠赤Hair＠白. He's holding several strands."
+  },
+  {
+   "off": 15822,
+   "budget": 71,
+   "en": "...And under the nails, ＠赤skin￥tissue＠白, likely the killer's.",
+   "long": "There's also ＠赤skin tissue＠白 under his￥fingernails. It probably belongs to￥the killer."
+  },
+  {
+   "off": 15893,
+   "budget": 5,
+   "en": "Hair"
+  },
+  {
+   "off": 15898,
+   "budget": 31,
+   "en": "That hair is already analyzed.",
+   "long": "I've already analyzed that hair."
+  },
+  {
+   "off": 15929,
+   "budget": 9,
+   "en": "Skin",
+   "long": "Skin tissue"
+  },
+  {
+   "off": 15938,
+   "budget": 35,
+   "en": "That tissue is already analyzed.",
+   "long": "I've already analyzed that skin￥tissue."
+  },
+  {
+   "off": 15973,
+   "budget": 57,
+   "en": "It's an old Blaster. It's definitely￥Jean's."
+  },
+  {
+   "off": 16030,
+   "budget": 51,
+   "en": "It's still warm. Looks like he fired￥a few shots."
+  },
+  {
+   "off": 16081,
+   "budget": 7,
+   "en": "Waste",
+   "long": "Residue"
+  },
+  {
+   "off": 16088,
+   "budget": 33,
+   "en": "That waste is already analyzed.",
+   "long": "I've already analyzed that residue."
+  },
+  {
+   "off": 16121,
+   "budget": 79,
+   "en": "What's this key for? Does anyone￥still use keys like this?"
+  },
+  {
+   "off": 16200,
+   "budget": 27,
+   "en": "Written on plain paper.",
+   "long": "It's written on ordinary paper."
+  },
+  {
+   "off": 16227,
+   "budget": 27,
+   "en": "...There's no reading now.",
+   "long": "I'm not picking up anything now."
+  },
+  {
+   "off": 16254,
+   "budget": 19,
+   "en": "What was that?",
+   "long": "What was that earlier?"
+  },
+  {
+   "off": 16273,
+   "budget": 31,
+   "en": "A reading, I'm certain...",
+   "long": "I definitely picked up something."
+  },
+  {
+   "off": 16304,
+   "budget": 29,
+   "en": "...The signal's gone silent.",
+   "long": "I'm not getting a reading now."
+  },
+  {
+   "off": 16333,
+   "budget": 21,
+   "en": "Shall we check?"
+  },
+  {
+   "off": 16354,
+   "budget": 89,
+   "en": "Was there more than one killer?￥Gibson said he'd cornered a male￥Snatcher."
+  },
+  {
+   "off": 16443,
+   "budget": 63,
+   "en": "Bending a Blaster like this takes￥more than human strength."
+  },
+  {
+   "off": 16506,
+   "budget": 29,
+   "en": "It's a Snatcher after all.",
+   "long": "It must have been a Snatcher."
+  },
+  {
+   "off": 16535,
+   "budget": 47,
+   "en": "Metal, let's keep this key as￥evidence."
+  },
+  {
+   "off": 16582,
+   "budget": 31,
+   "en": "All right. I'll keep the key."
+  },
+  {
+   "off": 16613,
+   "budget": 53,
+   "en": "It might be Gibson's ＠赤dying￥message＠白.",
+   "long": "It could be Gibson's ＠赤last message￥before he died＠白."
+  },
+  {
+   "off": 16666,
+   "budget": 47,
+   "en": "Metal, let's keep this note as￥evidence."
+  },
+  {
+   "off": 16713,
+   "budget": 33,
+   "en": "I'll keep the paper scrap, then.",
+   "long": "All right. I'll keep the piece of￥paper."
+  },
+  {
+   "off": 16746,
+   "budget": 5,
+   "en": "Fwd.",
+   "long": "Forward"
+  },
+  {
+   "off": 16751,
+   "budget": 45,
+   "en": "Blocked by rubble.￥We can't go further.",
+   "long": "It's blocked by rubble. We can't go￥any farther."
+  },
+  {
+   "off": 16796,
+   "budget": 5,
+   "en": "Dirt"
+  },
+  {
+   "off": 16801,
+   "budget": 25,
+   "en": "Tens of tons of it.",
+   "long": "There must be tens of tons of it."
+  },
+  {
+   "off": 16826,
+   "budget": 41,
+   "en": "Seems it's been this way￥for ages.",
+   "long": "It looks like it's been this way for￥a long time."
+  },
+  {
+   "off": 16867,
+   "budget": 31,
+   "en": "I don't see an exit anywhere."
+  },
+  {
+   "off": 16898,
+   "budget": 41,
+   "en": "No gap a person could￥pass through.",
+   "long": "I don't see any gap big enough for a￥person to get through."
+  },
+  {
+   "off": 16939,
+   "budget": 31,
+   "en": "There's no way we can move it.",
+   "long": "There's no way we could move it."
+  },
+  {
+   "off": 16970,
+   "budget": 37,
+   "en": "Strange... where'd the￥Snatcher go?",
+   "long": "This is strange. Where did the￥Snatcher go?"
+  },
+  {
+   "off": 17007,
+   "budget": 33,
+   "en": "It fled in here, right?",
+   "long": "It definitely came this way, didn't￥it?"
+  },
+  {
+   "off": 17040,
+   "budget": 5,
+   "en": "Exit"
+  },
+  {
+   "off": 17045,
+   "budget": 59,
+   "en": "No exit at all. Unless the￥enemy turned liquid...",
+   "long": "I still don't see a way out. Unless￥the enemy's made of liquid."
+  },
+  {
+   "off": 17104,
+   "budget": 51,
+   "en": "The sensor won't work through this￥much rubble."
+  },
+  {
+   "off": 17155,
+   "budget": 31,
+   "en": "Gillian, are you all right?"
+  },
+  {
+   "off": 17186,
+   "budget": 15,
+   "en": "You alright?",
+   "long": "Are you all right?"
+  },
+  {
+   "off": 17201,
+   "budget": 15,
+   "en": "Take care..."
+  },
+  {
+   "off": 17216,
+   "budget": 57,
+   "en": "What's wrong with me? I was fine a￥moment ago."
+  },
+  {
+   "off": 17273,
+   "budget": 39,
+   "en": "Odd?￥Did I catch a chill...",
+   "long": "That's strange. Did I get a chill in￥my sleep?"
+  },
+  {
+   "off": 17312,
+   "budget": 27,
+   "en": "...Caught a cold, maybe?",
+   "long": "Am I coming down with a cold?"
+  },
+  {
+   "off": 17339,
+   "budget": 17,
+   "en": "Quiet, please."
+  },
+  {
+   "off": 17356,
+   "budget": 23,
+   "en": "What's wrong, Metal?"
+  },
+  {
+   "off": 17379,
+   "budget": 73,
+   "en": "Are my sensors malfunctioning? I can￥hear something in the distance."
+  },
+  {
+   "off": 17452,
+   "budget": 25,
+   "en": "Gillian, you hear it?",
+   "long": "Gillian, can you hear it?"
+  },
+  {
+   "off": 17477,
+   "budget": 43,
+   "en": "Odd. My ears just cut out!",
+   "long": "Something's wrong. Suddenly I can't￥hear!"
+  },
+  {
+   "off": 17520,
+   "budget": 31,
+   "en": "A pressure change, perhaps?",
+   "long": "Could it be a change in air￥pressure?"
+  },
+  {
+   "off": 17551,
+   "budget": 21,
+   "en": "Forward, then.",
+   "long": "Moving forward, then."
+  },
+  {
+   "off": 17572,
+   "budget": 21,
+   "en": "Moving back, then."
+  },
+  {
+   "off": 17593,
+   "budget": 31,
+   "en": "Hey Metal, any readings?",
+   "long": "Metal, are you picking up anything?"
+  },
+  {
+   "off": 17624,
+   "budget": 27,
+   "en": "Metal, sensor readings?",
+   "long": "Metal, anything on your sensors?"
+  },
+  {
+   "off": 17651,
+   "budget": 29,
+   "en": "No... nothing's registering.",
+   "long": "No, I'm not picking up anything."
+  },
+  {
+   "off": 17680,
+   "budget": 41,
+   "en": "Listen. There's a sound like a￥timer."
+  },
+  {
+   "off": 17721,
+   "budget": 33,
+   "en": "It's eerily quiet."
+  },
+  {
+   "off": 17754,
+   "budget": 25,
+   "en": "I can't hear anything."
+  },
+  {
+   "off": 17779,
+   "budget": 45,
+   "en": "Sorry, Gillian.￥The signal is unstable.",
+   "long": "Sorry, Gillian. I can't get a stable￥signal."
+  },
+  {
+   "off": 17824,
+   "budget": 21,
+   "en": "Why not, Metal?"
+  },
+  {
+   "off": 17845,
+   "budget": 49,
+   "en": "I suspect it's the ＠黄Snow Cedar＠白￥effect."
+  },
+  {
+   "off": 17894,
+   "budget": 15,
+   "en": "Snow Cedar?"
+  },
+  {
+   "off": 17909,
+   "budget": 37,
+   "en": "A new pollen that jams￥radio waves.",
+   "long": "It's a new type of pollen that￥interferes with radio signals."
+  },
+  {
+   "off": 17946,
+   "budget": 35,
+   "en": "I can't transmit from this area."
+  },
+  {
+   "off": 17981,
+   "budget": 49,
+   "en": "No videophone here,￥thanks to the snow cedar.",
+   "long": "The Snow Cedar effect is blocking￥the videophone."
+  },
+  {
+   "off": 18030,
+   "budget": 41,
+   "en": "Then how was Gibson able to call us?"
+  },
+  {
+   "off": 18071,
+   "budget": 55,
+   "en": "The pollen density must have￥risen since then.",
+   "long": "The concentration of Snow Cedar￥pollen must have risen since then."
+  },
+  {
+   "off": 18126,
+   "budget": 67,
+   "en": "The Snatchers may be spreading Snow￥Cedar pollen."
+  },
+  {
+   "off": 18193,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 18208,
+   "budget": 71,
+   "en": "This ID card proves you have full￥JUNKER authority. Keep it safe."
+  },
+  {
+   "off": 18279,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 18286,
+   "budget": 35,
+   "en": "It's the money JUNKER gave you."
+  },
+  {
+   "off": 18321,
+   "budget": 5,
+   "en": "Cndy",
+   "long": "Candy"
+  },
+  {
+   "off": 18326,
+   "budget": 35,
+   "en": "It's the candy from Jean's pocket."
+  },
+  {
+   "off": 18361,
+   "budget": 7,
+   "en": "Proof",
+   "long": "Evidence"
+  },
+  {
+   "off": 18368,
+   "budget": 45,
+   "en": "\"Search the house!\" What does that￥mean?"
+  },
+  {
+   "off": 18413,
+   "budget": 67,
+   "en": "It has a built-in chip containing￥all your data, Gillian."
+  },
+  {
+   "off": 18480,
+   "budget": 49,
+   "en": "Expenses are covered as￥the case requires.",
+   "long": "As a rule, JUNKER covers all￥necessary investigation expenses,￥with no spending limit."
+  },
+  {
+   "off": 18529,
+   "budget": 45,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "long": "It's the candy Jean gave to children￥at the orphanage."
+  },
+  {
+   "off": 18574,
+   "budget": 55,
+   "en": "Plain paper. It's certainly￥Jean's handwriting.",
+   "long": "It's written on ordinary paper.￥That's definitely Jean's￥handwriting."
+  },
+  {
+   "off": 18629,
+   "budget": 85,
+   "en": "What's this key for? Does anyone￥still use keys like this?"
+  },
+  {
+   "off": 18714,
+   "budget": 45,
+   "en": "Well, I don't think you'll need it￥here."
+  },
+  {
+   "off": 18759,
+   "budget": 23,
+   "en": "What could it mean?"
+  },
+  {
+   "off": 18782,
+   "budget": 67,
+   "en": "Jean liked riddles. There must be￥some meaning behind it."
+  },
+  {
+   "off": 18849,
+   "budget": 21,
+   "en": "A message?"
+  },
+  {
+   "off": 18870,
+   "budget": 25,
+   "en": "I wonder what it opens."
+  },
+  {
+   "off": 18895,
+   "budget": 59,
+   "en": "Public facilities don't use keys￥like this anymore."
+  },
+  {
+   "off": 18954,
+   "budget": 41,
+   "en": "Then it must be Gibson's personal￥key?"
+  },
+  {
+   "off": 18995,
+   "budget": 49,
+   "en": "Looking into Jean's life may￥tell us something.",
+   "long": "We might learn something by looking￥into Jean's personal life."
+  },
+  {
+   "off": 19044,
+   "budget": 17,
+   "en": "L.J. memory",
+   "long": "Little John's memory"
+  },
+  {
+   "off": 19061,
+   "budget": 43,
+   "en": "I can't analyze the memory."
+  },
+  {
+   "off": 19104,
+   "budget": 97,
+   "en": "We must play it back at HQ to know.￥Let's hope something survived￥in there.",
+   "long": "We'll have to play it back at￥headquarters to find out what's on￥it. Let's hope something survived."
+  },
+  {
+   "off": 19201,
+   "budget": 49,
+   "en": "I've analyzed the hair found in￥Jean's hand."
+  },
+  {
+   "off": 19250,
+   "budget": 89,
+   "en": "appears to belong to a Snatcher of￥European descent, male, blood type￥A, Rh negative.",
+   "long": "It probably came from a Snatcher￥posing as a European male with type￥A negative blood."
+  },
+  {
+   "off": 19339,
+   "budget": 53,
+   "en": "The tissue under Jean's nails.￥Analysis says...",
+   "long": "I've analyzed the skin found under￥Jean's fingernails."
+  },
+  {
+   "off": 19392,
+   "budget": 89,
+   "en": "European female.￥Blood type O, Rh negative.￥A Snatcher's, most likely.",
+   "long": "It probably came from a Snatcher￥posing as a European female with￥type O negative blood."
+  },
+  {
+   "off": 19481,
+   "budget": 51,
+   "en": "Jean's stomach contents.￥Analysis says...",
+   "long": "I've analyzed the residue found in￥Jean's stomach."
+  },
+  {
+   "off": 19532,
+   "budget": 47,
+   "en": "Whale meat, eaten about￥three hours before.",
+   "long": "It was probably whale meat, eaten￥about three hours earlier."
+  },
+  {
+   "off": 19579,
+   "budget": 81,
+   "en": "That means Jean ate whale meat￥somewhere three hours before he was￥killed."
+  },
+  {
+   "off": 19660,
+   "budget": 11,
+   "en": "Metal?!"
+  },
+  {
+   "off": 19671,
+   "budget": 19,
+   "en": "Answer me!"
+  },
+  {
+   "off": 19690,
+   "budget": 21,
+   "en": "Where are you?!",
+   "long": "Metal, where are you?"
+  },
+  {
+   "off": 19711,
+   "budget": 17,
+   "en": "I'm right here."
+  },
+  {
+   "off": 19728,
+   "budget": 23,
+   "en": "What's going on?"
+  },
+  {
+   "off": 19751,
+   "budget": 27,
+   "en": "You died on duty.",
+   "long": "You were killed in the line of duty."
+  },
+  {
+   "off": 19778,
+   "budget": 17,
+   "en": "That's absurd!?",
+   "long": "That's impossible!"
+  },
+  {
+   "off": 19795,
+   "budget": 21,
+   "en": "Am I really dead?"
+  },
+  {
+   "off": 19816,
+   "budget": 25,
+   "en": "Yes. You really are."
+  },
+  {
+   "off": 19841,
+   "budget": 43,
+   "en": "No. I can't die here."
+  },
+  {
+   "off": 19884,
+   "budget": 13,
+   "en": "......"
+  },
+  {
+   "off": 19897,
+   "budget": 9,
+   "en": "Metal?"
+  },
+  {
+   "off": 19906,
+   "budget": 19,
+   "en": "........."
+  },
+  {
+   "off": 19925,
+   "budget": 21,
+   "en": "All right."
+  },
+  {
+   "off": 19946,
+   "budget": 21,
+   "en": "So, I'm saved?",
+   "long": "Then you can save me?"
+  },
+  {
+   "off": 19967,
+   "budget": 17,
+   "en": "Just this once."
+  },
+  {
+   "off": 19984,
+   "budget": 23,
+   "en": "I owe you one, Metal!"
+  },
+  {
+   "off": 20007,
+   "budget": 41,
+   "en": "Honestly. You haven't even saved."
+  },
+  {
+   "off": 20048,
+   "budget": 33,
+   "en": "I saved outside the factory."
+  },
+  {
+   "off": 20081,
+   "budget": 47,
+   "en": "That won't do.￥Anything can happen, any time.",
+   "long": "That's not enough. You never know￥what might happen."
+  },
+  {
+   "off": 20128,
+   "budget": 29,
+   "en": "You need to save regularly."
+  },
+  {
+   "off": 20157,
+   "budget": 31,
+   "en": "The case had all my attention.",
+   "long": "I get caught up in the￥investigation."
+  },
+  {
+   "off": 20188,
+   "budget": 57,
+   "en": "From now on, save properly so this￥doesn't repeat.",
+   "long": "Save properly from now on so this￥doesn't happen again."
+  },
+  {
+   "off": 20245,
+   "budget": 11,
+   "en": "All right."
+  },
+  {
+   "off": 20256,
+   "budget": 27,
+   "en": "So now I've died once too.",
+   "long": "Now I can say I've had a near-death￥experience."
+  },
+  {
+   "off": 20283,
+   "budget": 27,
+   "en": "Let's go back, then."
+  },
+  {
+   "off": 20310,
+   "budget": 13,
+   "en": "Continue"
+  },
+  {
+   "off": 20323,
+   "budget": 31,
+   "en": "Then... we continue the case.",
+   "long": "Let's continue the investigation."
+  },
+  {
+   "off": 20354,
+   "budget": 13,
+   "en": "Quit game"
+  },
+  {
+   "off": 20367,
+   "budget": 33,
+   "en": "Let's end the investigation."
+  },
+  {
+   "off": 20402,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

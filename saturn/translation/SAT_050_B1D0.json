@@ -1,0 +1,2024 @@
+{
+ "file": "DATA.BIN[50]",
+ "entry": 50,
+ "text_base": 4287,
+ "twins": [
+  "B1D0"
+ ],
+ "strings": [
+  {
+   "off": 4287,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 4292,
+   "budget": 25,
+   "en": "Outside Outer Heaven.",
+   "src": "B1D0:3969",
+   "carry": "exact",
+   "long": "We're outside Outer Heaven."
+  },
+  {
+   "off": 4317,
+   "budget": 5,
+   "en": "Look",
+   "src": "B1D0:3994",
+   "carry": "exact"
+  },
+  {
+   "off": 4322,
+   "budget": 9,
+   "en": "Barker",
+   "src": "B1D0:3999",
+   "carry": "exact"
+  },
+  {
+   "off": 4331,
+   "budget": 41,
+   "en": "The werewolf-masked barker￥from before.",
+   "src": "B1D0:4008",
+   "carry": "candidate_ok",
+   "en_candidate": "The werewolf-masked barker￥from before.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "It's the doorman in the werewolf￥mask from before."
+  },
+  {
+   "off": 4372,
+   "budget": 61,
+   "en": "He's wearing a mask, so I can't tell￥if he's the same man.",
+   "src": "B1D0:4051",
+   "carry": "candidate_ok",
+   "en_candidate": "He's wearing a mask, so I can't tell￥if he's the same man.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 4433,
+   "budget": 73,
+   "en": "A mask that detailed has to be￥molded to fit. It's the same￥doorman.",
+   "src": "B1D0:4112",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4506,
+   "budget": 59,
+   "en": "Looking at his mask won't tell us if￥he's Napoleon.",
+   "src": "B1D0:4183",
+   "carry": "exact"
+  },
+  {
+   "off": 4565,
+   "budget": 7,
+   "en": "Around",
+   "src": "B1D0:4242",
+   "carry": "exact"
+  },
+  {
+   "off": 4572,
+   "budget": 57,
+   "en": "It doesn't seem to be costume time￥right now.",
+   "src": "B1D0:4249",
+   "carry": "candidate_ok",
+   "en_candidate": "It doesn't seem to be costume time￥right now.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 4629,
+   "budget": 37,
+   "en": "It's as lively as ever around here.",
+   "src": "B1D0:4308",
+   "carry": "exact"
+  },
+  {
+   "off": 4666,
+   "budget": 7,
+   "en": "Check",
+   "src": "B1D0:4345",
+   "carry": "exact",
+   "long": "Investigate"
+  },
+  {
+   "off": 4673,
+   "budget": 23,
+   "en": "You're Napoleon!",
+   "src": "B1D0:4352",
+   "carry": "exact"
+  },
+  {
+   "off": 4696,
+   "budget": 35,
+   "en": "Playing dumb... show yourself!",
+   "src": "B1D0:4375",
+   "carry": "exact",
+   "long": "Stop playing dumb! Show me who you￥really are!"
+  },
+  {
+   "off": 4731,
+   "budget": 27,
+   "en": "Stop! What's the idea!!",
+   "src": "B1D0:4410",
+   "carry": "rebroken",
+   "long": "Stop it! What are you doing?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4758,
+   "budget": 31,
+   "en": "Stop it... show me proof!",
+   "src": "B1D0:4435",
+   "carry": "exact",
+   "long": "Cut it out! Show me some proof!"
+  },
+  {
+   "off": 4789,
+   "budget": 27,
+   "en": "Enough wild accusations!",
+   "src": "B1D0:4466",
+   "carry": "exact",
+   "long": "Stop making crazy accusations!"
+  },
+  {
+   "off": 4816,
+   "budget": 47,
+   "en": "He's right.￥Let's prove it with our heads.",
+   "src": "B1D0:4493",
+   "carry": "exact",
+   "long": "He's right. Let's think of a way to￥prove it."
+  },
+  {
+   "off": 4863,
+   "budget": 37,
+   "en": "You're almost there. Think back.",
+   "src": "B1D0:4540",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4900,
+   "budget": 25,
+   "en": "Wait, could you be?",
+   "src": "B1D0:4575",
+   "carry": "exact"
+  },
+  {
+   "off": 4925,
+   "budget": 31,
+   "en": "What's the idea, suddenly!",
+   "src": "B1D0:4600",
+   "carry": "rebroken",
+   "long": "What are you doing? What's gotten￥into you?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4956,
+   "budget": 29,
+   "en": "Are you out of your mind?",
+   "src": "B1D0:4629",
+   "carry": "exact"
+  },
+  {
+   "off": 4985,
+   "budget": 37,
+   "en": "Stop that, or I'll call the bouncer.",
+   "src": "B1D0:4658",
+   "carry": "exact"
+  },
+  {
+   "off": 5022,
+   "budget": 49,
+   "en": "Christmas parties fill￥every place.",
+   "src": "B1D0:4695",
+   "carry": "rebroken",
+   "long": "All the clubs are full of Christmas￥and year-end parties.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5071,
+   "budget": 49,
+   "en": "A few drunks are crouched on the￥ground.",
+   "src": "B1D0:4742",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5120,
+   "budget": 69,
+   "en": "The world's full of problems.￥They're drinking to escape reality.",
+   "src": "B1D0:4789",
+   "carry": "exact"
+  },
+  {
+   "off": 5189,
+   "budget": 49,
+   "en": "...Gillian,￥man is a weak species...",
+   "src": "B1D0:4858",
+   "carry": "exact",
+   "long": "Humans are a fragile species, aren't￥they, Gillian?"
+  },
+  {
+   "off": 5238,
+   "budget": 43,
+   "en": "Aye.￥And they prey on that weakness...",
+   "src": "B1D0:4907",
+   "carry": "exact",
+   "long": "Yeah. And they take advantage of￥that weakness."
+  },
+  {
+   "off": 5281,
+   "budget": 7,
+   "en": "Mask",
+   "src": "B1D0:4950",
+   "carry": "exact"
+  },
+  {
+   "off": 5288,
+   "budget": 35,
+   "en": "Enough. Rip the mask off?",
+   "src": "B1D0:4957",
+   "carry": "rebroken",
+   "long": "This is a pain. Let's just pull his￥mask off.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5323,
+   "budget": 29,
+   "en": "Ow! What are you doing?",
+   "src": "B1D0:4990",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5352,
+   "budget": 47,
+   "en": "It won't come off.￥Bonded fast to the flesh.",
+   "src": "B1D0:5017",
+   "carry": "exact",
+   "long": "It won't come off. It's firmly glued￥to his skin."
+  },
+  {
+   "off": 5399,
+   "budget": 11,
+   "en": "Ouch!!",
+   "src": "B1D0:5064",
+   "carry": "exact",
+   "long": "That hurts!"
+  },
+  {
+   "off": 5410,
+   "budget": 73,
+   "en": "A special adhesive.￥Without solvent the skin￥comes away with it.",
+   "src": "B1D0:5075",
+   "carry": "rebroken",
+   "long": "It's a special adhesive. Without the￥proper solvent, his skin will come￥off too.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5483,
+   "budget": 45,
+   "en": "Right.￥Brute force... use your head.",
+   "src": "B1D0:5146",
+   "carry": "exact",
+   "long": "That's right. Quit throwing your￥weight around and use your head."
+  },
+  {
+   "off": 5528,
+   "budget": 5,
+   "en": "Talk",
+   "src": "B1D0:5191",
+   "carry": "exact"
+  },
+  {
+   "off": 5533,
+   "budget": 59,
+   "en": "You look a lot like someone I know.￥Could you be?",
+   "src": "B1D0:5196",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5592,
+   "budget": 19,
+   "en": "Napoleon?",
+   "src": "B1D0:5253",
+   "carry": "exact"
+  },
+  {
+   "off": 5611,
+   "budget": 69,
+   "en": "You're imagining things, sir. I￥don't know any Napoleon.",
+   "src": "B1D0:5272",
+   "carry": "exact"
+  },
+  {
+   "off": 5680,
+   "budget": 47,
+   "en": "I know it's you, Napoleon! Drop the￥act!",
+   "src": "B1D0:5341",
+   "carry": "exact"
+  },
+  {
+   "off": 5727,
+   "budget": 43,
+   "en": "You've got the wrong man, sir.",
+   "src": "B1D0:5388",
+   "carry": "exact"
+  },
+  {
+   "off": 5770,
+   "budget": 47,
+   "en": "Napoleon!?￥...What is it? Don't play!",
+   "src": "B1D0:5431",
+   "carry": "rebroken",
+   "long": "Napoleon! What's gotten into you?￥Quit fooling around!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5817,
+   "budget": 35,
+   "en": "I'm just a doorman.",
+   "src": "B1D0:5476",
+   "carry": "exact"
+  },
+  {
+   "off": 5852,
+   "budget": 11,
+   "en": "Press him",
+   "src": "B1D0:5511",
+   "carry": "exact"
+  },
+  {
+   "off": 5863,
+   "budget": 33,
+   "en": "You're Napoleon, aren't you?",
+   "src": "B1D0:5522",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5896,
+   "budget": 91,
+   "en": "It's all right. I guarantee￥your safety.￥So fear nothing.￥...Show yourself!",
+   "src": "B1D0:5553",
+   "carry": "exact",
+   "long": "It's all right. I'll guarantee your￥safety. There's nothing to worry￥about. Tell me who you are!"
+  },
+  {
+   "off": 5987,
+   "budget": 93,
+   "en": "This is getting tiresome. What proof￥do you have that I'm this Napoleon￥fellow?",
+   "src": "B1D0:5644",
+   "carry": "candidate_ok",
+   "en_candidate": "This is getting tiresome. What proof￥do you have that I'm this Napoleon￥fellow?",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 6080,
+   "budget": 35,
+   "en": "Go on, sir. Prove it.",
+   "src": "B1D0:5735",
+   "carry": "exact"
+  },
+  {
+   "off": 6115,
+   "budget": 13,
+   "en": "Proof...",
+   "src": "B1D0:5770",
+   "carry": "exact"
+  },
+  {
+   "off": 6128,
+   "budget": 35,
+   "en": "You say it without decent proof?",
+   "src": "B1D0:5783",
+   "carry": "exact",
+   "long": "You're saying that without any real￥proof?"
+  },
+  {
+   "off": 6163,
+   "budget": 35,
+   "en": "You're still not using your head.",
+   "src": "B1D0:5818",
+   "carry": "exact"
+  },
+  {
+   "off": 6198,
+   "budget": 35,
+   "en": "Well, think a little harder.",
+   "src": "B1D0:5853",
+   "carry": "exact"
+  },
+  {
+   "off": 6233,
+   "budget": 9,
+   "en": "Prove it",
+   "src": "B1D0:5888",
+   "carry": "exact",
+   "long": "Give proof"
+  },
+  {
+   "off": 6242,
+   "budget": 7,
+   "en": "Build",
+   "src": "B1D0:5897",
+   "carry": "exact",
+   "long": "Body type"
+  },
+  {
+   "off": 6249,
+   "budget": 37,
+   "en": "Yes, your height is the same.",
+   "src": "B1D0:5904",
+   "carry": "exact",
+   "long": "That's right. You're about the same￥height."
+  },
+  {
+   "off": 6286,
+   "budget": 47,
+   "en": "Same height.￥That short build's a giveaway!",
+   "src": "B1D0:5941",
+   "carry": "exact",
+   "long": "You're the same height. Being that￥short is hard to miss!"
+  },
+  {
+   "off": 6333,
+   "budget": 5,
+   "en": "Tone",
+   "src": "B1D0:5988",
+   "carry": "exact",
+   "long": "Voice"
+  },
+  {
+   "off": 6338,
+   "budget": 51,
+   "en": "Yes, the voice is alike.￥...Alike indeed.",
+   "src": "B1D0:5993",
+   "carry": "exact",
+   "long": "That's it. Your voice sounds like￥his. It really does."
+  },
+  {
+   "off": 6389,
+   "budget": 19,
+   "en": "Your voice is his.",
+   "src": "B1D0:6044",
+   "carry": "exact",
+   "long": "You have the same voice."
+  },
+  {
+   "off": 6408,
+   "budget": 47,
+   "en": "Want to try a voiceprint analysis,￥Metal?",
+   "src": "B1D0:6063",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6455,
+   "budget": 87,
+   "en": "Sadly I hold no voiceprint data for￥Napoleon.￥Sorry. Careless of me...",
+   "src": "B1D0:6108",
+   "carry": "candidate_ok",
+   "en_candidate": "Sadly I hold no voiceprint data for￥Napoleon.￥Sorry. Careless of me...",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "Unfortunately, I didn't record￥Napoleon's voiceprint. I'm sorry.￥That was careless."
+  },
+  {
+   "off": 6542,
+   "budget": 19,
+   "en": "Too bad for you.",
+   "src": "B1D0:6193",
+   "carry": "exact"
+  },
+  {
+   "off": 6561,
+   "budget": 11,
+   "en": "Accent",
+   "src": "B1D0:6212",
+   "carry": "exact"
+  },
+  {
+   "off": 6572,
+   "budget": 29,
+   "en": "Your speech is alike too.",
+   "src": "B1D0:6223",
+   "carry": "exact",
+   "long": "That's it. You talk like him too."
+  },
+  {
+   "off": 6601,
+   "budget": 31,
+   "en": "Speech and accent alike.",
+   "src": "B1D0:6252",
+   "carry": "exact",
+   "long": "Your accent and the way you speak￥are the same."
+  },
+  {
+   "off": 6632,
+   "budget": 5,
+   "en": "Ways",
+   "src": "B1D0:6283",
+   "carry": "exact",
+   "long": "Personality"
+  },
+  {
+   "off": 6637,
+   "budget": 47,
+   "en": "That suspicious nature.￥Just like him.",
+   "src": "B1D0:6288",
+   "carry": "exact",
+   "long": "That's it. You're just as suspicious￥as he is."
+  },
+  {
+   "off": 6684,
+   "budget": 35,
+   "en": "That's his nature exactly.",
+   "src": "B1D0:6335",
+   "carry": "exact",
+   "long": "You've got exactly the same￥personality."
+  },
+  {
+   "off": 6719,
+   "budget": 5,
+   "en": "Odor",
+   "src": "B1D0:6370",
+   "carry": "exact",
+   "long": "Smell"
+  },
+  {
+   "off": 6724,
+   "budget": 37,
+   "en": "Yes, that smell. Just like his.",
+   "src": "B1D0:6375",
+   "carry": "rebroken",
+   "long": "That's it. You smell just like him.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6761,
+   "budget": 49,
+   "en": "Huh? What did Napoleon smell like?",
+   "src": "B1D0:6410",
+   "carry": "candidate_ok",
+   "en_candidate": "Huh? What did Napoleon smell like?",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 6810,
+   "budget": 23,
+   "en": "Shut up! Keep quiet.",
+   "src": "B1D0:6461",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6833,
+   "budget": 29,
+   "en": "That smell... Napoleon.",
+   "src": "B1D0:6482",
+   "carry": "exact",
+   "long": "That body odor. You're Napoleon."
+  },
+  {
+   "off": 6862,
+   "budget": 9,
+   "en": "Sneeze",
+   "src": "B1D0:6511",
+   "carry": "exact"
+  },
+  {
+   "off": 6871,
+   "budget": 93,
+   "en": "That's it! That sneeze! Now I￥remember. Napoleon's allergic to￥pollen.",
+   "src": "B1D0:6520",
+   "carry": "exact"
+  },
+  {
+   "off": 6964,
+   "budget": 67,
+   "en": "All right, I'll let you off the￥hook. I was just teasing you.",
+   "src": "B1D0:6613",
+   "carry": "exact"
+  },
+  {
+   "off": 7031,
+   "budget": 71,
+   "en": "Good work, Gillian. You really are a￥JUNKER. Come on in!",
+   "src": "B1D0:6680",
+   "carry": "exact"
+  },
+  {
+   "off": 7102,
+   "budget": 15,
+   "en": "Use Metal Gear",
+   "src": "B1D0:6751",
+   "carry": "exact"
+  },
+  {
+   "off": 7117,
+   "budget": 11,
+   "en": "Save",
+   "src": "B1D0:6766",
+   "carry": "exact"
+  },
+  {
+   "off": 7128,
+   "budget": 37,
+   "en": "I'll save your progress now.",
+   "src": "B1D0:6777",
+   "carry": "exact"
+  },
+  {
+   "off": 7165,
+   "budget": 29,
+   "en": "That doesn't prove anything.",
+   "src": "B1D0:6814",
+   "carry": "exact"
+  },
+  {
+   "off": 7194,
+   "budget": 27,
+   "en": "Oh, really? So what?",
+   "src": "B1D0:6843",
+   "carry": "exact"
+  },
+  {
+   "off": 7221,
+   "budget": 31,
+   "en": "Huh. That's your reason?",
+   "src": "B1D0:6870",
+   "carry": "exact"
+  },
+  {
+   "off": 7252,
+   "budget": 27,
+   "en": "Select Deduce.",
+   "src": "B1D0:6901",
+   "carry": "exact"
+  },
+  {
+   "off": 7279,
+   "budget": 11,
+   "en": "Napoleon",
+   "src": "B1D0:6928",
+   "carry": "exact"
+  },
+  {
+   "off": 7290,
+   "budget": 41,
+   "en": "You look almost normal like this.",
+   "src": "B1D0:6939",
+   "carry": "exact"
+  },
+  {
+   "off": 7331,
+   "budget": 33,
+   "en": "Ordinary? What do you mean?",
+   "src": "B1D0:6980",
+   "carry": "exact",
+   "long": "Normal? What's that supposed to￥mean?"
+  },
+  {
+   "off": 7364,
+   "budget": 83,
+   "en": "That doorman outfit suits you.￥Better than the Santa suit, anyway.",
+   "src": "B1D0:7013",
+   "carry": "exact"
+  },
+  {
+   "off": 7447,
+   "budget": 17,
+   "en": "Mind your own!",
+   "src": "B1D0:7096",
+   "carry": "exact",
+   "long": "Mind your own business!"
+  },
+  {
+   "off": 7464,
+   "budget": 77,
+   "en": "It isn't cosplay time today.￥Don't gawk around.￥The guests dislike it.",
+   "src": "B1D0:7113",
+   "carry": "candidate_ok",
+   "en_candidate": "It isn't cosplay time today.￥Don't gawk around.￥The guests dislike it.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "It's not costume time today. Stop￥looking around so much. You're￥bothering the customers."
+  },
+  {
+   "off": 7541,
+   "budget": 49,
+   "en": "See? We do pretty well even without￥costumes.",
+   "src": "B1D0:7192",
+   "carry": "exact"
+  },
+  {
+   "off": 7590,
+   "budget": 31,
+   "en": "So Isabella's gone.",
+   "src": "B1D0:7241",
+   "carry": "exact"
+  },
+  {
+   "off": 7621,
+   "budget": 9,
+   "en": "Table",
+   "src": "B1D0:7272",
+   "carry": "exact"
+  },
+  {
+   "off": 7630,
+   "budget": 51,
+   "en": "Not synthetic timber.￥Costly, surprisingly.",
+   "src": "B1D0:7281",
+   "carry": "exact",
+   "long": "This isn't synthetic wood. It's￥surprisingly expensive."
+  },
+  {
+   "off": 7681,
+   "budget": 59,
+   "en": "This table will do.￥It's the club's biggest blind spot.",
+   "src": "B1D0:7332",
+   "carry": "exact",
+   "long": "We're safe at this table. It's the￥best hidden spot in the club."
+  },
+  {
+   "off": 7740,
+   "budget": 55,
+   "en": "Hey, enough with the suspicion. I'm￥the real thing!",
+   "src": "B1D0:7391",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 fewer breaks"
+  },
+  {
+   "off": 7795,
+   "budget": 41,
+   "en": "That suspicious, you'll￥lose friends.",
+   "src": "B1D0:7450",
+   "carry": "exact",
+   "long": "You'll lose your friends if you're￥that suspicious."
+  },
+  {
+   "off": 7836,
+   "budget": 47,
+   "en": "It's fine.￥No suspicious figures for now.",
+   "src": "B1D0:7491",
+   "carry": "exact",
+   "long": "It's all right. There's no one￥suspicious around so far."
+  },
+  {
+   "off": 7883,
+   "budget": 63,
+   "en": "With this crowd, we won't stand out.￥We can talk safely.",
+   "src": "B1D0:7538",
+   "carry": "candidate_ok",
+   "en_candidate": "With this crowd, we won't stand out.￥We can talk safely.",
+   "sim": 0.92
+  },
+  {
+   "off": 7946,
+   "budget": 53,
+   "en": "There are no listening devices.￥Don't worry.",
+   "src": "B1D0:7605",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7999,
+   "budget": 25,
+   "en": "Come on, trust me.",
+   "src": "B1D0:7656",
+   "carry": "exact"
+  },
+  {
+   "off": 8024,
+   "budget": 29,
+   "en": "No cameras either.",
+   "src": "B1D0:7681",
+   "carry": "exact",
+   "long": "There aren't any cameras either."
+  },
+  {
+   "off": 8053,
+   "budget": 5,
+   "en": "Ask",
+   "src": "B1D0:7710",
+   "carry": "exact"
+  },
+  {
+   "off": 8058,
+   "budget": 17,
+   "en": "His nationality",
+   "src": "B1D0:7715",
+   "carry": "exact"
+  },
+  {
+   "off": 8075,
+   "budget": 23,
+   "en": "You're Chinese, right?",
+   "src": "B1D0:7732",
+   "carry": "exact"
+  },
+  {
+   "off": 8098,
+   "budget": 77,
+   "en": "That's right, I'm pure Chinese. I￥only came to Kobe after I turned 20.",
+   "src": "B1D0:7755",
+   "carry": "rebroken",
+   "long": "That's right. I'm Chinese through￥and through. I didn't come to Kobe￥until I was over twenty.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8175,
+   "budget": 55,
+   "en": "The China I know is post-war,￥so no fond memories.",
+   "src": "B1D0:7830",
+   "carry": "exact",
+   "long": "The China I knew had already lost￥the war. I don't have many good￥memories."
+  },
+  {
+   "off": 8230,
+   "budget": 75,
+   "en": "The Catastrophe changed our whole￥lives. It was a terrible mistake.",
+   "src": "B1D0:7885",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8305,
+   "budget": 11,
+   "en": "The cipher",
+   "src": "B1D0:7958",
+   "carry": "exact",
+   "long": "Meaning of code"
+  },
+  {
+   "off": 8316,
+   "budget": 49,
+   "en": "How would you read ＠赤BENSON＠白 aloud?",
+   "src": "B1D0:7969",
+   "carry": "exact"
+  },
+  {
+   "off": 8365,
+   "budget": 61,
+   "en": "You'd pronounce ＠赤BENSON＠白 as ＠赤Benson＠白,￥right?",
+   "src": "B1D0:8018",
+   "carry": "exact"
+  },
+  {
+   "off": 8426,
+   "budget": 37,
+   "en": "What do you mean, Chinese￥symbols?",
+   "src": "B1D0:8079",
+   "carry": "exact",
+   "long": "What do you mean, Chinese symbols￥for elements?"
+  },
+  {
+   "off": 8463,
+   "budget": 89,
+   "en": "Leftmost is beryllium,￥next and last nitrogen,￥third sulphur, fourth oxygen.",
+   "src": "B1D0:8116",
+   "carry": "exact",
+   "long": "The first character is beryllium,￥the second and last are nitrogen,￥the third is sulfur, and the fourth￥is oxygen."
+  },
+  {
+   "off": 8552,
+   "budget": 55,
+   "en": "Beryllium, nitrogen, sulphur,￥oxygen... I have it!",
+   "src": "B1D0:8205",
+   "carry": "rebroken",
+   "long": "Beryllium, nitrogen, sulfur, oxygen.￥I'm getting it!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8607,
+   "budget": 49,
+   "en": "Gillian, let's deduce the name.",
+   "src": "B1D0:8258",
+   "carry": "rebroken",
+   "long": "Gillian, let's work out the name in￥this code.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8656,
+   "budget": 53,
+   "en": "Again.￥...These are Chinese element￥symbols.",
+   "src": "B1D0:8305",
+   "carry": "exact",
+   "long": "I'll say it again. These are Chinese￥symbols for chemical elements."
+  },
+  {
+   "off": 8709,
+   "budget": 87,
+   "en": "Leftmost is beryllium,￥next and last nitrogen,￥third sulphur, fourth oxygen.",
+   "src": "B1D0:8358",
+   "carry": "exact",
+   "long": "The first character is beryllium,￥the second and last are nitrogen,￥the third is sulfur, and the fourth￥is oxygen."
+  },
+  {
+   "off": 8796,
+   "budget": 57,
+   "en": "Beryllium, Nitrogen, Sulphur,￥Oxygen, Nitrogen.",
+   "src": "B1D0:8445",
+   "carry": "rebroken",
+   "long": "In order, they're beryllium,￥nitrogen, sulfur, oxygen, nitrogen.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8853,
+   "budget": 55,
+   "en": "A simple cipher of Chinese￥element symbols.",
+   "src": "B1D0:8500",
+   "carry": "rebroken",
+   "long": "It's a simple code using Chinese￥symbols for chemical elements.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8908,
+   "budget": 9,
+   "en": "Symbols",
+   "src": "B1D0:8553",
+   "carry": "exact",
+   "long": "Element symbols"
+  },
+  {
+   "off": 8917,
+   "budget": 45,
+   "en": "Put them into ordinary￥symbols and...",
+   "src": "B1D0:8562",
+   "carry": "rebroken",
+   "long": "Replace the Chinese characters with￥the standard chemical symbols,",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8962,
+   "budget": 31,
+   "en": "and you get ＠赤BENSON＠白.",
+   "src": "B1D0:8605",
+   "carry": "exact"
+  },
+  {
+   "off": 8993,
+   "budget": 65,
+   "en": "In other words, the chemical symbols￥spell ＠赤BENSON＠白.",
+   "src": "B1D0:8636",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9058,
+   "budget": 65,
+   "en": "Come on, you learned this in school!￥Check your textbook!",
+   "src": "B1D0:8699",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 9123,
+   "budget": 101,
+   "en": "Nitrogen is '＠赤N＠白', beryllium '＠赤BE＠白',￥oxygen '＠赤O＠白', sulphur '＠赤S＠白'.",
+   "src": "B1D0:8760",
+   "carry": "rebroken",
+   "long": "Nitrogen is ＠赤N＠白, beryllium is ＠赤Be＠白,￥oxygen is ＠赤O＠白, and sulfur is ＠赤S＠白.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9224,
+   "budget": 149,
+   "en": "In that order...￥beryllium's '＠赤BE＠白', nitrogen's￥'＠赤N＠白', sulphur's '＠赤S＠白',￥oxygen's '＠赤O＠白', nitrogen '＠赤N＠白'.",
+   "src": "B1D0:8859",
+   "carry": "exact",
+   "long": "Put them in this order: ＠赤Be＠白 for￥beryllium, ＠赤N＠白 for nitrogen, ＠赤S＠白 for￥sulfur, ＠赤O＠白 for oxygen, and ＠赤N＠白 for￥nitrogen."
+  },
+  {
+   "off": 9373,
+   "budget": 21,
+   "en": "Get it now?",
+   "src": "B1D0:9008",
+   "carry": "exact"
+  },
+  {
+   "off": 9394,
+   "budget": 73,
+   "en": "You know element symbols are written￥in the alphabet, surely?",
+   "src": "B1D0:9029",
+   "carry": "exact",
+   "long": "You know chemical symbols are￥usually written with letters, don't￥you?"
+  },
+  {
+   "off": 9467,
+   "budget": 37,
+   "en": "This medical record is an exception.",
+   "src": "B1D0:9102",
+   "carry": "exact"
+  },
+  {
+   "off": 9504,
+   "budget": 79,
+   "en": "This chart is in Chinese￥symbols. Put them into the￥alphabet. What then?",
+   "src": "B1D0:9139",
+   "carry": "candidate_ok",
+   "en_candidate": "This chart is in Chinese￥symbols. Put them into the￥alphabet. What then?",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "This record uses Chinese symbols for￥the elements. What happens if you￥convert them to letters?"
+  },
+  {
+   "off": 9583,
+   "budget": 9,
+   "en": "Deduce",
+   "src": "B1D0:9220",
+   "carry": "exact"
+  },
+  {
+   "off": 9592,
+   "budget": 79,
+   "en": "Who is the person named in this￥record? ＠赤Enter the name.",
+   "src": "B1D0:9229",
+   "carry": "exact"
+  },
+  {
+   "off": 9671,
+   "budget": 91,
+   "en": "Who could the person named in this￥record be? ＠赤Enter the name again.",
+   "src": "B1D0:9308",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9762,
+   "budget": 69,
+   "en": "Why not enter ＠赤BENSON＠白, as Napoleon￥suggested?",
+   "src": "B1D0:9397",
+   "carry": "exact"
+  },
+  {
+   "off": 9831,
+   "budget": 81,
+   "en": "Based on what we've worked out, why￥not enter ＠赤BENSON＠白?",
+   "src": "B1D0:9466",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9912,
+   "budget": 13,
+   "en": "",
+   "src": "B1D0:9545",
+   "carry": "exact",
+   "long": "ＢＥＮＳＯＮ以外"
+  },
+  {
+   "off": 9925,
+   "budget": 5,
+   "en": "",
+   "src": "B1D0:9558",
+   "carry": "exact",
+   "lock": true
+  },
+  {
+   "off": 9930,
+   "budget": 9,
+   "en": "",
+   "src": "B1D0:9563",
+   "carry": "exact",
+   "long": "ＢＥＮＳＯＮ"
+  },
+  {
+   "off": 9939,
+   "budget": 7,
+   "en": "",
+   "src": "B1D0:9572",
+   "carry": "exact",
+   "long": "ＢＥＮＳＯ"
+  },
+  {
+   "off": 9946,
+   "budget": 7,
+   "en": "",
+   "src": "B1D0:9579",
+   "carry": "exact",
+   "long": "ＢＮＳＯＮ"
+  },
+  {
+   "off": 9953,
+   "budget": 9,
+   "en": "",
+   "src": "B1D0:9586",
+   "carry": "exact",
+   "long": "ＢＡＮＳＯＮ"
+  },
+  {
+   "off": 9962,
+   "budget": 9,
+   "en": "",
+   "src": "B1D0:9595",
+   "carry": "exact",
+   "long": "ＢＩＮＳＯＮ"
+  },
+  {
+   "off": 9971,
+   "budget": 9,
+   "en": "",
+   "src": "B1D0:9604",
+   "carry": "exact",
+   "long": "ＢＵＮＳＯＮ"
+  },
+  {
+   "off": 9980,
+   "budget": 27,
+   "en": "I've got it!￥BENSON!",
+   "src": "B1D0:9613",
+   "carry": "candidate_edit",
+   "en_candidate": "I've got it! BNSON!",
+   "sim": 0.96,
+   "note": "the Saturn spells the name in full where the PS1 has BNSON; re-adapted 2026-09-30: BENSON in full kept"
+  },
+  {
+   "off": 10007,
+   "budget": 9,
+   "en": "",
+   "src": "B1D0:9636",
+   "carry": "exact",
+   "long": "ＢＯＮＳＯＮ"
+  },
+  {
+   "off": 10016,
+   "budget": 9,
+   "en": "Gibson",
+   "src": "B1D0:9645",
+   "carry": "exact"
+  },
+  {
+   "off": 10025,
+   "budget": 37,
+   "en": "What are you saying!￥Now!",
+   "src": "B1D0:9654",
+   "carry": "exact",
+   "long": "What are you talking about? This is￥no time for that!"
+  },
+  {
+   "off": 10062,
+   "budget": 9,
+   "en": "",
+   "src": "B1D0:9691",
+   "carry": "exact",
+   "long": "ＢＵＮＳＥＮ"
+  },
+  {
+   "off": 10071,
+   "budget": 57,
+   "en": "The tsukudani there is good.￥.....No, not that.",
+   "src": "B1D0:9700",
+   "carry": "exact",
+   "long": "Their food simmered in soy sauce is￥delicious. Wait, that's not it!"
+  },
+  {
+   "off": 10128,
+   "budget": 9,
+   "en": "",
+   "src": "B1D0:9757",
+   "carry": "exact",
+   "long": "ＢＥＮＺＥＮＥ"
+  },
+  {
+   "off": 10137,
+   "budget": 15,
+   "en": "Huh?",
+   "src": "B1D0:9766",
+   "carry": "exact"
+  },
+  {
+   "off": 10152,
+   "budget": 9,
+   "en": "",
+   "src": "B1D0:9781",
+   "carry": "exact",
+   "long": "ＢＥＮＮＮＮ"
+  },
+  {
+   "off": 10161,
+   "budget": 9,
+   "en": "",
+   "src": "B1D0:9790",
+   "carry": "exact",
+   "long": "ＢＥＮＳＯＳＯ"
+  },
+  {
+   "off": 10170,
+   "budget": 9,
+   "en": "",
+   "src": "B1D0:9799",
+   "carry": "exact",
+   "long": "ＢＥＮＮＳＯ"
+  },
+  {
+   "off": 10179,
+   "budget": 9,
+   "en": "",
+   "src": "B1D0:9808",
+   "carry": "exact",
+   "long": "ＢＥＴＳＯＮ"
+  },
+  {
+   "off": 10188,
+   "budget": 5,
+   "en": "Item",
+   "src": "B1D0:9817",
+   "carry": "exact"
+  },
+  {
+   "off": 10193,
+   "budget": 7,
+   "en": "Lookω",
+   "src": "B1D0:3994",
+   "carry": "candidate_edit",
+   "en_candidate": "Look",
+   "sim": 0.8,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label"
+  },
+  {
+   "off": 10200,
+   "budget": 9,
+   "en": "Investigateω",
+   "src": "B1D0:4345",
+   "carry": "candidate_edit",
+   "en_candidate": "Check",
+   "sim": 0.86,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label; re-adapted 2026-09-30: PS1 label (long 'Investigate') + ω kept after it"
+  },
+  {
+   "off": 10209,
+   "budget": 7,
+   "en": "Show",
+   "src": "B1D0:9822",
+   "carry": "exact"
+  },
+  {
+   "off": 10216,
+   "budget": 7,
+   "en": "Chart",
+   "src": "B1D0:9829",
+   "carry": "exact",
+   "long": "Medical chart"
+  },
+  {
+   "off": 10223,
+   "budget": 69,
+   "en": "Look at this.￥You're Chinese, no?￥Do you know what it means?",
+   "src": "B1D0:9836",
+   "carry": "exact",
+   "long": "Take a look at this. You're Chinese,￥right? Can you tell me what it￥means?"
+  },
+  {
+   "off": 10292,
+   "budget": 45,
+   "en": "I see. No wonder you're having￥trouble.",
+   "src": "B1D0:9905",
+   "carry": "exact"
+  },
+  {
+   "off": 10337,
+   "budget": 17,
+   "en": "...Meaning what?",
+   "src": "B1D0:9950",
+   "carry": "exact",
+   "long": "What do you mean?"
+  },
+  {
+   "off": 10354,
+   "budget": 85,
+   "en": "Chinese element symbols.￥Without my chemistry I￥wouldn't have known either.",
+   "src": "B1D0:9967",
+   "carry": "rebroken",
+   "long": "These are Chinese symbols for￥chemical elements. I wouldn't have￥known if I hadn't majored in￥chemistry.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10439,
+   "budget": 31,
+   "en": "A cipher of element symbols.",
+   "src": "B1D0:10050",
+   "carry": "exact",
+   "long": "It's a code using chemical symbols."
+  },
+  {
+   "off": 10470,
+   "budget": 37,
+   "en": "Take a look at this medical record.",
+   "src": "B1D0:10081",
+   "carry": "exact"
+  },
+  {
+   "off": 10507,
+   "budget": 79,
+   "en": "Why show me a chart of all things?￥I've no medical knowledge at all...",
+   "src": "B1D0:10118",
+   "carry": "rebroken",
+   "long": "Why are you showing me a medical￥record? I don't know a thing about￥medicine.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10586,
+   "budget": 45,
+   "en": "What of the chart?￥I don't follow you.",
+   "src": "B1D0:10195",
+   "carry": "exact",
+   "long": "What about the record? I don't know￥what you're getting at."
+  },
+  {
+   "off": 10631,
+   "budget": 7,
+   "en": "Match",
+   "src": "B1D0:10240",
+   "carry": "exact",
+   "long": "Matches"
+  },
+  {
+   "off": 10638,
+   "budget": 69,
+   "en": "Our matches, these. Retro, no?￥Given only to regulars.",
+   "src": "B1D0:10247",
+   "carry": "rebroken",
+   "long": "These are our matches. Pretty￥old-fashioned, huh? We only give￥them to regulars.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 10707,
+   "budget": 49,
+   "en": "So the Queen Hospital lot came here￥as well.",
+   "src": "B1D0:10312",
+   "carry": "rebroken",
+   "long": "So the people at Queen Hospital came￥here too.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10756,
+   "budget": 23,
+   "en": "Ours, sure enough.",
+   "src": "B1D0:10359",
+   "carry": "exact",
+   "long": "They're definitely our matches."
+  },
+  {
+   "off": 10779,
+   "budget": 13,
+   "en": "Video memory",
+   "src": "B1D0:10382",
+   "carry": "exact"
+  },
+  {
+   "off": 10792,
+   "budget": 11,
+   "en": "Temple",
+   "src": "B1D0:10395",
+   "carry": "exact",
+   "long": "Temple picture"
+  },
+  {
+   "off": 10803,
+   "budget": 55,
+   "en": "A Bee Land building?￥Princess someone's castle... no.",
+   "src": "B1D0:10406",
+   "carry": "exact",
+   "long": "A building at Bee Land? Some￥princess's castle? No, that's not￥it."
+  },
+  {
+   "off": 10858,
+   "budget": 29,
+   "en": "No idea... no such place.",
+   "src": "B1D0:10461",
+   "carry": "exact",
+   "long": "Never seen a building like that."
+  },
+  {
+   "off": 10887,
+   "budget": 69,
+   "en": "What do you mean? There's nothing to￥support that. Think carefully.",
+   "src": "B1D0:10490",
+   "carry": "exact"
+  },
+  {
+   "off": 10956,
+   "budget": 35,
+   "en": "That's not right, Gillian.",
+   "src": "B1D0:10559",
+   "carry": "exact"
+  },
+  {
+   "off": 10991,
+   "budget": 35,
+   "en": "Do the symbols mean something?",
+   "src": "B1D0:10594",
+   "carry": "exact",
+   "long": "Could the chemical symbols mean￥something?"
+  },
+  {
+   "off": 11026,
+   "budget": 69,
+   "en": "No, that's wrong. It must mean￥something. Think carefully.",
+   "src": "B1D0:10629",
+   "carry": "exact"
+  },
+  {
+   "off": 11095,
+   "budget": 37,
+   "en": "That makes no sense.￥That's it!",
+   "src": "B1D0:10698",
+   "carry": "exact",
+   "long": "That doesn't make sense. Wait, I've￥got it!"
+  },
+  {
+   "off": 11132,
+   "budget": 49,
+   "en": "Ordinary symbols are in￥the alphabet, no?",
+   "src": "B1D0:10735",
+   "carry": "rebroken",
+   "long": "Standard chemical symbols use￥letters, don't they?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11181,
+   "budget": 49,
+   "en": "Still not right. It has to make￥sense.",
+   "src": "B1D0:10782",
+   "carry": "exact"
+  },
+  {
+   "off": 11230,
+   "budget": 17,
+   "en": "That's wrong...",
+   "src": "B1D0:10831",
+   "carry": "exact"
+  },
+  {
+   "off": 11247,
+   "budget": 89,
+   "en": "Try converting the Chinese symbols￥in the record into standard chemical￥symbols.",
+   "src": "B1D0:10848",
+   "carry": "candidate_edit",
+   "en_candidate": "Try converting the Chinese symbols￥in the record into standard chemical￥symbols. That must be it!",
+   "sim": 0.9,
+   "note": "part of the PS1 line; the PS1 line's first part; 'That must be it!' is the next record; re-adapted 2026-09-30: fragment 1/2 of B1D0:10848 ('That must be it!' next)"
+  },
+  {
+   "off": 11336,
+   "budget": 19,
+   "en": "That must be it!",
+   "carry": "new"
+  },
+  {
+   "off": 11355,
+   "budget": 47,
+   "en": "Wrong.￥Think hard about the element symbols.",
+   "src": "B1D0:10953",
+   "carry": "exact",
+   "long": "No. Think carefully about the￥chemical symbols."
+  },
+  {
+   "off": 11402,
+   "budget": 31,
+   "en": "You're almost there. Listen.",
+   "src": "B1D0:11000",
+   "carry": "exact"
+  },
+  {
+   "off": 11433,
+   "budget": 47,
+   "en": "This cipher was Chinese￥element symbols.",
+   "src": "B1D0:11031",
+   "carry": "rebroken",
+   "long": "The code was made up of Chinese￥symbols for chemical elements.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11480,
+   "budget": 91,
+   "en": "Replace the Chinese symbols with￥standard ones, and you get ＠赤BENSON＠白.",
+   "src": "B1D0:11076",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11571,
+   "budget": 81,
+   "en": "Now, how do you read the letters￥＠赤BENSON＠白?",
+   "src": "B1D0:11165",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11652,
+   "budget": 31,
+   "en": "Say these letters and...?",
+   "src": "B1D0:11244",
+   "carry": "exact",
+   "long": "How do you pronounce these letters?"
+  },
+  {
+   "off": 11683,
+   "budget": 77,
+   "en": "No, Gillian.￥Look up the element symbols and read￥them straight off.",
+   "src": "B1D0:11275",
+   "carry": "rebroken",
+   "long": "No, Gillian. Just look up the￥chemical symbols and read them as a￥word.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11760,
+   "budget": 69,
+   "en": "The standard chemical symbols spell￥＠赤BENSON＠白.",
+   "src": "B1D0:11350",
+   "carry": "exact"
+  },
+  {
+   "off": 11829,
+   "budget": 39,
+   "en": "Gillian, please enter something!",
+   "src": "B1D0:11419",
+   "carry": "exact"
+  },
+  {
+   "off": 11868,
+   "budget": 37,
+   "en": "You haven't entered anything!",
+   "src": "B1D0:11458",
+   "carry": "exact"
+  },
+  {
+   "off": 11905,
+   "budget": 25,
+   "en": "Something feels missing.",
+   "src": "B1D0:11495",
+   "carry": "exact",
+   "long": "I think something's missing."
+  },
+  {
+   "off": 11930,
+   "budget": 47,
+   "en": "That isn't beryllium's symbol.",
+   "src": "B1D0:11520",
+   "carry": "rebroken",
+   "long": "That's not the chemical symbol for￥beryllium.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11977,
+   "budget": 31,
+   "en": "Let's ask Napoleon.",
+   "src": "B1D0:11565",
+   "carry": "exact"
+  },
+  {
+   "off": 12008,
+   "budget": 21,
+   "en": "Wrong, Gillian.",
+   "src": "B1D0:11596",
+   "carry": "exact",
+   "long": "That's not right, Gillian."
+  },
+  {
+   "off": 12029,
+   "budget": 35,
+   "en": "Let's have Napoleon explain.",
+   "src": "B1D0:11617",
+   "carry": "exact"
+  },
+  {
+   "off": 12064,
+   "budget": 23,
+   "en": "You're close.",
+   "src": "B1D0:11652",
+   "carry": "exact"
+  },
+  {
+   "off": 12087,
+   "budget": 25,
+   "en": "You know the answer?",
+   "src": "B1D0:11675",
+   "carry": "exact"
+  },
+  {
+   "off": 12112,
+   "budget": 37,
+   "en": "No, no. It's just a feeling.",
+   "src": "B1D0:11700",
+   "carry": "exact"
+  },
+  {
+   "off": 12149,
+   "budget": 51,
+   "en": "Gillian, you're close...￥a little more.",
+   "src": "B1D0:11737",
+   "carry": "exact",
+   "long": "You're getting close, Gillian. Just￥a little further."
+  },
+  {
+   "off": 12200,
+   "budget": 51,
+   "en": "Be careful. Those letters are easy￥to mix up.",
+   "src": "B1D0:11788",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12251,
+   "budget": 59,
+   "en": "Check the letters carefully when you￥enter them.",
+   "src": "B1D0:11837",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12310,
+   "budget": 31,
+   "en": "You're really very close.",
+   "src": "B1D0:11894",
+   "carry": "exact"
+  },
+  {
+   "off": 12341,
+   "budget": 47,
+   "en": "Yes, my favourite film￥director, no?",
+   "src": "B1D0:11925",
+   "carry": "rebroken",
+   "long": "Wait, he's my favorite film￥director, isn't he?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12388,
+   "budget": 31,
+   "en": "Let's go see his new one too.",
+   "src": "B1D0:11970",
+   "carry": "exact",
+   "long": "Let's go see his new movie too."
+  },
+  {
+   "off": 12419,
+   "budget": 27,
+   "en": "Well, that aside....",
+   "src": "B1D0:12001",
+   "carry": "exact",
+   "long": "Anyway, back to the matter at hand."
+  },
+  {
+   "off": 12446,
+   "budget": 41,
+   "en": "You're very close. Just one more￥step.",
+   "src": "B1D0:12028",
+   "carry": "exact"
+  },
+  {
+   "off": 12487,
+   "budget": 57,
+   "en": "You've got the general idea. Just a￥little more.",
+   "src": "B1D0:12069",
+   "carry": "exact"
+  },
+  {
+   "off": 12544,
+   "budget": 15,
+   "en": "JUNKER ID",
+   "src": "B1D0:12126",
+   "carry": "exact"
+  },
+  {
+   "off": 12559,
+   "budget": 73,
+   "en": "The ID card proving all JUNKER￥authority. Keep it safe.",
+   "src": "B110:19602",
+   "carry": "rebroken",
+   "long": "This ID card certifies all your￥authority as a JUNKER. Take good￥care of it.",
+   "note": "from B110; Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 12632,
+   "budget": 7,
+   "en": "Funds",
+   "src": "B1D0:12212",
+   "carry": "exact"
+  },
+  {
+   "off": 12639,
+   "budget": 35,
+   "en": "This is the money JUNKER gave you.",
+   "src": "B1D0:12219",
+   "carry": "exact"
+  },
+  {
+   "off": 12674,
+   "budget": 5,
+   "en": "Drop",
+   "src": "B1D0:12254",
+   "carry": "exact",
+   "long": "Candy"
+  },
+  {
+   "off": 12679,
+   "budget": 35,
+   "en": "This candy was in Jean's pocket.",
+   "src": "B1D0:12259",
+   "carry": "exact"
+  },
+  {
+   "off": 12714,
+   "budget": 7,
+   "en": "Proof",
+   "src": "B1D0:12294",
+   "carry": "exact",
+   "long": "Evidence"
+  },
+  {
+   "off": 12721,
+   "budget": 3,
+   "en": "Pc",
+   "src": "B1D0:12301",
+   "carry": "exact",
+   "long": "Chess piece"
+  },
+  {
+   "off": 12724,
+   "budget": 67,
+   "en": "Gibson carried this chess piece as a￥clue to Queen Hospital.",
+   "src": "B1D0:12304",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12791,
+   "budget": 37,
+   "en": "This is the chess piece Gibson had.",
+   "src": "B1D0:12369",
+   "carry": "exact"
+  },
+  {
+   "off": 12828,
+   "budget": 47,
+   "en": "A chart with a Snatcher's name.",
+   "src": "B1D0:12406",
+   "carry": "rebroken",
+   "long": "This medical record gives a￥Snatcher's name.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12875,
+   "budget": 37,
+   "en": "Found on a desk at￥Queen Hospital.",
+   "src": "B1D0:12451",
+   "carry": "exact",
+   "long": "We found this in a desk at Queen￥Hospital."
+  },
+  {
+   "off": 12912,
+   "budget": 45,
+   "en": "Old-fashioned matches from￥Queen Hosp.",
+   "src": "B1D0:12488",
+   "carry": "rebroken",
+   "long": "These old-fashioned matches were at￥Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12957,
+   "budget": 9,
+   "en": "Memo",
+   "src": "B1D0:12531",
+   "carry": "exact"
+  },
+  {
+   "off": 12966,
+   "budget": 31,
+   "en": "A memo in Harry's hand.",
+   "src": "B1D0:12540",
+   "carry": "exact",
+   "long": "Harry seems to have written this￥note."
+  },
+  {
+   "off": 12997,
+   "budget": 45,
+   "en": "This note was in the Mechanic room.",
+   "src": "B1D0:12571",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13042,
+   "budget": 13,
+   "en": "Little John",
+   "src": "B1D0:12614",
+   "carry": "exact"
+  },
+  {
+   "off": 13055,
+   "budget": 49,
+   "en": "Footage left in Little John's￥memory.",
+   "src": "B1D0:12627",
+   "carry": "rebroken",
+   "long": "This image was stored in Little￥John's memory.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13104,
+   "budget": 9,
+   "en": "Red Sq.",
+   "src": "B1D0:12674",
+   "carry": "exact",
+   "long": "Red Square"
+  },
+  {
+   "off": 13113,
+   "budget": 45,
+   "en": "A 'still photo' from the￥Chief's office.",
+   "src": "B1D0:12683",
+   "carry": "rebroken",
+   "long": "This photograph was hidden in the￥Chief's office.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13158,
+   "budget": 5,
+   "en": "Hall",
+   "src": "B1D0:12726",
+   "carry": "exact",
+   "long": "Temple"
+  },
+  {
+   "off": 13163,
+   "budget": 49,
+   "en": "Temple painting from a￥Queen Hospital room.",
+   "src": "B1D0:12731",
+   "carry": "rebroken",
+   "long": "This picture of a cathedral hung in￥a room at Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13212,
+   "budget": 67,
+   "en": "It has an integrated circuit￥containing all your data, Gillian.",
+   "src": "B1D0:12778",
+   "carry": "exact"
+  },
+  {
+   "off": 13279,
+   "budget": 51,
+   "en": "Case expenses are covered￥as work requires.",
+   "src": "B1D0:12845",
+   "carry": "rebroken",
+   "long": "In principle, there's no limit on￥necessary investigation expenses.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13330,
+   "budget": 47,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "src": "B1D0:12894",
+   "carry": "rebroken",
+   "long": "Jean gave this candy to the children￥at the orphanage.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13377,
+   "budget": 61,
+   "en": "This piece was meant to tell￥the name of Queen Hospital.",
+   "src": "B1D0:12939",
+   "carry": "rebroken",
+   "long": "It seems this piece was meant to￥tell us the name of Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13438,
+   "budget": 57,
+   "en": "It's a wooden chess piece. The￥queen.",
+   "src": "B1D0:12998",
+   "carry": "exact"
+  },
+  {
+   "off": 13495,
+   "budget": 85,
+   "en": "It's a cipher written in Chinese￥element symbols. Decoded, it reads￥BENSON.",
+   "src": "B1D0:13055",
+   "carry": "rebroken",
+   "long": "It's a code written using Chinese￥symbols for chemical elements. It￥decodes to BENSON.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13580,
+   "budget": 65,
+   "en": "It seems to be part of a medical￥record. What does it say?",
+   "src": "B1D0:13138",
+   "carry": "exact"
+  },
+  {
+   "off": 13645,
+   "budget": 73,
+   "en": "Matches from 'Outer Heaven'.￥A trifle given to regulars,￥surely.",
+   "src": "B1D0:13203",
+   "carry": "exact",
+   "long": "These are Outer Heaven matches. They￥probably give them to regular￥customers."
+  },
+  {
+   "off": 13718,
+   "budget": 63,
+   "en": "'Face to Face'.￥A memo on the illusion￥picture's secret.",
+   "src": "B160:8156",
+   "carry": "exact",
+   "long": "\"Face to face.\" The note reveals￥the secret of the optical illusion.",
+   "note": "from B160"
+  },
+  {
+   "off": 13781,
+   "budget": 81,
+   "en": "\"Face to Face.\"￥It's Harry's handwriting, but what￥does it mean?",
+   "src": "B1D0:13339",
+   "carry": "candidate_edit",
+   "en_candidate": "\"Face to face.\" It's Harry's￥handwriting, but what does it mean?",
+   "sim": 0.95,
+   "note": "re-adapted 2026-09-30: new PS1 wording, Saturn capitals"
+  },
+  {
+   "off": 13862,
+   "budget": 55,
+   "en": "This image shows the QUEEN Hospital￥neon sign.",
+   "src": "B1D0:13418",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13917,
+   "budget": 69,
+   "en": "It reads \"OLEEN Hospital.\" It must￥be a hospital's neon sign.",
+   "src": "B1D0:13471",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13986,
+   "budget": 65,
+   "en": "A still photo of Red Square￥in Moscow, before the Catastrophe.",
+   "src": "B1D0:13538",
+   "carry": "exact",
+   "long": "This is a photograph of Red Square￥in Moscow before the Catastrophe."
+  },
+  {
+   "off": 14051,
+   "budget": 69,
+   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "src": "B1D0:13603",
+   "carry": "rebroken",
+   "long": "It's St. Basil's Cathedral, a famous￥cathedral in Moscow before the￥Catastrophe.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14120,
+   "budget": 49,
+   "en": "We got as far as element symbols...",
+   "src": "B1D0:13670",
+   "carry": "rebroken",
+   "long": "We know they're chemical symbols,￥but that's all.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14169,
+   "budget": 39,
+   "en": "That's definitely from this club.",
+   "src": "B1D0:13717",
+   "carry": "candidate_ok",
+   "en_candidate": "That's definitely from this club.",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 14208,
+   "budget": 21,
+   "en": "Have we cash left?",
+   "src": "B1D0:13754",
+   "carry": "exact",
+   "long": "Do I still have any cash?"
+  },
+  {
+   "off": 14229,
+   "budget": 21,
+   "en": "Our balance is fine.",
+   "src": "B1D0:13775",
+   "carry": "exact",
+   "long": "You have enough left."
+  },
+  {
+   "off": 14250,
+   "budget": 53,
+   "en": "Don't worry. I won't charge you for￥the table.",
+   "src": "B1D0:13796",
+   "carry": "exact"
+  },
+  {
+   "off": 14305,
+   "budget": 4,
+   "en": ""
+  }
+ ]
+}

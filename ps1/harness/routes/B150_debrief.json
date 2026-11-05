@@ -1,0 +1,6 @@
+{"scene":"B130","note":"From the end-of-Act-1 save prompt (bookmark B120_end) into Act 2: decline the save, arrive at HQ for the Chief's debrief (B150's voiced montage), then the Chief's questions.",
+ "actions":[
+  {"path":["Don't save"]},
+  {"save":"B150_debrief_end"},
+  {"sweep":["Ask","Look","Investigate","Talk"],"rounds":2}
+ ]}

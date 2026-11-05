@@ -1,0 +1,342 @@
+[
+ {
+  "track": 16,
+  "start": 12.1,
+  "end": 17.05,
+  "speaker": "Announcer",
+  "en": "17th Special Operations Team, boarding complete.",
+  "ps1": "B260_e_01",
+  "cards": [
+   "17th Special|Operations Team, boarding complete."
+  ],
+  "reveal_end": 15.8,
+  "note": "English set to the PCE announcement (the PS1 reel has another call)"
+ },
+ {
+  "track": 16,
+  "start": 17.05,
+  "end": 18.75,
+  "speaker": "Jamie",
+  "en": "So you're really going.",
+  "ps1": "B260_e_02",
+  "cards": [
+   "So you're really going."
+  ],
+  "reveal_end": 18.4
+ },
+ {
+  "track": 16,
+  "start": 18.75,
+  "end": 21.74,
+  "speaker": "Gillian",
+  "en": "We're responsible, too.",
+  "ps1": "B260_e_03",
+  "cards": [
+   "We're responsible,|too."
+  ],
+  "reveal_end": 20.8
+ },
+ {
+  "track": 16,
+  "start": 21.74,
+  "end": 25.05,
+  "speaker": "Gillian",
+  "en": "And going to the Kremlin might bring my memory back.",
+  "ps1": "B260_e_04",
+  "cards": [
+   "And going to the|Kremlin might bring my memory back."
+  ],
+  "reveal_end": 24.7
+ },
+ {
+  "track": 16,
+  "start": 25.05,
+  "end": 29.15,
+  "speaker": "Gillian",
+  "en": "Then I could love you even more than I do now.",
+  "ps1": "B260_e_05",
+  "cards": [
+   "Then I could love you|even more than I do now."
+  ],
+  "reveal_end": 28.3
+ },
+ {
+  "track": 16,
+  "start": 29.15,
+  "end": 34.64,
+  "speaker": "Gillian",
+  "en": "Wait for me. I'll destroy the factory beneath the Kremlin.",
+  "ps1": "B260_e_06",
+  "cards": [
+   "Wait for me.",
+   "I'll destroy the|factory beneath the Kremlin."
+  ],
+  "reveal_end": 34.0
+ },
+ {
+  "track": 16,
+  "start": 34.64,
+  "end": 37.9,
+  "speaker": "Gillian",
+  "en": "Let's live together when I get back, Jamie.",
+  "ps1": "B260_e_07",
+  "cards": [
+   "Let's live together|when I get back, Jamie."
+  ],
+  "reveal_end": 37.6
+ },
+ {
+  "track": 16,
+  "start": 37.9,
+  "end": 44.0,
+  "speaker": "Announcer",
+  "en": "13th Special Team and JUNKER personnel, please hurry aboard.",
+  "ps1": "B260_e_08",
+  "cards": [
+   "13th Special Team|and JUNKER personnel,",
+   "please hurry aboard."
+  ],
+  "reveal_end": 43.0,
+  "note": "English set to the PCE announcement (the PS1 reel has another call)"
+ },
+ {
+  "track": 16,
+  "start": 45.0,
+  "end": 48.95,
+  "speaker": "Jamie",
+  "en": "Harry and I will be waiting for you.",
+  "ps1": "B260_e_09",
+  "cards": [
+   "Harry and I will be|waiting for you."
+  ],
+  "reveal_end": 48.75
+ },
+ {
+  "track": 16,
+  "start": 48.95,
+  "end": 51.5,
+  "speaker": "Gillian",
+  "en": "Harry's hat.",
+  "ps1": "B260_e_10",
+  "cards": [
+   "Harry's hat."
+  ],
+  "reveal_end": 50.5
+ },
+ {
+  "track": 16,
+  "start": 51.95,
+  "end": 55.3,
+  "speaker": "Jamie",
+  "en": "We'll make it work this time.",
+  "ps1": "B260_e_11",
+  "cards": [
+   "We'll make it work this|time."
+  ],
+  "reveal_end": 55.0
+ },
+ {
+  "track": 16,
+  "start": 55.3,
+  "end": 59.25,
+  "speaker": "Jamie",
+  "en": "A real marriage, with trust in each other.",
+  "ps1": "B260_e_12",
+  "cards": [
+   "A real marriage, with|trust in each other."
+  ],
+  "reveal_end": 59.1
+ },
+ {
+  "track": 16,
+  "start": 59.25,
+  "end": 61.85,
+  "speaker": "Gillian",
+  "en": "I know, Jamie.",
+  "ps1": "B260_e_13",
+  "cards": [
+   "I know, Jamie."
+  ],
+  "reveal_end": 61.0
+ },
+ {
+  "track": 16,
+  "start": 61.85,
+  "end": 65.1,
+  "speaker": "Jamie",
+  "en": "Take care, Gillian.",
+  "ps1": "B260_e_14",
+  "cards": [
+   "Take care, Gillian."
+  ],
+  "reveal_end": 64.2
+ },
+ {
+  "track": 16,
+  "start": 65.1,
+  "end": 67.3,
+  "speaker": "Gillian",
+  "en": "I'm off, Jamie.",
+  "ps1": "B260_e_15",
+  "cards": [
+   "I'm off, Jamie."
+  ],
+  "reveal_end": 66.3
+ },
+ {
+  "track": 16,
+  "start": 68.96,
+  "end": 71.9,
+  "speaker": "Metal Gear",
+  "en": "Wait! Wait for me!",
+  "ps1": "B260_e_16",
+  "cards": [
+   "Wait! Wait for me!"
+  ],
+  "reveal_end": 70.9
+ },
+ {
+  "track": 16,
+  "start": 72.64,
+  "end": 75.44,
+  "speaker": "Metal Gear",
+  "en": "Take me with you!",
+  "ps1": "B260_e_17",
+  "cards": [
+   "Take me with you!"
+  ],
+  "reveal_end": 75.2
+ },
+ {
+  "track": 16,
+  "start": 75.44,
+  "end": 78.08,
+  "speaker": "Gillian",
+  "en": "Metal? Is that you?",
+  "ps1": "B260_e_18",
+  "cards": [
+   "Metal? Is that you?"
+  ],
+  "reveal_end": 77.56
+ },
+ {
+  "track": 16,
+  "start": 78.08,
+  "end": 79.7,
+  "speaker": "Metal Gear",
+  "en": "Yes, it's me.",
+  "ps1": "B260_e_19",
+  "cards": [
+   "Yes, it's me."
+  ],
+  "reveal_end": 79.4
+ },
+ {
+  "track": 16,
+  "start": 79.7,
+  "end": 83.86,
+  "speaker": "Metal Gear",
+  "en": "They had no proper frame, so this body's temporary.",
+  "ps1": "B260_e_20",
+  "cards": [
+   "They had no proper|frame, so this body's temporary."
+  ],
+  "reveal_end": 83.2
+ },
+ {
+  "track": 16,
+  "start": 83.86,
+  "end": 87.32,
+  "speaker": "Metal Gear",
+  "en": "Call me Metal Gear Duo.",
+  "ps1": "B260_e_21",
+  "cards": [
+   "Call me Metal Gear|Duo."
+  ],
+  "reveal_end": 87.0
+ },
+ {
+  "track": 16,
+  "start": 87.32,
+  "end": 89.04,
+  "speaker": "Gillian",
+  "en": "Looks like your chip survived.",
+  "ps1": "B260_e_22",
+  "cards": [
+   "Looks like your chip|survived."
+  ],
+  "reveal_end": 89.0
+ },
+ {
+  "track": 16,
+  "start": 89.04,
+  "end": 94.0,
+  "speaker": "Metal Gear",
+  "en": "Randam shielded my chip from the beam.",
+  "ps1": "B260_e_23",
+  "cards": [
+   "Randam shielded my|chip from the beam."
+  ],
+  "reveal_end": 93.4
+ },
+ {
+  "track": 16,
+  "start": 94.0,
+  "end": 95.28,
+  "speaker": "Gillian",
+  "en": "Randam?",
+  "ps1": "B260_e_24",
+  "cards": [
+   "Randam?"
+  ],
+  "reveal_end": 94.8
+ },
+ {
+  "track": 16,
+  "start": 95.28,
+  "end": 98.42,
+  "speaker": "Metal Gear",
+  "en": "Take me with you, Gillian!",
+  "reveal_end": 98.42,
+  "ps1": "B260_e_25",
+  "cards": [
+   "Take me with you,|Gillian!"
+  ]
+ },
+ {
+  "track": 16,
+  "start": 98.42,
+  "end": 100.32,
+  "speaker": "Metal Gear",
+  "en": "Please, please, please!",
+  "reveal_end": 99.6,
+  "ps1": "B260_e_26",
+  "cards": [
+   "Please, please,|please!"
+  ]
+ },
+ {
+  "track": 16,
+  "start": 100.32,
+  "end": 103.0,
+  "speaker": "Gillian",
+  "en": "Hurry aboard, partner.",
+  "ps1": "B260_e_27",
+  "cards": [
+   "Hurry aboard, partner."
+  ],
+  "reveal_end": 102.0
+ },
+ {
+  "track": 16,
+  "start": 103.1,
+  "end": 106.0,
+  "speaker": "Metal Gear",
+  "en": "Right, Gillian!",
+  "ps1": "B260_e_28",
+  "cards": [
+   "Right, Gillian!"
+  ],
+  "reveal_end": 105.0
+ }
+]

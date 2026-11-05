@@ -1,0 +1,256 @@
+{
+ "scene": "B230",
+ "note": "JUNKER HQ sealed (guides/ps1.txt Act 2 JUNKER HEADQUARTERS, last visit; the PS1's B230): the shutter, the area/door/booth, Open shutter, every room once, the Chief's room (Look at the desk, Look/Investigate the stain, Search > Ceiling: a one-shot fight), every room again, the hallway, the front: the final Act 2 fight (the snatcher holds Mika - headshots at the corners), then Act 3's debrief (B240).",
+ "actions": [
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "fight": [
+    "body",
+    "corners"
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Search",
+    "Motion detector",
+    "Talk"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Open shutter"
+   ]
+  },
+  {
+   "path": [
+    "Open shutter|Investigate",
+    "Open shutter|Shutter"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "path": [
+    "Open shutter"
+   ],
+   "optional": true,
+   "patience": 1800
+  },
+  {
+   "wait_menu": true,
+   "patience": 20000
+  },
+  {
+   "save": "B230_hall"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Search",
+    "Motion detector",
+    "Talk"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Move|Chief's room|Chief's office",
+    "Chief's room|Chief's office"
+   ],
+   "strict": true,
+   "patience": 1800
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Search",
+    "Motion detector"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Move|Mechanic room",
+    "Mechanic room"
+   ],
+   "strict": true,
+   "patience": 1800
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Search",
+    "Motion detector"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Move|Squad room",
+    "Squad room"
+   ],
+   "strict": true,
+   "patience": 1800
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Search",
+    "Motion detector"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Move|Shooting range",
+    "Shooting range"
+   ],
+   "strict": true,
+   "patience": 1800
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Search",
+    "Motion detector"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Move|Computer room",
+    "Computer room"
+   ],
+   "strict": true,
+   "patience": 1800
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Search",
+    "Motion detector"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Move|Chief's room|Chief's office",
+    "Chief's room|Chief's office"
+   ],
+   "optional": false,
+   "patience": 1800,
+   "strict": true
+  },
+  {
+   "path": [
+    "Look",
+    "Desk"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Look",
+    "Stain|Stain on desk"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Investigate",
+    "Stain|Stain on desk"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Search",
+    "Ceiling"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B230_ceiling"
+  },
+  {
+   "idle": 1200
+  },
+  {
+   "wait_menu": true,
+   "patience": 20000
+  },
+  {
+   "sweep": [
+    "Move"
+   ],
+   "each": [
+    "Look",
+    "Search",
+    "Motion detector"
+   ],
+   "each_rounds": 1,
+   "rounds": 1,
+   "avoid": [
+    "Chief's room",
+    "Chief's office"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Hallway|Hall"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Move",
+    "Front desk|Front|Reception"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B230_front"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Search",
+    "Motion detector",
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 2
+  },
+  {
+   "wait_menu": true,
+   "patience": 40000
+  },
+  {
+   "save": "B240_start"
+  },
+  {
+   "path": ["Don't save"],
+   "strict": true,
+   "patience": 12000
+  }
+ ]
+}

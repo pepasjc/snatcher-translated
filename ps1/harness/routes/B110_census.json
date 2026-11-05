@@ -1,0 +1,97 @@
+{
+ "scene": "B110",
+ "note": "B110 census from Luiz's card (act1-ivan-door save 3: at room 301, Act 1). Talk until Ivan opens, disarm him, then sweep the room and the bathroom - every voiced line the bank plays. Ivan stands in the centre cell (ctx+0x1DF5 reads 0 here): fight = cell4.",
+ "actions": [
+  {
+   "save": "B110_door"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Exit Tricycle"
+   ]
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "reps": 2,
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Talk"
+   ],
+   "reps": 3,
+   "optional": true,
+   "patience": 6000
+  },
+  {
+   "idle": 600
+  },
+  {
+   "save": "B110_disarmed"
+  },
+  {
+   "path": [
+    "Interrogate"
+   ],
+   "reps": 3,
+   "optional": true,
+   "patience": 4000
+  },
+  {
+   "path": [
+    "Threaten"
+   ],
+   "reps": 3,
+   "optional": true,
+   "patience": 4000
+  },
+  {
+   "sweep": [
+    "Interrogate",
+    "Threaten",
+    "Look",
+    "Investigate",
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Exit Tricycle"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Bathroom"
+   ],
+   "optional": true,
+   "patience": 4000
+  },
+  {
+   "sweep": [
+    "Interrogate",
+    "Threaten",
+    "Look",
+    "Investigate",
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Exit Tricycle"
+   ]
+  },
+  {
+   "idle": 3000
+  }
+ ],
+ "fight": "cell4"
+}

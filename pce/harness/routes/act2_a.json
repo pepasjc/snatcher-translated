@@ -1,0 +1,447 @@
+[
+ {
+  "save": "act2_0"
+ },
+ {
+  "wait": 2400
+ },
+ {
+  "items": 1
+ },
+ {
+  "sweep": "Talk",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 1
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 1
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "items": 1
+ },
+ {
+  "choose": "Mechanic room"
+ },
+ {
+  "read": 10000
+ },
+ {
+  "save": "act2_mech"
+ },
+ {
+  "items": 1
+ },
+ {
+  "sweep": "Talk",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "save": "act2_mech2"
+ },
+ {
+  "items": 1
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "items": 1
+ },
+ {
+  "choose": "Front desk"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "items": 1
+ },
+ {
+  "phone": "395644"
+ },
+ {
+  "wait": 900
+ },
+ {
+  "read": 8000
+ },
+ {
+  "items": 1
+ },
+ {
+  "choose": "Answer"
+ },
+ {
+  "wait": 300
+ },
+ {
+  "type": "REIGN"
+ },
+ {
+  "read": 4000
+ },
+ {
+  "when": "forgotten",
+  "steps": [
+   {
+    "phone": "395644"
+   },
+   {
+    "wait": 900
+   },
+   {
+    "read": 8000
+   },
+   {
+    "items": 1
+   },
+   {
+    "choose": "Answer"
+   },
+   {
+    "wait": 300
+   },
+   {
+    "type": "REIGN"
+   },
+   {
+    "read": 8000
+   },
+   {
+    "wait": 60
+   }
+  ]
+ },
+ {
+  "when": "forgotten",
+  "steps": [
+   {
+    "phone": "395644"
+   },
+   {
+    "wait": 900
+   },
+   {
+    "read": 8000
+   },
+   {
+    "items": 1
+   },
+   {
+    "choose": "Answer"
+   },
+   {
+    "wait": 300
+   },
+   {
+    "type": "OVER"
+   },
+   {
+    "read": 8000
+   },
+   {
+    "wait": 60
+   }
+  ]
+ },
+ {
+  "when": "forgotten",
+  "steps": [
+   {
+    "phone": "395644"
+   },
+   {
+    "wait": 900
+   },
+   {
+    "read": 8000
+   },
+   {
+    "items": 1
+   },
+   {
+    "choose": "Answer"
+   },
+   {
+    "wait": 300
+   },
+   {
+    "type": "REIGN"
+   },
+   {
+    "read": 8000
+   },
+   {
+    "wait": 60
+   }
+  ]
+ },
+ {
+  "when": "forgotten",
+  "steps": [
+   {
+    "phone": "395644"
+   },
+   {
+    "wait": 900
+   },
+   {
+    "read": 8000
+   },
+   {
+    "items": 1
+   },
+   {
+    "choose": "Answer"
+   },
+   {
+    "wait": 300
+   },
+   {
+    "type": "OVER"
+   },
+   {
+    "read": 8000
+   },
+   {
+    "wait": 60
+   }
+  ]
+ },
+ {
+  "read": 8000
+ },
+ {
+  "items": 1
+ },
+ {
+  "maybe": "Don't call"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "save": "act2_nap"
+ },
+ {
+  "items": 1
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "items": 1
+ },
+ {
+  "maybe": "Board Tricycle"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "items": 1
+ },
+ {
+  "choose": "Altamira"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "choose": "Exit Tricycle"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "save": "act2_alton"
+ },
+ {
+  "items": 1
+ },
+ {
+  "sweep": "Look",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Item"
+ },
+ {
+  "choose": "Show"
+ },
+ {
+  "items": 1
+ },
+ {
+  "choose": "Video memory"
+ },
+ {
+  "items": 1
+ },
+ {
+  "maybe": "Little John"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Item"
+ },
+ {
+  "choose": "Use"
+ },
+ {
+  "choose": "Funds"
+ },
+ {
+  "read": 4000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Item"
+ },
+ {
+  "choose": "Use"
+ },
+ {
+  "choose": "Funds"
+ },
+ {
+  "read": 4000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 8000
+ },
+ {
+  "save": "act2_alton2"
+ },
+ {
+  "items": 1
+ },
+ {
+  "sweep": "Look",
+  "rounds": 6
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 3
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Look",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "save": "act2_alton3"
+ },
+ {
+  "items": 1
+ },
+ {
+  "choose": [
+   "Board Tricycle",
+   "Move"
+  ]
+ },
+ {
+  "maybe": "Board Tricycle"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "items": 1
+ },
+ {
+  "save": "act2_a_end"
+ }
+]

@@ -1,0 +1,10 @@
+{"scene": "B1B0", "note": "Luiz's card act2-oleen-inside save 2: inside Oleen Hospital. The guide's order (around, reception, people, the animals, Ask Snatchers / specialty x2 / doctor), then Item > Show > Video memory > Little John triggers the exit (Metal's lines f8-f13); black screen on MiSTer reported 2026-09-10",
+ "actions": [
+  {"sweep": ["Investigate", "Look"], "rounds": 2, "avoid": ["Go out"]},
+  {"path": ["Ask", "Snatchers"], "optional": true},
+  {"path": ["Ask", "Its specialty"], "optional": true, "reps": 2},
+  {"path": ["Ask", "Hospital doctor"], "optional": true},
+  {"sweep": ["Ask"], "rounds": 1, "avoid": ["Go out"]},
+  {"path": ["Item", "Show", "Video memory", "Little John"]},
+  {"idle": 9000}
+ ]}

@@ -1,0 +1,25 @@
+{
+ "scene": "B100",
+ "note": "Coverage: inside Outer Heaven from the B100 scene save - Item > Show > JUNKER ID gets Gillian thrown out (B100_002/003, the thugs).",
+ "actions": [
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "path": [
+    "Item",
+    "Show",
+    "JUNKER ID"
+   ],
+   "optional": true
+  },
+  {
+   "wait_menu": true,
+   "patience": 12000
+  },
+  {
+   "idle": 600
+  }
+ ]
+}

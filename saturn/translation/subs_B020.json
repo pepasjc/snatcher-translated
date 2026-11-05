@@ -1,0 +1,1479 @@
+{
+ "scene": "B020",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B020_f2_0",
+   "reel": 3,
+   "sdaif": "SDAIF_03.AIF",
+   "rate": 24000,
+   "frames": 9806,
+   "b0": 54,
+   "b1": 19254,
+   "size": 19666,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "What?!",
+   "rows": [
+    "What?!"
+   ],
+   "rows_plain": [
+    "What?!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_000",
+   "reel": 4,
+   "sdaif": "SDAIF_04.AIF",
+   "rate": 24000,
+   "frames": 7368,
+   "b0": 54,
+   "b1": 14454,
+   "size": 14790,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What was that?",
+   "rows": [
+    "What was that?"
+   ],
+   "rows_plain": [
+    "What was that?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_001",
+   "reel": 5,
+   "sdaif": "SDAIF_05.AIF",
+   "rate": 24000,
+   "frames": 73510,
+   "b0": 54,
+   "b1": 144054,
+   "size": 147074,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "A man screamed. Has something happened to Jean?",
+   "rows": [
+    "A man screamed. Has",
+    "something happened to Jean?"
+   ],
+   "rows_plain": [
+    "A man screamed. Has something",
+    "happened to Jean?"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_002",
+   "reel": 6,
+   "sdaif": "SDAIF_06.AIF",
+   "rate": 24000,
+   "frames": 169557,
+   "b0": 54,
+   "b1": 166028,
+   "size": 339168,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Careful, Gillian. I'm detecting several moving objects.",
+   "rows": [
+    "Careful, Gillian. I'm",
+    "detecting several moving",
+    "objects."
+   ],
+   "rows_plain": [
+    "Careful, Gillian. I'm detecting",
+    "several moving objects."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_002b",
+   "reel": 6,
+   "sdaif": "SDAIF_06.AIF",
+   "rate": 24000,
+   "frames": 169557,
+   "b0": 166028,
+   "b1": 336054,
+   "size": 339168,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Snatchers or Insectors may be hiding nearby.",
+   "rows": [
+    "Snatchers or Insectors may",
+    "be hiding nearby."
+   ],
+   "rows_plain": [
+    "Snatchers or Insectors may be hiding",
+    "nearby."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_003",
+   "reel": 7,
+   "sdaif": "SDAIF_07.AIF",
+   "rate": 24000,
+   "frames": 33072,
+   "b0": 54,
+   "b1": 62454,
+   "size": 66198,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What's an Insector?",
+   "rows": [
+    "What's an Insector?"
+   ],
+   "rows_plain": [
+    "What's an Insector?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_004",
+   "reel": 8,
+   "sdaif": "SDAIF_08.AIF",
+   "rate": 24000,
+   "frames": 200111,
+   "b0": 54,
+   "b1": 190314,
+   "size": 400276,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "A spider-shaped robot the Snatchers use as a warning sensor.",
+   "rows": [
+    "A spider-shaped robot the",
+    "Snatchers use as a warning",
+    "sensor."
+   ],
+   "rows_plain": [
+    "A spider-shaped robot the Snatchers",
+    "use as a warning sensor."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_004b",
+   "reel": 8,
+   "sdaif": "SDAIF_08.AIF",
+   "rate": 24000,
+   "frames": 200111,
+   "b0": 190314,
+   "b1": 398454,
+   "size": 400276,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "They're small, but they attack with needle guns. Be careful.",
+   "rows": [
+    "They're small, but they",
+    "attack with needle guns. Be",
+    "careful."
+   ],
+   "rows_plain": [
+    "They're small, but they attack with",
+    "needle guns. Be careful."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_005",
+   "reel": 10,
+   "sdaif": "SDAIF_10.AIF",
+   "rate": 24000,
+   "frames": 36234,
+   "b0": 54,
+   "b1": 144054,
+   "size": 144990,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Little John!",
+   "rows": [
+    "Little John!"
+   ],
+   "rows_plain": [
+    "Little John!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_006",
+   "reel": 11,
+   "sdaif": "SDAIF_11.AIF",
+   "rate": 24000,
+   "frames": 30953,
+   "b0": 54,
+   "b1": 123866,
+   "size": 123866,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Little John?",
+   "rows": [
+    "Little John?"
+   ],
+   "rows_plain": [
+    "Little John?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_007",
+   "reel": 12,
+   "sdaif": "SDAIF_12.AIF",
+   "rate": 24000,
+   "frames": 74432,
+   "b0": 54,
+   "b1": 297654,
+   "size": 297782,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "He's Jean Jack Gibson's personal Navigator.",
+   "rows": [
+    "He's Jean Jack Gibson's",
+    "personal Navigator."
+   ],
+   "rows_plain": [
+    "He's Jean Jack Gibson's personal",
+    "Navigator."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_008",
+   "reel": 13,
+   "sdaif": "SDAIF_13.AIF",
+   "rate": 24000,
+   "frames": 77759,
+   "b0": 54,
+   "b1": 307254,
+   "size": 311090,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "How's Little John's memory? If it's intact, take it out.",
+   "rows": [
+    "How's Little John's memory?",
+    "If it's intact, take it out."
+   ],
+   "rows_plain": [
+    "How's Little John's memory? If it's",
+    "intact, take it out."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_009",
+   "reel": 14,
+   "sdaif": "SDAIF_14.AIF",
+   "rate": 24000,
+   "frames": 79714,
+   "b0": 54,
+   "b1": 316854,
+   "size": 318910,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's recover his memory, just in case.",
+   "rows": [
+    "Let's recover his memory,",
+    "just in case."
+   ],
+   "rows_plain": [
+    "Let's recover his memory, just in",
+    "case."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_010",
+   "reel": 15,
+   "sdaif": "SDAIF_15.AIF",
+   "rate": 24000,
+   "frames": 59559,
+   "b0": 54,
+   "b1": 238290,
+   "size": 238290,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I've recovered the memory chip.",
+   "rows": [
+    "I've recovered the memory",
+    "chip."
+   ],
+   "rows_plain": [
+    "I've recovered the memory chip."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_011",
+   "reel": 16,
+   "sdaif": "SDAIF_16.AIF",
+   "rate": 24000,
+   "frames": 45012,
+   "b0": 54,
+   "b1": 180102,
+   "size": 180102,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The bastards. Look what they did.",
+   "rows": [
+    "The bastards. Look what they",
+    "did."
+   ],
+   "rows_plain": [
+    "The bastards. Look what they did."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_012",
+   "reel": 18,
+   "sdaif": "SDAIF_18.AIF",
+   "rate": 24000,
+   "frames": 171793,
+   "b0": 54,
+   "b1": 375664,
+   "size": 687226,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "A scan of Jean's stomach shows damage extending",
+   "rows": [
+    "A scan of Jean's stomach",
+    "shows damage extending"
+   ],
+   "rows_plain": [
+    "A scan of Jean's stomach shows",
+    "damage extending"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_012b",
+   "reel": 18,
+   "sdaif": "SDAIF_18.AIF",
+   "rate": 24000,
+   "frames": 171793,
+   "b0": 375664,
+   "b1": 687226,
+   "size": 687226,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "from the submucosa into the muscle layer.",
+   "rows": [
+    "from the submucosa into the",
+    "muscle layer."
+   ],
+   "rows_plain": [
+    "from the submucosa into the muscle",
+    "layer."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_013",
+   "reel": 19,
+   "sdaif": "SDAIF_19.AIF",
+   "rate": 24000,
+   "frames": 45774,
+   "b0": 54,
+   "b1": 182454,
+   "size": 183150,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Gibson had a stomach ulcer?",
+   "rows": [
+    "Gibson had a stomach ulcer?"
+   ],
+   "rows_plain": [
+    "Gibson had a stomach ulcer?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_014",
+   "reel": 20,
+   "sdaif": "SDAIF_20.AIF",
+   "rate": 24000,
+   "frames": 91580,
+   "b0": 54,
+   "b1": 364854,
+   "size": 366374,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Yes. There are remains in his stomach, too.",
+   "rows": [
+    "Yes. There are remains in",
+    "his stomach, too."
+   ],
+   "rows_plain": [
+    "Yes. There are remains in his",
+    "stomach, too."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_015",
+   "reel": 21,
+   "sdaif": "SDAIF_21.AIF",
+   "rate": 24000,
+   "frames": 150716,
+   "b0": 54,
+   "b1": 66186,
+   "size": 602918,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Something left?",
+   "rows": [
+    "Something left?"
+   ],
+   "rows_plain": [
+    "Something left?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_015b",
+   "reel": 21,
+   "sdaif": "SDAIF_21.AIF",
+   "rate": 24000,
+   "frames": 150716,
+   "b0": 66186,
+   "b1": 595254,
+   "size": 602918,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "If we identify it and how far it's digested, we can retrace Gibson's movements.",
+   "rows": [
+    "If we identify it and how",
+    "far it's digested, we can",
+    "retrace Gibson's movements."
+   ],
+   "rows_plain": [
+    "If we identify it and how far it's",
+    "digested, we can retrace Gibson's",
+    "movements."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_016",
+   "reel": 22,
+   "sdaif": "SDAIF_22.AIF",
+   "rate": 24000,
+   "frames": 85241,
+   "b0": 54,
+   "b1": 336054,
+   "size": 341018,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll analyze the hair sample now.",
+   "rows": [
+    "I'll analyze the hair sample",
+    "now."
+   ],
+   "rows_plain": [
+    "I'll analyze the hair sample now."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_017",
+   "reel": 23,
+   "sdaif": "SDAIF_23.AIF",
+   "rate": 24000,
+   "frames": 99950,
+   "b0": 54,
+   "b1": 399854,
+   "size": 399854,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Analysis complete. Displaying results.",
+   "rows": [
+    "Analysis complete.",
+    "Displaying results."
+   ],
+   "rows_plain": [
+    "Analysis complete. Displaying",
+    "results."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_018",
+   "reel": 24,
+   "sdaif": "SDAIF_24.AIF",
+   "rate": 24000,
+   "frames": 1023231,
+   "b0": 54,
+   "b1": 829234,
+   "size": 4092978,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "1. Nuclear sex chromatin staining of the root sheath shows 46XY, a male.",
+   "rows": [
+    "1. Nuclear sex chromatin",
+    "staining of the root sheath",
+    "shows 46XY, a male."
+   ],
+   "rows_plain": [
+    "1. Nuclear sex chromatin staining of",
+    "the root sheath shows 46XY, a male."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_018b",
+   "reel": 24,
+   "sdaif": "SDAIF_24.AIF",
+   "rate": 24000,
+   "frames": 1023231,
+   "b0": 829234,
+   "b1": 1600830,
+   "size": 4092978,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "2. The hair is brown, with a hair index of 65. It's wavy hair of European ancestry.",
+   "rows": [
+    "2. The hair is brown, with a",
+    "hair index of 65. It's wavy",
+    "hair of European ancestry."
+   ],
+   "rows_plain": [
+    "2. The hair is brown, with a hair",
+    "index of 65. It's wavy hair of",
+    "European ancestry."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_018c",
+   "reel": 24,
+   "sdaif": "SDAIF_24.AIF",
+   "rate": 24000,
+   "frames": 1023231,
+   "b0": 1600830,
+   "b1": 2156818,
+   "size": 4092978,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "3. Attached tissue and thick roots show that the hair was pulled out.",
+   "rows": [
+    "3. Attached tissue and thick",
+    "roots show that the hair was",
+    "pulled out."
+   ],
+   "rows_plain": [
+    "3. Attached tissue and thick roots",
+    "show that the hair was pulled out."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_018d",
+   "reel": 24,
+   "sdaif": "SDAIF_24.AIF",
+   "rate": 24000,
+   "frames": 1023231,
+   "b0": 2156818,
+   "b1": 2684650,
+   "size": 4092978,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "4. An enzyme antibody test gives type A, Rh negative.",
+   "rows": [
+    "4. An enzyme antibody test",
+    "gives type A, Rh negative."
+   ],
+   "rows_plain": [
+    "4. An enzyme antibody test gives",
+    "type A, Rh negative."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_018e",
+   "reel": 24,
+   "sdaif": "SDAIF_24.AIF",
+   "rate": 24000,
+   "frames": 1023231,
+   "b0": 2684650,
+   "b1": 3151706,
+   "size": 4092978,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "5. Cell composition and arrangement indicate artificial protein.",
+   "rows": [
+    "5. Cell composition and",
+    "arrangement indicate",
+    "artificial protein."
+   ],
+   "rows_plain": [
+    "5. Cell composition and arrangement",
+    "indicate artificial protein."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_018f",
+   "reel": 24,
+   "sdaif": "SDAIF_24.AIF",
+   "rate": 24000,
+   "frames": 1023231,
+   "b0": 3151706,
+   "b1": 3611882,
+   "size": 4092978,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The results suggest Jean pulled this hair",
+   "rows": [
+    "The results suggest Jean",
+    "pulled this hair"
+   ],
+   "rows_plain": [
+    "The results suggest Jean pulled this",
+    "hair"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_018g",
+   "reel": 24,
+   "sdaif": "SDAIF_24.AIF",
+   "rate": 24000,
+   "frames": 1023231,
+   "b0": 3611882,
+   "b1": 4089654,
+   "size": 4092978,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "from the killer's head while they were fighting.",
+   "rows": [
+    "from the killer's head while",
+    "they were fighting."
+   ],
+   "rows_plain": [
+    "from the killer's head while they",
+    "were fighting."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_023",
+   "reel": 25,
+   "sdaif": "SDAIF_25.AIF",
+   "rate": 24000,
+   "frames": 241441,
+   "b0": 54,
+   "b1": 372178,
+   "size": 965818,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The hair probably belongs to the killer:",
+   "rows": [
+    "The hair probably belongs to",
+    "the killer:"
+   ],
+   "rows_plain": [
+    "The hair probably belongs to the",
+    "killer:"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_023b",
+   "reel": 25,
+   "sdaif": "SDAIF_25.AIF",
+   "rate": 24000,
+   "frames": 241441,
+   "b0": 372178,
+   "b1": 960054,
+   "size": 965818,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "a Snatcher posing as a European male with type A negative blood.",
+   "rows": [
+    "a Snatcher posing as a",
+    "European male with type A",
+    "negative blood."
+   ],
+   "rows_plain": [
+    "a Snatcher posing as a European male",
+    "with type A negative blood."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_024",
+   "reel": 26,
+   "sdaif": "SDAIF_26.AIF",
+   "rate": 24000,
+   "frames": 82966,
+   "b0": 54,
+   "b1": 326454,
+   "size": 331918,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll analyze the skin sample now.",
+   "rows": [
+    "I'll analyze the skin sample",
+    "now."
+   ],
+   "rows_plain": [
+    "I'll analyze the skin sample now."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_025",
+   "reel": 27,
+   "sdaif": "SDAIF_27.AIF",
+   "rate": 24000,
+   "frames": 510352,
+   "b0": 54,
+   "b1": 545286,
+   "size": 2041462,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "1. An enzyme antibody test gives type O, Rh negative.",
+   "rows": [
+    "1. An enzyme antibody test",
+    "gives type O, Rh negative."
+   ],
+   "rows_plain": [
+    "1. An enzyme antibody test gives",
+    "type O, Rh negative."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_025b",
+   "reel": 27,
+   "sdaif": "SDAIF_27.AIF",
+   "rate": 24000,
+   "frames": 510352,
+   "b0": 545286,
+   "b1": 1234338,
+   "size": 2041462,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "2. Sex chromatin staining shows 46XX, a female.",
+   "rows": [
+    "2. Sex chromatin staining",
+    "shows 46XX, a female."
+   ],
+   "rows_plain": [
+    "2. Sex chromatin staining shows",
+    "46XX, a female."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_025c",
+   "reel": 27,
+   "sdaif": "SDAIF_27.AIF",
+   "rate": 24000,
+   "frames": 510352,
+   "b0": 1234338,
+   "b1": 1674106,
+   "size": 2041462,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "3. Cell composition and arrangement indicate artificial protein.",
+   "rows": [
+    "3. Cell composition and",
+    "arrangement indicate",
+    "artificial protein."
+   ],
+   "rows_plain": [
+    "3. Cell composition and arrangement",
+    "indicate artificial protein."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_025d",
+   "reel": 27,
+   "sdaif": "SDAIF_27.AIF",
+   "rate": 24000,
+   "frames": 510352,
+   "b0": 1674106,
+   "b1": 2035254,
+   "size": 2041462,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "4. The melanocyte count shows white ancestry.",
+   "rows": [
+    "4. The melanocyte count",
+    "shows white ancestry."
+   ],
+   "rows_plain": [
+    "4. The melanocyte count shows white",
+    "ancestry."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_028",
+   "reel": 28,
+   "sdaif": "SDAIF_28.AIF",
+   "rate": 24000,
+   "frames": 476798,
+   "b0": 54,
+   "b1": 568502,
+   "size": 1907246,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The results suggest Jean scratched his attacker during their struggle,",
+   "rows": [
+    "The results suggest Jean",
+    "scratched his attacker",
+    "during their struggle,"
+   ],
+   "rows_plain": [
+    "The results suggest Jean scratched",
+    "his attacker during their struggle,"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_028b",
+   "reel": 28,
+   "sdaif": "SDAIF_28.AIF",
+   "rate": 24000,
+   "frames": 476798,
+   "b0": 568502,
+   "b1": 859754,
+   "size": 1907246,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "leaving skin under his fingernails.",
+   "rows": [
+    "leaving skin under his",
+    "fingernails."
+   ],
+   "rows_plain": [
+    "leaving skin under his fingernails."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_028c",
+   "reel": 28,
+   "sdaif": "SDAIF_28.AIF",
+   "rate": 24000,
+   "frames": 476798,
+   "b0": 859754,
+   "b1": 1260866,
+   "size": 1907246,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The skin probably belongs to the killer:",
+   "rows": [
+    "The skin probably belongs to",
+    "the killer:"
+   ],
+   "rows_plain": [
+    "The skin probably belongs to the",
+    "killer:"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_028d",
+   "reel": 28,
+   "sdaif": "SDAIF_28.AIF",
+   "rate": 24000,
+   "frames": 476798,
+   "b0": 1260866,
+   "b1": 1900854,
+   "size": 1907246,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "a Snatcher posing as a European female with type O negative blood.",
+   "rows": [
+    "a Snatcher posing as a",
+    "European female with type O",
+    "negative blood."
+   ],
+   "rows_plain": [
+    "a Snatcher posing as a European",
+    "female with type O negative blood."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_030",
+   "reel": 29,
+   "sdaif": "SDAIF_29.AIF",
+   "rate": 24000,
+   "frames": 123113,
+   "b0": 54,
+   "b1": 489650,
+   "size": 492506,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll cut open Jean's stomach and analyze its contents.",
+   "rows": [
+    "I'll cut open Jean's stomach",
+    "and analyze its contents."
+   ],
+   "rows_plain": [
+    "I'll cut open Jean's stomach and",
+    "analyze its contents."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_031",
+   "reel": 30,
+   "sdaif": "SDAIF_30.AIF",
+   "rate": 24000,
+   "frames": 248006,
+   "b0": 54,
+   "b1": 525834,
+   "size": 992078,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Based on these results, the food has been digesting for about three hours.",
+   "rows": [
+    "Based on these results, the",
+    "food has been digesting for",
+    "about three hours."
+   ],
+   "rows_plain": [
+    "Based on these results, the food has",
+    "been digesting for about three",
+    "hours."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_031b",
+   "reel": 30,
+   "sdaif": "SDAIF_30.AIF",
+   "rate": 24000,
+   "frames": 248006,
+   "b0": 525834,
+   "b1": 988854,
+   "size": 992078,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The remains are protein. The meat is cetacean.",
+   "rows": [
+    "The remains are protein. The",
+    "meat is cetacean."
+   ],
+   "rows_plain": [
+    "The remains are protein. The meat is",
+    "cetacean."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_033",
+   "reel": 31,
+   "sdaif": "SDAIF_31.AIF",
+   "rate": 24000,
+   "frames": 35584,
+   "b0": 54,
+   "b1": 134454,
+   "size": 142390,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Cetacean?",
+   "rows": [
+    "Cetacean?"
+   ],
+   "rows_plain": [
+    "Cetacean?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_034",
+   "reel": 32,
+   "sdaif": "SDAIF_32.AIF",
+   "rate": 24000,
+   "frames": 164154,
+   "b0": 54,
+   "b1": 652854,
+   "size": 656670,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Whale meat. Gibson must have eaten whale meat somewhere three hours ago.",
+   "rows": [
+    "Whale meat. Gibson must have",
+    "eaten whale meat somewhere",
+    "three hours ago."
+   ],
+   "rows_plain": [
+    "Whale meat. Gibson must have eaten",
+    "whale meat somewhere three hours",
+    "ago."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_035",
+   "reel": 33,
+   "sdaif": "SDAIF_33.AIF",
+   "rate": 24000,
+   "frames": 46636,
+   "b0": 54,
+   "b1": 182454,
+   "size": 186598,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Motion detected!",
+   "rows": [
+    "Motion detected!"
+   ],
+   "rows_plain": [
+    "Motion detected!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_036",
+   "reel": 34,
+   "sdaif": "SDAIF_34.AIF",
+   "rate": 24000,
+   "frames": 28596,
+   "b0": 54,
+   "b1": 114438,
+   "size": 114438,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "A Snatcher?",
+   "rows": [
+    "A Snatcher?"
+   ],
+   "rows_plain": [
+    "A Snatcher?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_037",
+   "reel": 35,
+   "sdaif": "SDAIF_35.AIF",
+   "rate": 24000,
+   "frames": 32750,
+   "b0": 54,
+   "b1": 124854,
+   "size": 131054,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's go and see!",
+   "rows": [
+    "Let's go and see!"
+   ],
+   "rows_plain": [
+    "Let's go and see!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_038a",
+   "reel": 39,
+   "sdaif": "SDAIF_39.AIF",
+   "rate": 24000,
+   "frames": 49838,
+   "b0": 54,
+   "b1": 192054,
+   "size": 199406,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Wh-what's this?!",
+   "rows": [
+    "Wh-what's this?!"
+   ],
+   "rows_plain": [
+    "Wh-what's this?!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_038b",
+   "reel": 53,
+   "sdaif": "SDAIF_53.AIF",
+   "rate": 24000,
+   "frames": 54620,
+   "b0": 54,
+   "b1": 211254,
+   "size": 218534,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "A time bomb!",
+   "rows": [
+    "A time bomb!"
+   ],
+   "rows_plain": [
+    "A time bomb!"
+   ],
+   "enabled": true,
+   "face_char": 1,
+   "note": "reel 53 (B220_f52_0's line) also plays here, between 038a and 038: found uncarded by the regression (satsubcheck UNCARDED)"
+  },
+  {
+   "id": "B020_038",
+   "reel": 40,
+   "sdaif": "SDAIF_40.AIF",
+   "rate": 24000,
+   "frames": 56129,
+   "b0": 54,
+   "b1": 220850,
+   "size": 224570,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We have to get out! There's no time!",
+   "rows": [
+    "We have to get out! There's",
+    "no time!"
+   ],
+   "rows_plain": [
+    "We have to get out! There's no time!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_039",
+   "reel": 41,
+   "sdaif": "SDAIF_41.AIF",
+   "rate": 24000,
+   "frames": 21931,
+   "b0": 54,
+   "b1": 86454,
+   "size": 87778,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Let's get outside!",
+   "rows": [
+    "Let's get outside!"
+   ],
+   "rows_plain": [
+    "Let's get outside!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_040",
+   "reel": 42,
+   "sdaif": "SDAIF_42.AIF",
+   "rate": 24000,
+   "frames": 26889,
+   "b0": 54,
+   "b1": 105654,
+   "size": 107610,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I can't!",
+   "rows": [
+    "I can't!"
+   ],
+   "rows_plain": [
+    "I can't!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_042a",
+   "reel": 43,
+   "sdaif": "SDAIF_43.AIF",
+   "rate": 24000,
+   "frames": 28189,
+   "b0": 54,
+   "b1": 112810,
+   "size": 112810,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What's wrong? Hurry!",
+   "rows": [
+    "What's wrong? Hurry!"
+   ],
+   "rows_plain": [
+    "What's wrong? Hurry!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_041",
+   "reel": 44,
+   "sdaif": "SDAIF_44.AIF",
+   "rate": 24000,
+   "frames": 39974,
+   "b0": 54,
+   "b1": 159950,
+   "size": 159950,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "My legs have given out.",
+   "rows": [
+    "My legs have given out."
+   ],
+   "rows_plain": [
+    "My legs have given out."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_042",
+   "reel": 45,
+   "sdaif": "SDAIF_45.AIF",
+   "rate": 24000,
+   "frames": 60372,
+   "b0": 54,
+   "b1": 240054,
+   "size": 241542,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Stop arguing! Run! It's going to blow!",
+   "rows": [
+    "Stop arguing! Run! It's",
+    "going to blow!"
+   ],
+   "rows_plain": [
+    "Stop arguing! Run! It's going to",
+    "blow!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_043",
+   "reel": 46,
+   "sdaif": "SDAIF_46.AIF",
+   "rate": 24000,
+   "frames": 48333,
+   "b0": 54,
+   "b1": 192054,
+   "size": 193386,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "It's no use. I can't move.",
+   "rows": [
+    "It's no use. I can't move."
+   ],
+   "rows_plain": [
+    "It's no use. I can't move."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_044",
+   "reel": 47,
+   "sdaif": "SDAIF_47.AIF",
+   "rate": 24000,
+   "frames": 57659,
+   "b0": 54,
+   "b1": 230454,
+   "size": 230690,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "You're a handful! Here!",
+   "rows": [
+    "You're a handful! Here!"
+   ],
+   "rows_plain": [
+    "You're a handful! Here!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_047a",
+   "reel": 48,
+   "sdaif": "SDAIF_48.AIF",
+   "rate": 24000,
+   "frames": 52857,
+   "b0": 54,
+   "b1": 211254,
+   "size": 211482,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "It's no use. I can't move.",
+   "rows": [
+    "It's no use. I can't move."
+   ],
+   "rows_plain": [
+    "It's no use. I can't move."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_045",
+   "reel": 49,
+   "sdaif": "SDAIF_49.AIF",
+   "rate": 24000,
+   "frames": 70027,
+   "b0": 54,
+   "b1": 278454,
+   "size": 280162,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Whew, that was a shock! My ears are ringing.",
+   "rows": [
+    "Whew, that was a shock! My",
+    "ears are ringing."
+   ],
+   "rows_plain": [
+    "Whew, that was a shock! My ears are",
+    "ringing."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_046",
+   "reel": 50,
+   "sdaif": "SDAIF_50.AIF",
+   "rate": 24000,
+   "frames": 65331,
+   "b0": 54,
+   "b1": 259254,
+   "size": 261378,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "You left the volume turned up.",
+   "rows": [
+    "You left the volume turned",
+    "up."
+   ],
+   "rows_plain": [
+    "You left the volume turned up."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_047",
+   "reel": 51,
+   "sdaif": "SDAIF_51.AIF",
+   "rate": 24000,
+   "frames": 44339,
+   "b0": 54,
+   "b1": 172854,
+   "size": 177410,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Damn those Snatchers!",
+   "rows": [
+    "Damn those Snatchers!"
+   ],
+   "rows_plain": [
+    "Damn those Snatchers!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B020_048",
+   "reel": 52,
+   "sdaif": "SDAIF_52.AIF",
+   "rate": 24000,
+   "frames": 139420,
+   "b0": 54,
+   "b1": 399606,
+   "size": 557734,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "It's all right. I've recorded all the evidence at the scene.",
+   "rows": [
+    "It's all right. I've",
+    "recorded all the evidence at",
+    "the scene."
+   ],
+   "rows_plain": [
+    "It's all right. I've recorded all",
+    "the evidence at the scene."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B020_048b",
+   "reel": 52,
+   "sdaif": "SDAIF_52.AIF",
+   "rate": 24000,
+   "frames": 139420,
+   "b0": 399606,
+   "b1": 556854,
+   "size": 557734,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's head back to headquarters.",
+   "rows": [
+    "Let's head back to",
+    "headquarters."
+   ],
+   "rows_plain": [
+    "Let's head back to headquarters."
+   ],
+   "enabled": true,
+   "face_char": 5
+  }
+ ]
+}

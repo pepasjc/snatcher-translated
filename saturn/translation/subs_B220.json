@@ -1,0 +1,1399 @@
+{
+ "scene": "B220",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B220_f52_0",
+   "reel": 53,
+   "sdaif": "SDAIF_53.AIF",
+   "rate": 24000,
+   "frames": 54620,
+   "b0": 54,
+   "b1": 211254,
+   "size": 218534,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "A time bomb!",
+   "rows": [
+    "A time bomb!"
+   ],
+   "rows_plain": [
+    "A time bomb!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f54_0",
+   "reel": 66,
+   "sdaif": "SDAIF_66.AIF",
+   "rate": 24000,
+   "frames": 63445,
+   "b0": 54,
+   "b1": 249654,
+   "size": 253834,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Are you all right, Metal?",
+   "rows": [
+    "Are you all right, Metal?"
+   ],
+   "rows_plain": [
+    "Are you all right, Metal?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f55_0",
+   "reel": 67,
+   "sdaif": "SDAIF_67.AIF",
+   "rate": 24000,
+   "frames": 116153,
+   "b0": 54,
+   "b1": 460854,
+   "size": 464666,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "D-d-dap, wha-doo-heddle, d-d-d-doo!",
+   "rows": [
+    "D-d-dap, wha-doo-heddle,",
+    "d-d-d-doo!"
+   ],
+   "rows_plain": [
+    "D-d-dap, wha-doo-heddle, d-d-d-doo!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f56_0",
+   "reel": 68,
+   "sdaif": "SDAIF_68.AIF",
+   "rate": 24000,
+   "frames": 75078,
+   "b0": 54,
+   "b1": 297654,
+   "size": 300366,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal! Is something broken?",
+   "rows": [
+    "Metal! Is something broken?"
+   ],
+   "rows_plain": [
+    "Metal! Is something broken?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f57_0",
+   "reel": 69,
+   "sdaif": "SDAIF_69.AIF",
+   "rate": 24000,
+   "frames": 225983,
+   "b0": 54,
+   "b1": 902454,
+   "size": 903986,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I-I-I'm all right. I think. My speech circuits seem a little scrambled.",
+   "rows": [
+    "I-I-I'm all right. I think.",
+    "My speech circuits seem a",
+    "little scrambled."
+   ],
+   "rows_plain": [
+    "I-I-I'm all right. I think. My",
+    "speech circuits seem a little",
+    "scrambled."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f58_0",
+   "reel": 70,
+   "sdaif": "SDAIF_70.AIF",
+   "rate": 24000,
+   "frames": 33796,
+   "b0": 54,
+   "b1": 134454,
+   "size": 135238,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What happened?",
+   "rows": [
+    "What happened?"
+   ],
+   "rows_plain": [
+    "What happened?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f59_0",
+   "reel": 71,
+   "sdaif": "SDAIF_71.AIF",
+   "rate": 24000,
+   "frames": 112763,
+   "b0": 54,
+   "b1": 451106,
+   "size": 451106,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Randam pushed us into the vent and blew himself up.",
+   "rows": [
+    "Randam pushed us into the",
+    "vent and blew himself up."
+   ],
+   "rows_plain": [
+    "Randam pushed us into the vent and",
+    "blew himself up."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f60_0",
+   "reel": 72,
+   "sdaif": "SDAIF_72.AIF",
+   "rate": 24000,
+   "frames": 33391,
+   "b0": 54,
+   "b1": 133618,
+   "size": 133618,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Randam!",
+   "rows": [
+    "Randam!"
+   ],
+   "rows_plain": [
+    "Randam!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f61_0",
+   "reel": 73,
+   "sdaif": "SDAIF_73.AIF",
+   "rate": 24000,
+   "frames": 107145,
+   "b0": 54,
+   "b1": 422454,
+   "size": 428634,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian, that blast must have destroyed Queen Hospital.",
+   "rows": [
+    "Gillian, that blast must",
+    "have destroyed Queen",
+    "Hospital."
+   ],
+   "rows_plain": [
+    "Gillian, that blast must have",
+    "destroyed Queen Hospital."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f62_0",
+   "reel": 74,
+   "sdaif": "SDAIF_74.AIF",
+   "rate": 24000,
+   "frames": 191015,
+   "b0": 54,
+   "b1": 764114,
+   "size": 764114,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The solid duct absorbed the blast. Without Randam, we'd be dead. Randam!",
+   "rows": [
+    "The solid duct absorbed the",
+    "blast. Without Randam, we'd",
+    "be dead. Randam!"
+   ],
+   "rows_plain": [
+    "The solid duct absorbed the blast.",
+    "Without Randam, we'd be dead.",
+    "Randam!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f63_0",
+   "reel": 75,
+   "sdaif": "SDAIF_75.AIF",
+   "rate": 24000,
+   "frames": 241623,
+   "b0": 54,
+   "b1": 299414,
+   "size": 966546,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian, there's no time to grieve.",
+   "rows": [
+    "Gillian, there's no time to",
+    "grieve."
+   ],
+   "rows_plain": [
+    "Gillian, there's no time to grieve."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f63_0b",
+   "reel": 75,
+   "sdaif": "SDAIF_75.AIF",
+   "rate": 24000,
+   "frames": 241623,
+   "b0": 299414,
+   "b1": 960054,
+   "size": 966546,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We must get back and junk Cunningham, or Harry and Mika will be in danger, too.",
+   "rows": [
+    "We must get back and junk",
+    "Cunningham, or Harry and",
+    "Mika will be in danger, too."
+   ],
+   "rows_plain": [
+    "We must get back and junk",
+    "Cunningham, or Harry and Mika will",
+    "be in danger, too."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f64_0",
+   "reel": 76,
+   "sdaif": "SDAIF_76.AIF",
+   "rate": 24000,
+   "frames": 91575,
+   "b0": 54,
+   "b1": 364854,
+   "size": 366354,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "We have to keep our promise to Randam.",
+   "rows": [
+    "We have to keep our promise",
+    "to Randam."
+   ],
+   "rows_plain": [
+    "We have to keep our promise to",
+    "Randam."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f65_0",
+   "reel": 77,
+   "sdaif": "SDAIF_77.AIF",
+   "rate": 24000,
+   "frames": 60844,
+   "b0": 54,
+   "b1": 240054,
+   "size": 243430,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "First, we need a way out of here!",
+   "rows": [
+    "First, we need a way out of",
+    "here!"
+   ],
+   "rows_plain": [
+    "First, we need a way out of here!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f66_0",
+   "reel": 78,
+   "sdaif": "SDAIF_78.AIF",
+   "rate": 24000,
+   "frames": 77097,
+   "b0": 54,
+   "b1": 307254,
+   "size": 308442,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "But I can't see anything. What now?",
+   "rows": [
+    "But I can't see anything.",
+    "What now?"
+   ],
+   "rows_plain": [
+    "But I can't see anything. What now?"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f67_0",
+   "reel": 79,
+   "sdaif": "SDAIF_79.AIF",
+   "rate": 24000,
+   "frames": 78282,
+   "b0": 54,
+   "b1": 313182,
+   "size": 313182,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What's this?",
+   "rows": [
+    "What's this?"
+   ],
+   "rows_plain": [
+    "What's this?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f68_0",
+   "reel": 80,
+   "sdaif": "SDAIF_80.AIF",
+   "rate": 24000,
+   "frames": 87651,
+   "b0": 54,
+   "b1": 345654,
+   "size": 350658,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "It's a Tube Liner tunnel!",
+   "rows": [
+    "It's a Tube Liner tunnel!"
+   ],
+   "rows_plain": [
+    "It's a Tube Liner tunnel!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f69_0",
+   "reel": 81,
+   "sdaif": "SDAIF_81.AIF",
+   "rate": 24000,
+   "frames": 106715,
+   "b0": 54,
+   "b1": 422454,
+   "size": 426914,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "So Queen Hospital was connected to the Tube Liner.",
+   "rows": [
+    "So Queen Hospital was",
+    "connected to the Tube Liner."
+   ],
+   "rows_plain": [
+    "So Queen Hospital was connected to",
+    "the Tube Liner."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f70_0",
+   "reel": 82,
+   "sdaif": "SDAIF_82.AIF",
+   "rate": 24000,
+   "frames": 163696,
+   "b0": 54,
+   "b1": 652854,
+   "size": 654838,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Yes. The Snatchers used these tunnels to move around underground.",
+   "rows": [
+    "Yes. The Snatchers used",
+    "these tunnels to move around",
+    "underground."
+   ],
+   "rows_plain": [
+    "Yes. The Snatchers used these",
+    "tunnels to move around underground."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f71_0",
+   "reel": 83,
+   "sdaif": "SDAIF_83.AIF",
+   "rate": 24000,
+   "frames": 201870,
+   "b0": 54,
+   "b1": 201654,
+   "size": 807534,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "They can't stand ultraviolet light.",
+   "rows": [
+    "They can't stand ultraviolet",
+    "light."
+   ],
+   "rows_plain": [
+    "They can't stand ultraviolet light."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f71_0b",
+   "reel": 83,
+   "sdaif": "SDAIF_83.AIF",
+   "rate": 24000,
+   "frames": 201870,
+   "b0": 201654,
+   "b1": 806454,
+   "size": 807534,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "They must have used these tunnels to stay out of the sun.",
+   "rows": [
+    "They must have used these",
+    "tunnels to stay out of the",
+    "sun."
+   ],
+   "rows_plain": [
+    "They must have used these tunnels to",
+    "stay out of the sun."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f72_0",
+   "reel": 84,
+   "sdaif": "SDAIF_84.AIF",
+   "rate": 24000,
+   "frames": 300079,
+   "b0": 54,
+   "b1": 634666,
+   "size": 1200370,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Why didn't we realize it? Subway lines run all over the city.",
+   "rows": [
+    "Why didn't we realize it?",
+    "Subway lines run all over",
+    "the city."
+   ],
+   "rows_plain": [
+    "Why didn't we realize it? Subway",
+    "lines run all over the city."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f72_0b",
+   "reel": 84,
+   "sdaif": "SDAIF_84.AIF",
+   "rate": 24000,
+   "frames": 300079,
+   "b0": 634666,
+   "b1": 1200054,
+   "size": 1200370,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Now that they're abandoned, they can move around unseen.",
+   "rows": [
+    "Now that they're abandoned,",
+    "they can move around unseen."
+   ],
+   "rows_plain": [
+    "Now that they're abandoned, they can",
+    "move around unseen."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f73_0",
+   "reel": 85,
+   "sdaif": "SDAIF_85.AIF",
+   "rate": 24000,
+   "frames": 184003,
+   "b0": 54,
+   "b1": 79134,
+   "size": 736066,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Of course!",
+   "rows": [
+    "Of course!"
+   ],
+   "rows_plain": [
+    "Of course!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f73_0b",
+   "reel": 85,
+   "sdaif": "SDAIF_85.AIF",
+   "rate": 24000,
+   "frames": 184003,
+   "b0": 79134,
+   "b1": 729654,
+   "size": 736066,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That figure at the factory where Gibson died vanished into these tunnels!",
+   "rows": [
+    "That figure at the factory",
+    "where Gibson died vanished",
+    "into these tunnels!"
+   ],
+   "rows_plain": [
+    "That figure at the factory where",
+    "Gibson died vanished into these",
+    "tunnels!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f74_0",
+   "reel": 86,
+   "sdaif": "SDAIF_86.AIF",
+   "rate": 24000,
+   "frames": 243899,
+   "b0": 54,
+   "b1": 455510,
+   "size": 975650,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Yes. The Tube Liner also runs under that factory.",
+   "rows": [
+    "Yes. The Tube Liner also",
+    "runs under that factory."
+   ],
+   "rows_plain": [
+    "Yes. The Tube Liner also runs under",
+    "that factory."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f74_0b",
+   "reel": 86,
+   "sdaif": "SDAIF_86.AIF",
+   "rate": 24000,
+   "frames": 243899,
+   "b0": 455510,
+   "b1": 969654,
+   "size": 975650,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "That explains the sand from the factory that fell into the air vent.",
+   "rows": [
+    "That explains the sand from",
+    "the factory that fell into",
+    "the air vent."
+   ],
+   "rows_plain": [
+    "That explains the sand from the",
+    "factory that fell into the air vent."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f75_0",
+   "reel": 87,
+   "sdaif": "SDAIF_87.AIF",
+   "rate": 24000,
+   "frames": 188345,
+   "b0": 54,
+   "b1": 249650,
+   "size": 753434,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I see. So that's how they did it.",
+   "rows": [
+    "I see. So that's how they",
+    "did it."
+   ],
+   "rows_plain": [
+    "I see. So that's how they did it."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f75_0b",
+   "reel": 87,
+   "sdaif": "SDAIF_87.AIF",
+   "rate": 24000,
+   "frames": 188345,
+   "b0": 249650,
+   "b1": 748854,
+   "size": 753434,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "They moved around without being seen and stayed out of the sunlight!",
+   "rows": [
+    "They moved around without",
+    "being seen and stayed out of",
+    "the sunlight!"
+   ],
+   "rows_plain": [
+    "They moved around without being seen",
+    "and stayed out of the sunlight!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f76_0",
+   "reel": 88,
+   "sdaif": "SDAIF_88.AIF",
+   "rate": 24000,
+   "frames": 114458,
+   "b0": 54,
+   "b1": 457886,
+   "size": 457886,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "No wonder it took so long to find the Snatchers.",
+   "rows": [
+    "No wonder it took so long to",
+    "find the Snatchers."
+   ],
+   "rows_plain": [
+    "No wonder it took so long to find",
+    "the Snatchers."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f77_0",
+   "reel": 89,
+   "sdaif": "SDAIF_89.AIF",
+   "rate": 24000,
+   "frames": 155511,
+   "b0": 54,
+   "b1": 622098,
+   "size": 622098,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Let's follow the Tube Liner tracks! We might find a way out at the nearest station.",
+   "rows": [
+    "Let's follow the Tube Liner",
+    "tracks! We might find a way",
+    "out at the nearest station."
+   ],
+   "rows_plain": [
+    "Let's follow the Tube Liner tracks!",
+    "We might find a way out at the",
+    "nearest station."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f78_0",
+   "reel": 90,
+   "sdaif": "SDAIF_90.AIF",
+   "rate": 24000,
+   "frames": 75286,
+   "b0": 54,
+   "b1": 297654,
+   "size": 301198,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Look! Light!",
+   "rows": [
+    "Look! Light!"
+   ],
+   "rows_plain": [
+    "Look! Light!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f79_0",
+   "reel": 91,
+   "sdaif": "SDAIF_91.AIF",
+   "rate": 24000,
+   "frames": 92876,
+   "b0": 54,
+   "b1": 364854,
+   "size": 371558,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "But it doesn't look like a station.",
+   "rows": [
+    "But it doesn't look like a",
+    "station."
+   ],
+   "rows_plain": [
+    "But it doesn't look like a station."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f80_0",
+   "reel": 92,
+   "sdaif": "SDAIF_92.AIF",
+   "rate": 24000,
+   "frames": 49319,
+   "b0": 54,
+   "b1": 192054,
+   "size": 197330,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "A ladder!",
+   "rows": [
+    "A ladder!"
+   ],
+   "rows_plain": [
+    "A ladder!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f81_0",
+   "reel": 93,
+   "sdaif": "SDAIF_93.AIF",
+   "rate": 24000,
+   "frames": 82670,
+   "b0": 54,
+   "b1": 326454,
+   "size": 330734,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Where does it lead, Gillian?",
+   "rows": [
+    "Where does it lead, Gillian?"
+   ],
+   "rows_plain": [
+    "Where does it lead, Gillian?"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_f82_0",
+   "reel": 94,
+   "sdaif": "SDAIF_94.AIF",
+   "rate": 24000,
+   "frames": 119521,
+   "b0": 54,
+   "b1": 478138,
+   "size": 478138,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I don't know. Well, let's climb up and see.",
+   "rows": [
+    "I don't know. Well, let's",
+    "climb up and see."
+   ],
+   "rows_plain": [
+    "I don't know. Well, let's climb up",
+    "and see."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B220_f83_0",
+   "reel": 95,
+   "sdaif": "SDAIF_95.AIF",
+   "rate": 24000,
+   "frames": 95418,
+   "b0": 54,
+   "b1": 381726,
+   "size": 381726,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Right. Let's climb the ladder.",
+   "rows": [
+    "Right. Let's climb the",
+    "ladder."
+   ],
+   "rows_plain": [
+    "Right. Let's climb the ladder."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B220_c8f1",
+   "line": 554,
+   "act": 2,
+   "sector": 5431,
+   "offset": 1375,
+   "size": 8846,
+   "b0": 0,
+   "b1": 8846,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "It's them!",
+   "rows": [
+    "It's them!"
+   ],
+   "rows_plain": [
+    "It's them!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f2",
+   "line": 555,
+   "act": 2,
+   "sector": 5435,
+   "offset": 925,
+   "size": 11484,
+   "b0": 0,
+   "b1": 11484,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Snatchers!",
+   "rows": [
+    "Snatchers!"
+   ],
+   "rows_plain": [
+    "Snatchers!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f3",
+   "line": 556,
+   "act": 2,
+   "sector": 5440,
+   "offset": 789,
+   "size": 7348,
+   "b0": 0,
+   "b1": 7348,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Get them!",
+   "rows": [
+    "Get them!"
+   ],
+   "rows_plain": [
+    "Get them!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f4",
+   "line": 557,
+   "act": 2,
+   "sector": 5443,
+   "offset": 1165,
+   "size": 4732,
+   "b0": 0,
+   "b1": 4732,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Huh?",
+   "rows": [
+    "Huh?"
+   ],
+   "rows_plain": [
+    "Huh?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f5",
+   "line": 559,
+   "act": 2,
+   "sector": 7421,
+   "offset": 298,
+   "size": 45499,
+   "b0": 0,
+   "b1": 45499,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "What a strange place to end up. Oh! This is...",
+   "rows": [
+    "What a strange place to end",
+    "up. Oh! This is..."
+   ],
+   "rows_plain": [
+    "What a strange place to end up. Oh!",
+    "This is..."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f6",
+   "line": 560,
+   "act": 2,
+   "sector": 7440,
+   "offset": 1641,
+   "size": 20201,
+   "b0": 0,
+   "b1": 20201,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Freddy Nielsen's bathroom!",
+   "rows": [
+    "Freddy Nielsen's bathroom!"
+   ],
+   "rows_plain": [
+    "Freddy Nielsen's bathroom!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B220_c8f7",
+   "line": 561,
+   "act": 2,
+   "sector": 7449,
+   "offset": 926,
+   "size": 73313,
+   "b0": 0,
+   "b1": 43899,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Freddy used this bathtub to reach the tunnels.",
+   "rows": [
+    "Freddy used this bathtub to",
+    "reach the tunnels."
+   ],
+   "rows_plain": [
+    "Freddy used this bathtub to reach",
+    "the tunnels."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f7b",
+   "line": 561,
+   "act": 2,
+   "sector": 7449,
+   "offset": 926,
+   "size": 73313,
+   "b0": 43899,
+   "b1": 73313,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That explains what happened before!",
+   "rows": [
+    "That explains what happened",
+    "before!"
+   ],
+   "rows_plain": [
+    "That explains what happened before!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f8",
+   "line": 562,
+   "act": 2,
+   "sector": 7480,
+   "offset": 2195,
+   "size": 54713,
+   "b0": 0,
+   "b1": 54713,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "After we junked Lisa, Freddy entered the room without using the front door?",
+   "rows": [
+    "After we junked Lisa, Freddy",
+    "entered the room without",
+    "using the front door?"
+   ],
+   "rows_plain": [
+    "After we junked Lisa, Freddy entered",
+    "the room without using the front",
+    "door?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B220_c8f9",
+   "line": 563,
+   "act": 2,
+   "sector": 7504,
+   "offset": 1132,
+   "size": 28216,
+   "b0": 0,
+   "b1": 28216,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "He was coming and going through here.",
+   "rows": [
+    "He was coming and going",
+    "through here."
+   ],
+   "rows_plain": [
+    "He was coming and going through",
+    "here."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f10",
+   "line": 564,
+   "act": 2,
+   "sector": 7516,
+   "offset": 1460,
+   "size": 156532,
+   "b0": 0,
+   "b1": 63554,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The bathtub has a double bottom. The bottom is actually a lid.",
+   "rows": [
+    "The bathtub has a double",
+    "bottom. The bottom is",
+    "actually a lid."
+   ],
+   "rows_plain": [
+    "The bathtub has a double bottom. The",
+    "bottom is actually a lid."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f10b",
+   "line": 564,
+   "act": 2,
+   "sector": 7516,
+   "offset": 1460,
+   "size": 156532,
+   "b0": 63554,
+   "b1": 101216,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Water conceals it from view.",
+   "rows": [
+    "Water conceals it from view."
+   ],
+   "rows_plain": [
+    "Water conceals it from view."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f10c",
+   "line": 564,
+   "act": 2,
+   "sector": 7516,
+   "offset": 1460,
+   "size": 156532,
+   "b0": 101216,
+   "b1": 156532,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "To enter or leave, he'd drain all the water into a separate tank.",
+   "rows": [
+    "To enter or leave, he'd",
+    "drain all the water into a",
+    "separate tank."
+   ],
+   "rows_plain": [
+    "To enter or leave, he'd drain all",
+    "the water into a separate tank."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f11",
+   "line": 565,
+   "act": 2,
+   "sector": 7583,
+   "offset": 2284,
+   "size": 73947,
+   "b0": 0,
+   "b1": 35632,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That's how much Snatchers hate ultraviolet light.",
+   "rows": [
+    "That's how much Snatchers",
+    "hate ultraviolet light."
+   ],
+   "rows_plain": [
+    "That's how much Snatchers hate",
+    "ultraviolet light."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f11b",
+   "line": 565,
+   "act": 2,
+   "sector": 7583,
+   "offset": 2284,
+   "size": 73947,
+   "b0": 35632,
+   "b1": 73947,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That's why they use the abandoned Tube Liner tunnels.",
+   "rows": [
+    "That's why they use the",
+    "abandoned Tube Liner",
+    "tunnels."
+   ],
+   "rows_plain": [
+    "That's why they use the abandoned",
+    "Tube Liner tunnels."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f12",
+   "line": 566,
+   "act": 2,
+   "sector": 7615,
+   "offset": 1863,
+   "size": 27930,
+   "b0": 0,
+   "b1": 27930,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Come on, Gillian. Let's get outside.",
+   "rows": [
+    "Come on, Gillian. Let's get",
+    "outside."
+   ],
+   "rows_plain": [
+    "Come on, Gillian. Let's get outside."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f13",
+   "line": 567,
+   "act": 2,
+   "sector": 7627,
+   "offset": 1905,
+   "size": 8048,
+   "b0": 0,
+   "b1": 8048,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Did we get him?",
+   "rows": [
+    "Did we get him?"
+   ],
+   "rows_plain": [
+    "Did we get him?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f14",
+   "line": 568,
+   "act": 2,
+   "sector": 7631,
+   "offset": 657,
+   "size": 41173,
+   "b0": 0,
+   "b1": 41173,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "He's completely junked. A stubborn one, wasn't he?",
+   "rows": [
+    "He's completely junked. A",
+    "stubborn one, wasn't he?"
+   ],
+   "rows_plain": [
+    "He's completely junked. A stubborn",
+    "one, wasn't he?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f15",
+   "line": 569,
+   "act": 2,
+   "sector": 7648,
+   "offset": 2322,
+   "size": 112963,
+   "b0": 0,
+   "b1": 61115,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "He survived that explosion? And got here ahead of us!",
+   "rows": [
+    "He survived that explosion?",
+    "And got here ahead of us!"
+   ],
+   "rows_plain": [
+    "He survived that explosion? And got",
+    "here ahead of us!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f15b",
+   "line": 569,
+   "act": 2,
+   "sector": 7648,
+   "offset": 2322,
+   "size": 112963,
+   "b0": 61115,
+   "b1": 99357,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "If they take over the city, there'll be nothing we can do.",
+   "rows": [
+    "If they take over the city,",
+    "there'll be nothing we can",
+    "do."
+   ],
+   "rows_plain": [
+    "If they take over the city, there'll",
+    "be nothing we can do."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f15b2",
+   "line": 569,
+   "act": 2,
+   "sector": 7648,
+   "offset": 2322,
+   "size": 112963,
+   "b0": 99357,
+   "b1": 112963,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "We have to stop them first.",
+   "rows": [
+    "We have to stop them first."
+   ],
+   "rows_plain": [
+    "We have to stop them first."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f16",
+   "line": 570,
+   "act": 2,
+   "sector": 7697,
+   "offset": 1409,
+   "size": 36950,
+   "b0": 0,
+   "b1": 36950,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Then we must keep the chief away from the summit.",
+   "rows": [
+    "Then we must keep the chief",
+    "away from the summit."
+   ],
+   "rows_plain": [
+    "Then we must keep the chief away",
+    "from the summit."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f17",
+   "line": 571,
+   "act": 2,
+   "sector": 7713,
+   "offset": 1175,
+   "size": 29525,
+   "b0": 0,
+   "b1": 29525,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I know! We owe Randam!",
+   "rows": [
+    "I know! We owe Randam!"
+   ],
+   "rows_plain": [
+    "I know! We owe Randam!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f18",
+   "line": 572,
+   "act": 2,
+   "sector": 7726,
+   "offset": 488,
+   "size": 22561,
+   "b0": 0,
+   "b1": 22561,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's borrow this taxi and hurry to headquarters.",
+   "rows": [
+    "Let's borrow this taxi and",
+    "hurry to headquarters."
+   ],
+   "rows_plain": [
+    "Let's borrow this taxi and hurry to",
+    "headquarters."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B220_c8f19",
+   "line": 573,
+   "act": 2,
+   "sector": 7735,
+   "offset": 2133,
+   "size": 34647,
+   "b0": 0,
+   "b1": 34647,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That's the plan. Mika, old man, please be safe.",
+   "rows": [
+    "That's the plan. Mika, old",
+    "man, please be safe."
+   ],
+   "rows_plain": [
+    "That's the plan. Mika, old man,",
+    "please be safe."
+   ],
+   "enabled": true
+  }
+ ]
+}

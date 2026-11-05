@@ -1,0 +1,38 @@
+{
+ "scene": "B0E0",
+ "note": "B0E0's sweeps from a fresh boot of the scene save.",
+ "actions": [
+  {
+   "sweep": [
+    "Sniff",
+    "Investigate",
+    "Sniff",
+    "Eat",
+    "Look",
+    "Listen",
+    "Talk",
+    "Ask"
+   ],
+   "rounds": 3
+  },
+  {
+   "sweep": [
+    "Move"
+   ],
+   "each": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Ask",
+    "Buy",
+    "Sniff",
+    "Eat"
+   ],
+   "each_rounds": 2,
+   "rounds": 2
+  },
+  {
+   "save": "B0E0_swept_fresh"
+  }
+ ]
+}

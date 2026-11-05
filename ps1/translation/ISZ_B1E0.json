@@ -1,0 +1,2351 @@
+{
+ "file": "ISZ_B1E0.BIN",
+ "text_base": 7474,
+ "strings": [
+  {
+   "off": 7475,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 7479,
+   "budget": 35,
+   "en": "Outside ＠赤'QUEEN' Hospital＠白.",
+   "long": "We're outside ＠赤QUEEN Hospital＠白."
+  },
+  {
+   "off": 7514,
+   "budget": 39,
+   "en": "This is ＠赤QUEEN Hospital＠白."
+  },
+  {
+   "off": 7553,
+   "budget": 27,
+   "en": "Look at that neon sign!"
+  },
+  {
+   "off": 7580,
+   "budget": 55,
+   "en": "It's the one in Little John's￥memory!"
+  },
+  {
+   "off": 7635,
+   "budget": 5,
+   "en": "Move"
+  },
+  {
+   "off": 7640,
+   "budget": 9,
+   "en": "Get in",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 7649,
+   "budget": 9,
+   "en": "Go in",
+   "long": "Go inside"
+  },
+  {
+   "off": 7658,
+   "budget": 21,
+   "en": "Let's go, Randam!"
+  },
+  {
+   "off": 7679,
+   "budget": 19,
+   "en": "Come any time..."
+  },
+  {
+   "off": 7698,
+   "budget": 29,
+   "en": "I'll open the door."
+  },
+  {
+   "off": 7727,
+   "budget": 55,
+   "en": "First I must read the door's￥lock type.",
+   "long": "First, I need to identify the lock￥before I can open it."
+  },
+  {
+   "off": 7782,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 7787,
+   "budget": 5,
+   "en": "Bldg",
+   "long": "Building"
+  },
+  {
+   "off": 7792,
+   "budget": 71,
+   "en": "Built in the 20th century.￥Doesn't look open for business.",
+   "long": "It seems to date from the twentieth￥century. It doesn't look open for￥business."
+  },
+  {
+   "off": 7863,
+   "budget": 71,
+   "en": "Doesn't look like a hospital.￥Probably an old office block.",
+   "long": "It doesn't look like a hospital. It￥was probably an office building￥once."
+  },
+  {
+   "off": 7934,
+   "budget": 7,
+   "en": "Neon",
+   "long": "Neon signs"
+  },
+  {
+   "off": 7941,
+   "budget": 49,
+   "en": "Even up close, it reads OLEEN.",
+   "long": "This reads as 'OLEEN' even when you￥look at it up close."
+  },
+  {
+   "off": 7990,
+   "budget": 51,
+   "en": "Preconceptions really can distort￥the truth."
+  },
+  {
+   "off": 8041,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 8048,
+   "budget": 61,
+   "en": "A main road runs before it.￥Much illegal parking too.",
+   "long": "The building faces a main road.￥There are plenty of illegally parked￥cars."
+  },
+  {
+   "off": 8109,
+   "budget": 51,
+   "en": "More people than I thought.￥Heavy traffic.",
+   "long": "There are more people than I￥expected. Lots of pedestrians and￥traffic."
+  },
+  {
+   "off": 8160,
+   "budget": 31,
+   "en": "It's their cover."
+  },
+  {
+   "off": 8191,
+   "budget": 3,
+   "en": "Dr",
+   "long": "Door"
+  },
+  {
+   "off": 8194,
+   "budget": 31,
+   "en": "An old electronic-lock door.",
+   "long": "The door has an old electronic lock."
+  },
+  {
+   "off": 8225,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 8232,
+   "budget": 49,
+   "en": "A cylindrical block.￥Last century's fashion.",
+   "long": "It's a cylindrical building. They￥were popular late last century."
+  },
+  {
+   "off": 8281,
+   "budget": 65,
+   "en": "It's getting old, but it seems well￥maintained."
+  },
+  {
+   "off": 8346,
+   "budget": 35,
+   "en": "Nobody'd suspect this old dump.",
+   "long": "No one would suspect an old building￥like this."
+  },
+  {
+   "off": 8381,
+   "budget": 35,
+   "en": "Clever... running it underground.",
+   "long": "Clever. Running their operation￥underground."
+  },
+  {
+   "off": 8416,
+   "budget": 35,
+   "en": "Only the front door, it seems.",
+   "long": "The front door seems to be the only￥entrance."
+  },
+  {
+   "off": 8451,
+   "budget": 35,
+   "en": "Part of the neon is broken.",
+   "long": "Part of the neon sign is broken,￥just as we thought."
+  },
+  {
+   "off": 8486,
+   "budget": 29,
+   "en": "The neon tube is flickering.",
+   "long": "The neon tubes are flickering."
+  },
+  {
+   "off": 8515,
+   "budget": 129,
+   "en": "This area seems to be above the￥abandoned Tube Liner subway. It￥apparently declined after the subway￥closed."
+  },
+  {
+   "off": 8644,
+   "budget": 51,
+   "en": "A subway...￥Suspicious. Jamie's story holds up.",
+   "long": "A subway? That's suspicious. Sounds￥like Jamie was right."
+  },
+  {
+   "off": 8695,
+   "budget": 47,
+   "en": "Matched to the map.￥Below is the old subway.",
+   "long": "I've checked the map. The old subway￥runs beneath us."
+  },
+  {
+   "off": 8742,
+   "budget": 65,
+   "en": "Most of Neo Kobe's ground is too￥soft to dig tunnels."
+  },
+  {
+   "off": 8807,
+   "budget": 63,
+   "en": "It faces the road, but there's￥no development to speak of.",
+   "long": "It faces the street, but there￥doesn't seem to be much development￥here."
+  },
+  {
+   "off": 8870,
+   "budget": 43,
+   "en": "Well away from shops or housing.",
+   "long": "It's quite far from the shopping and￥residential areas."
+  },
+  {
+   "off": 8913,
+   "budget": 57,
+   "en": "I kept the data from before,￥so it opens easily.",
+   "long": "I saved the data from last time, so￥I can open it easily."
+  },
+  {
+   "off": 8970,
+   "budget": 49,
+   "en": "I've already recorded this door's￥lock code."
+  },
+  {
+   "off": 9019,
+   "budget": 55,
+   "en": "It's locked, but even I can open a￥lock like this."
+  },
+  {
+   "off": 9074,
+   "budget": 29,
+   "en": "Don't set off the alarm."
+  },
+  {
+   "off": 9103,
+   "budget": 5,
+   "en": "Talk"
+  },
+  {
+   "off": 9108,
+   "budget": 21,
+   "en": "Randam, your view?",
+   "long": "What do you think, Randam?"
+  },
+  {
+   "off": 9129,
+   "budget": 23,
+   "en": "Go in and you'll know.",
+   "long": "We'll find out when we go in."
+  },
+  {
+   "off": 9152,
+   "budget": 15,
+   "en": "Feel anything?",
+   "long": "Do you sense anything?"
+  },
+  {
+   "off": 9167,
+   "budget": 59,
+   "en": "Yeah. I can feel them breathing. I￥don't need sensors."
+  },
+  {
+   "off": 9226,
+   "budget": 35,
+   "en": "A bounty hunter's instinct?"
+  },
+  {
+   "off": 9261,
+   "budget": 55,
+   "en": "No use thinking here.￥Let's go pay them a visit.",
+   "long": "No point standing here thinking.￥Let's pay them a visit."
+  },
+  {
+   "off": 9316,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 9321,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 9336,
+   "budget": 13,
+   "en": "Videophone"
+  },
+  {
+   "off": 9349,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 9360,
+   "budget": 37,
+   "en": "I'll save your progress now."
+  },
+  {
+   "off": 9397,
+   "budget": 57,
+   "en": "Entering the 'lock program'￥to release it.",
+   "long": "I'll access Queen Hospital's lock￥program and disable it."
+  },
+  {
+   "off": 9454,
+   "budget": 45,
+   "en": "I'll disable the lock program now."
+  },
+  {
+   "off": 9499,
+   "budget": 27,
+   "en": "It's unlocked."
+  },
+  {
+   "off": 9526,
+   "budget": 23,
+   "en": "Out into the corridor.",
+   "long": "We're in the hospital corridor."
+  },
+  {
+   "off": 9549,
+   "budget": 21,
+   "en": "Inside the hospital.",
+   "long": "We're inside the hospital."
+  },
+  {
+   "off": 9570,
+   "budget": 17,
+   "en": "It's quiet."
+  },
+  {
+   "off": 9587,
+   "budget": 47,
+   "en": "There must be a way below...",
+   "long": "There should be an entrance to the￥underground somewhere."
+  },
+  {
+   "off": 9634,
+   "budget": 13,
+   "en": "Dark..."
+  },
+  {
+   "off": 9647,
+   "budget": 9,
+   "en": "Go out"
+  },
+  {
+   "off": 9656,
+   "budget": 45,
+   "en": "Go back alone if you want!￥I'm carrying on.",
+   "long": "Go home alone if you want! I'm￥staying on this case."
+  },
+  {
+   "off": 9701,
+   "budget": 29,
+   "en": "Gillian, running away now?",
+   "long": "You're running away now, Gillian?"
+  },
+  {
+   "off": 9730,
+   "budget": 35,
+   "en": "Gillian, let's search within.",
+   "long": "Let's investigate the hospital,￥Gillian."
+  },
+  {
+   "off": 9765,
+   "budget": 25,
+   "en": "Let's go outside, then."
+  },
+  {
+   "off": 9790,
+   "budget": 35,
+   "en": "We need to close the door first."
+  },
+  {
+   "off": 9825,
+   "budget": 29,
+   "en": "Bad if they notice us.",
+   "long": "We don't want them to notice us."
+  },
+  {
+   "off": 9854,
+   "budget": 15,
+   "en": "First..."
+  },
+  {
+   "off": 9869,
+   "budget": 25,
+   "en": "We must shut the door.",
+   "long": "We'd better close the door."
+  },
+  {
+   "off": 9894,
+   "budget": 5,
+   "en": "Dr 1",
+   "long": "Door 1"
+  },
+  {
+   "off": 9899,
+   "budget": 5,
+   "en": "Dr 2",
+   "long": "Door 2"
+  },
+  {
+   "off": 9904,
+   "budget": 5,
+   "en": "Dr 3",
+   "long": "Door 3"
+  },
+  {
+   "off": 9909,
+   "budget": 65,
+   "en": "A booth stands at the centre.￥Three doors lie beyond.",
+   "long": "The reception booth is in the￥center. There are three doors at the￥back."
+  },
+  {
+   "off": 9974,
+   "budget": 33,
+   "en": "A reception waiting area.",
+   "long": "This seems to be the reception￥waiting area."
+  },
+  {
+   "off": 10007,
+   "budget": 3,
+   "en": "Fl",
+   "long": "Floor"
+  },
+  {
+   "off": 10010,
+   "budget": 27,
+   "en": "There's dust everywhere.",
+   "long": "Everything's covered in dust."
+  },
+  {
+   "off": 10037,
+   "budget": 29,
+   "en": "No footprints either.",
+   "long": "There aren't any footprints either."
+  },
+  {
+   "off": 10066,
+   "budget": 35,
+   "en": "Except ours."
+  },
+  {
+   "off": 10101,
+   "budget": 89,
+   "en": "So these are your footprints,￥Gillian? Nice work. It's obvious you￥were here."
+  },
+  {
+   "off": 10190,
+   "budget": 15,
+   "en": "......."
+  },
+  {
+   "off": 10205,
+   "budget": 5,
+   "en": "Desk",
+   "long": "Reception"
+  },
+  {
+   "off": 10210,
+   "budget": 51,
+   "en": "Nobody in the booth.￥The monitor is off.",
+   "long": "There's no one in the booth. The￥monitor's off too."
+  },
+  {
+   "off": 10261,
+   "budget": 19,
+   "en": "A lonely desk.",
+   "long": "Pretty lonely reception desk."
+  },
+  {
+   "off": 10280,
+   "budget": 9,
+   "en": "Switches"
+  },
+  {
+   "off": 10289,
+   "budget": 33,
+   "en": "There are three buttons."
+  },
+  {
+   "off": 10322,
+   "budget": 49,
+   "en": "No motion readings.￥...Nobody here.",
+   "long": "No motion detected. There doesn't￥seem to be anyone here."
+  },
+  {
+   "off": 10371,
+   "budget": 47,
+   "en": "Left like this the whole time.",
+   "long": "It seems to have been left like this￥for a long time."
+  },
+  {
+   "off": 10418,
+   "budget": 41,
+   "en": "I see. A clever cover."
+  },
+  {
+   "off": 10459,
+   "budget": 43,
+   "en": "If closed, why is the neon lit?",
+   "long": "If they're closed, why is the sign￥outside lit?"
+  },
+  {
+   "off": 10502,
+   "budget": 71,
+   "en": "Shut it down and the homeless and￥all sorts come in.",
+   "long": "If it looked closed, homeless people￥and others would start coming in."
+  },
+  {
+   "off": 10573,
+   "budget": 65,
+   "en": "It's far too dirty to be a working￥hospital corridor."
+  },
+  {
+   "off": 10638,
+   "budget": 73,
+   "en": "No fresh footprints either. It seems￥to have been abandoned for months."
+  },
+  {
+   "off": 10711,
+   "budget": 47,
+   "en": "There's a layer of dust, with no￥footprints."
+  },
+  {
+   "off": 10758,
+   "budget": 35,
+   "en": "Nothing's changed since last time."
+  },
+  {
+   "off": 10793,
+   "budget": 41,
+   "en": "Which means no one's been in here."
+  },
+  {
+   "off": 10834,
+   "budget": 57,
+   "en": "Apparently. I can only detect the￥footprints we left."
+  },
+  {
+   "off": 10891,
+   "budget": 33,
+   "en": "A switch to open the doors.",
+   "long": "There's a switch to open the door."
+  },
+  {
+   "off": 10924,
+   "budget": 63,
+   "en": "Dust lies on it.￥Unused for months.",
+   "long": "It's covered in dust. It doesn't￥seem to have been used in months."
+  },
+  {
+   "off": 10987,
+   "budget": 37,
+   "en": "Oh? There's some kind of switch.",
+   "long": "What's this? There's some kind of￥switch."
+  },
+  {
+   "off": 11024,
+   "budget": 77,
+   "en": "The switch is dusty too. No one's￥used it for a long time."
+  },
+  {
+   "off": 11101,
+   "budget": 43,
+   "en": "A switch to work the doors￥by remote.",
+   "long": "It's a remote switch to open and￥close the doors."
+  },
+  {
+   "off": 11144,
+   "budget": 33,
+   "en": "Take a look at this, Gillian."
+  },
+  {
+   "off": 11177,
+   "budget": 43,
+   "en": "It says \"ROOM 1, 2, 3.\""
+  },
+  {
+   "off": 11220,
+   "budget": 81,
+   "en": "Buttons for the inner doors.￥Worked from this booth, I'd say.",
+   "long": "They probably open the doors at the￥back. The controls seem to be in￥this booth."
+  },
+  {
+   "off": 11301,
+   "budget": 35,
+   "en": "What could these switches be for?"
+  },
+  {
+   "off": 11336,
+   "budget": 77,
+   "en": "Not an auto door either.￥Worked from somewhere, I'd say...",
+   "long": "It doesn't seem to be an automatic￥door. There must be a control￥somewhere."
+  },
+  {
+   "off": 11413,
+   "budget": 31,
+   "en": "What do you make of it?",
+   "long": "What do you make of this hospital?"
+  },
+  {
+   "off": 11444,
+   "budget": 65,
+   "en": "It does seem unused. But I can sense￥something. Their smell."
+  },
+  {
+   "off": 11509,
+   "budget": 29,
+   "en": "All left as it was.",
+   "long": "Everything's been left to rot."
+  },
+  {
+   "off": 11538,
+   "budget": 25,
+   "en": "Check the other rooms.",
+   "long": "Let's check the other rooms."
+  },
+  {
+   "off": 11563,
+   "budget": 19,
+   "en": "That inner room..."
+  },
+  {
+   "off": 11582,
+   "budget": 13,
+   "en": "Press switch"
+  },
+  {
+   "off": 11595,
+   "budget": 9,
+   "en": "Button 1"
+  },
+  {
+   "off": 11604,
+   "budget": 17,
+   "en": "Pressing 1.",
+   "long": "I'll press number 1."
+  },
+  {
+   "off": 11621,
+   "budget": 31,
+   "en": "Door 1 has closed."
+  },
+  {
+   "off": 11652,
+   "budget": 29,
+   "en": "Door 1 has opened."
+  },
+  {
+   "off": 11681,
+   "budget": 9,
+   "en": "Button 2"
+  },
+  {
+   "off": 11690,
+   "budget": 17,
+   "en": "Pressing 2.",
+   "long": "I'll press number 2."
+  },
+  {
+   "off": 11707,
+   "budget": 31,
+   "en": "Door 2 has closed."
+  },
+  {
+   "off": 11738,
+   "budget": 29,
+   "en": "Door 2 has opened."
+  },
+  {
+   "off": 11767,
+   "budget": 9,
+   "en": "Button 3"
+  },
+  {
+   "off": 11776,
+   "budget": 17,
+   "en": "Pressing 3.",
+   "long": "I'll press number 3."
+  },
+  {
+   "off": 11793,
+   "budget": 31,
+   "en": "Door 3 has closed."
+  },
+  {
+   "off": 11824,
+   "budget": 29,
+   "en": "Door 3 has opened."
+  },
+  {
+   "off": 11853,
+   "budget": 41,
+   "en": "All the footprints are ours."
+  },
+  {
+   "off": 11894,
+   "budget": 29,
+   "en": "Only we have come and gone.",
+   "long": "So we're the only ones who've been￥in and out."
+  },
+  {
+   "off": 11923,
+   "budget": 23,
+   "en": "That door is open."
+  },
+  {
+   "off": 11946,
+   "budget": 25,
+   "en": "That door is closed."
+  },
+  {
+   "off": 11971,
+   "budget": 21,
+   "en": "We're in Room 1."
+  },
+  {
+   "off": 11992,
+   "budget": 15,
+   "en": "A theatre..."
+  },
+  {
+   "off": 12007,
+   "budget": 21,
+   "en": "...To the corridor.",
+   "long": "Let's go into the corridor."
+  },
+  {
+   "off": 12028,
+   "budget": 25,
+   "en": "Let's try the corridor."
+  },
+  {
+   "off": 12053,
+   "budget": 37,
+   "en": "＠水Then... out to the corridor.＠白",
+   "long": "＠水Let's go into the corridor, then.＠白"
+  },
+  {
+   "off": 12090,
+   "budget": 41,
+   "en": "＠水No help... out to the corridor.＠白",
+   "long": "＠水No choice. Let's try the corridor.＠白"
+  },
+  {
+   "off": 12131,
+   "budget": 5,
+   "en": "Room",
+   "long": "Inside"
+  },
+  {
+   "off": 12136,
+   "budget": 63,
+   "en": "An operating table.￥A surgery or consulting room.",
+   "long": "There's an operating table. This￥seems to be an operating or￥examination room."
+  },
+  {
+   "off": 12199,
+   "budget": 49,
+   "en": "A well-equipped theatre once.",
+   "long": "It seems to have been a￥well-equipped operating room."
+  },
+  {
+   "off": 12248,
+   "budget": 5,
+   "en": "Roof"
+  },
+  {
+   "off": 12253,
+   "budget": 37,
+   "en": "There's a built-in radiation device."
+  },
+  {
+   "off": 12290,
+   "budget": 47,
+   "en": "Lamps and cameras for surgery.",
+   "long": "There's an array of surgical lights￥and cameras."
+  },
+  {
+   "off": 12337,
+   "budget": 9,
+   "en": "Monitor"
+  },
+  {
+   "off": 12346,
+   "budget": 59,
+   "en": "A monitor for medical VR to￥support surgery.",
+   "long": "This monitor projects medical VR to￥assist with operations."
+  },
+  {
+   "off": 12405,
+   "budget": 31,
+   "en": "Monitors for each endoscope.",
+   "long": "These monitors are for various￥endoscopes."
+  },
+  {
+   "off": 12436,
+   "budget": 7,
+   "en": "Table",
+   "long": "Operating table"
+  },
+  {
+   "off": 12443,
+   "budget": 23,
+   "en": "An ordinary table.",
+   "long": "It's an ordinary operating table."
+  },
+  {
+   "off": 12466,
+   "budget": 35,
+   "en": "The sheet is covered in dust too."
+  },
+  {
+   "off": 12501,
+   "budget": 51,
+   "en": "No motion readings. ...Looks like￥nobody's here.",
+   "long": "No motion detected. There doesn't￥seem to be anyone here."
+  },
+  {
+   "off": 12552,
+   "budget": 31,
+   "en": "No Snow Cedar readings either.",
+   "long": "No traces of Snow Cedar either."
+  },
+  {
+   "off": 12583,
+   "budget": 31,
+   "en": "They're keeping us on edge!"
+  },
+  {
+   "off": 12614,
+   "budget": 73,
+   "en": "It hasn't been maintained at all. It￥isn't ready for use."
+  },
+  {
+   "off": 12687,
+   "budget": 23,
+   "en": "The lens is clouded.",
+   "long": "The lenses are cloudy too."
+  },
+  {
+   "off": 12710,
+   "budget": 57,
+   "en": "It's covered in dust, with no sign￥of use."
+  },
+  {
+   "off": 12767,
+   "budget": 25,
+   "en": "The monitor is off."
+  },
+  {
+   "off": 12792,
+   "budget": 79,
+   "en": "An adjustable bed,￥but under dust.￥No sign of use.",
+   "long": "It's an adjustable bed, but it's￥covered in dust. It doesn't seem to￥have been used."
+  },
+  {
+   "off": 12871,
+   "budget": 55,
+   "en": "Judging by the dust, it hasn't been￥moved."
+  },
+  {
+   "off": 12926,
+   "budget": 45,
+   "en": "We didn't come for a year-end￥clean.",
+   "long": "We didn't come here to do the￥year-end cleaning."
+  },
+  {
+   "off": 12971,
+   "budget": 7,
+   "en": "Survey",
+   "long": "Look around"
+  },
+  {
+   "off": 12978,
+   "budget": 19,
+   "en": "I'll look around.",
+   "long": "I'll look around the room."
+  },
+  {
+   "off": 12997,
+   "budget": 37,
+   "en": "Nothing seems unusual."
+  },
+  {
+   "off": 13034,
+   "budget": 27,
+   "en": "...Nothing's lurking here.",
+   "long": "There's nothing hiding here."
+  },
+  {
+   "off": 13061,
+   "budget": 25,
+   "en": "A worrier, our Gillian.",
+   "long": "You're a worrier, Gillian."
+  },
+  {
+   "off": 13086,
+   "budget": 43,
+   "en": "I see. Still, something's bothering￥me."
+  },
+  {
+   "off": 13129,
+   "budget": 25,
+   "en": "What is this room?",
+   "long": "What do you think this room is?"
+  },
+  {
+   "off": 13154,
+   "budget": 65,
+   "en": "An operating room, right? But it's￥not being used. That's odd."
+  },
+  {
+   "off": 13219,
+   "budget": 29,
+   "en": "Could it be a cover?"
+  },
+  {
+   "off": 13248,
+   "budget": 41,
+   "en": "Seeing this, most would go home.",
+   "long": "Most people would take one look and￥leave."
+  },
+  {
+   "off": 13289,
+   "budget": 35,
+   "en": "Where is the way below?",
+   "long": "Where could the entrance to the￥underground be?"
+  },
+  {
+   "off": 13324,
+   "budget": 25,
+   "en": "Let's see the rest.",
+   "long": "Let's check the other rooms."
+  },
+  {
+   "off": 13349,
+   "budget": 29,
+   "en": "It has to be that room."
+  },
+  {
+   "off": 13378,
+   "budget": 21,
+   "en": "We're in Room 2."
+  },
+  {
+   "off": 13399,
+   "budget": 13,
+   "en": "A lab..."
+  },
+  {
+   "off": 13412,
+   "budget": 31,
+   "en": "It seems to be a biology lab."
+  },
+  {
+   "off": 13443,
+   "budget": 47,
+   "en": "All sorts of gear stands about.",
+   "long": "The room contains all kinds of￥specialized equipment."
+  },
+  {
+   "off": 13490,
+   "budget": 33,
+   "en": "Like a last-century film...",
+   "long": "Looks like a science fiction movie￥from last century."
+  },
+  {
+   "off": 13523,
+   "budget": 95,
+   "en": "There are micromanipulators, various￥laser devices, and microsurgery￥systems."
+  },
+  {
+   "off": 13618,
+   "budget": 49,
+   "en": "Fine gear is no use like this.",
+   "long": "Even expensive equipment is useless￥in this condition."
+  },
+  {
+   "off": 13667,
+   "budget": 25,
+   "en": "Like a dentist's.",
+   "long": "Looks just like a dentist's office."
+  },
+  {
+   "off": 13692,
+   "budget": 3,
+   "en": "Sh",
+   "long": "Shelf"
+  },
+  {
+   "off": 13695,
+   "budget": 55,
+   "en": "Formalin jars and other drugs￥stand in a row.",
+   "long": "There are jars of specimens in￥formalin and other chemicals."
+  },
+  {
+   "off": 13750,
+   "budget": 7,
+   "en": "Desk"
+  },
+  {
+   "off": 13757,
+   "budget": 67,
+   "en": "Biotech gear of every sort.￥Quite the real thing.",
+   "long": "There's all kinds of biotechnology￥equipment. This was a serious￥operation."
+  },
+  {
+   "off": 13824,
+   "budget": 43,
+   "en": "These were all proper medical￥monitors."
+  },
+  {
+   "off": 13867,
+   "budget": 53,
+   "en": "Costly once.￥Special medical monitors.",
+   "long": "They were expensive. They're￥specialized medical monitors."
+  },
+  {
+   "off": 13920,
+   "budget": 5,
+   "en": "Jar",
+   "long": "Containers"
+  },
+  {
+   "off": 13925,
+   "budget": 41,
+   "en": "Nothing decent in the jars.",
+   "long": "There's nothing pleasant in those￥jars."
+  },
+  {
+   "off": 13966,
+   "budget": 51,
+   "en": "A few specimens.￥I'd rather not look.",
+   "long": "There are a few specimens inside.￥I'd rather not look."
+  },
+  {
+   "off": 14017,
+   "budget": 27,
+   "en": "Wouldn't go with a drink.",
+   "long": "Wouldn't want those with my drink."
+  },
+  {
+   "off": 14044,
+   "budget": 57,
+   "en": "Nothing here.￥...An eerie place.",
+   "long": "There doesn't seem to be anything￥here. It's a creepy place."
+  },
+  {
+   "off": 14101,
+   "budget": 43,
+   "en": "Gear and apparatus left as it was.",
+   "long": "The lab equipment has been left as￥it was."
+  },
+  {
+   "off": 14144,
+   "budget": 47,
+   "en": "Come on! Show yourselves! I'm￥getting bored."
+  },
+  {
+   "off": 14191,
+   "budget": 59,
+   "en": "It's covered in cobwebs. There's no￥sign it's been used."
+  },
+  {
+   "off": 14250,
+   "budget": 51,
+   "en": "Decay like this would be￥hard to fake.",
+   "long": "I don't think it would be easy to￥fake this much decay."
+  },
+  {
+   "off": 14301,
+   "budget": 75,
+   "en": "No jar or drug's been moved￥in a while. The dust shows it.",
+   "long": "The jars and chemicals haven't been￥moved for a while. You can see their￥outlines in the dust."
+  },
+  {
+   "off": 14376,
+   "budget": 61,
+   "en": "The equipment is all here, but none￥of it's set up."
+  },
+  {
+   "off": 14437,
+   "budget": 31,
+   "en": "Dust as thick as elsewhere.",
+   "long": "There's as much dust here as￥everywhere else."
+  },
+  {
+   "off": 14468,
+   "budget": 49,
+   "en": "All would need repair to use.",
+   "long": "It would all need repairs before it￥could work properly."
+  },
+  {
+   "off": 14517,
+   "budget": 31,
+   "en": "Oddly, lots of empty jars.",
+   "long": "A lot of the jars are empty for some￥reason."
+  },
+  {
+   "off": 14548,
+   "budget": 33,
+   "en": "Some of the jars are broken."
+  },
+  {
+   "off": 14581,
+   "budget": 31,
+   "en": "So this was a laboratory?"
+  },
+  {
+   "off": 14612,
+   "budget": 29,
+   "en": "As you see. A storeroom now.",
+   "long": "Looks like it. Now it's a storeroom."
+  },
+  {
+   "off": 14641,
+   "budget": 45,
+   "en": "No way below here...",
+   "long": "There doesn't seem to be an entrance￥underground here."
+  },
+  {
+   "off": 14686,
+   "budget": 25,
+   "en": "Check the next room.",
+   "long": "Let's check the next room."
+  },
+  {
+   "off": 14711,
+   "budget": 29,
+   "en": "The inner room is suspect.",
+   "long": "The room at the back is suspicious."
+  },
+  {
+   "off": 14740,
+   "budget": 33,
+   "en": "＠水Hm? Too dark to see.＠白",
+   "long": "＠水Huh? It's too dark to see anything.＠白"
+  },
+  {
+   "off": 14773,
+   "budget": 87,
+   "en": "＠水I have a light for situations like￥this. Use it if you need it.＠白"
+  },
+  {
+   "off": 14860,
+   "budget": 45,
+   "en": "＠水Shall I turn on the light, Gillian?＠白"
+  },
+  {
+   "off": 14905,
+   "budget": 37,
+   "en": "＠水It's pitch-black.＠白"
+  },
+  {
+   "off": 14942,
+   "budget": 57,
+   "en": "＠水If there's a way below,￥it's here.＠白",
+   "long": "＠水If there's an entrance underground,￥this must be it.＠白"
+  },
+  {
+   "off": 14999,
+   "budget": 25,
+   "en": "＠水I think so too.＠白"
+  },
+  {
+   "off": 15024,
+   "budget": 37,
+   "en": "Gillian, let's check that vase."
+  },
+  {
+   "off": 15061,
+   "budget": 43,
+   "en": "We're close. Let's search this room."
+  },
+  {
+   "off": 15104,
+   "budget": 31,
+   "en": "I'll douse the light, Gillian.",
+   "long": "I'll turn off the light, Gillian."
+  },
+  {
+   "off": 15135,
+   "budget": 29,
+   "en": "A photo of 'Saint Basil's'.",
+   "long": "It's a photograph of St. Basil's￥Cathedral."
+  },
+  {
+   "off": 15164,
+   "budget": 37,
+   "en": "What's that castle-like thing?"
+  },
+  {
+   "off": 15201,
+   "budget": 23,
+   "en": "Like a castle..."
+  },
+  {
+   "off": 15224,
+   "budget": 51,
+   "en": "A photo of Saint Basil's, a￥cathedral in Moscow.",
+   "long": "It's a photograph of St. Basil's￥Cathedral in Moscow."
+  },
+  {
+   "off": 15275,
+   "budget": 47,
+   "en": "A photo of some temple.￥Islamic, perhaps?",
+   "long": "It's a photograph of some kind of￥temple. Islamic, perhaps?"
+  },
+  {
+   "off": 15322,
+   "budget": 63,
+   "en": "I feel like I've seen it somewhere.￥No, I can't remember!"
+  },
+  {
+   "off": 15385,
+   "budget": 27,
+   "en": "Nothing on the desk.",
+   "long": "There's nothing on the desk."
+  },
+  {
+   "off": 15412,
+   "budget": 23,
+   "en": "Something on the desk.",
+   "long": "There's something on the desk."
+  },
+  {
+   "off": 15435,
+   "budget": 21,
+   "en": "It's a drawer."
+  },
+  {
+   "off": 15456,
+   "budget": 19,
+   "en": "Oh!"
+  },
+  {
+   "off": 15475,
+   "budget": 83,
+   "en": "Face to face. Doesn't it look like￥the picture on the Chief's wall?",
+   "long": "'Face to Face'... Doesn't it look￥exactly like the picture hanging on￥the wall of the Chief's room!"
+  },
+  {
+   "off": 15558,
+   "budget": 89,
+   "en": "That's the famous illusion, no?￥Their eyes hold no illusion...￥Let's look well.",
+   "long": "Isn't that a famous optical￥illusion? Their eyes aren't fooled￥by those. Let's look closely."
+  },
+  {
+   "off": 15647,
+   "budget": 59,
+   "en": "Hard for humans to notice.￥It may be a mark of some kind.",
+   "long": "A human could easily miss it. It￥might be some kind of sign."
+  },
+  {
+   "off": 15706,
+   "budget": 83,
+   "en": "I see. \"Face to face.\" There could￥be a connection. Let's check."
+  },
+  {
+   "off": 15789,
+   "budget": 41,
+   "en": "...A vase.￥No flowers in it.",
+   "long": "It's a vase. There aren't any￥flowers in it."
+  },
+  {
+   "off": 15830,
+   "budget": 33,
+   "en": "There are rails on the floor."
+  },
+  {
+   "off": 15863,
+   "budget": 45,
+   "en": "Suspicious, all right.￥A way below?",
+   "long": "That's suspicious. Could there be an￥entrance underground?"
+  },
+  {
+   "off": 15908,
+   "budget": 45,
+   "en": "Rails?... Suspicious.￥A way below?",
+   "long": "Rails? That's suspicious. An￥entrance underground?"
+  },
+  {
+   "off": 15953,
+   "budget": 37,
+   "en": "These rails are unnatural.",
+   "long": "Those rails are definitely out of￥place."
+  },
+  {
+   "off": 15990,
+   "budget": 35,
+   "en": "Could that vase be a switch?"
+  },
+  {
+   "off": 16025,
+   "budget": 41,
+   "en": "Is there no switch somewhere?",
+   "long": "There must be a switch or something￥somewhere."
+  },
+  {
+   "off": 16066,
+   "budget": 21,
+   "en": "It's a monitor."
+  },
+  {
+   "off": 16087,
+   "budget": 33,
+   "en": "Looks like it's for a computer."
+  },
+  {
+   "off": 16120,
+   "budget": 47,
+   "en": "It's a whiteboard... Nothing's￥written on it.",
+   "long": "It's a whiteboard. There's nothing￥written on it."
+  },
+  {
+   "off": 16167,
+   "budget": 47,
+   "en": "A board for plans, no doubt...",
+   "long": "Probably a whiteboard for schedules￥and things."
+  },
+  {
+   "off": 16214,
+   "budget": 75,
+   "en": "Quite an old photo.￥By the print and elements,￥half a century old.",
+   "long": "It's a very old photograph. Judging￥by the print's condition and￥materials, it's half a century old."
+  },
+  {
+   "off": 16289,
+   "budget": 65,
+   "en": "Why is such a photo hung here?￥Metal, where is this?",
+   "long": "Why would they hang a photo like￥this? Metal, where was it taken?"
+  },
+  {
+   "off": 16354,
+   "budget": 37,
+   "en": "Please wait. I'll search my data."
+  },
+  {
+   "off": 16391,
+   "budget": 15,
+   "en": "I've found it."
+  },
+  {
+   "off": 16406,
+   "budget": 87,
+   "en": "It's ＠赤St. Basil's Cathedral＠白, which￥stood in Moscow before the￥Catastrophe."
+  },
+  {
+   "off": 16493,
+   "budget": 89,
+   "en": "St. Basil's Cathedral? That sounds￥familiar, but I can't remember."
+  },
+  {
+   "off": 16582,
+   "budget": 83,
+   "en": "Come to think of it, Freddy Nielsen￥had a map of Moscow in his living￥room."
+  },
+  {
+   "off": 16665,
+   "budget": 59,
+   "en": "Moscow? What's the connection to the￥Snatchers?"
+  },
+  {
+   "off": 16724,
+   "budget": 31,
+   "en": "Where the 'matches' were.",
+   "long": "This is where the matches were."
+  },
+  {
+   "off": 16755,
+   "budget": 41,
+   "en": "＠赤'Matches'＠白 lay on the desk.",
+   "long": "There were ＠赤matches＠白 on the desk."
+  },
+  {
+   "off": 16796,
+   "budget": 51,
+   "en": "Well! They're OUTER HEAVEN matches."
+  },
+  {
+   "off": 16847,
+   "budget": 73,
+   "en": "OUTER HEAVEN seems popular with￥Snatchers."
+  },
+  {
+   "off": 16920,
+   "budget": 71,
+   "en": "They must go there to look for￥people to snatch."
+  },
+  {
+   "off": 16991,
+   "budget": 25,
+   "en": "I'll take the matches."
+  },
+  {
+   "off": 17016,
+   "budget": 41,
+   "en": "We've already checked that drawer."
+  },
+  {
+   "off": 17057,
+   "budget": 29,
+   "en": "Let's check the drawer."
+  },
+  {
+   "off": 17086,
+   "budget": 39,
+   "en": "No luck. There's nothing here."
+  },
+  {
+   "off": 17125,
+   "budget": 45,
+   "en": "Could this vase be a switch?"
+  },
+  {
+   "off": 17170,
+   "budget": 33,
+   "en": "I'll try lifting it."
+  },
+  {
+   "off": 17203,
+   "budget": 11,
+   "en": "Whoa!＠Ｃ"
+  },
+  {
+   "off": 17214,
+   "budget": 45,
+   "en": "The desk slid, and stairs down￥appeared!",
+   "long": "The desk slid aside, revealing￥stairs underground!"
+  },
+  {
+   "off": 17259,
+   "budget": 21,
+   "en": "It's just a vase."
+  },
+  {
+   "off": 17280,
+   "budget": 21,
+   "en": "An ordinary vase.",
+   "long": "It's an ordinary vase."
+  },
+  {
+   "off": 17301,
+   "budget": 79,
+   "en": "The rails extend from under this￥desk. Could the desk slide along￥them?"
+  },
+  {
+   "off": 17380,
+   "budget": 21,
+   "en": "I feel so too.",
+   "long": "That's what I was thinking."
+  },
+  {
+   "off": 17401,
+   "budget": 27,
+   "en": "...It won't move.",
+   "long": "It won't budge when I push it."
+  },
+  {
+   "off": 17428,
+   "budget": 33,
+   "en": "It's a computer monitor."
+  },
+  {
+   "off": 17461,
+   "budget": 43,
+   "en": "A whiteboard with copy guard.",
+   "long": "It's a whiteboard with a device to￥prevent copying."
+  },
+  {
+   "off": 17504,
+   "budget": 35,
+   "en": "A whiteboard for criminals, huh?"
+  },
+  {
+   "off": 17539,
+   "budget": 21,
+   "en": "What of this room?",
+   "long": "What do you think of this room?"
+  },
+  {
+   "off": 17560,
+   "budget": 53,
+   "en": "There's no lighting. That's￥definitely strange."
+  },
+  {
+   "off": 17613,
+   "budget": 33,
+   "en": "Because they don't need lights?"
+  },
+  {
+   "off": 17646,
+   "budget": 43,
+   "en": "Isn't there some trick to￥this room?",
+   "long": "Could there be some hidden mechanism￥in this room?"
+  },
+  {
+   "off": 17689,
+   "budget": 29,
+   "en": "＠水What of this room?＠白",
+   "long": "＠水What do you think of this room?＠白"
+  },
+  {
+   "off": 17718,
+   "budget": 61,
+   "en": "＠水There's no lighting. That's￥definitely strange.＠白"
+  },
+  {
+   "off": 17779,
+   "budget": 41,
+   "en": "＠水Because they don't need lights?＠白"
+  },
+  {
+   "off": 17820,
+   "budget": 51,
+   "en": "＠水Isn't there some trick to￥this room?＠白",
+   "long": "＠水Could there be some hidden mechanism￥in this room?＠白"
+  },
+  {
+   "off": 17871,
+   "budget": 19,
+   "en": "What trick?",
+   "long": "What kind of mechanism?"
+  },
+  {
+   "off": 17890,
+   "budget": 27,
+   "en": "Let's look carefully."
+  },
+  {
+   "off": 17917,
+   "budget": 23,
+   "en": "＠水What trick?",
+   "long": "＠水What kind of mechanism?"
+  },
+  {
+   "off": 17940,
+   "budget": 35,
+   "en": "＠水Let's look carefully.＠白"
+  },
+  {
+   "off": 17975,
+   "budget": 13,
+   "en": "Light on",
+   "long": "Turn on light"
+  },
+  {
+   "off": 17988,
+   "budget": 29,
+   "en": "Metal, is your light on?"
+  },
+  {
+   "off": 18017,
+   "budget": 49,
+   "en": "It's already on! Gillian, are you￥night-blind?",
+   "long": "It's already on! Do you have night￥blindness, Gillian?"
+  },
+  {
+   "off": 18066,
+   "budget": 9,
+   "en": "Gulp!"
+  },
+  {
+   "off": 18075,
+   "budget": 35,
+   "en": "The light's on, Gillian."
+  },
+  {
+   "off": 18110,
+   "budget": 31,
+   "en": "＠水Right, light on!＠白",
+   "long": "＠水All right, turn on the light!＠白"
+  },
+  {
+   "off": 18141,
+   "budget": 45,
+   "en": "＠水Understood. Turning on the light.＠白"
+  },
+  {
+   "off": 18186,
+   "budget": 57,
+   "en": "The light is on. You can aim it,￥Gillian."
+  },
+  {
+   "off": 18243,
+   "budget": 99,
+   "en": "Hold the ＠紫cancel＠白 button and use the￥directional buttons to move the￥light."
+  },
+  {
+   "off": 18342,
+   "budget": 53,
+   "en": "Release ＠紫cancel＠白 for command mode.",
+   "long": "Release the ＠紫cancel＠白 button to return￥to the command menu."
+  },
+  {
+   "off": 18395,
+   "budget": 85,
+   "en": "With a mouse, hold the right￥button. Release for commands.",
+   "long": "With a mouse, hold the right button￥to move the light. Release it to￥return to the command menu."
+  },
+  {
+   "off": 18480,
+   "budget": 53,
+   "en": "Make sure the object is fully inside￥the beam."
+  },
+  {
+   "off": 18533,
+   "budget": 21,
+   "en": "I count on you!",
+   "long": "I'm counting on you, Gillian!"
+  },
+  {
+   "off": 18554,
+   "budget": 21,
+   "en": "It's yours, Gillian!",
+   "long": "It's up to you, Gillian!"
+  },
+  {
+   "off": 18575,
+   "budget": 73,
+   "en": "＠水It's hard to see in the dark, but￥I'll save your progress now.＠白"
+  },
+  {
+   "off": 18648,
+   "budget": 41,
+   "en": "Huh? Something moved!"
+  },
+  {
+   "off": 18689,
+   "budget": 35,
+   "en": "Where? There's nothing there!"
+  },
+  {
+   "off": 18724,
+   "budget": 41,
+   "en": "That's strange. Did I imagine it?"
+  },
+  {
+   "off": 18765,
+   "budget": 41,
+   "en": "Gillian! Something is moving after￥all!",
+   "long": "Gillian! Something is definitely￥moving!"
+  },
+  {
+   "off": 18806,
+   "budget": 27,
+   "en": "What? A Snatcher?"
+  },
+  {
+   "off": 18833,
+   "budget": 25,
+   "en": "It's much smaller."
+  },
+  {
+   "off": 18858,
+   "budget": 47,
+   "en": "Another fly? Or another mosquito?"
+  },
+  {
+   "off": 18905,
+   "budget": 43,
+   "en": "Wait. It's much larger than that."
+  },
+  {
+   "off": 18948,
+   "budget": 25,
+   "en": "Larger? What is it?"
+  },
+  {
+   "off": 18973,
+   "budget": 23,
+   "en": "I've identified it."
+  },
+  {
+   "off": 18996,
+   "budget": 17,
+   "en": "A cockroach!!",
+   "long": "It's a cockroach!"
+  },
+  {
+   "off": 19013,
+   "budget": 13,
+   "en": "A cockroach!"
+  },
+  {
+   "off": 19026,
+   "budget": 27,
+   "en": "What a filthy hospital."
+  },
+  {
+   "off": 19053,
+   "budget": 23,
+   "en": "Phew.... quite so.",
+   "long": "Whew. You're telling me."
+  },
+  {
+   "off": 19076,
+   "budget": 47,
+   "en": "Yet not one came out of the￥capsule machine.",
+   "long": "And I couldn't get one from that￥capsule machine, no matter how hard￥I tried."
+  },
+  {
+   "off": 19123,
+   "budget": 25,
+   "en": "Did you say something?"
+  },
+  {
+   "off": 19148,
+   "budget": 31,
+   "en": "No. Life's complicated."
+  },
+  {
+   "off": 19179,
+   "budget": 55,
+   "en": "The cockroach is gone.￥Off somewhere, no doubt.",
+   "long": "The cockroach is gone. It must have￥crawled off somewhere."
+  },
+  {
+   "off": 19234,
+   "budget": 31,
+   "en": "There's nothing there."
+  },
+  {
+   "off": 19265,
+   "budget": 33,
+   "en": "I don't see anything."
+  },
+  {
+   "off": 19298,
+   "budget": 51,
+   "en": "You probably imagined it. That￥happens sometimes."
+  },
+  {
+   "off": 19349,
+   "budget": 45,
+   "en": "The object isn't fully inside the￥beam."
+  },
+  {
+   "off": 19394,
+   "budget": 33,
+   "en": "The light is off target."
+  },
+  {
+   "off": 19427,
+   "budget": 41,
+   "en": "Please aim at a specific object."
+  },
+  {
+   "off": 19468,
+   "budget": 31,
+   "en": "You're lighting several.",
+   "long": "You're lighting up more than one￥object."
+  },
+  {
+   "off": 19499,
+   "budget": 33,
+   "en": "There's nothing unusual."
+  },
+  {
+   "off": 19532,
+   "budget": 25,
+   "en": "There's nothing there."
+  },
+  {
+   "off": 19557,
+   "budget": 33,
+   "en": "＠水It's too dark to tell.＠白"
+  },
+  {
+   "off": 19590,
+   "budget": 33,
+   "en": "＠水Too dark to see.＠白",
+   "long": "＠水It's too dark to see anything.＠白"
+  },
+  {
+   "off": 19623,
+   "budget": 35,
+   "en": "I've recorded this photo.",
+   "long": "I've stored this photograph in my￥memory."
+  },
+  {
+   "off": 19658,
+   "budget": 45,
+   "en": "I searched before, and nothing￥came of it.",
+   "long": "We searched here before, but as you￥can see, we found nothing."
+  },
+  {
+   "off": 19703,
+   "budget": 81,
+   "en": "You must have missed something.￥Let's look carefully. Trust your￥instincts."
+  },
+  {
+   "off": 19784,
+   "budget": 49,
+   "en": "＠水I searched before, and nothing￥came of it.",
+   "long": "＠水We searched here before, but as you￥can see, we found nothing."
+  },
+  {
+   "off": 19833,
+   "budget": 85,
+   "en": "＠水You must have missed something.￥Let's look carefully. Trust your￥instincts."
+  },
+  {
+   "off": 19918,
+   "budget": 55,
+   "en": "Shh! Gillian, they'll hear you if￥you make noise!"
+  },
+  {
+   "off": 19973,
+   "budget": 37,
+   "en": "Quiet, Gillian! They'll notice us."
+  },
+  {
+   "off": 20010,
+   "budget": 63,
+   "en": "Enemies could be anywhere.￥Keep talking to a minimum.",
+   "long": "They could be hiding anywhere. Let's￥keep the talking to a minimum."
+  },
+  {
+   "off": 20073,
+   "budget": 55,
+   "en": "Please be quiet, Gillian! They'll￥find us."
+  },
+  {
+   "off": 20128,
+   "budget": 59,
+   "en": "＠水Shh! Gillian, they'll hear you if￥you make noise!"
+  },
+  {
+   "off": 20187,
+   "budget": 41,
+   "en": "＠水Quiet, Gillian! They'll notice us."
+  },
+  {
+   "off": 20228,
+   "budget": 67,
+   "en": "＠水Enemies could be anywhere.￥Keep talking to a minimum.",
+   "long": "＠水They could be hiding anywhere. Let's￥keep the talking to a minimum."
+  },
+  {
+   "off": 20295,
+   "budget": 59,
+   "en": "＠水Please be quiet, Gillian! They'll￥find us."
+  },
+  {
+   "off": 20354,
+   "budget": 5,
+   "en": "Peek"
+  },
+  {
+   "off": 20359,
+   "budget": 33,
+   "en": "It seems to go straight down."
+  },
+  {
+   "off": 20392,
+   "budget": 19,
+   "en": "A door below.",
+   "long": "I can see a door at the bottom."
+  },
+  {
+   "off": 20411,
+   "budget": 5,
+   "en": "Str",
+   "long": "Stairs"
+  },
+  {
+   "off": 20416,
+   "budget": 61,
+   "en": "Less dust here than the corridor.",
+   "long": "Unlike the corridor, these stairs￥don't have much dust on them."
+  },
+  {
+   "off": 20477,
+   "budget": 53,
+   "en": "Which means they've been using them."
+  },
+  {
+   "off": 20530,
+   "budget": 37,
+   "en": "It's safe. They're sturdy."
+  },
+  {
+   "off": 20567,
+   "budget": 61,
+   "en": "If a Snatcher goes down safely,￥so may any fat man.",
+   "long": "If they can hold a Snatcher, they'll￥hold even the fattest guy."
+  },
+  {
+   "off": 20628,
+   "budget": 9,
+   "en": "Motion",
+   "long": "Motion detector"
+  },
+  {
+   "off": 20637,
+   "budget": 29,
+   "en": "No readings so far."
+  },
+  {
+   "off": 20666,
+   "budget": 29,
+   "en": "Nothing on my sensors."
+  },
+  {
+   "off": 20695,
+   "budget": 11,
+   "en": "Go down",
+   "long": "Go downstairs"
+  },
+  {
+   "off": 20706,
+   "budget": 15,
+   "en": "Throw rock"
+  },
+  {
+   "off": 20721,
+   "budget": 17,
+   "en": "Me, rock?",
+   "long": "Me? I picked rock?"
+  },
+  {
+   "off": 20738,
+   "budget": 61,
+   "en": "Quit playing dumb! You lost,￥Gillian. Get in front."
+  },
+  {
+   "off": 20799,
+   "budget": 57,
+   "en": "All right, all right. Leave it to￥me! Let's go."
+  },
+  {
+   "off": 20856,
+   "budget": 17,
+   "en": "I'm scissors.",
+   "long": "I chose scissors."
+  },
+  {
+   "off": 20873,
+   "budget": 13,
+   "en": "I'm paper.",
+   "long": "I've got paper."
+  },
+  {
+   "off": 20886,
+   "budget": 17,
+   "en": "Throw scissors"
+  },
+  {
+   "off": 20903,
+   "budget": 15,
+   "en": "I chose paper."
+  },
+  {
+   "off": 20918,
+   "budget": 13,
+   "en": "I'm rock.",
+   "long": "I've got rock."
+  },
+  {
+   "off": 20931,
+   "budget": 15,
+   "en": "Throw paper"
+  },
+  {
+   "off": 20946,
+   "budget": 15,
+   "en": "I chose rock."
+  },
+  {
+   "off": 20961,
+   "budget": 15,
+   "en": "I'm scissors.",
+   "long": "I've got scissors."
+  },
+  {
+   "off": 20976,
+   "budget": 13,
+   "en": "Paper too.",
+   "long": "I've got paper too."
+  },
+  {
+   "off": 20989,
+   "budget": 13,
+   "en": "Rock too.",
+   "long": "I've got rock too."
+  },
+  {
+   "off": 21002,
+   "budget": 11,
+   "en": "Rock!"
+  },
+  {
+   "off": 21013,
+   "budget": 21,
+   "en": "It's a tie. Again!"
+  },
+  {
+   "off": 21034,
+   "budget": 35,
+   "en": "All right. Rock, paper, scissors!"
+  },
+  {
+   "off": 21069,
+   "budget": 53,
+   "en": "Me? Scissors? Snip, snip, snip."
+  },
+  {
+   "off": 21122,
+   "budget": 57,
+   "en": "All right, all right. Leave it to￥me! Let's go."
+  },
+  {
+   "off": 21179,
+   "budget": 15,
+   "en": "Scissors too.",
+   "long": "I've got scissors too."
+  },
+  {
+   "off": 21194,
+   "budget": 13,
+   "en": "Scissors!"
+  },
+  {
+   "off": 21207,
+   "budget": 11,
+   "en": "Paper!"
+  },
+  {
+   "off": 21218,
+   "budget": 15,
+   "en": "I'm paper?"
+  },
+  {
+   "off": 21233,
+   "budget": 59,
+   "en": "Don't play dumb! You lose.￥Off you go, first.",
+   "long": "Quit playing dumb! You lost,￥Gillian. Get in front already."
+  },
+  {
+   "off": 21292,
+   "budget": 49,
+   "en": "Something in this room is￥still unexplained.",
+   "long": "There's still something in this room￥we haven't figured out."
+  },
+  {
+   "off": 21341,
+   "budget": 31,
+   "en": "Where? Let's check it out."
+  },
+  {
+   "off": 21372,
+   "budget": 57,
+   "en": "＠水Something in this room is￥still unexplained.＠白",
+   "long": "＠水There's still something in this room￥we haven't figured out.＠白"
+  },
+  {
+   "off": 21429,
+   "budget": 39,
+   "en": "＠水Where? Let's check it out.＠白"
+  },
+  {
+   "off": 21468,
+   "budget": 53,
+   "en": "See, Gillian, those rails￥are still a riddle.",
+   "long": "Remember, Gillian, we still don't￥know what those rails are for."
+  },
+  {
+   "off": 21521,
+   "budget": 61,
+   "en": "＠水See, Gillian, the rails' riddle￥is unsolved.＠白",
+   "long": "＠水Remember, Gillian, we still don't￥know what those rails are for.＠白"
+  },
+  {
+   "off": 21582,
+   "budget": 65,
+   "en": "Come to think, that third room￥still had things unexplained...",
+   "long": "Come to think of it, there was still￥something unexplained in Room 3."
+  },
+  {
+   "off": 21647,
+   "budget": 37,
+   "en": "Let's check Room 3, Gillian."
+  },
+  {
+   "off": 21684,
+   "budget": 67,
+   "en": "Damn it, there's nobody here. Is￥this really a Snatcher base?"
+  },
+  {
+   "off": 21751,
+   "budget": 73,
+   "en": "Calm down, Gillian. We did find a￥few clues."
+  },
+  {
+   "off": 21824,
+   "budget": 49,
+   "en": "Odd, isn't it... not a trace￥of anything here.",
+   "long": "Doesn't it seem strange? There's no￥sign of anything here."
+  },
+  {
+   "off": 21873,
+   "budget": 47,
+   "en": "Let's leave for now and go over the￥clues."
+  },
+  {
+   "off": 21920,
+   "budget": 37,
+   "en": "Gillian, let's leave the hospital.",
+   "long": "Let's leave the hospital for now,￥Gillian."
+  },
+  {
+   "off": 21957,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 21972,
+   "budget": 69,
+   "en": "This ID card proves your full￥authority as a JUNKER. Keep it safe."
+  },
+  {
+   "off": 22041,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 22048,
+   "budget": 35,
+   "en": "This is the money JUNKER gave you."
+  },
+  {
+   "off": 22083,
+   "budget": 5,
+   "en": "Drop",
+   "long": "Candy"
+  },
+  {
+   "off": 22088,
+   "budget": 35,
+   "en": "This candy was in Jean's pocket."
+  },
+  {
+   "off": 22123,
+   "budget": 7,
+   "en": "Proof",
+   "long": "Evidence"
+  },
+  {
+   "off": 22130,
+   "budget": 3,
+   "en": "Pc",
+   "long": "Chess piece"
+  },
+  {
+   "off": 22133,
+   "budget": 61,
+   "en": "Gibson's chess piece, hinting at￥Queen Hospital.",
+   "long": "Gibson carried this chess piece as a￥clue to Queen Hospital."
+  },
+  {
+   "off": 22194,
+   "budget": 37,
+   "en": "This is the chess piece Gibson had."
+  },
+  {
+   "off": 22231,
+   "budget": 7,
+   "en": "Chart",
+   "long": "Medical chart"
+  },
+  {
+   "off": 22238,
+   "budget": 41,
+   "en": "A chart with a Snatcher's￥name on it.",
+   "long": "This medical record gives a￥Snatcher's name."
+  },
+  {
+   "off": 22279,
+   "budget": 37,
+   "en": "Found on a desk at￥Queen Hospital.",
+   "long": "We found this in a desk at Queen￥Hospital."
+  },
+  {
+   "off": 22316,
+   "budget": 7,
+   "en": "Match",
+   "long": "Matches"
+  },
+  {
+   "off": 22323,
+   "budget": 43,
+   "en": "Old-fashioned matches from￥Queen Hosp.",
+   "long": "These old-fashioned matches were at￥Queen Hospital."
+  },
+  {
+   "off": 22366,
+   "budget": 9,
+   "en": "Memo"
+  },
+  {
+   "off": 22375,
+   "budget": 31,
+   "en": "A memo in Harry's hand.",
+   "long": "Harry seems to have written this￥note."
+  },
+  {
+   "off": 22406,
+   "budget": 43,
+   "en": "This note was in the Mechanic room."
+  },
+  {
+   "off": 22449,
+   "budget": 13,
+   "en": "Video memory"
+  },
+  {
+   "off": 22462,
+   "budget": 13,
+   "en": "Little John"
+  },
+  {
+   "off": 22475,
+   "budget": 47,
+   "en": "Footage left in Little John's￥memory.",
+   "long": "This image was stored in Little￥John's memory."
+  },
+  {
+   "off": 22522,
+   "budget": 9,
+   "en": "Red Sq.",
+   "long": "Red Square"
+  },
+  {
+   "off": 22531,
+   "budget": 39,
+   "en": "A photo hidden in the￥Chief's room.",
+   "long": "This photograph was hidden in the￥Chief's office."
+  },
+  {
+   "off": 22570,
+   "budget": 5,
+   "en": "Hall",
+   "long": "Temple"
+  },
+  {
+   "off": 22575,
+   "budget": 47,
+   "en": "Temple painting from a￥Queen Hospital room.",
+   "long": "This picture of a cathedral hung in￥a room at Queen Hospital."
+  },
+  {
+   "off": 22622,
+   "budget": 67,
+   "en": "It has an integrated circuit￥containing all your data, Gillian."
+  },
+  {
+   "off": 22689,
+   "budget": 49,
+   "en": "Case expenses are covered￥as work requires.",
+   "long": "In principle, there's no limit on￥necessary investigation expenses."
+  },
+  {
+   "off": 22738,
+   "budget": 45,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "long": "Jean gave this candy to the children￥at the orphanage."
+  },
+  {
+   "off": 22783,
+   "budget": 57,
+   "en": "So the piece pointed to the name￥of Queen Hospital.",
+   "long": "It seems this piece was meant to￥tell us the name of Queen Hospital."
+  },
+  {
+   "off": 22840,
+   "budget": 57,
+   "en": "It's a wooden chess piece. The￥queen."
+  },
+  {
+   "off": 22897,
+   "budget": 83,
+   "en": "A cipher written in Chinese element￥symbols. Decoded, it reads BENSON.",
+   "long": "It's a code written using Chinese￥symbols for chemical elements. It￥decodes to BENSON."
+  },
+  {
+   "off": 22980,
+   "budget": 65,
+   "en": "It seems to be part of a medical￥record. What does it say?"
+  },
+  {
+   "off": 23045,
+   "budget": 71,
+   "en": "Matches from 'Outer Heaven'.￥A trifle given to regulars,￥surely.",
+   "long": "These are Outer Heaven matches. They￥probably give them to regular￥customers."
+  },
+  {
+   "off": 23116,
+   "budget": 63,
+   "en": "'face to face'.￥A memo telling the secret￥of the illusion.",
+   "long": "\"Face to face.\" This note explains￥the secret of the optical illusion."
+  },
+  {
+   "off": 23179,
+   "budget": 75,
+   "en": "\"Face to face.\" It's Harry's￥handwriting, but what does it mean?"
+  },
+  {
+   "off": 23254,
+   "budget": 53,
+   "en": "This image shows the QUEEN Hospital￥neon sign."
+  },
+  {
+   "off": 23307,
+   "budget": 67,
+   "en": "It reads \"OLEEN Hospital.\" It must￥be a hospital's neon sign."
+  },
+  {
+   "off": 23374,
+   "budget": 65,
+   "en": "A still photo of Red Square￥in Moscow, before the Catastrophe.",
+   "long": "This is a photograph of Red Square￥in Moscow before the Catastrophe."
+  },
+  {
+   "off": 23439,
+   "budget": 67,
+   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "long": "It's St. Basil's Cathedral, a famous￥cathedral in Moscow before the￥Catastrophe."
+  },
+  {
+   "off": 23508,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

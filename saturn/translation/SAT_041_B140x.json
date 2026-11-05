@@ -1,0 +1,26 @@
+{
+ "file": "DATA.BIN[41]",
+ "entry": 41,
+ "text_base": 893,
+ "twins": [],
+ "strings": [
+  {
+   "off": 893,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 896,
+   "budget": 2,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 900,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

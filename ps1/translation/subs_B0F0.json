@@ -1,0 +1,20 @@
+{
+ "scene": "B0F0",
+ "cues": [
+  {
+   "id": "B0F0_000",
+   "file": 68,
+   "chan": 1,
+   "start": 38953,
+   "end": 39449,
+   "dur": 3.3,
+   "speaker": "Waiter",
+   "en": "Welcome. A table for one?",
+   "enabled": true
+  }
+ ],
+ "options": {
+  "faceleft": true,
+  "cols": 12
+ }
+}

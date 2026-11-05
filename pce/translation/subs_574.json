@@ -1,0 +1,481 @@
+{
+ "74": {
+  "speaker": "Gillian",
+  "en": "Huh? The light's on in my apartment. That's odd. I'm sure I turned it off when I left.",
+  "ps1": [
+   "B1A0_f34_0",
+   "B1A0_f34_0b"
+  ],
+  "cards": [
+   "Huh? The light's on|in my apartment.|That's odd.",
+   "I'm sure I turned|it off when I left."
+  ],
+  "turns": [
+   5.18
+  ]
+ },
+ "75": {
+  "speaker": "Metal Gear",
+  "en": "Don't tell me a Snatcher got into your apartment too?",
+  "ps1": [
+   "B1A0_f35_0"
+  ],
+  "cards": [
+   "Don't tell me a|Snatcher got into|your apartment too?"
+  ]
+ },
+ "76": {
+  "speaker": "Gillian",
+  "en": "Searching my place? I don't keep any evidence at home.",
+  "ps1": [
+   "B1A0_f36_0"
+  ],
+  "cards": [
+   "Searching my place?|I don't keep any|evidence at home."
+  ]
+ },
+ "77": {
+  "speaker": "Metal Gear",
+  "en": "I hear something.",
+  "ps1": [
+   "B1A0_f37_0"
+  ],
+  "cards": [
+   "I hear something."
+  ]
+ },
+ "78": {
+  "speaker": "Gillian",
+  "en": "Now I can hear it too.",
+  "ps1": [
+   "B1A0_f38_0"
+  ],
+  "cards": [
+   "Now I can hear it|too."
+  ]
+ },
+ "79": {
+  "speaker": "Metal Gear",
+  "en": "Motion detected! Something's in there!",
+  "ps1": [
+   "B1A0_f39_0"
+  ],
+  "cards": [
+   "Motion detected!|Something's in|there!"
+  ]
+ },
+ "7a": {
+  "speaker": "Gillian",
+  "en": "Right, Metal. I'm locking the front door. Now it can't get away.",
+  "ps1": [
+   "B1A0_f40_0",
+   "B1A0_f40_0b"
+  ],
+  "cards": [
+   "Right, Metal. I'm|locking the front|door. Now it can't|get away."
+  ]
+ },
+ "7b": {
+  "speaker": "Metal Gear",
+  "en": "Then I'll put a charge through the blind glass. Ready?",
+  "ps1": [
+   "B1A0_f41_0"
+  ],
+  "cards": [
+   "Then I'll put a|charge through the|blind glass. Ready?"
+  ]
+ },
+ "7c": {
+  "speaker": "Gillian",
+  "en": "Okay, do it!",
+  "ps1": [
+   "B1A0_f42_0"
+  ],
+  "cards": [
+   "Okay, do it!"
+  ]
+ },
+ "7d": {
+  "speaker": "Metal Gear",
+  "en": "Oh, and before that, please put what you stuffed in your pocket back where it belongs.",
+  "ps1": [
+   "B1A0_f43_0",
+   "B1A0_f43_0b"
+  ],
+  "cards": [
+   "Oh, and before|that, please put|what you stuffed",
+   "in your pocket back|where it belongs."
+  ],
+  "turns": [
+   3.22
+  ]
+ },
+ "7e": {
+  "speaker": "Gillian",
+  "en": "Fine, I'll put it back. Happy now?",
+  "ps1": [
+   "B1A0_f44_0"
+  ],
+  "cards": [
+   "Fine, I'll put it|back. Happy now?"
+  ]
+ },
+ "7f": {
+  "speaker": "Metal Gear",
+  "en": "Then I'll open the blinds.",
+  "ps1": [
+   "B1A0_f45_0"
+  ],
+  "cards": [
+   "Then I'll open the|blinds."
+  ]
+ },
+ "80": {
+  "speaker": "Gillian",
+  "en": "Whoaaaaa!",
+  "ps1": [
+   "B1A0_c5f46_0"
+  ],
+  "cards": [
+   "Whoaaaaa!"
+  ],
+  "layout": "plain"
+ },
+ "81": {
+  "speaker": "Woman",
+  "en": "Eeek! Pervert!",
+  "ps1": [
+   "B1A0_c5f47_0"
+  ],
+  "cards": [
+   "Eeek! Pervert!"
+  ],
+  "layout": "plain"
+ },
+ "82": {
+  "speaker": "Woman",
+  "en": "Get out of here, now!",
+  "ps1": [
+   "B1A0_c5f48_0"
+  ],
+  "cards": [
+   "Get out of here, now!"
+  ],
+  "layout": "plain"
+ },
+ "83": {
+  "speaker": "Metal Gear",
+  "en": "Looks like we got thrown out.",
+  "ps1": [
+   "B1A0_c5f49_0"
+  ],
+  "cards": [
+   "Looks like we got|thrown out."
+  ]
+ },
+ "84": {
+  "speaker": "Gillian",
+  "en": "Ngh... aargh...",
+  "ps1": [
+   "B1A0_c5f50_0"
+  ],
+  "cards": [
+   "Ngh... aargh..."
+  ],
+  "layout": "plain"
+ },
+ "85": {
+  "speaker": "Metal Gear",
+  "en": "You brought that on yourself.",
+  "ps1": [
+   "B1A0_c5f51_0"
+  ],
+  "cards": [
+   "You brought that on|yourself."
+  ]
+ },
+ "86": {
+  "speaker": "Gillian",
+  "en": "Why, you! You were leering just as hard!",
+  "ps1": [
+   "B1A0_c5f52_0"
+  ],
+  "cards": [
+   "Why, you! You were|leering just as hard!"
+  ],
+  "layout": "plain"
+ },
+ "87": {
+  "speaker": "Metal Gear",
+  "en": "Sorry to disappoint. I have no face to leer with.",
+  "ps1": [
+   "B1A0_c5f53_0"
+  ],
+  "cards": [
+   "Sorry to|disappoint. I have|no face to leer|with."
+  ]
+ },
+ "88": {
+  "speaker": "Gillian",
+  "en": "Robot's always got an excuse.",
+  "ps1": [
+   "B1A0_c5f54_0"
+  ],
+  "cards": [
+   "Robot's always got an|excuse."
+  ],
+  "layout": "plain"
+ },
+ "89": {
+  "speaker": "Metal Gear",
+  "en": "Oh, Catherine's come out.",
+  "ps1": [
+   "B1A0_c5f55_0"
+  ],
+  "cards": [
+   "Oh, Catherine's|come out."
+  ]
+ },
+ "8a": {
+  "speaker": "Catherine",
+  "en": "Honestly, Gillian, you're such a pervert.",
+  "ps1": [
+   "B1A0_c5f56_0"
+  ],
+  "cards": [
+   "Honestly, Gillian,|you're such a pervert."
+  ],
+  "layout": "plain"
+ },
+ "8b": {
+  "speaker": "Gillian",
+  "en": "Ah, no, I... that was...",
+  "ps1": [
+   "B1A0_c5f57_0"
+  ],
+  "cards": [
+   "Ah, no, I... that|was..."
+  ],
+  "layout": "plain"
+ },
+ "8c": {
+  "speaker": "Metal Gear",
+  "en": "That's not very manly.",
+  "ps1": [
+   "B1A0_c5f58_0"
+  ],
+  "cards": [
+   "That's not very|manly."
+  ]
+ },
+ "8d": {
+  "speaker": "Gillian",
+  "en": "Why, you...! Well, I'm glad Catherine's safe.",
+  "ps1": [
+   "B1A0_c5f59_0",
+   "B1A0_c5f59_0b"
+  ],
+  "cards": [
+   "Why, you...! Well,|I'm glad Catherine's safe."
+  ],
+  "layout": "plain"
+ },
+ "8e": {
+  "speaker": "Catherine",
+  "en": "I was scared, so I looked up your address, Gillian, and let myself in. I'm sorry. Did I startle you?",
+  "ps1": [
+   "B1A0_c5f60_0",
+   "B1A0_c5f60_0b"
+  ],
+  "cards": [
+   "I was scared, so I|looked up your address,",
+   "Gillian, and let|myself in. I'm sorry.",
+   "Did I startle you?"
+  ],
+  "layout": "plain",
+  "turns": [
+   4.38,
+   6.46
+  ]
+ },
+ "8f": {
+  "speaker": "Gillian",
+  "en": "Startle me? You bet you did!",
+  "ps1": [
+   "B1A0_c5f61_0"
+  ],
+  "cards": [
+   "Startle me? You bet|you did!"
+  ],
+  "layout": "plain"
+ },
+ "90": {
+  "speaker": "Catherine",
+  "en": "I'm sorry.",
+  "ps1": [
+   "B1A0_c5f62_0"
+  ],
+  "cards": [
+   "I'm sorry."
+  ],
+  "layout": "plain"
+ },
+ "91": {
+  "speaker": "Gillian",
+  "en": "Ha, never mind that. But how did you get in?",
+  "ps1": [
+   "B1A0_c5f63_0"
+  ],
+  "cards": [
+   "Ha, never mind that.|But how did you get in?"
+  ],
+  "layout": "plain"
+ },
+ "92": {
+  "speaker": "Catherine",
+  "en": "I'm a JUNKER's daughter, you know. Picking a lock is child's play.",
+  "ps1": [
+   "B1A0_c5f64_0",
+   "B1A0_c5f64_0b"
+  ],
+  "cards": [
+   "I'm a JUNKER's|daughter, you know.",
+   "Picking a lock is|child's play."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.14
+  ]
+ },
+ "93": {
+  "speaker": "Gillian",
+  "en": "I see. You didn't even trip the sensors. You've got a bright future.",
+  "ps1": [
+   "B1A0_c5f65_0",
+   "B1A0_c5f65_0b"
+  ],
+  "cards": [
+   "I see. You didn't|even trip the sensors.",
+   "You've got a bright|future."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.38
+  ]
+ },
+ "96": {
+  "speaker": "Gillian",
+  "en": "And the hospital's address?",
+  "ps1": [
+   "B1A0_c5f68_0"
+  ],
+  "cards": [
+   "And the hospital's|address?"
+  ]
+ },
+ "97": {
+  "speaker": "Metal Gear",
+  "en": "CX district, PHC-77. The director is Chin Shu Ho, of Chinese descent.",
+  "ps1": [
+   "B1A0_c5f69_0"
+  ],
+  "cards": [
+   "CX district,|PHC-77.",
+   "The director is|Chin Shu Ho, of|Chinese descent."
+  ],
+  "turns": [
+   3.84
+  ]
+ },
+ "98": {
+  "speaker": "Gillian",
+  "en": "Chin Shu Ho, huh? He's probably a Snatcher too. This is it, then. The enemy's stronghold.",
+  "ps1": [
+   "B1A0_c5f70_0",
+   "B1A0_c5f70_0b"
+  ],
+  "cards": [
+   "Chin Shu Ho, huh?|He's probably a|Snatcher too. This|is it, then.",
+   "The enemy's|stronghold."
+  ],
+  "turns": [
+   5.04
+  ]
+ },
+ "99": {
+  "speaker": "Catherine",
+  "en": "Gillian, be careful.",
+  "ps1": [
+   "B1A0_c5f71_0"
+  ],
+  "cards": [
+   "Gillian, be careful."
+  ],
+  "layout": "plain"
+ },
+ "9a": {
+  "speaker": "Gillian",
+  "en": "Catherine, you're safe now. They shouldn't come after you anymore.",
+  "ps1": [
+   "B1A0_c5f72_0",
+   "B1A0_c5f72_0b"
+  ],
+  "cards": [
+   "Catherine, you're|safe now. They|shouldn't come|after you anymore."
+  ]
+ },
+ "9b": {
+  "speaker": "Metal Gear",
+  "en": "Just to be safe, I'll have the Kobe Police guard her.",
+  "ps1": [
+   "B1A0_c5f73_0"
+  ],
+  "cards": [
+   "Just to be safe,|I'll have the Kobe|Police guard her."
+  ]
+ },
+ "9c": {
+  "speaker": "Catherine",
+  "en": "Gillian, I'm not mad at all about earlier.",
+  "ps1": [
+   "B1A0_c5f74_0"
+  ],
+  "cards": [
+   "Gillian, I'm not|mad at all about earlier."
+  ],
+  "layout": "plain"
+ },
+ "9d": {
+  "speaker": "Gillian",
+  "en": "Catherine, don't worry about us. We won't do anything reckless.",
+  "ps1": [
+   "B1A0_c5f75_0"
+  ],
+  "cards": [
+   "Catherine, don't|worry about us. We|won't do anything|reckless."
+  ]
+ },
+ "9e": {
+  "speaker": "Catherine",
+  "en": "I just... don't want to lose anyone else.",
+  "ps1": [
+   "B1A0_c5f76_0"
+  ],
+  "cards": [
+   "I just... don't|want to lose anyone|else."
+  ]
+ },
+ "9f": {
+  "speaker": "Gillian",
+  "en": "Let's go, Metal! To Queen Hospital!",
+  "ps1": [
+   "B1A0_c5f77_0"
+  ],
+  "cards": [
+   "Let's go, Metal! To|Queen Hospital!"
+  ]
+ },
+ "_unmatched": {
+  "95": "0.08 XAS_M000.XA[111]"
+ }
+}

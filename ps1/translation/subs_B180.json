@@ -1,0 +1,373 @@
+{
+ "scene": "B180",
+ "cues": [
+  {
+   "id": "B180_j_00",
+   "file": 4,
+   "chan": 4,
+   "start": 68965,
+   "end": 69867,
+   "dur": 6.1,
+   "speaker": "Jamie",
+   "en": "Gillian, it's me. Listen carefully. It's about Queen Hospital.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_00b",
+   "file": 4,
+   "chan": 4,
+   "start": 69867,
+   "end": 70915,
+   "dur": 6.2,
+   "speaker": "Jamie",
+   "en": "They built a large underground extension in 2030. That's right.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_00c",
+   "file": 4,
+   "chan": 4,
+   "start": 70915,
+   "end": 71322,
+   "dur": 2.8,
+   "speaker": "Jamie",
+   "en": "The hospital has a basement.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_00d",
+   "file": 4,
+   "chan": 4,
+   "start": 71322,
+   "end": 71752,
+   "dur": 4.4,
+   "speaker": "Jamie",
+   "en": "Underground construction is rare in Neo Kobe.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_00e",
+   "file": 4,
+   "chan": 4,
+   "start": 71752,
+   "end": 72370,
+   "dur": 4.9,
+   "speaker": "Jamie",
+   "en": "That's why there was a record of it. There's more.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_00f",
+   "file": 4,
+   "chan": 4,
+   "start": 72370,
+   "end": 72720,
+   "dur": 5.4,
+   "speaker": "Jamie",
+   "en": "The director, Chin Shu Ho, used an underground facility",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_00g",
+   "file": 4,
+   "chan": 4,
+   "start": 72720,
+   "end": 73300,
+   "dur": 4.6,
+   "speaker": "Jamie",
+   "en": "to perform illegal surrogate-mother operations.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_00h",
+   "file": 4,
+   "chan": 4,
+   "start": 73300,
+   "end": 73850,
+   "dur": 4.0,
+   "speaker": "Jamie",
+   "en": "His practice was suspended because of it.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_03",
+   "file": 4,
+   "chan": 4,
+   "start": 73850,
+   "end": 74228,
+   "dur": 2.5,
+   "speaker": "Gillian",
+   "en": "So there's a medical facility underground?",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_04",
+   "file": 4,
+   "chan": 4,
+   "start": 74228,
+   "end": 74596,
+   "dur": 4.9,
+   "speaker": "Metal Gear",
+   "en": "There's no doubt about it.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_04b",
+   "file": 4,
+   "chan": 4,
+   "start": 74596,
+   "end": 74965,
+   "dur": 4.9,
+   "speaker": "Metal Gear",
+   "en": "Chin Shu Ho is servicing Snatchers underground.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_05",
+   "file": 4,
+   "chan": 4,
+   "start": 74965,
+   "end": 75425,
+   "dur": 5.3,
+   "speaker": "Gillian",
+   "en": "Then Chin is a Snatcher too.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_05b",
+   "file": 4,
+   "chan": 4,
+   "start": 75425,
+   "end": 75988,
+   "dur": 8.3,
+   "speaker": "Gillian",
+   "en": "No, they snatched him because he had the facilities they needed.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_06",
+   "file": 4,
+   "chan": 4,
+   "start": 75988,
+   "end": 76671,
+   "dur": 4.6,
+   "speaker": "Metal Gear",
+   "en": "The facilities above ground are a cover for it.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_07",
+   "file": 4,
+   "chan": 4,
+   "start": 76671,
+   "end": 77247,
+   "dur": 3.7,
+   "speaker": "Gillian",
+   "en": "Taking out this hospital will stop the Snatchers' advance.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_07b",
+   "file": 4,
+   "chan": 4,
+   "start": 77247,
+   "end": 77898,
+   "dur": 4.4,
+   "speaker": "Gillian",
+   "en": "This is it, Metal. We're going into their base!",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_08",
+   "file": 4,
+   "chan": 4,
+   "start": 77898,
+   "end": 78009,
+   "dur": 0.7,
+   "speaker": "Jamie",
+   "en": "Gillian.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_09",
+   "file": 4,
+   "chan": 4,
+   "start": 78009,
+   "end": 78243,
+   "dur": 1.6,
+   "speaker": "Gillian",
+   "en": "Hm?",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_10",
+   "file": 4,
+   "chan": 4,
+   "start": 78243,
+   "end": 79379,
+   "dur": 7.6,
+   "speaker": "Jamie",
+   "en": "Your work is dangerous. I want you to come back safely.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_11",
+   "file": 4,
+   "chan": 4,
+   "start": 79379,
+   "end": 79592,
+   "dur": 1.4,
+   "speaker": "Gillian",
+   "en": "Jamie.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_12",
+   "file": 4,
+   "chan": 4,
+   "start": 79592,
+   "end": 80285,
+   "dur": 8.4,
+   "speaker": "Jamie",
+   "en": "I left you because I thought you were forcing yourself.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_12b",
+   "file": 4,
+   "chan": 4,
+   "start": 80285,
+   "end": 80885,
+   "dur": 4.3,
+   "speaker": "Jamie",
+   "en": "No, because I felt you were.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_12c",
+   "file": 4,
+   "chan": 4,
+   "start": 80885,
+   "end": 81600,
+   "dur": 7.5,
+   "speaker": "Jamie",
+   "en": "We were wearing wedding rings when they found us.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_12d",
+   "file": 4,
+   "chan": 4,
+   "start": 81600,
+   "end": 82201,
+   "dur": 7.0,
+   "speaker": "Jamie",
+   "en": "I wondered if that had become a burden to you.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_12e",
+   "file": 4,
+   "chan": 4,
+   "start": 82201,
+   "end": 82939,
+   "dur": 9.0,
+   "speaker": "Jamie",
+   "en": "If that was all that kept us together, it would be too sad.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_16",
+   "file": 4,
+   "chan": 4,
+   "start": 82939,
+   "end": 83167,
+   "dur": 1.5,
+   "speaker": "Gillian",
+   "en": "That's not true.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_17",
+   "file": 4,
+   "chan": 4,
+   "start": 83167,
+   "end": 83530,
+   "dur": 3.1,
+   "speaker": "Jamie",
+   "en": "I'll be waiting, Gillian.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_17b",
+   "file": 4,
+   "chan": 4,
+   "start": 83530,
+   "end": 83962,
+   "dur": 3.9,
+   "speaker": "Jamie",
+   "en": "We may have no memories,",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_17c",
+   "file": 4,
+   "chan": 4,
+   "start": 83962,
+   "end": 84687,
+   "dur": 6.6,
+   "speaker": "Jamie",
+   "en": "but we're the only ones who shared that time together.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_17d",
+   "file": 4,
+   "chan": 4,
+   "start": 84687,
+   "end": 85551,
+   "dur": 2.4,
+   "speaker": "Jamie",
+   "en": "Be careful, Gillian.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_19",
+   "file": 4,
+   "chan": 4,
+   "start": 85551,
+   "end": 85719,
+   "dur": 1.1,
+   "speaker": "Gillian",
+   "en": "Jamie.",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_20",
+   "file": 4,
+   "chan": 4,
+   "start": 85719,
+   "end": 86003,
+   "dur": 1.9,
+   "speaker": "Metal Gear",
+   "en": "Can you leave it at that?",
+   "enabled": true
+  },
+  {
+   "id": "B180_j_21",
+   "file": 4,
+   "chan": 4,
+   "start": 86003,
+   "end": 86868,
+   "dur": 5.8,
+   "speaker": "Gillian",
+   "en": "Let's go, Metal. To Queen Hospital. Her Majesty awaits.",
+   "enabled": true,
+   "last": true
+  }
+ ],
+ "options": {
+  "faceleft": true,
+  "cols": 12
+ }
+}

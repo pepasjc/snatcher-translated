@@ -1,0 +1,176 @@
+[
+ {
+  "choose": "Outer Heaven"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "choose": "Exit Tricycle"
+ },
+ {
+  "read": 10000
+ },
+ {
+  "save": "oh2"
+ },
+ {
+  "items": 1
+ },
+ {
+  "sweep": "Look",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "sweep": "Investigate",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "repeat": [
+   {
+    "maybe": "Talk"
+   },
+   {
+    "read": 8000
+   },
+   {
+    "maybe": "Press him"
+   },
+   {
+    "read": 8000
+   },
+   {
+    "items": 1
+   }
+  ],
+  "until": "Give proof",
+  "max": 6
+ },
+ {
+  "save": "oh2_pressed"
+ },
+ {
+  "items": 1
+ },
+ {
+  "sweep": "Give proof",
+  "rounds": 1
+ },
+ {
+  "read": 6000
+ },
+ {
+  "sweep": "Give proof",
+  "rounds": 1
+ },
+ {
+  "read": 6000
+ },
+ {
+  "items": 1
+ },
+ {
+  "save": "oh2_proved"
+ },
+ {
+  "repeat": [
+   {
+    "maybe": "Talk"
+   },
+   {
+    "read": 8000
+   },
+   {
+    "maybe": "Press him"
+   },
+   {
+    "read": 8000
+   },
+   {
+    "items": 1
+   }
+  ],
+  "until": "Ask",
+  "max": 4
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "items": 1
+ },
+ {
+  "maybe": "Item"
+ },
+ {
+  "maybe": "Show"
+ },
+ {
+  "items": 1
+ },
+ {
+  "maybe": "Evidence"
+ },
+ {
+  "maybe": "Medical chart"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "items": 1
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 3000
+ },
+ {
+  "save": "oh2_asked"
+ },
+ {
+  "items": 1
+ },
+ {
+  "maybe": "Deduce"
+ },
+ {
+  "wait": 300
+ },
+ {
+  "read": 1200
+ },
+ {
+  "type": "BENSON"
+ },
+ {
+  "read": 20000
+ },
+ {
+  "items": 1
+ },
+ {
+  "save": "oh2_benson"
+ },
+ {
+  "read": 20000
+ },
+ {
+  "items": 1
+ },
+ {
+  "save": "act2_e_end"
+ }
+]

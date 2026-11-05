@@ -1,0 +1,126 @@
+{
+ "scene": "B1E0",
+ "note": "#65 / BUG-064 end to end from work/saves/B1E0_auto.mcd slot 1: into the hospital, switches, Door 3; card B1E0_i65_door3 (slot 2) before the light; light on the drawer (RAM (120,60)) -> the paper scene; bookmark B1E0_paper (STATES_DIR!); lobby and back; light again",
+ "actions": [
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Board Tricycle"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Go inside"
+   ],
+   "patience": 900
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "sweep": [
+    "Press switch"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Move",
+    "Dr 3|Door 3"
+   ],
+   "optional": true
+  },
+  {
+   "mcard": "B1E0_i65_door3",
+   "slot": 2,
+   "any": true
+  },
+  {
+   "path": [
+    "Use Metal Gear",
+    "Turn on light"
+   ],
+   "patience": 900
+  },
+  {
+   "idle": 200
+  },
+  {
+   "light_at": [
+    120,
+    60
+   ]
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "reps": 1
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "reps": 1
+  },
+  {
+   "save": "B1E0_paper"
+  },
+  {
+   "path": [
+    "Go out"
+   ],
+   "patience": 900
+  },
+  {
+   "path": [
+    "Move",
+    "Dr 3|Door 3"
+   ],
+   "patience": 900
+  },
+  {
+   "path": [
+    "Use Metal Gear",
+    "Turn on light"
+   ],
+   "patience": 900
+  },
+  {
+   "idle": 200
+  },
+  {
+   "light_at": [
+    144,
+    84
+   ]
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "reps": 1
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "reps": 1
+  },
+  {
+   "idle": 400
+  }
+ ]
+}

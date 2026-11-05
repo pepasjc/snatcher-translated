@@ -1,0 +1,408 @@
+[
+ {
+  "track": 4,
+  "start": 0.48,
+  "end": 4.28,
+  "speaker": "Randam",
+  "en": "That was close. You were nearly a dead man.",
+  "ps1": "B130_r_00",
+  "layout": "plain",
+  "cards": [
+   "That was close. You|were nearly a dead man."
+  ],
+  "reveal_end": 4.2
+ },
+ {
+  "track": 4,
+  "start": 4.28,
+  "end": 5.8,
+  "speaker": "Gillian",
+  "en": "Who are you?",
+  "ps1": "B130_r_01",
+  "cards": [
+   "Who are you?"
+  ],
+  "layout": "face",
+  "reveal_end": 4.9
+ },
+ {
+  "track": 4,
+  "start": 5.8,
+  "end": 10.84,
+  "speaker": "Randam",
+  "en": "Me? Randam Hajile. Bounty hunter.",
+  "ps1": "B130_r_02",
+  "layout": "plain",
+  "cards": [
+   "Me? Randam Hajile.|Bounty hunter."
+  ],
+  "reveal_end": 10.12
+ },
+ {
+  "track": 4,
+  "start": 10.84,
+  "end": 12.82,
+  "speaker": "Gillian",
+  "en": "Bounty hunter?",
+  "ps1": "B130_r_03",
+  "cards": [
+   "Bounty hunter?"
+  ],
+  "reveal_end": 12.1
+ },
+ {
+  "track": 4,
+  "start": 12.82,
+  "end": 15.2,
+  "speaker": "Metal Gear",
+  "en": "A civilian who hunts for rewards.",
+  "ps1": "B130_r_04",
+  "cards": [
+   "A civilian who|hunts for rewards."
+  ],
+  "layout": "face",
+  "reveal_end": 14.88
+ },
+ {
+  "track": 4,
+  "start": 15.2,
+  "end": 20.04,
+  "speaker": "Metal Gear",
+  "en": "JUNKER work is dangerous. Their numbers fall every year.",
+  "ps1": "B130_r_04b",
+  "ps1_more": [
+   "B130_r_04c"
+  ],
+  "cards": [
+   "JUNKER work is|dangerous. Their|numbers fall every|year."
+  ],
+  "layout": "face",
+  "reveal_end": 19.5
+ },
+ {
+  "track": 4,
+  "start": 20.04,
+  "end": 28.3,
+  "speaker": "Metal Gear",
+  "en": "So the government put bounties on Snatchers to enlist public help. Of course, hunters must register first.",
+  "ps1": "B130_r_04d",
+  "cards": [
+   "So the government|put bounties on|Snatchers to enlist|public help.",
+   "Of course, hunters|must register first."
+  ],
+  "layout": "face",
+  "reveal_end": 28.0
+ },
+ {
+  "track": 4,
+  "start": 28.3,
+  "end": 31.92,
+  "speaker": "Gillian",
+  "en": "Randam, was it? Were you following me?",
+  "ps1": "B130_r_06",
+  "cards": [
+   "Randam, was it?|Were you following|me?"
+  ],
+  "layout": "face",
+  "reveal_end": 31.6
+ },
+ {
+  "track": 4,
+  "start": 31.92,
+  "end": 38.02,
+  "speaker": "Randam",
+  "en": "Detective work isn't my style. You find them. I take them out.",
+  "ps1": "B130_r_07",
+  "ps1_more": [
+   "B130_r_07b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Detective work isn't my|style. You find them.",
+   "I take them out."
+  ],
+  "reveal_end": 36.7
+ },
+ {
+  "track": 4,
+  "start": 38.02,
+  "end": 43.64,
+  "speaker": "Metal Gear",
+  "en": "Regulations require your bounty hunter registration number. I'll verify it.",
+  "ps1": "B130_r_08",
+  "ps1_more": [
+   "B130_r_08b"
+  ],
+  "cards": [
+   "Regulations require|your bounty hunter|registration|number.",
+   "I'll verify it."
+  ],
+  "layout": "face",
+  "reveal_end": 43.0
+ },
+ {
+  "track": 4,
+  "start": 43.64,
+  "end": 52.72,
+  "speaker": "Randam",
+  "en": "BH-75001. Randam Hajile. R-A-N-D-A-M H-A-J-I-L-E.",
+  "ps1": "B130_r_09",
+  "cards": [
+   "BH-75001. Randam|Hajile. R-A-N-D-A-M H-A-J-I-L-E."
+  ],
+  "reveal_end": 52.54,
+  "layout": "plain"
+ },
+ {
+  "track": 4,
+  "start": 52.72,
+  "end": 63.28,
+  "speaker": "Metal Gear",
+  "en": "BH-75001, Randam Hajile. Confirmed. You are a bounty hunter.",
+  "ps1": "B130_r_10",
+  "cards": [
+   "BH-75001, Randam|Hajile. Confirmed.|You are a bounty|hunter."
+  ],
+  "layout": "face",
+  "reveal_end": 61.1
+ },
+ {
+  "track": 4,
+  "start": 63.28,
+  "end": 70.06,
+  "speaker": "Metal Gear",
+  "en": "Gillian, he's already disposed of three Snatchers. Freddy makes four.",
+  "ps1": "B130_r_10b",
+  "cards": [
+   "Gillian, he's|already disposed of|three Snatchers.|Freddy makes four."
+  ],
+  "layout": "face",
+  "reveal_end": 70.0
+ },
+ {
+  "track": 4,
+  "start": 70.06,
+  "end": 71.5,
+  "speaker": "Gillian",
+  "en": "Four?",
+  "ps1": "B130_r_12",
+  "cards": [
+   "Four?"
+  ],
+  "reveal_end": 71.2
+ },
+ {
+  "track": 4,
+  "start": 71.5,
+  "end": 76.38,
+  "speaker": "Randam",
+  "en": "I've been at this longer than you. Don't rush it, rookie.",
+  "ps1": "B130_r_13",
+  "layout": "plain",
+  "cards": [
+   "I've been at this|longer than you.",
+   "Don't rush it, rookie."
+  ],
+  "reveal_end": 75.36
+ },
+ {
+  "track": 4,
+  "start": 76.38,
+  "end": 84.12,
+  "speaker": "Randam",
+  "en": "Here's a tip for you, Mr. JUNKER. You might already know this, but their artificial skin is their weak point.",
+  "ps1": "B130_r_13b",
+  "layout": "plain",
+  "cards": [
+   "Here's a tip for you,|Mr. JUNKER.",
+   "You might already know|this,",
+   "but their artificial|skin is their weak point."
+  ],
+  "seams": [
+   [
+    7,
+    79.22
+   ]
+  ],
+  "ps1_more": [
+   "B130_r_13c",
+   "B130_r_13d"
+  ],
+  "reveal_end": 83.46
+ },
+ {
+  "track": 4,
+  "start": 84.12,
+  "end": 88.74,
+  "speaker": "Randam",
+  "en": "Ultraviolet light apparently makes their skin cancerous.",
+  "ps1": "B130_r_13e",
+  "layout": "plain",
+  "cards": [
+   "Ultraviolet light|apparently",
+   "makes their skin|cancerous."
+  ],
+  "reveal_end": 88.44
+ },
+ {
+  "track": 4,
+  "start": 88.74,
+  "end": 93.78,
+  "speaker": "Randam",
+  "en": "So they've secured a hospital to maintain it.",
+  "ps1": "B130_r_13f",
+  "layout": "plain",
+  "cards": [
+   "So they've secured a|hospital to maintain it."
+  ],
+  "reveal_end": 93.2
+ },
+ {
+  "track": 4,
+  "start": 93.78,
+  "end": 97.46,
+  "speaker": "Randam",
+  "en": "Hit that hospital and you can wipe them all out.",
+  "ps1": "B130_r_13g",
+  "layout": "plain",
+  "cards": [
+   "Hit that hospital and|you can wipe them all out."
+  ],
+  "reveal_end": 97.46
+ },
+ {
+  "track": 4,
+  "start": 97.46,
+  "end": 103.04,
+  "speaker": "Gillian",
+  "en": "How do you know? I get it. You stole Gibson's information.",
+  "ps1": "B130_r_17",
+  "cards": [
+   "How do you know? I|get it. You stole|Gibson's|information."
+  ],
+  "layout": "face",
+  "reveal_end": 102.88
+ },
+ {
+  "track": 4,
+  "start": 103.04,
+  "end": 109.66,
+  "speaker": "Randam",
+  "en": "Never mind that. With Gibson gone, I'll need you to do the work.",
+  "ps1": "B130_r_18",
+  "layout": "plain",
+  "cards": [
+   "Never mind that.",
+   "With Gibson gone, I'll|need you to do the work."
+  ],
+  "reveal_end": 108.16
+ },
+ {
+  "track": 4,
+  "start": 109.66,
+  "end": 111.8,
+  "speaker": "Gillian",
+  "en": "I investigate, and you do the junking.",
+  "ps1": "B130_r_18b",
+  "note": "In the PCE audio, Gillian contrasts his investigation with Randam doing the killing. Native capture with subtitle hook disabled confirms Gillian portrait and mouth animation.",
+  "cards": [
+   "I investigate, and|you do the junking."
+  ],
+  "layout": "face",
+  "reveal_end": 111.8
+ },
+ {
+  "track": 4,
+  "start": 111.8,
+  "end": 115.5,
+  "speaker": "Randam",
+  "en": "Anyway, Gibson seems to have found that hospital.",
+  "ps1": "B130_r_18c",
+  "layout": "plain",
+  "cards": [
+   "Anyway, Gibson seems to|have found that hospital."
+  ],
+  "reveal_end": 115.1
+ },
+ {
+  "track": 4,
+  "start": 115.5,
+  "end": 117.44,
+  "speaker": "Randam",
+  "en": "He must have left some kind of clue.",
+  "ps1": "B130_r_18d",
+  "layout": "plain",
+  "cards": [
+   "He must have left some|kind of clue."
+  ],
+  "reveal_end": 117.26
+ },
+ {
+  "track": 4,
+  "start": 117.44,
+  "end": 120.84,
+  "speaker": "Gillian",
+  "en": "Seems to? You don't know a thing, do you, Randam?",
+  "ps1": "B130_r_21",
+  "cards": [
+   "Seems to? You don't|know a thing, do|you, Randam?"
+  ],
+  "layout": "face",
+  "reveal_end": 120.6
+ },
+ {
+  "track": 4,
+  "start": 120.84,
+  "end": 130.06,
+  "speaker": "Randam",
+  "en": "Finding out is your job.",
+  "ps1": "B130_r_22",
+  "layout": "plain",
+  "cards": [
+   "Finding out is your job."
+  ],
+  "reveal_end": 123.08
+ },
+ {
+  "track": 4,
+  "start": 130.06,
+  "end": 131.54,
+  "speaker": "Gillian",
+  "en": "I owe you one, Randam.",
+  "ps1": "B130_r_23",
+  "cards": [
+   "I owe you one,|Randam."
+  ],
+  "reveal_end": 131.42
+ },
+ {
+  "track": 4,
+  "start": 131.54,
+  "end": 139.24,
+  "speaker": "Randam",
+  "en": "You can pay me back someday. See you, JUNKER.",
+  "ps1": "B130_r_24",
+  "layout": "plain",
+  "cards": [
+   "You can pay me back|someday. See you, JUNKER."
+  ],
+  "reveal_end": 134.9
+ },
+ {
+  "track": 4,
+  "start": 139.24,
+  "end": 144.4,
+  "speaker": "Gillian",
+  "en": "A hospital occupied by Snatchers. That's where they are.",
+  "ps1": "B130_r_26",
+  "ps1_more": [
+   "B130_r_26b"
+  ],
+  "note": "PCE track 4 hospital statement verified against medium full-track, medium isolated, and large-v3 isolated transcriptions. PS1 final reference has an unrelated Snatcher-hunter joke.",
+  "layout": "face",
+  "cards": [
+   "A hospital occupied|by Snatchers.|That's where they|are."
+  ],
+  "reveal_end": 143.4
+ }
+]

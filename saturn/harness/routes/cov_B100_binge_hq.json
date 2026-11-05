@@ -1,0 +1,230 @@
+{
+ "scene": "B100",
+ "note": "Coverage: the Chief's expenses scolding (voice lines 0-5, PS1 M000 ch0 f1-f6). From cov_B100_binge (the whole-game run's state at the end of stage 07, in Outer Heaven): question the dancer (story stage 08; Gillian won't leave before), order whale three times and drinks four times (two of each did not set it off), go out, ride to JUNKER HQ, Move > Chief's room - the Chief scolds Gillian in his office under B080 (B080_f1_0..f6_0). The cards lived only in subs_B060/B070 (the videophone banks) until 2026-11-07.",
+ "actions": [
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "path": [
+    "Call",
+    "Dancer"
+   ]
+  },
+  {
+   "path": [
+    "Item",
+    "Show",
+    "Photo",
+    "Gibson's photo"
+   ],
+   "reps": 2
+  },
+  {
+   "path": [
+    "Ask",
+    "About Gibson"
+   ],
+   "reps": 2
+  },
+  {
+   "path": [
+    "Ask",
+    "About that man"
+   ],
+   "reps": 2
+  },
+  {
+   "path": [
+    "Ask",
+    "About that man",
+    "His features",
+    "Face"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "About that man",
+    "His features",
+    "Eyes"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "About that man",
+    "His features",
+    "Nose"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "About that man",
+    "His features",
+    "Mouth"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "About that man",
+    "His features",
+    "Hair"
+   ]
+  },
+  {
+   "path": [
+    "Ask",
+    "About that man",
+    "His age"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Ask",
+    "About that man",
+    "Change subject"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "End questions"
+   ],
+   "optional": true
+  },
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "path": [
+    "Order",
+    "Whale"
+   ],
+   "optional": true
+  },
+  {
+   "wait_menu": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Order",
+    "Whale"
+   ],
+   "optional": true
+  },
+  {
+   "wait_menu": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Order",
+    "Whale"
+   ],
+   "optional": true
+  },
+  {
+   "wait_menu": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Order",
+    "Dr"
+   ],
+   "optional": true
+  },
+  {
+   "wait_menu": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Order",
+    "Dr"
+   ],
+   "optional": true
+  },
+  {
+   "wait_menu": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Order",
+    "Dr"
+   ],
+   "optional": true
+  },
+  {
+   "wait_menu": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Order",
+    "Dr"
+   ],
+   "optional": true
+  },
+  {
+   "wait_menu": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Go out"
+   ],
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Move",
+    "Board Tricycle"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "JUNKER HQ"
+   ],
+   "patience": 6000
+  },
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "path": [
+    "Move",
+    "Chief's room"
+   ],
+   "patience": 3000
+  },
+  {
+   "wait_menu": true,
+   "patience": 12000
+  },
+  {
+   "idle": 600
+  }
+ ]
+}

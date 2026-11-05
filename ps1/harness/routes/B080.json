@@ -1,0 +1,23 @@
+{
+ "scene": "B080",
+ "note": "JUNKER HQ after the ruins (guides/ps1.txt JUNKER HEADQUARTERS, Act 1 second visit). Arrival plays by itself into the Chief's office. Then rooms via Move: Mechanic room (Harry drunk, the brandy bottle's 39-5644 - a voiced conversation on S000 chan 0), Squad room (the locker, Jean's coat, the chess piece, the desk drawer opened with Item > Use > Key, the disk, the capsule), Front (ask Mika about the restaurant and Napoleon, twice each). Everything is swept; the drawer key is the one explicit item path. Ends by calling Napoleon, which needs the password keyboard - not driven yet.",
+ "source": "guides/ps1.txt JUNKER HEADQUARTERS (Act 1, after the factory)",
+ "actions": [
+  {"save": "B080_arrived"},
+  {"sweep": ["Ask", "Look", "Investigate", "Talk"], "rounds": 2, "why": "the Chief's office after the arrival"},
+  {"path": ["Move", "Mechanic room"], "why": "MOVE to ENGINEERING ROOM"},
+  {"sweep": ["Look", "Investigate", "Ask", "Talk", "Listen"], "rounds": 2, "why": "LOOK at HARRY, LOOK at and INVESTIGATE the BRANDY BOTTLE"},
+  {"path": ["Move", "Squad room"], "why": "MOVE to DETECTIVE'S ROOM"},
+  {"sweep": ["Look", "Investigate"], "rounds": 2, "why": "the LOCKER, Jean's COAT, the CHESS PIECE, NEAR DESK, the DESK DRAWER (locked)"},
+  {"path": ["Item", "Use", "Key"], "optional": true, "why": "POSSESSIONS > USE > KEY opens the drawer"},
+  {"sweep": ["Look", "Investigate", "Item"], "rounds": 2, "why": "LOOK at and INVESTIGATE the DISK, the CAPSULE"},
+  {"save": "B080_squad"},
+  {"path": ["Move", "Front desk"], "why": "MOVE to FRONT"},
+  {"sweep": ["Ask", "Talk", "Look", "Investigate"], "rounds": 2, "why": "ASK Mika about BUFFALO RESTAURANT (x2), NAPOLEON (x2)"},
+  {"save": "B080_front"},
+  {"path": ["Use Metal Gear", "Videophone"]},
+  {"path": ["Call"]},
+  {"dial": "395644"},
+  {"save": "B080_napoleon"}
+ ]
+}

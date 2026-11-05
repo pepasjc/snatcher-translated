@@ -1,0 +1,942 @@
+{
+ "scene": "B1E0",
+ "note": "from B1E0_r_lit (Door 3, the light on; the PS1's B1E0_random): the light's rectangle (RAM ctx+0x3EE/0x3F0, picture coordinates 0..243 x 0..143) on the whiteboard (80,32), the St Basil photo (144,32), the monitor (192,48), a 16-px grid over the lower half, then the 'Face to Face' picture / the vase button at (80,64): Look + Investigate slide the desk and open the stairs (found by the 2026-09-17 full-grid scan, work/saturn/auto/B1E0_5). Peek, the stairs, Go downstairs, rock-paper-scissors, the basement = B200. The light's y stops at 113 (its rectangle's far corner is clamped at 143), so the grid ends at the 112 row. The vase button needs the light exactly on it: (82,66) took, (78,65) read 'Nothing changed at all' - the route tries the neighbours.",
+ "actions": [
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "light_to": [
+    80,
+    32
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    144,
+    32
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    192,
+    48
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    64,
+    80
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    80,
+    80
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    96,
+    80
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    112,
+    80
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    128,
+    80
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    144,
+    80
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    160,
+    80
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    176,
+    80
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    192,
+    80
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    208,
+    80
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    64,
+    96
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    80,
+    96
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    96,
+    96
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    112,
+    96
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    128,
+    96
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    144,
+    96
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    160,
+    96
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    176,
+    96
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    192,
+    96
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    208,
+    96
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    64,
+    112
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    80,
+    112
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    96,
+    112
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    112,
+    112
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    128,
+    112
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    144,
+    112
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    160,
+    112
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    176,
+    112
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    192,
+    112
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    208,
+    112
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out",
+    "Turn on light",
+    "Save"
+   ]
+  },
+  {
+   "light_to": [
+    82,
+    66
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "light_to": [
+    84,
+    66
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "light_to": [
+    82,
+    68
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "light_to": [
+    84,
+    68
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "light_to": [
+    80,
+    66
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "light_to": [
+    82,
+    64
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "light_to": [
+    86,
+    66
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "light_to": [
+    84,
+    64
+   ]
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "save": "B1E0_r_stairs"
+  },
+  {
+   "sweep": [
+    "Peek",
+    "Look",
+    "Investigate",
+    "Look around",
+    "Talk"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out",
+    "Save",
+    "Turn on light",
+    "Go downstairs"
+   ]
+  },
+  {
+   "path": [
+    "Investigate",
+    "Stairs",
+    "Go downstairs"
+   ],
+   "patience": 1800
+  },
+  {
+   "path": [
+    "Throw rock"
+   ],
+   "optional": true,
+   "patience": 2400
+  },
+  {
+   "path": [
+    "Throw rock"
+   ],
+   "optional": true,
+   "patience": 2400
+  },
+  {
+   "path": [
+    "Throw rock"
+   ],
+   "optional": true,
+   "patience": 2400
+  },
+  {
+   "wait_menu": true,
+   "patience": 12000
+  },
+  {
+   "save": "B200_arrive"
+  },
+  {
+   "idle": 300
+  }
+ ]
+}

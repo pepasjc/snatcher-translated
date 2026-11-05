@@ -1,0 +1,1637 @@
+{
+ "file": "DATA.BIN[49]",
+ "entry": 49,
+ "text_base": 3491,
+ "twins": [
+  "B1C0"
+ ],
+ "strings": [
+  {
+   "off": 3492,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 3496,
+   "budget": 35,
+   "en": "Leave the study, then go back in.",
+   "src": "B1C0:3260",
+   "carry": "exact"
+  },
+  {
+   "off": 3531,
+   "budget": 21,
+   "en": "Command x4 please.",
+   "src": "B1C0:3295",
+   "carry": "exact"
+  },
+  {
+   "off": 3552,
+   "budget": 61,
+   "en": "You reach Jean Jack Gibson's￥home. What will you do?",
+   "src": "B1C0:3316",
+   "carry": "rebroken",
+   "long": "We've arrived at Jean Jack Gibson's￥house. What will you do?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3613,
+   "budget": 25,
+   "en": "We're outside the house.",
+   "src": "B1C0:3375",
+   "carry": "exact"
+  },
+  {
+   "off": 3638,
+   "budget": 5,
+   "en": "Move",
+   "src": "B1C0:3400",
+   "carry": "exact"
+  },
+  {
+   "off": 3643,
+   "budget": 9,
+   "en": "Go in",
+   "src": "B1C0:3405",
+   "carry": "exact",
+   "long": "Go inside"
+  },
+  {
+   "off": 3652,
+   "budget": 23,
+   "en": "To the living room.",
+   "src": "B1C0:3414",
+   "carry": "exact",
+   "long": "Let's enter the living room."
+  },
+  {
+   "off": 3675,
+   "budget": 37,
+   "en": "I'll open the door. Ready?",
+   "src": "B1C0:3437",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3712,
+   "budget": 21,
+   "en": "Go ahead. Open it!",
+   "src": "B1C0:3472",
+   "carry": "exact"
+  },
+  {
+   "off": 3733,
+   "budget": 9,
+   "en": "Get in",
+   "src": "B1C0:3493",
+   "carry": "exact",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 3742,
+   "budget": 47,
+   "en": "Gillian! Every second counts. Be￥brave!",
+   "src": "B1C0:3502",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3789,
+   "budget": 67,
+   "en": "Let's find Catherine before it's too￥late, Gillian!",
+   "src": "B1C0:3547",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3856,
+   "budget": 57,
+   "en": "I'm worried about Catherine. Let's￥search the house.",
+   "src": "B1C0:3612",
+   "carry": "exact"
+  },
+  {
+   "off": 3913,
+   "budget": 11,
+   "en": "Knock",
+   "src": "B1C0:3669",
+   "carry": "exact"
+  },
+  {
+   "off": 3924,
+   "budget": 25,
+   "en": "Catherine! Are you in?",
+   "src": "B1C0:3680",
+   "carry": "rebroken",
+   "long": "Catherine! Are you there?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3949,
+   "budget": 27,
+   "en": "Catherine! Catherine!",
+   "src": "B1C0:3703",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3976,
+   "budget": 25,
+   "en": "There's no answer.",
+   "src": "B1C0:3728",
+   "carry": "exact"
+  },
+  {
+   "off": 4001,
+   "budget": 39,
+   "en": "There's no answer. Let's go inside.",
+   "src": "B1C0:3753",
+   "carry": "exact"
+  },
+  {
+   "off": 4040,
+   "budget": 45,
+   "en": "There's no answer. Let's check the￥door.",
+   "src": "B1C0:3792",
+   "carry": "exact"
+  },
+  {
+   "off": 4085,
+   "budget": 5,
+   "en": "Look",
+   "src": "B1C0:3837",
+   "carry": "exact"
+  },
+  {
+   "off": 4090,
+   "budget": 5,
+   "en": "Bldg",
+   "src": "B1C0:3842",
+   "carry": "exact",
+   "long": "Building"
+  },
+  {
+   "off": 4095,
+   "budget": 69,
+   "en": "The lights are on, but no one's￥here. Something must have happened.",
+   "src": "B1C0:3847",
+   "carry": "candidate_ok",
+   "en_candidate": "The lights are on, but no one's￥here. Something must have happened.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 4164,
+   "budget": 47,
+   "en": "Feels lived in...￥but something is odd.",
+   "src": "B1C0:3918",
+   "carry": "rebroken",
+   "long": "It looks as though someone's home,￥but something's wrong.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4211,
+   "budget": 55,
+   "en": "The street lamp hums.￥Somehow too quiet...",
+   "src": "B1C0:3963",
+   "carry": "exact",
+   "long": "All I can hear is the hum of the￥streetlights. It's too quiet."
+  },
+  {
+   "off": 4266,
+   "budget": 3,
+   "en": "Wn",
+   "src": "B1C0:4018",
+   "carry": "exact",
+   "long": "Window"
+  },
+  {
+   "off": 4269,
+   "budget": 35,
+   "en": "Nothing amiss from outside.",
+   "src": "B1C0:4021",
+   "carry": "exact",
+   "long": "Nothing looks unusual from outside."
+  },
+  {
+   "off": 4304,
+   "budget": 51,
+   "en": "The lights are on. Is Catherine￥here?",
+   "src": "B1C0:4056",
+   "carry": "exact"
+  },
+  {
+   "off": 4355,
+   "budget": 7,
+   "en": "Around",
+   "src": "B1C0:4107",
+   "carry": "exact"
+  },
+  {
+   "off": 4362,
+   "budget": 33,
+   "en": "Nothing outside after all.",
+   "src": "B1C0:4114",
+   "carry": "exact",
+   "long": "There's nothing outside after all."
+  },
+  {
+   "off": 4395,
+   "budget": 57,
+   "en": "Everything looks normal at first￥glance.",
+   "src": "B1C0:4147",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4452,
+   "budget": 5,
+   "en": "Door",
+   "src": "B1C0:4202",
+   "carry": "exact"
+  },
+  {
+   "off": 4457,
+   "budget": 25,
+   "en": "Light from inside.",
+   "src": "B1C0:4207",
+   "carry": "exact",
+   "long": "Light is coming from inside."
+  },
+  {
+   "off": 4482,
+   "budget": 51,
+   "en": "Faintly, a sound like voices￥too.",
+   "src": "B1C0:4232",
+   "carry": "rebroken",
+   "long": "I can also faintly hear what sounds￥like people talking.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4533,
+   "budget": 7,
+   "en": "Check",
+   "src": "B1C0:4281",
+   "carry": "exact",
+   "long": "Investigate"
+  },
+  {
+   "off": 4540,
+   "budget": 49,
+   "en": "Something's wrong. We'd better be￥careful.",
+   "src": "B1C0:4288",
+   "carry": "exact"
+  },
+  {
+   "off": 4589,
+   "budget": 53,
+   "en": "It looks normal. There's no sign of￥damage.",
+   "src": "B1C0:4337",
+   "carry": "exact"
+  },
+  {
+   "off": 4642,
+   "budget": 35,
+   "en": "The window is securely locked.",
+   "src": "B1C0:4390",
+   "carry": "exact"
+  },
+  {
+   "off": 4677,
+   "budget": 45,
+   "en": "Oh?￥Fresh footprints by the door.",
+   "src": "B1C0:4425",
+   "carry": "exact",
+   "long": "What's this? There are fresh￥footprints near the front door."
+  },
+  {
+   "off": 4722,
+   "budget": 29,
+   "en": "A street lamp is broken.",
+   "src": "B1C0:4470",
+   "carry": "exact",
+   "long": "A nearby streetlight has been￥smashed."
+  },
+  {
+   "off": 4751,
+   "budget": 45,
+   "en": "A quiet, rich street.￥Nobody in sight.",
+   "src": "B1C0:4499",
+   "carry": "exact",
+   "long": "It's a quiet, wealthy neighborhood.￥There's no one around."
+  },
+  {
+   "off": 4796,
+   "budget": 29,
+   "en": "There's no one here at all.",
+   "src": "B1C0:4544",
+   "carry": "exact"
+  },
+  {
+   "off": 4825,
+   "budget": 33,
+   "en": "Wait! It's unlocked!",
+   "src": "B1C0:4573",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4858,
+   "budget": 61,
+   "en": "Catherine's careful. Leaving it￥unlocked isn't like her!",
+   "src": "B1C0:4604",
+   "carry": "rebroken",
+   "long": "Catherine's always so careful. Why￥would she leave it unlocked?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4919,
+   "budget": 5,
+   "en": "Step",
+   "src": "B1C0:4663",
+   "carry": "exact",
+   "long": "Footprints"
+  },
+  {
+   "off": 4924,
+   "budget": 63,
+   "en": "Small.￥22.5cm... a woman's print,￥I'd say.",
+   "src": "B1C0:4668",
+   "carry": "rebroken",
+   "long": "They're small. Just 22.5￥centimeters. They seem to be a￥woman's footprints.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4987,
+   "budget": 35,
+   "en": "They might be Catherine's.",
+   "src": "B1C0:4729",
+   "carry": "exact"
+  },
+  {
+   "off": 5022,
+   "budget": 69,
+   "en": "Catherine's prints, I'd say.￥She ran towards the outside.",
+   "src": "B1C0:4764",
+   "carry": "exact",
+   "long": "They appear to be Catherine's￥footprints. It looks like she ran￥outside."
+  },
+  {
+   "off": 5091,
+   "budget": 5,
+   "en": "Call",
+   "src": "B1C0:4833",
+   "carry": "exact"
+  },
+  {
+   "off": 5096,
+   "budget": 11,
+   "en": "Catherine",
+   "src": "B1C0:4838",
+   "carry": "exact"
+  },
+  {
+   "off": 5107,
+   "budget": 7,
+   "en": "Alice",
+   "src": "B1C0:4849",
+   "carry": "exact"
+  },
+  {
+   "off": 5114,
+   "budget": 5,
+   "en": "Item",
+   "src": "B1C0:4856",
+   "carry": "exact"
+  },
+  {
+   "off": 5119,
+   "budget": 7,
+   "en": "Lookω",
+   "src": "B1C0:3837",
+   "carry": "candidate_edit",
+   "en_candidate": "Look",
+   "sim": 0.8,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label"
+  },
+  {
+   "off": 5126,
+   "budget": 9,
+   "en": "Investigateω",
+   "src": "B1C0:4281",
+   "carry": "candidate_edit",
+   "en_candidate": "Check",
+   "sim": 0.86,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label; re-adapted 2026-09-30: PS1 label (long 'Investigate') + ω kept after it"
+  },
+  {
+   "off": 5135,
+   "budget": 15,
+   "en": "Use Metal Gear",
+   "src": "B1C0:4861",
+   "carry": "exact"
+  },
+  {
+   "off": 5150,
+   "budget": 11,
+   "en": "Save",
+   "src": "B1C0:4876",
+   "carry": "exact"
+  },
+  {
+   "off": 5161,
+   "budget": 37,
+   "en": "I'll save your progress now.",
+   "src": "B1C0:4887",
+   "carry": "exact"
+  },
+  {
+   "off": 5198,
+   "budget": 29,
+   "en": "Into Gibson's living room.",
+   "src": "B1C0:4924",
+   "carry": "exact",
+   "long": "We're in Gibson's living room."
+  },
+  {
+   "off": 5227,
+   "budget": 21,
+   "en": "Gibson's living rm.",
+   "src": "B1C0:4953",
+   "carry": "exact",
+   "long": "This is Gibson's living room."
+  },
+  {
+   "off": 5248,
+   "budget": 33,
+   "en": "Where's Catherine?",
+   "src": "B1C0:4974",
+   "carry": "exact"
+  },
+  {
+   "off": 5281,
+   "budget": 41,
+   "en": "Not here.￥I'm getting worried.",
+   "src": "B1C0:5007",
+   "carry": "exact",
+   "long": "She's nowhere in sight. I'm getting￥worried."
+  },
+  {
+   "off": 5322,
+   "budget": 9,
+   "en": "Go out",
+   "src": "B1C0:5048",
+   "carry": "exact"
+  },
+  {
+   "off": 5331,
+   "budget": 25,
+   "en": "Let's check outside.",
+   "src": "B1C0:5057",
+   "carry": "exact",
+   "long": "Let's check outside after all."
+  },
+  {
+   "off": 5356,
+   "budget": 5,
+   "en": "Desk",
+   "src": "B1C0:5082",
+   "carry": "exact",
+   "long": "Study"
+  },
+  {
+   "off": 5361,
+   "budget": 19,
+   "en": "Check the study.",
+   "src": "B1C0:5087",
+   "carry": "exact",
+   "long": "Let's take a look in the study."
+  },
+  {
+   "off": 5380,
+   "budget": 5,
+   "en": "Room",
+   "src": "B1C0:5106",
+   "carry": "exact",
+   "long": "Inside"
+  },
+  {
+   "off": 5385,
+   "budget": 53,
+   "en": "There's no one here but us. Where￥did she go?",
+   "src": "B1C0:5111",
+   "carry": "exact"
+  },
+  {
+   "off": 5438,
+   "budget": 43,
+   "en": "Nobody here.￥Spirited away, it seems.",
+   "src": "B1C0:5164",
+   "carry": "exact",
+   "long": "No one's here. It's as if she￥vanished into thin air."
+  },
+  {
+   "off": 5481,
+   "budget": 9,
+   "en": "Monitor",
+   "src": "B1C0:5207",
+   "carry": "exact"
+  },
+  {
+   "off": 5490,
+   "budget": 37,
+   "en": "TV and terminal left on...",
+   "src": "B1C0:5216",
+   "carry": "exact",
+   "long": "The TV and information terminal are￥still on."
+  },
+  {
+   "off": 5527,
+   "budget": 55,
+   "en": "Satellite and info channels￥still running.",
+   "src": "B1C0:5253",
+   "carry": "rebroken",
+   "long": "The satellite broadcasts and￥information channels are still￥running.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5582,
+   "budget": 5,
+   "en": "Mod.",
+   "src": "B1C0:5306",
+   "carry": "exact",
+   "long": "Model"
+  },
+  {
+   "off": 5587,
+   "budget": 73,
+   "en": "A complete miniature of the￥Gibson house. Cast, but well made.",
+   "src": "B1C0:5311",
+   "carry": "exact",
+   "long": "It's an exact miniature of Gibson's￥house. It's cast, but very well￥made."
+  },
+  {
+   "off": 5660,
+   "budget": 59,
+   "en": "Even the lights are still on. What￥happened to Catherine?",
+   "src": "B1C0:5384",
+   "carry": "exact"
+  },
+  {
+   "off": 5719,
+   "budget": 37,
+   "en": "As if only the people vanished.",
+   "src": "B1C0:5443",
+   "carry": "exact",
+   "long": "It's as if only the people have￥disappeared."
+  },
+  {
+   "off": 5756,
+   "budget": 57,
+   "en": "The monitor is hot. It must have￥been left on.",
+   "src": "B1C0:5480",
+   "carry": "exact"
+  },
+  {
+   "off": 5813,
+   "budget": 47,
+   "en": "The info charges have run up￥quite a bill.",
+   "src": "B1C0:5537",
+   "carry": "rebroken",
+   "long": "The information service charges have￥added up to quite a sum, too.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5860,
+   "budget": 9,
+   "en": "Hey!",
+   "src": "B1C0:5582",
+   "carry": "exact"
+  },
+  {
+   "off": 5869,
+   "budget": 85,
+   "en": "I thought it was a window, but￥there's a shelf here. How did I miss￥that?",
+   "src": "B1C0:5591",
+   "carry": "candidate_ok",
+   "en_candidate": "I thought it was a window, but￥there's a shelf here. How did I miss￥that?",
+   "sim": 0.95
+  },
+  {
+   "off": 5954,
+   "budget": 81,
+   "en": "Less a window than a shelf set￥with glass blocks.￥...Garden trees show.",
+   "src": "B1C0:5678",
+   "carry": "rebroken",
+   "long": "It's more of a shelf with glass￥blocks than a window. I can see the￥trees in the garden.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6035,
+   "budget": 3,
+   "en": "Sh",
+   "src": "B1C0:5757",
+   "carry": "exact",
+   "long": "Shelf"
+  },
+  {
+   "off": 6038,
+   "budget": 29,
+   "en": "A house model sits on it.",
+   "src": "B1C0:5760",
+   "carry": "exact",
+   "long": "There's a model house on the shelf."
+  },
+  {
+   "off": 6067,
+   "budget": 65,
+   "en": "There's only the model house. It￥fits perfectly.",
+   "src": "B1C0:5789",
+   "carry": "exact"
+  },
+  {
+   "off": 6132,
+   "budget": 29,
+   "en": "It's a music box.",
+   "src": "B1C0:5854",
+   "carry": "exact"
+  },
+  {
+   "off": 6161,
+   "budget": 47,
+   "en": "I never knew of this model...",
+   "src": "B1C0:5883",
+   "carry": "rebroken",
+   "long": "I didn't know there was a model of￥Gibson's house.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6208,
+   "budget": 31,
+   "en": "Something was inside it.",
+   "src": "B1C0:5928",
+   "carry": "exact",
+   "long": "It looks like there was something￥inside."
+  },
+  {
+   "off": 6239,
+   "budget": 47,
+   "en": "This miniature might mean something.",
+   "src": "B1C0:5959",
+   "carry": "candidate_ok",
+   "en_candidate": "This miniature might mean something.",
+   "sim": 0.95
+  },
+  {
+   "off": 6286,
+   "budget": 47,
+   "en": "Jean did write, \"Search the house.\"",
+   "src": "B1C0:6004",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6333,
+   "budget": 59,
+   "en": "Maybe he meant this. But let's find￥Catherine first!",
+   "src": "B1C0:6049",
+   "carry": "exact"
+  },
+  {
+   "off": 6392,
+   "budget": 25,
+   "en": "Oh! What's this?＠Ｃ",
+   "src": "B1C0:6108",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6417,
+   "budget": 47,
+   "en": "Terribly ransacked.￥Who on earth...?",
+   "src": "B1C0:6131",
+   "carry": "exact",
+   "long": "It's been completely torn apart. Who￥could have done this?"
+  },
+  {
+   "off": 6464,
+   "budget": 77,
+   "en": "Snatchers! Damn it! How did they￥find this place?",
+   "src": "B1C0:6178",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6541,
+   "budget": 105,
+   "en": "You need a level 5 ID or higher to￥access this address. ＠赤Could they￥have followed us?!",
+   "src": "B1C0:6253",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6646,
+   "budget": 41,
+   "en": "No way! Damn it! Where's Catherine?",
+   "src": "B1C0:6356",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6687,
+   "budget": 87,
+   "en": "They've really torn this place￥apart. Could they have been looking￥for something?",
+   "src": "B1C0:6395",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6774,
+   "budget": 63,
+   "en": "Searching?￥Did Gibson leave some strong￥clue yet?",
+   "src": "B1C0:6480",
+   "carry": "rebroken",
+   "long": "Looking for something? Did Gibson￥leave another important clue?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6837,
+   "budget": 21,
+   "en": "Gibson's study.",
+   "src": "B1C0:6541",
+   "carry": "exact",
+   "long": "This is Gibson's study."
+  },
+  {
+   "off": 6858,
+   "budget": 29,
+   "en": "Gillian? That sneeze?",
+   "src": "B1C0:6562",
+   "carry": "rebroken",
+   "long": "Gillian? What made you sneeze?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6887,
+   "budget": 15,
+   "en": "Snow Cedar?",
+   "src": "B1C0:6589",
+   "carry": "exact"
+  },
+  {
+   "off": 6902,
+   "budget": 55,
+   "en": "Wait. I'll analyze the air in this￥room.",
+   "src": "B1C0:6604",
+   "carry": "exact"
+  },
+  {
+   "off": 6957,
+   "budget": 69,
+   "en": "Analysis complete. There's a trace￥of Snow Cedar pollen.",
+   "src": "B1C0:6659",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7026,
+   "budget": 53,
+   "en": "There's no doubt a Snatcher was￥here.",
+   "src": "B1C0:6726",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7079,
+   "budget": 17,
+   "en": "Comms harmed?",
+   "src": "B1C0:6777",
+   "carry": "exact",
+   "long": "Will it interfere with￥communications?"
+  },
+  {
+   "off": 7096,
+   "budget": 57,
+   "en": "No. The concentration isn't high￥enough to interfere.",
+   "src": "B1C0:6794",
+   "carry": "exact"
+  },
+  {
+   "off": 7153,
+   "budget": 55,
+   "en": "They're afraid we'll find the￥hospital!",
+   "src": "B1C0:6851",
+   "carry": "rebroken",
+   "long": "They're afraid we'll find out where￥the hospital is!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7208,
+   "budget": 47,
+   "en": "So Catherine found that clue.",
+   "src": "B1C0:6904",
+   "carry": "rebroken",
+   "long": "And Catherine found a clue to its￥location.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7255,
+   "budget": 19,
+   "en": "Probably.",
+   "src": "B1C0:6949",
+   "carry": "exact"
+  },
+  {
+   "off": 7274,
+   "budget": 5,
+   "en": "Yard",
+   "src": "B1C0:6968",
+   "carry": "exact",
+   "long": "Backyard"
+  },
+  {
+   "off": 7279,
+   "budget": 41,
+   "en": "To the back garden.￥Alice is there.",
+   "src": "B1C0:6973",
+   "carry": "exact",
+   "long": "Let's go into the backyard. Alice￥should be there."
+  },
+  {
+   "off": 7320,
+   "budget": 5,
+   "en": "Room",
+   "src": "B1C0:7014",
+   "carry": "exact",
+   "long": "Living room"
+  },
+  {
+   "off": 7325,
+   "budget": 21,
+   "en": "Back to the room.",
+   "src": "B1C0:7019",
+   "carry": "exact",
+   "long": "Let's go back to the living room."
+  },
+  {
+   "off": 7346,
+   "budget": 35,
+   "en": "It's been completely wrecked.",
+   "src": "B1C0:7040",
+   "carry": "exact",
+   "long": "The place has been completely￥trashed."
+  },
+  {
+   "off": 7381,
+   "budget": 9,
+   "en": "Computer",
+   "src": "B1C0:7075",
+   "carry": "exact"
+  },
+  {
+   "off": 7390,
+   "budget": 31,
+   "en": "The display has been smashed.",
+   "src": "B1C0:7084",
+   "carry": "exact"
+  },
+  {
+   "off": 7421,
+   "budget": 55,
+   "en": "It must have shorted out. There are￥scorch marks.",
+   "src": "B1C0:7115",
+   "carry": "exact"
+  },
+  {
+   "off": 7476,
+   "budget": 7,
+   "en": "Sofa",
+   "src": "B1C0:7170",
+   "carry": "exact"
+  },
+  {
+   "off": 7483,
+   "budget": 37,
+   "en": "The hard leather is in shreds.",
+   "src": "B1C0:7177",
+   "carry": "exact",
+   "long": "The tough leather has been torn to￥shreds."
+  },
+  {
+   "off": 7520,
+   "budget": 35,
+   "en": "The down stuffing is spilling out.",
+   "src": "B1C0:7214",
+   "carry": "exact",
+   "long": "The feather stuffing is spilling￥out."
+  },
+  {
+   "off": 7555,
+   "budget": 27,
+   "en": "Everything is destroyed.",
+   "src": "B1C0:7249",
+   "carry": "exact",
+   "long": "Everything's been destroyed."
+  },
+  {
+   "off": 7582,
+   "budget": 81,
+   "en": "It's completely dead. It's a good￥thing we checked the disk Gibson￥left us.",
+   "src": "B1C0:7276",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7663,
+   "budget": 69,
+   "en": "I don't think it can be repaired.￥Jean treasured it.",
+   "src": "B1C0:7355",
+   "carry": "exact"
+  },
+  {
+   "off": 7732,
+   "budget": 41,
+   "en": "Torn by something like sharp￥claws.",
+   "src": "B1C0:7424",
+   "carry": "exact",
+   "long": "Something like sharp claws tore it￥apart."
+  },
+  {
+   "off": 7773,
+   "budget": 97,
+   "en": "The cuts run parallel, so it appears￥to have been torn by claws, not a￥knife.",
+   "src": "B1C0:7465",
+   "carry": "candidate_ok",
+   "en_candidate": "The cuts run parallel, so it appears￥to have been torn by claws, not a￥knife.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 7870,
+   "budget": 47,
+   "en": "Looks like they were￥after something.",
+   "src": "B1C0:7562",
+   "carry": "rebroken",
+   "long": "Judging by this room, they were￥looking for something.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7917,
+   "budget": 13,
+   "en": "What is it?",
+   "src": "B1C0:7607",
+   "carry": "exact",
+   "long": "What could it be?"
+  },
+  {
+   "off": 7930,
+   "budget": 51,
+   "en": "I don't know, but perhaps what￥we seek.",
+   "src": "B1C0:7620",
+   "carry": "candidate_ok",
+   "en_candidate": "I don't know, but perhaps what￥we seek.",
+   "sim": 0.96,
+   "long": "I don't know, but it might be the￥same thing we're looking for."
+  },
+  {
+   "off": 7981,
+   "budget": 29,
+   "en": "They'd hide the data...?",
+   "src": "B1C0:7669",
+   "carry": "exact",
+   "long": "Were they trying to hide the data?"
+  },
+  {
+   "off": 8010,
+   "budget": 81,
+   "en": "The disk can't be read, but it's￥recorded in my memory, so all is￥well.",
+   "src": "B1C0:7698",
+   "carry": "rebroken",
+   "long": "We can't read it from the disk, but￥don't worry. I've stored it in my￥memory.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8091,
+   "budget": 11,
+   "en": "Garden.",
+   "src": "B1C0:7777",
+   "carry": "exact",
+   "long": "This is the backyard."
+  },
+  {
+   "off": 8102,
+   "budget": 29,
+   "en": "Hey! Alice isn't here.",
+   "src": "B1C0:7788",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8131,
+   "budget": 29,
+   "en": "Alice is missing too?",
+   "src": "B1C0:7815",
+   "carry": "exact"
+  },
+  {
+   "off": 8160,
+   "budget": 11,
+   "en": "To study",
+   "src": "B1C0:7844",
+   "carry": "exact",
+   "long": "Back to study"
+  },
+  {
+   "off": 8171,
+   "budget": 21,
+   "en": "Back to the study.",
+   "src": "B1C0:7855",
+   "carry": "exact",
+   "long": "Let's go back to the study."
+  },
+  {
+   "off": 8192,
+   "budget": 31,
+   "en": "Nobody about, it seems.",
+   "src": "B1C0:7876",
+   "carry": "exact",
+   "long": "There doesn't seem to be anyone￥around."
+  },
+  {
+   "off": 8223,
+   "budget": 5,
+   "en": "Dark",
+   "src": "B1C0:7907",
+   "carry": "exact",
+   "long": "Darkness"
+  },
+  {
+   "off": 8228,
+   "budget": 45,
+   "en": "Nothing unusual. Nothing here.",
+   "src": "B1C0:7912",
+   "carry": "exact"
+  },
+  {
+   "off": 8273,
+   "budget": 55,
+   "en": "Nothing shows in the dark.￥Nor on the night sensor.",
+   "src": "B1C0:7957",
+   "carry": "exact",
+   "long": "I can't see anything in the dark.￥Nothing shows up on my night vision￥sensor either."
+  },
+  {
+   "off": 8328,
+   "budget": 5,
+   "en": "Grnd",
+   "src": "B1C0:8012",
+   "carry": "exact",
+   "long": "Ground"
+  },
+  {
+   "off": 8333,
+   "budget": 29,
+   "en": "Ah! There's a collar.",
+   "src": "B1C0:8017",
+   "carry": "rebroken",
+   "long": "Oh! There's a collar on the ground.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8362,
+   "budget": 37,
+   "en": "Drag marks too.",
+   "src": "B1C0:8044",
+   "carry": "exact",
+   "long": "There are also marks where something￥was dragged."
+  },
+  {
+   "off": 8399,
+   "budget": 5,
+   "en": "Coll",
+   "src": "B1C0:8081",
+   "carry": "exact",
+   "long": "Collar"
+  },
+  {
+   "off": 8404,
+   "budget": 49,
+   "en": "It's the magnetic ring Alice wore.",
+   "src": "B1C0:8086",
+   "carry": "candidate_ok",
+   "en_candidate": "It's the magnetic ring Alice wore.",
+   "sim": 0.91
+  },
+  {
+   "off": 8453,
+   "budget": 67,
+   "en": "A collar using a magnetic field￥to keep her in the house.",
+   "src": "B1C0:8129",
+   "carry": "rebroken",
+   "long": "This collar uses a magnetic field to￥keep her on Gibson's property.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8520,
+   "budget": 53,
+   "en": "A registration number is cut in.￥This is Alice's.",
+   "src": "B1C0:8194",
+   "carry": "exact",
+   "long": "There's a registration number￥engraved on it. This is Alice's."
+  },
+  {
+   "off": 8573,
+   "budget": 53,
+   "en": "Nothing unusual, though it's a￥little too quiet.",
+   "src": "B1C0:8247",
+   "carry": "exact"
+  },
+  {
+   "off": 8626,
+   "budget": 29,
+   "en": "...Looks like nobody's here.",
+   "src": "B1C0:8300",
+   "carry": "exact",
+   "long": "There doesn't seem to be anyone￥here."
+  },
+  {
+   "off": 8655,
+   "budget": 51,
+   "en": "Feels like something's here... my￥imagination?",
+   "src": "B1C0:8329",
+   "carry": "rebroken",
+   "long": "I feel like something's here. Am I￥imagining it?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8706,
+   "budget": 45,
+   "en": "No motion or infrared readings.",
+   "src": "B1C0:8378",
+   "carry": "exact"
+  },
+  {
+   "off": 8751,
+   "budget": 35,
+   "en": "It looks torn off.",
+   "src": "B1C0:8423",
+   "carry": "exact",
+   "long": "It looks like it's been torn apart."
+  },
+  {
+   "off": 8786,
+   "budget": 57,
+   "en": "This cut isn't normal.￥Not Alice's strength.",
+   "src": "B1C0:8458",
+   "carry": "exact",
+   "long": "These torn edges are unusual. Alice￥isn't strong enough to do this."
+  },
+  {
+   "off": 8843,
+   "budget": 59,
+   "en": "Alice is a Dobermann.￥Not a dog that goes down easy.",
+   "src": "B1C0:8515",
+   "carry": "exact",
+   "long": "Alice is a Doberman. She's not a dog￥you could take down easily."
+  },
+  {
+   "off": 8902,
+   "budget": 35,
+   "en": "If you're human, that is.",
+   "src": "B1C0:8574",
+   "carry": "exact"
+  },
+  {
+   "off": 8937,
+   "budget": 73,
+   "en": "This yard doesn't lead anywhere.￥Alice was trapped here.",
+   "src": "B1C0:8609",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9010,
+   "budget": 81,
+   "en": "A person, maybe. But Alice￥leaving without going through￥the study? Hardly.",
+   "src": "B1C0:8680",
+   "carry": "candidate_ok",
+   "en_candidate": "A person, maybe. But Alice￥leaving without going through￥the study? Hardly.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "A person might manage it, but Alice￥could hardly have gotten outside￥without going through the study."
+  },
+  {
+   "off": 9091,
+   "budget": 39,
+   "en": "I'm worried. Call Catherine?",
+   "src": "B1C0:8763",
+   "carry": "rebroken",
+   "long": "I'm worried about Catherine. Should￥we call for her?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9130,
+   "budget": 13,
+   "en": "Yes, let's.",
+   "src": "B1C0:8800",
+   "carry": "exact"
+  },
+  {
+   "off": 9143,
+   "budget": 63,
+   "en": "Catherine! Catherine! Answer me if￥you're there!",
+   "src": "B1C0:8813",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9206,
+   "budget": 67,
+   "en": "Catherine! Catherine! Are you there?￥It's me, Gillian!",
+   "src": "B1C0:8874",
+   "carry": "candidate_ok",
+   "en_candidate": "Catherine! Catherine! Are you there?￥It's me, Gillian!",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 9273,
+   "budget": 49,
+   "en": "There's no answer. Can she hear us?",
+   "src": "B1C0:8935",
+   "carry": "exact"
+  },
+  {
+   "off": 9322,
+   "budget": 53,
+   "en": "There's no answer. Has something￥happened to her?",
+   "src": "B1C0:8984",
+   "carry": "exact"
+  },
+  {
+   "off": 9375,
+   "budget": 31,
+   "en": "Alice might hear.",
+   "src": "B1C0:9037",
+   "carry": "exact",
+   "long": "Alice might be able to hear us."
+  },
+  {
+   "off": 9406,
+   "budget": 19,
+   "en": "Try calling her.",
+   "src": "B1C0:9068",
+   "carry": "exact"
+  },
+  {
+   "off": 9425,
+   "budget": 37,
+   "en": "Alice? Alice! Come here!",
+   "src": "B1C0:9087",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 9462,
+   "budget": 39,
+   "en": "Alice! Where are you? Come on out!",
+   "src": "B1C0:9120",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 9501,
+   "budget": 83,
+   "en": "No sign of her.￥She's a friendly dog. If she￥were here she'd come out.",
+   "src": "B1C0:9155",
+   "carry": "rebroken",
+   "long": "There's no sign of her. She's￥surprisingly friendly, so she'd come￥out if she were here.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9584,
+   "budget": 55,
+   "en": "She's not coming. Has something￥really happened?",
+   "src": "B1C0:9236",
+   "carry": "exact"
+  },
+  {
+   "off": 9639,
+   "budget": 15,
+   "en": "JUNKER ID",
+   "src": "B1C0:9291",
+   "carry": "exact"
+  },
+  {
+   "off": 9654,
+   "budget": 73,
+   "en": "This ID card proves your authority￥as a JUNKER. Keep it safe.",
+   "src": "B1C0:9306",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 9727,
+   "budget": 7,
+   "en": "Funds",
+   "src": "B1C0:9375",
+   "carry": "exact"
+  },
+  {
+   "off": 9734,
+   "budget": 35,
+   "en": "This is the money JUNKER gave you.",
+   "src": "B1C0:9382",
+   "carry": "exact"
+  },
+  {
+   "off": 9769,
+   "budget": 5,
+   "en": "Drop",
+   "src": "B1C0:9417",
+   "carry": "exact",
+   "long": "Candy"
+  },
+  {
+   "off": 9774,
+   "budget": 35,
+   "en": "This candy was in Jean's pocket.",
+   "src": "B1C0:9422",
+   "carry": "exact"
+  },
+  {
+   "off": 9809,
+   "budget": 7,
+   "en": "Proof",
+   "src": "B1C0:9457",
+   "carry": "exact",
+   "long": "Evidence"
+  },
+  {
+   "off": 9816,
+   "budget": 3,
+   "en": "Pc",
+   "src": "B1C0:9464",
+   "carry": "exact",
+   "long": "Chess piece"
+  },
+  {
+   "off": 9819,
+   "budget": 61,
+   "en": "Gibson's chess piece, hinting at￥Queen Hospital.",
+   "src": "B1C0:9467",
+   "carry": "exact",
+   "long": "Gibson carried this chess piece as a￥clue to Queen Hospital."
+  },
+  {
+   "off": 9880,
+   "budget": 37,
+   "en": "This is the chess piece Gibson had.",
+   "src": "B1C0:9528",
+   "carry": "exact"
+  },
+  {
+   "off": 9917,
+   "budget": 7,
+   "en": "Chart",
+   "src": "B1C0:9565",
+   "carry": "exact",
+   "long": "Medical chart"
+  },
+  {
+   "off": 9924,
+   "budget": 41,
+   "en": "A chart with a Snatcher's￥name on it.",
+   "src": "B1C0:9572",
+   "carry": "exact",
+   "long": "This medical record gives a￥Snatcher's name."
+  },
+  {
+   "off": 9965,
+   "budget": 37,
+   "en": "Found on a desk at￥Queen Hospital.",
+   "src": "B1C0:9613",
+   "carry": "exact",
+   "long": "We found this in a desk at Queen￥Hospital."
+  },
+  {
+   "off": 10002,
+   "budget": 7,
+   "en": "Match",
+   "src": "B1C0:9650",
+   "carry": "exact",
+   "long": "Matches"
+  },
+  {
+   "off": 10009,
+   "budget": 45,
+   "en": "Old-fashioned matches from￥Queen Hosp.",
+   "src": "B1C0:9657",
+   "carry": "rebroken",
+   "long": "These old-fashioned matches were at￥Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10054,
+   "budget": 9,
+   "en": "Memo",
+   "src": "B1C0:9700",
+   "carry": "exact"
+  },
+  {
+   "off": 10063,
+   "budget": 31,
+   "en": "A memo in Harry's hand.",
+   "src": "B1C0:9709",
+   "carry": "exact",
+   "long": "Harry seems to have written this￥note."
+  },
+  {
+   "off": 10094,
+   "budget": 45,
+   "en": "This note was in the Mechanic room.",
+   "src": "B1C0:9740",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10139,
+   "budget": 13,
+   "en": "Video memory",
+   "src": "B1C0:9783",
+   "carry": "exact"
+  },
+  {
+   "off": 10152,
+   "budget": 13,
+   "en": "Little John",
+   "src": "B1C0:9796",
+   "carry": "exact"
+  },
+  {
+   "off": 10165,
+   "budget": 49,
+   "en": "Footage left in Little John's￥memory.",
+   "src": "B1C0:9809",
+   "carry": "rebroken",
+   "long": "This image was stored in Little￥John's memory.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10214,
+   "budget": 9,
+   "en": "Red Sq.",
+   "src": "B1C0:9856",
+   "carry": "exact",
+   "long": "Red Square"
+  },
+  {
+   "off": 10223,
+   "budget": 39,
+   "en": "A photo hidden in the￥Chief's room.",
+   "src": "B1C0:9865",
+   "carry": "exact",
+   "long": "This photograph was hidden in the￥Chief's office."
+  },
+  {
+   "off": 10262,
+   "budget": 5,
+   "en": "Hall",
+   "src": "B1C0:9904",
+   "carry": "exact",
+   "long": "Temple"
+  },
+  {
+   "off": 10267,
+   "budget": 49,
+   "en": "Temple painting from a￥Queen Hospital room.",
+   "src": "B1C0:9909",
+   "carry": "rebroken",
+   "long": "This picture of a cathedral hung in￥a room at Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10316,
+   "budget": 67,
+   "en": "It has an integrated circuit￥containing all your data, Gillian.",
+   "src": "B1C0:9956",
+   "carry": "exact"
+  },
+  {
+   "off": 10383,
+   "budget": 51,
+   "en": "Case expenses are covered￥as work requires.",
+   "src": "B1C0:10023",
+   "carry": "rebroken",
+   "long": "In principle, there's no limit on￥necessary investigation expenses.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10434,
+   "budget": 47,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "src": "B1C0:10072",
+   "carry": "rebroken",
+   "long": "Jean gave this candy to the children￥at the orphanage.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10481,
+   "budget": 59,
+   "en": "So the piece pointed to the name￥of Queen Hospital.",
+   "src": "B1C0:10117",
+   "carry": "rebroken",
+   "long": "It seems this piece was meant to￥tell us the name of Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10540,
+   "budget": 57,
+   "en": "It's a wooden chess piece. The￥queen.",
+   "src": "B1C0:10174",
+   "carry": "exact"
+  },
+  {
+   "off": 10597,
+   "budget": 85,
+   "en": "A cipher written in Chinese element￥symbols. Decoded, it reads BENSON.",
+   "src": "B1C0:10231",
+   "carry": "rebroken",
+   "long": "It's a code written using Chinese￥symbols for chemical elements. It￥decodes to BENSON.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10682,
+   "budget": 65,
+   "en": "It seems to be part of a medical￥record. What does it say?",
+   "src": "B1C0:10314",
+   "carry": "exact"
+  },
+  {
+   "off": 10747,
+   "budget": 73,
+   "en": "Matches from 'Outer Heaven'.￥A trifle given to regulars,￥surely.",
+   "src": "B1C0:10379",
+   "carry": "rebroken",
+   "long": "These are Outer Heaven matches. They￥probably give them to regular￥customers.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10820,
+   "budget": 63,
+   "en": "'Face to Face'.￥A memo on the illusion￥picture's secret.",
+   "src": "B160:8156",
+   "carry": "exact",
+   "long": "\"Face to face.\" The note reveals￥the secret of the optical illusion.",
+   "note": "from B160"
+  },
+  {
+   "off": 10883,
+   "budget": 77,
+   "en": "\"Face to face.\" It's Harry's￥handwriting, but what does it mean?",
+   "src": "B160:8219",
+   "carry": "rebroken",
+   "note": "from B160; Saturn jp has 1 more break"
+  },
+  {
+   "off": 10960,
+   "budget": 55,
+   "en": "This image shows the QUEEN Hospital￥neon sign.",
+   "src": "B1C0:10588",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11015,
+   "budget": 69,
+   "en": "It reads \"OLEEN Hospital.\" It must￥be a hospital's neon sign.",
+   "src": "B1C0:10641",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11084,
+   "budget": 65,
+   "en": "A still photo of Red Square￥in Moscow, before the Catastrophe.",
+   "src": "B1C0:10708",
+   "carry": "exact",
+   "long": "This is a photograph of Red Square￥in Moscow before the Catastrophe."
+  },
+  {
+   "off": 11149,
+   "budget": 69,
+   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "src": "B1C0:10773",
+   "carry": "rebroken",
+   "long": "It's St. Basil's Cathedral, a famous￥cathedral in Moscow before the￥Catastrophe.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11220,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

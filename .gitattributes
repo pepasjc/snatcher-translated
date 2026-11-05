@@ -1,0 +1,4 @@
+# Files are stored byte for byte: the tree mixes CRLF (batch files, some data) and
+# LF (shell scripts, the Dockerfile, which must stay LF), and a checkout with
+# core.autocrlf must not rewrite either.
+* -text

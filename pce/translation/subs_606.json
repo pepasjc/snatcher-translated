@@ -1,0 +1,573 @@
+{
+ "86": {
+  "speaker": "Metal Gear",
+  "en": "Promise you'll come back.",
+  "ps1": [
+   "B250_c10f52"
+  ],
+  "cards": [
+   "Promise you'll come|back."
+  ],
+  "layout": "plain"
+ },
+ "a0": {
+  "speaker": "Gillian",
+  "en": "Are you all right, Metal?",
+  "ps1": [
+   "B220_f54_0"
+  ],
+  "cards": [
+   "Are you all right,|Metal?"
+  ],
+  "layout": "plain"
+ },
+ "a2": {
+  "speaker": "Gillian",
+  "en": "Metal! Is something broken?",
+  "ps1": [
+   "B220_f56_0"
+  ],
+  "cards": [
+   "Metal! Is something|broken?"
+  ],
+  "layout": "plain"
+ },
+ "a3": {
+  "speaker": "Metal Gear",
+  "en": "I-I-I'm all right. I think. My speech circuits seem a little scrambled.",
+  "ps1": [
+   "B220_f57_0",
+   "B220_f57_0b"
+  ],
+  "cards": [
+   "I-I-I'm all right.|I think.",
+   "My speech circuits|seem a little scrambled."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.16
+  ]
+ },
+ "a4": {
+  "speaker": "Gillian",
+  "en": "What happened?",
+  "ps1": [
+   "B220_f58_0"
+  ],
+  "cards": [
+   "What happened?"
+  ],
+  "layout": "plain"
+ },
+ "a5": {
+  "speaker": "Metal Gear",
+  "en": "Randam pushed us into the vent and blew himself up.",
+  "ps1": [
+   "B220_f59_0"
+  ],
+  "cards": [
+   "Randam pushed us|into the vent and blew himself up."
+  ],
+  "layout": "plain"
+ },
+ "a6": {
+  "speaker": "Gillian",
+  "en": "Randam!",
+  "ps1": [
+   "B220_f60_0"
+  ],
+  "cards": [
+   "Randam!"
+  ],
+  "layout": "plain"
+ },
+ "a7": {
+  "speaker": "Metal Gear",
+  "en": "Gillian, that blast must have destroyed Queen Hospital.",
+  "ps1": [
+   "B220_f61_0"
+  ],
+  "cards": [
+   "Gillian, that blast|must have destroyed Queen Hospital."
+  ],
+  "layout": "plain"
+ },
+ "a8": {
+  "speaker": "Gillian",
+  "en": "The solid duct absorbed the blast. Without Randam, we'd be dead. Randam!",
+  "ps1": [
+   "B220_f62_0",
+   "B220_f62_0b"
+  ],
+  "cards": [
+   "The solid duct|absorbed the blast.",
+   "Without Randam, we'd|be dead. Randam!"
+  ],
+  "layout": "plain",
+  "turns": [
+   4.0
+  ]
+ },
+ "a9": {
+  "speaker": "Metal Gear",
+  "en": "Gillian, there's no time to grieve. We must get back and junk Cunningham, or Harry and Mika will be in danger, too.",
+  "ps1": [
+   "B220_f63_0",
+   "B220_f63_0b",
+   "B220_f63_0c"
+  ],
+  "cards": [
+   "Gillian, there's no|time to grieve.",
+   "We must get back|and junk Cunningham,",
+   "or Harry and Mika|will be in danger, too."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.46,
+   6.42
+  ]
+ },
+ "aa": {
+  "speaker": "Gillian",
+  "en": "We have to keep our promise to Randam.",
+  "ps1": [
+   "B220_f64_0"
+  ],
+  "cards": [
+   "We have to keep our|promise to Randam."
+  ],
+  "layout": "plain"
+ },
+ "ab": {
+  "speaker": "Gillian",
+  "en": "First, we need a way out of here!",
+  "ps1": [
+   "B220_f65_0"
+  ],
+  "cards": [
+   "First, we need a way|out of here!"
+  ],
+  "layout": "plain"
+ },
+ "ac": {
+  "speaker": "Metal Gear",
+  "en": "But I can't see anything. What now?",
+  "ps1": [
+   "B220_f66_0"
+  ],
+  "cards": [
+   "But I can't see|anything. What now?"
+  ],
+  "layout": "plain"
+ },
+ "ad": {
+  "speaker": "Gillian",
+  "en": "What's this?",
+  "ps1": [
+   "B220_f67_0"
+  ],
+  "cards": [
+   "What's this?"
+  ]
+ },
+ "ae": {
+  "speaker": "Metal Gear",
+  "en": "It's a Tube Liner tunnel!",
+  "ps1": [
+   "B220_f68_0"
+  ],
+  "cards": [
+   "It's a Tube Liner|tunnel!"
+  ]
+ },
+ "af": {
+  "speaker": "Gillian",
+  "en": "So Queen Hospital was connected to the Tube Liner.",
+  "ps1": [
+   "B220_f69_0"
+  ],
+  "cards": [
+   "So Queen Hospital|was connected to|the Tube Liner."
+  ]
+ },
+ "b0": {
+  "speaker": "Metal Gear",
+  "en": "Yes. The Snatchers used these tunnels to move around underground.",
+  "ps1": [
+   "B220_f70_0",
+   "B220_f70_0b"
+  ],
+  "cards": [
+   "Yes. The Snatchers|used these tunnels|to move around|underground."
+  ]
+ },
+ "b1": {
+  "speaker": "Metal Gear",
+  "en": "They can't stand ultraviolet light. They must have used these tunnels to stay out of the sun.",
+  "ps1": [
+   "B220_f71_0",
+   "B220_f71_0b",
+   "B220_f71_0c"
+  ],
+  "cards": [
+   "They can't stand|ultraviolet light.",
+   "They must have used|these tunnels to|stay out of the sun."
+  ],
+  "turns": [
+   2.14
+  ]
+ },
+ "b2": {
+  "speaker": "Metal Gear",
+  "en": "Why didn't we realize it? Subway lines run all over the city. Now that they're abandoned, they can move around unseen.",
+  "ps1": [
+   "B220_f72_0",
+   "B220_f72_0b",
+   "B220_f72_0c",
+   "B220_f72_0d"
+  ],
+  "cards": [
+   "Why didn't we|realize it? Subway|lines run all over|the city.",
+   "Now that they're|abandoned, they can|move around unseen."
+  ],
+  "turns": [
+   6.94
+  ]
+ },
+ "b3": {
+  "speaker": "Gillian",
+  "en": "Of course! That figure at the factory where Gibson died vanished into these tunnels!",
+  "ps1": [
+   "B220_f73_0",
+   "B220_f73_0b",
+   "B220_f73_0c"
+  ],
+  "cards": [
+   "Of course!",
+   "That figure at the|factory",
+   "where Gibson died|vanished into these|tunnels!"
+  ],
+  "turns": [
+   1.82,
+   3.7
+  ]
+ },
+ "b4": {
+  "speaker": "Metal Gear",
+  "en": "Yes. The Tube Liner also runs under that factory. That explains the sand that fell from the factory into the air vent.",
+  "ps1": [
+   "B220_f74_0",
+   "B220_f74_0b",
+   "B220_f74_0bb"
+  ],
+  "cards": [
+   "Yes. The Tube Liner|also runs under|that factory.",
+   "That explains the|sand that fell from|the factory into|the air vent."
+  ],
+  "turns": [
+   5.24
+  ]
+ },
+ "b5": {
+  "speaker": "Gillian",
+  "en": "I see. So that's how they did it. They moved around without being seen and stayed out of the sunlight!",
+  "ps1": [
+   "B220_f75_0",
+   "B220_f75_0b",
+   "B220_f75_0bb"
+  ],
+  "cards": [
+   "I see. So that's|how they did it.",
+   "They moved around|without being seen|and stayed out of|the sunlight!"
+  ],
+  "turns": [
+   3.1
+  ]
+ },
+ "b6": {
+  "speaker": "Metal Gear",
+  "en": "No wonder it took so long to find the Snatchers.",
+  "ps1": [
+   "B220_f76_0"
+  ],
+  "cards": [
+   "No wonder it took|so long to find the|Snatchers."
+  ]
+ },
+ "b7": {
+  "speaker": "Gillian",
+  "en": "Let's follow the Tube Liner tracks! We might find a way out at the nearest station.",
+  "ps1": [
+   "B220_f77_0",
+   "B220_f77_0b"
+  ],
+  "cards": [
+   "Let's follow the|Tube Liner tracks!",
+   "We might find a way|out at the nearest|station."
+  ],
+  "turns": [
+   2.76
+  ]
+ },
+ "b8": {
+  "speaker": "Gillian",
+  "en": "Look! Light!",
+  "ps1": [
+   "B220_f78_0"
+  ],
+  "cards": [
+   "Look! Light!"
+  ]
+ },
+ "b9": {
+  "speaker": "Metal Gear",
+  "en": "But it doesn't look like a station.",
+  "ps1": [
+   "B220_f79_0"
+  ],
+  "cards": [
+   "But it doesn't look|like a station."
+  ]
+ },
+ "ba": {
+  "speaker": "Gillian",
+  "en": "A ladder!",
+  "ps1": [
+   "B220_f80_0"
+  ],
+  "cards": [
+   "A ladder!"
+  ]
+ },
+ "bb": {
+  "speaker": "Metal Gear",
+  "en": "Where does it lead, Gillian?",
+  "ps1": [
+   "B220_f81_0"
+  ],
+  "cards": [
+   "Where does it lead,|Gillian?"
+  ]
+ },
+ "bc": {
+  "speaker": "Gillian",
+  "en": "I don't know. Well, let's climb up and see.",
+  "ps1": [
+   "B220_f82_0",
+   "B220_f82_0b"
+  ],
+  "cards": [
+   "I don't know. Well,|let's climb up and|see."
+  ]
+ },
+ "bd": {
+  "speaker": "Metal Gear",
+  "en": "Right. Let's climb the ladder.",
+  "ps1": [
+   "B220_f83_0"
+  ],
+  "cards": [
+   "Right. Let's climb|the ladder."
+  ]
+ },
+ "be": {
+  "speaker": "Metal Gear",
+  "en": "What a strange place to end up. Oh! This is...",
+  "ps1": [
+   "B220_c8f5"
+  ],
+  "cards": [
+   "What a strange|place to end up.|Oh! This is..."
+  ]
+ },
+ "bf": {
+  "speaker": "Gillian",
+  "en": "Freddy Nielsen's bathroom!",
+  "ps1": [
+   "B220_c8f6"
+  ],
+  "cards": [
+   "Freddy Nielsen's|bathroom!"
+  ]
+ },
+ "c0": {
+  "speaker": "Gillian",
+  "en": "Freddy used this bathtub to reach the tunnels. That explains what happened before!",
+  "ps1": [
+   "B220_c8f7",
+   "B220_c8f7b"
+  ],
+  "cards": [
+   "Freddy used this|bathtub to reach|the tunnels.",
+   "That explains what|happened before!"
+  ],
+  "turns": [
+   4.14
+  ]
+ },
+ "c1": {
+  "speaker": "Metal Gear",
+  "en": "After we junked Lisa, Freddy entered the room without using the front door?",
+  "ps1": [
+   "B220_c8f8",
+   "B220_c8f8b"
+  ],
+  "cards": [
+   "After we junked|Lisa,",
+   "Freddy entered the|room without using|the front door?"
+  ],
+  "turns": [
+   2.06
+  ]
+ },
+ "c2": {
+  "speaker": "Gillian",
+  "en": "He was coming and going through here.",
+  "ps1": [
+   "B220_c8f9"
+  ],
+  "cards": [
+   "He was coming and|going through here."
+  ]
+ },
+ "c3": {
+  "speaker": "Metal Gear",
+  "en": "The bathtub has a double bottom. The bottom is actually a lid. Water conceals it from view. To enter or leave, he'd drain all the water into a separate tank.",
+  "ps1": [
+   "B220_c8f10",
+   "B220_c8f10b",
+   "B220_c8f10c",
+   "B220_c8f10d",
+   "B220_c8f10e"
+  ],
+  "cards": [
+   "The bathtub has a|double bottom. The|bottom is actually|a lid.",
+   "Water conceals it|from view.",
+   "To enter or leave,|he'd drain all the|water into a|separate tank."
+  ],
+  "turns": [
+   6.28,
+   8.7
+  ]
+ },
+ "c4": {
+  "speaker": "Gillian",
+  "en": "That's how much Snatchers hate ultraviolet light. That's why they use the abandoned Tube Liner tunnels.",
+  "ps1": [
+   "B220_c8f11",
+   "B220_c8f11b"
+  ],
+  "cards": [
+   "That's how much|Snatchers hate|ultraviolet light.",
+   "That's why they use|the abandoned Tube|Liner tunnels."
+  ],
+  "turns": [
+   3.52
+  ]
+ },
+ "c5": {
+  "speaker": "Metal Gear",
+  "en": "Come on, Gillian. Let's get outside.",
+  "ps1": [
+   "B220_c8f12"
+  ],
+  "cards": [
+   "Come on, Gillian.|Let's get outside."
+  ]
+ },
+ "c6": {
+  "speaker": "Gillian",
+  "en": "Did we get him?",
+  "ps1": [
+   "B220_c8f13"
+  ],
+  "cards": [
+   "Did we get him?"
+  ],
+  "layout": "plain"
+ },
+ "c7": {
+  "speaker": "Metal Gear",
+  "en": "He's completely junked. A stubborn one, wasn't he?",
+  "ps1": [
+   "B220_c8f14"
+  ],
+  "cards": [
+   "He's completely|junked. A stubborn one, wasn't he?"
+  ],
+  "layout": "plain"
+ },
+ "c8": {
+  "speaker": "Gillian",
+  "en": "He survived that explosion? And got here ahead of us! If they take over the city, there'll be nothing we can do. We have to stop them first.",
+  "ps1": [
+   "B220_c8f15",
+   "B220_c8f15b",
+   "B220_c8f15b2",
+   "B220_c8f15b2b",
+   "B220_c8f15c"
+  ],
+  "cards": [
+   "He survived that|explosion?",
+   "And got here ahead of|us!",
+   "If they take over the|city,",
+   "there'll be nothing|we can do.",
+   "We have to stop them|first."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.7,
+   4.16,
+   5.8,
+   9.28
+  ]
+ },
+ "c9": {
+  "speaker": "Metal Gear",
+  "en": "Then we must keep the chief away from the summit.",
+  "ps1": [
+   "B220_c8f16"
+  ],
+  "cards": [
+   "Then we must keep|the chief away from the summit."
+  ],
+  "layout": "plain"
+ },
+ "ca": {
+  "speaker": "Gillian",
+  "en": "I know! We owe Randam!",
+  "ps1": [
+   "B220_c8f17"
+  ],
+  "cards": [
+   "I know! We owe Randam!"
+  ],
+  "layout": "plain"
+ },
+ "cb": {
+  "speaker": "Metal Gear",
+  "en": "Let's borrow this taxi and hurry to headquarters.",
+  "ps1": [
+   "B220_c8f18"
+  ],
+  "cards": [
+   "Let's borrow this|taxi and hurry to headquarters."
+  ],
+  "layout": "plain"
+ },
+ "cc": {
+  "speaker": "Gillian",
+  "en": "That's the plan. Mika, old man, please be safe.",
+  "ps1": [
+   "B220_c8f19"
+  ],
+  "cards": [
+   "That's the plan.|Mika, old man, please be safe."
+  ],
+  "layout": "plain"
+ },
+ "_unmatched": {
+  "9f": "0.18 XAS_M000.XA[964]",
+  "a1": "0.13 XAS_S000.XA[41]"
+ }
+}

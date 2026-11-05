@@ -1,0 +1,241 @@
+{
+ "1a": {
+  "speaker": "Chief",
+  "en": "Hey! No eating and drinking binges on expenses!",
+  "ps1": [
+   "B060_f1_0"
+  ],
+  "cards": [
+   "Hey! No eating and|drinking binges on|expenses!"
+  ]
+ },
+ "1b": {
+  "speaker": "Gillian",
+  "en": "W-what are you talking about?",
+  "ps1": [
+   "B060_f2_0"
+  ],
+  "cards": [
+   "W-what are you|talking about?"
+  ]
+ },
+ "1c": {
+  "speaker": "Chief",
+  "en": "Don't play dumb. Metal Gear sends me all the data.",
+  "ps1": [
+   "B060_f3_0"
+  ],
+  "cards": [
+   "Don't play dumb.|Metal Gear sends me|all the data."
+  ]
+ },
+ "1d": {
+  "speaker": "Gillian",
+  "en": "Metal!",
+  "ps1": [
+   "B230_h_08"
+  ],
+  "cards": [
+   "Metal!"
+  ]
+ },
+ "1e": {
+  "speaker": "Metal Gear",
+  "en": "Th-that's why I warned you.",
+  "ps1": [
+   "B060_f5_0"
+  ],
+  "cards": [
+   "Th-that's why I|warned you."
+  ]
+ },
+ "1f": {
+  "speaker": "Chief",
+  "en": "Don't let it happen again.",
+  "ps1": [
+   "B060_f6_0"
+  ],
+  "cards": [
+   "Don't let it happen|again."
+  ]
+ },
+ "20": {
+  "speaker": "Harry",
+  "en": "Well, the JUNKER returns.",
+  "ps1": [
+   "B080_1_00"
+  ],
+  "cards": [
+   "Well, the JUNKER|returns."
+  ],
+  "layout": "face"
+ },
+ "21": {
+  "speaker": "Metal Gear",
+  "en": "I'm detecting alcohol. He seems drunk.",
+  "ps1": [
+   "B080_1_01"
+  ],
+  "cards": [
+   "I'm detecting|alcohol. He seems|drunk."
+  ],
+  "layout": "face"
+ },
+ "22": {
+  "speaker": "Harry",
+  "en": "I thought you were more capable than this.",
+  "ps1": [
+   "B080_1_02"
+  ],
+  "cards": [
+   "I thought you were|more capable than|this."
+  ],
+  "layout": "face"
+ },
+ "23": {
+  "speaker": "Gillian",
+  "en": "Harry...",
+  "ps1": [],
+  "cards": [
+   "Harry..."
+  ],
+  "layout": "face"
+ },
+ "24": {
+  "speaker": "Harry",
+  "en": "What good was the backup? If you'd been a little more capable, Jean might not have had to die.",
+  "ps1": [
+   "B080_1_02b",
+   "B080_1_02c",
+   "B080_1_02d"
+  ],
+  "cards": [
+   "What good was the|backup?",
+   "If you'd been a|little more|capable, Jean might|not have had to die."
+  ],
+  "layout": "face",
+  "turns": [
+   2.9
+  ]
+ },
+ "25": {
+  "speaker": "Metal Gear",
+  "en": "That's not true, Harry.",
+  "ps1": [
+   "B080_1_06"
+  ],
+  "cards": [
+   "That's not true,|Harry."
+  ],
+  "layout": "face"
+ },
+ "26": {
+  "speaker": "Gillian",
+  "en": "It's all right, Metal. Harry's right.",
+  "ps1": [
+   "B080_1_07"
+  ],
+  "cards": [
+   "It's all right,|Metal. Harry's|right."
+  ],
+  "layout": "face"
+ },
+ "27": {
+  "speaker": "Harry",
+  "en": "Jean!",
+  "ps1": [],
+  "cards": [
+   "Jean!"
+  ],
+  "layout": "face"
+ },
+ "28": {
+  "speaker": "Harry",
+  "en": "Jean... I'm sorry, lad. It wasn't your fault.",
+  "ps1": [
+   "B080_1_08"
+  ],
+  "cards": [
+   "Jean... I'm sorry,|lad. It wasn't your|fault."
+  ],
+  "layout": "face"
+ },
+ "29": {
+  "speaker": "Gillian",
+  "en": "Metal, give Harry Little John's memory chip, the one we found at the scene.",
+  "ps1": [
+   "B080_1_09",
+   "B080_1_09b"
+  ],
+  "cards": [
+   "Metal, give Harry|Little John's|memory chip,",
+   "the one we found at|the scene."
+  ],
+  "layout": "face",
+  "turns": [
+   3.66
+  ]
+ },
+ "2a": {
+  "speaker": "Metal Gear",
+  "en": "Understood. Here's Little John's memory, Harry.",
+  "ps1": [
+   "B080_1_10"
+  ],
+  "cards": [
+   "Understood. Here's|Little John's|memory, Harry."
+  ],
+  "layout": "face"
+ },
+ "2b": {
+  "speaker": "Gillian",
+  "en": "What kind of medicine is this?",
+  "ps1": [
+   "B080_042"
+  ],
+  "cards": [
+   "What kind of|medicine is this?"
+  ],
+  "layout": "face"
+ },
+ "2c": {
+  "speaker": "Metal Gear",
+  "en": "I'll analyze it.",
+  "ps1": [
+   "B080_043"
+  ],
+  "cards": [
+   "I'll analyze it."
+  ],
+  "layout": "face"
+ },
+ "2d": {
+  "speaker": "Metal Gear",
+  "en": "Antacids, mucosal protectants, H2 blockers. Medicine for stomach ulcers.",
+  "ps1": [
+   "B080_044",
+   "B080_044b"
+  ],
+  "cards": [
+   "Antacids, mucosal|protectants, H2|blockers. Medicine|for stomach ulcers."
+  ],
+  "layout": "face"
+ },
+ "2e": {
+  "speaker": "Gillian",
+  "en": "Gibson had serious stomach trouble, yet he ate whale meat. There's something behind this. He must have had a reason to eat it.",
+  "ps1": [
+   "B080_046",
+   "B080_046b",
+   "B080_046c"
+  ],
+  "cards": [
+   "Gibson had serious|stomach trouble,|yet he ate whale|meat.",
+   "There's something|behind this. He|must have had a|reason to eat it."
+  ],
+  "layout": "face",
+  "turns": [
+   5.74
+  ]
+ }
+}

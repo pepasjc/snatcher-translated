@@ -1,0 +1,130 @@
+{
+ "scene": "B0E0",
+ "note": "Joy Division shop then Outer Heaven (guides/ps1.txt PLATO'S CAVERN, OUTER HEAVEN): enter the shop, look at the wall x2, buy a mask (Moai), ask about Gibson and show the photo, then ride to Outer Heaven, put the mask on and go in.",
+ "actions": [
+  {
+   "path": [
+    "Move",
+    "Enter shop"
+   ]
+  },
+  {
+   "save": "B0E0_shop"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Ask"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Videotape"
+   ]
+  },
+  {
+   "path": [
+    "Buy something",
+    "Mask",
+    "Moai"
+   ],
+   "optional": true,
+   "why": "BUY > MASK > MOAI"
+  },
+  {
+   "path": [
+    "Buy something",
+    "Mask"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Ask",
+    "About Gibson"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Item",
+    "Use",
+    "Mask"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Item",
+    "Use",
+    "Mask",
+    "Stay dressed"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B0E0_masked"
+  },
+  {
+   "path": [
+    "Go out"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Board Tricycle"
+   ]
+  },
+  {
+   "path": [
+    "Outer Heaven"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B0F0_arrive"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Item",
+    "Use",
+    "Mask"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Move",
+    "Go inside"
+   ]
+  },
+  {
+   "save": "B100_arrive"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 2
+  }
+ ]
+}

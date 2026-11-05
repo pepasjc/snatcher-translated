@@ -1,0 +1,1118 @@
+{
+ "scene": "B1D0",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B1D0_c5f78_0",
+   "line": 389,
+   "act": 2,
+   "sector": 2173,
+   "offset": 437,
+   "size": 51280,
+   "b0": 0,
+   "b1": 51280,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "Sit down, Gillian. It's safer in a crowd.",
+   "rows": [
+    "Sit down, Gillian. It's",
+    "safer in a crowd."
+   ],
+   "rows_plain": [
+    "Sit down, Gillian. It's safer in a",
+    "crowd."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1D0_c5f79_0",
+   "line": 390,
+   "act": 2,
+   "sector": 2195,
+   "offset": 589,
+   "size": 39663,
+   "b0": 0,
+   "b1": 39663,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "You really fooled me, playing two parts like that.",
+   "rows": [
+    "You really fooled me,",
+    "playing two parts like that."
+   ],
+   "rows_plain": [
+    "You really fooled me, playing two",
+    "parts like that."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_c5f81_0",
+   "line": 392,
+   "act": 2,
+   "sector": 2222,
+   "offset": 66,
+   "size": 8820,
+   "b0": 0,
+   "b1": 8820,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "Bless you.",
+   "rows": [
+    "Bless you."
+   ],
+   "rows_plain": [
+    "Bless you."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B1D0_c5f82_0",
+   "line": 393,
+   "act": 2,
+   "sector": 2225,
+   "offset": 1914,
+   "size": 127199,
+   "b0": 0,
+   "b1": 83990,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "I wasn't trying to fool you. Being an informant is a dangerous business.",
+   "rows": [
+    "I wasn't trying to fool you.",
+    "Being an informant is a",
+    "dangerous business."
+   ],
+   "rows_plain": [
+    "I wasn't trying to fool you. Being",
+    "an informant is a dangerous",
+    "business."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_c5f82_0b",
+   "line": 393,
+   "act": 2,
+   "sector": 2225,
+   "offset": 1914,
+   "size": 127199,
+   "b0": 83990,
+   "b1": 127199,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "You never reveal your identity.",
+   "rows": [
+    "You never reveal your",
+    "identity."
+   ],
+   "rows_plain": [
+    "You never reveal your identity."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_c5f83_0",
+   "line": 394,
+   "act": 2,
+   "sector": 2280,
+   "offset": 1293,
+   "size": 72658,
+   "b0": 0,
+   "b1": 14406,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Still, I feel cheated.",
+   "rows": [
+    "Still, I feel cheated."
+   ],
+   "rows_plain": [
+    "Still, I feel cheated."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_c5f83_0b",
+   "line": 394,
+   "act": 2,
+   "sector": 2280,
+   "offset": 1293,
+   "size": 72658,
+   "b0": 14406,
+   "b1": 72658,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I asked you where Outer Heaven was, and you worked there all along.",
+   "rows": [
+    "I asked you where Outer",
+    "Heaven was, and you worked",
+    "there all along."
+   ],
+   "rows_plain": [
+    "I asked you where Outer Heaven was,",
+    "and you worked there all along."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_c5f84_0",
+   "line": 395,
+   "act": 2,
+   "sector": 2311,
+   "offset": 1907,
+   "size": 119256,
+   "b0": 0,
+   "b1": 98667,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "I was the one who was surprised. I didn't know Gibson had been to the club.",
+   "rows": [
+    "I was the one who was",
+    "surprised. I didn't know",
+    "Gibson had been to the club."
+   ],
+   "rows_plain": [
+    "I was the one who was surprised. I",
+    "didn't know Gibson had been to the",
+    "club."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_c5f84_0b",
+   "line": 395,
+   "act": 2,
+   "sector": 2311,
+   "offset": 1907,
+   "size": 119256,
+   "b0": 98667,
+   "b1": 119256,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "I was off that day.",
+   "rows": [
+    "I was off that day."
+   ],
+   "rows_plain": [
+    "I was off that day."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_c5f85_0",
+   "line": 396,
+   "act": 2,
+   "sector": 2363,
+   "offset": 315,
+   "size": 70614,
+   "b0": 0,
+   "b1": 43398,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "It's not costume time tonight. Take off the mask, Napoleon.",
+   "rows": [
+    "It's not costume time",
+    "tonight. Take off the mask,",
+    "Napoleon."
+   ],
+   "rows_plain": [
+    "It's not costume time tonight. Take",
+    "off the mask, Napoleon."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_c5f85_0b",
+   "line": 396,
+   "act": 2,
+   "sector": 2363,
+   "offset": 315,
+   "size": 70614,
+   "b0": 43398,
+   "b1": 70614,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Talking to a werewolf makes me nervous.",
+   "rows": [
+    "Talking to a werewolf makes",
+    "me nervous."
+   ],
+   "rows_plain": [
+    "Talking to a werewolf makes me",
+    "nervous."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_c5f86_0",
+   "line": 397,
+   "act": 2,
+   "sector": 2393,
+   "offset": 1209,
+   "size": 38697,
+   "b0": 0,
+   "b1": 38697,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "Well, if you don't mind.",
+   "rows": [
+    "Well, if you don't mind."
+   ],
+   "rows_plain": [
+    "Well, if you don't mind."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_c5f87_0",
+   "line": 398,
+   "act": 2,
+   "sector": 2410,
+   "offset": 398,
+   "size": 68875,
+   "b0": 0,
+   "b1": 68875,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "Whew! This full-face mask gets pretty stuffy.",
+   "rows": [
+    "Whew! This full-face mask",
+    "gets pretty stuffy."
+   ],
+   "rows_plain": [
+    "Whew! This full-face mask gets",
+    "pretty stuffy."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_c5f88_0",
+   "line": 399,
+   "act": 2,
+   "sector": 2439,
+   "offset": 1877,
+   "size": 23979,
+   "b0": 0,
+   "b1": 23979,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Maybe you should've left it on.",
+   "rows": [
+    "Maybe you should've left it",
+    "on."
+   ],
+   "rows_plain": [
+    "Maybe you should've left it on."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_c5f89_0",
+   "line": 400,
+   "act": 2,
+   "sector": 2450,
+   "offset": 292,
+   "size": 85074,
+   "b0": 0,
+   "b1": 10930,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "What?",
+   "rows": [
+    "What?"
+   ],
+   "rows_plain": [
+    "What?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_c5f89_0b",
+   "line": 400,
+   "act": 2,
+   "sector": 2450,
+   "offset": 292,
+   "size": 85074,
+   "b0": 62033,
+   "b1": 85074,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "How did you figure it out?",
+   "rows": [
+    "How did you figure it out?"
+   ],
+   "rows_plain": [
+    "How did you figure it out?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f1_0",
+   "line": 401,
+   "act": 2,
+   "sector": 2486,
+   "offset": 1702,
+   "size": 108931,
+   "b0": 0,
+   "b1": 70302,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That werewolf in the message. KTT would never use a picture that tasteless.",
+   "rows": [
+    "That werewolf in the",
+    "message. KTT would never use",
+    "a picture that tasteless."
+   ],
+   "rows_plain": [
+    "That werewolf in the message. KTT",
+    "would never use a picture that",
+    "tasteless."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f1_0b",
+   "line": 401,
+   "act": 2,
+   "sector": 2486,
+   "offset": 1702,
+   "size": 108931,
+   "b0": 70302,
+   "b1": 108931,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "And your sneeze clinched it.",
+   "rows": [
+    "And your sneeze clinched it."
+   ],
+   "rows_plain": [
+    "And your sneeze clinched it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f2_0",
+   "line": 402,
+   "act": 2,
+   "sector": 2533,
+   "offset": 1405,
+   "size": 71062,
+   "b0": 0,
+   "b1": 71062,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "My sneeze, huh? Want to know why they call me Napoleon?",
+   "rows": [
+    "My sneeze, huh? Want to know",
+    "why they call me Napoleon?"
+   ],
+   "rows_plain": [
+    "My sneeze, huh? Want to know why",
+    "they call me Napoleon?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f3_0",
+   "line": 403,
+   "act": 2,
+   "sector": 2564,
+   "offset": 423,
+   "size": 95956,
+   "b0": 0,
+   "b1": 31985,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "I can't handle winter.",
+   "rows": [
+    "I can't handle winter."
+   ],
+   "rows_plain": [
+    "I can't handle winter."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f3_0b",
+   "line": 403,
+   "act": 2,
+   "sector": 2564,
+   "offset": 423,
+   "size": 95956,
+   "b0": 31985,
+   "b1": 63971,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "Napoleon Bonaparte sent his Grand Army into Russia in 1812.",
+   "rows": [
+    "Napoleon Bonaparte sent his",
+    "Grand Army into Russia in",
+    "1812."
+   ],
+   "rows_plain": [
+    "Napoleon Bonaparte sent his Grand",
+    "Army into Russia in 1812."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f3_0c",
+   "line": 403,
+   "act": 2,
+   "sector": 2564,
+   "offset": 423,
+   "size": 95956,
+   "b0": 63971,
+   "b1": 95956,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "The snow forced him into a disastrous retreat.",
+   "rows": [
+    "The snow forced him into a",
+    "disastrous retreat."
+   ],
+   "rows_plain": [
+    "The snow forced him into a",
+    "disastrous retreat."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f4_0",
+   "line": 404,
+   "act": 2,
+   "sector": 2605,
+   "offset": 1095,
+   "size": 14411,
+   "b0": 0,
+   "b1": 14411,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I see.",
+   "rows": [
+    "I see."
+   ],
+   "rows_plain": [
+    "I see."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f5_0",
+   "line": 405,
+   "act": 2,
+   "sector": 2611,
+   "offset": 1562,
+   "size": 54241,
+   "b0": 0,
+   "b1": 54241,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "But my sneezing is caused by Snow Cedar pollen.",
+   "rows": [
+    "But my sneezing is caused by",
+    "Snow Cedar pollen."
+   ],
+   "rows_plain": [
+    "But my sneezing is caused by Snow",
+    "Cedar pollen."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f6_0",
+   "line": 406,
+   "act": 2,
+   "sector": 2635,
+   "offset": 27,
+   "size": 21453,
+   "b0": 0,
+   "b1": 21453,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "So, what do you want?",
+   "rows": [
+    "So, what do you want?"
+   ],
+   "rows_plain": [
+    "So, what do you want?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f7_0",
+   "line": 407,
+   "act": 2,
+   "sector": 2644,
+   "offset": 564,
+   "size": 13460,
+   "b0": 0,
+   "b1": 13460,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I have a question.",
+   "rows": [
+    "I have a question."
+   ],
+   "rows_plain": [
+    "I have a question."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f8_0",
+   "line": 408,
+   "act": 2,
+   "sector": 2650,
+   "offset": 80,
+   "size": 9783,
+   "b0": 0,
+   "b1": 9783,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "Go ahead.",
+   "rows": [
+    "Go ahead."
+   ],
+   "rows_plain": [
+    "Go ahead."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f9_0",
+   "line": 409,
+   "act": 2,
+   "sector": 2654,
+   "offset": 567,
+   "size": 31472,
+   "b0": 0,
+   "b1": 31472,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That's it! Benson!",
+   "rows": [
+    "That's it! Benson!"
+   ],
+   "rows_plain": [
+    "That's it! Benson!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f10_0",
+   "line": 410,
+   "act": 2,
+   "sector": 2667,
+   "offset": 1827,
+   "size": 42897,
+   "b0": 0,
+   "b1": 42897,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Benson? Could it be Chief Benson Cunningham?",
+   "rows": [
+    "Benson? Could it be Chief",
+    "Benson Cunningham?"
+   ],
+   "rows_plain": [
+    "Benson? Could it be Chief Benson",
+    "Cunningham?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f11_0",
+   "line": 411,
+   "act": 2,
+   "sector": 2686,
+   "offset": 568,
+   "size": 38914,
+   "b0": 0,
+   "b1": 38914,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Or our mechanic. His full name is Harry Benson.",
+   "rows": [
+    "Or our mechanic. His full",
+    "name is Harry Benson."
+   ],
+   "rows_plain": [
+    "Or our mechanic. His full name is",
+    "Harry Benson."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f12_0",
+   "line": 412,
+   "act": 2,
+   "sector": 2702,
+   "offset": 2298,
+   "size": 57075,
+   "b0": 0,
+   "b1": 31659,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "One of those two is a Snatcher.",
+   "rows": [
+    "One of those two is a",
+    "Snatcher."
+   ],
+   "rows_plain": [
+    "One of those two is a Snatcher."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f12_0b",
+   "line": 412,
+   "act": 2,
+   "sector": 2702,
+   "offset": 2298,
+   "size": 57075,
+   "b0": 31659,
+   "b1": 57075,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "They've even infiltrated JUNKER headquarters.",
+   "rows": [
+    "They've even infiltrated",
+    "JUNKER headquarters."
+   ],
+   "rows_plain": [
+    "They've even infiltrated JUNKER",
+    "headquarters."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f13_0",
+   "line": 413,
+   "act": 2,
+   "sector": 2727,
+   "offset": 1273,
+   "size": 86204,
+   "b0": 0,
+   "b1": 52844,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Now we know how they anticipated our every move.",
+   "rows": [
+    "Now we know how they",
+    "anticipated our every move."
+   ],
+   "rows_plain": [
+    "Now we know how they anticipated our",
+    "every move."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f13_0b",
+   "line": 413,
+   "act": 2,
+   "sector": 2727,
+   "offset": 1273,
+   "size": 86204,
+   "b0": 52844,
+   "b1": 86204,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We send all our investigation data to headquarters.",
+   "rows": [
+    "We send all our",
+    "investigation data to",
+    "headquarters."
+   ],
+   "rows_plain": [
+    "We send all our investigation data",
+    "to headquarters."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f14_0",
+   "line": 414,
+   "act": 2,
+   "sector": 2764,
+   "offset": 1489,
+   "size": 32367,
+   "b0": 0,
+   "b1": 32367,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal, stop sending data to headquarters. Now!",
+   "rows": [
+    "Metal, stop sending data to",
+    "headquarters. Now!"
+   ],
+   "rows_plain": [
+    "Metal, stop sending data to",
+    "headquarters. Now!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f15_0",
+   "line": 415,
+   "act": 2,
+   "sector": 2778,
+   "offset": 1320,
+   "size": 86842,
+   "b0": 0,
+   "b1": 60522,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'm doing it now. I've disconnected the automatic transfer routine.",
+   "rows": [
+    "I'm doing it now. I've",
+    "disconnected the automatic",
+    "transfer routine."
+   ],
+   "rows_plain": [
+    "I'm doing it now. I've disconnected",
+    "the automatic transfer routine."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f15_0b",
+   "line": 415,
+   "act": 2,
+   "sector": 2778,
+   "offset": 1320,
+   "size": 86842,
+   "b0": 60522,
+   "b1": 86842,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "No more data will be sent.",
+   "rows": [
+    "No more data will be sent."
+   ],
+   "rows_plain": [
+    "No more data will be sent."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f16_0",
+   "line": 416,
+   "act": 2,
+   "sector": 2815,
+   "offset": 2174,
+   "size": 28889,
+   "b0": 0,
+   "b1": 28889,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "A Snatcher at JUNKER headquarters. Damn it!",
+   "rows": [
+    "A Snatcher at JUNKER",
+    "headquarters. Damn it!"
+   ],
+   "rows_plain": [
+    "A Snatcher at JUNKER headquarters.",
+    "Damn it!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f17_0",
+   "line": 417,
+   "act": 2,
+   "sector": 2828,
+   "offset": 851,
+   "size": 42812,
+   "b0": 0,
+   "b1": 42812,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We need proof of which one is a Snatcher, as soon as possible.",
+   "rows": [
+    "We need proof of which one",
+    "is a Snatcher, as soon as",
+    "possible."
+   ],
+   "rows_plain": [
+    "We need proof of which one is a",
+    "Snatcher, as soon as possible."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f18_0",
+   "line": 418,
+   "act": 2,
+   "sector": 2846,
+   "offset": 1831,
+   "size": 18350,
+   "b0": 0,
+   "b1": 18350,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal, hurry to JUNKER HQ!",
+   "rows": [
+    "Metal, hurry to JUNKER HQ!"
+   ],
+   "rows_plain": [
+    "Metal, hurry to JUNKER HQ!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f19_0",
+   "line": 419,
+   "act": 2,
+   "sector": 2854,
+   "offset": 1589,
+   "size": 114369,
+   "b0": 0,
+   "b1": 85335,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "See you, JUNKER. Today's information is on me. Take care, Gillian.",
+   "rows": [
+    "See you, JUNKER. Today's",
+    "information is on me. Take",
+    "care, Gillian."
+   ],
+   "rows_plain": [
+    "See you, JUNKER. Today's information",
+    "is on me. Take care, Gillian."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f19_0b",
+   "line": 419,
+   "act": 2,
+   "sector": 2854,
+   "offset": 1589,
+   "size": 114369,
+   "b0": 85335,
+   "b1": 114369,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "Don't let those Snatchers get you.",
+   "rows": [
+    "Don't let those Snatchers",
+    "get you."
+   ],
+   "rows_plain": [
+    "Don't let those Snatchers get you."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f20_0",
+   "line": 420,
+   "act": 2,
+   "sector": 2903,
+   "offset": 2082,
+   "size": 73400,
+   "b0": 0,
+   "b1": 73400,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "I'll lie low for a while. You're my best source of income.",
+   "rows": [
+    "I'll lie low for a while.",
+    "You're my best source of",
+    "income."
+   ],
+   "rows_plain": [
+    "I'll lie low for a while. You're my",
+    "best source of income."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f21_0",
+   "line": 421,
+   "act": 2,
+   "sector": 2935,
+   "offset": 1114,
+   "size": 48537,
+   "b0": 0,
+   "b1": 48537,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "You take care too, Napoleon. Dead men don't sneeze.",
+   "rows": [
+    "You take care too, Napoleon.",
+    "Dead men don't sneeze."
+   ],
+   "rows_plain": [
+    "You take care too, Napoleon. Dead",
+    "men don't sneeze."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f22_0",
+   "line": 422,
+   "act": 2,
+   "sector": 2956,
+   "offset": 847,
+   "size": 16995,
+   "b0": 0,
+   "b1": 16995,
+   "speaker": "Napoleon",
+   "colour": 6,
+   "en": "What are you talking about?",
+   "rows": [
+    "What are you talking about?"
+   ],
+   "rows_plain": [
+    "What are you talking about?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f23_0",
+   "line": 423,
+   "act": 2,
+   "sector": 2963,
+   "offset": 1574,
+   "size": 29038,
+   "b0": 0,
+   "b1": 29038,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "See you, Napoleon. Let's go, Metal.",
+   "rows": [
+    "See you, Napoleon. Let's go,",
+    "Metal."
+   ],
+   "rows_plain": [
+    "See you, Napoleon. Let's go, Metal."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f34_0",
+   "line": 434,
+   "act": 2,
+   "sector": 3092,
+   "offset": 599,
+   "size": 12654,
+   "b0": 0,
+   "b1": 12654,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Beryllium is Be.",
+   "rows": [
+    "Beryllium is Be."
+   ],
+   "rows_plain": [
+    "Beryllium is Be."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f35_0",
+   "line": 435,
+   "act": 2,
+   "sector": 3097,
+   "offset": 1633,
+   "size": 7685,
+   "b0": 0,
+   "b1": 7685,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Nitrogen is N.",
+   "rows": [
+    "Nitrogen is N."
+   ],
+   "rows_plain": [
+    "Nitrogen is N."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f36_0",
+   "line": 436,
+   "act": 2,
+   "sector": 3101,
+   "offset": 22,
+   "size": 7751,
+   "b0": 0,
+   "b1": 7751,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Sulfur is S.",
+   "rows": [
+    "Sulfur is S."
+   ],
+   "rows_plain": [
+    "Sulfur is S."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f37_0",
+   "line": 437,
+   "act": 2,
+   "sector": 3104,
+   "offset": 801,
+   "size": 7729,
+   "b0": 0,
+   "b1": 7729,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Oxygen is O.",
+   "rows": [
+    "Oxygen is O."
+   ],
+   "rows_plain": [
+    "Oxygen is O."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B1D0_f38_0",
+   "line": 438,
+   "act": 2,
+   "sector": 3107,
+   "offset": 1558,
+   "size": 60779,
+   "b0": 0,
+   "b1": 60779,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "So it's Benson. The name Benson was hidden in this record.",
+   "rows": [
+    "So it's Benson. The name",
+    "Benson was hidden in this",
+    "record."
+   ],
+   "rows_plain": [
+    "So it's Benson. The name Benson was",
+    "hidden in this record."
+   ],
+   "enabled": true
+  }
+ ]
+}

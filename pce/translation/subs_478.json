@@ -1,0 +1,170 @@
+{
+ "1a": {
+  "speaker": "Harry",
+  "en": "There you are, Gillian. I've restored Little John's memory chip.",
+  "ps1": [
+   "B150_f23_0",
+   "B150_f23_0b"
+  ],
+  "cards": [
+   "There you are,|Gillian. I've|restored Little|John's memory chip."
+  ],
+  "layout": "face"
+ },
+ "1b": {
+  "speaker": "Gillian",
+  "en": "Was there anything on it?",
+  "ps1": [
+   "B150_f24_0"
+  ],
+  "cards": [
+   "Was there anything|on it?"
+  ],
+  "layout": "face"
+ },
+ "1c": {
+  "speaker": "Harry",
+  "en": "Hold your horses. I'll play it now. Watch the monitor.",
+  "ps1": [
+   "B150_f25_0"
+  ],
+  "cards": [
+   "Hold your horses.|I'll play it now.|Watch the monitor."
+  ],
+  "layout": "face"
+ },
+ "1d": {
+  "speaker": "Harry",
+  "en": "His memory was damaged almost beyond repair. Those Snatchers knew what they were doing.",
+  "ps1": [
+   "B150_f26_0",
+   "B150_f26_0b"
+  ],
+  "cards": [
+   "His memory was|damaged almost|beyond repair.",
+   "Those Snatchers|knew what they were|doing."
+  ],
+  "layout": "face",
+  "turns": [
+   5.28
+  ]
+ },
+ "1e": {
+  "speaker": "Gillian",
+  "en": "So there was nothing left?",
+  "ps1": [
+   "B150_f27_0"
+  ],
+  "cards": [
+   "So there was|nothing left?"
+  ],
+  "layout": "face"
+ },
+ "1f": {
+  "speaker": "Harry",
+  "en": "Wait, don't rush me. I managed to restore one scene. Just the picture. I don't know what it means, but it's definitely something Jean witnessed.",
+  "ps1": [
+   "B150_f28_0",
+   "B150_f28_0b",
+   "B150_f28_0c"
+  ],
+  "cards": [
+   "Wait, don't rush|me. I managed to|restore one scene.|Just the picture.",
+   "I don't know what|it means,",
+   "but it's definitely|something Jean|witnessed."
+  ],
+  "layout": "face",
+  "turns": [
+   8.44,
+   13.42
+  ]
+ },
+ "20": {
+  "speaker": "Harry",
+  "en": "Ready? Here it is!",
+  "ps1": [
+   "B150_f29_0"
+  ],
+  "cards": [
+   "Ready? Here it is!"
+  ],
+  "layout": "face"
+ },
+ "21": {
+  "speaker": "Harry",
+  "en": "Know what that is, Gillian?",
+  "ps1": [
+   "B150_f30_0"
+  ],
+  "cards": [
+   "Know what that is,|Gillian?"
+  ],
+  "layout": "face"
+ },
+ "22": {
+  "speaker": "Gillian",
+  "en": "Hospital OLEEN. Oleen Hospital? Could this be the hospital Gibson found? The one occupied by the Snatchers?",
+  "ps1": [
+   "B150_f31_0",
+   "B150_f31_0b",
+   "B150_f31_0c"
+  ],
+  "cards": [
+   "Hospital OLEEN.|Oleen Hospital?",
+   "Could this be the|hospital Gibson|found?",
+   "The one occupied by|the Snatchers?"
+  ],
+  "layout": "face",
+  "turns": [
+   4.68,
+   11.22
+  ]
+ },
+ "23": {
+  "speaker": "Harry",
+  "en": "Try looking it up in Gaudi. But if it's unlicensed, you can't count on the records. Neo Kobe is full of underground hospitals.",
+  "ps1": [
+   "B150_f32_0",
+   "B150_f32_0b",
+   "B150_f32_0c"
+  ],
+  "cards": [
+   "Try looking it up|in Gaudi.",
+   "But if it's|unlicensed, you|can't count on the|records.",
+   "Neo Kobe is full of|underground|hospitals."
+  ],
+  "layout": "face",
+  "turns": [
+   2.84,
+   8.22
+  ]
+ },
+ "24": {
+  "speaker": "Gillian",
+  "en": "Maybe the sign curves around and there's more after OLEEN.",
+  "ps1": [
+   "B150_f33_0"
+  ],
+  "cards": [
+   "Maybe the sign|curves around and|there's more after|OLEEN."
+  ],
+  "layout": "face"
+ },
+ "25": {
+  "speaker": "Metal Gear",
+  "en": "I've saved the image. You can view it anytime. Select Video memory from your inventory.",
+  "ps1": [
+   "B150_f34_0",
+   "B150_f34_0b"
+  ],
+  "cards": [
+   "I've saved the|image. You can view|it anytime.",
+   "Select Video memory|from your inventory."
+  ],
+  "layout": "face",
+  "turns": [
+   3.1
+  ]
+ },
+ "_unmatched": {}
+}

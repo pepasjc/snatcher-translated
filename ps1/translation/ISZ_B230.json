@@ -1,0 +1,1073 @@
+{
+ "file": "ISZ_B230.BIN",
+ "text_base": 5625,
+ "strings": [
+  {
+   "off": 5626,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 5630,
+   "budget": 13,
+   "en": "Look up.",
+   "long": "Look at the ceiling."
+  },
+  {
+   "off": 5643,
+   "budget": 65,
+   "en": "Arrived at JUNKER HQ.￥Are Mika and Harry safe?",
+   "long": "We've reached JUNKER headquarters. I￥hope Mika and Harry are safe."
+  },
+  {
+   "off": 5708,
+   "budget": 27,
+   "en": "Metal, now we face him!",
+   "long": "Metal, it's time to face him!"
+  },
+  {
+   "off": 5735,
+   "budget": 31,
+   "en": "Gillian, how's your right arm?"
+  },
+  {
+   "off": 5766,
+   "budget": 45,
+   "en": "All right now!￥The nanomachines did well!",
+   "long": "Good as new! Those nanomachines did￥the trick!"
+  },
+  {
+   "off": 5811,
+   "budget": 67,
+   "en": "He's fooled us all this time.￥Not a moment's carelessness!",
+   "long": "He's fooled us all this time. We￥can't let our guard down for a￥moment!"
+  },
+  {
+   "off": 5878,
+   "budget": 61,
+   "en": "I know! I'll finish him with one￥shot! Ready? Let's go!"
+  },
+  {
+   "off": 5939,
+   "budget": 15,
+   "en": "Front desk.",
+   "long": "This is reception."
+  },
+  {
+   "off": 5954,
+   "budget": 53,
+   "en": "Oh! The reception booth's shutter is￥down."
+  },
+  {
+   "off": 6007,
+   "budget": 33,
+   "en": "Can't the booth be opened?",
+   "long": "Can't we open the booth from￥outside?"
+  },
+  {
+   "off": 6040,
+   "budget": 69,
+   "en": "We can, if there's an ＠赤emergency￥external connector＠白."
+  },
+  {
+   "off": 6109,
+   "budget": 17,
+   "en": "Let's find it!"
+  },
+  {
+   "off": 6126,
+   "budget": 13,
+   "en": "Go inside"
+  },
+  {
+   "off": 6139,
+   "budget": 47,
+   "en": "To get inside HQ, we have to open￥the door.",
+   "long": "We need to open the door to get￥inside headquarters."
+  },
+  {
+   "off": 6186,
+   "budget": 43,
+   "en": "It opens only from the booth.",
+   "long": "The door can only be opened from the￥booth."
+  },
+  {
+   "off": 6229,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 6234,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 6241,
+   "budget": 71,
+   "en": "It looks like someone attacked it.￥The booth's shutter is down."
+  },
+  {
+   "off": 6312,
+   "budget": 31,
+   "en": "Several energy marks.",
+   "long": "There are several energy blast￥marks."
+  },
+  {
+   "off": 6343,
+   "budget": 21,
+   "en": "Mika's in there!"
+  },
+  {
+   "off": 6364,
+   "budget": 21,
+   "en": "Where's Mika?"
+  },
+  {
+   "off": 6385,
+   "budget": 11,
+   "en": "Shutter"
+  },
+  {
+   "off": 6396,
+   "budget": 99,
+   "en": "This shutter protects the reception￥booth. It closes automatically in an￥emergency."
+  },
+  {
+   "off": 6495,
+   "budget": 63,
+   "en": "It serves as a shield too, so we￥can't see in.",
+   "long": "It also acts as a protective shield,￥so we can't see inside while it's￥closed."
+  },
+  {
+   "off": 6558,
+   "budget": 13,
+   "en": "HQ door"
+  },
+  {
+   "off": 6571,
+   "budget": 37,
+   "en": "The door checker is on emergency!",
+   "long": "The door's security indicator is￥flashing an emergency warning!"
+  },
+  {
+   "off": 6608,
+   "budget": 23,
+   "en": "An emergency alert?"
+  },
+  {
+   "off": 6631,
+   "budget": 7,
+   "en": "Booth"
+  },
+  {
+   "off": 6638,
+   "budget": 43,
+   "en": "Guard shutter down; no seeing in.",
+   "long": "The protective shutter is down. We￥can't see inside."
+  },
+  {
+   "off": 6681,
+   "budget": 21,
+   "en": "I fear for Mika..."
+  },
+  {
+   "off": 6702,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 6709,
+   "budget": 65,
+   "en": "Marks of a Blaster or Cannon on the￥entrance shield.",
+   "long": "There are marks on the entrance￥shield from a Blaster or cannon."
+  },
+  {
+   "off": 6774,
+   "budget": 57,
+   "en": "No movement detected. We're alone￥here."
+  },
+  {
+   "off": 6831,
+   "budget": 69,
+   "en": "A hole blown in the entrance shield.￥A Blaster or Cannon.",
+   "long": "There's a hole in the entrance￥shield, probably from a Blaster or￥cannon."
+  },
+  {
+   "off": 6900,
+   "budget": 45,
+   "en": "A cannon? Then it was a Snatcher?"
+  },
+  {
+   "off": 6945,
+   "budget": 65,
+   "en": "The shutter has been hit by a￥Blaster or cannon."
+  },
+  {
+   "off": 7010,
+   "budget": 55,
+   "en": "The shots didn't penetrate, but I￥hope Mika's safe."
+  },
+  {
+   "off": 7065,
+   "budget": 85,
+   "en": "There are energy blast marks on the￥shutter, from a Blaster or cannon."
+  },
+  {
+   "off": 7150,
+   "budget": 61,
+   "en": "Locked from within.￥It opens only from the booth.",
+   "long": "It's locked from inside. It can only￥be opened from the booth."
+  },
+  {
+   "off": 7211,
+   "budget": 47,
+   "en": "To open the door,￥open the booth first...",
+   "long": "We have to open the booth before we￥can open the door."
+  },
+  {
+   "off": 7258,
+   "budget": 39,
+   "en": "Metal, an external connector!?",
+   "long": "Metal, is there an external￥connector?"
+  },
+  {
+   "off": 7297,
+   "budget": 11,
+   "en": "Ah..."
+  },
+  {
+   "off": 7308,
+   "budget": 87,
+   "en": "An external connector on the booth￥side.￥It will open the shutter.",
+   "long": "There's an emergency external￥connector on the side of the booth.￥We can use it to open the shutter."
+  },
+  {
+   "off": 7395,
+   "budget": 69,
+   "en": "I found the emergency external￥connector. Let's open the shutter."
+  },
+  {
+   "off": 7464,
+   "budget": 31,
+   "en": "The guard shutter is down.",
+   "long": "The protective shutter is down."
+  },
+  {
+   "off": 7495,
+   "budget": 37,
+   "en": "Movement detected! Someone's inside!"
+  },
+  {
+   "off": 7532,
+   "budget": 53,
+   "en": "Motion readings in the booth.￥Something is there.",
+   "long": "I'm detecting movement in the booth.￥Something is inside."
+  },
+  {
+   "off": 7585,
+   "budget": 17,
+   "en": "Open shutter"
+  },
+  {
+   "off": 7602,
+   "budget": 51,
+   "en": "Connecting to the shutter's￥emergency unit.....",
+   "long": "Connecting to the shutter's￥emergency external connector."
+  },
+  {
+   "off": 7653,
+   "budget": 21,
+   "en": "Lock forced..."
+  },
+  {
+   "off": 7674,
+   "budget": 29,
+   "en": "Opening the shutter."
+  },
+  {
+   "off": 7703,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 7718,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 7729,
+   "budget": 37,
+   "en": "I'll save our progress so far."
+  },
+  {
+   "off": 7766,
+   "budget": 19,
+   "en": "The HQ corridor.",
+   "long": "We're in the hallway at￥headquarters."
+  },
+  {
+   "off": 7785,
+   "budget": 27,
+   "en": "Ah!￥Someone is down.",
+   "long": "Oh! Someone's lying on the floor."
+  },
+  {
+   "off": 7812,
+   "budget": 31,
+   "en": "That hat! Harry?＠Ｃ"
+  },
+  {
+   "off": 7843,
+   "budget": 19,
+   "en": "Where shall we go?"
+  },
+  {
+   "off": 7862,
+   "budget": 7,
+   "en": "Chief",
+   "long": "Chief's room"
+  },
+  {
+   "off": 7869,
+   "budget": 13,
+   "en": "Mechanic rm",
+   "long": "Mechanic room"
+  },
+  {
+   "off": 7882,
+   "budget": 9,
+   "en": "Squad rm",
+   "long": "Squad room"
+  },
+  {
+   "off": 7891,
+   "budget": 7,
+   "en": "Range",
+   "long": "Shooting range"
+  },
+  {
+   "off": 7898,
+   "budget": 15,
+   "en": "Computer room"
+  },
+  {
+   "off": 7913,
+   "budget": 9,
+   "en": "Front",
+   "long": "Front desk"
+  },
+  {
+   "off": 7922,
+   "budget": 33,
+   "en": "Should we check reception?"
+  },
+  {
+   "off": 7955,
+   "budget": 17,
+   "en": "Reception?"
+  },
+  {
+   "off": 7972,
+   "budget": 23,
+   "en": "It's possible."
+  },
+  {
+   "off": 7995,
+   "budget": 43,
+   "en": "But we definitely closed the shield."
+  },
+  {
+   "off": 8038,
+   "budget": 53,
+   "en": "We've searched the rest.￥To be sure... let's go!",
+   "long": "We've searched everywhere else.￥Let's go, just to be sure!"
+  },
+  {
+   "off": 8091,
+   "budget": 5,
+   "en": "Hall",
+   "long": "Hallway"
+  },
+  {
+   "off": 8096,
+   "budget": 17,
+   "en": "The HQ corridor.",
+   "long": "This is the hallway at headquarters."
+  },
+  {
+   "off": 8113,
+   "budget": 25,
+   "en": "Damn!￥Where is he?",
+   "long": "Damn it! Where's he hiding?"
+  },
+  {
+   "off": 8138,
+   "budget": 37,
+   "en": "He can't leave the HQ, but...",
+   "long": "He shouldn't be able to leave￥headquarters."
+  },
+  {
+   "off": 8175,
+   "budget": 35,
+   "en": "There must be a room unsearched!",
+   "long": "There must be a room we haven't￥searched!"
+  },
+  {
+   "off": 8210,
+   "budget": 27,
+   "en": "Where? ...Where is he!",
+   "long": "Where is he? Where are you?"
+  },
+  {
+   "off": 8237,
+   "budget": 43,
+   "en": "Isn't there a room we haven't￥searched?"
+  },
+  {
+   "off": 8280,
+   "budget": 35,
+   "en": "He wouldn't go outside the HQ?",
+   "long": "He can't get out of headquarters,￥can he?"
+  },
+  {
+   "off": 8315,
+   "budget": 55,
+   "en": "I've searched every room.￥Where has he hidden!?",
+   "long": "We've searched every room! Where the￥hell is he hiding?"
+  },
+  {
+   "off": 8370,
+   "budget": 37,
+   "en": "Let's search each room again."
+  },
+  {
+   "off": 8407,
+   "budget": 21,
+   "en": "Where did he go?"
+  },
+  {
+   "off": 8428,
+   "budget": 37,
+   "en": "Anyway, he's in this HQ.",
+   "long": "He must still be somewhere in￥headquarters."
+  },
+  {
+   "off": 8465,
+   "budget": 5,
+   "en": "Move"
+  },
+  {
+   "off": 8470,
+   "budget": 29,
+   "en": "Harry is lying on the floor."
+  },
+  {
+   "off": 8499,
+   "budget": 29,
+   "en": "Only Harry's body is here."
+  },
+  {
+   "off": 8528,
+   "budget": 69,
+   "en": "Wait here a little longer, old man.￥I'll go finish him."
+  },
+  {
+   "off": 8597,
+   "budget": 69,
+   "en": "Nothing amiss with Harry's body. No￥sign of anyone touching it.",
+   "long": "There's nothing unusual about￥Harry's body. No sign that anyone￥has touched it."
+  },
+  {
+   "off": 8666,
+   "budget": 29,
+   "en": "The scene is as before.",
+   "long": "The scene is just as we left it."
+  },
+  {
+   "off": 8695,
+   "budget": 5,
+   "en": "Find",
+   "long": "Search"
+  },
+  {
+   "off": 8700,
+   "budget": 33,
+   "en": "Snatcher, where did he go!?",
+   "long": "Where did that Snatcher disappear￥to?"
+  },
+  {
+   "off": 8733,
+   "budget": 35,
+   "en": "Odd. He must be in the HQ!",
+   "long": "This doesn't make sense. He has to￥be in headquarters!"
+  },
+  {
+   "off": 8768,
+   "budget": 9,
+   "en": "Motion",
+   "long": "Motion detector"
+  },
+  {
+   "off": 8777,
+   "budget": 23,
+   "en": "Any readings here?",
+   "long": "Any movement in this hallway?"
+  },
+  {
+   "off": 8800,
+   "budget": 81,
+   "en": "The Snatcher doesn't seem to be in￥here. Let's search another room."
+  },
+  {
+   "off": 8881,
+   "budget": 55,
+   "en": "This doesn't seem to be the room.￥Let's try another."
+  },
+  {
+   "off": 8936,
+   "budget": 51,
+   "en": "He knows every inch of headquarters."
+  },
+  {
+   "off": 8987,
+   "budget": 25,
+   "en": "It's the Mechanic room.",
+   "long": "This is the Mechanic room."
+  },
+  {
+   "off": 9012,
+   "budget": 13,
+   "en": "Behind it",
+   "long": "Behind worktable"
+  },
+  {
+   "off": 9025,
+   "budget": 47,
+   "en": "The only hiding place in this room?",
+   "long": "This is about the only hiding place￥in here, isn't it?"
+  },
+  {
+   "off": 9072,
+   "budget": 11,
+   "en": "Under it",
+   "long": "Under worktable"
+  },
+  {
+   "off": 9083,
+   "budget": 7,
+   "en": "Desk",
+   "long": "Under desk"
+  },
+  {
+   "off": 9090,
+   "budget": 5,
+   "en": "Bld.",
+   "long": "Bloodstain"
+  },
+  {
+   "off": 9095,
+   "budget": 33,
+   "en": "Readings in the mechanic room?",
+   "long": "Any movement in the Mechanic room?"
+  },
+  {
+   "off": 9128,
+   "budget": 27,
+   "en": "This is the Computer room."
+  },
+  {
+   "off": 9155,
+   "budget": 9,
+   "en": "Behind",
+   "long": "Behind terminal"
+  },
+  {
+   "off": 9164,
+   "budget": 35,
+   "en": "Any movement in the Computer room?"
+  },
+  {
+   "off": 9199,
+   "budget": 13,
+   "en": "Use Gaudi"
+  },
+  {
+   "off": 9212,
+   "budget": 67,
+   "en": "Gillian, I'm removing the Use Gaudi￥command."
+  },
+  {
+   "off": 9279,
+   "budget": 15,
+   "en": "Squad room.",
+   "long": "This is the Squad room."
+  },
+  {
+   "off": 9294,
+   "budget": 13,
+   "en": "In locker",
+   "long": "In the locker"
+  },
+  {
+   "off": 9307,
+   "budget": 29,
+   "en": "I'll check the lockers."
+  },
+  {
+   "off": 9336,
+   "budget": 31,
+   "en": "No luck. Nobody inside."
+  },
+  {
+   "off": 9367,
+   "budget": 17,
+   "en": "Again?"
+  },
+  {
+   "off": 9384,
+   "budget": 19,
+   "en": "To be sure....."
+  },
+  {
+   "off": 9403,
+   "budget": 35,
+   "en": "The Snatcher isn't in here."
+  },
+  {
+   "off": 9438,
+   "budget": 13,
+   "en": "Gibson's",
+   "long": "Under Gibson's desk"
+  },
+  {
+   "off": 9451,
+   "budget": 11,
+   "en": "Gillian's",
+   "long": "Under Gillian's desk"
+  },
+  {
+   "off": 9462,
+   "budget": 23,
+   "en": "Squad room readings?",
+   "long": "Any movement in the Squad room?"
+  },
+  {
+   "off": 9485,
+   "budget": 17,
+   "en": "Shooting range.",
+   "long": "This is the shooting range."
+  },
+  {
+   "off": 9502,
+   "budget": 11,
+   "en": "Behind",
+   "long": "Behind booth"
+  },
+  {
+   "off": 9513,
+   "budget": 35,
+   "en": "A likely place to hide.",
+   "long": "This looks like a likely hiding￥place."
+  },
+  {
+   "off": 9548,
+   "budget": 11,
+   "en": "Inside",
+   "long": "Inside booth"
+  },
+  {
+   "off": 9559,
+   "budget": 11,
+   "en": "Booth top",
+   "long": "Top of the booth"
+  },
+  {
+   "off": 9570,
+   "budget": 25,
+   "en": "Range readings?",
+   "long": "Any movement in the shooting range?"
+  },
+  {
+   "off": 9595,
+   "budget": 9,
+   "en": "Train"
+  },
+  {
+   "off": 9604,
+   "budget": 19,
+   "en": "Shooting drill?",
+   "long": "How about some target practice?"
+  },
+  {
+   "off": 9623,
+   "budget": 63,
+   "en": "Gillian, I'm removing the Train￥command."
+  },
+  {
+   "off": 9686,
+   "budget": 13,
+   "en": "Chief's rm.",
+   "long": "This is the chief's office."
+  },
+  {
+   "off": 9699,
+   "budget": 21,
+   "en": "In the Chief's room.",
+   "long": "We've entered the chief's office."
+  },
+  {
+   "off": 9720,
+   "budget": 35,
+   "en": "Hm? There's something on the desk.",
+   "long": "What's that? There's something on￥the desk."
+  },
+  {
+   "off": 9755,
+   "budget": 9,
+   "en": "Huh?"
+  },
+  {
+   "off": 9764,
+   "budget": 37,
+   "en": "Chief's room.￥Blood on the desk.",
+   "long": "This is the chief's office. There's￥blood on the desk."
+  },
+  {
+   "off": 9801,
+   "budget": 45,
+   "en": "Chief's room.￥...Something on the desk.",
+   "long": "This is the chief's office. There's￥something on the desk."
+  },
+  {
+   "off": 9846,
+   "budget": 25,
+   "en": "Check the ceiling?",
+   "long": "Aren't you going to check the￥ceiling?"
+  },
+  {
+   "off": 9871,
+   "budget": 29,
+   "en": "Find the cause of it?",
+   "long": "Let's find out where this blood came￥from."
+  },
+  {
+   "off": 9900,
+   "budget": 59,
+   "en": "Gillian, something's wrong in here.￥Let's investigate."
+  },
+  {
+   "off": 9959,
+   "budget": 33,
+   "en": "Don't you find this room odd?",
+   "long": "Don't you think there's something￥suspicious about this room?"
+  },
+  {
+   "off": 9992,
+   "budget": 3,
+   "en": "De",
+   "long": "Desk"
+  },
+  {
+   "off": 9995,
+   "budget": 35,
+   "en": "There's a stain on the desk."
+  },
+  {
+   "off": 10030,
+   "budget": 31,
+   "en": "The stain keeps spreading."
+  },
+  {
+   "off": 10061,
+   "budget": 11,
+   "en": "Desk stain",
+   "long": "Stain on desk"
+  },
+  {
+   "off": 10072,
+   "budget": 23,
+   "en": "It's blood!"
+  },
+  {
+   "off": 10095,
+   "budget": 31,
+   "en": "Blood is pooling on the desk."
+  },
+  {
+   "off": 10126,
+   "budget": 5,
+   "en": "Roof"
+  },
+  {
+   "off": 10131,
+   "budget": 31,
+   "en": "Let's look at the ceiling."
+  },
+  {
+   "off": 10162,
+   "budget": 19,
+   "en": "Cunningham!＠Ｃ"
+  },
+  {
+   "off": 10181,
+   "budget": 43,
+   "en": "That stain wasn't here a moment ago!"
+  },
+  {
+   "off": 10224,
+   "budget": 41,
+   "en": "That stain wasn't here before."
+  },
+  {
+   "off": 10265,
+   "budget": 37,
+   "en": "Blood drips from the ceiling.",
+   "long": "Blood seems to be dripping from the￥ceiling."
+  },
+  {
+   "off": 10302,
+   "budget": 45,
+   "en": "So...￥the blood drips from the ceiling.",
+   "long": "Yes, the blood seems to be dripping￥from the ceiling."
+  },
+  {
+   "off": 10347,
+   "budget": 33,
+   "en": "Let's examine the ceiling."
+  },
+  {
+   "off": 10380,
+   "budget": 7,
+   "en": "Window",
+   "long": "Outside window"
+  },
+  {
+   "off": 10387,
+   "budget": 23,
+   "en": "Surely not here?",
+   "long": "He couldn't be hiding here, could￥he?"
+  },
+  {
+   "off": 10410,
+   "budget": 11,
+   "en": "Under sofa",
+   "long": "Under the sofa"
+  },
+  {
+   "off": 10421,
+   "budget": 39,
+   "en": "The Snatcher's blood leads outside.",
+   "long": "The Snatcher's blood trail leads￥outside."
+  },
+  {
+   "off": 10460,
+   "budget": 29,
+   "en": "No new bloodstains found.",
+   "long": "I can't find any new bloodstains."
+  },
+  {
+   "off": 10489,
+   "budget": 33,
+   "en": "All right. I'll check."
+  },
+  {
+   "off": 10522,
+   "budget": 39,
+   "en": "I'll check now. Be careful."
+  },
+  {
+   "off": 10561,
+   "budget": 37,
+   "en": "I'll check it. Ready?"
+  },
+  {
+   "off": 10598,
+   "budget": 33,
+   "en": "No luck. Nothing there."
+  },
+  {
+   "off": 10631,
+   "budget": 25,
+   "en": "So... not there.",
+   "long": "As I thought. He's not here."
+  },
+  {
+   "off": 10656,
+   "budget": 43,
+   "en": "Oh! No, there's nothing there."
+  },
+  {
+   "off": 10699,
+   "budget": 25,
+   "en": "He's not here."
+  },
+  {
+   "off": 10724,
+   "budget": 31,
+   "en": "We already checked there."
+  },
+  {
+   "off": 10755,
+   "budget": 27,
+   "en": "He wasn't there."
+  },
+  {
+   "off": 10782,
+   "budget": 33,
+   "en": "I'll look, just to be sure."
+  },
+  {
+   "off": 10815,
+   "budget": 27,
+   "en": "I'll take another look."
+  },
+  {
+   "off": 10842,
+   "budget": 37,
+   "en": "No sign of the Snatcher."
+  },
+  {
+   "off": 10879,
+   "budget": 43,
+   "en": "...No trace of the Snatcher either.",
+   "long": "I can't find any trace of the￥Snatcher, either."
+  },
+  {
+   "off": 10922,
+   "budget": 43,
+   "en": "There's no sign of the Snatcher￥here."
+  },
+  {
+   "off": 10965,
+   "budget": 31,
+   "en": "No bloodstain anywhere.",
+   "long": "I don't see any bloodstains￥anywhere."
+  },
+  {
+   "off": 10996,
+   "budget": 31,
+   "en": "No bloodstain found.",
+   "long": "I can't find anything that looks￥like blood."
+  },
+  {
+   "off": 11027,
+   "budget": 43,
+   "en": "No. Nothing that looks like blood."
+  },
+  {
+   "off": 11070,
+   "budget": 53,
+   "en": "He's wounded. There must be blood￥somewhere."
+  },
+  {
+   "off": 11123,
+   "budget": 45,
+   "en": "That's strange. I'm sure I hit him."
+  },
+  {
+   "off": 11168,
+   "budget": 29,
+   "en": "He's not here anymore."
+  },
+  {
+   "off": 11197,
+   "budget": 29,
+   "en": "He's not in this room."
+  },
+  {
+   "off": 11226,
+   "budget": 29,
+   "en": "The Snatcher is elsewhere.",
+   "long": "The Snatcher is in another room."
+  },
+  {
+   "off": 11255,
+   "budget": 29,
+   "en": "Same however often I look...",
+   "long": "Checking again won't change￥anything."
+  },
+  {
+   "off": 11284,
+   "budget": 21,
+   "en": "Same result..."
+  },
+  {
+   "off": 11305,
+   "budget": 55,
+   "en": "No movement detected. We appear to￥be alone."
+  },
+  {
+   "off": 11360,
+   "budget": 33,
+   "en": "No motion readings but ours.",
+   "long": "I detect no movement except our own."
+  },
+  {
+   "off": 11393,
+   "budget": 23,
+   "en": "No movement detected."
+  },
+  {
+   "off": 11416,
+   "budget": 59,
+   "en": "Nothing is moving except the ceiling￥fan."
+  },
+  {
+   "off": 11475,
+   "budget": 61,
+   "en": "At a time like this? Let's find the￥chief! The Snatcher!"
+  },
+  {
+   "off": 11536,
+   "budget": 63,
+   "en": "There's no time! We have to find the￥Snatcher, quickly!"
+  },
+  {
+   "off": 11599,
+   "budget": 47,
+   "en": "Shouldn't finding the Snatcher come￥first?"
+  },
+  {
+   "off": 11646,
+   "budget": 35,
+   "en": "Record the case so far?",
+   "long": "Would you like to record our￥progress so far?"
+  },
+  {
+   "off": 11681,
+   "budget": 41,
+   "en": "I'll save our progress so far."
+  },
+  {
+   "off": 11722,
+   "budget": 13,
+   "en": "Don't save"
+  },
+  {
+   "off": 11735,
+   "budget": 13,
+   "en": "Continue"
+  },
+  {
+   "off": 11748,
+   "budget": 31,
+   "en": "Resuming the investigation."
+  },
+  {
+   "off": 11779,
+   "budget": 13,
+   "en": "Quit game"
+  },
+  {
+   "off": 11792,
+   "budget": 33,
+   "en": "Ending the investigation."
+  },
+  {
+   "off": 11827,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

@@ -1,0 +1,1057 @@
+{
+ "file": "ISZ_B250.BIN",
+ "text_base": 4753,
+ "strings": [
+  {
+   "off": 4754,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 4758,
+   "budget": 33,
+   "en": "This is the last Tricycle."
+  },
+  {
+   "off": 4791,
+   "budget": 9,
+   "en": "Get in",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 4800,
+   "budget": 35,
+   "en": "Let's get into the Tricycle."
+  },
+  {
+   "off": 4835,
+   "budget": 49,
+   "en": "We're in the Tricycle. Where shall￥we go?"
+  },
+  {
+   "off": 4884,
+   "budget": 57,
+   "en": "Though we already know where we're￥headed."
+  },
+  {
+   "off": 4941,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 4946,
+   "budget": 5,
+   "en": "Body"
+  },
+  {
+   "off": 4951,
+   "budget": 77,
+   "en": "A spare tricycle, so unpainted, but￥it runs well enough.",
+   "long": "It's a spare Tricycle, so it hasn't￥been painted. It runs perfectly￥well."
+  },
+  {
+   "off": 5028,
+   "budget": 63,
+   "en": "Take a good look. In 12 hours￥this vehicle's finished too.",
+   "long": "Take a good look. In twelve hours,￥we won't be able to use this vehicle￥either."
+  },
+  {
+   "off": 5091,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 5098,
+   "budget": 35,
+   "en": "This parking lot looks bleak now."
+  },
+  {
+   "off": 5133,
+   "budget": 27,
+   "en": "No car or soul but us...",
+   "long": "Ours is the only vehicle. We're the￥only ones here."
+  },
+  {
+   "off": 5160,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 5167,
+   "budget": 43,
+   "en": "It seems sound.￥Nothing done to it.",
+   "long": "It looks safe. It hasn't been￥tampered with."
+  },
+  {
+   "off": 5210,
+   "budget": 35,
+   "en": "No worry. Nothing amiss.",
+   "long": "Don't worry. Nothing is wrong with￥it."
+  },
+  {
+   "off": 5245,
+   "budget": 57,
+   "en": "No movement detected. You and I are￥alone here."
+  },
+  {
+   "off": 5302,
+   "budget": 31,
+   "en": "Nobody here. It's quiet."
+  },
+  {
+   "off": 5333,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 5348,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 5359,
+   "budget": 27,
+   "en": "We're nearing the end."
+  },
+  {
+   "off": 5386,
+   "budget": 37,
+   "en": "I'll save our progress so far."
+  },
+  {
+   "off": 5423,
+   "budget": 23,
+   "en": "Hurry to the church!!",
+   "long": "Let's hurry to the church!"
+  },
+  {
+   "off": 5446,
+   "budget": 37,
+   "en": "We can't waste time, Gillian!"
+  },
+  {
+   "off": 5483,
+   "budget": 17,
+   "en": "Hurry, Gillian!"
+  },
+  {
+   "off": 5500,
+   "budget": 5,
+   "en": "Chur",
+   "long": "Church"
+  },
+  {
+   "off": 5505,
+   "budget": 11,
+   "en": "Get out",
+   "long": "Exit Tricycle"
+  },
+  {
+   "off": 5516,
+   "budget": 17,
+   "en": "JUNKER HQ"
+  },
+  {
+   "off": 5533,
+   "budget": 43,
+   "en": "Going in by ourselves is crazy."
+  },
+  {
+   "off": 5576,
+   "budget": 19,
+   "en": "At the church.",
+   "long": "We've reached the church."
+  },
+  {
+   "off": 5595,
+   "budget": 27,
+   "en": "It really is the Kremlin!"
+  },
+  {
+   "off": 5622,
+   "budget": 9,
+   "en": "Go in",
+   "long": "Go inside"
+  },
+  {
+   "off": 5631,
+   "budget": 5,
+   "en": "Bldg",
+   "long": "Building"
+  },
+  {
+   "off": 5636,
+   "budget": 53,
+   "en": "An old church... rather like Saint￥Basil's.",
+   "long": "An old church. It looks a little￥like St. Basil's Cathedral."
+  },
+  {
+   "off": 5689,
+   "budget": 37,
+   "en": "They must have thought so, too."
+  },
+  {
+   "off": 5726,
+   "budget": 61,
+   "en": "Built after a Russian Orthodox￥church?￥Quite old.",
+   "long": "It may be modeled on a Russian￥Orthodox church. It looks very old."
+  },
+  {
+   "off": 5787,
+   "budget": 3,
+   "en": "Sn",
+   "long": "Snow"
+  },
+  {
+   "off": 5790,
+   "budget": 77,
+   "en": "It looks like snow but is Snow￥Cedar. Take care not to breathe it.",
+   "long": "It looks like snow, but it's Snow￥Cedar pollen. Be careful not to￥breathe it in."
+  },
+  {
+   "off": 5867,
+   "budget": 37,
+   "en": "Pollen, so far finer than snow.",
+   "long": "Since it's pollen, it's much finer￥than snow."
+  },
+  {
+   "off": 5904,
+   "budget": 31,
+   "en": "Ringed by tall cedar woods.",
+   "long": "We're surrounded by tall cedar￥trees."
+  },
+  {
+   "off": 5935,
+   "budget": 37,
+   "en": "No homeless will come near this.",
+   "long": "Even the homeless would stay away￥from this."
+  },
+  {
+   "off": 5972,
+   "budget": 49,
+   "en": "Christmas lights would suit the￥season.",
+   "long": "Christmas lights would look nice￥here this time of year."
+  },
+  {
+   "off": 6021,
+   "budget": 47,
+   "en": "You can't see this church￥except from above.",
+   "long": "The church seems to be visible only￥from above."
+  },
+  {
+   "off": 6068,
+   "budget": 55,
+   "en": "Half a century old, but braced here￥and there.",
+   "long": "The building is half a century old,￥but some parts have been reinforced."
+  },
+  {
+   "off": 6123,
+   "budget": 11,
+   "en": "Entrance?",
+   "long": "Where's the entrance?"
+  },
+  {
+   "off": 6134,
+   "budget": 11,
+   "en": "In front.",
+   "long": "At the front."
+  },
+  {
+   "off": 6145,
+   "budget": 43,
+   "en": "The carving is eaten by acid rain.",
+   "long": "Acid rain has eaten away the￥carvings on the surface."
+  },
+  {
+   "off": 6188,
+   "budget": 43,
+   "en": "These are definitely Snow Cedars."
+  },
+  {
+   "off": 6231,
+   "budget": 47,
+   "en": "Hard to believe it breeds so in the￥city.",
+   "long": "I can't believe so many are growing￥in the city."
+  },
+  {
+   "off": 6278,
+   "budget": 73,
+   "en": "My scan shows the Tube Liner runs￥beneath us."
+  },
+  {
+   "off": 6351,
+   "budget": 33,
+   "en": "So... no mistake, then.",
+   "long": "As I thought. This must be the￥place."
+  },
+  {
+   "off": 6384,
+   "budget": 49,
+   "en": "Above ground there is nothing but￥this church.",
+   "long": "The church seems to be the only￥structure above ground."
+  },
+  {
+   "off": 6433,
+   "budget": 9,
+   "en": "Motion",
+   "long": "Motion detector"
+  },
+  {
+   "off": 6442,
+   "budget": 5,
+   "en": "Hear",
+   "long": "Listen"
+  },
+  {
+   "off": 6447,
+   "budget": 25,
+   "en": "Only the wind.",
+   "long": "All I can hear is the wind."
+  },
+  {
+   "off": 6472,
+   "budget": 13,
+   "en": "Videophone"
+  },
+  {
+   "off": 6485,
+   "budget": 27,
+   "en": "Yes, good idea."
+  },
+  {
+   "off": 6512,
+   "budget": 27,
+   "en": "Gillian, running away?",
+   "long": "Are you running away, Gillian?"
+  },
+  {
+   "off": 6539,
+   "budget": 39,
+   "en": "What's wrong? Be brave."
+  },
+  {
+   "off": 6578,
+   "budget": 37,
+   "en": "Where are you going, Gillian?"
+  },
+  {
+   "off": 6615,
+   "budget": 41,
+   "en": "So the videophone is no use here.",
+   "long": "As expected, the videophone won't￥work here."
+  },
+  {
+   "off": 6656,
+   "budget": 23,
+   "en": "No readings at all."
+  },
+  {
+   "off": 6679,
+   "budget": 29,
+   "en": "Nothing unusual so far."
+  },
+  {
+   "off": 6708,
+   "budget": 33,
+   "en": "Large motion readings... none.",
+   "long": "No significant movement detected."
+  },
+  {
+   "off": 6741,
+   "budget": 23,
+   "en": "I can't hear a sound."
+  },
+  {
+   "off": 6764,
+   "budget": 35,
+   "en": "I hear nothing. It's quiet."
+  },
+  {
+   "off": 6799,
+   "budget": 29,
+   "en": "It's completely silent."
+  },
+  {
+   "off": 6828,
+   "budget": 15,
+   "en": "This place...?",
+   "long": "What is this place?"
+  },
+  {
+   "off": 6843,
+   "budget": 35,
+   "en": "A chapel for the Snatchers?"
+  },
+  {
+   "off": 6878,
+   "budget": 39,
+   "en": "You think they pray? To what?"
+  },
+  {
+   "off": 6917,
+   "budget": 65,
+   "en": "See, a portrait hangs at the front.￥Do they pray to that man?",
+   "long": "Look. There's a portrait at the￥front. Do they pray to that man?"
+  },
+  {
+   "off": 6982,
+   "budget": 9,
+   "en": "Go in",
+   "long": "Go further in"
+  },
+  {
+   "off": 6991,
+   "budget": 25,
+   "en": "Into the inner room...",
+   "long": "Let's enter the room at the back."
+  },
+  {
+   "off": 7016,
+   "budget": 7,
+   "en": "Portrt",
+   "long": "Portrait"
+  },
+  {
+   "off": 7023,
+   "budget": 51,
+   "en": "Is this the creator the Snatchers￥speak of?",
+   "long": "Could this be the creator the￥Snatchers spoke of?"
+  },
+  {
+   "off": 7074,
+   "budget": 45,
+   "en": "Isn't that ＠黄Randam＠白?"
+  },
+  {
+   "off": 7119,
+   "budget": 49,
+   "en": "Wait. I'll compare the portrait with￥our data."
+  },
+  {
+   "off": 7168,
+   "budget": 91,
+   "en": "The frame ratios do match Randam's￥own data, but it's no photograph, so￥I can't be sure.",
+   "long": "The bone proportions and other￥features match Randam's, but it's a￥painting, so I can't be certain."
+  },
+  {
+   "off": 7259,
+   "budget": 29,
+   "en": "That's no chance likeness...",
+   "long": "That's too close to be a￥coincidence."
+  },
+  {
+   "off": 7288,
+   "budget": 51,
+   "en": "Come to think...￥it looks like Randam Hajile.",
+   "long": "Now that you mention it, he does￥look like Randam Hajile."
+  },
+  {
+   "off": 7339,
+   "budget": 5,
+   "en": "Seat",
+   "long": "Chair"
+  },
+  {
+   "off": 7344,
+   "budget": 27,
+   "en": "Seats for worshippers.",
+   "long": "These must be seats for worshippers."
+  },
+  {
+   "off": 7371,
+   "budget": 55,
+   "en": "There's no dust on them. They seem￥to be used often."
+  },
+  {
+   "off": 7426,
+   "budget": 21,
+   "en": "Tidy place..."
+  },
+  {
+   "off": 7447,
+   "budget": 43,
+   "en": "The old USSR before its fall,￥rebuilt.",
+   "long": "It looks like a recreation of the￥Soviet Union before its collapse."
+  },
+  {
+   "off": 7490,
+   "budget": 29,
+   "en": "Not church ornament.",
+   "long": "These don't look like church￥decorations."
+  },
+  {
+   "off": 7519,
+   "budget": 51,
+   "en": "The picture reads ＠赤'Creator Madnar'＠白.",
+   "long": "The painting is labeled ＠赤Madnar, Our￥Creator＠白."
+  },
+  {
+   "off": 7570,
+   "budget": 25,
+   "en": "That's Dr. Madnar?"
+  },
+  {
+   "off": 7595,
+   "budget": 29,
+   "en": "The one they spoke of?",
+   "long": "The one the Snatchers mentioned?"
+  },
+  {
+   "off": 7624,
+   "budget": 35,
+   "en": "A portrait of that man...",
+   "long": "It appears to be a portrait of him."
+  },
+  {
+   "off": 7659,
+   "budget": 83,
+   "en": "Judging by the paint and canvas, it￥was painted about half a century￥ago."
+  },
+  {
+   "off": 7742,
+   "budget": 77,
+   "en": "There are many scratches on the￥surface. Could they be from￥Snatchers?"
+  },
+  {
+   "off": 7819,
+   "budget": 57,
+   "en": "Something very heavy stood on it.￥Quite worn.",
+   "long": "It must have held something very￥heavy. It's badly worn."
+  },
+  {
+   "off": 7876,
+   "budget": 67,
+   "en": "Oddly tidy, with no human feel. Oh,￥a room lies beyond.",
+   "long": "It's so orderly it doesn't feel￥human. Oh, there's a room at the￥back."
+  },
+  {
+   "off": 7943,
+   "budget": 49,
+   "en": "Not a speck of dust. It's too clean."
+  },
+  {
+   "off": 7992,
+   "budget": 33,
+   "en": "They... all out at the summit?",
+   "long": "Have they all gone to the summit?"
+  },
+  {
+   "off": 8025,
+   "budget": 17,
+   "en": "What is this?",
+   "long": "What is this place?"
+  },
+  {
+   "off": 8042,
+   "budget": 57,
+   "en": "＠赤Insectors! Use your Blaster!＠Ｃ"
+  },
+  {
+   "off": 8099,
+   "budget": 13,
+   "en": "Here!　＠Ｃ",
+   "long": "Here they come!＠Ｃ"
+  },
+  {
+   "off": 8112,
+   "budget": 29,
+   "en": "All right this time?　　＠Ｃ",
+   "long": "Can you handle them this time?＠Ｃ"
+  },
+  {
+   "off": 8141,
+   "budget": 15,
+   "en": "Leave it!＠Ｃ",
+   "long": "Leave it to me!＠Ｃ"
+  },
+  {
+   "off": 8156,
+   "budget": 35,
+   "en": "Surely all right this time?　＠Ｃ",
+   "long": "Are you sure you can handle them￥this time?＠Ｃ"
+  },
+  {
+   "off": 8191,
+   "budget": 17,
+   "en": "Shut up!＠Ｃ"
+  },
+  {
+   "off": 8208,
+   "budget": 29,
+   "en": "No more movement detected."
+  },
+  {
+   "off": 8237,
+   "budget": 53,
+   "en": "There's no doubt Snatchers are￥hiding here."
+  },
+  {
+   "off": 8290,
+   "budget": 57,
+   "en": "Aye, and that many of them.￥This must be a major base.",
+   "long": "Yeah. With that many guards, this￥must be an important base."
+  },
+  {
+   "off": 8347,
+   "budget": 21,
+   "en": "Let's go carefully.",
+   "long": "Let's proceed carefully."
+  },
+  {
+   "off": 8368,
+   "budget": 25,
+   "en": "Snatchers!"
+  },
+  {
+   "off": 8393,
+   "budget": 19,
+   "en": "So many!"
+  },
+  {
+   "off": 8412,
+   "budget": 73,
+   "en": "No energy readings. They're all￥inactive, in storage."
+  },
+  {
+   "off": 8485,
+   "budget": 23,
+   "en": "Their storeroom?",
+   "long": "Is this their storage facility?"
+  },
+  {
+   "off": 8508,
+   "budget": 49,
+   "en": "Hundreds, it seems.￥They stretch far back.",
+   "long": "There must be hundreds. They go all￥the way to the back."
+  },
+  {
+   "off": 8557,
+   "budget": 45,
+   "en": "But this doesn't look like a￥factory."
+  },
+  {
+   "off": 8602,
+   "budget": 41,
+   "en": "Ready? Let's move into the next￥room."
+  },
+  {
+   "off": 8643,
+   "budget": 13,
+   "en": "Snatchers"
+  },
+  {
+   "off": 8656,
+   "budget": 107,
+   "en": "Endoskeletons, before the skin goes￥on. The frames are shrunk to least￥size at the slits.",
+   "long": "They're endoskeletons without￥artificial skin. The adjustable￥slots in their frames are contracted￥to the smallest size."
+  },
+  {
+   "off": 8763,
+   "budget": 81,
+   "en": "They haven't chosen their victims￥yet. Waiting their turn to snatch￥someone?"
+  },
+  {
+   "off": 8844,
+   "budget": 87,
+   "en": "They look ready to move.￥If this many moved at once, nothing￥could be done.",
+   "long": "They look ready to move at any￥moment. If they all started at once,￥we'd be helpless."
+  },
+  {
+   "off": 8931,
+   "budget": 47,
+   "en": "Containers are stacked at the back.",
+   "long": "There are several containers stacked￥at the back."
+  },
+  {
+   "off": 8978,
+   "budget": 35,
+   "en": "Nothing but containers here.",
+   "long": "There's nothing else here besides￥the containers."
+  },
+  {
+   "off": 9013,
+   "budget": 25,
+   "en": "Letters on the floor.",
+   "long": "There's writing on the floor."
+  },
+  {
+   "off": 9038,
+   "budget": 23,
+   "en": "Russian letters.",
+   "long": "It appears to be Russian."
+  },
+  {
+   "off": 9061,
+   "budget": 9,
+   "en": "Crate",
+   "long": "Container"
+  },
+  {
+   "off": 9070,
+   "budget": 15,
+   "en": "This size?",
+   "long": "What about the size?"
+  },
+  {
+   "off": 9085,
+   "budget": 83,
+   "en": "By its volume, this container surely￥carried the Snatchers here.",
+   "long": "Judging by their capacity, these￥containers must have brought the￥Snatchers here."
+  },
+  {
+   "off": 9168,
+   "budget": 71,
+   "en": "All these endoskeletons arrived in￥those containers."
+  },
+  {
+   "off": 9239,
+   "budget": 65,
+   "en": "Nothing is broken. They only need￥power to function."
+  },
+  {
+   "off": 9304,
+   "budget": 43,
+   "en": "They haven't had sex units installed￥yet."
+  },
+  {
+   "off": 9347,
+   "budget": 61,
+   "en": "Well kept, too. Maintained￥regularly, it seems.",
+   "long": "They're well preserved. They seem to￥receive regular maintenance."
+  },
+  {
+   "off": 9408,
+   "budget": 89,
+   "en": "No maintenance gear or tools to be￥seen. This is only a Snatcher store.",
+   "long": "I see no maintenance equipment or￥tools. This seems to be only a￥Snatcher storage facility."
+  },
+  {
+   "off": 9497,
+   "budget": 43,
+   "en": "Unlike the chapel, it's dusty in￥here."
+  },
+  {
+   "off": 9540,
+   "budget": 33,
+   "en": "There's a label on it."
+  },
+  {
+   "off": 9573,
+   "budget": 41,
+   "en": "＠黄Nineteenth Siberian Expedition＠白."
+  },
+  {
+   "off": 9614,
+   "budget": 31,
+   "en": "＠黄Siberia Survey Team＠白?",
+   "long": "The ＠黄Siberian expedition＠白?"
+  },
+  {
+   "off": 9645,
+   "budget": 45,
+   "en": "So, from the neutral zone to this￥city...",
+   "long": "It looks like they came from the￥neutral zone to this city."
+  },
+  {
+   "off": 9690,
+   "budget": 43,
+   "en": "The survey team carries the￥Snatchers.",
+   "long": "The expedition teams appear to be￥transporting Snatchers."
+  },
+  {
+   "off": 9733,
+   "budget": 73,
+   "en": "So, as with us, the survey team is￥being snatched.",
+   "long": "So the team members are being￥snatched, just like when we were￥rescued."
+  },
+  {
+   "off": 9806,
+   "budget": 91,
+   "en": "No doubt the Siberia team brought￥them. Soil peculiar to that region￥clings to it.",
+   "long": "The Siberian expedition definitely￥brought them here. They're covered￥in contaminated soil unique to that￥region."
+  },
+  {
+   "off": 9897,
+   "budget": 77,
+   "en": "I see. The Siberian expeditions￥bring Snatchers here to be stored."
+  },
+  {
+   "off": 9974,
+   "budget": 81,
+   "en": "So it seems.￥Here they wait their turn to snatch,￥kept idle till then.",
+   "long": "Apparently. They wait here for their￥turn to snatch someone, kept￥inactive until then."
+  },
+  {
+   "off": 10055,
+   "budget": 57,
+   "en": "Efficient. But where do they do the￥snatching?"
+  },
+  {
+   "off": 10112,
+   "budget": 33,
+   "en": "Maybe we'll find out further in."
+  },
+  {
+   "off": 10145,
+   "budget": 35,
+   "en": "A Snatcher cultivation room."
+  },
+  {
+   "off": 10180,
+   "budget": 27,
+   "en": "The equipment is running."
+  },
+  {
+   "off": 10207,
+   "budget": 11,
+   "en": "Cylinder"
+  },
+  {
+   "off": 10218,
+   "budget": 69,
+   "en": "Gillian, within you can see the skin￥being laid on a Snatcher.",
+   "long": "Gillian, you can see artificial skin￥being applied to the Snatchers￥inside."
+  },
+  {
+   "off": 10287,
+   "budget": 47,
+   "en": "A Snatcher in the snatch process is￥inside.",
+   "long": "There are Snatchers inside,￥undergoing the snatching process."
+  },
+  {
+   "off": 10334,
+   "budget": 13,
+   "en": "Snatch proc",
+   "long": "Snatch process"
+  },
+  {
+   "off": 10347,
+   "budget": 63,
+   "en": "Each cylinder has a computer￥terminal attached."
+  },
+  {
+   "off": 10410,
+   "budget": 73,
+   "en": "Tubes and cables run everywhere.￥Watch your step."
+  },
+  {
+   "off": 10483,
+   "budget": 3,
+   "en": "Dr",
+   "long": "Door"
+  },
+  {
+   "off": 10486,
+   "budget": 37,
+   "en": "It's a small iron door with a knob."
+  },
+  {
+   "off": 10523,
+   "budget": 31,
+   "en": "A room lies beyond this.",
+   "long": "There must be a room beyond it."
+  },
+  {
+   "off": 10554,
+   "budget": 5,
+   "en": "Term",
+   "long": "Terminal"
+  },
+  {
+   "off": 10559,
+   "budget": 93,
+   "en": "A terminal linked to the host￥computer. It runs the cylinders too,￥it seems.",
+   "long": "This terminal is probably connected￥to a host computer. It also seems to￥control the cylinder."
+  },
+  {
+   "off": 10652,
+   "budget": 55,
+   "en": "Data, charts and figures show on the￥monitor.",
+   "long": "The monitor displays various data,￥diagrams and shapes."
+  },
+  {
+   "off": 10707,
+   "budget": 83,
+   "en": "A cylinder for culturing the skin.￥An endoskeleton soaks within.",
+   "long": "It's a cylinder for growing￥artificial skin. An endoskeleton is￥submerged inside."
+  },
+  {
+   "off": 10790,
+   "budget": 69,
+   "en": "It's made of thick, reinforced￥glass. It won't break easily."
+  },
+  {
+   "off": 10859,
+   "budget": 5,
+   "en": "Roof"
+  },
+  {
+   "off": 10864,
+   "budget": 41,
+   "en": "Weak ultraviolet is cast from above.",
+   "long": "Weak ultraviolet light appears to￥shine down from above."
+  },
+  {
+   "off": 10905,
+   "budget": 43,
+   "en": "Serious... a cut above￥Queen Hospital.",
+   "long": "A serious operation. Queen Hospital￥had nothing like this."
+  },
+  {
+   "off": 10948,
+   "budget": 69,
+   "en": "The entire room is a clean room.￥There's a door at the back."
+  },
+  {
+   "off": 11017,
+   "budget": 61,
+   "en": "Fine gear. It surprises me they have￥so much.",
+   "long": "Remarkable equipment. I'm surprised￥they managed to assemble all this."
+  },
+  {
+   "off": 11078,
+   "budget": 31,
+   "en": "Where do they get the money?"
+  },
+  {
+   "off": 11109,
+   "budget": 59,
+   "en": "Snatchers are likely sent into the￥money sources too.",
+   "long": "They've probably placed Snatchers￥wherever they get their funding,￥too."
+  },
+  {
+   "off": 11168,
+   "budget": 51,
+   "en": "It's locked, but we can open it from￥this side."
+  },
+  {
+   "off": 11219,
+   "budget": 47,
+   "en": "It seems it cannot be opened from￥within.",
+   "long": "It seems designed so it can't be￥opened from inside."
+  },
+  {
+   "off": 11266,
+   "budget": 89,
+   "en": "The power is on. Look! It contains￥data on the people they're going to￥snatch."
+  },
+  {
+   "off": 11355,
+   "budget": 51,
+   "en": "From this data the skin is￥reproduced, it seems.",
+   "long": "They appear to use this data to￥reproduce the victims' skin."
+  },
+  {
+   "off": 11406,
+   "budget": 41,
+   "en": "Nothing but bubbling in the￥cylinders.",
+   "long": "All I can hear is bubbling from the￥cylinders."
+  },
+  {
+   "off": 11447,
+   "budget": 57,
+   "en": "For now, only the steady sounds of￥the gear here.",
+   "long": "So far, all I hear is the steady￥sound of the equipment."
+  },
+  {
+   "off": 11504,
+   "budget": 37,
+   "en": "This may be our last chance to save."
+  },
+  {
+   "off": 11541,
+   "budget": 53,
+   "en": "The signal won't hold. No sending￥from this area.",
+   "long": "The signal is unstable. We can't￥transmit from this area."
+  },
+  {
+   "off": 11594,
+   "budget": 17,
+   "en": "Snow Cedar?"
+  },
+  {
+   "off": 11611,
+   "budget": 35,
+   "en": "Snow Cedar is extremely dense.",
+   "long": "The Snow Cedar pollen concentration￥is extremely high."
+  },
+  {
+   "off": 11646,
+   "budget": 25,
+   "en": "No calling for backup.",
+   "long": "We can't call for help, then."
+  },
+  {
+   "off": 11671,
+   "budget": 21,
+   "en": "That's right."
+  },
+  {
+   "off": 11692,
+   "budget": 47,
+   "en": "But how did Jamie's videophone reach￥us?",
+   "long": "Then how did Jamie's videophone call￥get through?"
+  },
+  {
+   "off": 11739,
+   "budget": 55,
+   "en": "By a large high-output transmitter,￥likely.",
+   "long": "They probably used a large,￥high-powered transmitter."
+  },
+  {
+   "off": 11794,
+   "budget": 41,
+   "en": "No sending at all from this area.",
+   "long": "We can't transmit anything from this￥area."
+  },
+  {
+   "off": 11835,
+   "budget": 53,
+   "en": "Snow Cedar is too dense for the￥videophone.",
+   "long": "The Snow Cedar pollen is too dense￥for the videophone to work."
+  },
+  {
+   "off": 11888,
+   "budget": 35,
+   "en": "Huh? Another room?＠Ｃ"
+  },
+  {
+   "off": 11923,
+   "budget": 11,
+   "en": "Huh!＠Ｃ"
+  },
+  {
+   "off": 11934,
+   "budget": 25,
+   "en": "Whew. Did we get them?"
+  },
+  {
+   "off": 11959,
+   "budget": 33,
+   "en": "They don't let us pass easily.",
+   "long": "They're not letting us through￥easily."
+  },
+  {
+   "off": 11992,
+   "budget": 11,
+   "en": "Next door.",
+   "long": "The next door."
+  },
+  {
+   "off": 12003,
+   "budget": 13,
+   "en": "Continue"
+  },
+  {
+   "off": 12016,
+   "budget": 13,
+   "en": "Quit game"
+  },
+  {
+   "off": 12031,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "scene": "B0D0",
+ "note": "Coverage: Altamira's fortune teller from the B0D0 scene save - the crowd searched until the teller appears, the fortune told twice, the flirting, then every verb again (Metal Gear's comments, B0D0_1048..1053).",
+ "actions": [
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Let him go"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 10
+  },
+  {
+   "path": [
+    "Get fortune told"
+   ],
+   "optional": true,
+   "patience": 3000,
+   "reps": 2
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Get fortune told"
+   ],
+   "rounds": 3
+  },
+  {
+   "path": [
+    "Hit on her"
+   ],
+   "optional": true,
+   "reps": 4
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Ask"
+   ],
+   "rounds": 2
+  },
+  {
+   "idle": 600
+  }
+ ]
+}

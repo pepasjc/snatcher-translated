@@ -1,0 +1,77 @@
+{
+ "scene": "B1F0",
+ "actions": [
+  {
+   "path": [
+    "Jump off"
+   ],
+   "optional": true,
+   "reps": 2,
+   "patience": 900
+  },
+  {
+   "path": [
+    "Glide"
+   ],
+   "optional": true,
+   "reps": 2,
+   "patience": 900
+  },
+  {
+   "path": [
+    "Hit wall"
+   ],
+   "optional": true,
+   "reps": 2,
+   "patience": 900
+  },
+  {
+   "path": [
+    "Drive into sand"
+   ],
+   "optional": true,
+   "reps": 2,
+   "patience": 900
+  },
+  {
+   "path": [
+    "Press button"
+   ],
+   "optional": true,
+   "reps": 2,
+   "patience": 900
+  },
+  {
+   "path": [
+    "Imagine|Muse"
+   ],
+   "optional": true,
+   "reps": 2,
+   "patience": 900
+  },
+  {
+   "path": [
+    "Stick feet out"
+   ],
+   "optional": true,
+   "reps": 2,
+   "patience": 900
+  },
+  {
+   "save": "B1F0_end2"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Move",
+    "Talk",
+    "Ask",
+    "Press button",
+    "Muse",
+    "Stick feet out"
+   ],
+   "rounds": 2
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "scene": "B010",
+ "note": "BUG-015 repro: from the B010_chief bookmark. Harry is only in Mechanics on the SECOND visit, after a round of every room (s_b010c), so tour once without sweeping, then Mechanics and a sweep of Harry's conversation (the Blaster handoff, then Metal Gear).",
+ "actions": [
+  {
+   "sweep": [
+    "Go out"
+   ],
+   "rounds": 1,
+   "why": "visit every room once"
+  },
+  {
+   "path": [
+    "Go out",
+    "Mechanic room"
+   ],
+   "why": "Harry's room, second visit"
+  },
+  {
+   "save": "B010_harry"
+  },
+  {
+   "sweep": [
+    "Talk",
+    "Ask",
+    "Look",
+    "Investigate",
+    "Listen"
+   ],
+   "rounds": 2,
+   "why": "Harry, the Blaster, Metal Gear"
+  }
+ ]
+}

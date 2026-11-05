@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Snatcher — translation review</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <aside id="side">
+    <div class="side-head">
+      <div class="title">Snatcher <span class="dim">PS1 · English</span></div>
+      <input id="scene-filter" type="search" placeholder="filter scenes…">
+    </div>
+    <ul id="scenes"></ul>
+    <div class="side-foot" id="totals"></div>
+  </aside>
+  <main id="main">
+    <div id="empty" class="empty">Pick a scene on the left.</div>
+    <div id="scene" hidden>
+      <header class="scene-head">
+        <div class="scene-title">
+          <span id="scene-id"></span>
+          <input id="scene-name" placeholder="scene name (click to set)" title="a label for the list; saved in ps1/review/scenes.json">
+        </div>
+        <div class="scene-meta" id="scene-meta"></div>
+        <div class="toolbar">
+          <div class="seg" id="kind-seg">
+            <button data-kind="all">All</button>
+            <button data-kind="cue" class="on">Voice</button>
+            <button data-kind="string">Text</button>
+          </div>
+          <input id="line-filter" type="search" placeholder="search speaker / Japanese / English…">
+          <label><input type="checkbox" id="only-untranslated"> untranslated</label>
+          <label><input type="checkbox" id="only-problems"> problems</label>
+          <label title="hide menu labels, room and item names, control records and the debug scene list"><input type="checkbox" id="only-dialogue" checked> dialogue only</label>
+          <label title="readings over the kanji (pykakasi)"><input type="checkbox" id="furigana" checked> furigana</label>
+          <label title="the Sega CD's line for this string, paired by ps1/tools/segacd_align.py - reference only"><input type="checkbox" id="segacd" checked> Sega CD</label>
+          <button id="transcribe" title="run whisper on every stream of this scene that has no transcript yet">Transcribe missing</button>
+          <button id="save-all" disabled>Save all (Ctrl+S)</button>
+          <span id="status" class="status"></span>
+        </div>
+      </header>
+      <div id="lines"></div>
+    </div>
+  </main>
+</div>
+<audio id="player" preload="none"></audio>
+<script src="app.js"></script>
+<script src="tip.js"></script>
+</body>
+</html>

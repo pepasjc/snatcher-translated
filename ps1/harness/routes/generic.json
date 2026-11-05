@@ -1,0 +1,7 @@
+{"scene":"any","note":"Generic sweep for a scene without a route yet: every verb, every label, twice, then each Move destination with the same sweep inside it.",
+ "actions":[
+  {"save":"generic_start"},
+  {"sweep":["Look","Investigate","Ask","Talk","Listen","Listen","Sniff","Item"],"rounds":2},
+  {"save":"generic_swept"},
+  {"sweep":["Move"],"each":["Look","Investigate","Ask","Talk"],"each_rounds":2,"rounds":1}
+ ]}

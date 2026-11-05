@@ -1,0 +1,314 @@
+[
+ {
+  "sweep": "Ask",
+  "rounds": 1
+ },
+ {
+  "choose": "Go inside"
+ },
+ {
+  "wait": 150
+ },
+ {
+  "shot": "result1"
+ },
+ {
+  "press": "a",
+  "n": 1,
+  "gap": 120
+ },
+ {
+  "shot": "result2"
+ },
+ {
+  "press": "a",
+  "n": 1,
+  "gap": 120
+ },
+ {
+  "shot": "result3"
+ },
+ {
+  "choose": "Chief's room"
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 2
+ },
+ {
+  "read": 4000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 1
+ },
+ {
+  "choose": "Go out"
+ },
+ {
+  "read": 3000
+ },
+ {
+  "choose": "Computer room"
+ },
+ {
+  "read": 6000
+ },
+ {
+  "sweep": "Ask",
+  "rounds": 1
+ },
+ {
+  "save": "computer"
+ },
+ {
+  "choose": "Use Gaudi"
+ },
+ {
+  "choose": "Use card"
+ },
+ {
+  "choose": "Load person file"
+ },
+ {
+  "choose": "Search a name"
+ },
+ {
+  "wait": 600
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "a",
+  "n": 1,
+  "gap": 20
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "a",
+  "n": 1,
+  "gap": 20
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "a",
+  "n": 1,
+  "gap": 20
+ },
+ {
+  "press": "a",
+  "n": 1,
+  "gap": 20
+ },
+ {
+  "press": "left",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "left",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "left",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "a",
+  "n": 1,
+  "gap": 20
+ },
+ {
+  "press": "left",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "left",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "left",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "left",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "left",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "left",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "left",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "left",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "a",
+  "n": 1,
+  "gap": 20
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "right",
+  "n": 1,
+  "gap": 18
+ },
+ {
+  "press": "a",
+  "n": 1,
+  "gap": 20
+ },
+ {
+  "shot": "typed_gillian"
+ },
+ {
+  "press": "down",
+  "n": 2,
+  "gap": 18
+ },
+ {
+  "shot": "cursor_ok"
+ },
+ {
+  "press": "a",
+  "n": 1,
+  "gap": 60
+ },
+ {
+  "read": 3000
+ },
+ {
+  "shot": "dossier"
+ },
+ {
+  "save": "dossier"
+ }
+]

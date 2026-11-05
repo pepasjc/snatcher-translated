@@ -1,0 +1,151 @@
+{
+ "scene": "B060",
+ "note": "Coverage: every number of B060's videophone dial table (the bank's own list, short service numbers included), one call each; the replies and their voiced lines. From a bookmark with Use Metal Gear > Videophone (Act 1). Napoleon (39-5644) is left out: his password question wants a typed answer (the story routes make that call).",
+ "actions": [
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "phone": "099031919"
+  },
+  {
+   "phone": "032128"
+  },
+  {
+   "phone": "130246"
+  },
+  {
+   "phone": "159360"
+  },
+  {
+   "phone": "135953"
+  },
+  {
+   "phone": "256128"
+  },
+  {
+   "phone": "204673"
+  },
+  {
+   "phone": "250251"
+  },
+  {
+   "phone": "286682"
+  },
+  {
+   "phone": "286228"
+  },
+  {
+   "phone": "222668"
+  },
+  {
+   "phone": "286868"
+  },
+  {
+   "phone": "288682"
+  },
+  {
+   "phone": "228688"
+  },
+  {
+   "phone": "393444"
+  },
+  {
+   "phone": "396004"
+  },
+  {
+   "phone": "301234"
+  },
+  {
+   "phone": "302501"
+  },
+  {
+   "phone": "364892"
+  },
+  {
+   "phone": "335164"
+  },
+  {
+   "phone": "333288"
+  },
+  {
+   "phone": "443667"
+  },
+  {
+   "phone": "498946"
+  },
+  {
+   "phone": "470314"
+  },
+  {
+   "phone": "556677"
+  },
+  {
+   "phone": "564923"
+  },
+  {
+   "phone": "530216"
+  },
+  {
+   "phone": "536044"
+  },
+  {
+   "phone": "654625"
+  },
+  {
+   "phone": "691170"
+  },
+  {
+   "phone": "682862"
+  },
+  {
+   "phone": "666822"
+  },
+  {
+   "phone": "626826"
+  },
+  {
+   "phone": "682286"
+  },
+  {
+   "phone": "666228"
+  },
+  {
+   "phone": "662286"
+  },
+  {
+   "phone": "628628"
+  },
+  {
+   "phone": "783465"
+  },
+  {
+   "phone": "761234"
+  },
+  {
+   "phone": "729709"
+  },
+  {
+   "phone": "880236"
+  },
+  {
+   "phone": "800349"
+  },
+  {
+   "phone": "815223"
+  },
+  {
+   "phone": "882626"
+  },
+  {
+   "phone": "987543"
+  },
+  {
+   "phone": "909085"
+  },
+  {
+   "phone": "997412"
+  }
+ ]
+}

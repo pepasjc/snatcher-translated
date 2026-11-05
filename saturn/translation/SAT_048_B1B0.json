@@ -1,0 +1,1546 @@
+{
+ "file": "DATA.BIN[48]",
+ "entry": 48,
+ "text_base": 2895,
+ "twins": [
+  "B1B0"
+ ],
+ "strings": [
+  {
+   "off": 2896,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 2900,
+   "budget": 59,
+   "en": "This is...￥the ＠黄Oleen Hospital＠白 Napoleon spoke of.",
+   "src": "B1B0:2720",
+   "carry": "exact",
+   "long": "This is ＠黄Oleen Hospital＠白, the place￥Napoleon told us about."
+  },
+  {
+   "off": 2959,
+   "budget": 33,
+   "en": "＠黄Oleen Hospital＠白.",
+   "src": "B1B0:2779",
+   "carry": "exact"
+  },
+  {
+   "off": 2992,
+   "budget": 89,
+   "en": "Could this be the Snatcher￥maintenance hospital Gibson￥mentioned?",
+   "src": "B1B0:2812",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3081,
+   "budget": 5,
+   "en": "Move",
+   "src": "B1B0:2899",
+   "carry": "exact"
+  },
+  {
+   "off": 3086,
+   "budget": 9,
+   "en": "Get in",
+   "src": "B1B0:2904",
+   "carry": "exact",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 3095,
+   "budget": 9,
+   "en": "Go in",
+   "src": "B1B0:2913",
+   "carry": "exact",
+   "long": "Go inside"
+  },
+  {
+   "off": 3104,
+   "budget": 47,
+   "en": "The hospital door.￥Shall I open it now?",
+   "src": "B1B0:2922",
+   "carry": "exact",
+   "long": "This is the hospital door. I'll open￥it. Ready?"
+  },
+  {
+   "off": 3151,
+   "budget": 23,
+   "en": "Go ahead!",
+   "src": "B1B0:2969",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3174,
+   "budget": 5,
+   "en": "Look",
+   "src": "B1B0:2990",
+   "carry": "exact"
+  },
+  {
+   "off": 3179,
+   "budget": 5,
+   "en": "Bldg",
+   "src": "B1B0:2995",
+   "carry": "exact",
+   "long": "Building"
+  },
+  {
+   "off": 3184,
+   "budget": 61,
+   "en": "A neon sign on the roof.￥The entrance is at the front.",
+   "src": "B1B0:3000",
+   "carry": "candidate_ok",
+   "en_candidate": "A neon sign on the roof.￥The entrance is at the front.",
+   "sim": 0.98,
+   "long": "There's a neon sign on the roof. The￥entrance seems to be at the front."
+  },
+  {
+   "off": 3245,
+   "budget": 37,
+   "en": "Looks every inch a black clinic.",
+   "src": "B1B0:3061",
+   "carry": "exact",
+   "long": "It certainly looks like an￥underground clinic."
+  },
+  {
+   "off": 3282,
+   "budget": 5,
+   "en": "Sign",
+   "src": "B1B0:3098",
+   "carry": "exact"
+  },
+  {
+   "off": 3287,
+   "budget": 47,
+   "en": "What sort of hospital?￥Nothing is written.",
+   "src": "B1B0:3103",
+   "carry": "exact",
+   "long": "What kind of hospital is this? It￥doesn't say."
+  },
+  {
+   "off": 3334,
+   "budget": 25,
+   "en": "It's a black clinic...",
+   "src": "B1B0:3150",
+   "carry": "exact",
+   "long": "Probably because it's illegal."
+  },
+  {
+   "off": 3359,
+   "budget": 61,
+   "en": "No proper signage.￥Not a registered hospital.",
+   "src": "B1B0:3175",
+   "carry": "exact",
+   "long": "There are no proper signs. It￥probably isn't a licensed hospital."
+  },
+  {
+   "off": 3420,
+   "budget": 3,
+   "en": "Wn",
+   "src": "B1B0:3236",
+   "carry": "exact",
+   "long": "Window"
+  },
+  {
+   "off": 3423,
+   "budget": 67,
+   "en": "Lights are on.￥Figures too...￥In consultation, it seems.",
+   "src": "B1B0:3239",
+   "carry": "exact",
+   "long": "The lights are on. I can see people￥inside. They seem to be seeing￥patients."
+  },
+  {
+   "off": 3490,
+   "budget": 33,
+   "en": "They appear to be open.",
+   "src": "B1B0:3306",
+   "carry": "exact"
+  },
+  {
+   "off": 3523,
+   "budget": 7,
+   "en": "Around",
+   "src": "B1B0:3339",
+   "carry": "exact"
+  },
+  {
+   "off": 3530,
+   "budget": 65,
+   "en": "A bit off the slum, but this￥is no brighter either.",
+   "src": "B1B0:3346",
+   "carry": "rebroken",
+   "long": "We're a little way from the slums,￥but this place isn't much better.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3595,
+   "budget": 33,
+   "en": "Illegal parking blocks the road.",
+   "src": "B1B0:3409",
+   "carry": "exact",
+   "long": "Illegally parked cars are blocking￥the road."
+  },
+  {
+   "off": 3628,
+   "budget": 37,
+   "en": "Not abandoned. Parked, it seems.",
+   "src": "B1B0:3442",
+   "carry": "exact",
+   "long": "The cars seem to be parked, rather￥than abandoned."
+  },
+  {
+   "off": 3665,
+   "budget": 53,
+   "en": "If they're not scrap, they probably￥belong to patients.",
+   "src": "B1B0:3479",
+   "carry": "candidate_edit",
+   "en_candidate": "Not scrap, so patients' cars,￥I'd guess.",
+   "sim": 0.91,
+   "note": "re-adapted 2026-09-30: new PS1 long + おそらく"
+  },
+  {
+   "off": 3718,
+   "budget": 59,
+   "en": "Many fine cars.￥The patients' here, perhaps?",
+   "src": "B1B0:3522",
+   "carry": "exact",
+   "long": "Lots of expensive cars. Do they￥belong to people visiting this￥hospital?"
+  },
+  {
+   "off": 3777,
+   "budget": 13,
+   "en": "Neon sign",
+   "src": "B1B0:3581",
+   "carry": "exact"
+  },
+  {
+   "off": 3790,
+   "budget": 75,
+   "en": "It says Oleen Hospital. HOSPITAL￥OLEEN.",
+   "src": "B1B0:3594",
+   "carry": "exact"
+  },
+  {
+   "off": 3865,
+   "budget": 39,
+   "en": "What? ＠黄Oleen＠白 Hospital?",
+   "src": "B1B0:3669",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 3904,
+   "budget": 37,
+   "en": "Is this place really the hospital?",
+   "src": "B1B0:3706",
+   "carry": "exact",
+   "long": "Are you sure this is the right￥hospital?"
+  },
+  {
+   "off": 3941,
+   "budget": 3,
+   "en": "Dr",
+   "src": "B1B0:3743",
+   "carry": "exact",
+   "long": "Door"
+  },
+  {
+   "off": 3944,
+   "budget": 23,
+   "en": "A double auto door.",
+   "src": "B1B0:3746",
+   "carry": "exact",
+   "long": "It's an automatic double door."
+  },
+  {
+   "off": 3967,
+   "budget": 53,
+   "en": "I can just see inside. It looks warm￥in the hospital.",
+   "src": "B1B0:3769",
+   "carry": "candidate_edit",
+   "en_candidate": "The inside shows faintly.￥Warm within.",
+   "sim": 0.94,
+   "note": "re-adapted 2026-09-30: new PS1 long; 病院の中"
+  },
+  {
+   "off": 4020,
+   "budget": 7,
+   "en": "Check",
+   "src": "B1B0:3816",
+   "carry": "exact",
+   "long": "Investigate"
+  },
+  {
+   "off": 4027,
+   "budget": 37,
+   "en": "Odd cries come from the building.",
+   "src": "B1B0:3823",
+   "carry": "exact",
+   "long": "I hear strange animal cries from￥inside."
+  },
+  {
+   "off": 4064,
+   "budget": 33,
+   "en": "Wire mesh over windows and gaps.",
+   "src": "B1B0:3860",
+   "carry": "exact",
+   "long": "Wire mesh covers the windows and￥gaps."
+  },
+  {
+   "off": 4097,
+   "budget": 29,
+   "en": "Stout wire mesh.",
+   "src": "B1B0:3893",
+   "carry": "exact",
+   "long": "There's sturdy wire mesh over them."
+  },
+  {
+   "off": 4126,
+   "budget": 49,
+   "en": "We'd find out more by going inside.",
+   "src": "B1B0:3922",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4175,
+   "budget": 49,
+   "en": "Small-animal droppings all￥over the road.",
+   "src": "B1B0:3969",
+   "carry": "candidate_ok",
+   "en_candidate": "Small-animal droppings all￥over the road.",
+   "sim": 0.95,
+   "long": "The street is covered in droppings￥and urine from small animals."
+  },
+  {
+   "off": 4224,
+   "budget": 57,
+   "en": "I don't see anyone. A lonely place￥for a hospital.",
+   "src": "B1B0:4012",
+   "carry": "exact"
+  },
+  {
+   "off": 4281,
+   "budget": 65,
+   "en": "It doesn't look quite like the neon￥sign in that memory.",
+   "src": "B1B0:4069",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4346,
+   "budget": 31,
+   "en": "Is this the only neon?",
+   "src": "B1B0:4132",
+   "carry": "exact",
+   "long": "Is this the only neon sign around?"
+  },
+  {
+   "off": 4377,
+   "budget": 71,
+   "en": "Odd?￥Not infrared. An old pressure￥sensor, it seems.",
+   "src": "B1B0:4163",
+   "carry": "rebroken",
+   "long": "Strange. The door seems to use an￥old pressure sensor instead of￥infrared.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4448,
+   "budget": 47,
+   "en": "So it's open for business,￥and boldly so.",
+   "src": "B1B0:4232",
+   "carry": "rebroken",
+   "long": "So they're openly doing business.￥Pretty bold.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4495,
+   "budget": 45,
+   "en": "Not locked.￥It opens as you near it.",
+   "src": "B1B0:4277",
+   "carry": "exact",
+   "long": "It's unlocked. It will open when we￥approach."
+  },
+  {
+   "off": 4540,
+   "budget": 11,
+   "en": "Smell",
+   "src": "B1B0:4322",
+   "carry": "exact"
+  },
+  {
+   "off": 4551,
+   "budget": 69,
+   "en": "It smells more like animal waste￥than a hospital.",
+   "src": "B1B0:4333",
+   "carry": "candidate_ok",
+   "en_candidate": "It smells more like animal waste￥than a hospital.",
+   "sim": 0.95,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 4620,
+   "budget": 63,
+   "en": "We won't know until we go inside. Be￥careful, Gillian.",
+   "src": "B1B0:4394",
+   "carry": "exact"
+  },
+  {
+   "off": 4683,
+   "budget": 19,
+   "en": "It does reek...",
+   "src": "B1B0:4457",
+   "carry": "exact"
+  },
+  {
+   "off": 4702,
+   "budget": 41,
+   "en": "Yes,￥this is an animal smell.",
+   "src": "B1B0:4476",
+   "carry": "exact",
+   "long": "Yes. It does appear to be an animal￥smell."
+  },
+  {
+   "off": 4743,
+   "budget": 13,
+   "en": "......",
+   "src": "B1B0:4517",
+   "carry": "exact"
+  },
+  {
+   "off": 4756,
+   "budget": 37,
+   "en": "My odor sensor can't identify it.",
+   "src": "B1B0:4530",
+   "carry": "exact"
+  },
+  {
+   "off": 4793,
+   "budget": 5,
+   "en": "Item",
+   "src": "B1B0:4567",
+   "carry": "exact"
+  },
+  {
+   "off": 4798,
+   "budget": 7,
+   "en": "Lookω",
+   "src": "B1B0:2990",
+   "carry": "candidate_edit",
+   "en_candidate": "Look",
+   "sim": 0.8,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label"
+  },
+  {
+   "off": 4805,
+   "budget": 9,
+   "en": "Investigateω",
+   "src": "B1B0:3816",
+   "carry": "candidate_edit",
+   "en_candidate": "Check",
+   "sim": 0.86,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label; re-adapted 2026-09-30: PS1 label (long 'Investigate') + ω kept after it"
+  },
+  {
+   "off": 4814,
+   "budget": 15,
+   "en": "Use Metal Gear",
+   "src": "B1B0:4572",
+   "carry": "exact"
+  },
+  {
+   "off": 4829,
+   "budget": 13,
+   "en": "Videophone",
+   "src": "B1B0:4587",
+   "carry": "exact"
+  },
+  {
+   "off": 4842,
+   "budget": 33,
+   "en": "Let's investigate inside first.",
+   "src": "B1B0:4600",
+   "carry": "exact"
+  },
+  {
+   "off": 4875,
+   "budget": 31,
+   "en": "Can the videophone wait?",
+   "src": "B1B0:4633",
+   "carry": "exact"
+  },
+  {
+   "off": 4906,
+   "budget": 11,
+   "en": "Save",
+   "src": "B1B0:4664",
+   "carry": "exact"
+  },
+  {
+   "off": 4917,
+   "budget": 37,
+   "en": "I'll save our progress so far.",
+   "src": "B1B0:4675",
+   "carry": "exact"
+  },
+  {
+   "off": 4954,
+   "budget": 45,
+   "en": "Gillian, we can't turn back now.",
+   "src": "B1B0:4712",
+   "carry": "rebroken",
+   "long": "We've come this far, Gillian. We￥shouldn't leave now.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4999,
+   "budget": 31,
+   "en": "Let's get to the bottom of it.",
+   "src": "B1B0:4755",
+   "carry": "exact",
+   "long": "Let's find out what this hospital￥really is."
+  },
+  {
+   "off": 5030,
+   "budget": 33,
+   "en": "Let's ask the patients here.",
+   "src": "B1B0:4786",
+   "carry": "exact",
+   "long": "Let's talk to the hospital's￥visitors."
+  },
+  {
+   "off": 5063,
+   "budget": 41,
+   "en": "Why not show them Little￥John's memory?",
+   "src": "B1B0:4819",
+   "carry": "exact",
+   "long": "Why not show them Little John's￥memory?"
+  },
+  {
+   "off": 5104,
+   "budget": 27,
+   "en": "Let's find reception.",
+   "src": "B1B0:4860",
+   "carry": "exact"
+  },
+  {
+   "off": 5131,
+   "budget": 45,
+   "en": "In the hospital.￥...The front desk.",
+   "src": "B1B0:4887",
+   "carry": "exact",
+   "long": "We're inside the hospital. This￥looks like reception."
+  },
+  {
+   "off": 5176,
+   "budget": 9,
+   "en": "Go out",
+   "src": "B1B0:4932",
+   "carry": "exact"
+  },
+  {
+   "off": 5185,
+   "budget": 5,
+   "en": "Room",
+   "src": "B1B0:4941",
+   "carry": "exact",
+   "long": "Inside"
+  },
+  {
+   "off": 5190,
+   "budget": 35,
+   "en": "This space seems a waiting room.",
+   "src": "B1B0:4946",
+   "carry": "exact",
+   "long": "This appears to be the waiting room."
+  },
+  {
+   "off": 5225,
+   "budget": 33,
+   "en": "Smaller than I thought.",
+   "src": "B1B0:4981",
+   "carry": "exact",
+   "long": "The hospital seems smaller than I￥expected."
+  },
+  {
+   "off": 5258,
+   "budget": 13,
+   "en": "Passersby",
+   "src": "B1B0:5014",
+   "carry": "exact"
+  },
+  {
+   "off": 5271,
+   "budget": 35,
+   "en": "Hm? They all hold small animals.",
+   "src": "B1B0:5027",
+   "carry": "candidate_ok",
+   "en_candidate": "Hm? They all hold small animals.",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing",
+   "long": "Huh? Everyone's holding a small￥animal."
+  },
+  {
+   "off": 5306,
+   "budget": 61,
+   "en": "All with small animals.￥They look quite well off.",
+   "src": "B1B0:5062",
+   "carry": "exact",
+   "long": "They all have small animals with￥them. They look quite wealthy."
+  },
+  {
+   "off": 5367,
+   "budget": 5,
+   "en": "Desk",
+   "src": "B1B0:5123",
+   "carry": "exact",
+   "long": "Reception"
+  },
+  {
+   "off": 5372,
+   "budget": 55,
+   "en": "There's a receptionist registering￥patients.",
+   "src": "B1B0:5128",
+   "carry": "exact"
+  },
+  {
+   "off": 5427,
+   "budget": 27,
+   "en": "Insurance covers it...",
+   "src": "B1B0:5183",
+   "carry": "exact",
+   "long": "Looks like they take insurance."
+  },
+  {
+   "off": 5454,
+   "budget": 31,
+   "en": "Not a black clinic, then...",
+   "src": "B1B0:5210",
+   "carry": "exact",
+   "long": "This doesn't seem to be an illegal￥clinic."
+  },
+  {
+   "off": 5485,
+   "budget": 31,
+   "en": "Taking consultations.",
+   "src": "B1B0:5241",
+   "carry": "exact",
+   "long": "She appears to be checking in￥patients."
+  },
+  {
+   "off": 5516,
+   "budget": 7,
+   "en": "Animal",
+   "src": "B1B0:5272",
+   "carry": "exact",
+   "long": "Small animals"
+  },
+  {
+   "off": 5523,
+   "budget": 7,
+   "en": "Parrot",
+   "src": "B1B0:5279",
+   "carry": "exact"
+  },
+  {
+   "off": 5530,
+   "budget": 63,
+   "en": "A ＠黄'big-capacity Parrot'＠白￥with expanded word memory.",
+   "src": "B1B0:5286",
+   "carry": "rebroken",
+   "long": "It's a ＠黄High-Capacity Parrot＠白, bred￥to remember more words.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5593,
+   "budget": 65,
+   "en": "A breed used for playback when￥learning English and such.",
+   "src": "B1B0:5347",
+   "carry": "rebroken",
+   "long": "They were often used to repeat￥English lessons and other material￥people wanted to memorize.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5658,
+   "budget": 69,
+   "en": "It's saying something very￥private.￥Come to have its memory wiped.",
+   "src": "B1B0:5410",
+   "carry": "candidate_ok",
+   "en_candidate": "It's saying something very￥private.￥Come to have its memory wiped.",
+   "sim": 0.99,
+   "long": "It's saying some very personal￥things. They probably brought it to￥have its memory erased."
+  },
+  {
+   "off": 5727,
+   "budget": 9,
+   "en": "Penguin",
+   "src": "B1B0:5483",
+   "carry": "exact"
+  },
+  {
+   "off": 5736,
+   "budget": 101,
+   "en": "A Magellantic Kobe Penguin. A￥synthetic breed developed by Aborits￥in 2033 for temperate regions.",
+   "src": "B1B0:5492",
+   "carry": "candidate_ok",
+   "en_candidate": "A Magellantic Kobe Penguin. A￥synthetic breed developed by Aborits￥in 2033 for temperate regions.",
+   "sim": 0.99
+  },
+  {
+   "off": 5837,
+   "budget": 49,
+   "en": "Even in this climate it hops￥about briskly.",
+   "src": "B1B0:5595",
+   "carry": "exact",
+   "long": "It's hopping around happily, even in￥this climate."
+  },
+  {
+   "off": 5886,
+   "budget": 39,
+   "en": "Was that a somersault kick?",
+   "src": "B1B0:5644",
+   "carry": "exact"
+  },
+  {
+   "off": 5925,
+   "budget": 11,
+   "en": "What?",
+   "src": "B1B0:5683",
+   "carry": "exact"
+  },
+  {
+   "off": 5936,
+   "budget": 21,
+   "en": "Nothing.",
+   "src": "B1B0:5694",
+   "carry": "exact"
+  },
+  {
+   "off": 5957,
+   "budget": 3,
+   "en": "Do",
+   "src": "B1B0:5715",
+   "carry": "exact",
+   "long": "Dog"
+  },
+  {
+   "off": 5960,
+   "budget": 49,
+   "en": "It's a ＠黄Humming Dog＠白 with modified￥vocal cords.",
+   "src": "B1B0:5718",
+   "carry": "candidate_ok",
+   "en_candidate": "A ＠黄'humming dog'＠白,￥vocal cords remade.",
+   "sim": 0.98,
+   "note": "part of the PS1 line; re-adapted 2026-09-30: new PS1 long"
+  },
+  {
+   "off": 6009,
+   "budget": 69,
+   "en": "Famously that remaking ended￥'dog noise pollution'.",
+   "src": "B1B0:5769",
+   "carry": "rebroken",
+   "long": "Those modified vocal cords famously￥solved the problem of noise from￥dogs.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6078,
+   "budget": 49,
+   "en": "As expected of a Humming Dog, it's￥quiet.",
+   "src": "B1B0:5836",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6127,
+   "budget": 3,
+   "en": "Ca",
+   "src": "B1B0:5883",
+   "carry": "exact",
+   "long": "Cat"
+  },
+  {
+   "off": 6130,
+   "budget": 103,
+   "en": "A ＠黄'pochette pet'＠白.￥A pouched synthetic that was all￥the rage last year as bag and pet.",
+   "src": "B1B0:5886",
+   "carry": "exact",
+   "long": "A ＠黄Purse Pet＠白. These synthetic￥marsupials doubled as handbags and￥pets, and were hugely popular with￥women last year."
+  },
+  {
+   "off": 6233,
+   "budget": 35,
+   "en": "This must be the feline variety.",
+   "src": "B1B0:5989",
+   "carry": "exact"
+  },
+  {
+   "off": 6268,
+   "budget": 79,
+   "en": "It seems hurt inside the pouch.￥A common thing with pochette pets.",
+   "src": "B1B0:6024",
+   "carry": "rebroken",
+   "long": "It seems to have an injury inside￥its pouch. That's common with Purse￥Pets.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6347,
+   "budget": 47,
+   "en": "Women's cosmetics seem to injure the￥inside of their pouches.",
+   "src": "B1B0:6101",
+   "carry": "candidate_edit",
+   "en_candidate": "Women's cosmetics wound the belly.",
+   "sim": 0.9,
+   "note": "re-adapted 2026-09-30: new PS1 long"
+  },
+  {
+   "off": 6394,
+   "budget": 59,
+   "en": "Poor thing. Women go crazy over￥cosmetics.",
+   "src": "B1B0:6142",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6453,
+   "budget": 53,
+   "en": "Talk like that hurts women.",
+   "src": "B1B0:6199",
+   "carry": "rebroken",
+   "long": "Remarks like that are what hurt￥women's feelings.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6506,
+   "budget": 25,
+   "en": "The front desk is ahead.",
+   "src": "B1B0:6250",
+   "carry": "exact",
+   "long": "Reception is straight ahead."
+  },
+  {
+   "off": 6531,
+   "budget": 27,
+   "en": "Consulting room beyond.",
+   "src": "B1B0:6275",
+   "carry": "exact",
+   "long": "The examination room seems to be￥further back."
+  },
+  {
+   "off": 6558,
+   "budget": 63,
+   "en": "All carry IDs.￥Proper Neo Kobe citizens.",
+   "src": "B1B0:6302",
+   "carry": "exact",
+   "long": "They all have IDs. They appear to be￥registered Neo Kobe citizens."
+  },
+  {
+   "off": 6621,
+   "budget": 25,
+   "en": "Nobody looks suspicious.",
+   "src": "B1B0:6365",
+   "carry": "exact"
+  },
+  {
+   "off": 6646,
+   "budget": 63,
+   "en": "The animals wear collars and tags.￥They seem to be pets.",
+   "src": "B1B0:6390",
+   "carry": "candidate_ok",
+   "en_candidate": "The animals wear collars and tags.￥They seem to be pets.",
+   "sim": 0.92,
+   "long": "The animals have collars and￥registration tags. They seem to be￥pets."
+  },
+  {
+   "off": 6709,
+   "budget": 89,
+   "en": "The sign says aggressive pets must be￥kept on a chain or brought in a cage.",
+   "src": "B1B0:6502",
+   "carry": "candidate_edit",
+   "en_candidate": "or be brought in a cage.",
+   "sim": 0.71,
+   "note": "the PS1 line is part of this one; re-adapted 2026-09-30: PS1 pair B1B0:6453+6502 merged; 鎖で繋ぐ (chain)"
+  },
+  {
+   "off": 6798,
+   "budget": 51,
+   "en": "Notices on pet insurance and￥inoculations.",
+   "src": "B1B0:6551",
+   "carry": "rebroken",
+   "long": "There are notices about pet￥insurance and vaccinations.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6849,
+   "budget": 89,
+   "en": "＠赤It's your fault! You barely earn a￥living! ＠水Then get out, you airhead!",
+   "src": "B1B0:6600",
+   "carry": "candidate_ok",
+   "en_candidate": "＠赤It's your fault! You barely earn a￥living! ＠水Then get out, you airhead!",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 6938,
+   "budget": 53,
+   "en": "Its owners don't seem to have a￥happy marriage.",
+   "src": "B1B0:6685",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6991,
+   "budget": 47,
+   "en": "A parrot with too good a￥memory is trouble.",
+   "src": "B1B0:6736",
+   "carry": "rebroken",
+   "long": "A parrot with too good a memory can￥be trouble.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7038,
+   "budget": 75,
+   "en": "＠水Ha! Leave me if you want. No other￥man would have you!",
+   "src": "B1B0:6781",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7113,
+   "budget": 67,
+   "en": "＠赤You wouldn't know, but I was￥quite the thing when young!!",
+   "src": "B1B0:6854",
+   "carry": "exact",
+   "long": "＠赤You don't know this, but I got￥plenty of action when I was young!"
+  },
+  {
+   "off": 7180,
+   "budget": 39,
+   "en": "(Really? That woman with the long￥face?)",
+   "src": "B1B0:6921",
+   "carry": "candidate_ok",
+   "en_candidate": "(Really? That woman with the long￥face?)",
+   "sim": 0.93,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 7219,
+   "budget": 59,
+   "en": "＠赤I can't live with you!!￥Separate rooms, separate!!",
+   "src": "B1B0:6966",
+   "carry": "rebroken",
+   "long": "＠赤I can't live with you! I'm leaving!￥We're separating!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7278,
+   "budget": 55,
+   "en": "(Don't say separate so.￥I'm separated myself...)",
+   "src": "B1B0:7023",
+   "carry": "candidate_ok",
+   "en_candidate": "(Don't say separate so.￥I'm separated myself...)",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "(Stop going on about separation. I'm￥separated, too.)"
+  },
+  {
+   "off": 7333,
+   "budget": 5,
+   "en": "Ask",
+   "src": "B1B0:7076",
+   "carry": "exact"
+  },
+  {
+   "off": 7338,
+   "budget": 13,
+   "en": "Snatchers",
+   "src": "B1B0:7081",
+   "carry": "exact"
+  },
+  {
+   "off": 7351,
+   "budget": 47,
+   "en": "Heard talk of Snatchers about￥here?",
+   "src": "B1B0:7094",
+   "carry": "rebroken",
+   "long": "Heard any rumors about Snatchers￥around here?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7398,
+   "budget": 47,
+   "en": "We're safe. We have a dog.",
+   "src": "B1B0:7139",
+   "carry": "candidate_edit",
+   "en_candidate": "We're safe. We have a dog. This￥hospital should be safe, too.￥Snatchers hate dogs, don't they?",
+   "sim": 0.59,
+   "note": "part of the PS1 line; the PS1 line's first part; the rest is the next record; re-adapted 2026-09-30: fragment 1/2 of B1B0:7139"
+  },
+  {
+   "off": 7445,
+   "budget": 63,
+   "en": "This hospital should be safe, too.￥Snatchers hate dogs, don't they?",
+   "src": "B1B0:7139",
+   "carry": "candidate_edit",
+   "en_candidate": "We're safe. We have a dog. This￥hospital should be safe, too.￥Snatchers hate dogs, don't they?",
+   "sim": 0.73,
+   "note": "part of the PS1 line; re-adapted 2026-09-30: fragment 2/2 of B1B0:7139"
+  },
+  {
+   "off": 7508,
+   "budget": 63,
+   "en": "Unproven, but animals with a￥keen nose can tell, they say.",
+   "src": "B1B0:7246",
+   "carry": "exact",
+   "long": "It's unconfirmed, but animals with a￥keen sense of smell can supposedly￥tell them apart."
+  },
+  {
+   "off": 7571,
+   "budget": 59,
+   "en": "That's right. I hear that's why more￥households are getting pets lately.",
+   "src": "B1B0:7309",
+   "carry": "candidate_edit",
+   "en_candidate": "Right.￥So more homes keep pets, they say.",
+   "sim": 0.96,
+   "note": "re-adapted 2026-09-30: new PS1 long + 最近"
+  },
+  {
+   "off": 7630,
+   "budget": 53,
+   "en": "Snatchers? Do those things really￥exist?",
+   "src": "B1B0:7362",
+   "carry": "exact"
+  },
+  {
+   "off": 7683,
+   "budget": 51,
+   "en": "They won't show up￥in front of animals?",
+   "src": "B1B0:7415",
+   "carry": "exact",
+   "long": "We're safe, aren't we? They wouldn't￥show themselves around animals."
+  },
+  {
+   "off": 7734,
+   "budget": 15,
+   "en": "OLEEN Hospital",
+   "src": "B1B0:7466",
+   "carry": "exact"
+  },
+  {
+   "off": 7749,
+   "budget": 75,
+   "en": "Excuse me. Do you know anything￥about OLEEN Hospital?",
+   "src": "B1B0:7481",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7824,
+   "budget": 65,
+   "en": "OLEEN? This is Oleen Hospital. Isn't￥that what you mean?",
+   "src": "B1B0:7554",
+   "carry": "exact"
+  },
+  {
+   "off": 7889,
+   "budget": 47,
+   "en": "OLEEN? That's not here.",
+   "src": "B1B0:7619",
+   "carry": "exact"
+  },
+  {
+   "off": 7936,
+   "budget": 37,
+   "en": "Hm... some other hospital?",
+   "src": "B1B0:7666",
+   "carry": "exact",
+   "long": "I don't know. Some other hospital,￥perhaps?"
+  },
+  {
+   "off": 7973,
+   "budget": 11,
+   "en": "Its line",
+   "src": "B1B0:7703",
+   "carry": "exact",
+   "long": "Its specialty"
+  },
+  {
+   "off": 7984,
+   "budget": 25,
+   "en": "What hospital is this?",
+   "src": "B1B0:7714",
+   "carry": "exact",
+   "long": "What kind of hospital is this?"
+  },
+  {
+   "off": 8009,
+   "budget": 89,
+   "en": "Oh, you came not knowing?￥This is a pet hospital.￥Sorry, but robots won't do.",
+   "src": "B1B0:7739",
+   "carry": "exact",
+   "long": "You came here without knowing? It's￥a pet hospital. Sorry, I don't think￥they treat robots."
+  },
+  {
+   "off": 8098,
+   "budget": 39,
+   "en": "I am not ill. I am perfectly normal!",
+   "src": "B1B0:7828",
+   "carry": "rebroken",
+   "long": "I'm not sick! I'm functioning￥normally!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8137,
+   "budget": 75,
+   "en": "The doctor here has a fine name.￥Good vets are scarce of late.",
+   "src": "B1B0:7865",
+   "carry": "rebroken",
+   "long": "The doctor here has an excellent￥reputation. Good vets are hard to￥find these days.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8212,
+   "budget": 87,
+   "en": "No gene work direct, but the￥treatment is sound.￥An Aborits service shop as well.",
+   "src": "B1B0:7938",
+   "carry": "exact",
+   "long": "They don't do genetic modifications￥here, but you can trust their￥treatment. They're an Aborits￥service center, too."
+  },
+  {
+   "off": 8299,
+   "budget": 47,
+   "en": "The hospital is also certified by￥the Bioethics Oversight Association.",
+   "src": "B1B0:8025",
+   "carry": "candidate_ok",
+   "en_candidate": "Certified by the Bioethics￥Watch too.",
+   "sim": 0.98,
+   "note": "the PS1 line is part of this one; re-adapted 2026-09-30: new PS1 long"
+  },
+  {
+   "off": 8346,
+   "budget": 11,
+   "en": "The doctor",
+   "src": "B1B0:8068",
+   "carry": "exact",
+   "long": "Hospital doctor"
+  },
+  {
+   "off": 8357,
+   "budget": 25,
+   "en": "What's the doctor like?",
+   "src": "B1B0:8079",
+   "carry": "exact",
+   "long": "What's the doctor here like?"
+  },
+  {
+   "off": 8382,
+   "budget": 93,
+   "en": "A licensed doctor with gene-work￥licence. Only here do they see￥these ones unbooked.",
+   "src": "B1B0:8104",
+   "carry": "rebroken",
+   "long": "He's a certified doctor with a￥genetic engineering license. This is￥about the only place that sees our￥pets without an appointment.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 8475,
+   "budget": 27,
+   "en": "A licensed doctor, then.",
+   "src": "B1B0:8193",
+   "carry": "exact",
+   "long": "A certified, licensed doctor."
+  },
+  {
+   "off": 8502,
+   "budget": 49,
+   "en": "A fine doctor, fond of animals.￥Sound too...",
+   "src": "B1B0:8220",
+   "carry": "exact",
+   "long": "A wonderful doctor who loves￥animals. Very skilled, too."
+  },
+  {
+   "off": 8551,
+   "budget": 33,
+   "en": "Sniff... yaah! It stinks!",
+   "src": "B1B0:8269",
+   "carry": "rebroken",
+   "long": "Sniff, sniff. Ugh! That stinks!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8584,
+   "budget": 25,
+   "en": "Huh? That reeks!",
+   "src": "B1B0:8300",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8609,
+   "budget": 23,
+   "en": "It's the animals.",
+   "src": "B1B0:8323",
+   "carry": "exact"
+  },
+  {
+   "off": 8632,
+   "budget": 31,
+   "en": "So that's what I smelled.",
+   "src": "B1B0:8346",
+   "carry": "exact"
+  },
+  {
+   "off": 8663,
+   "budget": 19,
+   "en": "A pollution.",
+   "src": "B1B0:8377",
+   "carry": "exact",
+   "long": "A kind of pollution."
+  },
+  {
+   "off": 8682,
+   "budget": 7,
+   "en": "Show",
+   "src": "B1B0:8396",
+   "carry": "exact"
+  },
+  {
+   "off": 8689,
+   "budget": 15,
+   "en": "JUNKER ID",
+   "src": "B1B0:8403",
+   "carry": "exact"
+  },
+  {
+   "off": 8704,
+   "budget": 21,
+   "en": "Are you police?",
+   "src": "B1B0:8418",
+   "carry": "exact",
+   "long": "Are you with the police?"
+  },
+  {
+   "off": 8725,
+   "budget": 29,
+   "en": "Did something really happen?",
+   "src": "B1B0:8439",
+   "carry": "exact",
+   "long": "Really, has something happened?"
+  },
+  {
+   "off": 8754,
+   "budget": 5,
+   "en": "Drop",
+   "src": "B1B0:8468",
+   "carry": "exact",
+   "long": "Candy"
+  },
+  {
+   "off": 8759,
+   "budget": 21,
+   "en": "Candy for pets?",
+   "src": "B1B0:8473",
+   "carry": "exact",
+   "long": "Is that candy for pets?"
+  },
+  {
+   "off": 8780,
+   "budget": 11,
+   "en": "Chess man",
+   "src": "B1B0:8494",
+   "carry": "exact",
+   "long": "Chess piece"
+  },
+  {
+   "off": 8791,
+   "budget": 37,
+   "en": "What's that? A new pet gum?",
+   "src": "B1B0:8505",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8828,
+   "budget": 23,
+   "en": "What about it?",
+   "src": "B1B0:8540",
+   "carry": "exact"
+  },
+  {
+   "off": 8851,
+   "budget": 13,
+   "en": "Video memory",
+   "src": "B1B0:8563",
+   "carry": "exact"
+  },
+  {
+   "off": 8864,
+   "budget": 13,
+   "en": "Little John",
+   "src": "B1B0:8576",
+   "carry": "exact"
+  },
+  {
+   "off": 8877,
+   "budget": 41,
+   "en": "I'm after the hospital with￥this neon?",
+   "src": "B1B0:8589",
+   "carry": "candidate_ok",
+   "en_candidate": "I'm after the hospital with￥this neon?",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "I'm looking for the hospital with￥this neon sign."
+  },
+  {
+   "off": 8918,
+   "budget": 63,
+   "en": "That's not our sign. It does look￥similar, though.",
+   "src": "B1B0:8632",
+   "carry": "candidate_ok",
+   "en_candidate": "That's not our sign. It does look￥similar, though.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 8981,
+   "budget": 49,
+   "en": "Really alike...￥but not the same, surely?",
+   "src": "B1B0:8699",
+   "carry": "exact",
+   "long": "It really does look similar. But￥isn't it different?"
+  },
+  {
+   "off": 9030,
+   "budget": 31,
+   "en": "A different hospital?",
+   "src": "B1B0:8748",
+   "carry": "exact",
+   "long": "Isn't that a different hospital?"
+  },
+  {
+   "off": 9061,
+   "budget": 21,
+   "en": "Animals scare me.",
+   "src": "B1B0:8779",
+   "carry": "exact",
+   "long": "I'm not good with animals."
+  },
+  {
+   "off": 9082,
+   "budget": 39,
+   "en": "Please don't. I can't handle￥animals.",
+   "src": "B1B0:8800",
+   "carry": "exact"
+  },
+  {
+   "off": 9121,
+   "budget": 49,
+   "en": "I'll pass. Animals are robots'￥natural enemies.",
+   "src": "B1B0:8839",
+   "carry": "exact"
+  },
+  {
+   "off": 9170,
+   "budget": 53,
+   "en": "The sign in the memory used the￥alphabet.",
+   "src": "B1B0:8888",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9223,
+   "budget": 33,
+   "en": "The sign here is in kanji...",
+   "src": "B1B0:8939",
+   "carry": "exact",
+   "long": "This sign uses Chinese characters."
+  },
+  {
+   "off": 9256,
+   "budget": 73,
+   "en": "The ID card proving all JUNKER￥authority. Keep it safe.",
+   "src": "B1B0:8972",
+   "carry": "rebroken",
+   "long": "This ID card certifies all your￥JUNKER authority. Take good care of￥it.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 9329,
+   "budget": 7,
+   "en": "Funds",
+   "src": "B1B0:9041",
+   "carry": "exact"
+  },
+  {
+   "off": 9336,
+   "budget": 35,
+   "en": "Money provided by JUNKER.",
+   "src": "B1B0:9048",
+   "carry": "exact"
+  },
+  {
+   "off": 9371,
+   "budget": 35,
+   "en": "Candy found in Jean's pocket.",
+   "src": "B1B0:9083",
+   "carry": "exact"
+  },
+  {
+   "off": 9406,
+   "budget": 7,
+   "en": "Proof",
+   "src": "B1B0:9118",
+   "carry": "exact",
+   "long": "Evidence"
+  },
+  {
+   "off": 9413,
+   "budget": 3,
+   "en": "Pc",
+   "src": "B1B0:9125",
+   "carry": "exact",
+   "long": "Chess piece"
+  },
+  {
+   "off": 9416,
+   "budget": 67,
+   "en": "The chess piece Gibson carried, a￥clue to Queen Hospital's name.",
+   "src": "B1B0:9128",
+   "carry": "exact"
+  },
+  {
+   "off": 9483,
+   "budget": 37,
+   "en": "The chess piece Gibson carried.",
+   "src": "B1B0:9195",
+   "carry": "exact"
+  },
+  {
+   "off": 9520,
+   "budget": 49,
+   "en": "An image recovered from Little￥John's memory.",
+   "src": "B1B0:9232",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9569,
+   "budget": 9,
+   "en": "Red Sq.",
+   "src": "B1B0:9279",
+   "carry": "exact",
+   "long": "Red Square"
+  },
+  {
+   "off": 9578,
+   "budget": 41,
+   "en": "A still photo hidden in￥the Chief's rm",
+   "src": "B1B0:9288",
+   "carry": "exact",
+   "long": "The photograph hidden in the chief's￥office."
+  },
+  {
+   "off": 9619,
+   "budget": 5,
+   "en": "Hall",
+   "src": "B1B0:9329",
+   "carry": "exact",
+   "long": "Temple"
+  },
+  {
+   "off": 9624,
+   "budget": 49,
+   "en": "Temple painting from a￥Queen Hospital room.",
+   "src": "B1B0:9334",
+   "carry": "rebroken",
+   "long": "The cathedral picture that hung in a￥room at Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9673,
+   "budget": 67,
+   "en": "Its built-in chip contains all of￥your data, Gillian.",
+   "src": "B1B0:9381",
+   "carry": "exact"
+  },
+  {
+   "off": 9740,
+   "budget": 51,
+   "en": "Case expenses are covered￥as work requires.",
+   "src": "B1B0:9448",
+   "carry": "rebroken",
+   "long": "In principle, there's no limit on￥necessary investigation expenses.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9791,
+   "budget": 47,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "src": "B1B0:9497",
+   "carry": "rebroken",
+   "long": "The candy Jean handed out to￥children at the orphanage.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9838,
+   "budget": 59,
+   "en": "So the piece pointed to the name￥of Queen Hospital.",
+   "src": "B1B0:9542",
+   "carry": "rebroken",
+   "long": "The piece seems to have been a clue￥to the name Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9897,
+   "budget": 57,
+   "en": "A wooden chess piece. The queen.",
+   "src": "B1B0:9599",
+   "carry": "exact"
+  },
+  {
+   "off": 9954,
+   "budget": 53,
+   "en": "An image of the QUEEN Hospital neon￥sign.",
+   "src": "B1B0:9656",
+   "carry": "candidate_ok",
+   "en_candidate": "An image of the QUEEN Hospital neon￥sign.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 10007,
+   "budget": 67,
+   "en": "It reads Hospital OLEEN. It must be￥a hospital's neon sign.",
+   "src": "B1B0:9709",
+   "carry": "candidate_ok",
+   "en_candidate": "It reads Hospital OLEEN. It must be￥a hospital's neon sign.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 10074,
+   "budget": 65,
+   "en": "A photograph of Red Square in Moscow￥before the Catastrophe.",
+   "src": "B1B0:9776",
+   "carry": "exact"
+  },
+  {
+   "off": 10139,
+   "budget": 69,
+   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "src": "B1B0:9841",
+   "carry": "rebroken",
+   "long": "St. Basil's Cathedral, a famous￥cathedral in Moscow before the￥Catastrophe.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10210,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

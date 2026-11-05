@@ -1,0 +1,81 @@
+{
+ "scene": "B010",
+ "note": "JUNKER HQ, Act 1 opening (guides/ps1.txt JUNKER HEADQUARTERS). All conversation, so the route is sweeps. Inside HQ `Go out` means 'back to the room list' (it is a persistent menu that cross cannot close - the harness skips ahead into it), so the tour is a sweep OF `Go out` with each room's verbs swept on arrival. The Chief's room first: his conversation hands over the JUNKER ID and cash; Mechanics gives Metal Gear and the Blaster; Gibson's call arrives after that.",
+ "source": "guides/ps1.txt JUNKER HEADQUARTERS (Act 1)",
+ "actions": [
+  {
+   "save": "B010_start"
+  },
+  {
+   "sweep": [
+    "Go inside",
+    "Talk",
+    "Ask",
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2,
+   "why": "ENTER once, TALK at OPERATOR, ASK about JUNKERS/NEO KOBE/MIKA, ENTER again"
+  },
+  {
+   "path": [
+    "Go inside|Go out",
+    "Mechanic room"
+   ],
+   "why": "pick anything but the Chief's office: Mika reroutes you there (three more lines)"
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Talk",
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2,
+   "why": "ASK about JUNKERS, SNATCHERS, JUNKER AUTHORITY, NAVIGATORS, DUTIES, STAFF - the ID and cash"
+  },
+  {
+   "save": "B010_chief"
+  },
+  {
+   "sweep": [
+    "Go out"
+   ],
+   "each": [
+    "Talk",
+    "Ask",
+    "Look",
+    "Investigate",
+    "Listen"
+   ],
+   "each_rounds": 2,
+   "rounds": 3,
+   "why": "the grand tour: every room, every conversation, three times over - Harry, Metal Gear, the Blaster, Gibson's call"
+  },
+  {
+   "save": "B010_toured"
+  },
+  {
+   "path": [
+    "Go out",
+    "Front desk|Exit Tricycle|Exit"
+   ],
+   "optional": true,
+   "why": "back to the front"
+  },
+  {
+   "path": [
+    "Board Tricycle|Exit Tricycle"
+   ],
+   "optional": true,
+   "why": "ENTER TURBOCYCLE"
+  },
+  {
+   "path": [
+    "Factory ruins|Ruins"
+   ],
+   "optional": true,
+   "why": "pick FACTORY RUINS"
+  }
+ ]
+}

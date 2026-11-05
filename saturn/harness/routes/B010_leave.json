@@ -1,0 +1,75 @@
+{
+ "scene": "B010",
+ "note": "From B010_toured (the Mechanic room on the second visit: Look/Check/Ask/Item, no Go out until Metal Gear's kit is handled under Item). Sweep Item too, tour every room once more with Item in the list, then the front, the tricycle and the factory ruins (B020 loads). 2026-09-16: Item last - Item > Show > Funds then Ask leaves the topic list dead (the game's, payload off too; work/saturn/states/stall_asklist_showfunds, probe_asklist.py).",
+ "actions": [
+  {
+   "sweep": [
+    "Ask",
+    "Talk",
+    "Look",
+    "Investigate",
+    "Listen",
+    "Item"
+   ],
+   "rounds": 2
+  },
+  {
+   "save": "B010_harry"
+  },
+  {
+   "sweep": [
+    "Go out"
+   ],
+   "each": [
+    "Talk",
+    "Ask",
+    "Item",
+    "Look",
+    "Investigate",
+    "Listen"
+   ],
+   "each_rounds": 2,
+   "rounds": 2
+  },
+  {
+   "save": "B010_toured2"
+  },
+  {
+   "path": [
+    "Go out",
+    "Front|Exit Tricycle|Exit"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Talk",
+    "Ask",
+    "Look",
+    "Investigate",
+    "Item"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Board Tricycle|Exit Tricycle"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Factory ruins|Ruins"
+   ],
+   "optional": true
+  },
+  {
+   "idle": 1500
+  },
+  {
+   "wait_menu": true,
+   "patience": 16000,
+   "hold": 60
+  }
+ ]
+}

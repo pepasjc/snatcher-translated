@@ -1,0 +1,29 @@
+{
+ "file": "DATA.BIN[54]",
+ "entry": 54,
+ "text_base": 2099,
+ "twins": [
+  "B210"
+ ],
+ "strings": [
+  {
+   "off": 2099,
+   "budget": 3,
+   "en": "",
+   "src": "B210:1977",
+   "carry": "exact"
+  },
+  {
+   "off": 2102,
+   "budget": 2,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 2106,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

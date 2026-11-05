@@ -1,0 +1,142 @@
+{
+ "scene": "B230",
+ "fight": "corners",
+ "note": "JUNKER HQ sealed (guides/ps1.txt Act 2 JUNKER HEADQUARTERS, last visit): every room once, then the Chief's office - Look at the desk, Look/Check the stain, Find > Ceiling - a one-shot fight, every room again, Hall, Front, the final Act 2 fight (the snatcher holds Mika; headshots at the corners), then the Act 3 debrief (B240: ultraviolet, underpass, sneeze, Snow-9, Moscow) and the church.",
+ "actions": [
+  {
+   "save": "B230_start"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Search",
+    "Motion detector"
+   ],
+   "rounds": 1
+  },
+  {
+   "sweep": [
+    "Move"
+   ],
+   "each": [
+    "Look",
+    "Investigate",
+    "Search",
+    "Motion detector"
+   ],
+   "each_rounds": 1,
+   "rounds": 1,
+   "avoid": [
+    "Hallway"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Chief's room"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Look",
+    "Desk"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Look",
+    "Stain"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Investigate",
+    "Stain"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Search",
+    "Ceiling"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B230_ceiling"
+  },
+  {
+   "sweep": [
+    "Move"
+   ],
+   "each": [
+    "Look",
+    "Search",
+    "Motion detector"
+   ],
+   "each_rounds": 1,
+   "rounds": 1,
+   "avoid": [
+    "Chief's room",
+    "Chief's room"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Hallway"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Move",
+    "Front desk"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B230_front"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Search",
+    "Motion detector",
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Continue"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B240_start"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 2
+  }
+ ]
+}

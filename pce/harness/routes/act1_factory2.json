@@ -1,0 +1,22 @@
+[
+ {"choose": "Move"},
+ {"read": 6000},
+ {"items": true},
+ {"sweep": "Look", "rounds": 2},
+ {"read": 4000},
+ {"sweep": "Investigate", "rounds": 2},
+ {"read": 4000},
+ {"sweep": "Listen", "rounds": 1},
+ {"read": 3000},
+ {"items": true},
+ {"save": "factory_in1"},
+ {"choose": "Move"},
+ {"read": 6000},
+ {"items": true},
+ {"sweep": "Look", "rounds": 2},
+ {"read": 4000},
+ {"sweep": "Investigate", "rounds": 2},
+ {"read": 4000},
+ {"items": true},
+ {"save": "factory_in2"}
+]

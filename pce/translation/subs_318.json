@@ -1,0 +1,663 @@
+{
+ "1a": {
+  "speaker": "Gillian",
+  "en": "I'm Gillian Seed. I've been assigned to JUNKER as of today.",
+  "ps1": [
+   "B010_000"
+  ],
+  "cards": [
+   "I'm Gillian Seed.|I've been assigned|to JUNKER as of|today."
+  ],
+  "layout": "face"
+ },
+ "1b": {
+  "speaker": "Mika",
+  "en": "Mr. Gillian Seed. My apologies.",
+  "ps1": [
+   "B010_001"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Mr. Gillian Seed. My|apologies."
+  ]
+ },
+ "1c": {
+  "speaker": "Mika",
+  "en": "I'm Mika Slayton, JUNKER HQ's receptionist and operator. Nice to meet you.",
+  "ps1": [
+   "B010_035",
+   "B010_035b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I'm Mika Slayton, JUNKER|HQ's receptionist and operator.",
+   "Nice to meet you."
+  ],
+  "turns": [
+   4.94
+  ]
+ },
+ "1d": {
+  "speaker": "Mika",
+  "en": "Mr. Seed.",
+  "ps1": [
+   "B010_002"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Mr. Seed."
+  ]
+ },
+ "1e": {
+  "speaker": "Gillian",
+  "en": "Just Gillian, Mika. Call me Gillian.",
+  "ps1": [
+   "B010_003"
+  ],
+  "cards": [
+   "Just Gillian, Mika.|Call me Gillian."
+  ],
+  "layout": "face"
+ },
+ "1f": {
+  "speaker": "Mika",
+  "en": "All right, Gillian. I'll open the door to HQ. I'll show you around inside.",
+  "ps1": [
+   "B010_004",
+   "B010_004b"
+  ],
+  "cards": [
+   "All right, Gillian.|I'll open the door|to HQ. I'll show|you around inside."
+  ],
+  "layout": "face"
+ },
+ "20": {
+  "speaker": "Mika",
+  "en": "Oh, right. The Chief asked me to show you around when you arrived.",
+  "ps1": [
+   "B010_005",
+   "B010_005b"
+  ],
+  "cards": [
+   "Oh, right. The|Chief asked me to|show you around|when you arrived."
+  ]
+ },
+ "21": {
+  "speaker": "Gillian",
+  "en": "The Chief?",
+  "ps1": [
+   "B010_006"
+  ],
+  "cards": [
+   "The Chief?"
+  ]
+ },
+ "22": {
+  "speaker": "Mika",
+  "en": "The head of JUNKER HQ. He's through that door.",
+  "ps1": [
+   "B010_007"
+  ],
+  "cards": [
+   "The head of JUNKER|HQ. He's through|that door."
+  ]
+ },
+ "23": {
+  "speaker": "Mika",
+  "en": "Chief, I've brought Mr. Gillian Seed.",
+  "ps1": [
+   "B010_008"
+  ],
+  "cards": [
+   "Chief, I've brought|Mr. Gillian Seed."
+  ],
+  "layout": "face"
+ },
+ "24": {
+  "speaker": "Chief",
+  "en": "Welcome, Gillian Seed. I'm Benson Cunningham, Chief of JUNKER HQ.",
+  "ps1": [
+   "B010_009",
+   "B010_009b"
+  ],
+  "cards": [
+   "Welcome, Gillian|Seed. I'm Benson|Cunningham, Chief|of JUNKER HQ."
+  ],
+  "layout": "face"
+ },
+ "25": {
+  "speaker": "Gillian",
+  "en": "I'm Gillian Seed, from the 17th Special Forces Unit.",
+  "ps1": [
+   "B010_010"
+  ],
+  "cards": [
+   "I'm Gillian Seed,|from the 17th|Special Forces Unit."
+  ],
+  "layout": "face"
+ },
+ "26": {
+  "speaker": "Chief",
+  "en": "Seed, I've heard how well you did in special military training. I want you to put those talents to work on this assignment.",
+  "ps1": [
+   "B010_011",
+   "B010_011b"
+  ],
+  "cards": [
+   "Seed, I've heard|how well you did in|special military|training.",
+   "I want you to put|those talents to|work on this|assignment."
+  ],
+  "layout": "face",
+  "turns": [
+   5.16
+  ]
+ },
+ "27": {
+  "speaker": "Chief",
+  "en": "Your file says you have amnesia. Has your memory returned?",
+  "ps1": [
+   "B010_012"
+  ],
+  "cards": [
+   "Your file says you|have amnesia. Has|your memory|returned?"
+  ],
+  "layout": "face"
+ },
+ "28": {
+  "speaker": "Gillian",
+  "en": "That's right. The military found me three years ago. I remember nothing from before that.",
+  "ps1": [
+   "B010_013",
+   "B010_013b"
+  ],
+  "cards": [
+   "That's right. The|military found me|three years ago.",
+   "I remember nothing|from before that."
+  ],
+  "layout": "face",
+  "turns": [
+   4.1
+  ]
+ },
+ "29": {
+  "speaker": "Mika",
+  "en": "You had a wife, didn't you?",
+  "ps1": [
+   "B010_014"
+  ],
+  "cards": [
+   "You had a wife,|didn't you?"
+  ],
+  "layout": "face"
+ },
+ "2a": {
+  "speaker": "Gillian",
+  "en": "Yes, but we're separated now. Neither of us has any memories. How could we make it work?",
+  "ps1": [
+   "B010_015",
+   "B010_015b",
+   "B010_015c"
+  ],
+  "cards": [
+   "Yes, but we're|separated now.|Neither of us has|any memories.",
+   "How could we make|it work?"
+  ],
+  "layout": "face",
+  "turns": [
+   6.08
+  ]
+ },
+ "2b": {
+  "speaker": "Chief",
+  "en": "I can imagine.",
+  "ps1": [
+   "B010_016"
+  ],
+  "cards": [
+   "I can imagine."
+  ],
+  "layout": "face"
+ },
+ "2c": {
+  "speaker": "Chief",
+  "en": "You should understand your assignment now.",
+  "ps1": [
+   "B010_017"
+  ],
+  "cards": [
+   "You should|understand your|assignment now."
+  ],
+  "layout": "face"
+ },
+ "2d": {
+  "speaker": "Chief",
+  "en": "This is your JUNKER card. It identifies you as a JUNKER. It grants you a JUNKER's special authority.",
+  "ps1": [
+   "B010_037",
+   "B010_037b"
+  ],
+  "cards": [
+   "This is your JUNKER|card. It identifies|you as a JUNKER.",
+   "It grants you a|JUNKER's special|authority."
+  ],
+  "layout": "face",
+  "turns": [
+   5.26
+  ]
+ },
+ "2e": {
+  "speaker": "Gillian",
+  "en": "I see. Like a police badge.",
+  "ps1": [
+   "B010_018"
+  ],
+  "cards": [
+   "I see. Like a|police badge."
+  ],
+  "layout": "face"
+ },
+ "2f": {
+  "speaker": "Chief",
+  "en": "It's not much, but here's money for your investigation expenses.",
+  "ps1": [
+   "B010_019"
+  ],
+  "cards": [
+   "It's not much, but|here's money for|your investigation|expenses."
+  ],
+  "layout": "face"
+ },
+ "30": {
+  "speaker": "Gillian",
+  "en": "Cash?",
+  "ps1": [
+   "B010_020"
+  ],
+  "cards": [
+   "Cash?"
+  ],
+  "layout": "face"
+ },
+ "31": {
+  "speaker": "Chief",
+  "en": "Cards only work in certain areas. You'll definitely need cash.",
+  "ps1": [
+   "B010_021"
+  ],
+  "cards": [
+   "Cards only work in|certain areas.|You'll definitely|need cash."
+  ],
+  "layout": "face"
+ },
+ "32": {
+  "speaker": "Gillian",
+  "en": "Sounds like a rough city.",
+  "ps1": [
+   "B010_022"
+  ],
+  "cards": [
+   "Sounds like a rough|city."
+  ],
+  "layout": "face"
+ },
+ "33": {
+  "speaker": "Chief",
+  "en": "Get your JUNKER equipment from Harry, our mechanic.",
+  "ps1": [
+   "B010_023"
+  ],
+  "cards": [
+   "Get your JUNKER|equipment from|Harry, our mechanic."
+  ],
+  "layout": "face"
+ },
+ "34": {
+  "speaker": "Mika",
+  "en": "Oh, Harry's back.",
+  "ps1": [
+   "B010_024"
+  ],
+  "cards": [
+   "Oh, Harry's back."
+  ],
+  "layout": "face"
+ },
+ "35": {
+  "speaker": "Harry",
+  "en": "Welcome. You're Gillian Seed?",
+  "ps1": [
+   "B010_025"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Welcome. You're Gillian|Seed?"
+  ]
+ },
+ "36": {
+  "speaker": "Harry",
+  "en": "Have we met somewhere?",
+  "ps1": [
+   "B010_026"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Have we met somewhere?"
+  ]
+ },
+ "37": {
+  "speaker": "Gillian",
+  "en": "No, this is the first time.",
+  "ps1": [
+   "B010_027"
+  ],
+  "cards": [
+   "No, this is the|first time."
+  ],
+  "layout": "face"
+ },
+ "38": {
+  "speaker": "Harry",
+  "en": "Then I must be imagining it.",
+  "ps1": [
+   "B010_c0f70"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Then I must be|imagining it."
+  ]
+ },
+ "39": {
+  "speaker": "Harry",
+  "en": "I know. Shall we call the Navigator I built just for you? Hey, Metal Gear!",
+  "ps1": [
+   "B010_f5_0",
+   "B010_f5_0b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "I know. Shall we call|the Navigator I built just for you?",
+   "Hey, Metal Gear!"
+  ],
+  "turns": [
+   7.18
+  ]
+ },
+ "3a": {
+  "speaker": "Harry",
+  "en": "Metal, introduce yourself.",
+  "ps1": [
+   "B010_f5_2"
+  ],
+  "cards": [
+   "Metal, introduce|yourself."
+  ],
+  "layout": "face"
+ },
+ "3b": {
+  "speaker": "Metal Gear",
+  "en": "Yes. Gillian, I'm Metal Gear Mk. II, and I'll be your support. Nice to meet you.",
+  "ps1": [
+   "B010_f5_3",
+   "B010_f5_3b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Yes.",
+   "Gillian, I'm Metal|Gear Mk. II,",
+   "and I'll be your|support. Nice to meet you."
+  ],
+  "turns": [
+   1.52,
+   3.4
+  ]
+ },
+ "3c": {
+  "speaker": "Gillian",
+  "en": "Metal Gear? Strange name.",
+  "ps1": [
+   "B010_f5_4"
+  ],
+  "cards": [
+   "Metal Gear? Strange|name."
+  ],
+  "layout": "face"
+ },
+ "3d": {
+  "speaker": "Mika",
+  "en": "He's cute.",
+  "ps1": [
+   "B010_f5_5"
+  ],
+  "cards": [
+   "He's cute."
+  ],
+  "layout": "face"
+ },
+ "3f": {
+  "speaker": "Harry",
+  "en": "He's blushing. I based his shape on Metal Gear, the machine that terrified the world at the end of the twentieth century. But this one was developed for peaceful use.",
+  "ps1": [
+   "B010_f5_6",
+   "B010_f5_7",
+   "B010_f5_7b",
+   "B010_f5_7c",
+   "B010_f5_7d"
+  ],
+  "layout": "plain",
+  "cards": [
+   "He's blushing.",
+   "I based his shape on|Metal Gear, the machine that",
+   "terrified the world at|the end of the twentieth century.",
+   "But this one was|developed for peaceful use."
+  ],
+  "turns": [
+   2.86,
+   8.96,
+   14.4
+  ]
+ },
+ "40": {
+  "speaker": "Harry",
+  "en": "Oh, right. Don't rush me. I've got it ready.",
+  "ps1": [
+   "B010_c1f83"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Oh, right. Don't rush|me. I've got it ready."
+  ]
+ },
+ "41": {
+  "speaker": "Harry",
+  "en": "This is the Blaster, a JUNKER's weapon. It has a feedback system. It responds to the speed of your reflexes. Its performance depends on who's using it.",
+  "ps1": [
+   "B010_028",
+   "B010_028b",
+   "B010_028c",
+   "B010_028d"
+  ],
+  "layout": "plain",
+  "cards": [
+   "This is the Blaster, a|JUNKER's weapon.",
+   "It has a feedback|system.",
+   "It responds to the|speed of your reflexes.",
+   "Its performance depends|on who's using it."
+  ],
+  "turns": [
+   3.38,
+   6.9,
+   11.98
+  ]
+ },
+ "42": {
+  "speaker": "Harry",
+  "en": "Go on, hold it.",
+  "ps1": [
+   "B010_029"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Go on, hold it."
+  ]
+ },
+ "43": {
+  "speaker": "Gillian",
+  "en": "It's light.",
+  "ps1": [
+   "B010_030"
+  ],
+  "layout": "plain",
+  "cards": [
+   "It's light."
+  ]
+ },
+ "44": {
+  "speaker": "Harry",
+  "en": "Isn't it? Nothing like the ray guns the military uses. Super engineering plastic, carbon fiber and ceramic. So temperature changes won't affect it. It's ergonomically designed for function and firepower. Well, do you like it?",
+  "ps1": [
+   "B010_031",
+   "B010_031b",
+   "B010_031c",
+   "B010_031d",
+   "B010_031e"
+  ],
+  "cards": [
+   "Isn't it? Nothing|like the ray guns|the military uses.",
+   "Super engineering|plastic, carbon|fiber and ceramic.",
+   "So temperature|changes won't|affect it.",
+   "It's ergonomically|designed for|function and|firepower.",
+   "Well, do you like|it?"
+  ],
+  "layout": "face",
+  "turns": [
+   4.98,
+   11.54,
+   15.6,
+   21.96
+  ]
+ },
+ "45": {
+  "speaker": "Gillian",
+  "en": "Not bad.",
+  "ps1": [
+   "B010_c4f1"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Not bad."
+  ]
+ },
+ "46": {
+  "speaker": "Metal Gear",
+  "en": "Jean Jack Gibson is calling. I'll put him through.",
+  "ps1": [
+   "B010_c4f2"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Jean Jack Gibson is|calling. I'll put him through."
+  ]
+ },
+ "47": {
+  "speaker": "Gibson",
+  "en": "JUNKER HQ, Gibson here! I've cornered a suspected Snatcher! Factory ruins, District M. Send backup now!",
+  "ps1": [
+   "B010_c4f3",
+   "B010_c4f3b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "JUNKER HQ, Gibson here!|I've cornered a suspected Snatcher!",
+   "Factory ruins, District|M. Send backup now!"
+  ],
+  "turns": [
+   7.72
+  ]
+ },
+ "48": {
+  "speaker": "Harry",
+  "en": "Gillian, we've got a case! Get to the scene!",
+  "ps1": [
+   "B010_c4f4"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Gillian, we've got a|case! Get to the scene!"
+  ]
+ },
+ "49": {
+  "speaker": "Metal Gear",
+  "en": "Let's hurry. We'll take the Tricycle to the scene.",
+  "ps1": [
+   "B010_c4f5"
+  ],
+  "cards": [
+   "Let's hurry. We'll|take the Tricycle|to the scene."
+  ],
+  "layout": "face"
+ },
+ "4a": {
+  "speaker": "Mika",
+  "en": "Be careful, Gillian.",
+  "ps1": [
+   "B010_c4f6"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Be careful, Gillian."
+  ]
+ },
+ "4b": {
+  "speaker": "Metal Gear",
+  "en": "This is the Tricycle, a vehicle for JUNKER use only. It can drive on three wheels, hover and fly at high speed. It's a VTOL, so it can take off vertically even in tight spaces.",
+  "ps1": [
+   "B010_c4f7",
+   "B010_c4f7b",
+   "B010_c4f7c",
+   "B010_c4f7d"
+  ],
+  "cards": [
+   "This is the|Tricycle, a vehicle|for JUNKER use|only.",
+   "It can drive on|three wheels, hover|and fly at high|speed.",
+   "It's a VTOL, so it|can take off|vertically even in|tight spaces."
+  ],
+  "layout": "face",
+  "turns": [
+   4.38,
+   8.76
+  ]
+ },
+ "4c": {
+  "speaker": "Gillian",
+  "en": "A flying tricycle, right? One picked me up earlier.",
+  "ps1": [
+   "B010_c4f8"
+  ],
+  "cards": [
+   "A flying tricycle,|right? One picked|me up earlier."
+  ],
+  "layout": "face"
+ },
+ "4d": {
+  "speaker": "Metal Gear",
+  "en": "We'll use this Tricycle for investigations.",
+  "ps1": [
+   "B010_c4f9"
+  ],
+  "cards": [
+   "We'll use this|Tricycle for|investigations."
+  ],
+  "layout": "face"
+ },
+ "4f": {
+  "speaker": "Metal Gear",
+  "en": "We're heading to the factory ruins.",
+  "ps1": [
+   "B010_c4f10"
+  ],
+  "cards": [
+   "We're heading to|the factory ruins."
+  ],
+  "layout": "face"
+ }
+}

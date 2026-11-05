@@ -1,0 +1,7 @@
+{"scene":"B030",
+ "note":"GitHub #12: open Gaudi's name search from the B030 bookmark so the keyboard panel (CPS_B0A0) loads from DISC, not from a bookmark's VRAM. Captures the keyboard on arrival, then types GAUDI.",
+ "actions":[{"path":["Use Gaudi","Use card"],"patience":3000},
+            {"path":["Load person file"],"patience":3000},
+            {"idle":400},
+            {"type":"GAUDI","then":"start"},
+            {"idle":300}]}

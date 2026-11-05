@@ -1,0 +1,1352 @@
+{
+ "1a": {
+  "speaker": "TV",
+  "en": "With twelve hours until the Kyoto Summit, delegates from around the world are arriving in Kyoto.",
+  "ps1": [
+   "B230_f70",
+   "B230_f70b"
+  ],
+  "cards": [
+   "With twelve hours until the|Kyoto Summit,",
+   "delegates from around the|world are arriving in Kyoto."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.5
+  ]
+ },
+ "1b": {
+  "speaker": "TV",
+  "en": "Recent polls at home and abroad show growing support for a complete quarantine of Neo Kobe, apparently driven by fears of Snatcher infiltration.",
+  "ps1": [
+   "B230_f71",
+   "B230_f71b",
+   "B230_f71c"
+  ],
+  "cards": [
+   "Recent polls at home and|abroad show growing support",
+   "for a complete quarantine|of Neo Kobe,",
+   "apparently driven by fears|of Snatcher infiltration."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.64,
+   6.8
+  ]
+ },
+ "1c": {
+  "speaker": "Mika",
+  "en": "The chief's death is confirmed, so JUNKER will soon lose its authority.",
+  "ps1": [
+   "B240_f72",
+   "B240_f72b"
+  ],
+  "cards": [
+   "The chief's death is|confirmed,",
+   "so JUNKER will soon lose|its authority."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.4
+  ]
+ },
+ "1d": {
+  "speaker": "Metal Gear",
+  "en": "The summit will decide Neo Kobe's fate in twelve hours.",
+  "ps1": [
+   "B240_f73",
+   "B240_f73b"
+  ],
+  "cards": [
+   "The summit will|decide Neo Kobe's|fate in twelve|hours."
+  ]
+ },
+ "1e": {
+  "speaker": "Mika",
+  "en": "They say a nuclear bomb will wipe out the city and its Snatchers.",
+  "ps1": [
+   "B240_f74",
+   "B240_f74b"
+  ],
+  "cards": [
+   "They say a nuclear bomb|will wipe out the city",
+   "and its Snatchers."
+  ],
+  "layout": "plain",
+  "turns": [
+   3.68
+  ]
+ },
+ "1f": {
+  "speaker": "Gillian",
+  "en": "Insane! In the 21st century?",
+  "ps1": [
+   "B240_f75"
+  ],
+  "cards": [
+   "Insane! In the 21st|century?"
+  ]
+ },
+ "20": {
+  "speaker": "Metal Gear",
+  "en": "It's not just a rumor. Every country fears the spread of Snatchers.",
+  "ps1": [
+   "B240_f76",
+   "B240_f76b"
+  ],
+  "cards": [
+   "It's not just a|rumor. Every|country fears the|spread of Snatchers."
+  ]
+ },
+ "21": {
+  "speaker": "Mika",
+  "en": "The chief was going to the summit to stop that. But now there's no hope.",
+  "ps1": [
+   "B240_f77",
+   "B240_f77b"
+  ],
+  "cards": [
+   "The chief was going|to the summit to|stop that. But now|there's no hope."
+  ]
+ },
+ "22": {
+  "speaker": "Metal Gear",
+  "en": "The government began pressuring JUNKER several months ago.",
+  "ps1": [
+   "B240_f78"
+  ],
+  "cards": [
+   "The government|began pressuring|JUNKER several|months ago."
+  ]
+ },
+ "23": {
+  "speaker": "Metal Gear",
+  "en": "Your transfer to JUNKER was our last chance, Gillian.",
+  "ps1": [
+   "B240_f79"
+  ],
+  "cards": [
+   "Your transfer to|JUNKER was our last|chance, Gillian."
+  ]
+ },
+ "24": {
+  "speaker": "Gillian",
+  "en": "Now that even the chief was snatched, they have even less reason to trust JUNKER.",
+  "ps1": [
+   "B240_f80",
+   "B240_f80b"
+  ],
+  "cards": [
+   "Now that even the|chief was snatched,",
+   "they have even less|reason to trust|JUNKER."
+  ],
+  "turns": [
+   3.08
+  ]
+ },
+ "25": {
+  "speaker": "Mika",
+  "en": "The military and FBI will apparently take over.",
+  "ps1": [
+   "B240_f81"
+  ],
+  "cards": [
+   "The military and|FBI will apparently|take over."
+  ]
+ },
+ "26": {
+  "speaker": "Metal Gear",
+  "en": "Yes. That will also be decided in twelve hours.",
+  "ps1": [
+   "B240_f82"
+  ],
+  "cards": [
+   "Yes. That will also|be decided in|twelve hours."
+  ]
+ },
+ "27": {
+  "speaker": "Gillian",
+  "en": "Twelve hours to find their hideout.",
+  "ps1": [
+   "B240_f83"
+  ],
+  "cards": [
+   "Twelve hours to find|their hideout."
+  ],
+  "layout": "plain"
+ },
+ "28": {
+  "speaker": "Gillian",
+  "en": "Or we're dead, along with everyone in the city.",
+  "ps1": [
+   "B240_f84"
+  ],
+  "cards": [
+   "Or we're dead, along|with everyone in the city."
+  ],
+  "layout": "plain"
+ },
+ "29": {
+  "speaker": "Gillian",
+  "en": "To them, this city's a tumor. Cut it out and sink it.",
+  "ps1": [
+   "B240_f85"
+  ],
+  "cards": [
+   "To them, this city's|a tumor. Cut it out and sink it."
+  ],
+  "layout": "plain"
+ },
+ "2a": {
+  "speaker": "Metal Gear",
+  "en": "We have to strike the Snatchers' base before that.",
+  "ps1": [
+   "B240_f86"
+  ],
+  "cards": [
+   "We have to strike|the Snatchers' base|before that."
+  ]
+ },
+ "2b": {
+  "speaker": "Mika",
+  "en": "Can you do it, Gillian?",
+  "ps1": [
+   "B240_f87"
+  ],
+  "cards": [
+   "Can you do it, Gillian?"
+  ],
+  "layout": "plain"
+ },
+ "2c": {
+  "speaker": "Gillian",
+  "en": "If we can find their hideout.",
+  "ps1": [
+   "B240_f88"
+  ],
+  "cards": [
+   "If we can find their|hideout."
+  ],
+  "layout": "plain"
+ },
+ "2d": {
+  "speaker": "Metal Gear",
+  "en": "Attacking places like Queen Hospital won't help. We have to hit their main base.",
+  "ps1": [
+   "B240_f89",
+   "B240_f89b"
+  ],
+  "cards": [
+   "Attacking places|like Queen Hospital|won't help.",
+   "We have to hit|their main base."
+  ],
+  "turns": [
+   3.6
+  ]
+ },
+ "2e": {
+  "speaker": "Gillian",
+  "en": "What about the chief Snatcher's memory?",
+  "ps1": [
+   "B240_f90"
+  ],
+  "cards": [
+   "What about the|chief Snatcher's|memory?"
+  ]
+ },
+ "2f": {
+  "speaker": "Metal Gear",
+  "en": "Completely erased, as before. A form of self-destruction.",
+  "ps1": [
+   "B240_f91"
+  ],
+  "cards": [
+   "Completely erased,|as before. A form|of self-destruction."
+  ]
+ },
+ "30": {
+  "speaker": "Gillian",
+  "en": "That's right, Metal Gear. What about tracing Jamie's videophone call?",
+  "ps1": [
+   "B240_f92"
+  ],
+  "cards": [
+   "That's right, Metal|Gear.",
+   "What about tracing|Jamie's videophone call?"
+  ],
+  "layout": "plain",
+  "turns": [
+   1.58
+  ]
+ },
+ "31": {
+  "speaker": "Metal Gear",
+  "en": "There wasn't enough time. But it definitely came from somewhere in this city.",
+  "ps1": [
+   "B240_f93",
+   "B240_f93b"
+  ],
+  "cards": [
+   "There wasn't enough|time.",
+   "But it definitely|came from somewhere|in this city."
+  ],
+  "turns": [
+   2.14
+  ]
+ },
+ "32": {
+  "speaker": "Gillian",
+  "en": "Damn it! Where? Where are they?",
+  "ps1": [
+   "B240_f94"
+  ],
+  "cards": [
+   "Damn it! Where? Where|are they?"
+  ],
+  "layout": "plain"
+ },
+ "33": {
+  "speaker": "Mika",
+  "en": "Can't you remember anything, Gillian? Did Jamie say anything about a connection to the Snatchers?",
+  "ps1": [
+   "B240_f95",
+   "B240_f95b"
+  ],
+  "cards": [
+   "Can't you remember|anything, Gillian?",
+   "Did Jamie say anything|about a connection to the Snatchers?"
+  ],
+  "layout": "plain",
+  "turns": [
+   2.7
+  ]
+ },
+ "34": {
+  "speaker": "Gillian",
+  "en": "I can't remember a thing.",
+  "ps1": [
+   "B240_f96"
+  ],
+  "cards": [
+   "I can't remember a|thing."
+  ],
+  "layout": "plain"
+ },
+ "35": {
+  "speaker": "Gillian",
+  "en": "Metal, tell me everything you know about who I am! Why was I sent to JUNKER? Where did I come from?",
+  "ps1": [
+   "B240_f97",
+   "B240_f97b"
+  ],
+  "cards": [
+   "Metal, tell me|everything you know about who I am!",
+   "Why was I sent to|JUNKER? Where did I come from?"
+  ],
+  "layout": "plain",
+  "turns": [
+   4.38
+  ]
+ },
+ "36": {
+  "speaker": "Mika",
+  "en": "Gillian...",
+  "ps1": [
+   "B240_f98"
+  ],
+  "cards": [
+   "Gillian..."
+  ],
+  "layout": "plain"
+ },
+ "37": {
+  "speaker": "Gillian",
+  "en": "The Chief's gone, too! Tell me what you know, Metal!",
+  "ps1": [
+   "B240_c9f1",
+   "B240_c9f1b"
+  ],
+  "cards": [
+   "The Chief's gone,|too! Tell me what|you know, Metal!"
+  ]
+ },
+ "38": {
+  "speaker": "Metal Gear",
+  "en": "Well, you see...",
+  "ps1": [
+   "B240_c9f2"
+  ],
+  "cards": [
+   "Well, you see..."
+  ]
+ },
+ "39": {
+  "speaker": "Gillian",
+  "en": "Metal!",
+  "ps1": [
+   "B230_h_08"
+  ],
+  "cards": [
+   "Metal!"
+  ]
+ },
+ "3a": {
+  "speaker": "Metal Gear",
+  "en": "Understood. With the chief dead, you're in command now.",
+  "ps1": [
+   "B240_c9f4",
+   "B240_c9f4b"
+  ],
+  "cards": [
+   "Understood. With|the chief dead,|you're in command|now."
+  ]
+ },
+ "3b": {
+  "speaker": "Mika",
+  "en": "You knew?",
+  "ps1": [
+   "B240_c9f5"
+  ],
+  "cards": [
+   "You knew?"
+  ]
+ },
+ "3c": {
+  "speaker": "Metal Gear",
+  "en": "Of course.",
+  "ps1": [
+   "B240_c9f6"
+  ],
+  "cards": [
+   "Of course."
+  ]
+ },
+ "3d": {
+  "speaker": "Gillian",
+  "en": "Where were we rescued?",
+  "ps1": [
+   "B240_c9f7"
+  ],
+  "cards": [
+   "Where were we|rescued?"
+  ]
+ },
+ "3e": {
+  "speaker": "Metal Gear",
+  "en": "You and Jamie were rescued three years ago, on September 25, 2039, from the Siberian neutral zone by the seventeenth Siberian expedition.",
+  "ps1": [
+   "B240_c9f8",
+   "B240_c9f8b",
+   "B240_c9f8c"
+  ],
+  "cards": [
+   "You and Jamie were|rescued three years|ago, on September|25, 2039,",
+   "from the Siberian|neutral zone by the|seventeenth|Siberian expedition."
+  ],
+  "turns": [
+   5.46
+  ]
+ },
+ "3f": {
+  "speaker": "Metal Gear",
+  "en": "To be precise, you were found in cryogenic pods in an underground shelter near Moscow.",
+  "ps1": [
+   "B240_c9f9",
+   "B240_c9f9b",
+   "B240_c9f9bb"
+  ],
+  "layout": "plain",
+  "cards": [
+   "To be precise, you|were found in cryogenic pods",
+   "in an underground|shelter near Moscow."
+  ],
+  "turns": [
+   4.0
+  ]
+ },
+ "40": {
+  "speaker": "Gillian",
+  "en": "Cryogenic sleep? Artificial hibernation?",
+  "ps1": [
+   "B240_c9f10"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Cryogenic sleep?|Artificial hibernation?"
+  ]
+ },
+ "41": {
+  "speaker": "Metal Gear",
+  "en": "This photo was taken at the time.",
+  "ps1": [
+   "B240_c9f11"
+  ],
+  "cards": [
+   "This photo was|taken at the time."
+  ],
+  "layout": "face"
+ },
+ "42": {
+  "speaker": "Metal Gear",
+  "en": "We don't know how long you'd been asleep there. A third, empty pod was found with you.",
+  "ps1": [
+   "B240_c9f12",
+   "B240_c9f12b"
+  ],
+  "cards": [
+   "We don't know how|long you'd been|asleep there.",
+   "A third, empty pod|was found with you."
+  ],
+  "layout": "face",
+  "turns": [
+   3.62
+  ]
+ },
+ "43": {
+  "speaker": "Gillian",
+  "en": "Three pods?",
+  "ps1": [
+   "B240_c9f13"
+  ],
+  "cards": [
+   "Three pods?"
+  ],
+  "layout": "face"
+ },
+ "44": {
+  "speaker": "Metal Gear",
+  "en": "You were revived and placed under military protection. You had both lost all your memories, perhaps from prolonged cryogenic sleep.",
+  "ps1": [
+   "B240_c9f14",
+   "B240_c9f14b",
+   "B240_c9f14b2",
+   "B240_c9f14b2b"
+  ],
+  "cards": [
+   "You were revived|and placed under|military|protection.",
+   "You had both lost|all your memories,",
+   "perhaps from|prolonged cryogenic|sleep."
+  ],
+  "layout": "face",
+  "turns": [
+   4.34,
+   6.8
+  ]
+ },
+ "45": {
+  "speaker": "Metal Gear",
+  "en": "Or perhaps they'd been erased.",
+  "ps1": [
+   "B240_c9f15"
+  ],
+  "cards": [
+   "Or perhaps they'd|been erased."
+  ],
+  "layout": "face"
+ },
+ "46": {
+  "speaker": "Metal Gear",
+  "en": "This was your only possession when you were rescued.",
+  "ps1": [
+   "B240_c9f16"
+  ],
+  "cards": [
+   "This was your only|possession when you|were rescued."
+  ],
+  "layout": "face"
+ },
+ "47": {
+  "speaker": "Mika",
+  "en": "Isn't that a picture of Harry as a child?",
+  "ps1": [
+   "B240_c9f17"
+  ],
+  "cards": [
+   "Isn't that a|picture of Harry as|a child?"
+  ],
+  "layout": "face"
+ },
+ "48": {
+  "speaker": "Metal Gear",
+  "en": "Yes. Harry is your son, yours and Jamie's. DNA tests confirmed it.",
+  "ps1": [
+   "B240_c9f18",
+   "B240_c9f18b"
+  ],
+  "cards": [
+   "Yes. Harry is your|son, yours and|Jamie's. DNA tests|confirmed it."
+  ],
+  "layout": "face"
+ },
+ "49": {
+  "speaker": "Gillian",
+  "en": "The old man was my son?",
+  "ps1": [
+   "B240_c9f19"
+  ],
+  "layout": "plain",
+  "cards": [
+   "The old man was my|son?"
+  ]
+ },
+ "4a": {
+  "speaker": "Metal Gear",
+  "en": "Using the photo's data, we identified you as Gillian Seed and Jamie Lorraine.",
+  "ps1": [
+   "B240_c9f20",
+   "B240_c9f20b"
+  ],
+  "cards": [
+   "Using the photo's|data, we identified|you as Gillian Seed|and Jamie Lorraine."
+  ],
+  "layout": "face"
+ },
+ "4b": {
+  "speaker": "Metal Gear",
+  "en": "Both American citizens, born in the 1970s.",
+  "ps1": [
+   "B240_c9f21"
+  ],
+  "cards": [
+   "Both American|citizens, born in|the 1970s."
+  ],
+  "layout": "face"
+ },
+ "4c": {
+  "speaker": "Mika",
+  "en": "The 1970s?",
+  "ps1": [
+   "B240_c9f22"
+  ],
+  "layout": "plain",
+  "cards": [
+   "The 1970s?"
+  ]
+ },
+ "4d": {
+  "speaker": "Metal Gear",
+  "en": "You both disappeared in 1985. There are no records of you after that.",
+  "ps1": [
+   "B240_c9f23",
+   "B240_c9f23b"
+  ],
+  "cards": [
+   "You both|disappeared in|1985.",
+   "There are no|records of you|after that."
+  ],
+  "layout": "face",
+  "turns": [
+   3.72
+  ]
+ },
+ "4e": {
+  "speaker": "Gillian",
+  "en": "1985.",
+  "ps1": [
+   "B240_c9f24"
+  ],
+  "cards": [
+   "1985."
+  ],
+  "layout": "face"
+ },
+ "4f": {
+  "speaker": "Metal Gear",
+  "en": "Yes. You come from the world of fifty years ago.",
+  "ps1": [
+   "B240_c9f25"
+  ],
+  "cards": [
+   "Yes. You come from|the world of fifty|years ago."
+  ],
+  "layout": "face"
+ },
+ "50": {
+  "speaker": "Mika",
+  "en": "But what does that have to do with the Snatchers?",
+  "ps1": [
+   "B240_c9f26"
+  ],
+  "cards": [
+   "But what does that|have to do with the|Snatchers?"
+  ],
+  "layout": "face"
+ },
+ "51": {
+  "speaker": "Metal Gear",
+  "en": "Well, the expedition that rescued you had an accident on the way back. You both survived, but most of the team died.",
+  "ps1": [
+   "B240_c9f27",
+   "B240_c9f27b",
+   "B240_c9f27bb",
+   "B240_c9f27d"
+  ],
+  "cards": [
+   "Well, the|expedition",
+   "that rescued you|had an accident on|the way back.",
+   "You both survived,|but most of the|team died."
+  ],
+  "layout": "face",
+  "turns": [
+   1.76,
+   6.08
+  ]
+ },
+ "52": {
+  "speaker": "Metal Gear",
+  "en": "There was a Snatcher among them.",
+  "ps1": [
+   "B240_c9f28"
+  ],
+  "cards": [
+   "There was a|Snatcher among them."
+  ],
+  "layout": "face"
+ },
+ "53": {
+  "speaker": "Metal Gear",
+  "en": "They'd all been thoroughly examined before departure. So if they were snatched...",
+  "ps1": [
+   "B240_c9f29",
+   "B240_c9f29b"
+  ],
+  "cards": [
+   "They'd all been|thoroughly examined|before departure.",
+   "So if they were|snatched..."
+  ],
+  "layout": "face",
+  "turns": [
+   4.18
+  ]
+ },
+ "54": {
+  "speaker": "Gillian",
+  "en": "Somewhere in Siberia.",
+  "ps1": [
+   "B240_c9f30"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Somewhere in Siberia."
+  ]
+ },
+ "55": {
+  "speaker": "Metal Gear",
+  "en": "Yes. The government sent you both to JUNKER to learn your identities and uncover the truth about Snatchers.",
+  "ps1": [
+   "B240_c9f31",
+   "B240_c9f31b",
+   "B240_c9f31bb",
+   "B240_c9f31bc"
+  ],
+  "cards": [
+   "Yes.",
+   "The government sent|you both to JUNKER",
+   "to learn your|identities and|uncover the truth|about Snatchers."
+  ],
+  "layout": "face",
+  "turns": [
+   1.96,
+   4.4
+  ]
+ },
+ "56": {
+  "speaker": "Metal Gear",
+  "en": "They hoped contact with Snatchers would restore your memories.",
+  "ps1": [
+   "B240_c9f32",
+   "B240_c9f32b"
+  ],
+  "cards": [
+   "They hoped contact|with Snatchers|would restore your|memories."
+  ],
+  "layout": "face"
+ },
+ "57": {
+  "speaker": "Gillian",
+  "en": "Moscow, fifty years ago.",
+  "ps1": [
+   "B240_c9f33"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Moscow, fifty years|ago."
+  ]
+ },
+ "58": {
+  "speaker": "Metal Gear",
+  "en": "Almost everyone who knew Moscow then died in the outbreak.",
+  "ps1": [
+   "B240_c9f34"
+  ],
+  "cards": [
+   "Almost everyone who|knew Moscow then|died in the|outbreak."
+  ],
+  "layout": "face"
+ },
+ "59": {
+  "speaker": "Mika",
+  "en": "So you two are the only living witnesses.",
+  "ps1": [
+   "B240_c9f35"
+  ],
+  "layout": "plain",
+  "cards": [
+   "So you two are the only|living witnesses."
+  ]
+ },
+ "5a": {
+  "speaker": "Gillian",
+  "en": "The old man. Harry was our son.",
+  "ps1": [
+   "B240_c9f36"
+  ],
+  "layout": "plain",
+  "cards": [
+   "The old man. Harry|was our son."
+  ]
+ },
+ "5b": {
+  "speaker": "Gillian",
+  "en": "Did he know?",
+  "ps1": [
+   "B240_c9f37"
+  ],
+  "cards": [
+   "Did he know?"
+  ],
+  "layout": "face"
+ },
+ "5c": {
+  "speaker": "Metal Gear",
+  "en": "No. It was top secret. He was told nothing.",
+  "ps1": [
+   "B240_c9f38"
+  ],
+  "cards": [
+   "No. It was top|secret. He was told|nothing."
+  ],
+  "layout": "face"
+ },
+ "5d": {
+  "speaker": "Gillian",
+  "en": "My God. I couldn't do anything for him.",
+  "ps1": [
+   "B240_c9f39"
+  ],
+  "cards": [
+   "My God. I couldn't|do anything for him."
+  ],
+  "layout": "face"
+ },
+ "5e": {
+  "speaker": "Mika",
+  "en": "Wait, Gillian. Didn't Jamie say they were holding her child hostage?",
+  "ps1": [
+   "B240_c9f40",
+   "B240_c9f40b",
+   "B240_c9f40bb"
+  ],
+  "cards": [
+   "Wait, Gillian.|Didn't Jamie say|they were holding|her child hostage?"
+  ],
+  "layout": "face"
+ },
+ "5f": {
+  "speaker": "Gillian",
+  "en": "That's it! They're using Harry to threaten Jamie.",
+  "ps1": [
+   "B240_c9f41"
+  ],
+  "cards": [
+   "That's it! They're|using Harry to|threaten Jamie."
+  ],
+  "layout": "face"
+ },
+ "60": {
+  "speaker": "Metal Gear",
+  "en": "We must find their hideout, fast!",
+  "ps1": [
+   "B240_c9f42"
+  ],
+  "cards": [
+   "We must find their|hideout, fast!"
+  ],
+  "layout": "face"
+ },
+ "61": {
+  "speaker": "Gillian",
+  "en": "We have twelve hours.",
+  "ps1": [
+   "B240_c9f43"
+  ],
+  "cards": [
+   "We have twelve|hours."
+  ],
+  "layout": "face"
+ },
+ "62": {
+  "speaker": "Mika",
+  "en": "Gillian, let's review what we know. We might find a clue.",
+  "ps1": [
+   "B240_c9f44",
+   "B240_c9f44b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Gillian, let's review|what we know. We might find a clue."
+  ]
+ },
+ "63": {
+  "speaker": "Gillian",
+  "en": "Right. Their behavior might tell us something.",
+  "ps1": [
+   "B240_c9f45"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Right. Their behavior|might tell us something."
+  ]
+ },
+ "64": {
+  "speaker": "Metal Gear",
+  "en": "Let's go over what we've learned about the Snatchers.",
+  "ps1": [
+   "B240_c9f46"
+  ],
+  "cards": [
+   "Let's go over what|we've learned about|the Snatchers."
+  ],
+  "layout": "face"
+ },
+ "65": {
+  "speaker": "Metal Gear",
+  "en": "First, what is their weakness?",
+  "ps1": [
+   "B240_c9f47"
+  ],
+  "cards": [
+   "First, what is|their weakness?"
+  ],
+  "layout": "face"
+ },
+ "66": {
+  "speaker": "Mika",
+  "en": "It may be a kind of homing instinct. Their base might be somewhere that reminds them of their creator. I've seen many similar cases in criminal psychology.",
+  "ps1": [
+   "B240_c9f48",
+   "B240_c9f48b",
+   "B240_c9f48c",
+   "B240_c9f48d"
+  ],
+  "cards": [
+   "It may be a kind of|homing instinct.",
+   "Their base might be|somewhere that|reminds them of|their creator.",
+   "I've seen many|similar cases in|criminal psychology."
+  ],
+  "layout": "face",
+  "turns": [
+   2.7,
+   9.0
+  ]
+ },
+ "67": {
+  "speaker": "Gillian",
+  "en": "Somewhere in this city that resembles Moscow.",
+  "ps1": [
+   "B240_c9f49"
+  ],
+  "cards": [
+   "Somewhere in this|city that resembles|Moscow."
+  ],
+  "layout": "face"
+ },
+ "68": {
+  "speaker": "Mika",
+  "en": "Moscow's cold, isn't it? It snows there in winter?",
+  "ps1": [
+   "B240_c9f50"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Moscow's cold, isn't it?|It snows there in winter?"
+  ]
+ },
+ "69": {
+  "speaker": "Gillian",
+  "en": "Snow?",
+  "ps1": [
+   "B240_c9f51"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Snow?"
+  ]
+ },
+ "6a": {
+  "speaker": "Metal Gear",
+  "en": "It hasn't snowed in Neo Kobe for years.",
+  "ps1": [
+   "B240_c9f52"
+  ],
+  "cards": [
+   "It hasn't snowed in|Neo Kobe for years."
+  ],
+  "layout": "face"
+ },
+ "6b": {
+  "speaker": "Mika",
+  "en": "Then that's not it.",
+  "ps1": [
+   "B240_c9f53"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Then that's not it."
+  ]
+ },
+ "6c": {
+  "speaker": "Gillian",
+  "en": "Wait. What about that pollen? Snow Cedar!",
+  "ps1": [
+   "B240_c9f54"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Wait. What about that|pollen? Snow Cedar!"
+  ]
+ },
+ "6d": {
+  "speaker": "Mika",
+  "en": "There was snow in Jamie's videophone call, too.",
+  "ps1": [
+   "B240_c9f55"
+  ],
+  "cards": [
+   "There was snow in|Jamie's videophone|call, too."
+  ],
+  "layout": "face"
+ },
+ "6e": {
+  "speaker": "Gillian",
+  "en": "That's it! Their hideout is somewhere along the Ina River.",
+  "ps1": [
+   "B240_c9f56",
+   "B240_c9f56b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "That's it!",
+   "Their hideout is|somewhere along the Ina River."
+  ],
+  "turns": [
+   1.6
+  ]
+ },
+ "6f": {
+  "speaker": "Mika",
+  "en": "But the Ina River covers too much ground.",
+  "ps1": [
+   "B240_c9f57"
+  ],
+  "layout": "plain",
+  "cards": [
+   "But the Ina River covers|too much ground."
+  ]
+ },
+ "70": {
+  "speaker": "Metal Gear",
+  "en": "Let's put everything we've discussed on a map, Gillian.",
+  "ps1": [
+   "B240_c9f58"
+  ],
+  "cards": [
+   "Let's put|everything we've|discussed on a map,|Gillian."
+  ],
+  "layout": "face"
+ },
+ "71": {
+  "speaker": "Metal Gear",
+  "en": "This is an enlarged map of the Ina River area in southwestern Neo Kobe City.",
+  "ps1": [
+   "B240_c9f59",
+   "B240_c9f59b"
+  ],
+  "cards": [
+   "This is an enlarged|map of the Ina|River area",
+   "in southwestern Neo|Kobe City."
+  ],
+  "layout": "face",
+  "turns": [
+   3.58
+  ]
+ },
+ "72": {
+  "speaker": "Metal Gear",
+  "en": "The blue areas show where Snow Cedar grows.",
+  "ps1": [
+   "B240_c9f60"
+  ],
+  "cards": [
+   "The blue areas show|where Snow Cedar|grows."
+  ],
+  "layout": "face"
+ },
+ "73": {
+  "speaker": "Metal Gear",
+  "en": "Now I'll overlay the Tube Liner routes.",
+  "ps1": [
+   "B240_c9f61"
+  ],
+  "cards": [
+   "Now I'll overlay|the Tube Liner|routes."
+  ],
+  "layout": "face"
+ },
+ "74": {
+  "speaker": "Metal Gear",
+  "en": "I'll isolate the areas where the routes and cedars overlap.",
+  "ps1": [
+   "B240_c9f62"
+  ],
+  "cards": [
+   "I'll isolate the|areas where the|routes and cedars|overlap."
+  ],
+  "layout": "face"
+ },
+ "75": {
+  "speaker": "Gillian",
+  "en": "It's still too big. All that ground in twelve hours?",
+  "ps1": [
+   "B240_c9f63"
+  ],
+  "cards": [
+   "It's still too big.|All that ground in|twelve hours?"
+  ],
+  "layout": "face"
+ },
+ "76": {
+  "speaker": "Mika",
+  "en": "Don't give up, Gillian. If it reminds them of home, perhaps the geography is similar, too. The same terrain would give them the same view.",
+  "ps1": [
+   "B240_c9f64",
+   "B240_c9f64b",
+   "B240_c9f64c"
+  ],
+  "cards": [
+   "Don't give up,|Gillian.",
+   "If it reminds them|of home, perhaps|the geography is|similar, too.",
+   "The same terrain|would give them the|same view."
+  ],
+  "layout": "face",
+  "turns": [
+   2.1,
+   8.2
+  ]
+ },
+ "77": {
+  "speaker": "Metal Gear",
+  "en": "I'll display a map of Moscow beside it.",
+  "ps1": [
+   "B240_c9f65"
+  ],
+  "cards": [
+   "I'll display a map|of Moscow beside it."
+  ],
+  "layout": "face"
+ },
+ "78": {
+  "speaker": "Gillian",
+  "en": "Huh? Look at that!",
+  "ps1": [
+   "B240_c9f66"
+  ],
+  "cards": [
+   "Huh? Look at that!"
+  ],
+  "layout": "face"
+ },
+ "79": {
+  "speaker": "Mika",
+  "en": "Look! The rivers have the same shape!",
+  "ps1": [
+   "B240_c9f67"
+  ],
+  "cards": [
+   "Look! The rivers|have the same shape!"
+  ],
+  "layout": "face"
+ },
+ "7a": {
+  "speaker": "Metal Gear",
+  "en": "This one is the Moskva River.",
+  "ps1": [
+   "B240_c9f68"
+  ],
+  "cards": [
+   "This one is the|Moskva River."
+  ],
+  "layout": "face"
+ },
+ "7b": {
+  "speaker": "Gillian",
+  "en": "Looks like our theory was right. Metal, show us where Jamie and I were rescued.",
+  "ps1": [
+   "B240_c9f69",
+   "B240_c9f69b"
+  ],
+  "cards": [
+   "Looks like our|theory was right.",
+   "Metal, show us|where Jamie and I|were rescued."
+  ],
+  "layout": "face",
+  "turns": [
+   3.08
+  ]
+ },
+ "7c": {
+  "speaker": "Metal Gear",
+  "en": "Understood.",
+  "ps1": [
+   "B240_c9f76"
+  ],
+  "cards": [
+   "Understood."
+  ],
+  "layout": "face"
+ },
+ "7d": {
+  "speaker": "Metal Gear",
+  "en": "Here.",
+  "ps1": [
+   "B240_c9f71"
+  ],
+  "cards": [
+   "Here."
+  ],
+  "layout": "face"
+ },
+ "7e": {
+  "speaker": "Gillian",
+  "en": "Metal, what was here before the Catastrophe?",
+  "ps1": [
+   "B240_c9f72"
+  ],
+  "cards": [
+   "Metal, what was|here before the|Catastrophe?"
+  ],
+  "layout": "face"
+ },
+ "7f": {
+  "speaker": "Metal Gear",
+  "en": "The Kremlin. The nerve center of the Soviet Union.",
+  "ps1": [
+   "B240_c9f73"
+  ],
+  "cards": [
+   "The Kremlin. The|nerve center of the|Soviet Union."
+  ],
+  "layout": "face"
+ },
+ "80": {
+  "speaker": "Mika",
+  "en": "The Kremlin? The Snatcher said he was taking Jamie to the Kremlin!",
+  "ps1": [
+   "B240_c9f74",
+   "B240_c9f74b"
+  ],
+  "cards": [
+   "The Kremlin? The|Snatcher said he|was taking Jamie to|the Kremlin!"
+  ],
+  "layout": "face"
+ },
+ "81": {
+  "speaker": "Gillian",
+  "en": "Metal, what part of this city corresponds to the Kremlin?",
+  "ps1": [
+   "B240_c9f75"
+  ],
+  "cards": [
+   "Metal, what part of|this city|corresponds to the|Kremlin?"
+  ],
+  "layout": "face"
+ },
+ "82": {
+  "speaker": "Metal Gear",
+  "en": "Understood.",
+  "ps1": [
+   "B240_c9f76"
+  ],
+  "cards": [
+   "Understood."
+  ],
+  "layout": "face"
+ },
+ "83": {
+  "speaker": "Metal Gear",
+  "en": "Found it. An old church.",
+  "ps1": [
+   "B240_c9f77"
+  ],
+  "cards": [
+   "Found it. An old|church."
+  ],
+  "layout": "face"
+ },
+ "84": {
+  "speaker": "Metal Gear",
+  "en": "A huge, empty church. It's been in ruins for twenty years.",
+  "ps1": [
+   "B240_c9f78"
+  ],
+  "cards": [
+   "A huge, empty|church. It's been|in ruins for twenty|years."
+  ],
+  "layout": "face"
+ },
+ "85": {
+  "speaker": "Mika",
+  "en": "Right where the Snow Cedars and subway routes overlap!",
+  "ps1": [
+   "B240_c9f79"
+  ],
+  "cards": [
+   "Right where the|Snow Cedars and|subway routes|overlap!"
+  ],
+  "layout": "face"
+ },
+ "86": {
+  "speaker": "Gillian",
+  "en": "That's it! Their main base. A second Kremlin!",
+  "ps1": [
+   "B240_c9f80"
+  ],
+  "cards": [
+   "That's it! Their|main base. A second|Kremlin!"
+  ],
+  "layout": "face"
+ },
+ "87": {
+  "speaker": "Metal Gear",
+  "en": "Let's hurry, Gillian!",
+  "ps1": [
+   "B240_m_32"
+  ],
+  "cards": [
+   "Let's hurry,|Gillian!"
+  ],
+  "layout": "face"
+ },
+ "88": {
+  "speaker": "Mika",
+  "en": "Wait, Gillian!",
+  "ps1": [
+   "B240_c9f82"
+  ],
+  "cards": [
+   "Wait, Gillian!"
+  ],
+  "layout": "face"
+ },
+ "_unmatched": {}
+}

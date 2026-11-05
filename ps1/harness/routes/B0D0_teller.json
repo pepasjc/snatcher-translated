@@ -1,0 +1,14 @@
+{"scene":"B0D0","note":"Altamira's fortune teller (guides/ps1.txt ALTON PLAZA: 'LOOK or INVESTIGATE x30ish' unlocks PICK UP WOMAN; repeatedly searching the crowd finds the Cupid Love Line and the teller). Look at the people until Teller/Fortune appear.",
+ "actions":[
+  {"path":["Altamira"],"optional":true,"patience":600},
+  {"path":["Exit Tricycle"],"optional":true,"patience":600},
+  {"path":["Look","Passersby"],"reps":12,"optional":true},
+  {"path":["Investigate","Passersby"],"reps":12,"optional":true},
+  {"path":["Look","Fortune teller"],"optional":true},
+  {"path":["Investigate","Fortune teller"],"optional":true},
+  {"path":["Get fortune told"],"optional":true,"reps":2},
+  {"save":"B0D0_teller"},
+  {"sweep":["Look","Investigate","Get fortune told"],"rounds":3},
+  {"path":["Hit on her"],"optional":true,"reps":4},
+  {"save":"B0D0_flirt"}
+ ]}

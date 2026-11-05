@@ -1,0 +1,20 @@
+# the image carries the source; dumps, outputs and scratch come in as volumes
+discs/
+patched/
+release/
+reference/
+guides/
+archive/
+fonts/
+lib/jpsxdec/
+lib/chdman/
+lib/xdelta/
+work/*
+!work/pair_table.json
+!work/free_slots.json
+!work/lba_map.json
+!work/master_lines.json
+!work/snatcher_jp.idx
+!work/font_table.txt
+.git/
+**/__pycache__/

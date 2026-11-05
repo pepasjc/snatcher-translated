@@ -1,0 +1,2053 @@
+{
+ "file": "ISZ_B120.BIN",
+ "text_base": 6880,
+ "strings": [
+  {
+   "off": 6881,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 6885,
+   "budget": 21,
+   "en": "Command x3 please."
+  },
+  {
+   "off": 6906,
+   "budget": 33,
+   "en": "We're outside the Nielsen home."
+  },
+  {
+   "off": 6939,
+   "budget": 43,
+   "en": "The suspect Freddy Nielsen's￥home.",
+   "long": "We're outside the home of our￥suspect, Freddy Nielsen."
+  },
+  {
+   "off": 6982,
+   "budget": 45,
+   "en": "...Freddy Nielsen's apartment￥building.",
+   "long": "This is Freddy Nielsen's apartment￥building."
+  },
+  {
+   "off": 7027,
+   "budget": 59,
+   "en": "By the data...￥that's room 202 on the 2nd floor.",
+   "long": "According to the records, he lives￥in apartment 202 on the second￥floor."
+  },
+  {
+   "off": 7086,
+   "budget": 43,
+   "en": "The last one... Is he really a￥Snatcher?",
+   "long": "Our last suspect. Is he really a￥Snatcher?"
+  },
+  {
+   "off": 7129,
+   "budget": 5,
+   "en": "Move"
+  },
+  {
+   "off": 7134,
+   "budget": 9,
+   "en": "Get in",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 7143,
+   "budget": 11,
+   "en": "Room 202"
+  },
+  {
+   "off": 7154,
+   "budget": 29,
+   "en": "Let's head for room 202.",
+   "long": "Let's head for apartment 202."
+  },
+  {
+   "off": 7183,
+   "budget": 31,
+   "en": "Second floor. Let's go up."
+  },
+  {
+   "off": 7214,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 7219,
+   "budget": 5,
+   "en": "Bldg",
+   "long": "Building"
+  },
+  {
+   "off": 7224,
+   "budget": 47,
+   "en": "There's a sign that says \"Domitle￥Okamoto.\""
+  },
+  {
+   "off": 7271,
+   "budget": 57,
+   "en": "The design, the feel...￥a building women would like.",
+   "long": "The building's design and atmosphere￥seem likely to appeal to women."
+  },
+  {
+   "off": 7328,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 7335,
+   "budget": 67,
+   "en": "A lively spot.￥Facing the main street. Handy.",
+   "long": "It's a lively neighborhood. Facing￥the main street makes it convenient."
+  },
+  {
+   "off": 7402,
+   "budget": 67,
+   "en": "A tube-liner station stood here￥once. A remnant of it.",
+   "long": "There used to be a Tube Liner￥station around here. That probably￥explains it."
+  },
+  {
+   "off": 7469,
+   "budget": 11,
+   "en": "Manhole"
+  },
+  {
+   "off": 7480,
+   "budget": 75,
+   "en": "The sewage treatment isn't￥perfect. Warm sewage steams￥up out of it.",
+   "long": "The sewer system isn't fully￥developed. Heated wastewater is￥escaping as steam."
+  },
+  {
+   "off": 7555,
+   "budget": 33,
+   "en": "So below this is a tunnel?",
+   "long": "So there's an underground passage￥beneath us?"
+  },
+  {
+   "off": 7588,
+   "budget": 85,
+   "en": "We're directly above the old Tube￥Liner subway route."
+  },
+  {
+   "off": 7673,
+   "budget": 45,
+   "en": "That's why the sewer work￥is behind.",
+   "long": "That's probably why sewer￥construction has been delayed."
+  },
+  {
+   "off": 7718,
+   "budget": 7,
+   "en": "Light"
+  },
+  {
+   "off": 7725,
+   "budget": 87,
+   "en": "A relic from before the￥'automatic traffic system'.￥Used for adverts now.",
+   "long": "It's left over from before the￥automated traffic system. They￥probably use it for advertising now."
+  },
+  {
+   "off": 7812,
+   "budget": 81,
+   "en": "Those traffic lights mean this land￥was reclaimed a long time ago."
+  },
+  {
+   "off": 7893,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 7900,
+   "budget": 63,
+   "en": "A two-storey block of flats.￥Room 202's window is visible.",
+   "long": "It's a two-story apartment building.￥We can see the window of apartment￥202."
+  },
+  {
+   "off": 7963,
+   "budget": 79,
+   "en": "Finished to look like brick.￥The 2nd floor is reached from￥outside.",
+   "long": "The walls are finished to look like￥brick. The stairs to the second￥floor are outside."
+  },
+  {
+   "off": 8042,
+   "budget": 49,
+   "en": "Lots of people and tricycles￥come through here.",
+   "long": "There's a lot of foot traffic and￥Tricycles passing through."
+  },
+  {
+   "off": 8091,
+   "budget": 63,
+   "en": "Would a Snatcher really live￥somewhere this conspicuous?"
+  },
+  {
+   "off": 8154,
+   "budget": 61,
+   "en": "Lots of shops, halls and parks￥nearby, for a housing area.",
+   "long": "For a residential neighborhood, it￥has plenty of shops, meeting halls￥and parks nearby."
+  },
+  {
+   "off": 8215,
+   "budget": 67,
+   "en": "No longer used, so the lid is￥sealed fast against accidents.",
+   "long": "It's no longer used, so the cover￥has been sealed to prevent￥accidents."
+  },
+  {
+   "off": 8282,
+   "budget": 85,
+   "en": "The manhole cover bears the Neo Kobe￥City emblem. It's very old."
+  },
+  {
+   "off": 8367,
+   "budget": 43,
+   "en": "Sensors and cameras are￥set into it.",
+   "long": "Sensors and security cameras are￥built into it."
+  },
+  {
+   "off": 8410,
+   "budget": 55,
+   "en": "As elsewhere, it no longer￥serves as a signal.",
+   "long": "Like those in other areas, it no￥longer directs traffic."
+  },
+  {
+   "off": 8465,
+   "budget": 5,
+   "en": "Item"
+  },
+  {
+   "off": 8470,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 8485,
+   "budget": 13,
+   "en": "Videophone"
+  },
+  {
+   "off": 8498,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 8509,
+   "budget": 37,
+   "en": "I'll save your progress now."
+  },
+  {
+   "off": 8546,
+   "budget": 51,
+   "en": "A far cry from Ivan's place.￥Looks safer too.",
+   "long": "Quite a change from Ivan's place.￥The neighborhood seems safe too."
+  },
+  {
+   "off": 8597,
+   "budget": 41,
+   "en": "Apartment 202. Here it is. This￥door."
+  },
+  {
+   "off": 8638,
+   "budget": 19,
+   "en": "Outside room 202.",
+   "long": "We're outside apartment 202."
+  },
+  {
+   "off": 8657,
+   "budget": 53,
+   "en": "Remember what happened with￥Ivan. Be very careful.",
+   "long": "Remember what happened with Ivan.￥Let's be very careful."
+  },
+  {
+   "off": 8710,
+   "budget": 39,
+   "en": "Movement detected! Someone's inside!"
+  },
+  {
+   "off": 8749,
+   "budget": 43,
+   "en": "He's out.￥No motion readings at all.",
+   "long": "No one's home. I'm detecting no￥movement at all."
+  },
+  {
+   "off": 8792,
+   "budget": 27,
+   "en": "Ivan wasn't home either."
+  },
+  {
+   "off": 8819,
+   "budget": 55,
+   "en": "No help for it.￥Home to your place for a rest?",
+   "long": "There's nothing we can do. Why don't￥we go back to your place for a￥break?"
+  },
+  {
+   "off": 8874,
+   "budget": 23,
+   "en": "You work too hard.",
+   "long": "You've been working a little too￥hard."
+  },
+  {
+   "off": 8897,
+   "budget": 25,
+   "en": "Aye, that sounds good.",
+   "long": "Yeah. That's a good idea."
+  },
+  {
+   "off": 8922,
+   "budget": 43,
+   "en": "Ring your wife now and then?",
+   "long": "Why don't you give your wife a call￥for a change?"
+  },
+  {
+   "off": 8965,
+   "budget": 45,
+   "en": "No help for it.￥Off to Gibson's house...",
+   "long": "There's nothing we can do here.￥Let's go to Gibson's house."
+  },
+  {
+   "off": 9010,
+   "budget": 49,
+   "en": "We could find out a little more￥about Gibson."
+  },
+  {
+   "off": 9059,
+   "budget": 31,
+   "en": "He'll come home eventually."
+  },
+  {
+   "off": 9090,
+   "budget": 49,
+   "en": "Let's try Ivan Rodriguez first."
+  },
+  {
+   "off": 9139,
+   "budget": 27,
+   "en": "Let's come again, Gillian.",
+   "long": "Let's come back later, Gillian."
+  },
+  {
+   "off": 9166,
+   "budget": 9,
+   "en": "Out",
+   "long": "Go out front"
+  },
+  {
+   "off": 9175,
+   "budget": 11,
+   "en": "Knock"
+  },
+  {
+   "off": 9186,
+   "budget": 25,
+   "en": "I'll try knocking."
+  },
+  {
+   "off": 9211,
+   "budget": 21,
+   "en": "No answer."
+  },
+  {
+   "off": 9232,
+   "budget": 23,
+   "en": "Is he really out?"
+  },
+  {
+   "off": 9255,
+   "budget": 49,
+   "en": "He can't be. I detected movement."
+  },
+  {
+   "off": 9304,
+   "budget": 45,
+   "en": "No answer. Maybe they can't hear us?"
+  },
+  {
+   "off": 9349,
+   "budget": 17,
+   "en": "Who is it?"
+  },
+  {
+   "off": 9366,
+   "budget": 23,
+   "en": "I heard a voice.",
+   "long": "I heard someone's voice."
+  },
+  {
+   "off": 9389,
+   "budget": 19,
+   "en": "Who's there?"
+  },
+  {
+   "off": 9408,
+   "budget": 55,
+   "en": "Odd, no answer.￥Pretending to be out?",
+   "long": "That's strange. No answer. Are they￥pretending to be out?"
+  },
+  {
+   "off": 9463,
+   "budget": 35,
+   "en": "No answer. Is anyone home?"
+  },
+  {
+   "off": 9498,
+   "budget": 15,
+   "en": "Is he out?"
+  },
+  {
+   "off": 9513,
+   "budget": 9,
+   "en": "Plate"
+  },
+  {
+   "off": 9522,
+   "budget": 53,
+   "en": "It says, \"202, Freddy Nielsen.\""
+  },
+  {
+   "off": 9575,
+   "budget": 41,
+   "en": "The nameplate says Nielsen."
+  },
+  {
+   "off": 9616,
+   "budget": 5,
+   "en": "Door"
+  },
+  {
+   "off": 9621,
+   "budget": 27,
+   "en": "There's a peephole."
+  },
+  {
+   "off": 9648,
+   "budget": 21,
+   "en": "A heavy metal door.",
+   "long": "It's a heavy metal door."
+  },
+  {
+   "off": 9669,
+   "budget": 51,
+   "en": "No doubt about it! This is Nielsen's￥apartment."
+  },
+  {
+   "off": 9720,
+   "budget": 55,
+   "en": "The plate holds a data-check IC.￥No mistake.",
+   "long": "The plate has a built-in chip for￥verifying the information, so￥there's no mistake."
+  },
+  {
+   "off": 9775,
+   "budget": 29,
+   "en": "The door is locked."
+  },
+  {
+   "off": 9804,
+   "budget": 57,
+   "en": "An electronic lock, likely.￥A security device too.",
+   "long": "It's probably an electronic lock.￥There's a security system too."
+  },
+  {
+   "off": 9861,
+   "budget": 5,
+   "en": "Talk"
+  },
+  {
+   "off": 9866,
+   "budget": 53,
+   "en": "JUNKER! I have some questions. Open￥the door!"
+  },
+  {
+   "off": 9919,
+   "budget": 33,
+   "en": "I'm with JUNKER! Open up!"
+  },
+  {
+   "off": 9952,
+   "budget": 17,
+   "en": "What?"
+  },
+  {
+   "off": 9969,
+   "budget": 25,
+   "en": "No answer."
+  },
+  {
+   "off": 9994,
+   "budget": 7,
+   "en": "Show"
+  },
+  {
+   "off": 10001,
+   "budget": 15,
+   "en": "JUNKER ID"
+  },
+  {
+   "off": 10016,
+   "budget": 29,
+   "en": "JUNKER here. A word!",
+   "long": "I'm with JUNKER! We need to talk!"
+  },
+  {
+   "off": 10045,
+   "budget": 49,
+   "en": "Say your business first,￥or they won't know.",
+   "long": "They won't know what you want unless￥you tell them."
+  },
+  {
+   "off": 10094,
+   "budget": 41,
+   "en": "JUNKER! Is anyone there?"
+  },
+  {
+   "off": 10135,
+   "budget": 43,
+   "en": "No answer. Maybe no one's home."
+  },
+  {
+   "off": 10178,
+   "budget": 31,
+   "en": "The videophone can wait.",
+   "long": "Let's use the videophone later."
+  },
+  {
+   "off": 10209,
+   "budget": 35,
+   "en": "The case comes first!￥Gillian?",
+   "long": "The investigation comes first,￥Gillian!"
+  },
+  {
+   "off": 10244,
+   "budget": 43,
+   "en": "Motion readings!￥Something stirs inside.",
+   "long": "Movement detected! Something is￥moving inside."
+  },
+  {
+   "off": 10287,
+   "budget": 35,
+   "en": "Sensor reading. Someone's in.",
+   "long": "My sensors are picking up someone￥inside."
+  },
+  {
+   "off": 10322,
+   "budget": 37,
+   "en": "Movement detected! They're moving!"
+  },
+  {
+   "off": 10359,
+   "budget": 41,
+   "en": "Motion readings!￥Someone is there!",
+   "long": "Movement detected! Someone is￥definitely inside!"
+  },
+  {
+   "off": 10400,
+   "budget": 63,
+   "en": "We're dealing with a Snatcher. What￥good will knocking do?"
+  },
+  {
+   "off": 10463,
+   "budget": 43,
+   "en": "Knocking won't get it opened.",
+   "long": "They won't open the door just￥because we knock."
+  },
+  {
+   "off": 10506,
+   "budget": 23,
+   "en": "It's locked."
+  },
+  {
+   "off": 10529,
+   "budget": 45,
+   "en": "That's strange. I'm sure I didn't￥lock it."
+  },
+  {
+   "off": 10574,
+   "budget": 55,
+   "en": "The electronic lock is engaged. Who￥locked it?"
+  },
+  {
+   "off": 10629,
+   "budget": 11,
+   "en": "Lock"
+  },
+  {
+   "off": 10640,
+   "budget": 83,
+   "en": "It's a standard electronic lock. We￥can open it without using much￥force."
+  },
+  {
+   "off": 10723,
+   "budget": 7,
+   "en": "Exits"
+  },
+  {
+   "off": 10730,
+   "budget": 37,
+   "en": "This seems to be the only entrance."
+  },
+  {
+   "off": 10767,
+   "budget": 31,
+   "en": "No other way in or out.",
+   "long": "There's no other way in or out."
+  },
+  {
+   "off": 10798,
+   "budget": 5,
+   "en": "Yell"
+  },
+  {
+   "off": 10803,
+   "budget": 19,
+   "en": "Open this door!"
+  },
+  {
+   "off": 10822,
+   "budget": 35,
+   "en": "JUNKER! Open the door!"
+  },
+  {
+   "off": 10857,
+   "budget": 19,
+   "en": "It's no use."
+  },
+  {
+   "off": 10876,
+   "budget": 23,
+   "en": "Let's resort to force.",
+   "long": "We'll have to force our way in."
+  },
+  {
+   "off": 10899,
+   "budget": 11,
+   "en": "Open door"
+  },
+  {
+   "off": 10910,
+   "budget": 23,
+   "en": "You step inside..."
+  },
+  {
+   "off": 10933,
+   "budget": 63,
+   "en": "I'm with JUNKER. Is this Freddy￥Nielsen's home?"
+  },
+  {
+   "off": 10996,
+   "budget": 25,
+   "en": "Yes, it is."
+  },
+  {
+   "off": 11021,
+   "budget": 17,
+   "en": "And you are?"
+  },
+  {
+   "off": 11038,
+   "budget": 29,
+   "en": "I'm Freddy's wife. Why?"
+  },
+  {
+   "off": 11067,
+   "budget": 31,
+   "en": "See, the woman from Gaudi.",
+   "long": "She's the woman we saw in Gaudi's￥records."
+  },
+  {
+   "off": 11098,
+   "budget": 23,
+   "en": "What is this about?"
+  },
+  {
+   "off": 11121,
+   "budget": 45,
+   "en": "Detective! What exactly do you want?"
+  },
+  {
+   "off": 11166,
+   "budget": 25,
+   "en": "Well? What do you want?"
+  },
+  {
+   "off": 11191,
+   "budget": 5,
+   "en": "Lisa"
+  },
+  {
+   "off": 11196,
+   "budget": 31,
+   "en": "Hmm. She's quite a beauty."
+  },
+  {
+   "off": 11227,
+   "budget": 35,
+   "en": "You have good taste, Detective."
+  },
+  {
+   "off": 11262,
+   "budget": 45,
+   "en": "That look.￥You suspect me, don't you?",
+   "long": "That look in your eyes. You suspect￥me, don't you?"
+  },
+  {
+   "off": 11307,
+   "budget": 5,
+   "en": "Room",
+   "long": "Inside"
+  },
+  {
+   "off": 11312,
+   "budget": 45,
+   "en": "It's a nice room, and very tidy."
+  },
+  {
+   "off": 11357,
+   "budget": 49,
+   "en": "The interior shows their good￥taste.",
+   "long": "The furnishings show that whoever￥lives here has good taste."
+  },
+  {
+   "off": 11406,
+   "budget": 3,
+   "en": "Wl",
+   "long": "Wall"
+  },
+  {
+   "off": 11409,
+   "budget": 43,
+   "en": "Hmm? There's a map on the wall."
+  },
+  {
+   "off": 11452,
+   "budget": 35,
+   "en": "Nothing else is put up.",
+   "long": "There's nothing on the wall besides￥the map."
+  },
+  {
+   "off": 11487,
+   "budget": 59,
+   "en": "Somehow it doesn't fit...￥this map, this interior...",
+   "long": "That map looks out of place with the￥rest of the furnishings."
+  },
+  {
+   "off": 11546,
+   "budget": 5,
+   "en": "Map"
+  },
+  {
+   "off": 11551,
+   "budget": 33,
+   "en": "Stuck up carelessly with tape.",
+   "long": "It's been casually stuck up with￥tape."
+  },
+  {
+   "off": 11584,
+   "budget": 35,
+   "en": "An old printed 2D map.",
+   "long": "It's an old printed, two-dimensional￥map."
+  },
+  {
+   "off": 11619,
+   "budget": 57,
+   "en": "Where's this a map of? It isn't Neo￥Kobe."
+  },
+  {
+   "off": 11676,
+   "budget": 43,
+   "en": "Excuse me! I need to examine you."
+  },
+  {
+   "off": 11719,
+   "budget": 19,
+   "en": "Shall I do it..."
+  },
+  {
+   "off": 11738,
+   "budget": 33,
+   "en": "Always, when it's a woman.",
+   "long": "You're always like this when it's a￥woman."
+  },
+  {
+   "off": 11771,
+   "budget": 37,
+   "en": "What! Where are you￥touching!",
+   "long": "What are you doing? Watch where you￥put your hands!"
+  },
+  {
+   "off": 11808,
+   "budget": 47,
+   "en": "Toothache since morning.￥I'm on edge!",
+   "long": "My tooth's been hurting all morning.￥I'm in no mood for this!"
+  },
+  {
+   "off": 11855,
+   "budget": 51,
+   "en": "I don't see anything suspicious."
+  },
+  {
+   "off": 11906,
+   "budget": 57,
+   "en": "I've only just tidied up,￥so don't turn it all over!",
+   "long": "I just finished tidying up. Don't￥turn everything upside down!"
+  },
+  {
+   "off": 11963,
+   "budget": 37,
+   "en": "...Only she is in the room.",
+   "long": "She seems to be alone in the￥apartment."
+  },
+  {
+   "off": 12000,
+   "budget": 31,
+   "en": "No sign of anyone else.",
+   "long": "There's no sign of anyone else￥having been here."
+  },
+  {
+   "off": 12031,
+   "budget": 23,
+   "en": "What do you want?",
+   "long": "What exactly do you want?"
+  },
+  {
+   "off": 12054,
+   "budget": 19,
+   "en": "What's this about?",
+   "long": "What are you talking about?"
+  },
+  {
+   "off": 12073,
+   "budget": 37,
+   "en": "It's a street map of Moscow."
+  },
+  {
+   "off": 12110,
+   "budget": 87,
+   "en": "Moscow? That ghost town since￥the Catastrophe, lost to border￥and world troubles?",
+   "long": "Moscow? The city that became a ghost￥town after the Catastrophe because￥of territorial disputes and￥international problems?"
+  },
+  {
+   "off": 12197,
+   "budget": 57,
+   "en": "But this map likely predates￥the 'Catastrophe'.",
+   "long": "This map probably dates from before￥the Catastrophe, though."
+  },
+  {
+   "off": 12254,
+   "budget": 57,
+   "en": "There's a mark here. Let's see. The￥Kremlin."
+  },
+  {
+   "off": 12311,
+   "budget": 15,
+   "en": "Suspicion",
+   "long": "Freddy suspected"
+  },
+  {
+   "off": 12326,
+   "budget": 71,
+   "en": "The truth is, we suspect your￥husband may be a Snatcher."
+  },
+  {
+   "off": 12397,
+   "budget": 57,
+   "en": "Freddy? Freddy, a Snatcher? That￥can't be."
+  },
+  {
+   "off": 12454,
+   "budget": 21,
+   "en": "Unbelievable..."
+  },
+  {
+   "off": 12475,
+   "budget": 13,
+   "en": "Montage"
+  },
+  {
+   "off": 12488,
+   "budget": 77,
+   "en": "This montage is a CG rebuild of the￥suspect seen at the scene.",
+   "long": "This is a computer-generated￥composite of a suspect seen at the￥crime scene."
+  },
+  {
+   "off": 12565,
+   "budget": 45,
+   "en": "It looks like him...￥but surely not...",
+   "long": "It does look like him, but that￥doesn't mean anything."
+  },
+  {
+   "off": 12610,
+   "budget": 33,
+   "en": "A chance likeness, perhaps?",
+   "long": "People can look alike, can't they?"
+  },
+  {
+   "off": 12643,
+   "budget": 5,
+   "en": "Ask"
+  },
+  {
+   "off": 12648,
+   "budget": 13,
+   "en": "About Gibson"
+  },
+  {
+   "off": 12661,
+   "budget": 31,
+   "en": "Gibson? Who's that?"
+  },
+  {
+   "off": 12692,
+   "budget": 27,
+   "en": "I don't know such a man.",
+   "long": "I don't know anyone by that name."
+  },
+  {
+   "off": 12719,
+   "budget": 13,
+   "en": "About Freddy"
+  },
+  {
+   "off": 12732,
+   "budget": 11,
+   "en": "Of late",
+   "long": "Recent behavior"
+  },
+  {
+   "off": 12743,
+   "budget": 67,
+   "en": "Now you mention it, he has￥been odd lately. But a Snatcher...",
+   "long": "Now that you mention it, he's been￥acting strangely lately. But a￥Snatcher?"
+  },
+  {
+   "off": 12810,
+   "budget": 11,
+   "en": "Health"
+  },
+  {
+   "off": 12821,
+   "budget": 43,
+   "en": "Anything wrong with his￥health lately?",
+   "long": "Have you noticed any physical￥changes in your husband lately?"
+  },
+  {
+   "off": 12864,
+   "budget": 47,
+   "en": "No. He eats well. Nothing's changed."
+  },
+  {
+   "off": 12911,
+   "budget": 15,
+   "en": "And his skin?",
+   "long": "Anything wrong with his skin?"
+  },
+  {
+   "off": 12926,
+   "budget": 61,
+   "en": "Skin?￥...I've not looked lately, but it's￥fine, surely?",
+   "long": "His skin? I haven't seen it lately,￥but I suppose it's fine."
+  },
+  {
+   "off": 12987,
+   "budget": 57,
+   "en": "He was ill last year... but he￥seems very well now.",
+   "long": "He was sick last year, but he seems￥to be feeling great now."
+  },
+  {
+   "off": 13044,
+   "budget": 5,
+   "en": "Work",
+   "long": "Occupation"
+  },
+  {
+   "off": 13049,
+   "budget": 77,
+   "en": "Your husband drives a taxi...￥A 'black taxi', perhaps?",
+   "long": "Your husband's a taxi driver, isn't￥he? Does he drive an unlicensed￥taxi?"
+  },
+  {
+   "off": 13126,
+   "budget": 21,
+   "en": "Is that a threat?",
+   "long": "Are you threatening me?"
+  },
+  {
+   "off": 13147,
+   "budget": 27,
+   "en": "So it is unlicensed?"
+  },
+  {
+   "off": 13174,
+   "budget": 53,
+   "en": "Yes. My husband drives an unlicensed￥taxi."
+  },
+  {
+   "off": 13227,
+   "budget": 99,
+   "en": "What's wrong with that? They might￥be authorized next April, right?￥Then it wouldn't be illegal."
+  },
+  {
+   "off": 13326,
+   "budget": 153,
+   "en": "That's not the issue. An unlicensed￥taxi has no records of his working￥hours. We have to rely on people's￥memories to establish his alibi."
+  },
+  {
+   "off": 13479,
+   "budget": 9,
+   "en": "Alibi"
+  },
+  {
+   "off": 13488,
+   "budget": 89,
+   "en": "Was your husband home around eight￥last Thursday evening? Or was he￥working?"
+  },
+  {
+   "off": 13577,
+   "budget": 29,
+   "en": "Let's see. Last Thursday?"
+  },
+  {
+   "off": 13606,
+   "budget": 57,
+   "en": "Oh, yes! He had the day off. He was￥home."
+  },
+  {
+   "off": 13663,
+   "budget": 85,
+   "en": "He watched the 'Beagle￥Jerusalem' launch on TV, the￥first Mars migration...",
+   "long": "He was watching the launch of the￥Beagle Jerusalem on TV. The first￥Mars colonization mission."
+  },
+  {
+   "off": 13748,
+   "budget": 13,
+   "en": "You're sure?",
+   "long": "Are you sure?"
+  },
+  {
+   "off": 13761,
+   "budget": 97,
+   "en": "Yes, but I went to a friend's house￥that evening. I wasn't with him the￥whole time."
+  },
+  {
+   "off": 13858,
+   "budget": 61,
+   "en": "My friend's younger brother is the￥Beagle's pilot."
+  },
+  {
+   "off": 13919,
+   "budget": 49,
+   "en": "A wife can't prove a husband's￥alibi...",
+   "long": "A wife can't establish her husband's￥alibi, can she?"
+  },
+  {
+   "off": 13968,
+   "budget": 47,
+   "en": "So, could you tell me about your￥husband?",
+   "long": "So I'd like you to tell me about￥your husband."
+  },
+  {
+   "off": 14015,
+   "budget": 59,
+   "en": "He's out now. I don't know when￥he'll be back."
+  },
+  {
+   "off": 14074,
+   "budget": 55,
+   "en": "Has your husband been acting￥strangely lately?"
+  },
+  {
+   "off": 14129,
+   "budget": 47,
+   "en": "Well...￥Come to think, it's been a while.",
+   "long": "Well, now that you mention it, it's￥been a while."
+  },
+  {
+   "off": 14176,
+   "budget": 11,
+   "en": "A while?"
+  },
+  {
+   "off": 14187,
+   "budget": 25,
+   "en": "Oh, nothing. Let's see."
+  },
+  {
+   "off": 14212,
+   "budget": 93,
+   "en": "He drives a 'manned taxi', but￥lately he seems to go out at night￥without working.",
+   "long": "He drives a manned taxi, but lately￥he's been going out at night even￥when he isn't working."
+  },
+  {
+   "off": 14305,
+   "budget": 19,
+   "en": "Out at night..."
+  },
+  {
+   "off": 14324,
+   "budget": 45,
+   "en": "I'd like to ask you about Freddy."
+  },
+  {
+   "off": 14369,
+   "budget": 25,
+   "en": "Has he done something?",
+   "long": "Has something happened to him?"
+  },
+  {
+   "off": 14394,
+   "budget": 37,
+   "en": "Has he got into police trouble?",
+   "long": "Has he done something to get in￥trouble with the police?"
+  },
+  {
+   "off": 14431,
+   "budget": 21,
+   "en": "Explain yourself.",
+   "long": "Please explain what's going on."
+  },
+  {
+   "off": 14452,
+   "budget": 15,
+   "en": "Outer Heaven"
+  },
+  {
+   "off": 14467,
+   "budget": 45,
+   "en": "Have you ever been to Outer Heaven?"
+  },
+  {
+   "off": 14512,
+   "budget": 21,
+   "en": "What? Who's that?"
+  },
+  {
+   "off": 14533,
+   "budget": 31,
+   "en": "Heard your husband went?",
+   "long": "Have you heard of your husband going￥there?"
+  },
+  {
+   "off": 14564,
+   "budget": 35,
+   "en": "Hm... is it some seedy bar?",
+   "long": "I don't know. Is it some sleazy bar?"
+  },
+  {
+   "off": 14599,
+   "budget": 11,
+   "en": "The map",
+   "long": "Meaning of map"
+  },
+  {
+   "off": 14610,
+   "budget": 13,
+   "en": "This map?",
+   "long": "What about this map?"
+  },
+  {
+   "off": 14623,
+   "budget": 71,
+   "en": "He bought it three months ago and￥put it up. I have no idea why."
+  },
+  {
+   "off": 14694,
+   "budget": 29,
+   "en": "I don't know either...",
+   "long": "I don't understand it either."
+  },
+  {
+   "off": 14723,
+   "budget": 9,
+   "en": "Sneeze"
+  },
+  {
+   "off": 14732,
+   "budget": 63,
+   "en": "Have you been sneezing a lot lately,￥even without a cold?"
+  },
+  {
+   "off": 14795,
+   "budget": 51,
+   "en": "Sneezing? I haven't had a cold this￥year."
+  },
+  {
+   "off": 14846,
+   "budget": 55,
+   "en": "I'm the healthy type myself.￥Does it matter?",
+   "long": "I'm usually very healthy. What does￥that have to do with anything?"
+  },
+  {
+   "off": 14901,
+   "budget": 29,
+   "en": "All right! I believe you."
+  },
+  {
+   "off": 14930,
+   "budget": 21,
+   "en": "I don't doubt you.",
+   "long": "I'm not doubting you."
+  },
+  {
+   "off": 14951,
+   "budget": 5,
+   "en": "Drop",
+   "long": "Candy"
+  },
+  {
+   "off": 14956,
+   "budget": 11,
+   "en": "What?",
+   "long": "What's that?"
+  },
+  {
+   "off": 14967,
+   "budget": 7,
+   "en": "Proof",
+   "long": "Evidence"
+  },
+  {
+   "off": 14974,
+   "budget": 7,
+   "en": "Paper",
+   "long": "Scrap of paper"
+  },
+  {
+   "off": 14981,
+   "budget": 5,
+   "en": "Key"
+  },
+  {
+   "off": 14986,
+   "budget": 11,
+   "en": "Sunblock"
+  },
+  {
+   "off": 14997,
+   "budget": 3,
+   "en": "Pc",
+   "long": "Chess piece"
+  },
+  {
+   "off": 15000,
+   "budget": 9,
+   "en": "Disk"
+  },
+  {
+   "off": 15009,
+   "budget": 5,
+   "en": "Pic",
+   "long": "Photo"
+  },
+  {
+   "off": 15014,
+   "budget": 15,
+   "en": "Gibson's photo"
+  },
+  {
+   "off": 15029,
+   "budget": 17,
+   "en": "Montage photo"
+  },
+  {
+   "off": 15046,
+   "budget": 73,
+   "en": "That's my husband!＠＠My husband a￥Snatcher? Surely some mistake?",
+   "long": "That's my husband!＠＠There must be some￥mistake. He can't be a Snatcher!"
+  },
+  {
+   "off": 15119,
+   "budget": 19,
+   "en": "Unbelievable..."
+  },
+  {
+   "off": 15138,
+   "budget": 35,
+   "en": "That's my husband... what is it?",
+   "long": "That's my husband. Has something￥happened?"
+  },
+  {
+   "off": 15173,
+   "budget": 65,
+   "en": "Where did you get the idea that my￥husband is a Snatcher?"
+  },
+  {
+   "off": 15238,
+   "budget": 43,
+   "en": "We have a composite photo."
+  },
+  {
+   "off": 15281,
+   "budget": 23,
+   "en": "That photo just now?",
+   "long": "You mean the photo you showed me?"
+  },
+  {
+   "off": 15304,
+   "budget": 41,
+   "en": "But that photo.￥Really my husband?",
+   "long": "But is that really my husband in the￥photo?"
+  },
+  {
+   "off": 15345,
+   "budget": 43,
+   "en": "Composites are easy to make￥nowadays.",
+   "long": "You can make any sort of composite￥photo these days, can't you?"
+  },
+  {
+   "off": 15388,
+   "budget": 25,
+   "en": "May I see it?"
+  },
+  {
+   "off": 15413,
+   "budget": 37,
+   "en": "Could you show me that composite?"
+  },
+  {
+   "off": 15450,
+   "budget": 43,
+   "en": "Is that what you came to ask,￥Detective?"
+  },
+  {
+   "off": 15493,
+   "budget": 23,
+   "en": "Tell me what you want.",
+   "long": "Please tell me why you're here."
+  },
+  {
+   "off": 15516,
+   "budget": 61,
+   "en": "To examine me,￥show me a ＠黄scanning warrant＠白.",
+   "long": "If you want to examine me, show me￥your ＠黄scanning warrant＠白."
+  },
+  {
+   "off": 15577,
+   "budget": 61,
+   "en": "Without one, JUNKER can't search￥a citizen's body!",
+   "long": "JUNKER can't perform physical￥examinations on citizens without￥one!"
+  },
+  {
+   "off": 15638,
+   "budget": 63,
+   "en": "No further without showing a￥＠黄scanning warrant＠白...",
+   "long": "You'll have to show me a ＠黄scanning￥warrant＠白 before you go any further."
+  },
+  {
+   "off": 15701,
+   "budget": 57,
+   "en": "＠黄No scanning warrant＠白?￥Then stop.",
+   "long": "If you don't have a ＠黄scanning￥warrant＠白, would you please stop?"
+  },
+  {
+   "off": 15758,
+   "budget": 21,
+   "en": "What is that?"
+  },
+  {
+   "off": 15779,
+   "budget": 25,
+   "en": "What about it?"
+  },
+  {
+   "off": 15804,
+   "budget": 59,
+   "en": "Stop repeating yourself! My tooth￥hurts!"
+  },
+  {
+   "off": 15863,
+   "budget": 57,
+   "en": "Don't press so...￥My tooth has ached since morning.",
+   "long": "Don't keep pestering me. My tooth's￥been hurting all morning."
+  },
+  {
+   "off": 15920,
+   "budget": 65,
+   "en": "Don't show that again.￥My tooth aches and I'm on edge.",
+   "long": "Stop showing me the same thing! This￥toothache is getting on my nerves."
+  },
+  {
+   "off": 15985,
+   "budget": 27,
+   "en": "Don't show that again!",
+   "long": "Stop showing me the same thing!"
+  },
+  {
+   "off": 16012,
+   "budget": 29,
+   "en": "Gillian?! That sneeze?",
+   "long": "Gillian! Why are you sneezing?"
+  },
+  {
+   "off": 16041,
+   "budget": 29,
+   "en": "Could it be Snow Cedar?"
+  },
+  {
+   "off": 16070,
+   "budget": 27,
+   "en": "A Snatcher, this close by?",
+   "long": "Is there a Snatcher nearby?"
+  },
+  {
+   "off": 16097,
+   "budget": 25,
+   "en": "Motion! The bathroom!",
+   "long": "Movement detected! In the bathroom!"
+  },
+  {
+   "off": 16122,
+   "budget": 55,
+   "en": "It's moving fast! Let's get to the￥bathroom!"
+  },
+  {
+   "off": 16177,
+   "budget": 11,
+   "en": "To bath",
+   "long": "Go to bathroom"
+  },
+  {
+   "off": 16188,
+   "budget": 29,
+   "en": "Ready, Metal? Let's go!"
+  },
+  {
+   "off": 16217,
+   "budget": 13,
+   "en": "Go ahead..."
+  },
+  {
+   "off": 16230,
+   "budget": 11,
+   "en": "Around",
+   "long": "Look around"
+  },
+  {
+   "off": 16241,
+   "budget": 27,
+   "en": "I don't see Freddy!"
+  },
+  {
+   "off": 16268,
+   "budget": 31,
+   "en": "He doesn't seem to be here.",
+   "long": "He doesn't seem to be in this room."
+  },
+  {
+   "off": 16299,
+   "budget": 13,
+   "en": "Check",
+   "long": "Investigate area"
+  },
+  {
+   "off": 16312,
+   "budget": 35,
+   "en": "No sign of anyone in this room!",
+   "long": "There's no sign of anyone in this￥room!"
+  },
+  {
+   "off": 16347,
+   "budget": 35,
+   "en": "Nothing on the infrared sensor.",
+   "long": "Nothing on the infrared sensors￥either."
+  },
+  {
+   "off": 16382,
+   "budget": 11,
+   "en": "Remains",
+   "long": "Look at remains"
+  },
+  {
+   "off": 16393,
+   "budget": 11,
+   "en": "Listen"
+  },
+  {
+   "off": 16404,
+   "budget": 25,
+   "en": "I can't hear anything."
+  },
+  {
+   "off": 16429,
+   "budget": 27,
+   "en": "There's no sound."
+  },
+  {
+   "off": 16456,
+   "budget": 67,
+   "en": "Nothing changed from before.￥No sign anyone has touched it.",
+   "long": "Nothing has changed since we left.￥No one seems to have touched￥anything."
+  },
+  {
+   "off": 16523,
+   "budget": 43,
+   "en": "No sign anyone touched Lisa's￥remains.",
+   "long": "No one seems to have touched Lisa's￥remains."
+  },
+  {
+   "off": 16566,
+   "budget": 21,
+   "en": "Freddy's bathroom.",
+   "long": "This is Freddy's bathroom."
+  },
+  {
+   "off": 16587,
+   "budget": 61,
+   "en": "Go ahead. Look around all you like.￥I'll be over here."
+  },
+  {
+   "off": 16648,
+   "budget": 11,
+   "en": "Back",
+   "long": "To living room"
+  },
+  {
+   "off": 16659,
+   "budget": 27,
+   "en": "The search isn't done.",
+   "long": "We haven't finished investigating."
+  },
+  {
+   "off": 16686,
+   "budget": 55,
+   "en": "Let's look for clues to the￥Snatchers here, Gillian."
+  },
+  {
+   "off": 16741,
+   "budget": 37,
+   "en": "A smart bathroom. Gleaming.",
+   "long": "What a stylish bathroom. It's￥spotless."
+  },
+  {
+   "off": 16778,
+   "budget": 41,
+   "en": "No comparison with Ivan's￥bathroom.",
+   "long": "There's no comparison with Ivan's￥bathroom."
+  },
+  {
+   "off": 16819,
+   "budget": 5,
+   "en": "Tub",
+   "long": "Bathtub"
+  },
+  {
+   "off": 16824,
+   "budget": 21,
+   "en": "It's full of water."
+  },
+  {
+   "off": 16845,
+   "budget": 41,
+   "en": "Bath salts have turned the water￥green."
+  },
+  {
+   "off": 16886,
+   "budget": 29,
+   "en": "Odd, somehow... this tub.",
+   "long": "There's something strange about this￥tub."
+  },
+  {
+   "off": 16915,
+   "budget": 3,
+   "en": "Mr",
+   "long": "Mirror"
+  },
+  {
+   "off": 16918,
+   "budget": 43,
+   "en": "See, the mirror shows Gillian.",
+   "long": "Look, Gillian. You can see yourself￥in the mirror."
+  },
+  {
+   "off": 16961,
+   "budget": 31,
+   "en": "Handsome as ever."
+  },
+  {
+   "off": 16992,
+   "budget": 25,
+   "en": "Gillian is reflected.",
+   "long": "Your reflection is in it, Gillian."
+  },
+  {
+   "off": 17017,
+   "budget": 3,
+   "en": "Sh",
+   "long": "Shelf"
+  },
+  {
+   "off": 17020,
+   "budget": 45,
+   "en": "Oh, have we not seen that￥bottle before?",
+   "long": "Haven't we seen that bottle￥somewhere before?"
+  },
+  {
+   "off": 17065,
+   "budget": 57,
+   "en": "Come to think, this shelf...￥this bottle I remember.",
+   "long": "Come to think of it, that bottle on￥the shelf looks familiar."
+  },
+  {
+   "off": 17122,
+   "budget": 33,
+   "en": "Bottles of all sorts on it.",
+   "long": "There are all kinds of bottles on￥the shelf."
+  },
+  {
+   "off": 17155,
+   "budget": 41,
+   "en": "A woman in the house￥shows, doesn't it.",
+   "long": "You can certainly tell a woman lives￥here by the bathroom."
+  },
+  {
+   "off": 17196,
+   "budget": 3,
+   "en": "Bo",
+   "long": "Bottle"
+  },
+  {
+   "off": 17199,
+   "budget": 13,
+   "en": "This is it!"
+  },
+  {
+   "off": 17212,
+   "budget": 37,
+   "en": "The same jar as at Jean's house!",
+   "long": "It's the same kind of container we￥found at Jean's house!"
+  },
+  {
+   "off": 17249,
+   "budget": 47,
+   "en": "It looks like the one at￥Jean's house.",
+   "long": "It looks like the one we found at￥Jean's house."
+  },
+  {
+   "off": 17296,
+   "budget": 33,
+   "en": "A clean system bath tub.",
+   "long": "It's a clean, prefabricated bathtub."
+  },
+  {
+   "off": 17329,
+   "budget": 35,
+   "en": "I'd love to try a bath like this.",
+   "long": "I'd love to take a bath in something￥like this."
+  },
+  {
+   "off": 17364,
+   "budget": 41,
+   "en": "Hmm? There's no plug. What an odd￥tub."
+  },
+  {
+   "off": 17405,
+   "budget": 53,
+   "en": "You're right. It's strange for a￥prefabricated tub."
+  },
+  {
+   "off": 17458,
+   "budget": 67,
+   "en": "No waste matter on the tub's￥surface. Cleaned well.",
+   "long": "There's no residue on the tub's￥surface. It's been thoroughly￥cleaned."
+  },
+  {
+   "off": 17525,
+   "budget": 37,
+   "en": "How do they drain the bathwater?"
+  },
+  {
+   "off": 17562,
+   "budget": 15,
+   "en": "No idea."
+  },
+  {
+   "off": 17577,
+   "budget": 55,
+   "en": "A heating wire within keeps it￥clear of steam.",
+   "long": "The mirror has built-in heating￥wires to keep it from steaming up."
+  },
+  {
+   "off": 17632,
+   "budget": 65,
+   "en": "Behind the mirror is a hidden￥cupboard! ...Or rather, no.",
+   "long": "There's a hidden cabinet behind the￥mirror! Actually, no, there isn't."
+  },
+  {
+   "off": 17697,
+   "budget": 47,
+   "en": "Look, Gillian. You can see your￥reflection."
+  },
+  {
+   "off": 17744,
+   "budget": 55,
+   "en": "There's no hidden cabinet behind it."
+  },
+  {
+   "off": 17799,
+   "budget": 41,
+   "en": "Nothing suspicious on this￥shelf.",
+   "long": "There doesn't seem to be anything￥suspicious about this shelf."
+  },
+  {
+   "off": 17840,
+   "budget": 33,
+   "en": "I'll analyse the contents.",
+   "long": "I'll analyze the contents of the￥bottle."
+  },
+  {
+   "off": 17873,
+   "budget": 41,
+   "en": "It's definitely ＠赤sunscreen＠白!"
+  },
+  {
+   "off": 17914,
+   "budget": 69,
+   "en": "So much sunblock in midwinter..￥and signs of use, at that!",
+   "long": "This much sunscreen in the middle of￥winter? And they've been using it!"
+  },
+  {
+   "off": 17983,
+   "budget": 41,
+   "en": "Aim for the slit in its head!＠Ｃ"
+  },
+  {
+   "off": 18024,
+   "budget": 9,
+   "en": "Remains"
+  },
+  {
+   "off": 18033,
+   "budget": 27,
+   "en": "It looks dead."
+  },
+  {
+   "off": 18060,
+   "budget": 19,
+   "en": "Fearsome thing..."
+  },
+  {
+   "off": 18079,
+   "budget": 11,
+   "en": "Check",
+   "long": "Check remains"
+  },
+  {
+   "off": 18090,
+   "budget": 27,
+   "en": "Every function stopped.",
+   "long": "It has shut down completely."
+  },
+  {
+   "off": 18117,
+   "budget": 59,
+   "en": "So the skin tissue under Gibson's￥nails came from her."
+  },
+  {
+   "off": 18176,
+   "budget": 69,
+   "en": "The ID card proving all JUNKER￥authority. Keep it safe.",
+   "long": "This ID card certifies all your￥authority as a JUNKER. Take good￥care of it."
+  },
+  {
+   "off": 18245,
+   "budget": 7,
+   "en": "Funds"
+  },
+  {
+   "off": 18252,
+   "budget": 35,
+   "en": "It's the money JUNKER provided."
+  },
+  {
+   "off": 18287,
+   "budget": 35,
+   "en": "It's the candy from Jean's pocket."
+  },
+  {
+   "off": 18322,
+   "budget": 79,
+   "en": "Gibson's memo on where the￥computer data on the Snatcher￥weakness is kept.",
+   "long": "Gibson's note tells us where to find￥his computer data on the Snatchers'￥weakness."
+  },
+  {
+   "off": 18401,
+   "budget": 47,
+   "en": "What does \"Search the house!\" mean?"
+  },
+  {
+   "off": 18448,
+   "budget": 33,
+   "en": "The key to Gibson's desk drawer.",
+   "long": "It's the key to Gibson's desk￥drawer."
+  },
+  {
+   "off": 18481,
+   "budget": 33,
+   "en": "It's quite an antique."
+  },
+  {
+   "off": 18514,
+   "budget": 37,
+   "en": "A chess piece Gibson carried.",
+   "long": "It's the chess piece Gibson was￥carrying."
+  },
+  {
+   "off": 18551,
+   "budget": 45,
+   "en": "It's a chess piece found in Gibson's￥coat.",
+   "long": "It's the chess piece we found in￥Gibson's coat."
+  },
+  {
+   "off": 18596,
+   "budget": 45,
+   "en": "The disk with the Snatchers'￥weakness.",
+   "long": "It's the disk with data on the￥Snatchers' weakness."
+  },
+  {
+   "off": 18641,
+   "budget": 37,
+   "en": "It's a computer floppy disk."
+  },
+  {
+   "off": 18678,
+   "budget": 81,
+   "en": "It's the sunscreen the Snatchers￥use, if Gibson was right."
+  },
+  {
+   "off": 18759,
+   "budget": 71,
+   "en": "Plain sunblock.￥The seal carries the logo of￥the shop it came from.",
+   "long": "It's just sunscreen. The sticker has￥the logo of the store that sold it."
+  },
+  {
+   "off": 18830,
+   "budget": 7,
+   "en": "Mask"
+  },
+  {
+   "off": 18837,
+   "budget": 47,
+   "en": "It's a costume mask bought at Joy￥Division.",
+   "long": "It's the costume mask we bought at￥Joy Division."
+  },
+  {
+   "off": 18884,
+   "budget": 21,
+   "en": "It's a Moai mask."
+  },
+  {
+   "off": 18905,
+   "budget": 25,
+   "en": "It's a Koitsu mask."
+  },
+  {
+   "off": 18930,
+   "budget": 41,
+   "en": "It's a photo of Jean Jack Gibson."
+  },
+  {
+   "off": 18971,
+   "budget": 47,
+   "en": "A montage built from a￥witness account.",
+   "long": "It's the composite photo we made￥from the witness's description."
+  },
+  {
+   "off": 19018,
+   "budget": 67,
+   "en": "It has a built-in chip containing￥all your records, Gillian."
+  },
+  {
+   "off": 19085,
+   "budget": 49,
+   "en": "Case expenses are covered￥as work requires.",
+   "long": "In principle, there's no limit on￥reimbursement for necessary￥investigation expenses."
+  },
+  {
+   "off": 19134,
+   "budget": 45,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "long": "It's the candy Jean used to give the￥children at the orphanage."
+  },
+  {
+   "off": 19179,
+   "budget": 25,
+   "en": "It's the note Jean left."
+  },
+  {
+   "off": 19204,
+   "budget": 55,
+   "en": "Plain paper. It's certainly￥Jean's handwriting.",
+   "long": "It's written on ordinary paper. It's￥definitely Jean's handwriting."
+  },
+  {
+   "off": 19259,
+   "budget": 35,
+   "en": "Key to Gibson's squad desk.",
+   "long": "It's the key to Gibson's desk in the￥Squad room."
+  },
+  {
+   "off": 19294,
+   "budget": 83,
+   "en": "What does this key open? Does anyone￥still use keys like this?"
+  },
+  {
+   "off": 19377,
+   "budget": 57,
+   "en": "It's a wooden chess piece. The￥queen."
+  },
+  {
+   "off": 19434,
+   "budget": 37,
+   "en": "It's a carved wooden chess piece."
+  },
+  {
+   "off": 19471,
+   "budget": 45,
+   "en": "The disk holding Gibson's￥case data.",
+   "long": "It's the disk containing Gibson's￥investigation data."
+  },
+  {
+   "off": 19516,
+   "budget": 37,
+   "en": "It's a five-inch floppy disk."
+  },
+  {
+   "off": 19553,
+   "budget": 67,
+   "en": "The bottle says, \"Joy Division, the￥store that has everything.\""
+  },
+  {
+   "off": 19620,
+   "budget": 63,
+   "en": "A fine special-effects mask by￥Rick Bakery, all the rage now.",
+   "long": "It's one of the popular, detailed￥special-effects masks by Rick￥Bakery."
+  },
+  {
+   "off": 19683,
+   "budget": 41,
+   "en": "A 2D composite photo by Gaudi.",
+   "long": "It's a two-dimensional composite￥photo generated by Gaudi."
+  },
+  {
+   "off": 19724,
+   "budget": 73,
+   "en": "Gibson took it from the chessboard￥at his home. What could it mean?"
+  },
+  {
+   "off": 19797,
+   "budget": 37,
+   "en": "Jean loved riddles."
+  },
+  {
+   "off": 19834,
+   "budget": 31,
+   "en": "Is it hinting at something?",
+   "long": "Could it be a clue to something?"
+  },
+  {
+   "off": 19865,
+   "budget": 33,
+   "en": "If it isn't Ivan..."
+  },
+  {
+   "off": 19898,
+   "budget": 17,
+   "en": "Be careful."
+  },
+  {
+   "off": 19915,
+   "budget": 35,
+   "en": "This man is Freddy Nielsen."
+  },
+  {
+   "off": 19950,
+   "budget": 47,
+   "en": "There's little doubt. Let's find￥him."
+  },
+  {
+   "off": 19997,
+   "budget": 47,
+   "en": "House? Come to think...￥I've no home either.",
+   "long": "Home, huh? Come to think of it, I￥don't have a home to go back to."
+  },
+  {
+   "off": 20044,
+   "budget": 67,
+   "en": "Cheer up. Someday you'll be able to￥live with Jamie again."
+  },
+  {
+   "off": 20111,
+   "budget": 53,
+   "en": "Family life? Maybe that doesn't suit￥a JUNKER."
+  },
+  {
+   "off": 20164,
+   "budget": 21,
+   "en": "Plenty left, surely?",
+   "long": "There's still plenty left, right?"
+  },
+  {
+   "off": 20185,
+   "budget": 47,
+   "en": "It's dropped a bit, with￥your food and drink.",
+   "long": "You've spent quite a lot on all that￥eating and drinking, Gillian."
+  },
+  {
+   "off": 20232,
+   "budget": 45,
+   "en": "Don't make it sound bad.￥They're expenses.",
+   "long": "Don't make me sound bad. Those were￥necessary investigation expenses."
+  },
+  {
+   "off": 20277,
+   "budget": 79,
+   "en": "The truth is...￥(It's cash, so nobody knows how much￥I spend.)",
+   "long": "Actually, (it's cash. If I keep￥quiet, they'll never know how much I￥spent.)"
+  },
+  {
+   "off": 20356,
+   "budget": 19,
+   "en": "Did you say that?",
+   "long": "Did you say something?"
+  },
+  {
+   "off": 20375,
+   "budget": 21,
+   "en": "No. Never mind."
+  },
+  {
+   "off": 20396,
+   "budget": 45,
+   "en": "The very same sunblock as￥Freddy's.",
+   "long": "It was exactly the same sunscreen￥Freddy had."
+  },
+  {
+   "off": 20441,
+   "budget": 43,
+   "en": "Both bottles came from Joy Division."
+  },
+  {
+   "off": 20484,
+   "budget": 13,
+   "en": "Continue"
+  },
+  {
+   "off": 20497,
+   "budget": 31,
+   "en": "Then... we continue the case.",
+   "long": "Let's continue the investigation."
+  },
+  {
+   "off": 20528,
+   "budget": 13,
+   "en": "Quit game"
+  },
+  {
+   "off": 20541,
+   "budget": 33,
+   "en": "Then... we end the case here.",
+   "long": "We'll end the investigation here."
+  },
+  {
+   "off": 20576,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

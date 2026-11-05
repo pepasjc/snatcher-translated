@@ -1,0 +1,17 @@
+{
+ "scene": "B010",
+ "note": "BUG-015 verification: from the B010_harry bookmark (Mechanics verb menu after Harry's greeting), sweep Harry's conversation - the navigator (f5_0..f5_7) and the Blaster.",
+ "actions": [
+  {
+   "sweep": [
+    "Talk",
+    "Ask",
+    "Look",
+    "Investigate",
+    "Listen"
+   ],
+   "rounds": 2,
+   "why": "Harry, the Blaster, Metal Gear"
+  }
+ ]
+}

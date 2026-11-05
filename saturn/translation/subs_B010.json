@@ -1,0 +1,1798 @@
+{
+ "scene": "B010",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B010_000",
+   "line": 198,
+   "act": 1,
+   "sector": 3715,
+   "offset": 1278,
+   "size": 33233,
+   "b0": 0,
+   "b1": 33233,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I'm Gillian Seed. I've been assigned to JUNKER as of today.",
+   "rows": [
+    "I'm Gillian Seed. I've been",
+    "assigned to JUNKER as of",
+    "today."
+   ],
+   "rows_plain": [
+    "I'm Gillian Seed. I've been assigned",
+    "to JUNKER as of today."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_001",
+   "line": 199,
+   "act": 1,
+   "sector": 3729,
+   "offset": 1975,
+   "size": 28982,
+   "b0": 0,
+   "b1": 28982,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Mr. Gillian Seed. My apologies.",
+   "rows": [
+    "Mr. Gillian Seed. My",
+    "apologies."
+   ],
+   "rows_plain": [
+    "Mr. Gillian Seed. My apologies."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": 202
+  },
+  {
+   "id": "B010_002",
+   "line": 200,
+   "act": 1,
+   "sector": 3742,
+   "offset": 745,
+   "size": 9413,
+   "b0": 0,
+   "b1": 9413,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Mr. Seed.",
+   "rows": [
+    "Mr. Seed."
+   ],
+   "rows_plain": [
+    "Mr. Seed."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_003",
+   "line": 201,
+   "act": 1,
+   "sector": 3746,
+   "offset": 862,
+   "size": 28904,
+   "b0": 0,
+   "b1": 28904,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Just Gillian, Mika. Call me Gillian.",
+   "rows": [
+    "Just Gillian, Mika. Call me",
+    "Gillian."
+   ],
+   "rows_plain": [
+    "Just Gillian, Mika. Call me Gillian."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_004",
+   "line": 202,
+   "act": 1,
+   "sector": 3758,
+   "offset": 1878,
+   "size": 62582,
+   "b0": 0,
+   "b1": 62582,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "All right, Gillian. I'll open the door to HQ. I'll show you around inside.",
+   "rows": [
+    "All right, Gillian. I'll",
+    "open the door to HQ. I'll",
+    "show you around inside."
+   ],
+   "rows_plain": [
+    "All right, Gillian. I'll open the",
+    "door to HQ. I'll show you around",
+    "inside."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_005",
+   "line": 203,
+   "act": 1,
+   "sector": 3785,
+   "offset": 1712,
+   "size": 53356,
+   "b0": 0,
+   "b1": 53356,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Oh, right. The Chief asked me to show you around when you arrived.",
+   "rows": [
+    "Oh, right. The Chief asked",
+    "me to show you around when",
+    "you arrived."
+   ],
+   "rows_plain": [
+    "Oh, right. The Chief asked me to",
+    "show you around when you arrived."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_006",
+   "line": 204,
+   "act": 1,
+   "sector": 3808,
+   "offset": 1616,
+   "size": 6560,
+   "b0": 0,
+   "b1": 6560,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The Chief?",
+   "rows": [
+    "The Chief?"
+   ],
+   "rows_plain": [
+    "The Chief?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_007",
+   "line": 205,
+   "act": 1,
+   "sector": 3811,
+   "offset": 1204,
+   "size": 41543,
+   "b0": 0,
+   "b1": 41543,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "The head of JUNKER HQ. He's through that door.",
+   "rows": [
+    "The head of JUNKER HQ. He's",
+    "through that door."
+   ],
+   "rows_plain": [
+    "The head of JUNKER HQ. He's through",
+    "that door."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_008",
+   "line": 206,
+   "act": 1,
+   "sector": 3829,
+   "offset": 915,
+   "size": 30338,
+   "b0": 0,
+   "b1": 30338,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Chief, I've brought Mr. Gillian Seed.",
+   "rows": [
+    "Chief, I've brought Mr.",
+    "Gillian Seed."
+   ],
+   "rows_plain": [
+    "Chief, I've brought Mr. Gillian",
+    "Seed."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_009",
+   "line": 207,
+   "act": 1,
+   "sector": 3842,
+   "offset": 1041,
+   "size": 80531,
+   "b0": 0,
+   "b1": 80531,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Welcome, Gillian Seed. I'm Benson Cunningham, Chief of JUNKER HQ.",
+   "rows": [
+    "Welcome, Gillian Seed. I'm",
+    "Benson Cunningham, Chief of",
+    "JUNKER HQ."
+   ],
+   "rows_plain": [
+    "Welcome, Gillian Seed. I'm Benson",
+    "Cunningham, Chief of JUNKER HQ."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_010",
+   "line": 208,
+   "act": 1,
+   "sector": 3877,
+   "offset": 232,
+   "size": 40048,
+   "b0": 0,
+   "b1": 40048,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I'm Gillian Seed, from the 17th Special Forces Unit.",
+   "rows": [
+    "I'm Gillian Seed, from the",
+    "17th Special Forces Unit."
+   ],
+   "rows_plain": [
+    "I'm Gillian Seed, from the 17th",
+    "Special Forces Unit."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_011",
+   "line": 209,
+   "act": 1,
+   "sector": 3894,
+   "offset": 772,
+   "size": 92357,
+   "b0": 0,
+   "b1": 53949,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Seed, I've heard how well you did in special military training.",
+   "rows": [
+    "Seed, I've heard how well",
+    "you did in special military",
+    "training."
+   ],
+   "rows_plain": [
+    "Seed, I've heard how well you did in",
+    "special military training."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_011b",
+   "line": 209,
+   "act": 1,
+   "sector": 3894,
+   "offset": 772,
+   "size": 92357,
+   "b0": 53949,
+   "b1": 92357,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "I want you to put those talents to work on this assignment.",
+   "rows": [
+    "I want you to put those",
+    "talents to work on this",
+    "assignment."
+   ],
+   "rows_plain": [
+    "I want you to put those talents to",
+    "work on this assignment."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_012",
+   "line": 210,
+   "act": 1,
+   "sector": 3934,
+   "offset": 169,
+   "size": 74535,
+   "b0": 0,
+   "b1": 74535,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Your file says you have amnesia. Has your memory returned?",
+   "rows": [
+    "Your file says you have",
+    "amnesia. Has your memory",
+    "returned?"
+   ],
+   "rows_plain": [
+    "Your file says you have amnesia. Has",
+    "your memory returned?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_013",
+   "line": 211,
+   "act": 1,
+   "sector": 3966,
+   "offset": 336,
+   "size": 60895,
+   "b0": 0,
+   "b1": 30448,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That's right. The military found me three years ago.",
+   "rows": [
+    "That's right. The military",
+    "found me three years ago."
+   ],
+   "rows_plain": [
+    "That's right. The military found me",
+    "three years ago."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_013b",
+   "line": 211,
+   "act": 1,
+   "sector": 3966,
+   "offset": 336,
+   "size": 60895,
+   "b0": 30448,
+   "b1": 60895,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I remember nothing from before that.",
+   "rows": [
+    "I remember nothing from",
+    "before that."
+   ],
+   "rows_plain": [
+    "I remember nothing from before that."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_014",
+   "line": 212,
+   "act": 1,
+   "sector": 3992,
+   "offset": 807,
+   "size": 14189,
+   "b0": 0,
+   "b1": 14189,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "You had a wife, didn't you?",
+   "rows": [
+    "You had a wife, didn't you?"
+   ],
+   "rows_plain": [
+    "You had a wife, didn't you?"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_015",
+   "line": 213,
+   "act": 1,
+   "sector": 3998,
+   "offset": 1052,
+   "size": 74472,
+   "b0": 0,
+   "b1": 49648,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Yes, but we're separated now. Neither of us has any memories.",
+   "rows": [
+    "Yes, but we're separated",
+    "now. Neither of us has any",
+    "memories."
+   ],
+   "rows_plain": [
+    "Yes, but we're separated now.",
+    "Neither of us has any memories."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_015b",
+   "line": 213,
+   "act": 1,
+   "sector": 3998,
+   "offset": 1052,
+   "size": 74472,
+   "b0": 49648,
+   "b1": 74472,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "How could we make it work?",
+   "rows": [
+    "How could we make it work?"
+   ],
+   "rows_plain": [
+    "How could we make it work?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_016",
+   "line": 214,
+   "act": 1,
+   "sector": 4030,
+   "offset": 1156,
+   "size": 9726,
+   "b0": 0,
+   "b1": 9726,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "I can imagine.",
+   "rows": [
+    "I can imagine."
+   ],
+   "rows_plain": [
+    "I can imagine."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_017",
+   "line": 215,
+   "act": 1,
+   "sector": 4034,
+   "offset": 1586,
+   "size": 29209,
+   "b0": 0,
+   "b1": 29209,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "You should understand your assignment now.",
+   "rows": [
+    "You should understand your",
+    "assignment now."
+   ],
+   "rows_plain": [
+    "You should understand your",
+    "assignment now."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_018",
+   "line": 216,
+   "act": 1,
+   "sector": 4047,
+   "offset": 583,
+   "size": 30038,
+   "b0": 0,
+   "b1": 30038,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I see. Like a police badge.",
+   "rows": [
+    "I see. Like a police badge."
+   ],
+   "rows_plain": [
+    "I see. Like a police badge."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_019",
+   "line": 217,
+   "act": 1,
+   "sector": 4060,
+   "offset": 409,
+   "size": 43539,
+   "b0": 0,
+   "b1": 43539,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "It's not much, but here's money for your investigation expenses.",
+   "rows": [
+    "It's not much, but here's",
+    "money for your investigation",
+    "expenses."
+   ],
+   "rows_plain": [
+    "It's not much, but here's money for",
+    "your investigation expenses."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_020",
+   "line": 218,
+   "act": 1,
+   "sector": 4078,
+   "offset": 2116,
+   "size": 9369,
+   "b0": 0,
+   "b1": 9369,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Cash?",
+   "rows": [
+    "Cash?"
+   ],
+   "rows_plain": [
+    "Cash?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_021",
+   "line": 219,
+   "act": 1,
+   "sector": 4082,
+   "offset": 2189,
+   "size": 47255,
+   "b0": 0,
+   "b1": 47255,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Cards only work in certain areas. You'll definitely need cash.",
+   "rows": [
+    "Cards only work in certain",
+    "areas. You'll definitely",
+    "need cash."
+   ],
+   "rows_plain": [
+    "Cards only work in certain areas.",
+    "You'll definitely need cash."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_022",
+   "line": 220,
+   "act": 1,
+   "sector": 4103,
+   "offset": 640,
+   "size": 22181,
+   "b0": 0,
+   "b1": 22181,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Sounds like a rough city.",
+   "rows": [
+    "Sounds like a rough city."
+   ],
+   "rows_plain": [
+    "Sounds like a rough city."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_023",
+   "line": 221,
+   "act": 1,
+   "sector": 4112,
+   "offset": 1905,
+   "size": 37462,
+   "b0": 0,
+   "b1": 37462,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "Get your JUNKER equipment from Harry, our mechanic.",
+   "rows": [
+    "Get your JUNKER equipment",
+    "from Harry, our mechanic."
+   ],
+   "rows_plain": [
+    "Get your JUNKER equipment from",
+    "Harry, our mechanic."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_035",
+   "line": 227,
+   "act": 1,
+   "sector": 4190,
+   "offset": 683,
+   "size": 69107,
+   "b0": 0,
+   "b1": 69107,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "I'm Mika Slayton, JUNKER HQ's receptionist and operator. Nice to meet you.",
+   "rows": [
+    "I'm Mika Slayton, JUNKER",
+    "HQ's receptionist and",
+    "operator. Nice to meet you."
+   ],
+   "rows_plain": [
+    "I'm Mika Slayton, JUNKER HQ's",
+    "receptionist and operator. Nice to",
+    "meet you."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": 202
+  },
+  {
+   "id": "B010_024",
+   "line": 222,
+   "act": 1,
+   "sector": 4128,
+   "offset": 2183,
+   "size": 22352,
+   "b0": 0,
+   "b1": 22352,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Oh, Harry's back.",
+   "rows": [
+    "Oh, Harry's back."
+   ],
+   "rows_plain": [
+    "Oh, Harry's back."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_025",
+   "line": 223,
+   "act": 1,
+   "sector": 4138,
+   "offset": 1295,
+   "size": 46294,
+   "b0": 0,
+   "b1": 46294,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Welcome. You're Gillian Seed?",
+   "rows": [
+    "Welcome. You're Gillian",
+    "Seed?"
+   ],
+   "rows_plain": [
+    "Welcome. You're Gillian Seed?"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    4
+   ],
+   "face_src": 232
+  },
+  {
+   "id": "B010_026",
+   "line": 224,
+   "act": 1,
+   "sector": 4158,
+   "offset": 1109,
+   "size": 21386,
+   "b0": 0,
+   "b1": 21386,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Have we met somewhere?",
+   "rows": [
+    "Have we met somewhere?"
+   ],
+   "rows_plain": [
+    "Have we met somewhere?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_027",
+   "line": 225,
+   "act": 1,
+   "sector": 4167,
+   "offset": 1579,
+   "size": 24852,
+   "b0": 0,
+   "b1": 24852,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "No, this is the first time.",
+   "rows": [
+    "No, this is the first time."
+   ],
+   "rows_plain": [
+    "No, this is the first time."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_c0f70",
+   "line": 226,
+   "act": 1,
+   "sector": 4178,
+   "offset": 867,
+   "size": 27704,
+   "b0": 0,
+   "b1": 27704,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Then I must be imagining it.",
+   "rows": [
+    "Then I must be imagining it."
+   ],
+   "rows_plain": [
+    "Then I must be imagining it."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    4
+   ],
+   "face_src": 232
+  },
+  {
+   "id": "B010_c1f83",
+   "line": 228,
+   "act": 1,
+   "sector": 4220,
+   "offset": 70,
+   "size": 49940,
+   "b0": 0,
+   "b1": 49940,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Oh, right. Don't rush me. I've got it ready.",
+   "rows": [
+    "Oh, right. Don't rush me.",
+    "I've got it ready."
+   ],
+   "rows_plain": [
+    "Oh, right. Don't rush me. I've got",
+    "it ready."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_028",
+   "line": 229,
+   "act": 1,
+   "sector": 4241,
+   "offset": 1206,
+   "size": 175767,
+   "b0": 0,
+   "b1": 72917,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "This is the Blaster, a JUNKER's weapon. It has a feedback system.",
+   "rows": [
+    "This is the Blaster, a",
+    "JUNKER's weapon. It has a",
+    "feedback system."
+   ],
+   "rows_plain": [
+    "This is the Blaster, a JUNKER's",
+    "weapon. It has a feedback system."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_028b",
+   "line": 229,
+   "act": 1,
+   "sector": 4241,
+   "offset": 1206,
+   "size": 175767,
+   "b0": 72917,
+   "b1": 128286,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "It responds to the speed of your reflexes.",
+   "rows": [
+    "It responds to the speed of",
+    "your reflexes."
+   ],
+   "rows_plain": [
+    "It responds to the speed of your",
+    "reflexes."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_028c",
+   "line": 229,
+   "act": 1,
+   "sector": 4241,
+   "offset": 1206,
+   "size": 175767,
+   "b0": 128286,
+   "b1": 175767,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "The Blaster's performance depends on who's using it.",
+   "rows": [
+    "The Blaster's performance",
+    "depends on who's using it."
+   ],
+   "rows_plain": [
+    "The Blaster's performance depends on",
+    "who's using it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_029",
+   "line": 230,
+   "act": 1,
+   "sector": 4317,
+   "offset": 349,
+   "size": 21697,
+   "b0": 0,
+   "b1": 21697,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Go on, hold it.",
+   "rows": [
+    "Go on, hold it."
+   ],
+   "rows_plain": [
+    "Go on, hold it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_030",
+   "line": 231,
+   "act": 1,
+   "sector": 4326,
+   "offset": 1130,
+   "size": 20094,
+   "b0": 0,
+   "b1": 20094,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "It's light.",
+   "rows": [
+    "It's light."
+   ],
+   "rows_plain": [
+    "It's light."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_031",
+   "line": 232,
+   "act": 1,
+   "sector": 4335,
+   "offset": 308,
+   "size": 258065,
+   "b0": 0,
+   "b1": 52143,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Isn't it? Nothing like the ray guns the military uses.",
+   "rows": [
+    "Isn't it? Nothing like the",
+    "ray guns the military uses."
+   ],
+   "rows_plain": [
+    "Isn't it? Nothing like the ray guns",
+    "the military uses."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_031b",
+   "line": 232,
+   "act": 1,
+   "sector": 4335,
+   "offset": 308,
+   "size": 258065,
+   "b0": 52143,
+   "b1": 123582,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Super engineering plastic, carbon fiber and ceramic.",
+   "rows": [
+    "Super engineering plastic,",
+    "carbon fiber and ceramic."
+   ],
+   "rows_plain": [
+    "Super engineering plastic, carbon",
+    "fiber and ceramic."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_031c",
+   "line": 232,
+   "act": 1,
+   "sector": 4335,
+   "offset": 308,
+   "size": 258065,
+   "b0": 123582,
+   "b1": 166299,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "So temperature changes won't affect it.",
+   "rows": [
+    "So temperature changes won't",
+    "affect it."
+   ],
+   "rows_plain": [
+    "So temperature changes won't affect",
+    "it."
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_031d",
+   "line": 232,
+   "act": 1,
+   "sector": 4335,
+   "offset": 308,
+   "size": 258065,
+   "b0": 166299,
+   "b1": 258065,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "It's ergonomically designed for function and firepower. Well, do you like it?",
+   "rows": [
+    "It's ergonomically designed",
+    "for function and firepower.",
+    "Well, do you like it?"
+   ],
+   "rows_plain": [
+    "It's ergonomically designed for",
+    "function and firepower. Well, do you",
+    "like it?"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_c4f1",
+   "line": 233,
+   "act": 1,
+   "sector": 4446,
+   "offset": 409,
+   "size": 8784,
+   "b0": 0,
+   "b1": 8784,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Not bad.",
+   "rows": [
+    "Not bad."
+   ],
+   "rows_plain": [
+    "Not bad."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_f5_0",
+   "reel": 135,
+   "sdaif": "SDAIF_D5.AIF",
+   "rate": 30000,
+   "frames": 1960113,
+   "b0": 171566,
+   "b1": 719286,
+   "size": 3920280,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "I know. Shall we call the Navigator I built just for you? Hey, Metal Gear!",
+   "rows": [
+    "I know. Shall we call the",
+    "Navigator I built just for",
+    "you? Hey, Metal Gear!"
+   ],
+   "rows_plain": [
+    "I know. Shall we call the Navigator",
+    "I built just for you? Hey, Metal",
+    "Gear!"
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B010_f5_2",
+   "reel": 135,
+   "sdaif": "SDAIF_D5.AIF",
+   "rate": 30000,
+   "frames": 1960113,
+   "b0": 1797536,
+   "b1": 1977444,
+   "size": 3920280,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Metal, introduce yourself.",
+   "rows": [
+    "Metal, introduce yourself."
+   ],
+   "rows_plain": [
+    "Metal, introduce yourself."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B010_f5_3",
+   "reel": 135,
+   "sdaif": "SDAIF_D5.AIF",
+   "rate": 30000,
+   "frames": 1960113,
+   "b0": 1977444,
+   "b1": 2456798,
+   "size": 3920280,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian, I'm Metal Gear Mk. II. Nice to meet you.",
+   "rows": [
+    "Gillian, I'm Metal Gear Mk.",
+    "II. Nice to meet you."
+   ],
+   "rows_plain": [
+    "Gillian, I'm Metal Gear Mk. II. Nice",
+    "to meet you."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B010_f5_4",
+   "reel": 135,
+   "sdaif": "SDAIF_D5.AIF",
+   "rate": 30000,
+   "frames": 1960113,
+   "b0": 2456798,
+   "b1": 2636708,
+   "size": 3920280,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Metal Gear? Strange name.",
+   "rows": [
+    "Metal Gear? Strange name."
+   ],
+   "rows_plain": [
+    "Metal Gear? Strange name."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B010_f5_5",
+   "reel": 135,
+   "sdaif": "SDAIF_D5.AIF",
+   "rate": 30000,
+   "frames": 1960113,
+   "b0": 2636708,
+   "b1": 2816216,
+   "size": 3920280,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "He's cute.",
+   "rows": [
+    "He's cute."
+   ],
+   "rows_plain": [
+    "He's cute."
+   ],
+   "enabled": true,
+   "face_char": 2
+  },
+  {
+   "id": "B010_f5_6",
+   "reel": 135,
+   "sdaif": "SDAIF_D5.AIF",
+   "rate": 30000,
+   "frames": 1960113,
+   "b0": 2816216,
+   "b1": 2996124,
+   "size": 3920280,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "He's blushing.",
+   "rows": [
+    "He's blushing."
+   ],
+   "rows_plain": [
+    "He's blushing."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B010_f5_7",
+   "reel": 135,
+   "sdaif": "SDAIF_D5.AIF",
+   "rate": 30000,
+   "frames": 1960113,
+   "b0": 2996124,
+   "b1": 3174432,
+   "size": 3920280,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "I based his shape on Metal Gear,",
+   "rows": [
+    "I based his shape on Metal",
+    "Gear,"
+   ],
+   "rows_plain": [
+    "I based his shape on Metal Gear,"
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B010_f5_7b",
+   "reel": 135,
+   "sdaif": "SDAIF_D5.AIF",
+   "rate": 30000,
+   "frames": 1960113,
+   "b0": 3174432,
+   "b1": 3527452,
+   "size": 3920280,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "the machine that terrified the world at the end of the twentieth century.",
+   "rows": [
+    "the machine that terrified",
+    "the world at the end of the",
+    "twentieth century."
+   ],
+   "rows_plain": [
+    "the machine that terrified the world",
+    "at the end of the twentieth century."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B010_f5_7c",
+   "reel": 135,
+   "sdaif": "SDAIF_D5.AIF",
+   "rate": 30000,
+   "frames": 1960113,
+   "b0": 3527452,
+   "b1": 3918054,
+   "size": 3920280,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "But this one was developed for peaceful use.",
+   "rows": [
+    "But this one was developed",
+    "for peaceful use."
+   ],
+   "rows_plain": [
+    "But this one was developed for",
+    "peaceful use."
+   ],
+   "enabled": true,
+   "face_char": 4
+  },
+  {
+   "id": "B010_c4f2",
+   "line": 234,
+   "act": 1,
+   "sector": 4449,
+   "offset": 2221,
+   "size": 40224,
+   "b0": 0,
+   "b1": 40224,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Jean Jack Gibson is calling. I'll put him through.",
+   "rows": [
+    "Jean Jack Gibson is calling.",
+    "I'll put him through."
+   ],
+   "rows_plain": [
+    "Jean Jack Gibson is calling. I'll",
+    "put him through."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_c4f3",
+   "line": 235,
+   "act": 1,
+   "sector": 4467,
+   "offset": 613,
+   "size": 91306,
+   "b0": 0,
+   "b1": 45208,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "JUNKER HQ! I've cornered a suspected Snatcher!",
+   "rows": [
+    "JUNKER HQ! I've cornered a",
+    "suspected Snatcher!"
+   ],
+   "rows_plain": [
+    "JUNKER HQ! I've cornered a suspected",
+    "Snatcher!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_c4f3b",
+   "line": 235,
+   "act": 1,
+   "sector": 4467,
+   "offset": 613,
+   "size": 91306,
+   "b0": 45208,
+   "b1": 91306,
+   "speaker": "Gibson",
+   "colour": 5,
+   "en": "Factory ruins, District M. Send backup now!",
+   "rows": [
+    "Factory ruins, District M.",
+    "Send backup now!"
+   ],
+   "rows_plain": [
+    "Factory ruins, District M. Send",
+    "backup now!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_c4f4",
+   "line": 236,
+   "act": 1,
+   "sector": 4506,
+   "offset": 1283,
+   "size": 36518,
+   "b0": 0,
+   "b1": 36518,
+   "speaker": "Harry",
+   "colour": 5,
+   "en": "Gillian, we've got a case! Get to the scene!",
+   "rows": [
+    "Gillian, we've got a case!",
+    "Get to the scene!"
+   ],
+   "rows_plain": [
+    "Gillian, we've got a case! Get to",
+    "the scene!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_c4f5",
+   "line": 237,
+   "act": 1,
+   "sector": 4522,
+   "offset": 617,
+   "size": 35096,
+   "b0": 0,
+   "b1": 35096,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's hurry. We'll take the Tricycle to the scene.",
+   "rows": [
+    "Let's hurry. We'll take the",
+    "Tricycle to the scene."
+   ],
+   "rows_plain": [
+    "Let's hurry. We'll take the Tricycle",
+    "to the scene."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_c4f6",
+   "line": 238,
+   "act": 1,
+   "sector": 4537,
+   "offset": 853,
+   "size": 16600,
+   "b0": 0,
+   "b1": 16600,
+   "speaker": "Mika",
+   "colour": 3,
+   "en": "Be careful, Gillian.",
+   "rows": [
+    "Be careful, Gillian."
+   ],
+   "rows_plain": [
+    "Be careful, Gillian."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    12
+   ],
+   "face_src": 222
+  },
+  {
+   "id": "B010_c4f7",
+   "line": 239,
+   "act": 1,
+   "sector": 4544,
+   "offset": 1185,
+   "size": 141490,
+   "b0": 0,
+   "b1": 37583,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "This is the Tricycle, a vehicle for JUNKER use only.",
+   "rows": [
+    "This is the Tricycle, a",
+    "vehicle for JUNKER use only."
+   ],
+   "rows_plain": [
+    "This is the Tricycle, a vehicle for",
+    "JUNKER use only."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_c4f7b",
+   "line": 239,
+   "act": 1,
+   "sector": 4544,
+   "offset": 1185,
+   "size": 141490,
+   "b0": 37583,
+   "b1": 92411,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "It can drive on three wheels, hover and fly at high speed.",
+   "rows": [
+    "It can drive on three",
+    "wheels, hover and fly at",
+    "high speed."
+   ],
+   "rows_plain": [
+    "It can drive on three wheels, hover",
+    "and fly at high speed."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_c4f7c",
+   "line": 239,
+   "act": 1,
+   "sector": 4544,
+   "offset": 1185,
+   "size": 141490,
+   "b0": 92411,
+   "b1": 141490,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "It's a VTOL, so it can take off vertically even in tight spaces.",
+   "rows": [
+    "It's a VTOL, so it can take",
+    "off vertically even in tight",
+    "spaces."
+   ],
+   "rows_plain": [
+    "It's a VTOL, so it can take off",
+    "vertically even in tight spaces."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_c4f8",
+   "line": 240,
+   "act": 1,
+   "sector": 4605,
+   "offset": 911,
+   "size": 33688,
+   "b0": 0,
+   "b1": 33688,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "A flying tricycle, right? One picked me up earlier.",
+   "rows": [
+    "A flying tricycle, right?",
+    "One picked me up earlier."
+   ],
+   "rows_plain": [
+    "A flying tricycle, right? One picked",
+    "me up earlier."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_c4f9",
+   "line": 241,
+   "act": 1,
+   "sector": 4619,
+   "offset": 2063,
+   "size": 93774,
+   "b0": 0,
+   "b1": 32940,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We'll use this Tricycle for investigations.",
+   "rows": [
+    "We'll use this Tricycle for",
+    "investigations."
+   ],
+   "rows_plain": [
+    "We'll use this Tricycle for",
+    "investigations."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_c4f9b",
+   "line": 241,
+   "act": 1,
+   "sector": 4619,
+   "offset": 2063,
+   "size": 93774,
+   "b0": 32940,
+   "b1": 93774,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "You can now save your investigation progress. Just ask me anytime.",
+   "rows": [
+    "You can now save your",
+    "investigation progress. Just",
+    "ask me anytime."
+   ],
+   "rows_plain": [
+    "You can now save your investigation",
+    "progress. Just ask me anytime."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_c4f10",
+   "line": 242,
+   "act": 1,
+   "sector": 4660,
+   "offset": 553,
+   "size": 23961,
+   "b0": 0,
+   "b1": 23961,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We're heading to the factory ruins.",
+   "rows": [
+    "We're heading to the factory",
+    "ruins."
+   ],
+   "rows_plain": [
+    "We're heading to the factory ruins."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B010_037",
+   "line": 243,
+   "act": 1,
+   "sector": 4670,
+   "offset": 1274,
+   "size": 88546,
+   "b0": 0,
+   "b1": 44273,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "This is your JUNKER card. It identifies you as a JUNKER.",
+   "rows": [
+    "This is your JUNKER card. It",
+    "identifies you as a JUNKER."
+   ],
+   "rows_plain": [
+    "This is your JUNKER card. It",
+    "identifies you as a JUNKER."
+   ],
+   "enabled": true,
+   "chain": "B010_017"
+  },
+  {
+   "id": "B010_037b",
+   "line": 243,
+   "act": 1,
+   "sector": 4670,
+   "offset": 1274,
+   "size": 88546,
+   "b0": 44273,
+   "b1": 88546,
+   "speaker": "Chief",
+   "colour": 6,
+   "en": "It grants you a JUNKER's special authority.",
+   "rows": [
+    "It grants you a JUNKER's",
+    "special authority."
+   ],
+   "rows_plain": [
+    "It grants you a JUNKER's special",
+    "authority."
+   ],
+   "enabled": true,
+   "chain": "B010_017"
+  },
+  {
+   "id": "B010_fly_0",
+   "reel": 100,
+   "sdaif": "SDAIF_A0.AIF",
+   "rate": 24000,
+   "frames": 1093308,
+   "b0": 959896,
+   "b1": 1123286,
+   "size": 2186670,
+   "speaker": "",
+   "colour": 7,
+   "en": "My first day, and already a case.",
+   "rows": [
+    "My first day, and already a",
+    "case."
+   ],
+   "rows_plain": [
+    "My first day, and already a case."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_fly_0b",
+   "reel": 100,
+   "sdaif": "SDAIF_A0.AIF",
+   "rate": 24000,
+   "frames": 1093308,
+   "b0": 1123286,
+   "b1": 1295968,
+   "size": 2186670,
+   "speaker": "",
+   "colour": 7,
+   "en": "Gibson, an ace JUNKER, has cornered a suspected Snatcher.",
+   "rows": [
+    "Gibson, an ace JUNKER, has",
+    "cornered a suspected",
+    "Snatcher."
+   ],
+   "rows_plain": [
+    "Gibson, an ace JUNKER, has cornered",
+    "a suspected Snatcher."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B010_fly_0c",
+   "reel": 100,
+   "sdaif": "SDAIF_A0.AIF",
+   "rate": 24000,
+   "frames": 1093308,
+   "b0": 1295968,
+   "b1": 1632042,
+   "size": 2186670,
+   "speaker": "",
+   "colour": 7,
+   "en": "Is the man really a Snatcher? And what are Snatchers?",
+   "rows": [
+    "Is the man really a",
+    "Snatcher? And what are",
+    "Snatchers?"
+   ],
+   "rows_plain": [
+    "Is the man really a Snatcher? And",
+    "what are Snatchers?"
+   ],
+   "enabled": true
+  }
+ ]
+}

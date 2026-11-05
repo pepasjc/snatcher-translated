@@ -1,0 +1,3237 @@
+{
+ "scene": "B210",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B200_c7f18_0",
+   "line": 504,
+   "act": 2,
+   "sector": 4301,
+   "offset": 1017,
+   "size": 41890,
+   "b0": 0,
+   "b1": 41890,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll reconstruct each victim's head in turn.",
+   "rows": [
+    "I'll reconstruct each",
+    "victim's head in turn."
+   ],
+   "rows_plain": [
+    "I'll reconstruct each victim's head",
+    "in turn."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B200_c7f19_0",
+   "line": 505,
+   "act": 2,
+   "sector": 4319,
+   "offset": 1075,
+   "size": 23706,
+   "b0": 0,
+   "b1": 23706,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "First, body number one.",
+   "rows": [
+    "First, body number one."
+   ],
+   "rows_plain": [
+    "First, body number one."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f20_0",
+   "line": 506,
+   "act": 2,
+   "sector": 4329,
+   "offset": 1541,
+   "size": 116215,
+   "b0": 0,
+   "b1": 116215,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Creating skull data using X-rays, sectional X-rays, MRI, and positron CT scans.",
+   "rows": [
+    "Creating skull data using",
+    "X-rays, sectional X-rays,",
+    "MRI, and positron CT scans."
+   ],
+   "rows_plain": [
+    "Creating skull data using X-rays,",
+    "sectional X-rays, MRI, and positron",
+    "CT scans."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f21_0",
+   "line": 507,
+   "act": 2,
+   "sector": 4379,
+   "offset": 1556,
+   "size": 17439,
+   "b0": 0,
+   "b1": 17439,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Head data complete.",
+   "rows": [
+    "Head data complete."
+   ],
+   "rows_plain": [
+    "Head data complete."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f22_0",
+   "line": 508,
+   "act": 2,
+   "sector": 4387,
+   "offset": 403,
+   "size": 40959,
+   "b0": 0,
+   "b1": 40959,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "I'll reconstruct the face from this skull data.",
+   "rows": [
+    "I'll reconstruct the face",
+    "from this skull data."
+   ],
+   "rows_plain": [
+    "I'll reconstruct the face from this",
+    "skull data."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f23_0",
+   "line": 509,
+   "act": 2,
+   "sector": 4404,
+   "offset": 1854,
+   "size": 255153,
+   "b0": 0,
+   "b1": 31968,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "First, the victim's age.",
+   "rows": [
+    "First, the victim's age."
+   ],
+   "rows_plain": [
+    "First, the victim's age."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f23_0b",
+   "line": 509,
+   "act": 2,
+   "sector": 4404,
+   "offset": 1854,
+   "size": 255153,
+   "b0": 31968,
+   "b1": 98119,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "1. Whether fontanelles remain, and skull suture clarity.",
+   "rows": [
+    "1. Whether fontanelles",
+    "remain, and skull suture",
+    "clarity."
+   ],
+   "rows_plain": [
+    "1. Whether fontanelles remain, and",
+    "skull suture clarity."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f23_0c",
+   "line": 509,
+   "act": 2,
+   "sector": 4404,
+   "offset": 1854,
+   "size": 255153,
+   "b0": 98119,
+   "b1": 148839,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "2. The area of the facial skeleton.",
+   "rows": [
+    "2. The area of the facial",
+    "skeleton."
+   ],
+   "rows_plain": [
+    "2. The area of the facial skeleton."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f23_0d",
+   "line": 509,
+   "act": 2,
+   "sector": 4404,
+   "offset": 1854,
+   "size": 255153,
+   "b0": 148839,
+   "b1": 190774,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "3. The height of the upper and lower jaws,",
+   "rows": [
+    "3. The height of the upper",
+    "and lower jaws,"
+   ],
+   "rows_plain": [
+    "3. The height of the upper and lower",
+    "jaws,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f23_0db",
+   "line": 509,
+   "act": 2,
+   "sector": 4404,
+   "offset": 1854,
+   "size": 255153,
+   "b0": 190774,
+   "b1": 218239,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "and development of the tooth-bearing ridges.",
+   "rows": [
+    "and development of the",
+    "tooth-bearing ridges."
+   ],
+   "rows_plain": [
+    "and development of the tooth-bearing",
+    "ridges."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f23_0e",
+   "line": 509,
+   "act": 2,
+   "sector": 4404,
+   "offset": 1854,
+   "size": 255153,
+   "b0": 218239,
+   "b1": 255153,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "4. The skull's center of gravity.",
+   "rows": [
+    "4. The skull's center of",
+    "gravity."
+   ],
+   "rows_plain": [
+    "4. The skull's center of gravity."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f24_0",
+   "line": 510,
+   "act": 2,
+   "sector": 4514,
+   "offset": 1367,
+   "size": 147594,
+   "b0": 0,
+   "b1": 11881,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Next, sex.",
+   "rows": [
+    "Next, sex."
+   ],
+   "rows_plain": [
+    "Next, sex."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f24_0b",
+   "line": 510,
+   "act": 2,
+   "sector": 4514,
+   "offset": 1367,
+   "size": 147594,
+   "b0": 31659,
+   "b1": 66344,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "1. Overall skull size.",
+   "rows": [
+    "1. Overall skull size."
+   ],
+   "rows_plain": [
+    "1. Overall skull size."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f24_0c",
+   "line": 510,
+   "act": 2,
+   "sector": 4514,
+   "offset": 1367,
+   "size": 147594,
+   "b0": 66344,
+   "b1": 104349,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "2. The angle and slope of the crown.",
+   "rows": [
+    "2. The angle and slope of",
+    "the crown."
+   ],
+   "rows_plain": [
+    "2. The angle and slope of the crown."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f24_0d",
+   "line": 510,
+   "act": 2,
+   "sector": 4514,
+   "offset": 1367,
+   "size": 147594,
+   "b0": 104349,
+   "b1": 147594,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "3. Development of the facial skeleton.",
+   "rows": [
+    "3. Development of the facial",
+    "skeleton."
+   ],
+   "rows_plain": [
+    "3. Development of the facial",
+    "skeleton."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f25_0",
+   "line": 511,
+   "act": 2,
+   "sector": 4578,
+   "offset": 225,
+   "size": 126173,
+   "b0": 0,
+   "b1": 31101,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Finally, race.",
+   "rows": [
+    "Finally, race."
+   ],
+   "rows_plain": [
+    "Finally, race."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f25_0b",
+   "line": 511,
+   "act": 2,
+   "sector": 4578,
+   "offset": 225,
+   "size": 126173,
+   "b0": 31101,
+   "b1": 59770,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "1. Skull measurements.",
+   "rows": [
+    "1. Skull measurements."
+   ],
+   "rows_plain": [
+    "1. Skull measurements."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f25_0c",
+   "line": 511,
+   "act": 2,
+   "sector": 4578,
+   "offset": 225,
+   "size": 126173,
+   "b0": 59770,
+   "b1": 93524,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "2. Cranial cavity volume.",
+   "rows": [
+    "2. Cranial cavity volume."
+   ],
+   "rows_plain": [
+    "2. Cranial cavity volume."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f25_0d",
+   "line": 511,
+   "act": 2,
+   "sector": 4578,
+   "offset": 225,
+   "size": 126173,
+   "b0": 93524,
+   "b1": 126173,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "3. Skull weight.",
+   "rows": [
+    "3. Skull weight."
+   ],
+   "rows_plain": [
+    "3. Skull weight."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f26_0",
+   "line": 512,
+   "act": 2,
+   "sector": 4632,
+   "offset": 902,
+   "size": 54552,
+   "b0": 0,
+   "b1": 54552,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "From these results, I'll add flesh using average measurements for each part.",
+   "rows": [
+    "From these results, I'll add",
+    "flesh using average",
+    "measurements for each part."
+   ],
+   "rows_plain": [
+    "From these results, I'll add flesh",
+    "using average measurements for each",
+    "part."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f27_0",
+   "line": 513,
+   "act": 2,
+   "sector": 4655,
+   "offset": 2002,
+   "size": 114735,
+   "b0": 0,
+   "b1": 31123,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "First stage of reconstruction complete.",
+   "rows": [
+    "First stage of",
+    "reconstruction complete."
+   ],
+   "rows_plain": [
+    "First stage of reconstruction",
+    "complete."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f27_0b",
+   "line": 513,
+   "act": 2,
+   "sector": 4655,
+   "offset": 2002,
+   "size": 114735,
+   "b0": 31123,
+   "b1": 73853,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Ten percent margin of error from racial averages.",
+   "rows": [
+    "Ten percent margin of error",
+    "from racial averages."
+   ],
+   "rows_plain": [
+    "Ten percent margin of error from",
+    "racial averages."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f27_0c",
+   "line": 513,
+   "act": 2,
+   "sector": 4655,
+   "offset": 2002,
+   "size": 114735,
+   "b0": 73853,
+   "b1": 114735,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Adding estimated hairstyle and eyes.",
+   "rows": [
+    "Adding estimated hairstyle",
+    "and eyes."
+   ],
+   "rows_plain": [
+    "Adding estimated hairstyle and eyes."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f28_0",
+   "line": 514,
+   "act": 2,
+   "sector": 4705,
+   "offset": 537,
+   "size": 34373,
+   "b0": 0,
+   "b1": 34373,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The first victim's head is reconstructed.",
+   "rows": [
+    "The first victim's head is",
+    "reconstructed."
+   ],
+   "rows_plain": [
+    "The first victim's head is",
+    "reconstructed."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f29_0",
+   "line": 515,
+   "act": 2,
+   "sector": 4720,
+   "offset": 50,
+   "size": 26830,
+   "b0": 0,
+   "b1": 26830,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "It's Freddy Nielsen.",
+   "rows": [
+    "It's Freddy Nielsen."
+   ],
+   "rows_plain": [
+    "It's Freddy Nielsen."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f30_0",
+   "line": 516,
+   "act": 2,
+   "sector": 4731,
+   "offset": 1316,
+   "size": 36424,
+   "b0": 0,
+   "b1": 36424,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Now I'll reconstruct the second victim.",
+   "rows": [
+    "Now I'll reconstruct the",
+    "second victim."
+   ],
+   "rows_plain": [
+    "Now I'll reconstruct the second",
+    "victim."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f31_0",
+   "line": 517,
+   "act": 2,
+   "sector": 4747,
+   "offset": 556,
+   "size": 11536,
+   "b0": 0,
+   "b1": 11536,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Body number two.",
+   "rows": [
+    "Body number two."
+   ],
+   "rows_plain": [
+    "Body number two."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f32_0",
+   "line": 518,
+   "act": 2,
+   "sector": 4752,
+   "offset": 472,
+   "size": 48837,
+   "b0": 0,
+   "b1": 48837,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Creating skull data using the same process.",
+   "rows": [
+    "Creating skull data using",
+    "the same process."
+   ],
+   "rows_plain": [
+    "Creating skull data using the same",
+    "process."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f33_0",
+   "line": 519,
+   "act": 2,
+   "sector": 4773,
+   "offset": 505,
+   "size": 17224,
+   "b0": 0,
+   "b1": 17224,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Head data complete.",
+   "rows": [
+    "Head data complete."
+   ],
+   "rows_plain": [
+    "Head data complete."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f34_0",
+   "line": 520,
+   "act": 2,
+   "sector": 4780,
+   "offset": 1461,
+   "size": 45900,
+   "b0": 0,
+   "b1": 45900,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Reconstructing from the skull data as before.",
+   "rows": [
+    "Reconstructing from the",
+    "skull data as before."
+   ],
+   "rows_plain": [
+    "Reconstructing from the skull data",
+    "as before."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f35_0",
+   "line": 521,
+   "act": 2,
+   "sector": 4800,
+   "offset": 881,
+   "size": 111625,
+   "b0": 0,
+   "b1": 30281,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "First stage of reconstruction complete.",
+   "rows": [
+    "First stage of",
+    "reconstruction complete."
+   ],
+   "rows_plain": [
+    "First stage of reconstruction",
+    "complete."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f35_0b",
+   "line": 521,
+   "act": 2,
+   "sector": 4800,
+   "offset": 881,
+   "size": 111625,
+   "b0": 30281,
+   "b1": 71844,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Ten percent margin of error from racial averages.",
+   "rows": [
+    "Ten percent margin of error",
+    "from racial averages."
+   ],
+   "rows_plain": [
+    "Ten percent margin of error from",
+    "racial averages."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f35_0c",
+   "line": 521,
+   "act": 2,
+   "sector": 4800,
+   "offset": 881,
+   "size": 111625,
+   "b0": 71844,
+   "b1": 111625,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Adding estimated hairstyle and eyes.",
+   "rows": [
+    "Adding estimated hairstyle",
+    "and eyes."
+   ],
+   "rows_plain": [
+    "Adding estimated hairstyle and eyes."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f36_0",
+   "line": 522,
+   "act": 2,
+   "sector": 4848,
+   "offset": 954,
+   "size": 34185,
+   "b0": 0,
+   "b1": 34185,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The second victim's head is reconstructed.",
+   "rows": [
+    "The second victim's head is",
+    "reconstructed."
+   ],
+   "rows_plain": [
+    "The second victim's head is",
+    "reconstructed."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f37_0",
+   "line": 523,
+   "act": 2,
+   "sector": 4863,
+   "offset": 279,
+   "size": 13625,
+   "b0": 0,
+   "b1": 13625,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "It's Lisa Nielsen.",
+   "rows": [
+    "It's Lisa Nielsen."
+   ],
+   "rows_plain": [
+    "It's Lisa Nielsen."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f38_0",
+   "line": 524,
+   "act": 2,
+   "sector": 4868,
+   "offset": 2284,
+   "size": 30000,
+   "b0": 0,
+   "b1": 30000,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Now I'll reconstruct the third victim.",
+   "rows": [
+    "Now I'll reconstruct the",
+    "third victim."
+   ],
+   "rows_plain": [
+    "Now I'll reconstruct the third",
+    "victim."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f39_0",
+   "line": 525,
+   "act": 2,
+   "sector": 4881,
+   "offset": 2072,
+   "size": 11801,
+   "b0": 0,
+   "b1": 11801,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Body number three.",
+   "rows": [
+    "Body number three."
+   ],
+   "rows_plain": [
+    "Body number three."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f40_0",
+   "line": 526,
+   "act": 2,
+   "sector": 4886,
+   "offset": 2253,
+   "size": 45232,
+   "b0": 0,
+   "b1": 45232,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Creating skull data using the same process.",
+   "rows": [
+    "Creating skull data using",
+    "the same process."
+   ],
+   "rows_plain": [
+    "Creating skull data using the same",
+    "process."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f41_0",
+   "line": 527,
+   "act": 2,
+   "sector": 4906,
+   "offset": 1005,
+   "size": 16685,
+   "b0": 0,
+   "b1": 16685,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Head data complete.",
+   "rows": [
+    "Head data complete."
+   ],
+   "rows_plain": [
+    "Head data complete."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f42_0",
+   "line": 528,
+   "act": 2,
+   "sector": 4913,
+   "offset": 1422,
+   "size": 43845,
+   "b0": 0,
+   "b1": 43845,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Reconstructing from the skull data as before.",
+   "rows": [
+    "Reconstructing from the",
+    "skull data as before."
+   ],
+   "rows_plain": [
+    "Reconstructing from the skull data",
+    "as before."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f43_0",
+   "line": 529,
+   "act": 2,
+   "sector": 4932,
+   "offset": 1111,
+   "size": 114060,
+   "b0": 0,
+   "b1": 37352,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "First stage of reconstruction complete.",
+   "rows": [
+    "First stage of",
+    "reconstruction complete."
+   ],
+   "rows_plain": [
+    "First stage of reconstruction",
+    "complete."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f43_0b",
+   "line": 529,
+   "act": 2,
+   "sector": 4932,
+   "offset": 1111,
+   "size": 114060,
+   "b0": 37352,
+   "b1": 85099,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Ten percent margin of error from racial averages.",
+   "rows": [
+    "Ten percent margin of error",
+    "from racial averages."
+   ],
+   "rows_plain": [
+    "Ten percent margin of error from",
+    "racial averages."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f43_0c",
+   "line": 529,
+   "act": 2,
+   "sector": 4932,
+   "offset": 1111,
+   "size": 114060,
+   "b0": 85099,
+   "b1": 114060,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Adding estimated hairstyle and eyes.",
+   "rows": [
+    "Adding estimated hairstyle",
+    "and eyes."
+   ],
+   "rows_plain": [
+    "Adding estimated hairstyle and eyes."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f44_0",
+   "line": 530,
+   "act": 2,
+   "sector": 4981,
+   "offset": 1295,
+   "size": 36711,
+   "b0": 0,
+   "b1": 36711,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The third victim's head is reconstructed.",
+   "rows": [
+    "The third victim's head is",
+    "reconstructed."
+   ],
+   "rows_plain": [
+    "The third victim's head is",
+    "reconstructed."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f45_0",
+   "line": 531,
+   "act": 2,
+   "sector": 4997,
+   "offset": 822,
+   "size": 11014,
+   "b0": 0,
+   "b1": 11014,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Who's this guy?",
+   "rows": [
+    "Who's this guy?"
+   ],
+   "rows_plain": [
+    "Who's this guy?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f46_0",
+   "line": 532,
+   "act": 2,
+   "sector": 5002,
+   "offset": 216,
+   "size": 38336,
+   "b0": 0,
+   "b1": 38336,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "That's the director of Queen Hospital.",
+   "rows": [
+    "That's the director of Queen",
+    "Hospital."
+   ],
+   "rows_plain": [
+    "That's the director of Queen",
+    "Hospital."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f47_0",
+   "line": 533,
+   "act": 2,
+   "sector": 5018,
+   "offset": 1368,
+   "size": 20839,
+   "b0": 0,
+   "b1": 20839,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Chin Shu Ho.",
+   "rows": [
+    "Chin Shu Ho."
+   ],
+   "rows_plain": [
+    "Chin Shu Ho."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f48_0",
+   "line": 534,
+   "act": 2,
+   "sector": 5027,
+   "offset": 1291,
+   "size": 29337,
+   "b0": 0,
+   "b1": 29337,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Now I'll reconstruct the last victim.",
+   "rows": [
+    "Now I'll reconstruct the",
+    "last victim."
+   ],
+   "rows_plain": [
+    "Now I'll reconstruct the last",
+    "victim."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f49_0",
+   "line": 535,
+   "act": 2,
+   "sector": 5040,
+   "offset": 416,
+   "size": 33776,
+   "b0": 0,
+   "b1": 33776,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The most recent body. Still decomposing.",
+   "rows": [
+    "The most recent body. Still",
+    "decomposing."
+   ],
+   "rows_plain": [
+    "The most recent body. Still",
+    "decomposing."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f50_0",
+   "line": 536,
+   "act": 2,
+   "sector": 5054,
+   "offset": 1656,
+   "size": 11052,
+   "b0": 0,
+   "b1": 11052,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The last body.",
+   "rows": [
+    "The last body."
+   ],
+   "rows_plain": [
+    "The last body."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f51_0",
+   "line": 537,
+   "act": 2,
+   "sector": 5059,
+   "offset": 1088,
+   "size": 47507,
+   "b0": 0,
+   "b1": 47507,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Creating skull data using the same process.",
+   "rows": [
+    "Creating skull data using",
+    "the same process."
+   ],
+   "rows_plain": [
+    "Creating skull data using the same",
+    "process."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f52_0",
+   "line": 538,
+   "act": 2,
+   "sector": 5079,
+   "offset": 2115,
+   "size": 17379,
+   "b0": 0,
+   "b1": 17379,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Head data complete.",
+   "rows": [
+    "Head data complete."
+   ],
+   "rows_plain": [
+    "Head data complete."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f53_0",
+   "line": 539,
+   "act": 2,
+   "sector": 5087,
+   "offset": 902,
+   "size": 44553,
+   "b0": 0,
+   "b1": 44553,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Reconstructing from the skull data as before.",
+   "rows": [
+    "Reconstructing from the",
+    "skull data as before."
+   ],
+   "rows_plain": [
+    "Reconstructing from the skull data",
+    "as before."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f54_0",
+   "line": 540,
+   "act": 2,
+   "sector": 5106,
+   "offset": 1299,
+   "size": 119472,
+   "b0": 0,
+   "b1": 32382,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "First stage of reconstruction complete.",
+   "rows": [
+    "First stage of",
+    "reconstruction complete."
+   ],
+   "rows_plain": [
+    "First stage of reconstruction",
+    "complete."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f54_0b",
+   "line": 540,
+   "act": 2,
+   "sector": 5106,
+   "offset": 1299,
+   "size": 119472,
+   "b0": 32382,
+   "b1": 76888,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Ten percent margin of error from racial averages.",
+   "rows": [
+    "Ten percent margin of error",
+    "from racial averages."
+   ],
+   "rows_plain": [
+    "Ten percent margin of error from",
+    "racial averages."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f54_0c",
+   "line": 540,
+   "act": 2,
+   "sector": 5106,
+   "offset": 1299,
+   "size": 119472,
+   "b0": 76888,
+   "b1": 119472,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Adding estimated hairstyle and eyes.",
+   "rows": [
+    "Adding estimated hairstyle",
+    "and eyes."
+   ],
+   "rows_plain": [
+    "Adding estimated hairstyle and eyes."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f55_0",
+   "line": 541,
+   "act": 2,
+   "sector": 5157,
+   "offset": 2247,
+   "size": 27549,
+   "b0": 0,
+   "b1": 27549,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The last victim's head is reconstructed.",
+   "rows": [
+    "The last victim's head is",
+    "reconstructed."
+   ],
+   "rows_plain": [
+    "The last victim's head is",
+    "reconstructed."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f56_0",
+   "line": 542,
+   "act": 2,
+   "sector": 5169,
+   "offset": 1908,
+   "size": 13554,
+   "b0": 0,
+   "b1": 13554,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The Chief!",
+   "rows": [
+    "The Chief!"
+   ],
+   "rows_plain": [
+    "The Chief!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f57_0",
+   "line": 543,
+   "act": 2,
+   "sector": 5175,
+   "offset": 1518,
+   "size": 14759,
+   "b0": 0,
+   "b1": 14759,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "What?!",
+   "rows": [
+    "What?!"
+   ],
+   "rows_plain": [
+    "What?!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f58_0",
+   "line": 544,
+   "act": 2,
+   "sector": 5182,
+   "offset": 9,
+   "size": 70702,
+   "b0": 0,
+   "b1": 70702,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The Chief was a Snatcher! The Benson in the record was Benson Cunningham?",
+   "rows": [
+    "The Chief was a Snatcher!",
+    "The Benson in the record was",
+    "Benson Cunningham?"
+   ],
+   "rows_plain": [
+    "The Chief was a Snatcher! The Benson",
+    "in the record was Benson Cunningham?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B200_c7f59_0",
+   "line": 545,
+   "act": 2,
+   "sector": 5212,
+   "offset": 991,
+   "size": 57373,
+   "b0": 0,
+   "b1": 57373,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Judging by the body's condition, he was snatched about a month ago.",
+   "rows": [
+    "Judging by the body's",
+    "condition, he was snatched",
+    "about a month ago."
+   ],
+   "rows_plain": [
+    "Judging by the body's condition, he",
+    "was snatched about a month ago."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f60_0",
+   "line": 546,
+   "act": 2,
+   "sector": 5237,
+   "offset": 264,
+   "size": 91649,
+   "b0": 0,
+   "b1": 35707,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The Chief sabotaged the Tricycle too.",
+   "rows": [
+    "The Chief sabotaged the",
+    "Tricycle too."
+   ],
+   "rows_plain": [
+    "The Chief sabotaged the Tricycle",
+    "too."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f60_0b",
+   "line": 546,
+   "act": 2,
+   "sector": 5237,
+   "offset": 264,
+   "size": 91649,
+   "b0": 35707,
+   "b1": 91649,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The Outer Heaven matches in Harry's room were planted to frame him.",
+   "rows": [
+    "The Outer Heaven matches in",
+    "Harry's room were planted to",
+    "frame him."
+   ],
+   "rows_plain": [
+    "The Outer Heaven matches in Harry's",
+    "room were planted to frame him."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f61_0",
+   "line": 547,
+   "act": 2,
+   "sector": 5276,
+   "offset": 1277,
+   "size": 61383,
+   "b0": 0,
+   "b1": 61383,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Harry must have realized and left the \"Face to face\" note.",
+   "rows": [
+    "Harry must have realized and",
+    "left the \"Face to face\"",
+    "note."
+   ],
+   "rows_plain": [
+    "Harry must have realized and left",
+    "the \"Face to face\" note."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f62_0",
+   "line": 548,
+   "act": 2,
+   "sector": 5302,
+   "offset": 2236,
+   "size": 59197,
+   "b0": 0,
+   "b1": 59197,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Wait! Mika said Harry followed the Chief. That's right!",
+   "rows": [
+    "Wait! Mika said Harry",
+    "followed the Chief. That's",
+    "right!"
+   ],
+   "rows_plain": [
+    "Wait! Mika said Harry followed the",
+    "Chief. That's right!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B200_c7f63_0",
+   "line": 549,
+   "act": 2,
+   "sector": 5328,
+   "offset": 1009,
+   "size": 47252,
+   "b0": 0,
+   "b1": 47252,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "So he went looking for evidence against the Chief.",
+   "rows": [
+    "So he went looking for",
+    "evidence against the Chief."
+   ],
+   "rows_plain": [
+    "So he went looking for evidence",
+    "against the Chief."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f64_0",
+   "line": 550,
+   "act": 2,
+   "sector": 5348,
+   "offset": 1781,
+   "size": 21615,
+   "b0": 0,
+   "b1": 21615,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "That old man's in danger, Gillian.",
+   "rows": [
+    "That old man's in danger,",
+    "Gillian."
+   ],
+   "rows_plain": [
+    "That old man's in danger, Gillian."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f65_0",
+   "line": 551,
+   "act": 2,
+   "sector": 5358,
+   "offset": 156,
+   "size": 84899,
+   "b0": 0,
+   "b1": 30732,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "If the Chief sabotaged the Tricycle,",
+   "rows": [
+    "If the Chief sabotaged the",
+    "Tricycle,"
+   ],
+   "rows_plain": [
+    "If the Chief sabotaged the Tricycle,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f65_0b",
+   "line": 551,
+   "act": 2,
+   "sector": 5358,
+   "offset": 156,
+   "size": 84899,
+   "b0": 30732,
+   "b1": 84899,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "he must already know we've discovered what he is.",
+   "rows": [
+    "he must already know we've",
+    "discovered what he is."
+   ],
+   "rows_plain": [
+    "he must already know we've",
+    "discovered what he is."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f66_0",
+   "line": 552,
+   "act": 2,
+   "sector": 5394,
+   "offset": 1391,
+   "size": 26281,
+   "b0": 0,
+   "b1": 26281,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Damn it! Harry and Mika are in danger!",
+   "rows": [
+    "Damn it! Harry and Mika are",
+    "in danger!"
+   ],
+   "rows_plain": [
+    "Damn it! Harry and Mika are in",
+    "danger!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f67_0",
+   "line": 553,
+   "act": 2,
+   "sector": 5405,
+   "offset": 2108,
+   "size": 59691,
+   "b0": 0,
+   "b1": 59691,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "That's far enough, JUNKER! Your little detective game is over!",
+   "rows": [
+    "That's far enough, JUNKER!",
+    "Your little detective game",
+    "is over!"
+   ],
+   "rows_plain": [
+    "That's far enough, JUNKER! Your",
+    "little detective game is over!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c_00",
+   "reel": 96,
+   "sdaif": "SDAIF_96.AIF",
+   "rate": 24000,
+   "frames": 429995,
+   "b0": 54,
+   "b1": 334448,
+   "size": 860044,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "That's far enough, JUNKER. Your detective game is over.",
+   "rows": [
+    "That's far enough, JUNKER.",
+    "Your detective game is over."
+   ],
+   "rows_plain": [
+    "That's far enough, JUNKER. Your",
+    "detective game is over."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_c_01",
+   "reel": 96,
+   "sdaif": "SDAIF_96.AIF",
+   "rate": 24000,
+   "frames": 429995,
+   "b0": 334448,
+   "b1": 830454,
+   "size": 860044,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "It's them! Snatchers! Get them!",
+   "rows": [
+    "It's them! Snatchers! Get",
+    "them!"
+   ],
+   "rows_plain": [
+    "It's them! Snatchers! Get them!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_00",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 272720,
+   "b1": 504104,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "My arm! My Blaster! My leg's been hit!",
+   "rows": [
+    "My arm! My Blaster! My leg's",
+    "been hit!"
+   ],
+   "rows_plain": [
+    "My arm! My Blaster! My leg's been",
+    "hit!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_01",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 504104,
+   "b1": 699002,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "What a sorry sight, JUNKER!",
+   "rows": [
+    "What a sorry sight, JUNKER!"
+   ],
+   "rows_plain": [
+    "What a sorry sight, JUNKER!"
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_02",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 699002,
+   "b1": 1031196,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Who's there? Chin! Chin Shu Ho, you bastard!",
+   "rows": [
+    "Who's there? Chin! Chin Shu",
+    "Ho, you bastard!"
+   ],
+   "rows_plain": [
+    "Who's there? Chin! Chin Shu Ho, you",
+    "bastard!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_04",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 1031196,
+   "b1": 1491381,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "Still have some fight left, JUNKER? You're finished.",
+   "rows": [
+    "Still have some fight left,",
+    "JUNKER? You're finished."
+   ],
+   "rows_plain": [
+    "Still have some fight left, JUNKER?",
+    "You're finished."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_04b",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 1491381,
+   "b1": 1746146,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "Our plan is entering its second phase, Level 2.",
+   "rows": [
+    "Our plan is entering its",
+    "second phase, Level 2."
+   ],
+   "rows_plain": [
+    "Our plan is entering its second",
+    "phase, Level 2."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_04c",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 1746146,
+   "b1": 2026494,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "Then this city and the entire world will be ours.",
+   "rows": [
+    "Then this city and the",
+    "entire world will be ours."
+   ],
+   "rows_plain": [
+    "Then this city and the entire world",
+    "will be ours."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_07",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 2026494,
+   "b1": 2194512,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Second phase? What do you mean?",
+   "rows": [
+    "Second phase? What do you",
+    "mean?"
+   ],
+   "rows_plain": [
+    "Second phase? What do you mean?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_08",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 2194512,
+   "b1": 2564148,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "As you know, our movements have been restricted by our imperfect artificial skin.",
+   "rows": [
+    "As you know, our movements",
+    "have been restricted by our",
+    "imperfect artificial skin."
+   ],
+   "rows_plain": [
+    "As you know, our movements have been",
+    "restricted by our imperfect",
+    "artificial skin."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_08b",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 2564148,
+   "b1": 3002912,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "It forces us to avoid ultraviolet rays and hide underground.",
+   "rows": [
+    "It forces us to avoid",
+    "ultraviolet rays and hide",
+    "underground."
+   ],
+   "rows_plain": [
+    "It forces us to avoid ultraviolet",
+    "rays and hide underground."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_08c",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 3002912,
+   "b1": 3382150,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "We can only operate on winter nights. We even need a hospital like this.",
+   "rows": [
+    "We can only operate on",
+    "winter nights. We even need",
+    "a hospital like this."
+   ],
+   "rows_plain": [
+    "We can only operate on winter",
+    "nights. We even need a hospital like",
+    "this."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_08d",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 3382150,
+   "b1": 3580888,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "All because of our imperfect artificial skin.",
+   "rows": [
+    "All because of our imperfect",
+    "artificial skin."
+   ],
+   "rows_plain": [
+    "All because of our imperfect",
+    "artificial skin."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_08e",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 3580888,
+   "b1": 3730344,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "It is the only difference between us and humans.",
+   "rows": [
+    "It is the only difference",
+    "between us and humans."
+   ],
+   "rows_plain": [
+    "It is the only difference between us",
+    "and humans."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_08f",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 3730344,
+   "b1": 4083658,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "But at last, we can overcome that tiresome limitation.",
+   "rows": [
+    "But at last, we can overcome",
+    "that tiresome limitation."
+   ],
+   "rows_plain": [
+    "But at last, we can overcome that",
+    "tiresome limitation."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_15",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 4083658,
+   "b1": 4139344,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What?",
+   "rows": [
+    "What?"
+   ],
+   "rows_plain": [
+    "What?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_16",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 4139344,
+   "b1": 4354726,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "We've found the key to perfect artificial skin,",
+   "rows": [
+    "We've found the key to",
+    "perfect artificial skin,"
+   ],
+   "rows_plain": [
+    "We've found the key to perfect",
+    "artificial skin,"
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_16b",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 4354726,
+   "b1": 4570428,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "thanks to a new collaborator.",
+   "rows": [
+    "thanks to a new",
+    "collaborator."
+   ],
+   "rows_plain": [
+    "thanks to a new collaborator."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_17",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 4570428,
+   "b1": 4797970,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Perfect artificial skin? A new collaborator?",
+   "rows": [
+    "Perfect artificial skin? A",
+    "new collaborator?"
+   ],
+   "rows_plain": [
+    "Perfect artificial skin? A new",
+    "collaborator?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_18",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 4797970,
+   "b1": 5019752,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "Once it's complete, nothing will hold us back.",
+   "rows": [
+    "Once it's complete, nothing",
+    "will hold us back."
+   ],
+   "rows_plain": [
+    "Once it's complete, nothing will",
+    "hold us back."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_18b",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 5019752,
+   "b1": 5521882,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "With that skin, our snatching plan will enter its second phase, Level 2.",
+   "rows": [
+    "With that skin, our",
+    "snatching plan will enter",
+    "its second phase, Level 2."
+   ],
+   "rows_plain": [
+    "With that skin, our snatching plan",
+    "will enter its second phase, Level",
+    "2."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_18c",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 5521882,
+   "b1": 5734062,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "Our experiment in this city will become a full-scale invasion of the world.",
+   "rows": [
+    "Our experiment in this city",
+    "will become a full-scale",
+    "invasion of the world."
+   ],
+   "rows_plain": [
+    "Our experiment in this city will",
+    "become a full-scale invasion of the",
+    "world."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_21",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 5734062,
+   "b1": 5998088,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Don't get carried away. You won't leave this city so easily.",
+   "rows": [
+    "Don't get carried away. You",
+    "won't leave this city so",
+    "easily."
+   ],
+   "rows_plain": [
+    "Don't get carried away. You won't",
+    "leave this city so easily."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_22",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 5998088,
+   "b1": 6185948,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "Humans are such hopeless fools.",
+   "rows": [
+    "Humans are such hopeless",
+    "fools."
+   ],
+   "rows_plain": [
+    "Humans are such hopeless fools."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_23",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 6185948,
+   "b1": 6297318,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "What?!",
+   "rows": [
+    "What?!"
+   ],
+   "rows_plain": [
+    "What?!"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_24",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 6297318,
+   "b1": 6624712,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "You know tomorrow's Kyoto summit will discuss the Snatchers.",
+   "rows": [
+    "You know tomorrow's Kyoto",
+    "summit will discuss the",
+    "Snatchers."
+   ],
+   "rows_plain": [
+    "You know tomorrow's Kyoto summit",
+    "will discuss the Snatchers."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_24b",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 6624712,
+   "b1": 6894498,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "We will attack the summit.",
+   "rows": [
+    "We will attack the summit."
+   ],
+   "rows_plain": [
+    "We will attack the summit."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_26",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 6894498,
+   "b1": 7129722,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Fool! Security's too tight. You won't even get close, let alone inside.",
+   "rows": [
+    "Fool! Security's too tight.",
+    "You won't even get close,",
+    "let alone inside."
+   ],
+   "rows_plain": [
+    "Fool! Security's too tight. You",
+    "won't even get close, let alone",
+    "inside."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_27",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 7129722,
+   "b1": 7375506,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "Must I explain everything, JUNKER?",
+   "rows": [
+    "Must I explain everything,",
+    "JUNKER?"
+   ],
+   "rows_plain": [
+    "Must I explain everything, JUNKER?"
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_27b",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 7375506,
+   "b1": 7780666,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "Surely you've heard that a JUNKER will attend as a special adviser.",
+   "rows": [
+    "Surely you've heard that a",
+    "JUNKER will attend as a",
+    "special adviser."
+   ],
+   "rows_plain": [
+    "Surely you've heard that a JUNKER",
+    "will attend as a special adviser."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_29",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 7780666,
+   "b1": 8064854,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The Chief! Cunningham! That's why you snatched him!",
+   "rows": [
+    "The Chief! Cunningham!",
+    "That's why you snatched him!"
+   ],
+   "rows_plain": [
+    "The Chief! Cunningham! That's why",
+    "you snatched him!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_30",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 8064854,
+   "b1": 8256874,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "We've known for six months that the Chief would attend.",
+   "rows": [
+    "We've known for six months",
+    "that the Chief would attend."
+   ],
+   "rows_plain": [
+    "We've known for six months that the",
+    "Chief would attend."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_31",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 8256874,
+   "b1": 8422010,
+   "size": 19325392,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The summit is tomorrow, Gillian. We must hurry!",
+   "rows": [
+    "The summit is tomorrow,",
+    "Gillian. We must hurry!"
+   ],
+   "rows_plain": [
+    "The summit is tomorrow, Gillian. We",
+    "must hurry!"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B200_r_32",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 8422010,
+   "b1": 8802801,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "The Chief and all of JUNKER are in our hands. This city too.",
+   "rows": [
+    "The Chief and all of JUNKER",
+    "are in our hands. This city",
+    "too."
+   ],
+   "rows_plain": [
+    "The Chief and all of JUNKER are in",
+    "our hands. This city too."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_32b",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 8802801,
+   "b1": 9139842,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "Tomorrow, the whole world. No one remains to stand in our way.",
+   "rows": [
+    "Tomorrow, the whole world.",
+    "No one remains to stand in",
+    "our way."
+   ],
+   "rows_plain": [
+    "Tomorrow, the whole world. No one",
+    "remains to stand in our way."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_32c",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 9139842,
+   "b1": 9460512,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "At last, we will avenge what happened fifty years ago.",
+   "rows": [
+    "At last, we will avenge what",
+    "happened fifty years ago."
+   ],
+   "rows_plain": [
+    "At last, we will avenge what",
+    "happened fifty years ago."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_37",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 9460512,
+   "b1": 9550762,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Who the hell are you?",
+   "rows": [
+    "Who the hell are you?"
+   ],
+   "rows_plain": [
+    "Who the hell are you?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_38",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 9550762,
+   "b1": 9924880,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "Us? Deep within the Kremlin, our creator Madnar gave us life.",
+   "rows": [
+    "Us? Deep within the Kremlin,",
+    "our creator Madnar gave us",
+    "life."
+   ],
+   "rows_plain": [
+    "Us? Deep within the Kremlin, our",
+    "creator Madnar gave us life."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_38b",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 9924880,
+   "b1": 10183464,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "We are the chosen people, the next stage of evolution.",
+   "rows": [
+    "We are the chosen people,",
+    "the next stage of evolution."
+   ],
+   "rows_plain": [
+    "We are the chosen people, the next",
+    "stage of evolution."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_41",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 10183464,
+   "b1": 10504136,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Madnar? Kremlin? Those names sound familiar.",
+   "rows": [
+    "Madnar? Kremlin? Those names",
+    "sound familiar."
+   ],
+   "rows_plain": [
+    "Madnar? Kremlin? Those names sound",
+    "familiar."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_43",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 10504136,
+   "b1": 10704796,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "Our goal is to snatch the world's VIPs.",
+   "rows": [
+    "Our goal is to snatch the",
+    "world's VIPs."
+   ],
+   "rows_plain": [
+    "Our goal is to snatch the world's",
+    "VIPs."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_44",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 10704796,
+   "b1": 11046270,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "Then control the thoughts of every race, everywhere, and unite all peoples.",
+   "rows": [
+    "Then control the thoughts of",
+    "every race, everywhere, and",
+    "unite all peoples."
+   ],
+   "rows_plain": [
+    "Then control the thoughts of every",
+    "race, everywhere, and unite all",
+    "peoples."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_45",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 11046270,
+   "b1": 11191244,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Who's controlling you?",
+   "rows": [
+    "Who's controlling you?"
+   ],
+   "rows_plain": [
+    "Who's controlling you?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_46",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 11191244,
+   "b1": 11604086,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "Like the Nazis, we begin our invasion by terrorizing the human mind.",
+   "rows": [
+    "Like the Nazis, we begin our",
+    "invasion by terrorizing the",
+    "human mind."
+   ],
+   "rows_plain": [
+    "Like the Nazis, we begin our",
+    "invasion by terrorizing the human",
+    "mind."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_46b",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 11604086,
+   "b1": 12036128,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "We provoke and amplify doubt, the weakness at the root of the human psyche.",
+   "rows": [
+    "We provoke and amplify",
+    "doubt, the weakness at the",
+    "root of the human psyche."
+   ],
+   "rows_plain": [
+    "We provoke and amplify doubt, the",
+    "weakness at the root of the human",
+    "psyche."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_46c",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 12036128,
+   "b1": 12378882,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "That destroys trust, the foundation of human society.",
+   "rows": [
+    "That destroys trust, the",
+    "foundation of human society."
+   ],
+   "rows_plain": [
+    "That destroys trust, the foundation",
+    "of human society."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_46d",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 12378882,
+   "b1": 12663072,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "Doubt is humanity's most primitive, and most fragile, weakness.",
+   "rows": [
+    "Doubt is humanity's most",
+    "primitive, and most fragile,",
+    "weakness."
+   ],
+   "rows_plain": [
+    "Doubt is humanity's most primitive,",
+    "and most fragile, weakness."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_46e",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 12663072,
+   "b1": 12984704,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "Our plan needs only a gentle touch at that point.",
+   "rows": [
+    "Our plan needs only a gentle",
+    "touch at that point."
+   ],
+   "rows_plain": [
+    "Our plan needs only a gentle touch",
+    "at that point."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_50",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 12984704,
+   "b1": 13327243,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "We'll all die if this goes on, Gillian. You have to make it back alive.",
+   "rows": [
+    "We'll all die if this goes",
+    "on, Gillian. You have to",
+    "make it back alive."
+   ],
+   "rows_plain": [
+    "We'll all die if this goes on,",
+    "Gillian. You have to make it back",
+    "alive."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_50b",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 13327243,
+   "b1": 13400104,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "You're a JUNKER.",
+   "rows": [
+    "You're a JUNKER."
+   ],
+   "rows_plain": [
+    "You're a JUNKER."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_53",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 13400104,
+   "b1": 13494194,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What are you planning, Randam?",
+   "rows": [
+    "What are you planning,",
+    "Randam?"
+   ],
+   "rows_plain": [
+    "What are you planning, Randam?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_54",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 13494194,
+   "b1": 13640128,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Some big fireworks.",
+   "rows": [
+    "Some big fireworks."
+   ],
+   "rows_plain": [
+    "Some big fireworks."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_55",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 13640128,
+   "b1": 13860950,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "You'll blow yourself up before you let them snatch you?",
+   "rows": [
+    "You'll blow yourself up",
+    "before you let them snatch",
+    "you?"
+   ],
+   "rows_plain": [
+    "You'll blow yourself up before you",
+    "let them snatch you?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_56",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 13860950,
+   "b1": 13956000,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Let's fight them together, Randam!",
+   "rows": [
+    "Let's fight them together,",
+    "Randam!"
+   ],
+   "rows_plain": [
+    "Let's fight them together, Randam!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_57",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 13956000,
+   "b1": 14345798,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "No. My thigh's been hit. Damn it. A leg wound is fatal for a bounty hunter.",
+   "rows": [
+    "No. My thigh's been hit.",
+    "Damn it. A leg wound is",
+    "fatal for a bounty hunter."
+   ],
+   "rows_plain": [
+    "No. My thigh's been hit. Damn it. A",
+    "leg wound is fatal for a bounty",
+    "hunter."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_59",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 14345798,
+   "b1": 14509014,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Do you have a chance?",
+   "rows": [
+    "Do you have a chance?"
+   ],
+   "rows_plain": [
+    "Do you have a chance?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_60",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 14509014,
+   "b1": 14815284,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "I'm not a bounty hunter for nothing. I've prepared for situations like this.",
+   "rows": [
+    "I'm not a bounty hunter for",
+    "nothing. I've prepared for",
+    "situations like this."
+   ],
+   "rows_plain": [
+    "I'm not a bounty hunter for nothing.",
+    "I've prepared for situations like",
+    "this."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_60b",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 14815284,
+   "b1": 15396719,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "I've always held on to things. December's late for fireworks.",
+   "rows": [
+    "I've always held on to",
+    "things. December's late for",
+    "fireworks."
+   ],
+   "rows_plain": [
+    "I've always held on to things.",
+    "December's late for fireworks."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_60c",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 15396719,
+   "b1": 15828258,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Call it a year-end show. My belt is packed with TNT-PX. Powerful stuff.",
+   "rows": [
+    "Call it a year-end show. My",
+    "belt is packed with TNT-PX.",
+    "Powerful stuff."
+   ],
+   "rows_plain": [
+    "Call it a year-end show. My belt is",
+    "packed with TNT-PX. Powerful stuff."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_60d",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 15828258,
+   "b1": 16179260,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "They use it in the mines on Mars. One button will blow this hospital sky-high.",
+   "rows": [
+    "They use it in the mines on",
+    "Mars. One button will blow",
+    "this hospital sky-high."
+   ],
+   "rows_plain": [
+    "They use it in the mines on Mars.",
+    "One button will blow this hospital",
+    "sky-high."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_60e",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 16179260,
+   "b1": 16570882,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "No time to think. Go, JUNKER! What are you waiting for, coward?",
+   "rows": [
+    "No time to think. Go,",
+    "JUNKER! What are you waiting",
+    "for, coward?"
+   ],
+   "rows_plain": [
+    "No time to think. Go, JUNKER! What",
+    "are you waiting for, coward?"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_60f",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 16570882,
+   "b1": 16658348,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Escape through this vent!",
+   "rows": [
+    "Escape through this vent!"
+   ],
+   "rows_plain": [
+    "Escape through this vent!"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_60g",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 16658348,
+   "b1": 16863808,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "I'll set off a powerful flash to confuse their sensors.",
+   "rows": [
+    "I'll set off a powerful",
+    "flash to confuse their",
+    "sensors."
+   ],
+   "rows_plain": [
+    "I'll set off a powerful flash to",
+    "confuse their sensors."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_60h",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 16863808,
+   "b1": 17114321,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Use that chance to get as far away as you can. Got it?",
+   "rows": [
+    "Use that chance to get as",
+    "far away as you can. Got it?"
+   ],
+   "rows_plain": [
+    "Use that chance to get as far away",
+    "as you can. Got it?"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_60i",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 17114321,
+   "b1": 17221924,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Watch the fireworks from a distance, Gillian.",
+   "rows": [
+    "Watch the fireworks from a",
+    "distance, Gillian."
+   ],
+   "rows_plain": [
+    "Watch the fireworks from a distance,",
+    "Gillian."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_74",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 17221924,
+   "b1": 17681810,
+   "size": 19325392,
+   "speaker": "Chin",
+   "colour": 5,
+   "en": "Finished your goodbyes? Then it's time for you to die. We have work to do.",
+   "rows": [
+    "Finished your goodbyes? Then",
+    "it's time for you to die. We",
+    "have work to do."
+   ],
+   "rows_plain": [
+    "Finished your goodbyes? Then it's",
+    "time for you to die. We have work to",
+    "do."
+   ],
+   "enabled": true,
+   "face_char": 12
+  },
+  {
+   "id": "B200_r_77",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 17681810,
+   "b1": 17966958,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "On my signal, break through the vent and run. Don't forget your Blaster.",
+   "rows": [
+    "On my signal, break through",
+    "the vent and run. Don't",
+    "forget your Blaster."
+   ],
+   "rows_plain": [
+    "On my signal, break through the vent",
+    "and run. Don't forget your Blaster."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_79",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 17966958,
+   "b1": 18029364,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Stay with me, Metal.",
+   "rows": [
+    "Stay with me, Metal."
+   ],
+   "rows_plain": [
+    "Stay with me, Metal."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_80",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 18029364,
+   "b1": 18047606,
+   "size": 19325392,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Yes.",
+   "rows": [
+    "Yes."
+   ],
+   "rows_plain": [
+    "Yes."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B200_r_81",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 18047606,
+   "b1": 18165378,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Randam!",
+   "rows": [
+    "Randam!"
+   ],
+   "rows_plain": [
+    "Randam!"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_82",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 18165378,
+   "b1": 18493730,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Looks like you'll still owe me one, Gillian.",
+   "rows": [
+    "Looks like you'll still owe",
+    "me one, Gillian."
+   ],
+   "rows_plain": [
+    "Looks like you'll still owe me one,",
+    "Gillian."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_r_83",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 18493730,
+   "b1": 18774078,
+   "size": 19325392,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I'll pay them back for both of us.",
+   "rows": [
+    "I'll pay them back for both",
+    "of us."
+   ],
+   "rows_plain": [
+    "I'll pay them back for both of us."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_r_84",
+   "reel": 97,
+   "sdaif": "SDAIF_97.AIF",
+   "rate": 24000,
+   "frames": 9662669,
+   "b0": 18774078,
+   "b1": 18870088,
+   "size": 19325392,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Go!",
+   "rows": [
+    "Go!"
+   ],
+   "rows_plain": [
+    "Go!"
+   ],
+   "enabled": true,
+   "face_char": 7
+  }
+ ]
+}

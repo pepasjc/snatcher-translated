@@ -1,0 +1,466 @@
+{
+ "33": {
+  "speaker": "Catherine",
+  "en": "I'm sorry. I'm Gibson's daughter, Catherine.",
+  "ps1": [
+   "B0C0_004"
+  ],
+  "cards": [
+   "I'm sorry. I'm|Gibson's daughter,|Catherine."
+  ]
+ },
+ "34": {
+  "speaker": "Catherine",
+  "en": "What's wrong, Gillian?",
+  "ps1": [
+   "B0C0_005"
+  ],
+  "cards": [
+   "What's wrong,|Gillian?"
+  ]
+ },
+ "35": {
+  "speaker": "Gillian",
+  "en": "I'm sorry, Catherine. Your father's death was my fault.",
+  "ps1": [
+   "B0C0_006"
+  ],
+  "cards": [
+   "I'm sorry,|Catherine. Your|father's death was|my fault."
+  ]
+ },
+ "36": {
+  "speaker": "Metal Gear",
+  "en": "Gillian!",
+  "ps1": [
+   "B0C0_007"
+  ],
+  "cards": [
+   "Gillian!"
+  ]
+ },
+ "37": {
+  "speaker": "Gillian",
+  "en": "No. If I'd reached the scene a little sooner, your father...",
+  "ps1": [
+   "B0C0_008"
+  ],
+  "cards": [
+   "No. If I'd reached|the scene a little|sooner, your|father..."
+  ]
+ },
+ "38": {
+  "speaker": "Catherine",
+  "en": "No, I... I knew this could happen to my father. Every day I saw him off, I knew this day might come. Would it be today? Tomorrow? His work was dangerous.",
+  "ps1": [
+   "B0C0_009",
+   "B0C0_009b",
+   "B0C0_009c"
+  ],
+  "cards": [
+   "No, I... I knew|this could happen|to my father.",
+   "Every day I saw him|off, I knew this|day might come.|Would it be today?",
+   "Tomorrow? His work|was dangerous."
+  ],
+  "turns": [
+   8.1,
+   14.94
+  ]
+ },
+ "39": {
+  "speaker": "Gillian",
+  "en": "Catherine, are you...?",
+  "ps1": [
+   "B0C0_010"
+  ],
+  "cards": [
+   "Catherine, are|you...?"
+  ]
+ },
+ "3a": {
+  "speaker": "Catherine",
+  "en": "I am a JUNKER's daughter, after all. So...",
+  "ps1": [
+   "B0C0_011"
+  ],
+  "cards": [
+   "I am a JUNKER's|daughter, after|all. So..."
+  ]
+ },
+ "3b": {
+  "speaker": "Gillian",
+  "en": "Will you be all right on your own?",
+  "ps1": [
+   "B0C0_012"
+  ],
+  "cards": [
+   "Will you be all|right on your own?"
+  ]
+ },
+ "3c": {
+  "speaker": "Catherine",
+  "en": "Don't worry. I can manage on my own. Besides, I'm too tired to cry anymore.",
+  "ps1": [
+   "B0C0_013",
+   "B0C0_013b"
+  ],
+  "cards": [
+   "Don't worry. I can|manage on my own.",
+   "Besides, I'm too|tired to cry|anymore."
+  ],
+  "turns": [
+   5.02
+  ]
+ },
+ "3d": {
+  "speaker": "Gillian",
+  "en": "Ah... Catherine...",
+  "ps1": [
+   "B0C0_010"
+  ],
+  "cards": [
+   "Ah... Catherine..."
+  ]
+ },
+ "3e": {
+  "speaker": "Catherine",
+  "en": "Come on, Mr. JUNKER. You have work to do. Keeping busy helps take my mind off it. So...",
+  "ps1": [
+   "B0C0_014",
+   "B0C0_014b"
+  ],
+  "cards": [
+   "Come on, Mr.|JUNKER. You have work to do.",
+   "Keeping busy helps|take my mind off it. So..."
+  ],
+  "layout": "plain",
+  "turns": [
+   4.54
+  ]
+ },
+ "3f": {
+  "speaker": "Gillian",
+  "en": "All right, Catherine. Then I'll need your help.",
+  "ps1": [
+   "B0C0_015"
+  ],
+  "cards": [
+   "All right,|Catherine. Then|I'll need your help."
+  ]
+ },
+ "40": {
+  "speaker": "Catherine",
+  "en": "Alice is barking. Is something out there?",
+  "ps1": [
+   "B0C0_016"
+  ],
+  "cards": [
+   "Alice is barking.|Is something out there?"
+  ],
+  "layout": "plain"
+ },
+ "41": {
+  "speaker": "Gillian",
+  "en": "A Snatcher?",
+  "ps1": [
+   "B0C0_017"
+  ],
+  "cards": [
+   "A Snatcher?"
+  ]
+ },
+ "42": {
+  "speaker": "Gillian",
+  "en": "Wait here, Catherine!",
+  "ps1": [
+   "B0C0_018"
+  ],
+  "cards": [
+   "Wait here,|Catherine!"
+  ]
+ },
+ "43": {
+  "speaker": "Gibson",
+  "en": "Observations on Snatchers.",
+  "ps1": [
+   "B0C0_f32_0"
+  ],
+  "display": "graphic",
+  "cards": [
+   "Observations on|Snatchers."
+  ]
+ },
+ "44": {
+  "speaker": "Gibson",
+  "en": "Why do Snatchers appear in winter? Why are they nocturnal? I have found the answers to these questions.",
+  "ps1": [
+   "B0C0_f33_0",
+   "B0C0_f33_0b"
+  ],
+  "display": "graphic",
+  "cards": [
+   "Why do Snatchers|appear in winter?|Why are they|nocturnal?",
+   "I have found the|answers to these|questions."
+  ]
+ },
+ "45": {
+  "speaker": "Gibson",
+  "en": "The Snatchers' vampire-like habits all serve one purpose: avoiding sunlight. They avoid sunlight because their artificial skin is imperfect.",
+  "ps1": [
+   "B0C0_f34_0",
+   "B0C0_f34_0b",
+   "B0C0_f34_0b2",
+   "B0C0_f34_0b2b"
+  ],
+  "display": "graphic",
+  "cards": [
+   "The Snatchers'|vampire-like habits|all serve one|purpose:",
+   "avoiding sunlight.",
+   "They avoid sunlight|because their|artificial skin is|imperfect."
+  ]
+ },
+ "46": {
+  "speaker": "Gibson",
+  "en": "Prolonged exposure to ultraviolet light causes abnormal growth of melanocytes in the skin's basal layer, producing a skin cancer resembling malignant melanoma.",
+  "ps1": [
+   "B0C0_f35_0",
+   "B0C0_f35_0b",
+   "B0C0_f35_0c"
+  ],
+  "display": "graphic",
+  "cards": [
+   "Prolonged exposure|to ultraviolet|light causes|abnormal growth",
+   "of melanocytes in|the skin's basal|layer,",
+   "producing a skin|cancer resembling|malignant melanoma."
+  ]
+ },
+ "47": {
+  "speaker": "Gibson",
+  "en": "What humans call sunburn can be fatal to them.",
+  "ps1": [
+   "B0C0_f36_0"
+  ],
+  "display": "graphic",
+  "cards": [
+   "What humans call|sunburn can be|fatal to them."
+  ]
+ },
+ "48": {
+  "speaker": "Gibson",
+  "en": "This link between ultraviolet light and artificial skin should be the key to tracking down the Snatchers. Their artificial skin takes at least six months to fully settle.",
+  "ps1": [
+   "B0C0_f37_0",
+   "B0C0_f37_0b",
+   "B0C0_f37_0d"
+  ],
+  "display": "graphic",
+  "cards": [
+   "This link between|ultraviolet light",
+   "and artificial skin|should be the key|to tracking down|the Snatchers.",
+   "Their artificial|skin takes at least|six months to fully|settle."
+  ]
+ },
+ "49": {
+  "speaker": "Gibson",
+  "en": "These findings suggest several ways to identify a Snatcher.",
+  "ps1": [
+   "B0C0_f38_0"
+  ],
+  "display": "graphic",
+  "cards": [
+   "These findings|suggest several|ways to identify a|Snatcher."
+  ]
+ },
+ "4a": {
+  "speaker": "Gibson",
+  "en": "1. Examine the skin. Check for signs of malignant melanoma.",
+  "ps1": [
+   "B0C0_f39_0",
+   "B0C0_f39_0b"
+  ],
+  "display": "graphic",
+  "cards": [
+   "1. Examine the|skin. Check for|signs of malignant|melanoma."
+  ]
+ },
+ "4b": {
+  "speaker": "Gibson",
+  "en": "2. Check for an odor. If the skin is cancerous, the cancer cells emit a distinctive foul smell.",
+  "ps1": [
+   "B0C0_f40_0",
+   "B0C0_f40_0b",
+   "B0C0_f40_0c"
+  ],
+  "display": "graphic",
+  "cards": [
+   "2. Check for an|odor.",
+   "If the skin is|cancerous,",
+   "the cancer cells|emit a distinctive|foul smell."
+  ]
+ },
+ "4c": {
+  "speaker": "Gibson",
+  "en": "3. Check for pollen. Snatchers seem to be hiding in an area where a special cedar called Snow Cedar grows. Its pollen is always found wherever they appear.",
+  "ps1": [
+   "B0C0_f41_0",
+   "B0C0_f41_0b",
+   "B0C0_f41_0bb",
+   "B0C0_f41_0c"
+  ],
+  "display": "graphic",
+  "cards": [
+   "3. Check for|pollen.",
+   "Snatchers seem to|be hiding in an|area",
+   "where a special|cedar called Snow|Cedar grows.",
+   "Its pollen is|always found|wherever they|appear."
+  ]
+ },
+ "4d": {
+  "speaker": "Gibson",
+  "en": "Snow Cedar is an allergen that causes sore throats, sneezing and more.",
+  "ps1": [
+   "B0C0_f42_0",
+   "B0C0_f42_0b"
+  ],
+  "display": "graphic",
+  "cards": [
+   "Snow Cedar is an|allergen that|causes sore|throats,",
+   "sneezing and more."
+  ]
+ },
+ "4e": {
+  "speaker": "Gibson",
+  "en": "4. Check for sunscreen. Snatchers wear sunscreen even in midwinter to protect their skin from ultraviolet light.",
+  "ps1": [
+   "B0C0_f43_0",
+   "B0C0_f43_0b",
+   "B0C0_f43_0c"
+  ],
+  "display": "graphic",
+  "cards": [
+   "4. Check for|sunscreen.",
+   "Snatchers wear|sunscreen even in|midwinter",
+   "to protect their|skin from|ultraviolet light."
+  ]
+ },
+ "4f": {
+  "speaker": "Gibson",
+  "en": "Sunscreen blocks medium-wave UV, which causes sunburn, and long-wave UV, which causes tanning.",
+  "ps1": [
+   "B0C0_f44_0",
+   "B0C0_f44_0b"
+  ],
+  "display": "graphic",
+  "cards": [
+   "Sunscreen blocks|medium-wave UV,|which causes|sunburn,",
+   "and long-wave UV,|which causes|tanning."
+  ]
+ },
+ "50": {
+  "speaker": "Gibson",
+  "en": "Of these clues, 1 and 4 should be especially useful. They must also repair cancerous artificial skin, not just prevent it.",
+  "ps1": [
+   "B0C0_f45_0",
+   "B0C0_f46_0",
+   "B0C0_f46_0b"
+  ],
+  "display": "graphic",
+  "cards": [
+   "Of these clues, 1|and 4 should be|especially useful.",
+   "They must also|repair cancerous|artificial skin,|not just prevent it."
+  ]
+ },
+ "51": {
+  "speaker": "Gibson",
+  "en": "At last, I have found their hospital.",
+  "ps1": [
+   "B0C0_f47_0"
+  ],
+  "display": "graphic",
+  "cards": [
+   "At last, I have|found their|hospital."
+  ]
+ },
+ "52": {
+  "speaker": "Gibson",
+  "en": "P.S. Beware of a bounty hunter named Randam Hajile.",
+  "ps1": [
+   "B0C0_f47_0b",
+   "B0C0_f47_0c"
+  ],
+  "display": "graphic",
+  "cards": [
+   "P.S. Beware of a|bounty hunter named|Randam Hajile."
+  ]
+ },
+ "53": {
+  "speaker": "Gillian",
+  "en": "Oh, it's just a crow.",
+  "ps1": [
+   "B0C0_019"
+  ],
+  "cards": [
+   "Oh, it's just a crow."
+  ],
+  "layout": "plain"
+ },
+ "54": {
+  "speaker": "Metal Gear",
+  "en": "What a needless scare!",
+  "ps1": [
+   "B0C0_020"
+  ],
+  "cards": [
+   "What a needless|scare!"
+  ]
+ },
+ "55": {
+  "speaker": "Catherine",
+  "en": "So that's what you're like? Get out! Don't come back!",
+  "ps1": [
+   "B0C0_021"
+  ],
+  "cards": [
+   "So that's what|you're like? Get out!",
+   "Don't come back!"
+  ],
+  "layout": "plain"
+ },
+ "56": {
+  "speaker": "Gillian",
+  "en": "I'll give you my address and videophone number, just in case. Call me if anything happens.",
+  "ps1": [
+   "B0C0_022",
+   "B0C0_022b"
+  ],
+  "cards": [
+   "I'll give you my|address and|videophone number,|just in case.",
+   "Call me if anything|happens."
+  ],
+  "turns": [
+   4.32
+  ]
+ },
+ "57": {
+  "speaker": "Catherine",
+  "en": "Thank you. Goodbye.",
+  "ps1": [
+   "B0C0_023"
+  ],
+  "cards": [
+   "Thank you. Goodbye."
+  ],
+  "layout": "plain"
+ },
+ "fb": {
+  "speaker": "Woman",
+  "en": "Eeek! Pervert!",
+  "ps1": [
+   "B1A0_c5f47_0"
+  ],
+  "cards": [
+   "Eeek! Pervert!"
+  ],
+  "layout": "plain"
+ }
+}

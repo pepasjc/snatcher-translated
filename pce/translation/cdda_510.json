@@ -1,0 +1,824 @@
+[
+ {
+  "track": 7,
+  "start": 3.1,
+  "end": 9.3,
+  "speaker": "Jamie",
+  "en": "Gillian, it's me. Listen carefully. It's about Queen Hospital.",
+  "ps1": "B180_j_00",
+  "ps1_more": [
+   "B180_j_00b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Gillian, it's me.|Listen carefully.",
+   "It's about|Queen Hospital."
+  ],
+  "reveal_end": 8.98
+ },
+ {
+  "track": 7,
+  "start": 9.3,
+  "end": 14.48,
+  "speaker": "Jamie",
+  "en": "They built a large underground extension in 2030.",
+  "ps1": "B180_j_00c",
+  "layout": "plain",
+  "cards": [
+   "They built a large|underground extension in 2030."
+  ],
+  "reveal_end": 14.18
+ },
+ {
+  "track": 7,
+  "start": 14.48,
+  "end": 18.74,
+  "speaker": "Jamie",
+  "en": "That's right. The hospital has a basement.",
+  "ps1": "B180_j_00d",
+  "layout": "plain",
+  "cards": [
+   "That's right. The|hospital has a basement."
+  ],
+  "reveal_end": 17.3
+ },
+ {
+  "track": 7,
+  "start": 18.74,
+  "end": 21.78,
+  "speaker": "Jamie",
+  "en": "Underground construction is rare in Neo Kobe.",
+  "ps1": "B180_j_00e",
+  "layout": "plain",
+  "cards": [
+   "Underground|construction is rare in Neo Kobe."
+  ],
+  "reveal_end": 21.6
+ },
+ {
+  "track": 7,
+  "start": 21.78,
+  "end": 25.7,
+  "speaker": "Jamie",
+  "en": "That's why there was a record of it. There's more.",
+  "ps1": "B180_j_00f",
+  "layout": "plain",
+  "cards": [
+   "That's why there was a|record of it. There's more."
+  ],
+  "reveal_end": 25.48
+ },
+ {
+  "track": 7,
+  "start": 25.7,
+  "end": 28.8,
+  "speaker": "Jamie",
+  "en": "Director Chin Shu Ho used an underground facility",
+  "ps1": "B180_j_00g",
+  "layout": "plain",
+  "cards": [
+   "Director Chin Shu Ho|used an underground facility"
+  ],
+  "reveal_end": 28.8
+ },
+ {
+  "track": 7,
+  "start": 28.8,
+  "end": 35.56,
+  "speaker": "Jamie",
+  "en": "to perform illegal surrogate-mother operations. His practice was suspended because of it.",
+  "ps1": "B180_j_00h",
+  "layout": "plain",
+  "cards": [
+   "to perform illegal|surrogate-mother operations.",
+   "His practice was|suspended because of it."
+  ],
+  "reveal_end": 34.42
+ },
+ {
+  "track": 7,
+  "start": 35.56,
+  "end": 38.02,
+  "speaker": "Gillian",
+  "en": "So there's a medical facility underground?",
+  "ps1": "B180_j_03",
+  "cards": [
+   "So there's a|medical facility|underground?"
+  ],
+  "layout": "face",
+  "reveal_end": 37.9
+ },
+ {
+  "track": 7,
+  "start": 38.02,
+  "end": 43.16,
+  "speaker": "Metal Gear",
+  "en": "There's no doubt about it. Chin Shu Ho is servicing Snatchers underground.",
+  "ps1": "B180_j_04",
+  "ps1_more": [
+   "B180_j_04b"
+  ],
+  "cards": [
+   "There's no doubt|about it.",
+   "Chin Shu Ho is|servicing Snatchers|underground."
+  ],
+  "layout": "face",
+  "reveal_end": 43.1
+ },
+ {
+  "track": 7,
+  "start": 43.16,
+  "end": 46.08,
+  "speaker": "Gillian",
+  "en": "Then Chin is a Snatcher too.",
+  "ps1": "B180_j_05",
+  "cards": [
+   "Then Chin is a|Snatcher too."
+  ],
+  "layout": "face",
+  "reveal_end": 45.72
+ },
+ {
+  "track": 7,
+  "start": 46.08,
+  "end": 49.78,
+  "speaker": "Gillian",
+  "en": "No, they snatched him because he had the facilities they needed.",
+  "ps1": "B180_j_05b",
+  "cards": [
+   "No, they snatched|him because he had|the facilities they|needed."
+  ],
+  "layout": "face",
+  "reveal_end": 49.7
+ },
+ {
+  "track": 7,
+  "start": 49.78,
+  "end": 54.2,
+  "speaker": "Metal Gear",
+  "en": "The facilities above ground are a cover for it.",
+  "ps1": "B180_j_06",
+  "cards": [
+   "The facilities|above ground are a|cover for it."
+  ],
+  "layout": "face",
+  "reveal_end": 53.62
+ },
+ {
+  "track": 7,
+  "start": 54.2,
+  "end": 57.62,
+  "speaker": "Gillian",
+  "en": "Taking out this hospital will stop the Snatchers' advance.",
+  "ps1": "B180_j_07",
+  "cards": [
+   "Taking out this|hospital will stop|the Snatchers'|advance."
+  ],
+  "layout": "face",
+  "reveal_end": 57.38
+ },
+ {
+  "track": 7,
+  "start": 57.62,
+  "end": 62.46,
+  "speaker": "Gillian",
+  "en": "This is it, Metal. We're going into their base!",
+  "ps1": "B180_j_07b",
+  "cards": [
+   "This is it, Metal.|We're going into|their base!"
+  ],
+  "layout": "face",
+  "reveal_end": 60.92
+ },
+ {
+  "track": 7,
+  "start": 62.46,
+  "end": 63.6,
+  "speaker": "Jamie",
+  "en": "Gillian.",
+  "ps1": "B180_j_08",
+  "cards": [
+   "Gillian."
+  ],
+  "reveal_end": 63.44,
+  "layout": "plain"
+ },
+ {
+  "track": 7,
+  "start": 63.6,
+  "end": 64.82,
+  "speaker": "Gillian",
+  "en": "Hm?",
+  "ps1": "B180_j_09",
+  "cards": [
+   "Hm?"
+  ],
+  "reveal_end": 63.98
+ },
+ {
+  "track": 7,
+  "start": 64.82,
+  "end": 72.58,
+  "speaker": "Jamie",
+  "en": "Your work is dangerous. I want you to come back safely.",
+  "ps1": "B180_j_10",
+  "layout": "plain",
+  "cards": [
+   "Your work is dangerous.|I want you to come back safely."
+  ],
+  "reveal_end": 71.88
+ },
+ {
+  "track": 7,
+  "start": 72.58,
+  "end": 73.9,
+  "speaker": "Gillian",
+  "en": "Jamie.",
+  "ps1": "B180_j_11",
+  "cards": [
+   "Jamie."
+  ],
+  "reveal_end": 73.02
+ },
+ {
+  "track": 7,
+  "start": 73.9,
+  "end": 78.4,
+  "speaker": "Jamie",
+  "en": "I left you because I thought you were forcing yourself.",
+  "ps1": "B180_j_12",
+  "layout": "plain",
+  "cards": [
+   "I left you because I|thought you were forcing yourself."
+  ],
+  "reveal_end": 77.96
+ },
+ {
+  "track": 7,
+  "start": 78.4,
+  "end": 82.46,
+  "speaker": "Jamie",
+  "en": "No, because I felt you were.",
+  "ps1": "B180_j_12b",
+  "layout": "plain",
+  "cards": [
+   "No, because I felt you|were."
+  ],
+  "reveal_end": 80.44
+ },
+ {
+  "track": 7,
+  "start": 82.46,
+  "end": 91.32,
+  "speaker": "Jamie",
+  "en": "We were wearing wedding rings when they found us. I wondered if that had become a burden to you.",
+  "layout": "plain",
+  "reveal_end": 91.32,
+  "ps1": "B180_j_12c",
+  "cards": [
+   "We were wearing wedding|rings when they found us.",
+   "I wondered if that had|become a burden to you."
+  ]
+ },
+ {
+  "track": 7,
+  "start": 91.32,
+  "end": 96.14,
+  "speaker": "Jamie",
+  "en": "If that was all that kept us together, it would be too sad.",
+  "layout": "plain",
+  "reveal_end": 95.52,
+  "ps1": "B180_j_12e",
+  "ps1_more": [
+   "B180_j_12f"
+  ],
+  "cards": [
+   "If that was all that|kept us together,",
+   "it would be too sad."
+  ]
+ },
+ {
+  "track": 7,
+  "start": 96.14,
+  "end": 97.8,
+  "speaker": "Gillian",
+  "en": "That's not true.",
+  "ps1": "B180_j_16",
+  "cards": [
+   "That's not true."
+  ],
+  "layout": "face",
+  "reveal_end": 96.96
+ },
+ {
+  "track": 7,
+  "start": 97.8,
+  "end": 100.76,
+  "speaker": "Jamie",
+  "en": "I'll be waiting, Gillian.",
+  "ps1": "B180_j_17",
+  "layout": "plain",
+  "cards": [
+   "I'll be waiting,|Gillian."
+  ],
+  "reveal_end": 99.9
+ },
+ {
+  "track": 7,
+  "start": 100.76,
+  "end": 103.6,
+  "speaker": "Jamie",
+  "en": "We may have no memories,",
+  "ps1": "B180_j_17b",
+  "layout": "plain",
+  "cards": [
+   "We may have no memories,"
+  ],
+  "reveal_end": 103.28
+ },
+ {
+  "track": 7,
+  "start": 103.6,
+  "end": 113.42,
+  "speaker": "Jamie",
+  "en": "but we're the only ones who shared that time together. Be careful, Gillian.",
+  "ps1": "B180_j_17c",
+  "ps1_more": [
+   "B180_j_17d"
+  ],
+  "layout": "plain",
+  "cards": [
+   "but we're the only ones|who shared that time together.",
+   "Be careful, Gillian."
+  ],
+  "reveal_end": 109.72
+ },
+ {
+  "track": 7,
+  "start": 113.42,
+  "end": 114.72,
+  "speaker": "Gillian",
+  "en": "Jamie.",
+  "ps1": "B180_j_19",
+  "cards": [
+   "Jamie."
+  ],
+  "reveal_end": 114.36,
+  "layout": "plain"
+ },
+ {
+  "track": 7,
+  "start": 114.72,
+  "end": 116.64,
+  "speaker": "Metal Gear",
+  "en": "Can you leave it at that?",
+  "ps1": "B180_j_20",
+  "cards": [
+   "Can you leave it at|that?"
+  ],
+  "layout": "face",
+  "reveal_end": 116.28
+ },
+ {
+  "track": 7,
+  "start": 116.64,
+  "end": 121.68,
+  "speaker": "Gillian",
+  "en": "Let's go, Metal. To Queen Hospital. Her Majesty awaits.",
+  "ps1": "B180_j_21",
+  "cards": [
+   "Let's go, Metal. To|Queen Hospital. Her|Majesty awaits."
+  ],
+  "layout": "face",
+  "reveal_end": 120.68
+ },
+ {
+  "track": 8,
+  "start": 0.0,
+  "end": 4.28,
+  "speaker": "Gillian",
+  "en": "To hell with it! Metal, put your feet out on my signal!",
+  "ps1": "B1F0_r_00",
+  "layout": "plain",
+  "cards": [
+   "To hell with it!",
+   "Metal, put your feet|out on my signal!"
+  ],
+  "reveal_end": 4.22
+ },
+ {
+  "track": 8,
+  "start": 4.28,
+  "end": 5.12,
+  "speaker": "Metal Gear",
+  "en": "Our feet?",
+  "ps1": "B1F0_r_01",
+  "cards": [
+   "Our feet?"
+  ],
+  "reveal_end": 5.1,
+  "layout": "plain"
+ },
+ {
+  "track": 8,
+  "start": 5.12,
+  "end": 8.44,
+  "speaker": "Gillian",
+  "en": "Ready? Here goes! One, two, three!",
+  "ps1": "B1F0_r_02",
+  "layout": "plain",
+  "cards": [
+   "Ready? Here goes!|One, two, three!"
+  ],
+  "reveal_end": 8.18
+ },
+ {
+  "track": 8,
+  "start": 8.44,
+  "end": 13.66,
+  "speaker": "Gillian",
+  "en": "Ow! Hot! Metal, it's no good! We can't stop!",
+  "ps1": "B1F0_r_02b",
+  "layout": "plain",
+  "cards": [
+   "Ow! Hot! Metal, it's|no good! We can't stop!"
+  ],
+  "reveal_end": 12.96
+ },
+ {
+  "track": 8,
+  "start": 13.66,
+  "end": 16.26,
+  "speaker": "Metal Gear",
+  "en": "Gillian! There's a sharp bend in 500 meters!",
+  "ps1": "B1F0_r_05",
+  "layout": "plain",
+  "cards": [
+   "Gillian! There's a|sharp bend in 500 meters!"
+  ],
+  "reveal_end": 16.14
+ },
+ {
+  "track": 8,
+  "start": 16.26,
+  "end": 19.02,
+  "speaker": "Metal Gear",
+  "en": "We can't make the turn at this speed!",
+  "ps1": "B1F0_r_05b",
+  "layout": "plain",
+  "cards": [
+   "We can't make the|turn at this speed!"
+  ],
+  "reveal_end": 18.16
+ },
+ {
+  "track": 8,
+  "start": 19.02,
+  "end": 22.18,
+  "speaker": "Randam",
+  "en": "Gillian! Gillian! Hey, Gillian!",
+  "ps1": "B1F0_r_06",
+  "layout": "plain",
+  "cards": [
+   "Gillian! Gillian! Hey,|Gillian!"
+  ],
+  "reveal_end": 22.1
+ },
+ {
+  "track": 8,
+  "start": 22.18,
+  "end": 23.08,
+  "speaker": "Gillian",
+  "en": "Huh?",
+  "ps1": "B1F0_r_08",
+  "cards": [
+   "Huh?"
+  ],
+  "reveal_end": 23.0
+ },
+ {
+  "track": 8,
+  "start": 23.08,
+  "end": 24.28,
+  "speaker": "Randam",
+  "en": "Hey! Over here!",
+  "ps1": "B1F0_r_09",
+  "layout": "plain",
+  "cards": [
+   "Hey! Over here!"
+  ],
+  "reveal_end": 23.92
+ },
+ {
+  "track": 8,
+  "start": 24.28,
+  "end": 26.46,
+  "speaker": "Gillian",
+  "en": "What?",
+  "ps1": "B1F0_r_10",
+  "cards": [
+   "What?"
+  ],
+  "reveal_end": 24.72
+ },
+ {
+  "track": 8,
+  "start": 26.46,
+  "end": 29.1,
+  "speaker": "Randam",
+  "en": "Over here, Gillian!",
+  "ps1": "B1F0_r_11",
+  "cards": [
+   "Over here, Gillian!"
+  ],
+  "reveal_end": 27.64,
+  "layout": "plain"
+ },
+ {
+  "track": 8,
+  "start": 29.1,
+  "end": 29.9,
+  "speaker": "Gillian",
+  "en": "Randam!",
+  "ps1": "B1F0_r_12",
+  "cards": [
+   "Randam!"
+  ],
+  "reveal_end": 29.9,
+  "layout": "plain"
+ },
+ {
+  "track": 8,
+  "start": 29.9,
+  "end": 32.16,
+  "speaker": "Randam",
+  "en": "Jump over here, Gillian! Hurry!",
+  "ps1": "B1F0_r_13",
+  "layout": "plain",
+  "cards": [
+   "Jump over here,|Gillian! Hurry!"
+  ],
+  "reveal_end": 32.12
+ },
+ {
+  "track": 8,
+  "start": 32.16,
+  "end": 34.24,
+  "speaker": "Metal Gear",
+  "en": "Three hundred meters to the bend!",
+  "ps1": "B1F0_r_14",
+  "layout": "plain",
+  "cards": [
+   "Three hundred|meters to the bend!"
+  ],
+  "reveal_end": 34.08
+ },
+ {
+  "track": 8,
+  "start": 34.24,
+  "end": 35.58,
+  "speaker": "Gillian",
+  "en": "You go first, Metal!",
+  "ps1": "B1F0_r_15",
+  "layout": "plain",
+  "cards": [
+   "You go first, Metal!"
+  ],
+  "reveal_end": 35.26
+ },
+ {
+  "track": 8,
+  "start": 35.58,
+  "end": 38.44,
+  "speaker": "Metal Gear",
+  "en": "No! Not another jump!",
+  "ps1": "B1F0_r_16",
+  "layout": "plain",
+  "cards": [
+   "No! Not another|jump!"
+  ],
+  "reveal_end": 37.36
+ },
+ {
+  "track": 8,
+  "start": 38.44,
+  "end": 40.0,
+  "speaker": "Randam",
+  "en": "Hurry! The bend's coming!",
+  "ps1": "B1F0_r_17",
+  "layout": "plain",
+  "cards": [
+   "Hurry! The bend's|coming!"
+  ],
+  "reveal_end": 39.92
+ },
+ {
+  "track": 8,
+  "start": 40.0,
+  "end": 45.42,
+  "speaker": "Metal Gear",
+  "en": "All right! Here goes!",
+  "ps1": "B1F0_r_18",
+  "layout": "plain",
+  "cards": [
+   "All right! Here|goes!"
+  ],
+  "reveal_end": 43.92
+ },
+ {
+  "track": 8,
+  "start": 45.42,
+  "end": 49.12,
+  "speaker": "Randam",
+  "en": "All right, Gillian! Your turn! Hold your course!",
+  "ps1": "B1F0_r_20",
+  "layout": "plain",
+  "cards": [
+   "All right, Gillian!|Your turn! Hold your course!"
+  ],
+  "reveal_end": 49.0
+ },
+ {
+  "track": 8,
+  "start": 49.12,
+  "end": 51.02,
+  "speaker": "Metal Gear",
+  "en": "One hundred meters left!",
+  "ps1": "B1F0_r_21",
+  "layout": "plain",
+  "cards": [
+   "One hundred meters|left!"
+  ],
+  "reveal_end": 50.56
+ },
+ {
+  "track": 8,
+  "start": 51.02,
+  "end": 52.22,
+  "speaker": "Randam",
+  "en": "Jump, Gillian!",
+  "ps1": "B1F0_r_22",
+  "layout": "plain",
+  "cards": [
+   "Jump, Gillian!"
+  ],
+  "reveal_end": 51.94
+ },
+ {
+  "track": 8,
+  "start": 52.22,
+  "end": 55.34,
+  "speaker": "Gillian",
+  "en": "I can't! I can't time it!",
+  "ps1": "B1F0_r_23",
+  "layout": "plain",
+  "cards": [
+   "I can't! I can't time|it!"
+  ],
+  "reveal_end": 54.38
+ },
+ {
+  "track": 8,
+  "start": 55.34,
+  "end": 56.68,
+  "speaker": "Metal Gear",
+  "en": "Fifty meters!",
+  "ps1": "B1F0_r_24",
+  "layout": "plain",
+  "cards": [
+   "Fifty meters!"
+  ],
+  "reveal_end": 56.62
+ },
+ {
+  "track": 8,
+  "start": 56.68,
+  "end": 57.44,
+  "speaker": "Randam",
+  "en": "Hurry, Gillian!",
+  "ps1": "B1F0_r_25",
+  "layout": "plain",
+  "cards": [
+   "Hurry, Gillian!"
+  ],
+  "reveal_end": 57.44
+ },
+ {
+  "track": 8,
+  "start": 57.44,
+  "end": 58.68,
+  "speaker": "Metal Gear",
+  "en": "Thirty meters!",
+  "ps1": "B1F0_r_26",
+  "layout": "plain",
+  "cards": [
+   "Thirty meters!"
+  ],
+  "reveal_end": 58.62
+ },
+ {
+  "track": 8,
+  "start": 58.68,
+  "end": 59.5,
+  "speaker": "Randam",
+  "en": "Hurry! Hurry!",
+  "ps1": "B1F0_r_27",
+  "layout": "plain",
+  "cards": [
+   "Hurry! Hurry!"
+  ],
+  "reveal_end": 59.5
+ },
+ {
+  "track": 8,
+  "start": 59.5,
+  "end": 61.2,
+  "speaker": "Metal Gear",
+  "en": "It's no use!",
+  "ps1": "B1F0_r_28",
+  "layout": "plain",
+  "cards": [
+   "It's no use!"
+  ],
+  "reveal_end": 60.92
+ },
+ {
+  "track": 8,
+  "start": 61.2,
+  "end": 63.0,
+  "speaker": "Randam",
+  "en": "Now!",
+  "ps1": "B1F0_r_29",
+  "cards": [
+   "Now!"
+  ],
+  "reveal_end": 62.0,
+  "layout": "plain"
+ },
+ {
+  "track": 9,
+  "start": 7.2,
+  "end": 12.14,
+  "speaker": "Randam",
+  "en": "Gillian! He didn't make it?",
+  "ps1": "B1F0_t_00",
+  "layout": "plain",
+  "cards": [
+   "Gillian! He didn't make|it?"
+  ],
+  "reveal_end": 10.54
+ },
+ {
+  "track": 9,
+  "start": 12.14,
+  "end": 18.96,
+  "speaker": "Gillian",
+  "en": "Don't be stupid! I'm right here!",
+  "ps1": "B1F0_t_01",
+  "layout": "plain",
+  "cards": [
+   "Don't be stupid! I'm|right here!"
+  ],
+  "reveal_end": 14.58
+ },
+ {
+  "track": 9,
+  "start": 18.96,
+  "end": 22.34,
+  "speaker": "Randam",
+  "en": "Gillian, don't you know how to ride a bike?",
+  "ps1": "B1F0_t_02",
+  "layout": "plain",
+  "cards": [
+   "Gillian, don't you know|how to ride a bike?"
+  ],
+  "reveal_end": 22.24
+ },
+ {
+  "track": 9,
+  "start": 22.34,
+  "end": 25.4,
+  "speaker": "Metal Gear",
+  "en": "We're almost at Queen Hospital, Gillian.",
+  "ps1": "B1F0_t_03",
+  "layout": "plain",
+  "cards": [
+   "We're almost at|Queen Hospital, Gillian."
+  ],
+  "reveal_end": 25.36
+ },
+ {
+  "track": 9,
+  "start": 25.4,
+  "end": 28.94,
+  "speaker": "Metal Gear",
+  "en": "You could use the exercise, so let's keep going like this.",
+  "ps1": "B1F0_t_04",
+  "layout": "plain",
+  "cards": [
+   "You could use the|exercise,",
+   "so let's keep going|like this."
+  ],
+  "reveal_end": 27.94
+ }
+]

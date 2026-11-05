@@ -1,0 +1,21 @@
+{
+ "file": "ISZ_B210.BIN",
+ "text_base": 1977,
+ "strings": [
+  {
+   "off": 1977,
+   "budget": 3,
+   "en": ""
+  },
+  {
+   "off": 1980,
+   "budget": 2,
+   "en": ""
+  },
+  {
+   "off": 1984,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

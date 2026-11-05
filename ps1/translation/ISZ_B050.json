@@ -1,0 +1,202 @@
+{
+ "file": "ISZ_B050.BIN",
+ "text_base": 789,
+ "strings": [
+  {
+   "off": 789,
+   "budget": 2,
+   "en": ""
+  },
+  {
+   "off": 791,
+   "budget": 3,
+   "en": ""
+  },
+  {
+   "off": 794,
+   "budget": 63,
+   "en": "Do not insert or remove the ＠赤Memory￥Card＠白 while saving."
+  },
+  {
+   "off": 857,
+   "budget": 99,
+   "en": "＠赤No Memory Card inserted.＠白 A ＠赤Memory￥Card＠白 is required to save."
+  },
+  {
+   "off": 956,
+   "budget": 63,
+   "en": "Insert a card into ＠赤Memory Card slot￥1＠白."
+  },
+  {
+   "off": 1019,
+   "budget": 51,
+   "en": "After inserting it, select \"Card￥inserted.\""
+  },
+  {
+   "off": 1070,
+   "budget": 13,
+   "en": "Card in",
+   "long": "Card inserted"
+  },
+  {
+   "off": 1083,
+   "budget": 13,
+   "en": "Don't save"
+  },
+  {
+   "off": 1096,
+   "budget": 45,
+   "en": "The new data will not be saved."
+  },
+  {
+   "off": 1141,
+   "budget": 41,
+   "en": "＠赤This Memory Card is not formatted."
+  },
+  {
+   "off": 1182,
+   "budget": 103,
+   "en": "You must ＠赤format＠白 the Memory Card￥before saving. Please select￥＠赤Format＠白."
+  },
+  {
+   "off": 1285,
+   "budget": 11,
+   "en": "Format"
+  },
+  {
+   "off": 1296,
+   "budget": 61,
+   "en": "Do not remove the￥＠赤memory card＠白 while formatting.",
+   "long": "Do not insert or remove the ＠赤Memory￥Card＠白 while formatting."
+  },
+  {
+   "off": 1357,
+   "budget": 53,
+   "en": "This Memory Card has ＠赤no save file."
+  },
+  {
+   "off": 1410,
+   "budget": 89,
+   "en": "A Snatcher save file is required.￥Please create a ＠赤file＠白."
+  },
+  {
+   "off": 1499,
+   "budget": 13,
+   "en": "Create file"
+  },
+  {
+   "off": 1512,
+   "budget": 67,
+   "en": "Do not remove the ＠赤memory￥card＠白 while creating a file.",
+   "long": "Do not insert or remove the ＠赤Memory￥Card＠白 while the file is being￥created."
+  },
+  {
+   "off": 1579,
+   "budget": 21,
+   "en": "Formatting complete."
+  },
+  {
+   "off": 1600,
+   "budget": 101,
+   "en": "A Snatcher ＠赤save file＠白 is required.￥Please create a ＠赤file＠白."
+  },
+  {
+   "off": 1701,
+   "budget": 51,
+   "en": "Formatting failed. Try again?"
+  },
+  {
+   "off": 1752,
+   "budget": 29,
+   "en": "Formatting canceled."
+  },
+  {
+   "off": 1781,
+   "budget": 27,
+   "en": "File created."
+  },
+  {
+   "off": 1808,
+   "budget": 63,
+   "en": "File creation failed. Try again?"
+  },
+  {
+   "off": 1871,
+   "budget": 35,
+   "en": "File creation canceled."
+  },
+  {
+   "off": 1906,
+   "budget": 71,
+   "en": "＠赤Not enough free blocks.＠白 Cannot￥create new save data."
+  },
+  {
+   "off": 1977,
+   "budget": 73,
+   "en": "Insert ＠赤another Memory Card＠白 and￥select \"Other card in.\""
+  },
+  {
+   "off": 2050,
+   "budget": 15,
+   "en": "Other card in"
+  },
+  {
+   "off": 2065,
+   "budget": 9,
+   "en": "Save 1"
+  },
+  {
+   "off": 2074,
+   "budget": 93,
+   "en": "This file contains previously saved￥data. Overwrite it with the new￥data?"
+  },
+  {
+   "off": 2167,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 2178,
+   "budget": 9,
+   "en": "Save 2"
+  },
+  {
+   "off": 2187,
+   "budget": 9,
+   "en": "Save 3"
+  },
+  {
+   "off": 2196,
+   "budget": 9,
+   "en": "Save 4"
+  },
+  {
+   "off": 2205,
+   "budget": 65,
+   "en": "＠赤Save failed.＠白 Try saving again?"
+  },
+  {
+   "off": 2270,
+   "budget": 41,
+   "en": "Save complete.￥Resuming the case.",
+   "long": "Save complete. Continuing the￥investigation."
+  },
+  {
+   "off": 2311,
+   "budget": 93,
+   "en": "＠赤A problem occurred during the card￥check. Please check the memory card.",
+   "long": "＠赤An error occurred while checking the￥card. Please check your Memory Card￥and connections."
+  },
+  {
+   "off": 2404,
+   "budget": 9,
+   "en": "Checked",
+   "long": "Confirmed"
+  },
+  {
+   "off": 2415,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

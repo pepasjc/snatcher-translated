@@ -1,0 +1,133 @@
+{
+ "scene": "B0B0",
+ "note": "Gillian's apartment (guides/ps1.txt GILLIAN'S APARTMENT, optional): Look at the shelf, investigate the photo for Jamie's number 39-3444, call her on the videophone (B060, the Jamie calls).",
+ "source": "guides/ps1.txt GILLIAN'S APARTMENT",
+ "actions": [
+  {
+   "save": "B0B0_start"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2,
+   "why": "the shelf, the photo, the room"
+  },
+  {
+   "save": "B0B0_swept"
+  },
+  {
+   "path": [
+    "Use Metal Gear",
+    "Videophone"
+   ]
+  },
+  {
+   "path": [
+    "Call"
+   ]
+  },
+  {
+   "dial": "393444"
+  },
+  {
+   "save": "B0B0_jamie"
+  },
+  {
+   "path": [
+    "Talk",
+    "My work"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Ask",
+    "Under the sheets"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Hang up"
+   ],
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "dial": "396004",
+   "why": "Jamie's tape sends you to the Neo Kobe Pharmaceutical Lab (dial table: 396004)"
+  },
+  {
+   "path": [
+    "Hang up"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "dial": "0000000000",
+   "why": "an invalid number"
+  },
+  {
+   "path": [
+    "Hang up"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "dial": "9999999999",
+   "why": "a number not in service"
+  },
+  {
+   "path": [
+    "Hang up"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "dial": "393444",
+   "why": "Jamie again: the videotape line on the second call"
+  },
+  {
+   "save": "B0B0_jamie2"
+  },
+  {
+   "path": [
+    "Hang up"
+   ],
+   "optional": true,
+   "patience": 3000
+  }
+ ]
+}

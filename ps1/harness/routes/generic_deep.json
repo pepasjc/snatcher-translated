@@ -1,0 +1,7 @@
+{"scene":"any","note":"Exhaustive sweep for coverage: every verb and every label three times over, then every Move destination swept twice inside, then the whole thing once more. Leaves nothing but the exits (scripted.AVOID).",
+ "actions":[
+  {"sweep":["Talk","Ask","Look","Investigate","Listen","Smell","Sniff","Item","Show","Call","Press him","Give proof","Knock"],"rounds":3},
+  {"sweep":["Move"],"each":["Talk","Ask","Look","Investigate","Listen","Smell","Item"],"each_rounds":2,"rounds":1},
+  {"sweep":["Talk","Ask","Look","Investigate","Listen","Item"],"rounds":2},
+  {"sweep":["Move"],"each":["Talk","Ask","Look","Investigate","Listen"],"each_rounds":1,"rounds":1}
+ ]}

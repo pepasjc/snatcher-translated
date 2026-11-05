@@ -1,0 +1,494 @@
+[
+{
+"choose": [
+"JUNKER HQ",
+"Study"
+]
+},
+{
+"read": 8000
+},
+{
+"choose": "Exit Tricycle"
+},
+{
+"read": 8000
+},
+{
+"save": "hq4"
+},
+{
+"items": 1
+},
+{
+"sweep": "Talk",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Ask",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Chief's room"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"maybe": "Find Catherine"
+},
+{
+"read": 8000
+},
+{
+"sweep": "Ask",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Mechanic room"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"maybe": "Find Catherine"
+},
+{
+"read": 8000
+},
+{
+"sweep": "Ask",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Computer room"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"shot": "comp"
+},
+{
+"maybe": "Find Catherine"
+},
+{
+"read": 8000
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Squad room"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"maybe": "Find Catherine"
+},
+{
+"read": 8000
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Shooting range"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"maybe": "Find Catherine"
+},
+{
+"read": 8000
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Front desk"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+},
+{
+"sweep": "Talk",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Ask",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"save": "hq4_done"
+},
+{
+"items": 1
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Board Tricycle"
+},
+{
+"read": 3000
+},
+{
+"items": 1
+},
+{
+"choose": "Altamira"
+},
+{
+"read": 8000
+},
+{
+"choose": "Exit Tricycle"
+},
+{
+"read": 8000
+},
+{
+"save": "alton4"
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 3
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2,
+"avoid": [
+"Check the list"
+]
+},
+{
+"read": 3000
+},
+{
+"save": "alton4_done"
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Board Tricycle",
+"Move"
+]
+},
+{
+"maybe": "Board Tricycle"
+},
+{
+"read": 3000
+},
+{
+"items": 1
+},
+{
+"choose": "Gillian's home"
+},
+{
+"read": 8000
+},
+{
+"choose": "Exit Tricycle"
+},
+{
+"read": 8000
+},
+{
+"save": "home2"
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 1,
+"avoid": [
+"Check the list"
+]
+},
+{
+"read": 3000
+},
+{
+"choose": [
+"Move",
+"Go inside"
+]
+},
+{
+"maybe": "Go inside"
+},
+{
+"read": 8000
+},
+{
+"save": "home2_in"
+},
+{
+"items": 1
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 1,
+"avoid": [
+"Check the list"
+]
+},
+{
+"read": 3000
+},
+{
+"maybe": "Listen"
+},
+{
+"read": 4000
+},
+{
+"maybe": "Smell"
+},
+{
+"read": 4000
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 1,
+"avoid": [
+"Check the list"
+]
+},
+{
+"read": 3000
+},
+{
+"choose": [
+"Move",
+"Enter bath"
+]
+},
+{
+"maybe": "Enter bathroom"
+},
+{
+"read": 8000
+},
+{
+"save": "home2_bath"
+},
+{
+"items": 1
+},
+{
+"repeat": [
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 4000
+},
+{
+"sweep": "Investigate",
+"rounds": 1
+},
+{
+"read": 4000
+}
+],
+"until": "Open booth",
+"max": 2
+},
+{
+"choose": "Take"
+},
+{
+"items": 1
+},
+{
+"choose": "Underwear"
+},
+{
+"read": 8000
+},
+{
+"sweep": "Smell",
+"rounds": 1
+},
+{
+"read": 6000
+},
+{
+"choose": "Open booth"
+},
+{
+"read": 15000
+},
+{
+"save": "catherine"
+},
+{
+"items": 1
+},
+{
+"sweep": "Talk",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Ask",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Look",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 2,
+"avoid": [
+"Check the list"
+]
+},
+{
+"read": 3000
+},
+{
+"save": "home2_list"
+},
+{
+"items": 1
+},
+{
+"hospital_list_keyboard": true
+},
+{
+"type": "QUEEN"
+},
+{
+"read": 12000
+},
+{
+"items": 1
+},
+{
+"choose": [
+"Check the list",
+"Investigate"
+]
+},
+{
+"items": 1
+},
+{
+"maybe": "Hospital list"
+},
+{
+"maybe": "Check the list"
+},
+{
+"maybe": "Its address"
+},
+{
+"read": 12000
+},
+{
+"items": 1
+},
+{
+"save": "home2_done"
+},
+{
+"items": 1
+},
+{
+"save": "act2_c_end"
+}
+]

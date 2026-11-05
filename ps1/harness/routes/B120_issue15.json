@@ -1,0 +1,15 @@
+{
+ "scene": "B120",
+ "note": "GitHub #15: at room 202's door after the light came on (B120_reentry) - Check door/exits/lock, Check door again (Open appears), Open (Metal forces the lock), the re-entry conversation, then the verb menu inside",
+ "actions": [
+  {"path": ["Investigate", "Door"], "optional": true},
+  {"path": ["Investigate", "Exits"], "optional": true},
+  {"path": ["Investigate", "Lock"], "reps": 2, "optional": true},
+  {"path": ["Investigate", "Door"], "optional": true},
+  {"path": ["Open door"], "optional": true},
+  {"idle": 600},
+  {"path": ["Investigate"], "optional": true},
+  {"idle": 300}
+ ],
+ "fight": "head"
+}

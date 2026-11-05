@@ -1,0 +1,1139 @@
+{
+ "file": "DATA.BIN[57]",
+ "entry": 57,
+ "text_base": 4263,
+ "twins": [
+  "B240"
+ ],
+ "strings": [
+  {
+   "off": 4263,
+   "budget": 5,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 4268,
+   "budget": 7,
+   "en": "Infra",
+   "src": "B240:4209",
+   "carry": "exact",
+   "long": "Infrared"
+  },
+  {
+   "off": 4275,
+   "budget": 17,
+   "en": "Forehead slit",
+   "carry": "new",
+   "note": "quiz answer (list label)"
+  },
+  {
+   "off": 4292,
+   "budget": 71,
+   "en": "A Snatcher's weak point?￥The slit in the forehead,￥obviously.",
+   "carry": "new"
+  },
+  {
+   "off": 4363,
+   "budget": 41,
+   "en": "...It is a weak point, certainly.",
+   "carry": "new"
+  },
+  {
+   "off": 4404,
+   "budget": 49,
+   "en": "Wrong? I've downed plenty￥of them that way.",
+   "carry": "new"
+  },
+  {
+   "off": 4453,
+   "budget": 59,
+   "en": "True enough... but there was￥another weak point, no?",
+   "carry": "new"
+  },
+  {
+   "off": 4512,
+   "budget": 7,
+   "en": "UV ray",
+   "src": "B240:4216",
+   "carry": "exact",
+   "long": "UV rays"
+  },
+  {
+   "off": 4519,
+   "budget": 5,
+   "en": "X",
+   "src": "B240:4223",
+   "carry": "exact",
+   "long": "X-rays"
+  },
+  {
+   "off": 4524,
+   "budget": 9,
+   "en": "Gamma",
+   "src": "B240:4228",
+   "carry": "exact",
+   "long": "Gamma rays"
+  },
+  {
+   "off": 4533,
+   "budget": 7,
+   "en": "Radtn",
+   "src": "B240:4237",
+   "carry": "exact",
+   "long": "Radiation"
+  },
+  {
+   "off": 4540,
+   "budget": 41,
+   "en": "I see... from that enema exam?",
+   "src": "B240:4244",
+   "carry": "exact",
+   "long": "Oh, the rays they used for my barium￥enema?"
+  },
+  {
+   "off": 4581,
+   "budget": 17,
+   "en": "What's that?",
+   "src": "B240:4285",
+   "carry": "exact",
+   "long": "What are you talking about?"
+  },
+  {
+   "off": 4598,
+   "budget": 41,
+   "en": "An army exam.￥A tube up the rear...",
+   "src": "B240:4302",
+   "carry": "exact",
+   "long": "An army medical exam. They put a￥tube up my..."
+  },
+  {
+   "off": 4639,
+   "budget": 9,
+   "en": "Rear?",
+   "src": "B240:4343",
+   "carry": "exact",
+   "long": "Up your what?"
+  },
+  {
+   "off": 4648,
+   "budget": 25,
+   "en": "Never mind.",
+   "src": "B240:4352",
+   "carry": "exact"
+  },
+  {
+   "off": 4673,
+   "budget": 7,
+   "en": "Life",
+   "src": "B240:4377",
+   "carry": "exact",
+   "long": "Life line"
+  },
+  {
+   "off": 4680,
+   "budget": 29,
+   "en": "I'm no fortune teller...",
+   "src": "B240:4384",
+   "carry": "exact",
+   "long": "I'm no fortune-teller, but..."
+  },
+  {
+   "off": 4709,
+   "budget": 7,
+   "en": "Loop",
+   "src": "B240:4413",
+   "carry": "exact",
+   "long": "Loop line"
+  },
+  {
+   "off": 4716,
+   "budget": 25,
+   "en": "Then the loop line...?",
+   "src": "B240:4420",
+   "carry": "exact",
+   "long": "Then how about the loop line?"
+  },
+  {
+   "off": 4741,
+   "budget": 27,
+   "en": "You're unbelievable.",
+   "src": "B240:4445",
+   "carry": "exact"
+  },
+  {
+   "off": 4768,
+   "budget": 7,
+   "en": "Heart",
+   "src": "B240:4472",
+   "carry": "exact",
+   "long": "Heart line"
+  },
+  {
+   "off": 4775,
+   "budget": 61,
+   "en": "How about ＠黄'heart line'＠白?￥Palmistry again, but...",
+   "src": "B240:4479",
+   "carry": "exact",
+   "long": "How about the ＠黄heart line＠白? Back to￥palm reading again."
+  },
+  {
+   "off": 4836,
+   "budget": 41,
+   "en": "How can you joke at a time like￥this?",
+   "src": "B240:4540",
+   "carry": "exact"
+  },
+  {
+   "off": 4877,
+   "budget": 35,
+   "en": "No need to get so emotional.",
+   "src": "B240:4581",
+   "carry": "exact"
+  },
+  {
+   "off": 4912,
+   "budget": 45,
+   "en": "That's enough, Gillian. I'll choose!",
+   "src": "B240:4616",
+   "carry": "exact"
+  },
+  {
+   "off": 4957,
+   "budget": 49,
+   "en": "...Their weakness is￥＠黄ultraviolet＠白!",
+   "src": "B240:4661",
+   "carry": "exact",
+   "long": "The Snatchers' weakness is￥＠黄ultraviolet light＠白!"
+  },
+  {
+   "off": 5006,
+   "budget": 37,
+   "en": "Mika, sorry... I'll be serious.",
+   "src": "B240:4710",
+   "carry": "exact",
+   "long": "Sorry, Mika. I'll take this￥seriously."
+  },
+  {
+   "off": 5043,
+   "budget": 33,
+   "en": "Right. UV is their weakness.",
+   "src": "B240:4747",
+   "carry": "rebroken",
+   "long": "That's right. Their weakness is￥ultraviolet light.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5076,
+   "budget": 61,
+   "en": "Yes.￥The Snatchers' weakness is their￥flawed skin.",
+   "src": "B240:4778",
+   "carry": "exact",
+   "long": "Correct. The Snatchers' weakness￥lies in their imperfect artificial￥skin."
+  },
+  {
+   "off": 5137,
+   "budget": 115,
+   "en": "Long exposure to strong ＠赤ultraviolet＠白￥makes the melanocytes in the basal￥layer mutate and turn cancerous.",
+   "src": "B240:4839",
+   "carry": "candidate_ok",
+   "en_candidate": "Long exposure to strong ＠赤ultraviolet＠白￥makes the melanocytes in the basal￥layer mutate and turn cancerous.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "Prolonged exposure to strong￥＠赤ultraviolet light＠白 causes￥melanocytes in the skin's basal￥layer to mutate and become￥cancerous."
+  },
+  {
+   "off": 5252,
+   "budget": 97,
+   "en": "To be exact, ultraviolet in the 250￥to 350 nanometre band causes skin￥cancer.",
+   "src": "B240:4954",
+   "carry": "exact",
+   "long": "More precisely, ultraviolet￥wavelengths between 250 and 350￥nanometers cause the skin cancer."
+  },
+  {
+   "off": 5349,
+   "budget": 49,
+   "en": "Yes, UV limited how they could act.",
+   "src": "B240:5051",
+   "carry": "rebroken",
+   "long": "Right. Ultraviolet light limited￥their movements.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5398,
+   "budget": 71,
+   "en": "Moving only on midwinter nights, and￥needing sunblock even then.",
+   "src": "B240:5098",
+   "carry": "exact",
+   "long": "They only went out on winter nights,￥and had to wear sunscreen even in￥winter."
+  },
+  {
+   "off": 5469,
+   "budget": 51,
+   "en": "That's how Jean identified the￥Snatchers.",
+   "src": "B240:5169",
+   "carry": "exact"
+  },
+  {
+   "off": 5520,
+   "budget": 67,
+   "en": "Ironic. That the ozone hole￥should help mankind like this.",
+   "src": "B240:5220",
+   "carry": "rebroken",
+   "long": "How ironic. The destruction of the￥ozone layer actually helped￥humanity.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 5587,
+   "budget": 83,
+   "en": "Yes. What route did they use to￥avoid sunlight and its ultraviolet￥rays?",
+   "src": "B240:5283",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5670,
+   "budget": 9,
+   "en": "Canal",
+   "src": "B240:5364",
+   "carry": "exact"
+  },
+  {
+   "off": 5679,
+   "budget": 9,
+   "en": "Highway",
+   "src": "B240:5373",
+   "carry": "exact"
+  },
+  {
+   "off": 5688,
+   "budget": 7,
+   "en": "Tunnel",
+   "src": "B240:5382",
+   "carry": "exact",
+   "long": "Underpass"
+  },
+  {
+   "off": 5695,
+   "budget": 87,
+   "en": "Yes.￥They used the ＠赤tunnel＠白 of the old tube￥liner to move.",
+   "src": "B240:5389",
+   "carry": "rebroken",
+   "long": "Correct. They traveled through the￥＠赤underground tunnels＠白 of the￥abandoned Tube Liner.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5782,
+   "budget": 47,
+   "en": "That let them move around unnoticed.",
+   "src": "B240:5474",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5829,
+   "budget": 109,
+   "en": "The factory ruins, the Nielsens' home,￥Queen Hospital. All the main places￥they showed up were connected by￥tunnels.",
+   "src": "B240:5519",
+   "carry": "candidate_edit",
+   "en_candidate": "....The Nielsen flat... the factory￥ruins.. Queen Hospital, all joined￥by tunnel.",
+   "sim": 0.86,
+   "note": "re-adapted 2026-09-30: Saturn's order + 現れた; new PS1 long"
+  },
+  {
+   "off": 5938,
+   "budget": 35,
+   "en": "Then a tunnel to their base too?",
+   "src": "B240:5620",
+   "carry": "exact",
+   "long": "Then is their hideout connected,￥too?"
+  },
+  {
+   "off": 5973,
+   "budget": 19,
+   "en": "Quite possible.",
+   "src": "B240:5655",
+   "carry": "exact",
+   "long": "It's quite possible."
+  },
+  {
+   "off": 5992,
+   "budget": 25,
+   "en": "Second showing, but...?",
+   "src": "B240:5674",
+   "carry": "exact",
+   "long": "Making its second appearance, but..."
+  },
+  {
+   "off": 6017,
+   "budget": 15,
+   "en": "Tricycle",
+   "src": "B240:5699",
+   "carry": "exact"
+  },
+  {
+   "off": 6032,
+   "budget": 11,
+   "en": "Black taxi",
+   "src": "B240:5714",
+   "carry": "exact"
+  },
+  {
+   "off": 6043,
+   "budget": 57,
+   "en": "Freddy did use an unlicensed taxi,￥but...",
+   "src": "B240:5725",
+   "carry": "exact"
+  },
+  {
+   "off": 6100,
+   "budget": 55,
+   "en": "Wasn't that to find people to￥snatch?",
+   "src": "B240:5782",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6155,
+   "budget": 7,
+   "en": "Warper",
+   "src": "B240:5835",
+   "carry": "exact",
+   "long": "Teleporter"
+  },
+  {
+   "off": 6162,
+   "budget": 13,
+   "en": "Time machine",
+   "src": "B240:5842",
+   "carry": "exact"
+  },
+  {
+   "off": 6175,
+   "budget": 27,
+   "en": "Was that there before?",
+   "src": "B240:5855",
+   "carry": "exact"
+  },
+  {
+   "off": 6202,
+   "budget": 95,
+   "en": "Next, what symptom always appeared￥at Snatcher sites, including the￥tunnels?",
+   "src": "B240:5882",
+   "carry": "candidate_ok",
+   "en_candidate": "Next, what symptom always appeared￥at Snatcher sites, including the￥tunnels?",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 6297,
+   "budget": 5,
+   "en": "Hack",
+   "carry": "new",
+   "long": "Cough",
+   "note": "quiz answer; 5-byte slot"
+  },
+  {
+   "off": 6302,
+   "budget": 7,
+   "en": "Yawn",
+   "src": "B240:5974",
+   "carry": "exact"
+  },
+  {
+   "off": 6309,
+   "budget": 11,
+   "en": "Hiccup",
+   "src": "B240:5981",
+   "carry": "exact"
+  },
+  {
+   "off": 6320,
+   "budget": 7,
+   "en": "Burp",
+   "src": "B240:5992",
+   "carry": "exact"
+  },
+  {
+   "off": 6327,
+   "budget": 9,
+   "en": "Sneeze",
+   "src": "B240:5999",
+   "carry": "exact"
+  },
+  {
+   "off": 6336,
+   "budget": 45,
+   "en": "Correct. And what caused the￥sneezing?",
+   "src": "B240:6008",
+   "carry": "exact"
+  },
+  {
+   "off": 6381,
+   "budget": 7,
+   "en": "Fart",
+   "src": "B240:6053",
+   "carry": "exact"
+  },
+  {
+   "off": 6388,
+   "budget": 27,
+   "en": "It's a little odd, but...",
+   "src": "B240:6060",
+   "carry": "exact"
+  },
+  {
+   "off": 6415,
+   "budget": 7,
+   "en": "Sigh",
+   "src": "B240:6087",
+   "carry": "exact"
+  },
+  {
+   "off": 6422,
+   "budget": 15,
+   "en": "That's right.",
+   "src": "B240:6094",
+   "carry": "exact"
+  },
+  {
+   "off": 6437,
+   "budget": 29,
+   "en": "I'm the one to sigh.",
+   "src": "B240:6109",
+   "carry": "exact",
+   "long": "I'm the one who should be sighing."
+  },
+  {
+   "off": 6466,
+   "budget": 5,
+   "en": "Runs",
+   "src": "B240:6138",
+   "carry": "exact",
+   "long": "Diarrhea"
+  },
+  {
+   "off": 6471,
+   "budget": 41,
+   "en": "Then... with the sigh, how about￥this?",
+   "src": "B240:6143",
+   "carry": "exact",
+   "long": "Well, while we're sighing, how about￥this?"
+  },
+  {
+   "off": 6512,
+   "budget": 13,
+   "en": "......",
+   "src": "B240:6184",
+   "carry": "exact"
+  },
+  {
+   "off": 6525,
+   "budget": 29,
+   "en": "My stomach's been bad.",
+   "src": "B240:6197",
+   "carry": "exact",
+   "long": "My stomach's been acting up lately."
+  },
+  {
+   "off": 6554,
+   "budget": 33,
+   "en": "...That's about you, isn't it?",
+   "src": "B240:6226",
+   "carry": "exact",
+   "long": "You're talking about yourself,￥aren't you?"
+  },
+  {
+   "off": 6587,
+   "budget": 17,
+   "en": "Yeah. So?",
+   "src": "B240:6259",
+   "carry": "exact"
+  },
+  {
+   "off": 6604,
+   "budget": 35,
+   "en": "Gillian, answer seriously!",
+   "src": "B240:6276",
+   "carry": "exact"
+  },
+  {
+   "off": 6639,
+   "budget": 23,
+   "en": "Listen to me!",
+   "src": "B240:6311",
+   "carry": "exact"
+  },
+  {
+   "off": 6662,
+   "budget": 13,
+   "en": "Sorry.",
+   "src": "B240:6334",
+   "carry": "exact"
+  },
+  {
+   "off": 6675,
+   "budget": 5,
+   "en": "Cold",
+   "src": "B240:6347",
+   "carry": "exact"
+  },
+  {
+   "off": 6680,
+   "budget": 5,
+   "en": "Anem",
+   "src": "B240:6352",
+   "carry": "exact",
+   "long": "Anemia"
+  },
+  {
+   "off": 6685,
+   "budget": 7,
+   "en": "Gossip",
+   "src": "B240:6357",
+   "carry": "exact"
+  },
+  {
+   "off": 6692,
+   "budget": 5,
+   "en": "Poln",
+   "src": "B240:6364",
+   "carry": "exact",
+   "long": "Pollen"
+  },
+  {
+   "off": 6697,
+   "budget": 91,
+   "en": "That's right.￥That sneeze came from ＠赤Snow Cedar￥pollen＠白 as the allergen.",
+   "src": "B240:6369",
+   "carry": "rebroken",
+   "long": "That's right. ＠赤Snow Cedar pollen＠白￥caused the allergic reaction that￥made you sneeze.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6788,
+   "budget": 7,
+   "en": "Spice",
+   "src": "B240:6458",
+   "carry": "exact"
+  },
+  {
+   "off": 6795,
+   "budget": 25,
+   "en": "I'm poor at cooking...",
+   "src": "B240:6465",
+   "carry": "exact",
+   "long": "I'm not much of a cook, but..."
+  },
+  {
+   "off": 6820,
+   "budget": 5,
+   "en": "Mens",
+   "src": "B240:6490",
+   "carry": "exact",
+   "long": "Period"
+  },
+  {
+   "off": 6825,
+   "budget": 21,
+   "en": "Awkward, but...",
+   "src": "B240:6495",
+   "carry": "exact"
+  },
+  {
+   "off": 6846,
+   "budget": 47,
+   "en": "I can't believe you'd say that.",
+   "src": "B240:6516",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6893,
+   "budget": 37,
+   "en": "Vulgar, Gillian... stop it!",
+   "src": "B240:6561",
+   "carry": "rebroken",
+   "long": "That's disgusting, Gillian. Stop it!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6930,
+   "budget": 13,
+   "en": "Rub pot",
+   "src": "B240:6596",
+   "carry": "exact"
+  },
+  {
+   "off": 6943,
+   "budget": 31,
+   "en": "How about this new command?",
+   "src": "B240:6609",
+   "carry": "exact"
+  },
+  {
+   "off": 6974,
+   "budget": 19,
+   "en": "Gillian!",
+   "src": "B240:6640",
+   "carry": "exact"
+  },
+  {
+   "off": 6993,
+   "budget": 35,
+   "en": "Just a joke to lighten the mood.",
+   "src": "B240:6659",
+   "carry": "exact"
+  },
+  {
+   "off": 7028,
+   "budget": 25,
+   "en": "Gillian... don't!",
+   "src": "B240:6694",
+   "carry": "exact",
+   "long": "You're making me angry, Gillian!"
+  },
+  {
+   "off": 7053,
+   "budget": 81,
+   "en": "Snow Cedar is a cedar variant the￥army made; it grows only in set￥areas.",
+   "src": "B240:6719",
+   "carry": "exact",
+   "long": "Snow Cedar is a cedar variant￥developed by the military. It only￥grows in certain areas."
+  },
+  {
+   "off": 7134,
+   "budget": 99,
+   "en": "They use it to block radio signals￥and keep people away. They may even￥be growing it themselves.",
+   "src": "B240:6800",
+   "carry": "candidate_ok",
+   "en_candidate": "They use it to block radio signals￥and keep people away. They may even￥be growing it themselves.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 7233,
+   "budget": 107,
+   "en": "Only the Ina river basin has￥confirmed Snow Cedar in the city￥now. The rest was cleared as￥dangerous.",
+   "src": "B240:6901",
+   "carry": "rebroken",
+   "long": "The only confirmed Snow Cedar growth￥in the city is along the Ina River.￥It was removed elsewhere because￥it's dangerous.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7340,
+   "budget": 43,
+   "en": "So their hideout is along the Ina￥River?",
+   "src": "B240:7006",
+   "carry": "exact"
+  },
+  {
+   "off": 7383,
+   "budget": 75,
+   "en": "That's likely. Somewhere along the￥Ina River, protected by Snow Cedars.",
+   "src": "B240:7049",
+   "carry": "exact"
+  },
+  {
+   "off": 7458,
+   "budget": 55,
+   "en": "Along the Tube Liner, and near the￥Ina River.",
+   "src": "B240:7124",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7513,
+   "budget": 93,
+   "en": "And the three photos the Snatchers￥kept. All of the USSR before the￥Catastrophe.",
+   "src": "B240:7177",
+   "carry": "exact",
+   "long": "Then there are the three pictures￥the Snatchers had. All show the￥Soviet Union before the Catastrophe."
+  },
+  {
+   "off": 7606,
+   "budget": 39,
+   "en": "The map in the Nielsen flat..",
+   "src": "B240:7270",
+   "carry": "candidate_ok",
+   "en_candidate": "The map in the Nielsen flat..",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing",
+   "long": "The map in the Nielsens' living￥room."
+  },
+  {
+   "off": 7645,
+   "budget": 47,
+   "en": "The temple picture at Queen￥Hospital...",
+   "src": "B240:7307",
+   "carry": "exact",
+   "long": "The picture of the cathedral in the￥director's office at Queen Hospital."
+  },
+  {
+   "off": 7692,
+   "budget": 37,
+   "en": "The square photo the Chief hid...",
+   "src": "B240:7354",
+   "carry": "exact",
+   "long": "The photo of the square hidden in￥the chief's office."
+  },
+  {
+   "off": 7729,
+   "budget": 59,
+   "en": "Why did the Snatchers display these￥pictures?",
+   "src": "B240:7391",
+   "carry": "exact"
+  },
+  {
+   "off": 7788,
+   "budget": 37,
+   "en": "Homesickness... their home?",
+   "src": "B240:7450",
+   "carry": "exact",
+   "long": "Homesickness. Could it be their￥homeland?"
+  },
+  {
+   "off": 7825,
+   "budget": 53,
+   "en": "Their home?... Ridiculous. They're￥robots...",
+   "src": "B240:7487",
+   "carry": "rebroken",
+   "long": "Their homeland? Don't be ridiculous.￥They're robots!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7878,
+   "budget": 79,
+   "en": "Let's narrow it down. What city do￥these pictures suggest?",
+   "src": "B240:7538",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7957,
+   "budget": 13,
+   "en": "New York",
+   "src": "B240:7615",
+   "carry": "exact"
+  },
+  {
+   "off": 7970,
+   "budget": 5,
+   "en": "Beij",
+   "src": "B240:7628",
+   "carry": "exact",
+   "long": "Beijing"
+  },
+  {
+   "off": 7975,
+   "budget": 5,
+   "en": "HK",
+   "src": "B240:7633",
+   "carry": "exact",
+   "long": "Hong Kong"
+  },
+  {
+   "off": 7980,
+   "budget": 9,
+   "en": "Moscow",
+   "src": "B240:7638",
+   "carry": "exact"
+  },
+  {
+   "off": 7989,
+   "budget": 29,
+   "en": "Yes. ＠赤Moscow＠白.",
+   "src": "B240:7647",
+   "carry": "exact"
+  },
+  {
+   "off": 8018,
+   "budget": 89,
+   "en": "Moscow is their source. It's at the￥heart of their programming.",
+   "src": "B240:7676",
+   "carry": "exact"
+  },
+  {
+   "off": 8107,
+   "budget": 21,
+   "en": "You may be right.",
+   "src": "B240:7765",
+   "carry": "exact"
+  },
+  {
+   "off": 8128,
+   "budget": 91,
+   "en": "We carry our homeland in our hearts.￥Why couldn't theirs exist in their￥programming?",
+   "src": "B240:7786",
+   "carry": "exact"
+  },
+  {
+   "off": 8219,
+   "budget": 89,
+   "en": "Their AI must hold its mental￥balance by the image of that home.",
+   "src": "B240:7877",
+   "carry": "candidate_ok",
+   "en_candidate": "Their AI must hold its mental￥balance by the image of that home.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "Their artificial intelligence must￥use that image of home to maintain￥mental stability."
+  },
+  {
+   "off": 8308,
+   "budget": 59,
+   "en": "Born of nothing, they cling to some￥image.",
+   "src": "B240:7960",
+   "carry": "rebroken",
+   "long": "They were created from nothing, so￥they cling to an image.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8367,
+   "budget": 49,
+   "en": "Moscow is both home and creator.",
+   "src": "B240:8017",
+   "carry": "candidate_ok",
+   "en_candidate": "Moscow is both home and creator.",
+   "sim": 0.93,
+   "long": "Moscow is their homeland and their￥creator."
+  },
+  {
+   "off": 8416,
+   "budget": 49,
+   "en": "And it's where we were found.",
+   "src": "B240:8060",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8465,
+   "budget": 5,
+   "en": "Toky",
+   "src": "B240:8107",
+   "carry": "exact",
+   "long": "Tokyo"
+  },
+  {
+   "off": 8470,
+   "budget": 5,
+   "en": "Pari",
+   "src": "B240:8112",
+   "carry": "exact",
+   "long": "Paris"
+  },
+  {
+   "off": 8475,
+   "budget": 9,
+   "en": "London",
+   "src": "B240:8117",
+   "carry": "exact"
+  },
+  {
+   "off": 8484,
+   "budget": 5,
+   "en": "Seis",
+   "src": "B240:8126",
+   "carry": "exact",
+   "long": "Seishin"
+  },
+  {
+   "off": 8489,
+   "budget": 29,
+   "en": "A little minor, but...",
+   "src": "B240:8131",
+   "carry": "exact",
+   "long": "It's a little obscure, but..."
+  },
+  {
+   "off": 8518,
+   "budget": 31,
+   "en": "Gillian, where is that?",
+   "src": "B240:8160",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8549,
+   "budget": 45,
+   "en": "Ah, sorry... it's out past old Kobe.",
+   "src": "B240:8189",
+   "carry": "rebroken",
+   "long": "Oh, sorry. It's on the outskirts of￥old Kobe.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8594,
+   "budget": 33,
+   "en": "It is in Kobe, but that's wrong.",
+   "src": "B240:8232",
+   "carry": "exact"
+  },
+  {
+   "off": 8627,
+   "budget": 55,
+   "en": "Konami had a lab at a place called￥Takatsukadai.",
+   "src": "B240:8265",
+   "carry": "exact",
+   "long": "Konami had a technology research lab￥in a place called Takatsukadai."
+  },
+  {
+   "off": 8682,
+   "budget": 17,
+   "en": "About what?",
+   "src": "B240:8320",
+   "carry": "exact",
+   "long": "What are you talking about?"
+  },
+  {
+   "off": 8699,
+   "budget": 29,
+   "en": "Sorry. It's personal.",
+   "src": "B240:8337",
+   "carry": "exact"
+  },
+  {
+   "off": 8728,
+   "budget": 27,
+   "en": "That's wrong, Gillian!",
+   "src": "B240:8366",
+   "carry": "exact"
+  },
+  {
+   "off": 8755,
+   "budget": 29,
+   "en": "The Snatcher weakness!",
+   "src": "B240:8393",
+   "carry": "exact",
+   "long": "This is the Snatchers' weakness!"
+  },
+  {
+   "off": 8784,
+   "budget": 61,
+   "en": "Oh, more commands?￥...The Snatchers' weakness!",
+   "src": "B240:8422",
+   "carry": "exact",
+   "long": "Huh? There are more commands now.￥The Snatchers' weakness is..."
+  },
+  {
+   "off": 8845,
+   "budget": 45,
+   "en": "This is how the Snatchers got￥around!",
+   "src": "B240:8483",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8890,
+   "budget": 15,
+   "en": "This symptom!",
+   "src": "B240:8526",
+   "carry": "exact",
+   "long": "This was the symptom!"
+  },
+  {
+   "off": 8905,
+   "budget": 45,
+   "en": "More commands.￥...This symptom?",
+   "src": "B240:8541",
+   "carry": "exact",
+   "long": "There are more commands now. Is this￥the symptom?"
+  },
+  {
+   "off": 8950,
+   "budget": 25,
+   "en": "This caused the sneeze!",
+   "src": "B240:8586",
+   "carry": "exact",
+   "long": "This caused the sneezing!"
+  },
+  {
+   "off": 8975,
+   "budget": 23,
+   "en": "The common city!",
+   "src": "B240:8611",
+   "carry": "exact",
+   "long": "This is the city they have in￥common!"
+  },
+  {
+   "off": 8998,
+   "budget": 25,
+   "en": "Then how about this?",
+   "src": "B240:8634",
+   "carry": "exact"
+  },
+  {
+   "off": 9023,
+   "budget": 23,
+   "en": "Was it this one?",
+   "src": "B240:8659",
+   "carry": "exact"
+  },
+  {
+   "off": 9046,
+   "budget": 25,
+   "en": "All right. This one?",
+   "src": "B240:8682",
+   "carry": "exact"
+  },
+  {
+   "off": 9071,
+   "budget": 39,
+   "en": "Was it? Think back carefully.",
+   "src": "B240:8707",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9110,
+   "budget": 41,
+   "en": "Gillian,￥think carefully and answer.",
+   "src": "B240:8744",
+   "carry": "exact",
+   "long": "Think carefully before you answer,￥Gillian."
+  },
+  {
+   "off": 9151,
+   "budget": 45,
+   "en": "That doesn't make sense. Try to￥remember.",
+   "src": "B240:8785",
+   "carry": "exact"
+  },
+  {
+   "off": 9196,
+   "budget": 23,
+   "en": "That can't be right.",
+   "src": "B240:8830",
+   "carry": "exact"
+  },
+  {
+   "off": 9219,
+   "budget": 27,
+   "en": "No fooling, Gillian.",
+   "src": "B240:8853",
+   "carry": "exact",
+   "long": "Stop fooling around, Gillian."
+  },
+  {
+   "off": 9246,
+   "budget": 19,
+   "en": "Enough jokes!",
+   "src": "B240:8880",
+   "carry": "exact"
+  },
+  {
+   "off": 9265,
+   "budget": 31,
+   "en": "Now, of all times! Gillian.",
+   "src": "B240:8899",
+   "carry": "rebroken",
+   "long": "At a time like this, Gillian?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9298,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

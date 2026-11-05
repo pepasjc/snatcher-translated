@@ -1,0 +1,110 @@
+[
+ {
+  "aim": "up"
+ },
+ {
+  "items": 1
+ },
+ {
+  "choose": "Go to bathroom"
+ },
+ {
+  "read": 8000
+ },
+ {
+  "read": 30000
+ },
+ {
+  "items": 1
+ },
+ {
+  "save": "act1_end"
+ },
+ {
+  "wait": 240
+ },
+ {
+  "choose": "Don't save"
+ },
+ {
+  "read": 40000
+ },
+ {
+  "items": 1
+ },
+ {
+  "save": "act2_start"
+ },
+ {
+  "items": 1
+ },
+ {
+  "wait": 3000
+ },
+ {
+  "items": 1
+ },
+ {
+  "shot": "after"
+ },
+ {
+  "choose": "Move"
+ },
+ {
+  "read": 2000
+ },
+ {
+  "choose": "Front desk"
+ },
+ {
+  "read": 2000
+ },
+ {
+  "choose": "Talk"
+ },
+ {
+  "choose": "My feelings"
+ },
+ {
+  "wait": 180
+ },
+ {
+  "shot": "page1"
+ },
+ {
+  "save": "page1"
+ },
+ {
+  "press": "a",
+  "n": 1,
+  "gap": 180
+ },
+ {
+  "shot": "page2"
+ },
+ {
+  "save": "page2"
+ },
+ {
+  "press": "a",
+  "n": 1,
+  "gap": 180
+ },
+ {
+  "shot": "page3"
+ },
+ {
+  "save": "page3"
+ },
+ {
+  "press": "a",
+  "n": 1,
+  "gap": 180
+ },
+ {
+  "shot": "page4"
+ },
+ {
+  "save": "page4"
+ }
+]

@@ -1,0 +1,5771 @@
+{
+ "file": "DATA.BIN[45]",
+ "entry": 45,
+ "text_base": 10439,
+ "twins": [
+  "B180"
+ ],
+ "strings": [
+  {
+   "off": 10440,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 10444,
+   "budget": 19,
+   "en": "Hello?",
+   "src": "B180:6589",
+   "carry": "exact"
+  },
+  {
+   "off": 10463,
+   "budget": 35,
+   "en": "Ahem! I'm with the police.",
+   "src": "B180:6608",
+   "carry": "exact"
+  },
+  {
+   "off": 10498,
+   "budget": 7,
+   "en": "Police",
+   "src": "B180:6643",
+   "carry": "exact",
+   "long": "The police?"
+  },
+  {
+   "off": 10505,
+   "budget": 31,
+   "en": "I'm calling about your father.",
+   "src": "B180:6650",
+   "carry": "exact"
+  },
+  {
+   "off": 10536,
+   "budget": 17,
+   "en": "........",
+   "src": "B180:6681",
+   "carry": "exact"
+  },
+  {
+   "off": 10553,
+   "budget": 79,
+   "en": "He wants to come home. He'll get￥sick if you leave him out there.",
+   "src": "B180:6698",
+   "carry": "candidate_edit",
+   "en_candidate": "He wants to come home. He'll get￥sick if you leave him out there.",
+   "sim": 0.93,
+   "note": "re-adapted 2026-09-30: new PS1 wording"
+  },
+  {
+   "off": 10632,
+   "budget": 25,
+   "en": "Are you listening?",
+   "src": "B180:6765",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10657,
+   "budget": 21,
+   "en": "Y-yes......",
+   "src": "B180:6788",
+   "carry": "exact"
+  },
+  {
+   "off": 10678,
+   "budget": 15,
+   "en": "Your father?",
+   "src": "B180:6809",
+   "carry": "exact",
+   "long": "He's your father, isn't he?"
+  },
+  {
+   "off": 10693,
+   "budget": 31,
+   "en": "Was he doing all right?",
+   "src": "B180:6824",
+   "carry": "exact"
+  },
+  {
+   "off": 10724,
+   "budget": 37,
+   "en": "He looked a little ill.",
+   "src": "B180:6855",
+   "carry": "exact"
+  },
+  {
+   "off": 10761,
+   "budget": 29,
+   "en": "I see.",
+   "src": "B180:6892",
+   "carry": "exact"
+  },
+  {
+   "off": 10790,
+   "budget": 43,
+   "en": "Reasons or not,￥he's your father?",
+   "src": "B180:6921",
+   "carry": "candidate_ok",
+   "en_candidate": "Reasons or not,￥he's your father?",
+   "sim": 0.97,
+   "long": "I don't know what happened between￥you, but he's your father."
+  },
+  {
+   "off": 10833,
+   "budget": 13,
+   "en": "......",
+   "src": "B180:6962",
+   "carry": "exact"
+  },
+  {
+   "off": 10846,
+   "budget": 31,
+   "en": "Thank you.",
+   "src": "B180:6975",
+   "carry": "exact"
+  },
+  {
+   "off": 10877,
+   "budget": 67,
+   "en": "After all that, the old man￥still calls your name every day.",
+   "src": "B180:7006",
+   "carry": "candidate_ok",
+   "en_candidate": "After all that, the old man￥still calls your name every day.",
+   "sim": 0.95,
+   "long": "After all you've put him through, he￥still calls your name every day."
+  },
+  {
+   "off": 10944,
+   "budget": 31,
+   "en": "What? Dad?",
+   "src": "B180:7071",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10975,
+   "budget": 11,
+   "en": ".....",
+   "src": "B180:7100",
+   "carry": "exact"
+  },
+  {
+   "off": 10986,
+   "budget": 49,
+   "en": "I'm sorry, Dad. I'm so sorry!",
+   "src": "B180:7111",
+   "carry": "candidate_ok",
+   "en_candidate": "I'm sorry, Dad. I'm so sorry!",
+   "sim": 0.86
+  },
+  {
+   "off": 11035,
+   "budget": 33,
+   "en": "Where?! Where is he?",
+   "src": "B180:7156",
+   "carry": "candidate_ok",
+   "en_candidate": "Where?! Where is he?",
+   "sim": 0.67,
+   "long": "Where is he? Tell me where he is!"
+  },
+  {
+   "off": 11068,
+   "budget": 63,
+   "en": "Near South Itayado, SN district.￥Go at once.",
+   "src": "B180:7187",
+   "carry": "rebroken",
+   "long": "Near South Itayado, in the SN￥district. Go to him right away.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 11131,
+   "budget": 45,
+   "en": "I understand. I'll go get him now.",
+   "src": "B180:7246",
+   "carry": "exact"
+  },
+  {
+   "off": 11176,
+   "budget": 21,
+   "en": "Mind your father...",
+   "src": "B180:7291",
+   "carry": "exact"
+  },
+  {
+   "off": 11197,
+   "budget": 31,
+   "en": "You did a good thing, Gillian.",
+   "src": "B180:7312",
+   "carry": "exact"
+  },
+  {
+   "off": 11228,
+   "budget": 57,
+   "en": "Hello, I'm Rie. Thank you for￥calling.",
+   "src": "B180:7343",
+   "carry": "exact"
+  },
+  {
+   "off": 11285,
+   "budget": 51,
+   "en": "Would you be my friend?",
+   "src": "B180:7400",
+   "carry": "candidate_ok",
+   "en_candidate": "Would you be my friend?",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 11336,
+   "budget": 33,
+   "en": "Hello, I'm Rie.",
+   "src": "B180:7451",
+   "carry": "exact"
+  },
+  {
+   "off": 11369,
+   "budget": 53,
+   "en": "You called again! I'm so happy.",
+   "src": "B180:7484",
+   "carry": "exact"
+  },
+  {
+   "off": 11422,
+   "budget": 35,
+   "en": "I like you.",
+   "src": "B180:7537",
+   "carry": "exact"
+  },
+  {
+   "off": 11457,
+   "budget": 77,
+   "en": "Akazaru Network presents ＠赤Two-Shot￥Dial＠白!",
+   "src": "B180:7572",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11534,
+   "budget": 71,
+   "en": "When the music stops, you'll be￥connected to a girl. Be nice to her!",
+   "src": "B180:7647",
+   "carry": "candidate_ok",
+   "en_candidate": "When the music stops, you'll be￥connected to a girl. Be nice to her!",
+   "sim": 0.96
+  },
+  {
+   "off": 11605,
+   "budget": 35,
+   "en": "No answer. Let's hang up.",
+   "src": "B180:7722",
+   "carry": "exact"
+  },
+  {
+   "off": 11640,
+   "budget": 17,
+   "en": "Oh well...",
+   "src": "B180:7757",
+   "carry": "exact"
+  },
+  {
+   "off": 11657,
+   "budget": 21,
+   "en": "I'll hang up, then.",
+   "src": "B180:7774",
+   "carry": "exact"
+  },
+  {
+   "off": 11678,
+   "budget": 43,
+   "en": "Thank you for waiting. It's your￥turn.",
+   "src": "B180:7795",
+   "carry": "exact"
+  },
+  {
+   "off": 11721,
+   "budget": 25,
+   "en": "Please begin talking...",
+   "src": "B180:7838",
+   "carry": "exact",
+   "long": "Please begin your conversation."
+  },
+  {
+   "off": 11746,
+   "budget": 23,
+   "en": "Wanna play, mister?",
+   "src": "B180:7863",
+   "carry": "exact",
+   "long": "Hey, mister. Wanna have some fun?"
+  },
+  {
+   "off": 11769,
+   "budget": 23,
+   "en": "Hm? I can't see you?",
+   "src": "B180:7886",
+   "carry": "rebroken",
+   "long": "Huh? I can't see your face.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11792,
+   "budget": 57,
+   "en": "That makes it super exciting.￥Sup-citing, for short!",
+   "src": "B180:7907",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11849,
+   "budget": 21,
+   "en": "Is that so...",
+   "src": "B180:7962",
+   "carry": "exact"
+  },
+  {
+   "off": 11870,
+   "budget": 53,
+   "en": "You feel totally sup-citing too,￥right?",
+   "src": "B180:7983",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11923,
+   "budget": 19,
+   "en": "Super-thrilled!",
+   "src": "B180:8034",
+   "carry": "exact",
+   "long": "Totally sup-citing!"
+  },
+  {
+   "off": 11942,
+   "budget": 49,
+   "en": "Hey, Daddy? There's something I￥want.",
+   "src": "B180:8053",
+   "carry": "exact"
+  },
+  {
+   "off": 11991,
+   "budget": 15,
+   "en": "D-Daddy?",
+   "src": "B180:8102",
+   "carry": "exact"
+  },
+  {
+   "off": 12006,
+   "budget": 33,
+   "en": "It's this bag from France.",
+   "src": "B180:8117",
+   "carry": "exact"
+  },
+  {
+   "off": 12039,
+   "budget": 29,
+   "en": "(Honestly, women!)",
+   "src": "B180:8150",
+   "carry": "exact"
+  },
+  {
+   "off": 12068,
+   "budget": 87,
+   "en": "Their designs are, like, super cute.￥Sup-cute, for short!",
+   "src": "B180:8179",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 12155,
+   "budget": 81,
+   "en": "Buy it for me and I will show you a￥super good time. Sup-good-time!",
+   "src": "B180:8262",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12236,
+   "budget": 27,
+   "en": "H-How much is it?",
+   "src": "B180:8341",
+   "carry": "exact"
+  },
+  {
+   "off": 12263,
+   "budget": 63,
+   "en": "A hundred and fifty thousand￥credits. Hun-fifty-thou creds!",
+   "src": "B180:8368",
+   "carry": "exact"
+  },
+  {
+   "off": 12326,
+   "budget": 11,
+   "en": "Too dear!!",
+   "src": "B180:8431",
+   "carry": "exact",
+   "long": "That's expensive!"
+  },
+  {
+   "off": 12337,
+   "budget": 43,
+   "en": "What? You're such a stingy foge!",
+   "src": "B180:8442",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12380,
+   "budget": 11,
+   "en": "Foge?",
+   "src": "B180:8483",
+   "carry": "exact"
+  },
+  {
+   "off": 12391,
+   "budget": 31,
+   "en": "Old fogey, slowpoke!",
+   "src": "B180:8494",
+   "carry": "exact"
+  },
+  {
+   "off": 12422,
+   "budget": 31,
+   "en": "＠赤Old man?￥Old man!!",
+   "src": "B180:8525",
+   "carry": "exact",
+   "long": "＠赤Old fogey? You called me an old￥fogey?!"
+  },
+  {
+   "off": 12453,
+   "budget": 39,
+   "en": "Enough.￥Deal's off, for short...",
+   "src": "B180:8556",
+   "carry": "exact",
+   "long": "Forget it. Negotiations are over. Or￥for short..."
+  },
+  {
+   "off": 12492,
+   "budget": 49,
+   "en": "Enough abbreviations! I'm hanging￥up!",
+   "src": "B180:8595",
+   "carry": "exact"
+  },
+  {
+   "off": 12541,
+   "budget": 39,
+   "en": "Let's stop this. I'm hanging up.",
+   "src": "B180:8644",
+   "carry": "exact"
+  },
+  {
+   "off": 12580,
+   "budget": 19,
+   "en": "What a woman!",
+   "src": "B180:8683",
+   "carry": "exact"
+  },
+  {
+   "off": 12599,
+   "budget": 25,
+   "en": "Oddly calm, aren't you?",
+   "src": "B180:8702",
+   "carry": "exact",
+   "long": "You're surprisingly levelheaded."
+  },
+  {
+   "off": 12624,
+   "budget": 27,
+   "en": "Or perhaps just stingy?",
+   "src": "B180:8727",
+   "carry": "exact"
+  },
+  {
+   "off": 12651,
+   "budget": 21,
+   "en": "You too?!",
+   "src": "B180:8754",
+   "carry": "exact"
+  },
+  {
+   "off": 12672,
+   "budget": 41,
+   "en": "Gillian,￥in a way, well done.",
+   "src": "B180:8775",
+   "carry": "exact",
+   "long": "In a way, Gillian, you've earned my￥respect."
+  },
+  {
+   "off": 12713,
+   "budget": 21,
+   "en": "Gee, thanks.",
+   "src": "B180:8816",
+   "carry": "exact"
+  },
+  {
+   "off": 12734,
+   "budget": 81,
+   "en": "This service charges a vast sum￥every five seconds, info and￥call fees both.",
+   "src": "B180:8837",
+   "carry": "candidate_ok",
+   "en_candidate": "This service charges a vast sum￥every five seconds, info and￥call fees both.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "This service charges an enormous fee￥every five seconds, including￥information and call charges."
+  },
+  {
+   "off": 12815,
+   "budget": 103,
+   "en": "Welcome to Namiko's Telephone Game￥Quiz! Answer every question￥correctly to win a fabulous prize.",
+   "src": "B180:8920",
+   "carry": "exact"
+  },
+  {
+   "off": 12918,
+   "budget": 37,
+   "en": "Now for the Super Ultra Quiz!",
+   "src": "B180:9023",
+   "carry": "exact"
+  },
+  {
+   "off": 12955,
+   "budget": 29,
+   "en": "First, the beginner's quiz.",
+   "src": "B180:9060",
+   "carry": "exact"
+  },
+  {
+   "off": 12984,
+   "budget": 31,
+   "en": "Would you like to try it?",
+   "src": "B180:9089",
+   "carry": "candidate_ok",
+   "en_candidate": "Would you like to try it?",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 13015,
+   "budget": 51,
+   "en": "A quiz... they said a splendid￥prize, no?",
+   "src": "B180:9120",
+   "carry": "rebroken",
+   "long": "A quiz, huh? They said we could win￥a fabulous prize.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13066,
+   "budget": 27,
+   "en": "I'm good at quizzes.",
+   "src": "B180:9169",
+   "carry": "exact"
+  },
+  {
+   "off": 13093,
+   "budget": 35,
+   "en": "Wasn't that just a lucky streak?",
+   "src": "B180:9196",
+   "carry": "candidate_ok",
+   "en_candidate": "Wasn't that just a lucky streak?",
+   "sim": 0.89,
+   "note": "part of the PS1 line; re-adapted 2026-09-30: new PS1 wording"
+  },
+  {
+   "off": 13128,
+   "budget": 25,
+   "en": "Say what you like.",
+   "src": "B180:9239",
+   "carry": "exact"
+  },
+  {
+   "off": 13153,
+   "budget": 11,
+   "en": "Play game",
+   "src": "B180:9264",
+   "carry": "exact"
+  },
+  {
+   "off": 13164,
+   "budget": 43,
+   "en": "Beginner's quiz. Question one.",
+   "src": "B180:9275",
+   "carry": "candidate_ok",
+   "en_candidate": "Beginner's quiz. Question one.",
+   "sim": 0.95
+  },
+  {
+   "off": 13207,
+   "budget": 53,
+   "en": "Your would-be senior runner's￥name?",
+   "src": "B180:9318",
+   "carry": "rebroken",
+   "long": "What was the name of the veteran￥runner who was going to be your￥colleague?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13260,
+   "budget": 29,
+   "en": "Surely you've not forgotten?",
+   "src": "B180:9369",
+   "carry": "exact",
+   "long": "You haven't forgotten, have you?"
+  },
+  {
+   "off": 13289,
+   "budget": 23,
+   "en": "Right this time, eh?",
+   "src": "B180:9398",
+   "carry": "exact",
+   "long": "Try to get it right this time."
+  },
+  {
+   "off": 13312,
+   "budget": 31,
+   "en": "You've not truly forgotten...",
+   "src": "B180:9421",
+   "carry": "exact",
+   "long": "Surely you haven't really forgotten?"
+  },
+  {
+   "off": 13343,
+   "budget": 13,
+   "en": "Don't play",
+   "src": "B180:9452",
+   "carry": "exact"
+  },
+  {
+   "off": 13356,
+   "budget": 9,
+   "en": "Harrison",
+   "src": "B180:9465",
+   "carry": "exact"
+  },
+  {
+   "off": 13365,
+   "budget": 9,
+   "en": "Gibson",
+   "src": "B180:9474",
+   "carry": "exact"
+  },
+  {
+   "off": 13374,
+   "budget": 17,
+   "en": "Correct!",
+   "src": "B180:9483",
+   "carry": "exact"
+  },
+  {
+   "off": 13391,
+   "budget": 21,
+   "en": "Question two.",
+   "src": "B180:9500",
+   "carry": "exact"
+  },
+  {
+   "off": 13412,
+   "budget": 51,
+   "en": "In Konami's popular game Ganbare￥Goemon,",
+   "src": "B180:9521",
+   "carry": "exact"
+  },
+  {
+   "off": 13463,
+   "budget": 25,
+   "en": "Goemon's partner's name?",
+   "src": "B180:9572",
+   "carry": "exact",
+   "long": "what is Goemon's partner's name?"
+  },
+  {
+   "off": 13488,
+   "budget": 9,
+   "en": "Magison",
+   "src": "B180:9597",
+   "carry": "exact"
+  },
+  {
+   "off": 13497,
+   "budget": 9,
+   "en": "Benson",
+   "src": "B180:9606",
+   "carry": "exact"
+  },
+  {
+   "off": 13506,
+   "budget": 13,
+   "en": "Quit game",
+   "src": "B180:9615",
+   "carry": "exact"
+  },
+  {
+   "off": 13519,
+   "budget": 25,
+   "en": "Damn! Was that wrong?",
+   "src": "B180:9628",
+   "carry": "candidate_ok",
+   "en_candidate": "Damn! Was that wrong?",
+   "sim": 0.96,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 13544,
+   "budget": 21,
+   "en": "Huh? Was that wrong?",
+   "src": "B180:9653",
+   "carry": "candidate_ok",
+   "en_candidate": "Huh? Was that wrong?",
+   "sim": 0.95,
+   "note": "differs only in punctuation/spacing",
+   "long": "Huh? That wasn't right?"
+  },
+  {
+   "off": 13565,
+   "budget": 51,
+   "en": "You failed. Please try again.",
+   "src": "B180:9674",
+   "carry": "exact"
+  },
+  {
+   "off": 13616,
+   "budget": 49,
+   "en": "Incorrect. Please try again.",
+   "src": "B180:9725",
+   "carry": "exact"
+  },
+  {
+   "off": 13665,
+   "budget": 11,
+   "en": "Daikoku",
+   "src": "B180:9774",
+   "carry": "exact"
+  },
+  {
+   "off": 13676,
+   "budget": 9,
+   "en": "Ebisu",
+   "src": "B180:9785",
+   "carry": "exact",
+   "long": "Ebisumaru"
+  },
+  {
+   "off": 13685,
+   "budget": 21,
+   "en": "Question three.",
+   "src": "B180:9794",
+   "carry": "exact"
+  },
+  {
+   "off": 13706,
+   "budget": 63,
+   "en": "Konami's live series. What was the￥first polygon game about?",
+   "src": "B180:9815",
+   "carry": "exact",
+   "long": "Which sport featured in the first￥game in Konami's Jikkyou series to￥use polygons?"
+  },
+  {
+   "off": 13769,
+   "budget": 11,
+   "en": "Benten",
+   "src": "B180:9878",
+   "carry": "exact"
+  },
+  {
+   "off": 13780,
+   "budget": 9,
+   "en": "Hotei",
+   "src": "B180:9889",
+   "carry": "exact"
+  },
+  {
+   "off": 13789,
+   "budget": 13,
+   "en": "Bishamon",
+   "src": "B180:9898",
+   "carry": "exact"
+  },
+  {
+   "off": 13802,
+   "budget": 17,
+   "en": "Basketball",
+   "src": "B180:9911",
+   "carry": "exact"
+  },
+  {
+   "off": 13819,
+   "budget": 5,
+   "en": "Base",
+   "src": "B180:9928",
+   "carry": "exact",
+   "long": "Baseball"
+  },
+  {
+   "off": 13824,
+   "budget": 11,
+   "en": "Racing",
+   "src": "B180:9933",
+   "carry": "exact"
+  },
+  {
+   "off": 13835,
+   "budget": 9,
+   "en": "Soccer",
+   "src": "B180:9944",
+   "carry": "exact"
+  },
+  {
+   "off": 13844,
+   "budget": 33,
+   "en": "Now question four, the last.",
+   "src": "B180:9953",
+   "carry": "exact",
+   "long": "Question four, the final question."
+  },
+  {
+   "off": 13877,
+   "budget": 37,
+   "en": "Plainly! Konami's falling game?",
+   "src": "B180:9986",
+   "carry": "rebroken",
+   "long": "Name Konami's falling-block puzzle￥game!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13914,
+   "budget": 13,
+   "en": "Volleyball",
+   "src": "B180:10021",
+   "carry": "exact"
+  },
+  {
+   "off": 13927,
+   "budget": 9,
+   "en": "Kabaddi",
+   "src": "B180:10034",
+   "carry": "exact"
+  },
+  {
+   "off": 13936,
+   "budget": 13,
+   "en": "Puzzledama",
+   "src": "B180:10043",
+   "carry": "exact"
+  },
+  {
+   "off": 13949,
+   "budget": 47,
+   "en": "Congratulations! ...All answers￥correct!!",
+   "src": "B180:10056",
+   "carry": "exact",
+   "long": "Congratulations! You got every￥question right!"
+  },
+  {
+   "off": 13996,
+   "budget": 73,
+   "en": "In place of the prize, we grant￥entry to the super ultra quiz.",
+   "src": "B180:10103",
+   "carry": "rebroken",
+   "long": "Instead of a fabulous prize, you've￥earned the right to enter the Super￥Ultra Quiz!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14069,
+   "budget": 75,
+   "en": "Please hang up your videophone and￥call again.",
+   "src": "B180:10174",
+   "carry": "candidate_ok",
+   "en_candidate": "Please hang up your videophone and￥call again.",
+   "sim": 0.94
+  },
+  {
+   "off": 14144,
+   "budget": 29,
+   "en": "You did it, Gillian!",
+   "src": "B180:10247",
+   "carry": "candidate_ok",
+   "en_candidate": "You did it, Gillian!",
+   "sim": 0.96,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 14173,
+   "budget": 43,
+   "en": "Not the prize...￥another quiz?",
+   "src": "B180:10276",
+   "carry": "exact",
+   "long": "So much for a fabulous prize.￥Another quiz?"
+  },
+  {
+   "off": 14216,
+   "budget": 29,
+   "en": "Let's hang up for now.",
+   "src": "B180:10319",
+   "carry": "candidate_ok",
+   "en_candidate": "Let's hang up for now.",
+   "sim": 0.93
+  },
+  {
+   "off": 14245,
+   "budget": 27,
+   "en": "Is it safe to hang up?",
+   "src": "B180:10348",
+   "carry": "exact"
+  },
+  {
+   "off": 14272,
+   "budget": 57,
+   "en": "Don't worry. They've recorded our￥phone number.",
+   "src": "B180:10375",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14329,
+   "budget": 13,
+   "en": "Ochiru",
+   "src": "B180:10430",
+   "carry": "exact"
+  },
+  {
+   "off": 14342,
+   "budget": 15,
+   "en": "Karakuri",
+   "src": "B180:10443",
+   "carry": "exact"
+  },
+  {
+   "off": 14357,
+   "budget": 15,
+   "en": "Powerful",
+   "src": "B180:10458",
+   "carry": "exact"
+  },
+  {
+   "off": 14372,
+   "budget": 13,
+   "en": "Yurari",
+   "src": "B180:10473",
+   "carry": "exact"
+  },
+  {
+   "off": 14385,
+   "budget": 21,
+   "en": "Question one.",
+   "src": "B180:10486",
+   "carry": "candidate_ok",
+   "en_candidate": "Question one.",
+   "sim": 0.9
+  },
+  {
+   "off": 14406,
+   "budget": 87,
+   "en": "Designer Ando often goes to the￥arcade. How many times a week￥does he go?",
+   "carry": "new"
+  },
+  {
+   "off": 14493,
+   "budget": 37,
+   "en": "What? It's a different question?",
+   "src": "B180:10585",
+   "carry": "exact"
+  },
+  {
+   "off": 14530,
+   "budget": 67,
+   "en": "What is programmer Tsunashima's￥record-low monthly water bill?",
+   "carry": "new"
+  },
+  {
+   "off": 14597,
+   "budget": 27,
+   "en": "Ugh, I'm poor at these.",
+   "src": "B180:10709",
+   "carry": "exact",
+   "long": "Ugh, I'm no good at this sort of￥thing."
+  },
+  {
+   "off": 14624,
+   "budget": 11,
+   "en": "1,200 yen",
+   "carry": "new"
+  },
+  {
+   "off": 14635,
+   "budget": 9,
+   "en": "190 yen",
+   "carry": "new"
+  },
+  {
+   "off": 14644,
+   "budget": 95,
+   "en": "Designer Hatsumi often wants gum at￥work. What does he say when he￥begs for it?",
+   "carry": "new"
+  },
+  {
+   "off": 14739,
+   "budget": 31,
+   "en": "How would I know that?",
+   "src": "B180:10849",
+   "carry": "exact",
+   "long": "How am I supposed to know that?"
+  },
+  {
+   "off": 14770,
+   "budget": 7,
+   "en": "10 yen",
+   "carry": "new"
+  },
+  {
+   "off": 14777,
+   "budget": 11,
+   "en": "5,600 yen",
+   "carry": "new"
+  },
+  {
+   "off": 14788,
+   "budget": 5,
+   "en": "7 x",
+   "carry": "new",
+   "long": "7 times"
+  },
+  {
+   "off": 14793,
+   "budget": 5,
+   "en": "5 x",
+   "carry": "new",
+   "long": "5 times"
+  },
+  {
+   "off": 14798,
+   "budget": 5,
+   "en": "3 x",
+   "carry": "new",
+   "long": "3 times"
+  },
+  {
+   "off": 14803,
+   "budget": 5,
+   "en": "2 x",
+   "carry": "new",
+   "long": "2 times"
+  },
+  {
+   "off": 14808,
+   "budget": 91,
+   "en": "The world has many languages. Which￥is programmer Takaki's favourite?",
+   "carry": "new"
+  },
+  {
+   "off": 14899,
+   "budget": 11,
+   "en": "No idea!!",
+   "src": "B180:11038",
+   "carry": "exact",
+   "long": "I don't know!"
+  },
+  {
+   "off": 14910,
+   "budget": 11,
+   "en": "Gimme gum",
+   "carry": "new"
+  },
+  {
+   "off": 14921,
+   "budget": 9,
+   "en": "Gum, pls",
+   "carry": "new",
+   "long": "Gum, please"
+  },
+  {
+   "off": 14930,
+   "budget": 11,
+   "en": "Gum'n'pass",
+   "carry": "new"
+  },
+  {
+   "off": 14941,
+   "budget": 43,
+   "en": "Question three. It grows harder.",
+   "src": "B180:11159",
+   "carry": "rebroken",
+   "long": "Question three. They're getting￥harder now.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14984,
+   "budget": 95,
+   "en": "Of the 'Tokimeki Memorial' girls,￥who is programmer Yamagishi's￥top pick?",
+   "carry": "new"
+  },
+  {
+   "off": 15079,
+   "budget": 7,
+   "en": "Sakura",
+   "carry": "new",
+   "long": "Gum sakura"
+  },
+  {
+   "off": 15086,
+   "budget": 7,
+   "en": "Japan",
+   "carry": "new",
+   "long": "Japanese"
+  },
+  {
+   "off": 15093,
+   "budget": 5,
+   "en": "Eng.",
+   "carry": "new",
+   "long": "English"
+  },
+  {
+   "off": 15098,
+   "budget": 7,
+   "en": "C",
+   "carry": "new",
+   "long": "C language"
+  },
+  {
+   "off": 15105,
+   "budget": 11,
+   "en": "Assembler",
+   "carry": "new"
+  },
+  {
+   "off": 15116,
+   "budget": 15,
+   "en": "Next, then.",
+   "carry": "new"
+  },
+  {
+   "off": 15131,
+   "budget": 69,
+   "en": "Who is programmer Asada's favourite￥TwinBee character?",
+   "carry": "new"
+  },
+  {
+   "off": 15200,
+   "budget": 11,
+   "en": "Beats me!",
+   "carry": "new"
+  },
+  {
+   "off": 15211,
+   "budget": 87,
+   "en": "Programmer Araki keeps a dog at￥home. What is the dog's name?",
+   "carry": "new"
+  },
+  {
+   "off": 15298,
+   "budget": 11,
+   "en": "What?",
+   "src": "B180:11376",
+   "carry": "exact",
+   "long": "What kind of question is that?"
+  },
+  {
+   "off": 15309,
+   "budget": 7,
+   "en": "Light",
+   "carry": "new"
+  },
+  {
+   "off": 15316,
+   "budget": 9,
+   "en": "Pastel",
+   "carry": "new"
+  },
+  {
+   "off": 15325,
+   "budget": 7,
+   "en": "",
+   "src": "B040:5497",
+   "carry": "exact",
+   "note": "from B040"
+  },
+  {
+   "off": 15332,
+   "budget": 33,
+   "en": "Question four. The last.",
+   "src": "B180:11409",
+   "carry": "candidate_ok",
+   "en_candidate": "Question four. The last.",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing",
+   "long": "Question four. The final question."
+  },
+  {
+   "off": 15365,
+   "budget": 73,
+   "en": "Designer Miss Kimura keeps birds at￥home. How many does she keep?",
+   "carry": "new"
+  },
+  {
+   "off": 15438,
+   "budget": 7,
+   "en": "Mint",
+   "carry": "new"
+  },
+  {
+   "off": 15445,
+   "budget": 9,
+   "en": "The brat",
+   "carry": "new"
+  },
+  {
+   "off": 15454,
+   "budget": 7,
+   "en": "Gutsy",
+   "carry": "new",
+   "long": "Guts girl"
+  },
+  {
+   "off": 15461,
+   "budget": 13,
+   "en": "Helmet girl",
+   "carry": "new"
+  },
+  {
+   "off": 15474,
+   "budget": 9,
+   "en": "Meathead",
+   "carry": "new"
+  },
+  {
+   "off": 15483,
+   "budget": 5,
+   "en": "H.E.",
+   "carry": "new",
+   "long": "Her Excellency"
+  },
+  {
+   "off": 15488,
+   "budget": 5,
+   "en": "Yuki",
+   "carry": "new"
+  },
+  {
+   "off": 15493,
+   "budget": 5,
+   "en": "Poch",
+   "carry": "new",
+   "long": "Pochi"
+  },
+  {
+   "off": 15498,
+   "budget": 7,
+   "en": "",
+   "src": "B040:4090",
+   "carry": "exact",
+   "note": "from B040"
+  },
+  {
+   "off": 15505,
+   "budget": 5,
+   "en": "Tama",
+   "carry": "new"
+  },
+  {
+   "off": 15510,
+   "budget": 5,
+   "en": "1",
+   "carry": "new",
+   "long": "1 bird"
+  },
+  {
+   "off": 15515,
+   "budget": 5,
+   "en": "3",
+   "carry": "new",
+   "long": "3 birds"
+  },
+  {
+   "off": 15520,
+   "budget": 5,
+   "en": "5",
+   "carry": "new",
+   "long": "5 birds"
+  },
+  {
+   "off": 15525,
+   "budget": 5,
+   "en": "7",
+   "carry": "new",
+   "long": "7 birds"
+  },
+  {
+   "off": 15530,
+   "budget": 99,
+   "en": "Instead of a fabulous prize, we'll￥give you a ＠黄secret Q2 hotline￥number＠白. It's naughty!",
+   "src": "B180:11599",
+   "carry": "candidate_ok",
+   "en_candidate": "Instead of a fabulous prize, we'll￥give you a ＠黄secret Q2 hotline￥number＠白. It's naughty!",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 15629,
+   "budget": 61,
+   "en": "The videophone number is￥＠赤0990-31919＠白.",
+   "src": "B180:11698",
+   "carry": "candidate_edit",
+   "en_candidate": "The videophone number is￥＠赤0990-931919＠白.",
+   "sim": 0.98,
+   "note": "re-adapted 2026-09-30: own number kept"
+  },
+  {
+   "off": 15690,
+   "budget": 43,
+   "en": "Not the prize...￥well, never mind.",
+   "src": "B180:11761",
+   "carry": "exact",
+   "long": "Not exactly a fabulous prize, but￥it'll do."
+  },
+  {
+   "off": 15733,
+   "budget": 23,
+   "en": "I've got it already...",
+   "src": "B180:11804",
+   "carry": "exact"
+  },
+  {
+   "off": 15756,
+   "budget": 19,
+   "en": "Let's not...",
+   "src": "B180:11859",
+   "carry": "exact"
+  },
+  {
+   "off": 15775,
+   "budget": 25,
+   "en": "No more waste...",
+   "src": "B180:11878",
+   "carry": "exact",
+   "long": "Let's stop wasting money."
+  },
+  {
+   "off": 15800,
+   "budget": 51,
+   "en": "Wasn't it exposed and the￥service ended?",
+   "src": "B180:11903",
+   "carry": "rebroken",
+   "long": "Perhaps the service was shut down in￥a police raid?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15851,
+   "budget": 31,
+   "en": "Damn, those guys have no guts.",
+   "src": "B180:11952",
+   "carry": "exact"
+  },
+  {
+   "off": 15882,
+   "budget": 69,
+   "en": "Tomiken Planning presents the Q2￥service! Is everyone ready?",
+   "src": "B180:11983",
+   "carry": "exact"
+  },
+  {
+   "off": 15951,
+   "budget": 29,
+   "en": "＠赤The Nurse: Part 1",
+   "src": "B180:12052",
+   "carry": "exact"
+  },
+  {
+   "off": 15980,
+   "budget": 37,
+   "en": "I'm a nurse, twenty-two years old.",
+   "src": "B180:12081",
+   "carry": "exact"
+  },
+  {
+   "off": 16017,
+   "budget": 49,
+   "en": "A patient in my charge is troubling￥me.",
+   "src": "B180:12118",
+   "carry": "rebroken",
+   "long": "One of my patients has been giving￥me trouble.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16066,
+   "budget": 81,
+   "en": "He says, 'Mai dear' (that's my￥alias), 'let's have a bout some￥time.'",
+   "src": "B180:12165",
+   "carry": "exact",
+   "long": "He says things like, 'Mai, how about￥going a round with me?' Mai isn't my￥real name."
+  },
+  {
+   "off": 16147,
+   "budget": 29,
+   "en": "＠赤The Nurse: Part 2",
+   "src": "B180:12246",
+   "carry": "exact"
+  },
+  {
+   "off": 16176,
+   "budget": 59,
+   "en": "He's in with a leg hurt in an￥accident, but...",
+   "src": "B180:12275",
+   "carry": "rebroken",
+   "long": "He's in the hospital because he hurt￥his leg in an accident.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16235,
+   "budget": 59,
+   "en": "Physically he's fine...￥Too much energy, it seems...",
+   "src": "B180:12332",
+   "carry": "exact",
+   "long": "The rest of him is perfectly￥healthy. He seems to have more￥youthful energy than he can￥handle."
+  },
+  {
+   "off": 16294,
+   "budget": 89,
+   "en": "The other night, he rang for a￥nurse. I thought it was strange,",
+   "src": "B180:12391",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16383,
+   "budget": 29,
+   "en": "I went to his room to see.",
+   "src": "B180:12478",
+   "carry": "exact",
+   "long": "but I went to his room anyway."
+  },
+  {
+   "off": 16412,
+   "budget": 29,
+   "en": "＠赤The Nurse: Part 3",
+   "src": "B180:12507",
+   "carry": "exact"
+  },
+  {
+   "off": 16441,
+   "budget": 59,
+   "en": "I entered, drew near, and he￥seized my arm...",
+   "src": "B180:12536",
+   "carry": "rebroken",
+   "long": "When I entered his room and￥approached him, he suddenly grabbed￥my arm.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16500,
+   "budget": 65,
+   "en": "Before I knew it, I was no longer an￥angel in white.",
+   "src": "B180:12593",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16565,
+   "budget": 67,
+   "en": "If the matron found us...￥even as I thought that...",
+   "src": "B180:12656",
+   "carry": "exact",
+   "long": "I kept thinking, 'What if the head￥nurse catches us?' But even so,"
+  },
+  {
+   "off": 16632,
+   "budget": 29,
+   "en": "＠赤The Nurse: Part 4",
+   "src": "B180:12723",
+   "carry": "exact"
+  },
+  {
+   "off": 16661,
+   "budget": 33,
+   "en": "Ahh! Mmm!",
+   "src": "B180:12752",
+   "carry": "exact"
+  },
+  {
+   "off": 16694,
+   "budget": 33,
+   "en": "Ooh! Ahh! Ahh!",
+   "src": "B180:12785",
+   "carry": "exact"
+  },
+  {
+   "off": 16727,
+   "budget": 25,
+   "en": "I arm-wrestled him.",
+   "src": "B180:12818",
+   "carry": "exact"
+  },
+  {
+   "off": 16752,
+   "budget": 25,
+   "en": "＠赤Wife... VOL 1",
+   "src": "B180:12843",
+   "carry": "exact",
+   "long": "＠赤The Married Woman: Part 1"
+  },
+  {
+   "off": 16777,
+   "budget": 23,
+   "en": "A wife of twenty-four.",
+   "src": "B180:12868",
+   "carry": "exact",
+   "long": "I'm twenty-four and married."
+  },
+  {
+   "off": 16800,
+   "budget": 57,
+   "en": "My husband's kind, but a game￥company programmer...",
+   "src": "B180:12891",
+   "carry": "rebroken",
+   "long": "My husband is a kind man. He works￥as a programmer for a game company.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16857,
+   "budget": 75,
+   "en": "When work runs to the wire he￥can't come home for a month.",
+   "src": "B180:12946",
+   "carry": "rebroken",
+   "long": "When deadlines are tight, he￥sometimes can't come home for a￥whole month.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16932,
+   "budget": 25,
+   "en": "＠赤Wife... VOL 2",
+   "src": "B180:13019",
+   "carry": "exact",
+   "long": "＠赤The Married Woman: Part 2"
+  },
+  {
+   "off": 16957,
+   "budget": 79,
+   "en": "The other evening, as I made supper￥for one...￥ ding-dong...",
+   "src": "B180:13044",
+   "carry": "rebroken",
+   "long": "One evening, I was making dinner for￥one when the doorbell rang.￥Ding-dong!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 17036,
+   "budget": 65,
+   "en": "I opened the door to find a pleasant￥young man in a navy suit.",
+   "src": "B180:13121",
+   "carry": "exact"
+  },
+  {
+   "off": 17101,
+   "budget": 101,
+   "en": "Perhaps from seeing my husband￥always leave shabbily dressed,￥I warmed to him at once.",
+   "src": "B180:13186",
+   "carry": "rebroken",
+   "long": "Perhaps it was because my husband￥always goes out looking so sloppy,￥but I liked this young man right￥away.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 17202,
+   "budget": 25,
+   "en": "＠赤Wife... VOL 3",
+   "src": "B180:13283",
+   "carry": "exact",
+   "long": "＠赤The Married Woman: Part 3"
+  },
+  {
+   "off": 17227,
+   "budget": 91,
+   "en": "He was a car salesman. At first, he￥opened a brochure and explained the￥details.",
+   "src": "B180:13308",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 17318,
+   "budget": 71,
+   "en": "Then he edged closer and closer￥until he was whispering in my ear.",
+   "src": "B180:13397",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 17389,
+   "budget": 87,
+   "en": "With hot breath at my ear...￥the simmering pot faded￥further away...",
+   "src": "B180:13466",
+   "carry": "rebroken",
+   "long": "As I felt his hot breath on my ear,￥the sound of the simmering pot￥seemed to fade away.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 17476,
+   "budget": 25,
+   "en": "＠赤Wife... VOL 4",
+   "src": "B180:13551",
+   "carry": "exact",
+   "long": "＠赤The Married Woman: Part 4"
+  },
+  {
+   "off": 17501,
+   "budget": 33,
+   "en": "Ah... ＠赤tongue work＠白...",
+   "src": "B180:13576",
+   "carry": "exact",
+   "long": "Oh, what a talented ＠赤tongue＠白!"
+  },
+  {
+   "off": 17534,
+   "budget": 55,
+   "en": "D-Don't whisper things like that in￥my ear!",
+   "src": "B180:13609",
+   "carry": "exact"
+  },
+  {
+   "off": 17589,
+   "budget": 27,
+   "en": "Ahhhhh!",
+   "src": "B180:13664",
+   "carry": "exact"
+  },
+  {
+   "off": 17616,
+   "budget": 31,
+   "en": "A car... I was made to buy...",
+   "src": "B180:13691",
+   "carry": "exact",
+   "long": "He talked me into buying a car."
+  },
+  {
+   "off": 17647,
+   "budget": 41,
+   "en": "Hey, Metal! You hung up on her!",
+   "src": "B180:13722",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 17688,
+   "budget": 27,
+   "en": "Hey!! What's that for!?",
+   "src": "B180:13759",
+   "carry": "rebroken",
+   "long": "Hey! What are you doing?!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 17715,
+   "budget": 49,
+   "en": "Gillian, let's stop here.",
+   "src": "B180:13784",
+   "carry": "exact"
+  },
+  {
+   "off": 17764,
+   "budget": 33,
+   "en": "Gillian, isn't that enough?",
+   "src": "B180:13833",
+   "carry": "exact"
+  },
+  {
+   "off": 17797,
+   "budget": 33,
+   "en": "A waste! On we go.",
+   "src": "B180:13866",
+   "carry": "rebroken",
+   "long": "What a waste! Now I'll have to call￥back for the rest.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 17830,
+   "budget": 27,
+   "en": "Ugh! They got me!",
+   "src": "B180:13897",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 17857,
+   "budget": 55,
+   "en": "You were fooled? That's women for￥you.",
+   "src": "B180:13922",
+   "carry": "exact"
+  },
+  {
+   "off": 17912,
+   "budget": 15,
+   "en": "Boo hoo...",
+   "src": "B180:13977",
+   "carry": "exact"
+  },
+  {
+   "off": 17927,
+   "budget": 59,
+   "en": "Just the Rie phone line.￥Is this what you want to hear?",
+   "src": "B180:13992",
+   "carry": "exact",
+   "long": "It's just the Rie phone service. Is￥this really what you want to hear?"
+  },
+  {
+   "off": 17986,
+   "budget": 35,
+   "en": "N-No, it's not like that.",
+   "src": "B180:14051",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18021,
+   "budget": 49,
+   "en": "I'm starting to like this phone￥service.",
+   "src": "B180:14084",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18070,
+   "budget": 47,
+   "en": "G-Gillian, you had tastes like that?",
+   "src": "B180:14131",
+   "carry": "rebroken",
+   "long": "G-Gillian, I didn't know you were￥into that!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18117,
+   "budget": 53,
+   "en": "I like you too, Rie. Rie!",
+   "src": "B180:14176",
+   "carry": "exact"
+  },
+  {
+   "off": 18170,
+   "budget": 27,
+   "en": "Gillian, you're dangerous.",
+   "src": "B180:14229",
+   "carry": "exact",
+   "long": "Gillian, you're worrying me."
+  },
+  {
+   "off": 18197,
+   "budget": 103,
+   "en": "Today's forecast for Neo Kobe: high￥pressure from the south will bring￥relatively calm weather.",
+   "src": "B180:14256",
+   "carry": "candidate_ok",
+   "en_candidate": "Today's forecast for Neo Kobe: high￥pressure from the south will bring￥relatively calm weather.",
+   "sim": 0.97
+  },
+  {
+   "off": 18300,
+   "budget": 65,
+   "en": "The observatory further reports￥the ozone hole widening.",
+   "src": "B180:14357",
+   "carry": "rebroken",
+   "long": "The astronomical observatory reports￥that the hole in the ozone layer is￥expanding.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18365,
+   "budget": 73,
+   "en": "We recommend wearing a UV-resistant￥coat when going outdoors.",
+   "src": "B180:14420",
+   "carry": "exact"
+  },
+  {
+   "off": 18438,
+   "budget": 13,
+   "en": "Fair, then.",
+   "src": "B180:14493",
+   "carry": "exact"
+  },
+  {
+   "off": 18451,
+   "budget": 75,
+   "en": "The weather is with us too.￥Strong UV restricts their￥movements.",
+   "src": "B180:14506",
+   "carry": "rebroken",
+   "long": "Even the weather is on our side.￥Stronger ultraviolet light will￥limit their movements.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18526,
+   "budget": 27,
+   "en": "Press on while we can.",
+   "src": "B180:14579",
+   "carry": "exact",
+   "long": "Let's make some progress while we￥can."
+  },
+  {
+   "off": 18553,
+   "budget": 47,
+   "en": "Today's Neo Kobe forecast.",
+   "src": "B180:14606",
+   "carry": "rebroken",
+   "long": "Here is today's weather forecast for￥Neo Kobe.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18600,
+   "budget": 85,
+   "en": "Patchy acid rain this morning;￥from afternoon, fair will￥spread.",
+   "src": "B180:14651",
+   "carry": "candidate_ok",
+   "en_candidate": "Patchy acid rain this morning;￥from afternoon, fair will￥spread.",
+   "sim": 0.96,
+   "long": "Light acid rain in the morning will￥give way to gradually clearing skies￥this afternoon."
+  },
+  {
+   "off": 18685,
+   "budget": 37,
+   "en": "At last... it's clearing up?",
+   "src": "B180:14734",
+   "carry": "exact",
+   "long": "Looks like the weather will finally￥improve."
+  },
+  {
+   "off": 18722,
+   "budget": 17,
+   "en": "So it seems.",
+   "src": "B180:14771",
+   "carry": "exact"
+  },
+  {
+   "off": 18739,
+   "budget": 47,
+   "en": "Tomorrow's Neo Kobe forecast.",
+   "src": "B180:14788",
+   "carry": "rebroken",
+   "long": "Here is tomorrow's weather forecast￥for Neo Kobe.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18786,
+   "budget": 87,
+   "en": "From morning to afternoon, heavy￥rain bearing radioactive matter.￥A dreary day.",
+   "src": "B180:14833",
+   "carry": "candidate_ok",
+   "en_candidate": "From morning to afternoon, heavy￥rain bearing radioactive matter.￥A dreary day.",
+   "sim": 0.93,
+   "long": "Expect a dreary day, with heavy rain￥containing radioactive material￥throughout the morning and￥afternoon."
+  },
+  {
+   "off": 18873,
+   "budget": 87,
+   "en": "Snow Cedar pollen advisories are￥also in effect for some areas.￥Please take care.",
+   "src": "B180:14920",
+   "carry": "candidate_ok",
+   "en_candidate": "Snow Cedar pollen advisories are￥also in effect for some areas.￥Please take care.",
+   "sim": 0.98
+  },
+  {
+   "off": 18960,
+   "budget": 25,
+   "en": "Rain. How depressing.",
+   "src": "B180:15005",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 18985,
+   "budget": 53,
+   "en": "Neo Kobe gets a lot of rain this￥time of year.",
+   "src": "B180:15032",
+   "carry": "rebroken"
+  },
+  {
+   "off": 19038,
+   "budget": 43,
+   "en": "Rain again? When will the sun come￥out?",
+   "src": "B180:15085",
+   "carry": "exact"
+  },
+  {
+   "off": 19081,
+   "budget": 57,
+   "en": "Neo Kobe fire service,￥disaster emergency line...",
+   "src": "B180:15128",
+   "carry": "exact",
+   "long": "You have reached the Neo Kobe Fire￥Department's emergency line."
+  },
+  {
+   "off": 19138,
+   "budget": 53,
+   "en": "STATE THE DISASTER AND￥DAMAGE PRECISELY.",
+   "src": "B180:15185",
+   "carry": "rebroken",
+   "long": "Please state the type of emergency,￥current conditions, and extent of￥the damage accurately.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19191,
+   "budget": 73,
+   "en": "This call is recorded automatically.￥Please remain calm.",
+   "src": "B180:15236",
+   "carry": "candidate_ok",
+   "en_candidate": "This call is recorded automatically.￥Please remain calm.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 19264,
+   "budget": 61,
+   "en": "No, Gillian.￥Calling the fire service for￥nothing.",
+   "src": "B180:15309",
+   "carry": "exact",
+   "long": "Gillian, you shouldn't call the fire￥department without a reason."
+  },
+  {
+   "off": 19325,
+   "budget": 49,
+   "en": "Stop calling the fire service￥for nothing!",
+   "src": "B180:15370",
+   "carry": "rebroken",
+   "long": "Please stop calling the fire￥department when there's no￥emergency!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19374,
+   "budget": 21,
+   "en": "I'm busy right now!",
+   "src": "B180:16171",
+   "carry": "exact"
+  },
+  {
+   "off": 19395,
+   "budget": 19,
+   "en": "I'm busy!",
+   "src": "B180:16192",
+   "carry": "exact"
+  },
+  {
+   "off": 19414,
+   "budget": 15,
+   "en": "Busy now!",
+   "src": "B180:16211",
+   "carry": "exact",
+   "long": "Busy right now!"
+  },
+  {
+   "off": 19429,
+   "budget": 25,
+   "en": "I told you I'm busy!",
+   "src": "B180:16226",
+   "carry": "exact"
+  },
+  {
+   "off": 19454,
+   "budget": 27,
+   "en": "Hey! They hung up!",
+   "src": "B180:16251",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19481,
+   "budget": 25,
+   "en": "Man, somebody's on edge.",
+   "src": "B180:16276",
+   "carry": "exact",
+   "long": "They sound ready to kill someone."
+  },
+  {
+   "off": 19506,
+   "budget": 63,
+   "en": "My daughter ＠桃'Yukari'＠白.￥Called ＠桃'Yukarin'＠白.",
+   "src": "B180:16301",
+   "carry": "exact",
+   "long": "This is my daughter, ＠桃Yukari＠白. We￥call her ＠桃Yukarin＠白."
+  },
+  {
+   "off": 19569,
+   "budget": 55,
+   "en": "But Snatcher work is busy and￥I can't play much.",
+   "src": "B180:16364",
+   "carry": "rebroken",
+   "long": "I'm so busy working on Snatcher that￥I hardly get to play with her.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19624,
+   "budget": 23,
+   "en": "Daddy misses you!",
+   "src": "B180:16417",
+   "carry": "exact"
+  },
+  {
+   "off": 19647,
+   "budget": 63,
+   "en": "Hello, Asato here. Asato's out at￥the arcade right now.",
+   "src": "B180:16440",
+   "carry": "rebroken",
+   "long": "Hello, this is Asato. I'm not home￥right now. I've gone to the arcade.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 19710,
+   "budget": 11,
+   "en": "Arcade?",
+   "src": "B180:16499",
+   "carry": "exact",
+   "long": "The arcade?"
+  },
+  {
+   "off": 19721,
+   "budget": 65,
+   "en": "Using a cat, no doubt, saying￥'thanks everyone'.",
+   "src": "B180:16510",
+   "carry": "exact",
+   "long": "He's probably playing as that cat￥and saying, 'Thanks, everyone!'"
+  },
+  {
+   "off": 19786,
+   "budget": 7,
+   "en": "Huh?",
+   "src": "B180:16575",
+   "carry": "exact"
+  },
+  {
+   "off": 19793,
+   "budget": 65,
+   "en": "Yes, Asato here. Asato is busy￥queueing for new software.",
+   "src": "B180:16582",
+   "carry": "rebroken",
+   "long": "Hello, this is Asato. I'm busy￥waiting in line for a new game.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 19858,
+   "budget": 49,
+   "en": "What! People still queue in￥this world!?",
+   "src": "B180:16643",
+   "carry": "rebroken",
+   "long": "What? People still line up for￥things in this day and age?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19907,
+   "budget": 55,
+   "en": "Didn't you know? All-night￥queueing is the rage.",
+   "src": "B180:16690",
+   "carry": "rebroken",
+   "long": "Didn't you know? Spending the night￥in line is fashionable now.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19962,
+   "budget": 29,
+   "en": "I won't accept it! Never!",
+   "src": "B180:16743",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19991,
+   "budget": 17,
+   "en": "Yes, Asato.",
+   "src": "B180:16770",
+   "carry": "exact",
+   "long": "Hello, this is Asato."
+  },
+  {
+   "off": 20008,
+   "budget": 19,
+   "en": "Ah, it connected.",
+   "src": "B180:16787",
+   "carry": "exact",
+   "long": "Oh, we got through."
+  },
+  {
+   "off": 20027,
+   "budget": 109,
+   "en": "Busy with 'Fantasy Tokimeki Snatcher￥2042 Opening Edition' I bought, so￥don't call again.",
+   "src": "B180:16806",
+   "carry": "rebroken",
+   "long": "I'm busy beating my new game, Genso￥Tokimeki Snatcher 2042: Opening Day￥Edition. Please stop calling.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 20136,
+   "budget": 33,
+   "en": "Damn! I wish I hadn't called.",
+   "src": "B180:16911",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20169,
+   "budget": 51,
+   "en": "Yes, Toyama here.￥Toyama is at the office now.",
+   "src": "B180:16942",
+   "carry": "exact",
+   "long": "Hello, this is Toyama. I'm at the￥office right now."
+  },
+  {
+   "off": 20220,
+   "budget": 63,
+   "en": "For urgent matters, call Development￥Division 7 at ＠赤25-0251＠白.",
+   "src": "B180:16993",
+   "carry": "candidate_edit",
+   "en_candidate": "For urgent business call￥＠赤54-8418＠白, Development 7.",
+   "sim": 0.87,
+   "note": "re-adapted 2026-09-30: own number kept; new PS1 long"
+  },
+  {
+   "off": 20283,
+   "budget": 41,
+   "en": "Hello, Toyama... Oh, it's you again.",
+   "src": "B180:17056",
+   "carry": "exact",
+   "long": "Hello, Toyama residence. Oh, it's￥you again."
+  },
+  {
+   "off": 20324,
+   "budget": 27,
+   "en": "What? Is he home?",
+   "src": "B180:17097",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20351,
+   "budget": 47,
+   "en": "An AI answerphone.￥Quite high-performance.",
+   "src": "B180:17122",
+   "carry": "exact",
+   "long": "It's an AI answering machine. A very￥advanced model, apparently."
+  },
+  {
+   "off": 20398,
+   "budget": 37,
+   "en": "I'd like to speak with Toyama.",
+   "src": "B180:17169",
+   "carry": "exact"
+  },
+  {
+   "off": 20435,
+   "budget": 61,
+   "en": "Are you stupid? I'm answering￥because Toyama isn't here!",
+   "src": "B180:17206",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20496,
+   "budget": 45,
+   "en": "Grr!￥(What's so advanced about it?!ω￥Metal?)",
+   "src": "B180:17265",
+   "carry": "candidate_edit",
+   "en_candidate": "Ugh!￥(Where's the performance, Metal?)",
+   "sim": 0.98,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the punctuation as in the jp; re-adapted 2026-09-30: new PS1 long, ω kept after ！？"
+  },
+  {
+   "off": 20541,
+   "budget": 61,
+   "en": "(He seems ill-tempered.￥Busy with answering duty?)",
+   "src": "B180:17308",
+   "carry": "candidate_ok",
+   "en_candidate": "(He seems ill-tempered.￥Busy with answering duty?)",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "(It seems to be in a bad mood.￥Perhaps it has too many calls to￥handle.)"
+  },
+  {
+   "off": 20602,
+   "budget": 27,
+   "en": "No business? I'll hang up!",
+   "src": "B180:17367",
+   "carry": "exact",
+   "long": "If you don't want anything, I'm￥hanging up!"
+  },
+  {
+   "off": 20629,
+   "budget": 47,
+   "en": "Yes, Toyama...￥What, you again? Persistent!",
+   "src": "B180:17394",
+   "carry": "exact",
+   "long": "Hello, Toyama residence. You again?￥You don't give up!"
+  },
+  {
+   "off": 20676,
+   "budget": 27,
+   "en": "Ask about Development 7.",
+   "src": "B180:17441",
+   "carry": "exact",
+   "long": "I want to ask about Development￥Division 7."
+  },
+  {
+   "off": 20703,
+   "budget": 31,
+   "en": "...What of 7 do you want?",
+   "src": "B180:17468",
+   "carry": "exact",
+   "long": "What do you want to know about￥Division 7?"
+  },
+  {
+   "off": 20734,
+   "budget": 41,
+   "en": "What games does Development 7￥make?",
+   "src": "B180:17499",
+   "carry": "exact",
+   "long": "What kind of games does Development￥Division 7 make?"
+  },
+  {
+   "off": 20775,
+   "budget": 55,
+   "en": "What kind? That's too vague to￥answer.",
+   "src": "B180:17540",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20830,
+   "budget": 39,
+   "en": "Strip games!￥Not making any?",
+   "src": "B180:17593",
+   "carry": "exact",
+   "long": "Strip games! Do they make any strip￥games?"
+  },
+  {
+   "off": 20869,
+   "budget": 7,
+   "en": "...",
+   "src": "B180:17632",
+   "carry": "exact"
+  },
+  {
+   "off": 20876,
+   "budget": 17,
+   "en": "...Hello?",
+   "src": "B180:17639",
+   "carry": "candidate_ok",
+   "en_candidate": "...Hello?",
+   "sim": 0.93,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 20893,
+   "budget": 9,
+   "en": "Hello",
+   "src": "B180:17735",
+   "carry": "exact"
+  },
+  {
+   "off": 20902,
+   "budget": 41,
+   "en": "What, still at work at this￥hour?",
+   "src": "B180:17744",
+   "carry": "exact",
+   "long": "What? He's still at the office this￥late?"
+  },
+  {
+   "off": 20943,
+   "budget": 29,
+   "en": "It said Development 7.",
+   "src": "B180:17785",
+   "carry": "exact",
+   "long": "It said Development Division 7."
+  },
+  {
+   "off": 20972,
+   "budget": 33,
+   "en": "Argh! A phone made fun of me!",
+   "src": "B180:17814",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21005,
+   "budget": 37,
+   "en": "You made it angry, Gillian.",
+   "src": "B180:17845",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21042,
+   "budget": 67,
+   "en": "He does storyboards, so I had￥much to ask of him...",
+   "src": "B180:17880",
+   "carry": "rebroken",
+   "long": "He's in charge of storyboards. I had￥a few things I wanted him to do.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21109,
+   "budget": 29,
+   "en": "Oh well. Another time.",
+   "src": "B180:17945",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21138,
+   "budget": 67,
+   "en": "(Did he want a scene of himself on a￥date with Jamie?)",
+   "src": "B180:17972",
+   "carry": "candidate_ok",
+   "en_candidate": "(Did he want a scene of himself on a￥date with Jamie?)",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 21205,
+   "budget": 39,
+   "en": "It sounds furious, Gillian.",
+   "src": "B180:18037",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21244,
+   "budget": 63,
+   "en": "I've gone to pick up Nakatani at the￥pachinko parlor. Call again!",
+   "src": "B180:18074",
+   "carry": "candidate_edit",
+   "en_candidate": "I've gone to pick up Kiyohara, our￥designer. Call again!",
+   "sim": 0.76,
+   "note": "re-adapted 2026-09-30: Saturn's Nakatani kept; new PS1 wording"
+  },
+  {
+   "off": 21307,
+   "budget": 69,
+   "en": "We are having a blast! I am hanging￥out with Nakatani, KUNIZO, and the￥gang!",
+   "src": "B180:18133",
+   "carry": "candidate_edit",
+   "en_candidate": "High spirits! Playing with￥Kiyohara, KUNIZO and co!",
+   "sim": 0.94,
+   "note": "re-adapted 2026-09-30: Saturn's Nakatani kept; new PS1 long"
+  },
+  {
+   "off": 21376,
+   "budget": 35,
+   "en": "Sounds fun. What are you doing?",
+   "src": "B180:18198",
+   "carry": "exact"
+  },
+  {
+   "off": 21411,
+   "budget": 61,
+   "en": "KUNIZO is doing the Penguin Dance! I￥love it!",
+   "src": "B180:18233",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 21472,
+   "budget": 11,
+   "en": "Awesome!",
+   "src": "B180:18290",
+   "carry": "exact"
+  },
+  {
+   "off": 21483,
+   "budget": 47,
+   "en": "The penguin dance? What dance is￥that?",
+   "src": "B180:18301",
+   "carry": "rebroken",
+   "long": "I wonder what the Penguin Dance￥looks like.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21530,
+   "budget": 45,
+   "en": "I love it! Love it! Looove it!",
+   "src": "B180:18346",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21575,
+   "budget": 41,
+   "en": "Awesome! Awesome! Awwwe-some!",
+   "src": "B180:18389",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21616,
+   "budget": 33,
+   "en": "Bah! Maddening!￥Hang up!",
+   "src": "B180:18428",
+   "carry": "rebroken",
+   "long": "Enough! This is annoying. I'm￥hanging up!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21649,
+   "budget": 13,
+   "en": "Awesome!",
+   "src": "B180:18459",
+   "carry": "exact"
+  },
+  {
+   "off": 21662,
+   "budget": 29,
+   "en": "Penguin! Penguiiin!",
+   "src": "B180:18472",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 21691,
+   "budget": 11,
+   "en": "Awesome!",
+   "src": "B180:18536",
+   "carry": "exact"
+  },
+  {
+   "off": 21702,
+   "budget": 31,
+   "en": "They're in another world.",
+   "src": "B180:18547",
+   "carry": "exact"
+  },
+  {
+   "off": 21733,
+   "budget": 29,
+   "en": "Yes, quite far into it.",
+   "src": "B180:18578",
+   "carry": "exact"
+  },
+  {
+   "off": 21762,
+   "budget": 11,
+   "en": "Hang up.",
+   "src": "B180:18607",
+   "carry": "exact",
+   "long": "I'm hanging up."
+  },
+  {
+   "off": 21773,
+   "budget": 23,
+   "en": "Hello?￥How are you?",
+   "carry": "new"
+  },
+  {
+   "off": 21796,
+   "budget": 51,
+   "en": "Coming of age at last-sun.￥I want a car licence~",
+   "carry": "new"
+  },
+  {
+   "off": 21847,
+   "budget": 25,
+   "en": "Oh, congratulations.",
+   "carry": "new"
+  },
+  {
+   "off": 21872,
+   "budget": 23,
+   "en": "How old is Gillian?",
+   "src": "B180:18800",
+   "carry": "candidate_edit",
+   "en_candidate": "Gillian! Sun Kida is a boy!",
+   "sim": 0.52,
+   "note": "re-adapted 2026-09-30: Saturn's own question"
+  },
+  {
+   "off": 21895,
+   "budget": 87,
+   "en": "About 31 when the game came out￥in 1988, and it's 1996 now, so￥about 39, I suppose?",
+   "carry": "new"
+  },
+  {
+   "off": 21982,
+   "budget": 63,
+   "en": "A fine middle-aged man.￥Nearly silver-haired, is it...",
+   "carry": "new"
+  },
+  {
+   "off": 22045,
+   "budget": 19,
+   "en": "What?￥What's that?",
+   "src": "B180:18637",
+   "carry": "candidate_edit",
+   "en_candidate": "What?￥A child's voice.",
+   "sim": 0.53,
+   "note": "re-adapted 2026-09-30: Saturn's own line (そりゃ)"
+  },
+  {
+   "off": 22064,
+   "budget": 39,
+   "en": "If Gillian is 39 then Jamie's...",
+   "carry": "new"
+  },
+  {
+   "off": 22103,
+   "budget": 35,
+   "en": "￥  Click!!￥  Beep beep beep",
+   "carry": "new"
+  },
+  {
+   "off": 22138,
+   "budget": 19,
+   "en": "Let's go!￥Metal!",
+   "carry": "new"
+  },
+  {
+   "off": 22157,
+   "budget": 11,
+   "en": "Y-yes.",
+   "carry": "new"
+  },
+  {
+   "off": 22168,
+   "budget": 11,
+   "en": "Hello?",
+   "src": "B180:21626",
+   "carry": "exact"
+  },
+  {
+   "off": 22179,
+   "budget": 15,
+   "en": "Ah, hello.",
+   "carry": "new"
+  },
+  {
+   "off": 22194,
+   "budget": 35,
+   "en": "No boring talk this time.",
+   "carry": "new"
+  },
+  {
+   "off": 22229,
+   "budget": 43,
+   "en": "Sorry.￥Then how old is Metal Gear...",
+   "carry": "new"
+  },
+  {
+   "off": 22272,
+   "budget": 29,
+   "en": "Gillian!!￥We're going!!",
+   "carry": "new"
+  },
+  {
+   "off": 22301,
+   "budget": 67,
+   "en": "Ah, right.￥(Why did he get angry?￥ And how old IS he, anyway?)",
+   "carry": "new"
+  },
+  {
+   "off": 22368,
+   "budget": 25,
+   "en": "Hello, this is Noguchi.",
+   "src": "B180:18948",
+   "carry": "exact"
+  },
+  {
+   "off": 22393,
+   "budget": 31,
+   "en": "Hello? Who is this?",
+   "src": "B180:18973",
+   "carry": "exact"
+  },
+  {
+   "off": 22424,
+   "budget": 35,
+   "en": "A prank, gyaa! Say something!",
+   "src": "B180:19004",
+   "carry": "exact",
+   "long": "A prank call? Say something, damn￥it!"
+  },
+  {
+   "off": 22459,
+   "budget": 31,
+   "en": "Hello.",
+   "src": "B180:19039",
+   "carry": "exact"
+  },
+  {
+   "off": 22490,
+   "budget": 37,
+   "en": "Gillian, no prank calls.",
+   "src": "B180:19070",
+   "carry": "exact",
+   "long": "Gillian, you shouldn't make prank￥calls."
+  },
+  {
+   "off": 22527,
+   "budget": 77,
+   "en": "This game will be fun.￥This game will be fun.￥This game will be fun.",
+   "src": "B180:19107",
+   "carry": "candidate_edit",
+   "en_candidate": "This game grows interesting.￥This game grows interesting.￥This game grows interesting.￥This game grows",
+   "sim": 0.8,
+   "note": "part of the PS1 line; the PS1 line's first part, shortened to fit three repeats; the rest is the next record; re-adapted 2026-09-30: fragment 1/2 of B180:19107"
+  },
+  {
+   "off": 22604,
+   "budget": 71,
+   "en": "This game will be fun.￥This game will be fun.￥This game...",
+   "src": "B180:19107",
+   "carry": "candidate_edit",
+   "en_candidate": "This game grows interesting.￥This game grows interesting.￥This game grows interesting.￥This game grows",
+   "sim": 0.69,
+   "note": "part of the PS1 line; re-adapted 2026-09-30: fragment 2/2 of B180:19107"
+  },
+  {
+   "off": 22675,
+   "budget": 11,
+   "en": "Eek!",
+   "src": "B180:19216",
+   "carry": "exact"
+  },
+  {
+   "off": 22686,
+   "budget": 11,
+   "en": "Hello!",
+   "src": "B180:19227",
+   "carry": "exact"
+  },
+  {
+   "off": 22697,
+   "budget": 13,
+   "en": "Hello?!",
+   "src": "B180:19238",
+   "carry": "exact"
+  },
+  {
+   "off": 22710,
+   "budget": 27,
+   "en": "No answer, Gillian.",
+   "src": "B180:19251",
+   "carry": "exact"
+  },
+  {
+   "off": 22737,
+   "budget": 53,
+   "en": "Is he making fun of me? Hey! Don't￥ignore me!",
+   "src": "B180:19278",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 22790,
+   "budget": 31,
+   "en": "＠赤I'll k○ll you.＠Ｃ",
+   "src": "B180:19329",
+   "carry": "exact"
+  },
+  {
+   "off": 22821,
+   "budget": 31,
+   "en": "!!!!!!＠Ｃ",
+   "src": "B180:19360",
+   "carry": "exact"
+  },
+  {
+   "off": 22852,
+   "budget": 29,
+   "en": "!!!!!!＠Ｃ",
+   "src": "B180:19391",
+   "carry": "exact"
+  },
+  {
+   "off": 22881,
+   "budget": 29,
+   "en": "＠赤I'm m○ditating!＠Ｃ",
+   "src": "B180:19420",
+   "carry": "exact"
+  },
+  {
+   "off": 22910,
+   "budget": 19,
+   "en": "What's wrong?",
+   "src": "B180:19449",
+   "carry": "exact"
+  },
+  {
+   "off": 22929,
+   "budget": 41,
+   "en": "Nothing.￥Wrong number, it seems.",
+   "src": "B180:19468",
+   "carry": "exact",
+   "long": "Nothing. I think I dialed the wrong￥number."
+  },
+  {
+   "off": 22970,
+   "budget": 45,
+   "en": "Ha ha! (What was that about?)",
+   "src": "B180:19509",
+   "carry": "exact"
+  },
+  {
+   "off": 23015,
+   "budget": 31,
+   "en": "W-What was that?",
+   "src": "B180:19554",
+   "carry": "exact"
+  },
+  {
+   "off": 23046,
+   "budget": 41,
+   "en": "Hearing things.￥Never mind.",
+   "src": "B180:19585",
+   "carry": "rebroken",
+   "long": "Y-You're hearing things. Never mind.￥Ha ha!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23087,
+   "budget": 53,
+   "en": "Hello, Yoshitomi the￥＠赤bounty hunter＠白.",
+   "src": "B180:19624",
+   "carry": "rebroken",
+   "long": "Hello, Yoshitomi speaking. I'm a￥＠赤bounty hunter＠白.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23140,
+   "budget": 59,
+   "en": "(What's with that smile?) You're a￥bounty hunter?",
+   "src": "B180:19675",
+   "carry": "exact"
+  },
+  {
+   "off": 23199,
+   "budget": 15,
+   "en": "That's right.",
+   "src": "B180:19734",
+   "carry": "exact"
+  },
+  {
+   "off": 23214,
+   "budget": 17,
+   "en": "Metal, true?",
+   "src": "B180:19749",
+   "carry": "exact",
+   "long": "Is that true, Metal?"
+  },
+  {
+   "off": 23231,
+   "budget": 81,
+   "en": "He is registered, but there's no￥record of him ever eliminating a￥Snatcher.",
+   "src": "B180:19766",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23312,
+   "budget": 29,
+   "en": "A so-called land hunter.",
+   "src": "B180:19845",
+   "carry": "exact",
+   "long": "He's what you might call an armchair￥hunter."
+  },
+  {
+   "off": 23341,
+   "budget": 25,
+   "en": "Land hunter?￥What?",
+   "src": "B180:19874",
+   "carry": "exact",
+   "long": "An armchair hunter? What's that?"
+  },
+  {
+   "off": 23366,
+   "budget": 41,
+   "en": "Like a land surfer, all show.",
+   "src": "B180:19899",
+   "carry": "exact",
+   "long": "Like someone who dresses as a surfer￥but never surfs. It's all for show."
+  },
+  {
+   "off": 23407,
+   "budget": 47,
+   "en": "Hunters are oddly popular with￥girls.",
+   "src": "B180:19940",
+   "carry": "rebroken",
+   "long": "Hunters are surprisingly popular￥with girls.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23454,
+   "budget": 37,
+   "en": "So it's a fashion statement.",
+   "src": "B180:19985",
+   "carry": "exact"
+  },
+  {
+   "off": 23491,
+   "budget": 39,
+   "en": "A hunter never rests. Farewell!",
+   "src": "B180:20022",
+   "carry": "exact"
+  },
+  {
+   "off": 23530,
+   "budget": 11,
+   "en": "Yoshitomi.",
+   "src": "B180:20061",
+   "carry": "exact",
+   "long": "Yoshitomi speaking."
+  },
+  {
+   "off": 23541,
+   "budget": 53,
+   "en": "How many Snatchers have you￥disposed of?",
+   "src": "B180:20072",
+   "carry": "rebroken",
+   "long": "Forgive me for asking, but how many￥Snatchers have you eliminated?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23594,
+   "budget": 23,
+   "en": "About seven, I'd say.",
+   "src": "B180:20123",
+   "carry": "exact"
+  },
+  {
+   "off": 23617,
+   "budget": 13,
+   "en": "Big liar.",
+   "src": "B180:20146",
+   "carry": "exact",
+   "long": "You big liar."
+  },
+  {
+   "off": 23630,
+   "budget": 11,
+   "en": "W-What?!",
+   "src": "B180:20159",
+   "carry": "exact"
+  },
+  {
+   "off": 23641,
+   "budget": 65,
+   "en": "You've never dealt with a single￥one, yet you talk so big.",
+   "src": "B180:20170",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23706,
+   "budget": 33,
+   "en": "You're all show, you idiot!",
+   "src": "B180:20233",
+   "carry": "exact"
+  },
+  {
+   "off": 23739,
+   "budget": 23,
+   "en": "D-daft sod...",
+   "src": "B180:20266",
+   "carry": "exact"
+  },
+  {
+   "off": 23762,
+   "budget": 43,
+   "en": "Yoshitomi here. Out just now.",
+   "src": "B180:20289",
+   "carry": "rebroken",
+   "long": "Hello, this is Yoshitomi. I'm out￥right now.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 23805,
+   "budget": 51,
+   "en": "(Pretending he's out? That must have￥hurt.)",
+   "src": "B180:20330",
+   "carry": "candidate_ok",
+   "en_candidate": "(Pretending he's out? That must have￥hurt.)",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 23856,
+   "budget": 27,
+   "en": "Wholly in character, no?",
+   "src": "B180:20379",
+   "carry": "exact",
+   "long": "He really believed his own act."
+  },
+  {
+   "off": 23883,
+   "budget": 13,
+   "en": "A sad man.",
+   "src": "B180:20406",
+   "carry": "exact",
+   "long": "What a lonely man."
+  },
+  {
+   "off": 23896,
+   "budget": 31,
+   "en": "Quite wounded, it seemed?",
+   "src": "B180:20419",
+   "carry": "exact",
+   "long": "You seem to have hurt him quite￥badly."
+  },
+  {
+   "off": 23927,
+   "budget": 29,
+   "en": "Someone had to tell him.",
+   "src": "B180:20450",
+   "carry": "exact"
+  },
+  {
+   "off": 23956,
+   "budget": 9,
+   "en": "Meow!",
+   "src": "B180:20479",
+   "carry": "exact"
+  },
+  {
+   "off": 23965,
+   "budget": 11,
+   "en": "What?!",
+   "src": "B180:20488",
+   "carry": "exact"
+  },
+  {
+   "off": 23976,
+   "budget": 17,
+   "en": "Meow, meow!",
+   "src": "B180:20499",
+   "carry": "exact"
+  },
+  {
+   "off": 23993,
+   "budget": 15,
+   "en": "What's wrong?",
+   "src": "B180:20516",
+   "carry": "exact"
+  },
+  {
+   "off": 24008,
+   "budget": 27,
+   "en": "It's meowing.",
+   "src": "B180:20531",
+   "carry": "exact"
+  },
+  {
+   "off": 24035,
+   "budget": 25,
+   "en": "Meow, meow, meow!",
+   "src": "B180:20558",
+   "carry": "exact"
+  },
+  {
+   "off": 24060,
+   "budget": 21,
+   "en": "Meowing?",
+   "src": "B180:20583",
+   "carry": "exact"
+  },
+  {
+   "off": 24081,
+   "budget": 27,
+   "en": "Mew, mew, mew, meow!",
+   "src": "B180:20604",
+   "carry": "exact"
+  },
+  {
+   "off": 24108,
+   "budget": 21,
+   "en": "No idea. A cat?",
+   "src": "B180:20631",
+   "carry": "rebroken",
+   "long": "I don't understand. Is it a cat?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 24129,
+   "budget": 47,
+   "en": "They say Araki's true form￥is a cat.",
+   "src": "B180:20650",
+   "carry": "rebroken",
+   "long": "Come to think of it, Araki's true￥form is apparently a cat.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 24176,
+   "budget": 29,
+   "en": "Meow, meow, mew, meow!",
+   "src": "B180:20695",
+   "carry": "exact"
+  },
+  {
+   "off": 24205,
+   "budget": 35,
+   "en": "True form? Then the human one?",
+   "src": "B180:20724",
+   "carry": "rebroken",
+   "long": "True form? Then what's the￥human-shaped one?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 24240,
+   "budget": 19,
+   "en": "Mimicry, they say.",
+   "src": "B180:20757",
+   "carry": "exact",
+   "long": "Rumor has it that's a disguise."
+  },
+  {
+   "off": 24259,
+   "budget": 27,
+   "en": "Mew, mew, meow, meow!",
+   "src": "B180:20776",
+   "carry": "exact"
+  },
+  {
+   "off": 24286,
+   "budget": 25,
+   "en": "He has it rough.",
+   "src": "B180:20803",
+   "carry": "exact"
+  },
+  {
+   "off": 24311,
+   "budget": 11,
+   "en": "Woof woof!",
+   "src": "B180:20828",
+   "carry": "exact",
+   "long": "Woof, woof!"
+  },
+  {
+   "off": 24322,
+   "budget": 7,
+   "en": "Huh?",
+   "src": "B180:20839",
+   "carry": "exact"
+  },
+  {
+   "off": 24329,
+   "budget": 11,
+   "en": "W-W-Woof!",
+   "src": "B180:20846",
+   "carry": "exact"
+  },
+  {
+   "off": 24340,
+   "budget": 17,
+   "en": "A dog now...",
+   "src": "B180:20857",
+   "carry": "exact"
+  },
+  {
+   "off": 24357,
+   "budget": 15,
+   "en": "A dog?",
+   "src": "B180:20874",
+   "carry": "exact"
+  },
+  {
+   "off": 24372,
+   "budget": 23,
+   "en": "Woof! Grr! Woof!",
+   "src": "B180:20889",
+   "carry": "exact"
+  },
+  {
+   "off": 24395,
+   "budget": 23,
+   "en": "Woooof! Woof, woof!",
+   "src": "B180:20912",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 24418,
+   "budget": 29,
+   "en": "Woof! W-Woof! W-W-W-Woof!",
+   "src": "B180:20933",
+   "carry": "exact"
+  },
+  {
+   "off": 24447,
+   "budget": 11,
+   "en": "Gillian!",
+   "src": "B180:20962",
+   "carry": "exact"
+  },
+  {
+   "off": 24458,
+   "budget": 39,
+   "en": "What? Can't you see I'm talking?",
+   "src": "B180:20973",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 24497,
+   "budget": 11,
+   "en": "Awoooo!",
+   "src": "B180:21010",
+   "carry": "exact"
+  },
+  {
+   "off": 24508,
+   "budget": 11,
+   "en": "Hang up!",
+   "src": "B180:21021",
+   "carry": "exact",
+   "long": "I'm hanging up!"
+  },
+  {
+   "off": 24519,
+   "budget": 29,
+   "en": "Are you angry, little Metal?",
+   "src": "B180:21032",
+   "carry": "exact"
+  },
+  {
+   "off": 24548,
+   "budget": 95,
+   "en": "...Between us, Araki is ruled￥by strange waves from the space￥life-form 'dog'.",
+   "src": "B180:21061",
+   "carry": "rebroken",
+   "long": "Between us, Araki is supposedly￥controlled by strange radio waves￥from a mysterious alien life-form￥called Dog.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 24643,
+   "budget": 11,
+   "en": "Waves?",
+   "src": "B180:21152",
+   "carry": "exact",
+   "long": "Strange radio waves?"
+  },
+  {
+   "off": 24654,
+   "budget": 67,
+   "en": "That was close. They nearly got you￥too, Gillian.",
+   "src": "B180:21163",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 24721,
+   "budget": 25,
+   "en": "...Metal, serious?",
+   "src": "B180:21228",
+   "carry": "exact",
+   "long": "Are you serious, little Metal?"
+  },
+  {
+   "off": 24746,
+   "budget": 23,
+   "en": "Hello, Ando speaking.",
+   "src": "B180:21253",
+   "carry": "exact"
+  },
+  {
+   "off": 24769,
+   "budget": 19,
+   "en": "Ando here...",
+   "src": "B180:21276",
+   "carry": "exact"
+  },
+  {
+   "off": 24788,
+   "budget": 15,
+   "en": "Mom?",
+   "src": "B180:21295",
+   "carry": "exact"
+  },
+  {
+   "off": 24803,
+   "budget": 37,
+   "en": "Good luck hunting Snatchers.",
+   "src": "B180:21310",
+   "carry": "exact"
+  },
+  {
+   "off": 24840,
+   "budget": 21,
+   "en": "Awfully brief...",
+   "src": "B180:21347",
+   "carry": "exact"
+  },
+  {
+   "off": 24861,
+   "budget": 17,
+   "en": "Yes, Hatsumi.",
+   "src": "B180:21368",
+   "carry": "exact",
+   "long": "Hello, Hatsumi speaking."
+  },
+  {
+   "off": 24878,
+   "budget": 11,
+   "en": "Hello.",
+   "src": "B180:21385",
+   "carry": "exact"
+  },
+  {
+   "off": 24889,
+   "budget": 15,
+   "en": "Oh, Dad!",
+   "src": "B180:21396",
+   "carry": "exact"
+  },
+  {
+   "off": 24904,
+   "budget": 9,
+   "en": "Huh?",
+   "src": "B180:21411",
+   "carry": "exact"
+  },
+  {
+   "off": 24913,
+   "budget": 21,
+   "en": "How are you, Dad?",
+   "src": "B180:21420",
+   "carry": "exact"
+  },
+  {
+   "off": 24934,
+   "budget": 29,
+   "en": "Oh, er, yes. I'm f-fine.",
+   "src": "B180:21441",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 24963,
+   "budget": 27,
+   "en": "I'm doing well too.",
+   "src": "B180:21468",
+   "carry": "exact"
+  },
+  {
+   "off": 24990,
+   "budget": 35,
+   "en": "Y-Yes. That's good. Bye.",
+   "src": "B180:21495",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 25025,
+   "budget": 23,
+   "en": "Some misunderstanding.",
+   "src": "B180:21528",
+   "carry": "exact",
+   "long": "He seems to have mistaken me for￥someone."
+  },
+  {
+   "off": 25048,
+   "budget": 35,
+   "en": "Quite the acting, Gillian.",
+   "src": "B180:21551",
+   "carry": "exact",
+   "long": "An impressive performance, Gillian."
+  },
+  {
+   "off": 25083,
+   "budget": 17,
+   "en": "Yes, Takahashi.",
+   "src": "B180:21586",
+   "carry": "exact",
+   "long": "Hello, Takahashi speaking."
+  },
+  {
+   "off": 25100,
+   "budget": 23,
+   "en": "(I-it's Yumiko!)",
+   "src": "B180:21603",
+   "carry": "exact",
+   "long": "(It's Yumiko Takahashi!)"
+  },
+  {
+   "off": 25123,
+   "budget": 55,
+   "en": "A-abruptly, but tell me your￥hobby, Miss Yumiko.",
+   "src": "B180:21637",
+   "carry": "rebroken",
+   "long": "T-This is rather sudden, but what￥are your hobbies, Yumiko?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 25178,
+   "budget": 33,
+   "en": "Me? I guess fishing.",
+   "src": "B180:21690",
+   "carry": "rebroken"
+  },
+  {
+   "off": 25211,
+   "budget": 35,
+   "en": "F-fishing?￥(Something's off)",
+   "src": "B180:21723",
+   "carry": "exact",
+   "long": "F-Fishing? (That's not what I￥expected.)"
+  },
+  {
+   "off": 25246,
+   "budget": 51,
+   "en": "Then what are your special talents,￥Yumiko?",
+   "src": "B180:21758",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 25297,
+   "budget": 41,
+   "en": "Skill? Hmm...￥Tsugaru shamisen.",
+   "src": "B180:21807",
+   "carry": "rebroken",
+   "long": "Special talents? Hmm. I can play the￥Tsugaru shamisen."
+  },
+  {
+   "off": 25338,
+   "budget": 43,
+   "en": "...!￥R-rather sober for an idol.",
+   "src": "B180:21848",
+   "carry": "exact",
+   "long": "T-That's an unusual choice for a pop￥idol."
+  },
+  {
+   "off": 25381,
+   "budget": 19,
+   "en": "Um, hello?",
+   "src": "B180:21891",
+   "carry": "exact"
+  },
+  {
+   "off": 25400,
+   "budget": 45,
+   "en": "I said not to raise that￥name matter!",
+   "src": "B180:21910",
+   "carry": "rebroken",
+   "long": "I told them not to bring up that￥woman with the same name!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 25445,
+   "budget": 37,
+   "en": "Yes, the Takahashi never on TV.",
+   "src": "B180:21953",
+   "carry": "exact",
+   "long": "Hello, this is the Takahashi who's￥never been on TV."
+  },
+  {
+   "off": 25482,
+   "budget": 11,
+   "en": "Ugh...",
+   "src": "B180:21990",
+   "carry": "exact"
+  },
+  {
+   "off": 25493,
+   "budget": 19,
+   "en": "Takahashi, Konami.",
+   "src": "B180:22001",
+   "carry": "exact",
+   "long": "Takahashi from Konami."
+  },
+  {
+   "off": 25512,
+   "budget": 21,
+   "en": "Takahashi, Dev 7.",
+   "src": "B180:22020",
+   "carry": "exact",
+   "long": "Takahashi from Development Division￥7."
+  },
+  {
+   "off": 25533,
+   "budget": 29,
+   "en": "I-I'm very sorry.",
+   "src": "B180:22041",
+   "carry": "exact"
+  },
+  {
+   "off": 25562,
+   "budget": 19,
+   "en": "Good, if you know.",
+   "src": "B180:22070",
+   "carry": "candidate_ok",
+   "en_candidate": "Good, if you know.",
+   "sim": 0.89,
+   "long": "As long as you understand."
+  },
+  {
+   "off": 25581,
+   "budget": 29,
+   "en": "You seem to have upset her.",
+   "src": "B180:22089",
+   "carry": "exact"
+  },
+  {
+   "off": 25610,
+   "budget": 25,
+   "en": "So she's someone else.",
+   "src": "B180:22118",
+   "carry": "exact"
+  },
+  {
+   "off": 25635,
+   "budget": 35,
+   "en": "Though she HAS been on TV...",
+   "carry": "new"
+  },
+  {
+   "off": 25670,
+   "budget": 21,
+   "en": "Is that true, Metal?",
+   "carry": "new"
+  },
+  {
+   "off": 25691,
+   "budget": 99,
+   "en": "By the data,￥a local TV station broadcast her￥in full, competing in a folk￥song contest.",
+   "carry": "new"
+  },
+  {
+   "off": 25790,
+   "budget": 9,
+   "en": "....",
+   "carry": "new"
+  },
+  {
+   "off": 25799,
+   "budget": 27,
+   "en": "Quite conspicuous, I hear.",
+   "carry": "new"
+  },
+  {
+   "off": 25826,
+   "budget": 43,
+   "en": "Hmm...￥Don't underrate Yumiko Takahashi!!",
+   "carry": "new"
+  },
+  {
+   "off": 25869,
+   "budget": 27,
+   "en": "Yes, this is Komatsubara.",
+   "src": "B180:22143",
+   "carry": "exact",
+   "long": "Hello, Komatsubara speaking."
+  },
+  {
+   "off": 25896,
+   "budget": 19,
+   "en": "Um, hello.",
+   "src": "B180:22170",
+   "carry": "exact"
+  },
+  {
+   "off": 25915,
+   "budget": 59,
+   "en": "Yes?ω Just a moment.￥What is it, Shin? That's my little￥brother.",
+   "src": "B180:22189",
+   "carry": "candidate_edit",
+   "en_candidate": "Yes? One moment...￥What, Shin dear (brother)?",
+   "sim": 0.98,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the punctuation as in the jp; re-adapted 2026-09-30: new PS1 long, ω kept after ?"
+  },
+  {
+   "off": 25974,
+   "budget": 7,
+   "en": "Huh?",
+   "src": "B180:22246",
+   "carry": "exact"
+  },
+  {
+   "off": 25981,
+   "budget": 53,
+   "en": "Oh, sorry. What can I do for you?￥Hey, you!",
+   "src": "B180:22253",
+   "carry": "exact"
+  },
+  {
+   "off": 26034,
+   "budget": 29,
+   "en": "(Don't smoke sis's cigs!)",
+   "src": "B180:22306",
+   "carry": "exact",
+   "long": "(Don't smoke your sister's￥cigarettes!)"
+  },
+  {
+   "off": 26063,
+   "budget": 27,
+   "en": "(Come on!ω Don't be so stingy!)",
+   "src": "B180:22335",
+   "carry": "candidate_edit",
+   "en_candidate": "(Who cares! Cheapskate!)",
+   "sim": 0.96,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the punctuation as in the jp; re-adapted 2026-09-30: new PS1 long, ω kept after !"
+  },
+  {
+   "off": 26090,
+   "budget": 37,
+   "en": "A sibling row off in the distance.",
+   "src": "B180:22360",
+   "carry": "exact",
+   "long": "Sounds like a sibling fight in the￥background."
+  },
+  {
+   "off": 26127,
+   "budget": 39,
+   "en": "Sorry again. What can I do for you?",
+   "src": "B180:22397",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 26166,
+   "budget": 15,
+   "en": "(Who's that?ω A guy?)",
+   "src": "B180:22434",
+   "carry": "candidate_edit",
+   "en_candidate": "(Who? Male?)",
+   "sim": 0.92,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the punctuation as in the jp; re-adapted 2026-09-30: new PS1 long, ω kept after ?"
+  },
+  {
+   "off": 26181,
+   "budget": 15,
+   "en": "(Hey!)",
+   "src": "B180:22447",
+   "carry": "exact"
+  },
+  {
+   "off": 26196,
+   "budget": 21,
+   "en": "This won't do...",
+   "src": "B180:22462",
+   "carry": "exact"
+  },
+  {
+   "off": 26217,
+   "budget": 21,
+   "en": "(Cobra Twist!)",
+   "src": "B180:22483",
+   "carry": "exact"
+  },
+  {
+   "off": 26238,
+   "budget": 19,
+   "en": "(Ugh!ω Aaagh!)",
+   "src": "B180:22504",
+   "carry": "candidate_edit",
+   "en_candidate": "(Ugh! Aaagh!)",
+   "sim": 0.94,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the punctuation as in the jp; re-adapted 2026-09-30: new PS1 wording, ω kept after !"
+  },
+  {
+   "off": 26257,
+   "budget": 25,
+   "en": "(Next up, a keylock!)",
+   "src": "B180:22521",
+   "carry": "exact"
+  },
+  {
+   "off": 26282,
+   "budget": 15,
+   "en": "(Spare me~)",
+   "src": "B180:22546",
+   "carry": "exact"
+  },
+  {
+   "off": 26297,
+   "budget": 33,
+   "en": "All that over one cigarette? Ugly.",
+   "src": "B180:22561",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 26330,
+   "budget": 19,
+   "en": "Let's hang up...",
+   "src": "B180:22596",
+   "carry": "exact"
+  },
+  {
+   "off": 26349,
+   "budget": 63,
+   "en": "Yes, Kiyohara. I'm at the￥programmer Mizutani's house.",
+   "src": "B180:22615",
+   "carry": "rebroken",
+   "long": "Hello, this is Kiyohara. I'm at our￥programmer Mizutani's house.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 26412,
+   "budget": 55,
+   "en": "If you need me, please call￥＠赤44-3667＠白.",
+   "src": "B180:22674",
+   "carry": "candidate_edit",
+   "en_candidate": "If you need me, please call￥＠赤71-1220＠白.",
+   "sim": 0.77,
+   "note": "re-adapted 2026-09-30: own number kept; new PS1 wording"
+  },
+  {
+   "off": 26467,
+   "budget": 47,
+   "en": "No time for you lot to be￥gaming!",
+   "src": "B180:22727",
+   "carry": "rebroken",
+   "long": "You shouldn't spend all your time￥playing games!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 26514,
+   "budget": 17,
+   "en": "Play outside.",
+   "src": "B180:22772",
+   "carry": "exact",
+   "long": "Go play outside! Outside!"
+  },
+  {
+   "off": 26531,
+   "budget": 23,
+   "en": "He sounded angry.",
+   "src": "B180:22789",
+   "carry": "exact"
+  },
+  {
+   "off": 26554,
+   "budget": 21,
+   "en": "Short of calcium?",
+   "src": "B180:22812",
+   "carry": "exact",
+   "long": "Maybe he needs more calcium."
+  },
+  {
+   "off": 26575,
+   "budget": 23,
+   "en": "Yes, Tacchan here.",
+   "src": "B180:22833",
+   "carry": "exact",
+   "long": "Hello, this is Tacchan."
+  },
+  {
+   "off": 26598,
+   "budget": 65,
+   "en": "This winter I meant to rent￥a warehouse on Tokyo Bay...",
+   "src": "B180:22856",
+   "carry": "rebroken",
+   "long": "I was planning to rent a warehouse￥on Tokyo Bay and move in this￥winter.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 26663,
+   "budget": 47,
+   "en": "Might die of cold, so I gave￥it up.",
+   "src": "B180:22919",
+   "carry": "candidate_ok",
+   "en_candidate": "Might die of cold, so I gave￥it up.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "But I might freeze to death, so I￥decided against it."
+  },
+  {
+   "off": 26710,
+   "budget": 35,
+   "en": "I call myself a biker.",
+   "src": "B180:22962",
+   "carry": "exact",
+   "long": "Believe it or not, I call myself a￥biker."
+  },
+  {
+   "off": 26745,
+   "budget": 29,
+   "en": "But I only own a bicycle.",
+   "src": "B180:22997",
+   "carry": "exact"
+  },
+  {
+   "off": 26774,
+   "budget": 19,
+   "en": "Well, goodbye.",
+   "src": "B180:23026",
+   "carry": "exact"
+  },
+  {
+   "off": 26793,
+   "budget": 43,
+   "en": "Hello, Neo Kobe City Police.",
+   "src": "B180:23045",
+   "carry": "exact"
+  },
+  {
+   "off": 26836,
+   "budget": 9,
+   "en": "Whoa!",
+   "src": "B180:23088",
+   "carry": "exact"
+  },
+  {
+   "off": 26845,
+   "budget": 45,
+   "en": "Gillian. Don't call for nothing.",
+   "src": "B180:23097",
+   "carry": "rebroken",
+   "long": "Gillian, don't call them without a￥reason.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 26890,
+   "budget": 59,
+   "en": "Again, Gillian? Don't call them￥without a reason.",
+   "src": "B180:23140",
+   "carry": "exact"
+  },
+  {
+   "off": 26949,
+   "budget": 15,
+   "en": "Hello...",
+   "src": "B180:23199",
+   "carry": "exact"
+  },
+  {
+   "off": 26964,
+   "budget": 19,
+   "en": "Something wrong?",
+   "src": "B180:23214",
+   "carry": "exact",
+   "long": "Is something wrong?"
+  },
+  {
+   "off": 26983,
+   "budget": 19,
+   "en": "I'm hanging up.",
+   "src": "B180:23233",
+   "carry": "exact"
+  },
+  {
+   "off": 27002,
+   "budget": 35,
+   "en": "This is Snatcher 110.",
+   "src": "B180:23252",
+   "carry": "exact",
+   "long": "You've reached the Snatcher￥emergency hotline."
+  },
+  {
+   "off": 27037,
+   "budget": 31,
+   "en": "...This line records itself.",
+   "src": "B180:23287",
+   "carry": "exact",
+   "long": "This is an automated recording line."
+  },
+  {
+   "off": 27068,
+   "budget": 41,
+   "en": "State your business in￥30 seconds.",
+   "src": "B180:23318",
+   "carry": "exact",
+   "long": "Please state your message clearly,￥in thirty seconds or less."
+  },
+  {
+   "off": 27109,
+   "budget": 67,
+   "en": "It will be dealt with at once￥through the HQ computer.",
+   "src": "B180:23359",
+   "carry": "exact",
+   "long": "Your report will be processed￥promptly through the headquarters￥computer, according to its content."
+  },
+  {
+   "off": 27176,
+   "budget": 31,
+   "en": "Please stay calm and speak.",
+   "src": "B180:23426",
+   "carry": "exact",
+   "long": "Please remain calm while speaking."
+  },
+  {
+   "off": 27207,
+   "budget": 23,
+   "en": "Please begin.",
+   "src": "B180:23457",
+   "carry": "exact"
+  },
+  {
+   "off": 27230,
+   "budget": 21,
+   "en": "Understood.",
+   "src": "B180:23480",
+   "carry": "exact"
+  },
+  {
+   "off": 27251,
+   "budget": 51,
+   "en": "Thank you... Konami dev info￥bureau here.",
+   "src": "B180:23501",
+   "carry": "rebroken",
+   "long": "Thank you for calling Konami's￥Development Information Office.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 27302,
+   "budget": 65,
+   "en": "For you alone, a secret perhaps￥nobody knows.",
+   "src": "B180:23550",
+   "carry": "rebroken",
+   "long": "Just for you, here's some top-secret￥information that perhaps no one else￥knows.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 27367,
+   "budget": 97,
+   "en": "Konami favorites like TwinBee,￥Dracula, and Goemon are coming to￥Sega Saturn, one after another!",
+   "src": "B180:23613",
+   "carry": "candidate_edit",
+   "en_candidate": "Konami favorites like TwinBee,￥Dracula, and Goemon are coming to￥PlayStation, one after another!",
+   "sim": 0.88,
+   "note": "re-adapted 2026-09-30: Sega Saturn kept; new PS1 wording"
+  },
+  {
+   "off": 27464,
+   "budget": 15,
+   "en": "Stay tuned!!",
+   "src": "B180:23716",
+   "carry": "exact",
+   "long": "Look forward to it!"
+  },
+  {
+   "off": 27479,
+   "budget": 97,
+   "en": "A new sort of driving action,￥cutting through crowded traffic with￥sharp cornering...",
+   "src": "B180:23731",
+   "carry": "rebroken",
+   "long": "A new kind of driving action lets￥you weave through ordinary traffic￥with sharp cornering!",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 27576,
+   "budget": 45,
+   "en": "Midnight Run! It's incredibly fun!",
+   "src": "B180:23824",
+   "carry": "exact"
+  },
+  {
+   "off": 27621,
+   "budget": 47,
+   "en": "We look forward to your fan letters.",
+   "src": "B180:23869",
+   "carry": "candidate_ok",
+   "en_candidate": "We look forward to your fan letters.",
+   "sim": 0.93
+  },
+  {
+   "off": 27668,
+   "budget": 27,
+   "en": "Goodbye!",
+   "src": "B180:23912",
+   "carry": "exact"
+  },
+  {
+   "off": 27695,
+   "budget": 49,
+   "en": "Er...￥The name's Gillian Seed.",
+   "carry": "new"
+  },
+  {
+   "off": 27744,
+   "budget": 47,
+   "en": "Want to go to the shops￥on December 21?",
+   "carry": "new"
+  },
+  {
+   "off": 27791,
+   "budget": 83,
+   "en": "Then on December 21,￥let's meet in front of￥'Joy Division'.",
+   "carry": "new"
+  },
+  {
+   "off": 27874,
+   "budget": 39,
+   "en": "Want to see the zoo￥on December 28?",
+   "carry": "new"
+  },
+  {
+   "off": 27913,
+   "budget": 75,
+   "en": "Then on December 28,￥let's meet in front of￥'Bio Zoo'.",
+   "carry": "new"
+  },
+  {
+   "off": 27988,
+   "budget": 35,
+   "en": "Funfair, January 4.￥Want to go?",
+   "carry": "new"
+  },
+  {
+   "off": 28023,
+   "budget": 83,
+   "en": "Then on January 4,￥let's meet in front of￥'Neo Portopia Land'.",
+   "carry": "new"
+  },
+  {
+   "off": 28106,
+   "budget": 37,
+   "en": "Aquarium, January 11.￥Want to go?",
+   "carry": "new"
+  },
+  {
+   "off": 28143,
+   "budget": 71,
+   "en": "Then on January 11,￥let's meet in front of￥the 'VR Aquarium'.",
+   "carry": "new"
+  },
+  {
+   "off": 28214,
+   "budget": 47,
+   "en": "Kirameki Central Park,￥Jan 18. Want to go?",
+   "carry": "new"
+  },
+  {
+   "off": 28261,
+   "budget": 73,
+   "en": "Then on January 18,￥let's meet in front of￥Kirameki Central Park.",
+   "carry": "new"
+  },
+  {
+   "off": 28334,
+   "budget": 13,
+   "en": "￥  Click",
+   "carry": "new"
+  },
+  {
+   "off": 28347,
+   "budget": 41,
+   "en": "Yes!￥Can't wait for December 21.",
+   "carry": "new"
+  },
+  {
+   "off": 28388,
+   "budget": 41,
+   "en": "Yes!￥Can't wait for December 28.",
+   "carry": "new"
+  },
+  {
+   "off": 28429,
+   "budget": 37,
+   "en": "Yes!￥Can't wait for January 4.",
+   "carry": "new"
+  },
+  {
+   "off": 28466,
+   "budget": 39,
+   "en": "Yes!￥Can't wait for January 11.",
+   "carry": "new"
+  },
+  {
+   "off": 28505,
+   "budget": 39,
+   "en": "Yes!￥Can't wait for January 18.",
+   "carry": "new"
+  },
+  {
+   "off": 28544,
+   "budget": 25,
+   "en": "I talk like her now.",
+   "carry": "new"
+  },
+  {
+   "off": 28569,
+   "budget": 35,
+   "en": "Blast. Next time,￥she says yes.",
+   "carry": "new"
+  },
+  {
+   "off": 28604,
+   "budget": 17,
+   "en": "Yes, Nijino.",
+   "carry": "new"
+  },
+  {
+   "off": 28621,
+   "budget": 17,
+   "en": "Fujisaki here.",
+   "carry": "new"
+  },
+  {
+   "off": 28638,
+   "budget": 17,
+   "en": "Yes, Kisaragi.",
+   "carry": "new"
+  },
+  {
+   "off": 28655,
+   "budget": 17,
+   "en": "Yes, Himoo.",
+   "carry": "new"
+  },
+  {
+   "off": 28672,
+   "budget": 17,
+   "en": "Yes, Katagiri.",
+   "carry": "new"
+  },
+  {
+   "off": 28689,
+   "budget": 25,
+   "en": "Yes, Koshiki speaking.",
+   "carry": "new"
+  },
+  {
+   "off": 28714,
+   "budget": 17,
+   "en": "Yes, Kiyokawa.",
+   "carry": "new"
+  },
+  {
+   "off": 28731,
+   "budget": 15,
+   "en": "Yes, Kagami.",
+   "carry": "new"
+  },
+  {
+   "off": 28746,
+   "budget": 19,
+   "en": "Yes, Asahina.",
+   "carry": "new"
+  },
+  {
+   "off": 28765,
+   "budget": 19,
+   "en": "Yes, Mikihara.",
+   "carry": "new"
+  },
+  {
+   "off": 28784,
+   "budget": 19,
+   "en": "Yes, Saotome.",
+   "carry": "new"
+  },
+  {
+   "off": 28803,
+   "budget": 31,
+   "en": "Seed?￥Oh, what is it?",
+   "carry": "new"
+  },
+  {
+   "off": 28834,
+   "budget": 27,
+   "en": "Gillian?￥What's it today?",
+   "carry": "new"
+  },
+  {
+   "off": 28861,
+   "budget": 31,
+   "en": "Seed?￥What can I do for you?",
+   "carry": "new"
+  },
+  {
+   "off": 28892,
+   "budget": 45,
+   "en": "Seed.￥Rather forward lately.￥What is it?",
+   "carry": "new"
+  },
+  {
+   "off": 28937,
+   "budget": 31,
+   "en": "Oh, Seed.￥What is it?",
+   "carry": "new"
+  },
+  {
+   "off": 28968,
+   "budget": 47,
+   "en": "Oh, Mr. Seed.￥What might I do for you?",
+   "carry": "new"
+  },
+  {
+   "off": 29015,
+   "budget": 35,
+   "en": "What, Seed.￥Business with me?",
+   "carry": "new"
+  },
+  {
+   "off": 29050,
+   "budget": 69,
+   "en": "Seed?￥Calls all day...￥Being too popular is￥such a bother.",
+   "carry": "new"
+  },
+  {
+   "off": 29119,
+   "budget": 19,
+   "en": "So, what is it?",
+   "carry": "new"
+  },
+  {
+   "off": 29138,
+   "budget": 31,
+   "en": "Seed?￥What?￥What's wrong?",
+   "carry": "new"
+  },
+  {
+   "off": 29169,
+   "budget": 31,
+   "en": "Mr. Seed.￥How can I help?",
+   "carry": "new"
+  },
+  {
+   "off": 29200,
+   "budget": 37,
+   "en": "Ah, Mr. Seed.￥Something for Yumi?",
+   "carry": "new"
+  },
+  {
+   "off": 29237,
+   "budget": 31,
+   "en": "Gillian?￥B-business with me?",
+   "carry": "new"
+  },
+  {
+   "off": 29268,
+   "budget": 11,
+   "en": "Ah...",
+   "src": "B220:16696",
+   "carry": "exact",
+   "note": "from B220"
+  },
+  {
+   "off": 29279,
+   "budget": 19,
+   "en": "Eh? What's wrong?",
+   "carry": "new"
+  },
+  {
+   "off": 29298,
+   "budget": 53,
+   "en": "No, it's nothing.￥Anyway, what is it today?",
+   "carry": "new"
+  },
+  {
+   "off": 29351,
+   "budget": 47,
+   "en": "Gillian...?￥Er, what can I do for you?",
+   "carry": "new"
+  },
+  {
+   "off": 29398,
+   "budget": 61,
+   "en": "Eh, Gillian.￥Something you want of me?￥Out with it, then.",
+   "carry": "new"
+  },
+  {
+   "off": 29459,
+   "budget": 35,
+   "en": "Eh, Gillian.￥S-something with me?",
+   "carry": "new"
+  },
+  {
+   "off": 29494,
+   "budget": 51,
+   "en": "My, Mr. Gillian.￥What might I do for you today?",
+   "carry": "new"
+  },
+  {
+   "off": 29545,
+   "budget": 35,
+   "en": "Eh, Gillian.￥Something with me?",
+   "carry": "new"
+  },
+  {
+   "off": 29580,
+   "budget": 71,
+   "en": "Eh, Gillian?￥I thought it was about time￥you called me.",
+   "carry": "new"
+  },
+  {
+   "off": 29651,
+   "budget": 65,
+   "en": "Ah, Gillian.￥Hold on a moment.￥Hikari, Ei, quiet down.",
+   "carry": "new"
+  },
+  {
+   "off": 29716,
+   "budget": 65,
+   "en": "Ah, Gillian.￥Hold on a moment.￥Teru, Kagami, quiet down.",
+   "carry": "new"
+  },
+  {
+   "off": 29781,
+   "budget": 65,
+   "en": "Ah, Gillian.￥Hold on a moment.￥Wari, Akira, quiet down.",
+   "carry": "new"
+  },
+  {
+   "off": 29846,
+   "budget": 25,
+   "en": "Lively house you have.",
+   "carry": "new"
+  },
+  {
+   "off": 29871,
+   "budget": 57,
+   "en": "I-it's not usually￥like this.￥Anyway, what is it?",
+   "carry": "new"
+  },
+  {
+   "off": 29928,
+   "budget": 57,
+   "en": "Gillian?￥Perfect timing.￥Just before I went out.",
+   "carry": "new"
+  },
+  {
+   "off": 29985,
+   "budget": 13,
+   "en": "Well, what?",
+   "carry": "new"
+  },
+  {
+   "off": 29998,
+   "budget": 19,
+   "en": "........",
+   "carry": "new"
+  },
+  {
+   "off": 30017,
+   "budget": 23,
+   "en": "Hello, what's wrong?",
+   "carry": "new"
+  },
+  {
+   "off": 30040,
+   "budget": 43,
+   "en": "S-sorry.￥What can I do for you?",
+   "carry": "new"
+  },
+  {
+   "off": 30083,
+   "budget": 37,
+   "en": "Mr. Gillian?￥Business with Yumi?",
+   "carry": "new"
+  },
+  {
+   "off": 30120,
+   "budget": 33,
+   "en": "Er....￥Yes, all right.",
+   "carry": "new"
+  },
+  {
+   "off": 30153,
+   "budget": 35,
+   "en": "Let's see....￥Yes, sure.",
+   "carry": "new"
+  },
+  {
+   "off": 30188,
+   "budget": 35,
+   "en": "Let me see...￥Yes, that's fine.",
+   "carry": "new"
+  },
+  {
+   "off": 30223,
+   "budget": 51,
+   "en": "Oh, what a pity.￥I happen to be free￥that day.",
+   "carry": "new"
+  },
+  {
+   "off": 30274,
+   "budget": 43,
+   "en": "Hold on....￥OK.￥That's fine.",
+   "carry": "new"
+  },
+  {
+   "off": 30317,
+   "budget": 57,
+   "en": "One moment, please....￥Let me see.￥That seems fine.",
+   "carry": "new"
+  },
+  {
+   "off": 30374,
+   "budget": 15,
+   "en": "Sure, fine.",
+   "carry": "new"
+  },
+  {
+   "off": 30389,
+   "budget": 17,
+   "en": "Yes, all right.",
+   "carry": "new"
+  },
+  {
+   "off": 30406,
+   "budget": 61,
+   "en": "Hold on....￥Oh, I'm free for once.￥All right.",
+   "carry": "new"
+  },
+  {
+   "off": 30467,
+   "budget": 45,
+   "en": "Lucky.￥I happen to be free￥that day.",
+   "carry": "new"
+  },
+  {
+   "off": 30512,
+   "budget": 45,
+   "en": "Eh.￥Y-yes....￥Gladly....",
+   "carry": "new"
+  },
+  {
+   "off": 30557,
+   "budget": 37,
+   "en": "OK, got it.￥Don't be late.",
+   "carry": "new"
+  },
+  {
+   "off": 30594,
+   "budget": 33,
+   "en": "I know, I know.￥See you, then.",
+   "carry": "new"
+  },
+  {
+   "off": 30627,
+   "budget": 39,
+   "en": "Yes, all right.￥Don't forget, now.",
+   "carry": "new"
+  },
+  {
+   "off": 30666,
+   "budget": 35,
+   "en": "As if I'd forget.￥See you, then.",
+   "carry": "new"
+  },
+  {
+   "off": 30701,
+   "budget": 21,
+   "en": "Yes, understood.",
+   "carry": "new"
+  },
+  {
+   "off": 30722,
+   "budget": 23,
+   "en": "Then it's a promise.",
+   "carry": "new"
+  },
+  {
+   "off": 30745,
+   "budget": 21,
+   "en": "Giving me orders?",
+   "carry": "new"
+  },
+  {
+   "off": 30766,
+   "budget": 37,
+   "en": "Then, where shall￥we meet?",
+   "carry": "new"
+  },
+  {
+   "off": 30803,
+   "budget": 61,
+   "en": "...That place is fine.￥If that's all,￥I'm hanging up.",
+   "carry": "new"
+  },
+  {
+   "off": 30864,
+   "budget": 49,
+   "en": "I see, all right.￥Hanging up, then.",
+   "carry": "new"
+  },
+  {
+   "off": 30913,
+   "budget": 51,
+   "en": "Yes, understood.￥I'll be sure not to be late.",
+   "carry": "new"
+  },
+  {
+   "off": 30964,
+   "budget": 21,
+   "en": "See you next time.",
+   "carry": "new"
+  },
+  {
+   "off": 30985,
+   "budget": 31,
+   "en": "Got it.￥Don't be late, now.",
+   "carry": "new"
+  },
+  {
+   "off": 31016,
+   "budget": 41,
+   "en": "That goes both ways.￥Well then...",
+   "carry": "new"
+  },
+  {
+   "off": 31057,
+   "budget": 35,
+   "en": "Got it.￥Don't be late, mind.",
+   "carry": "new"
+  },
+  {
+   "off": 31092,
+   "budget": 59,
+   "en": "You probably know,￥but I don't like￥being kept waiting.",
+   "carry": "new"
+  },
+  {
+   "off": 31151,
+   "budget": 27,
+   "en": "I know.￥Well then.",
+   "carry": "new"
+  },
+  {
+   "off": 31178,
+   "budget": 33,
+   "en": "Yes, got it.￥Be sure to come.",
+   "carry": "new"
+  },
+  {
+   "off": 31211,
+   "budget": 23,
+   "en": "Eh? I can't hear you.",
+   "carry": "new"
+  },
+  {
+   "off": 31234,
+   "budget": 31,
+   "en": "Ah, yes... understood.",
+   "carry": "new"
+  },
+  {
+   "off": 31265,
+   "budget": 25,
+   "en": "Then don't forget.",
+   "carry": "new"
+  },
+  {
+   "off": 31290,
+   "budget": 55,
+   "en": "Got it.￥Break it and it's￥a thousand needles.",
+   "carry": "new"
+  },
+  {
+   "off": 31345,
+   "budget": 53,
+   "en": "Hahaha... I won't forget.￥Say hello to Yoshio.",
+   "carry": "new"
+  },
+  {
+   "off": 31398,
+   "budget": 69,
+   "en": "Oh...￥I've a promise that day....￥Sorry, it seems I can't.",
+   "carry": "new"
+  },
+  {
+   "off": 31467,
+   "budget": 21,
+   "en": "What!￥Really?",
+   "carry": "new"
+  },
+  {
+   "off": 31488,
+   "budget": 47,
+   "en": "Sorry....￥Ask me again￥some time...?",
+   "carry": "new"
+  },
+  {
+   "off": 31535,
+   "budget": 35,
+   "en": "OK, got it.￥Next time, then.",
+   "carry": "new"
+  },
+  {
+   "off": 31570,
+   "budget": 53,
+   "en": "Ah, I've club that day....￥Maybe I'll skip it?",
+   "carry": "new"
+  },
+  {
+   "off": 31623,
+   "budget": 55,
+   "en": "I'm glad, but if you've plans,￥you should go to them.",
+   "carry": "new"
+  },
+  {
+   "off": 31678,
+   "budget": 61,
+   "en": "Yes....￥Sorry....￥Will you ask me again￥some time...?",
+   "carry": "new"
+  },
+  {
+   "off": 31739,
+   "budget": 31,
+   "en": "Gladly.￥Next time, then.",
+   "carry": "new"
+  },
+  {
+   "off": 31770,
+   "budget": 57,
+   "en": "Let's see....￥I'm sorry.￥I've something on that day.",
+   "carry": "new"
+  },
+  {
+   "off": 31827,
+   "budget": 31,
+   "en": "When you asked so nicely...",
+   "carry": "new"
+  },
+  {
+   "off": 31858,
+   "budget": 33,
+   "en": "I-it's fine.￥I don't mind.",
+   "carry": "new"
+  },
+  {
+   "off": 31891,
+   "budget": 21,
+   "en": "Ask me again, OK?",
+   "carry": "new"
+  },
+  {
+   "off": 31912,
+   "budget": 31,
+   "en": "Yes, I will.￥See you, then.",
+   "carry": "new"
+  },
+  {
+   "off": 31943,
+   "budget": 55,
+   "en": "I'm sorry....￥I've a prior promise￥that day....",
+   "carry": "new"
+  },
+  {
+   "off": 31998,
+   "budget": 23,
+   "en": "Ah, I see....",
+   "carry": "new"
+  },
+  {
+   "off": 32021,
+   "budget": 53,
+   "en": "You were kind enough to ask,￥and I'm sorry....",
+   "carry": "new"
+  },
+  {
+   "off": 32074,
+   "budget": 51,
+   "en": "I'll ask another day.￥Sorry on my side, too.",
+   "carry": "new"
+  },
+  {
+   "off": 32125,
+   "budget": 43,
+   "en": "Oh, what a shame.￥I'm not free that day.",
+   "carry": "new"
+  },
+  {
+   "off": 32168,
+   "budget": 29,
+   "en": "I see....￥A bit of a pity.",
+   "carry": "new"
+  },
+  {
+   "off": 32197,
+   "budget": 23,
+   "en": "Busy with research.",
+   "carry": "new"
+  },
+  {
+   "off": 32220,
+   "budget": 43,
+   "en": "Sorry, you're busy.￥See you, then.",
+   "carry": "new"
+  },
+  {
+   "off": 32263,
+   "budget": 47,
+   "en": "Oh dear.￥I've a bit of a￥promise that day.",
+   "carry": "new"
+  },
+  {
+   "off": 32310,
+   "budget": 21,
+   "en": "Oh, is that so.",
+   "carry": "new"
+  },
+  {
+   "off": 32331,
+   "budget": 53,
+   "en": "Sorry, but￥could you ask again some time?￥Sorry.",
+   "carry": "new"
+  },
+  {
+   "off": 32384,
+   "budget": 35,
+   "en": "Yes, I'll do that.￥See you, then.",
+   "carry": "new"
+  },
+  {
+   "off": 32419,
+   "budget": 89,
+   "en": "One moment, please....￥Let me see... it seems I have￥another engagement that day....",
+   "carry": "new"
+  },
+  {
+   "off": 32508,
+   "budget": 29,
+   "en": "Oh, is that so....",
+   "carry": "new"
+  },
+  {
+   "off": 32537,
+   "budget": 69,
+   "en": "I'm terribly sorry.￥I would so have liked to￥join you....",
+   "carry": "new"
+  },
+  {
+   "off": 32606,
+   "budget": 83,
+   "en": "Please don't mind it.￥Next time, then, without fail....￥I'll take my leave.",
+   "carry": "new"
+  },
+  {
+   "off": 32689,
+   "budget": 45,
+   "en": "Ehh.￥Not that day.￥I've something on.",
+   "carry": "new"
+  },
+  {
+   "off": 32734,
+   "budget": 15,
+   "en": "Ah, I see.",
+   "carry": "new"
+  },
+  {
+   "off": 32749,
+   "budget": 39,
+   "en": "Sorry.￥Will you ask me next time?",
+   "carry": "new"
+  },
+  {
+   "off": 32788,
+   "budget": 39,
+   "en": "Yes, let's.￥Next time, then.",
+   "carry": "new"
+  },
+  {
+   "off": 32827,
+   "budget": 57,
+   "en": "Oh, a pity....￥That day I've a date￥with someone else.",
+   "carry": "new"
+  },
+  {
+   "off": 32884,
+   "budget": 17,
+   "en": "As I thought.",
+   "carry": "new"
+  },
+  {
+   "off": 32901,
+   "budget": 51,
+   "en": "If only you had￥asked me a little￥sooner.",
+   "carry": "new"
+  },
+  {
+   "off": 32952,
+   "budget": 35,
+   "en": "I will from now on.￥Well then.",
+   "carry": "new"
+  },
+  {
+   "off": 32987,
+   "budget": 53,
+   "en": "Whaat.￥Why that day?￥I've already made plans.",
+   "carry": "new"
+  },
+  {
+   "off": 33040,
+   "budget": 47,
+   "en": "Sorry, I should have￥called a bit sooner.",
+   "carry": "new"
+  },
+  {
+   "off": 33087,
+   "budget": 63,
+   "en": "Aah.￥I wanted to go out with you.￥Next time, ask sooner.",
+   "carry": "new"
+  },
+  {
+   "off": 33150,
+   "budget": 25,
+   "en": "Got it.￥Well then.",
+   "carry": "new"
+  },
+  {
+   "off": 33175,
+   "budget": 13,
+   "en": "What is it?",
+   "src": "B100:16830",
+   "carry": "exact",
+   "long": "What's wrong?",
+   "note": "from B100"
+  },
+  {
+   "off": 33188,
+   "budget": 55,
+   "en": "I'm sorry....￥That day,￥I've a promise....",
+   "carry": "new"
+  },
+  {
+   "off": 33243,
+   "budget": 41,
+   "en": "Oh, don't worry￥about that.",
+   "carry": "new"
+  },
+  {
+   "off": 33284,
+   "budget": 45,
+   "en": "Um....￥Please ask me￥again some time....",
+   "carry": "new"
+  },
+  {
+   "off": 33329,
+   "budget": 29,
+   "en": "Yes, I will.￥Bye, then.",
+   "carry": "new"
+  },
+  {
+   "off": 33358,
+   "budget": 63,
+   "en": "I'm sorry.￥Yumi's promised her friends￥that day....",
+   "carry": "new"
+  },
+  {
+   "off": 33421,
+   "budget": 19,
+   "en": "Oh, is that so.",
+   "carry": "new"
+  },
+  {
+   "off": 33440,
+   "budget": 29,
+   "en": "Ah well.￥Truly a pity.",
+   "carry": "new"
+  },
+  {
+   "off": 33469,
+   "budget": 43,
+   "en": "Another time, then.￥Say hello to Yoshio.",
+   "carry": "new"
+  },
+  {
+   "off": 33512,
+   "budget": 11,
+   "en": "Gillian?",
+   "src": "B070:14070",
+   "carry": "exact",
+   "note": "from B070"
+  },
+  {
+   "off": 33523,
+   "budget": 21,
+   "en": "Who are you calling?",
+   "carry": "new"
+  },
+  {
+   "off": 33544,
+   "budget": 33,
+   "en": "Gillian, no two-timing.",
+   "carry": "new"
+  },
+  {
+   "off": 33577,
+   "budget": 13,
+   "en": "It's Ijuin.",
+   "carry": "new"
+  },
+  {
+   "off": 33590,
+   "budget": 25,
+   "en": "Oh, it's you. What now?",
+   "carry": "new"
+  },
+  {
+   "off": 33615,
+   "budget": 45,
+   "en": "No particular reason.￥Just felt like it.",
+   "carry": "new"
+  },
+  {
+   "off": 33660,
+   "budget": 71,
+   "en": "Sadly I am not an idler￥like you.￥Now, if you'll excuse me.",
+   "carry": "new"
+  },
+  {
+   "off": 33731,
+   "budget": 27,
+   "en": "Odious as ever, that one.",
+   "carry": "new"
+  },
+  {
+   "off": 33758,
+   "budget": 43,
+   "en": "What, you again?￥Idle as ever, I see.",
+   "carry": "new"
+  },
+  {
+   "off": 33801,
+   "budget": 47,
+   "en": "I've no time to spare￥on the likes of you.",
+   "carry": "new"
+  },
+  {
+   "off": 33848,
+   "budget": 35,
+   "en": "I'll spare you￥a little time.",
+   "carry": "new"
+  },
+  {
+   "off": 33883,
+   "budget": 27,
+   "en": "A little? How much?",
+   "carry": "new"
+  },
+  {
+   "off": 33910,
+   "budget": 47,
+   "en": "One second.￥Oops, the second￥is already up.",
+   "carry": "new"
+  },
+  {
+   "off": 33957,
+   "budget": 17,
+   "en": "Excuse me, then.",
+   "carry": "new"
+  },
+  {
+   "off": 33974,
+   "budget": 57,
+   "en": "Well, a pauper spent￥his last coins￥calling me.",
+   "carry": "new"
+  },
+  {
+   "off": 34031,
+   "budget": 39,
+   "en": "I'll grant you￥a story or two.",
+   "carry": "new"
+  },
+  {
+   "off": 34070,
+   "budget": 15,
+   "en": "What story?",
+   "carry": "new"
+  },
+  {
+   "off": 34085,
+   "budget": 25,
+   "en": "Let me boast a while.",
+   "carry": "new"
+  },
+  {
+   "off": 34110,
+   "budget": 35,
+   "en": "No....￥I'll pass....",
+   "carry": "new"
+  },
+  {
+   "off": 34145,
+   "budget": 75,
+   "en": "Now, don't be shy.￥Let me tell you of￥my glorious life.",
+   "carry": "new"
+  },
+  {
+   "off": 34220,
+   "budget": 39,
+   "en": "Ah, call waiting.￥See you, Ijuin.",
+   "carry": "new"
+  },
+  {
+   "off": 34259,
+   "budget": 19,
+   "en": "Hey, wait!",
+   "carry": "new"
+  },
+  {
+   "off": 34278,
+   "budget": 19,
+   "en": "That was close.",
+   "carry": "new"
+  },
+  {
+   "off": 34297,
+   "budget": 43,
+   "en": "What, you again?￥Idle as ever, I see.",
+   "carry": "new"
+  },
+  {
+   "off": 34340,
+   "budget": 45,
+   "en": "Then let me tell you￥about my golden bed.",
+   "carry": "new"
+  },
+  {
+   "off": 34385,
+   "budget": 43,
+   "en": "Then, about￥my platinum desk...",
+   "carry": "new"
+  },
+  {
+   "off": 34428,
+   "budget": 51,
+   "en": "Then, about￥my diamond pickling stone...",
+   "carry": "new"
+  },
+  {
+   "off": 34479,
+   "budget": 31,
+   "en": "N-no, I'm fine.￥See you.",
+   "carry": "new"
+  },
+  {
+   "off": 34510,
+   "budget": 7,
+   "en": "Who?",
+   "carry": "new"
+  },
+  {
+   "off": 34517,
+   "budget": 43,
+   "en": "The name's Gillian Seed.￥JUNKER.",
+   "carry": "new"
+  },
+  {
+   "off": 34560,
+   "budget": 41,
+   "en": "I want information on￥Snatchers.",
+   "carry": "new"
+  },
+  {
+   "off": 34601,
+   "budget": 57,
+   "en": "Snatchers, eh.￥Leave anything on Snatchers￥to me!",
+   "carry": "new"
+  },
+  {
+   "off": 34658,
+   "budget": 27,
+   "en": "Oh, that's reassuring.",
+   "carry": "new"
+  },
+  {
+   "off": 34685,
+   "budget": 29,
+   "en": "What do you want to know?",
+   "carry": "new"
+  },
+  {
+   "off": 34714,
+   "budget": 13,
+   "en": "Gillian.",
+   "carry": "new"
+  },
+  {
+   "off": 34727,
+   "budget": 45,
+   "en": "Oh, Gillian.￥Good of you to call.",
+   "carry": "new"
+  },
+  {
+   "off": 34772,
+   "budget": 31,
+   "en": "(...Familiar sort, this.)",
+   "carry": "new"
+  },
+  {
+   "off": 34803,
+   "budget": 59,
+   "en": "You said to leave anything￥on Snatchers to you....",
+   "carry": "new"
+  },
+  {
+   "off": 34862,
+   "budget": 37,
+   "en": "Of course.￥What would you ask?",
+   "carry": "new"
+  },
+  {
+   "off": 34899,
+   "budget": 21,
+   "en": "Gillian Seed here.",
+   "carry": "new"
+  },
+  {
+   "off": 34920,
+   "budget": 21,
+   "en": "Oh, Gillian, is it.",
+   "carry": "new"
+  },
+  {
+   "off": 34941,
+   "budget": 45,
+   "en": "What's with that voice?￥Not happy it's me?",
+   "carry": "new"
+  },
+  {
+   "off": 34986,
+   "budget": 59,
+   "en": "Don't ask the obvious.￥So, what is it today?",
+   "carry": "new"
+  },
+  {
+   "off": 35045,
+   "budget": 21,
+   "en": "About Snatchers",
+   "carry": "new",
+   "note": "ask topic (list label)"
+  },
+  {
+   "off": 35066,
+   "budget": 47,
+   "en": "I'd like to know￥about Snatchers.",
+   "carry": "new"
+  },
+  {
+   "off": 35113,
+   "budget": 35,
+   "en": "Sure thing.￥Hold on a second.",
+   "carry": "new"
+  },
+  {
+   "off": 35148,
+   "budget": 37,
+   "en": "Snatcher, Snatcher... let's see.",
+   "carry": "new"
+  },
+  {
+   "off": 35185,
+   "budget": 43,
+   "en": "Got it.￥Open your ears and listen.",
+   "carry": "new"
+  },
+  {
+   "off": 35228,
+   "budget": 59,
+   "en": "Looks like either the Chief￥or Harry is a Snatcher.",
+   "carry": "new"
+  },
+  {
+   "off": 35287,
+   "budget": 41,
+   "en": "Ask Napoleon about the chart￥puzzle.",
+   "carry": "new"
+  },
+  {
+   "off": 35328,
+   "budget": 53,
+   "en": "The neon's hospital is,￥plainly, Queen Hospital!!",
+   "carry": "new"
+  },
+  {
+   "off": 35381,
+   "budget": 31,
+   "en": "Catherine is at your place.",
+   "carry": "new"
+  },
+  {
+   "off": 35412,
+   "budget": 49,
+   "en": "Sorry to say,￥Oleen Hospital is just a vet's.",
+   "carry": "new"
+  },
+  {
+   "off": 35461,
+   "budget": 57,
+   "en": "Turns out Freddy Nielsen￥was the Snatcher.",
+   "carry": "new"
+  },
+  {
+   "off": 35518,
+   "budget": 59,
+   "en": "Ivan Rodriguez looks clean.￥Just a drug pusher.",
+   "carry": "new"
+  },
+  {
+   "off": 35577,
+   "budget": 79,
+   "en": "Ivan Rodriguez,￥Freddy Nielsen,￥one of those two is suspect.",
+   "carry": "new"
+  },
+  {
+   "off": 35656,
+   "budget": 77,
+   "en": "The one place in Neo Kobe City￥that serves whale: it's￥'Outer Heaven'!",
+   "carry": "new"
+  },
+  {
+   "off": 35733,
+   "budget": 73,
+   "en": "Snatchers are weak to UV, they say.￥So sunscreen is a must for them.",
+   "carry": "new"
+  },
+  {
+   "off": 35806,
+   "budget": 85,
+   "en": "JUNKER's Jean Jack Gibson was￥done in by a Snatcher, it seems.",
+   "carry": "new"
+  },
+  {
+   "off": 35891,
+   "budget": 17,
+   "en": "That's about it.",
+   "carry": "new"
+  },
+  {
+   "off": 35908,
+   "budget": 29,
+   "en": "Thanks.￥Sorry, as always.",
+   "carry": "new"
+  },
+  {
+   "off": 35937,
+   "budget": 69,
+   "en": "Don't mention it.￥Anything on Snatchers,￥leave it to me.",
+   "carry": "new"
+  },
+  {
+   "off": 36006,
+   "budget": 69,
+   "en": "Thanks for buying Snatcher￥for the Saturn.￥Buy the next one too.",
+   "carry": "new"
+  },
+  {
+   "off": 36075,
+   "budget": 19,
+   "en": "What?￥An advert?",
+   "carry": "new"
+  },
+  {
+   "off": 36094,
+   "budget": 47,
+   "en": "Oh, calling this far in--￥not bad at all.",
+   "carry": "new"
+  },
+  {
+   "off": 36141,
+   "budget": 9,
+   "en": "No.",
+   "src": "B190:5144",
+   "carry": "exact",
+   "note": "from B190"
+  },
+  {
+   "off": 36150,
+   "budget": 39,
+   "en": "Then let me tell you￥something good.",
+   "carry": "new"
+  },
+  {
+   "off": 36189,
+   "budget": 11,
+   "en": "What good?",
+   "carry": "new"
+  },
+  {
+   "off": 36200,
+   "budget": 49,
+   "en": "Heard of the ＠黄legendary￥informant＠白?",
+   "carry": "new"
+  },
+  {
+   "off": 36249,
+   "budget": 43,
+   "en": "Legendary...?￥No, never heard of him.",
+   "carry": "new"
+  },
+  {
+   "off": 36292,
+   "budget": 57,
+   "en": "Here in Neo Kobe City there's￥a certain legend...",
+   "carry": "new"
+  },
+  {
+   "off": 36349,
+   "budget": 77,
+   "en": "So the story goes, ask him and￥he'll tell you any information￥on the spot.",
+   "carry": "new"
+  },
+  {
+   "off": 36426,
+   "budget": 59,
+   "en": "Especially on ＠黄Snatcher￥information＠白, it seems.",
+   "carry": "new"
+  },
+  {
+   "off": 36485,
+   "budget": 75,
+   "en": "Well, try calling videophone￥number ＠赤66-2286＠白 and see.",
+   "carry": "new"
+  },
+  {
+   "off": 36560,
+   "budget": 27,
+   "en": "Got it.￥I'll try it.",
+   "carry": "new"
+  },
+  {
+   "off": 36587,
+   "budget": 11,
+   "en": "See you.",
+   "carry": "new"
+  },
+  {
+   "off": 36598,
+   "budget": 91,
+   "en": "Yes, Takaki here.￥I'm linked to 'Griffon' just now.￥Please call again later.",
+   "carry": "new"
+  },
+  {
+   "off": 36689,
+   "budget": 35,
+   "en": "Metal.￥What is 'Griffon'?",
+   "carry": "new"
+  },
+  {
+   "off": 36724,
+   "budget": 99,
+   "en": "You don't know, Gillian?￥'Griffon' is a computer that￥creates a virtual space.",
+   "carry": "new"
+  },
+  {
+   "off": 36823,
+   "budget": 115,
+   "en": "Brain-connect feeds the five￥senses straight to the brain,￥so you can't tell it from￥reality, they say.",
+   "carry": "new"
+  },
+  {
+   "off": 36938,
+   "budget": 89,
+   "en": "But lately the risk of mental￥contamination from long use￥has become an issue.",
+   "carry": "new"
+  },
+  {
+   "off": 37027,
+   "budget": 31,
+   "en": "Is that so... I didn't know.",
+   "carry": "new"
+  },
+  {
+   "off": 37058,
+   "budget": 41,
+   "en": "Linked to 'Griffon' again?",
+   "carry": "new"
+  },
+  {
+   "off": 37099,
+   "budget": 81,
+   "en": "By the data,￥he spends most of each day￥in the virtual world.",
+   "carry": "new"
+  },
+  {
+   "off": 37180,
+   "budget": 39,
+   "en": "I see... let's call back later.",
+   "carry": "new"
+  },
+  {
+   "off": 37219,
+   "budget": 71,
+   "en": "Sick of the dull real world,￥he flees into the virtual one.",
+   "carry": "new"
+  },
+  {
+   "off": 37290,
+   "budget": 65,
+   "en": "Better than getting into￥'Liquid Sky', at least......",
+   "carry": "new"
+  },
+  {
+   "off": 37355,
+   "budget": 91,
+   "en": "So it seems.￥But given how often he uses￥'Griffon', I fear mental￥contamination.",
+   "carry": "new"
+  },
+  {
+   "off": 37446,
+   "budget": 17,
+   "en": "Meaning what?",
+   "src": "B140:11430",
+   "carry": "exact",
+   "long": "What's that supposed to mean?",
+   "note": "from B140"
+  },
+  {
+   "off": 37463,
+   "budget": 55,
+   "en": "In short... he goes￥nuts, that is.",
+   "carry": "new",
+   "note": "キ○ガイ is censored in the jp"
+  },
+  {
+   "off": 37518,
+   "budget": 63,
+   "en": "I see... I hope he's all right...￥Let's call back later.",
+   "carry": "new"
+  },
+  {
+   "off": 37581,
+   "budget": 19,
+   "en": ".........",
+   "src": "B020:19906",
+   "carry": "exact",
+   "note": "from B020"
+  },
+  {
+   "off": 37600,
+   "budget": 29,
+   "en": "Oh!￥It finally connected.",
+   "carry": "new"
+  },
+  {
+   "off": 37629,
+   "budget": 119,
+   "en": "10111100100000100010010101110011￥01000011010000100101111 0...",
+   "carry": "new",
+   "note": "the binary string as in the jp, broken for the box"
+  },
+  {
+   "off": 37748,
+   "budget": 37,
+   "en": "Metal.￥What on earth is this?",
+   "carry": "new"
+  },
+  {
+   "off": 37785,
+   "budget": 65,
+   "en": "Mental contamination has￥digitized his mind, I'd say.",
+   "carry": "new"
+  },
+  {
+   "off": 37850,
+   "budget": 25,
+   "en": "I see... at last....",
+   "carry": "new"
+  },
+  {
+   "off": 37875,
+   "budget": 33,
+   "en": "Let's leave him be now.",
+   "carry": "new"
+  },
+  {
+   "off": 37908,
+   "budget": 11,
+   "en": "Hm...",
+   "carry": "new"
+  },
+  {
+   "off": 37919,
+   "budget": 29,
+   "en": "No use, can't get through...",
+   "carry": "new"
+  },
+  {
+   "off": 37948,
+   "budget": 21,
+   "en": "Yes, Yamagishi here.",
+   "carry": "new"
+  },
+  {
+   "off": 37969,
+   "budget": 41,
+   "en": "Yamagishi's at the office￥again (lol)",
+   "carry": "new"
+  },
+  {
+   "off": 38010,
+   "budget": 63,
+   "en": "If you've business, after￥the beep, ＠赤please sing＠白.",
+   "carry": "new"
+  },
+  {
+   "off": 38073,
+   "budget": 27,
+   "en": "S-sing? I have to sing?",
+   "carry": "new"
+  },
+  {
+   "off": 38100,
+   "budget": 11,
+   "en": "Cheerio~",
+   "carry": "new"
+  },
+  {
+   "off": 38111,
+   "budget": 15,
+   "en": "￥  Beeeep",
+   "carry": "new"
+  },
+  {
+   "off": 38126,
+   "budget": 47,
+   "en": "Blast.￥My throat's off today, too...",
+   "carry": "new"
+  },
+  {
+   "off": 38173,
+   "budget": 29,
+   "en": "Ah, ah.￥...Ahem.",
+   "carry": "new"
+  },
+  {
+   "off": 38202,
+   "budget": 11,
+   "en": "♪Ki...",
+   "carry": "new"
+  },
+  {
+   "off": 38213,
+   "budget": 27,
+   "en": "Stop! Gillian!",
+   "carry": "new"
+  },
+  {
+   "off": 38240,
+   "budget": 39,
+   "en": "What, Metal?￥I was just starting.",
+   "carry": "new"
+  },
+  {
+   "off": 38279,
+   "budget": 51,
+   "en": "Sing any more and it will￥cost money, so no.",
+   "carry": "new"
+  },
+  {
+   "off": 38330,
+   "budget": 17,
+   "en": "I-is that so?",
+   "carry": "new"
+  },
+  {
+   "off": 38347,
+   "budget": 37,
+   "en": "Grown-ups have their￥complications.",
+   "carry": "new"
+  },
+  {
+   "off": 38384,
+   "budget": 41,
+   "en": "(Good, throat's in fine￥form today)",
+   "carry": "new"
+  },
+  {
+   "off": 38425,
+   "budget": 11,
+   "en": "♪Lo...",
+   "carry": "new"
+  },
+  {
+   "off": 38436,
+   "budget": 13,
+   "en": "Gillian!",
+   "src": "B0D0:11488",
+   "carry": "exact",
+   "note": "from B0D0"
+  },
+  {
+   "off": 38449,
+   "budget": 27,
+   "en": "...All right, Metal.",
+   "carry": "new"
+  },
+  {
+   "off": 38476,
+   "budget": 21,
+   "en": "Yes, Yabagishi here.",
+   "carry": "new"
+  },
+  {
+   "off": 38497,
+   "budget": 41,
+   "en": "Yabagishi's at the office￥again (lol)",
+   "carry": "new"
+  },
+  {
+   "off": 38538,
+   "budget": 53,
+   "en": "Overnight again...￥When does he ever go home?",
+   "carry": "new"
+  },
+  {
+   "off": 38591,
+   "budget": 61,
+   "en": "Perhaps he doesn't?￥Quite comfortable there,￥they say.",
+   "carry": "new"
+  },
+  {
+   "off": 38652,
+   "budget": 73,
+   "en": "Apparently the train fare home￥is too much of a waste.",
+   "carry": "new"
+  },
+  {
+   "off": 38725,
+   "budget": 91,
+   "en": "His game console is already￥there, so no worries. A rice￥cooker and it'd be perfect...",
+   "carry": "new"
+  },
+  {
+   "off": 38816,
+   "budget": 47,
+   "en": "Hi, yamagishi at artifact M3￥(a mystery) here",
+   "carry": "new"
+  },
+  {
+   "off": 38863,
+   "budget": 121,
+   "en": "You there, who so doggedly,￥doggedly, doggedly, doggedly,￥doggedly, doggedly, doggedly,￥doggedly, doggedly,",
+   "carry": "new"
+  },
+  {
+   "off": 38984,
+   "budget": 107,
+   "en": "doggedly, doggedly, doggedly,￥doggedly, doggedly, doggedly,￥doggedly kept picking this one.",
+   "carry": "new"
+  },
+  {
+   "off": 39091,
+   "budget": 35,
+   "en": "...You must be really bored. (oi",
+   "carry": "new"
+  },
+  {
+   "off": 39126,
+   "budget": 39,
+   "en": "...Or maybe you've no friends? (oi",
+   "carry": "new"
+  },
+  {
+   "off": 39165,
+   "budget": 107,
+   "en": "And so (lol), all 500,000 or so￥N I J I N O 10 folk nationwide,￥videophone Miss Nijino right￥now!!",
+   "carry": "new"
+  },
+  {
+   "off": 39272,
+   "budget": 33,
+   "en": "Find the number yourself! (lol)",
+   "carry": "new"
+  },
+  {
+   "off": 39305,
+   "budget": 25,
+   "en": "Home today, for once.",
+   "carry": "new"
+  },
+  {
+   "off": 39330,
+   "budget": 15,
+   "en": "...Sleepy.",
+   "carry": "new"
+  },
+  {
+   "off": 39345,
+   "budget": 37,
+   "en": "Ooh, already in Tokimeki mode (lol)",
+   "carry": "new"
+  },
+  {
+   "off": 39382,
+   "budget": 47,
+   "en": "...Tried videophoning the￥other girls too?",
+   "carry": "new"
+  },
+  {
+   "off": 39429,
+   "budget": 31,
+   "en": "Bored, so I'll write a diary.",
+   "carry": "new"
+  },
+  {
+   "off": 39460,
+   "budget": 29,
+   "en": "￥dev diary    fair",
+   "carry": "new",
+   "note": "the diary is all hiragana in the jp: lowercase"
+  },
+  {
+   "off": 39489,
+   "budget": 101,
+   "en": "￥work on saturn snatcher begins.￥not much time till the deadline.￥hope we make it.",
+   "carry": "new"
+  },
+  {
+   "off": 39590,
+   "budget": 29,
+   "en": "￥dev diary    rain",
+   "carry": "new"
+  },
+  {
+   "off": 39619,
+   "budget": 51,
+   "en": "￥development going well,￥let's say.",
+   "carry": "new"
+  },
+  {
+   "off": 39670,
+   "budget": 59,
+   "en": "￥one month to the master.￥time to camp at the office...",
+   "carry": "new"
+  },
+  {
+   "off": 39729,
+   "budget": 31,
+   "en": "￥dev diary    cloudy",
+   "carry": "new"
+  },
+  {
+   "off": 39760,
+   "budget": 75,
+   "en": "￥hardcore karaoke with the￥hardcore crowd. all-night￥karaoke rules.",
+   "carry": "new"
+  },
+  {
+   "off": 39835,
+   "budget": 29,
+   "en": "￥dev diary    snow",
+   "carry": "new"
+  },
+  {
+   "off": 39864,
+   "budget": 59,
+   "en": "￥hate winter, it's cold.￥hate heat too (selfish)",
+   "carry": "new"
+  },
+  {
+   "off": 39923,
+   "budget": 31,
+   "en": "￥dev diary    drizzle",
+   "carry": "new"
+  },
+  {
+   "off": 39954,
+   "budget": 53,
+   "en": "￥found a bug. a fatal one, too.￥what do i do...",
+   "carry": "new"
+  },
+  {
+   "off": 40007,
+   "budget": 97,
+   "en": "￥today: a mailing list meetup.￥seeing people far more into it￥than me was a bit of a relief.",
+   "carry": "new"
+  },
+  {
+   "off": 40104,
+   "budget": 55,
+   "en": "￥caught a cold.￥must pass it on fast￥to shake it.",
+   "carry": "new"
+  },
+  {
+   "off": 40159,
+   "budget": 71,
+   "en": "￥bug check begins.￥hope they actually find￥the bugs...",
+   "carry": "new"
+  },
+  {
+   "off": 40230,
+   "budget": 13,
+   "en": "￥carnage.",
+   "carry": "new"
+  },
+  {
+   "off": 40243,
+   "budget": 101,
+   "en": "￥somehow we made it to master.￥thank goodness we were in time.￥now just pray no bugs turn up.",
+   "carry": "new"
+  },
+  {
+   "off": 40344,
+   "budget": 37,
+   "en": "￥ωωωω.￥ωωωω.￥ωωωω.",
+   "src": "B180:17632",
+   "carry": "candidate_edit",
+   "en_candidate": "...",
+   "sim": 0.33,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); the Saturn's slow dots: the ω codes kept as in the jp, one dot per row"
+  },
+  {
+   "off": 40381,
+   "budget": 29,
+   "en": "Well, time for bed, maybe...",
+   "carry": "new"
+  },
+  {
+   "off": 40410,
+   "budget": 47,
+   "en": "What?￥Want the number that badly?",
+   "carry": "new"
+  },
+  {
+   "off": 40457,
+   "budget": 35,
+   "en": "...Fine. Just a hint, then.",
+   "carry": "new"
+  },
+  {
+   "off": 40492,
+   "budget": 59,
+   "en": "＠黄Last digit gone; the number￥itself is unchanged.＠白",
+   "carry": "new"
+  },
+  {
+   "off": 40551,
+   "budget": 23,
+   "en": "Now, good luck~ (lol)",
+   "carry": "new"
+  },
+  {
+   "off": 40574,
+   "budget": 25,
+   "en": "I'm 'out'. Sorry.",
+   "carry": "new"
+  },
+  {
+   "off": 40599,
+   "budget": 37,
+   "en": "The number you have dialled...",
+   "carry": "new"
+  },
+  {
+   "off": 40636,
+   "budget": 27,
+   "en": "...is currently away.",
+   "carry": "new"
+  },
+  {
+   "off": 40663,
+   "budget": 49,
+   "en": "I've already eaten, so￥there's no help for it.",
+   "carry": "new"
+  },
+  {
+   "off": 40712,
+   "budget": 15,
+   "en": "Won't connect.",
+   "carry": "new"
+  },
+  {
+   "off": 40727,
+   "budget": 7,
+   "en": "Yes.",
+   "carry": "new"
+  },
+  {
+   "off": 40734,
+   "budget": 33,
+   "en": "Er... er... I see.",
+   "carry": "new"
+  },
+  {
+   "off": 40767,
+   "budget": 45,
+   "en": "Then I have just the property￥for you!",
+   "carry": "new"
+  },
+  {
+   "off": 40812,
+   "budget": 29,
+   "en": "The station pawnshop folded.",
+   "carry": "new"
+  },
+  {
+   "off": 40841,
+   "budget": 37,
+   "en": "How about it? I'll make it￥cheap.",
+   "carry": "new"
+  },
+  {
+   "off": 40880,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

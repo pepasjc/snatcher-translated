@@ -1,0 +1,2007 @@
+{
+ "file": "DATA.BIN[46]",
+ "entry": 46,
+ "text_base": 4686,
+ "twins": [
+  "B190"
+ ],
+ "strings": [
+  {
+   "off": 4686,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 4691,
+   "budget": 17,
+   "en": "Look 'around'",
+   "src": "B190:4405",
+   "carry": "exact"
+  },
+  {
+   "off": 4708,
+   "budget": 15,
+   "en": "Check Santa",
+   "src": "B190:4422",
+   "carry": "exact"
+  },
+  {
+   "off": 4723,
+   "budget": 19,
+   "en": "Outside Altamira.",
+   "src": "B190:4437",
+   "carry": "exact",
+   "long": "We're outside Altamira."
+  },
+  {
+   "off": 4742,
+   "budget": 37,
+   "en": "I wonder if Napoleon is here.",
+   "src": "B190:4456",
+   "carry": "exact"
+  },
+  {
+   "off": 4779,
+   "budget": 59,
+   "en": "We're finished here. Let's hurry to￥Oleen Hospital.",
+   "src": "B190:4493",
+   "carry": "exact"
+  },
+  {
+   "off": 4838,
+   "budget": 81,
+   "en": "No use staying here.￥Let's go to the 'Oleen' Hospital￥Napoleon spoke of.",
+   "src": "B190:4552",
+   "carry": "rebroken",
+   "long": "There's no point staying here. Let's￥try the Oleen Hospital Napoleon￥mentioned.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4919,
+   "budget": 79,
+   "en": "We need to contact Napoleon by￥videophone before we can meet him.",
+   "src": "B190:4631",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 4998,
+   "budget": 49,
+   "en": "To meet Napoleon,￥we must call first...",
+   "src": "B190:4708",
+   "carry": "exact",
+   "long": "If you want to meet Napoleon, we￥need to call him."
+  },
+  {
+   "off": 5047,
+   "budget": 61,
+   "en": "Kept waiting so long, Napoleon may￥have gone home.",
+   "src": "B190:4757",
+   "carry": "candidate_ok",
+   "en_candidate": "Kept waiting so long, Napoleon may￥have gone home.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "We kept Napoleon waiting so long￥that he's probably gone home."
+  },
+  {
+   "off": 5108,
+   "budget": 49,
+   "en": "Napoleon has probably gone home￥already.",
+   "src": "B190:4820",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5157,
+   "budget": 9,
+   "en": "Get in",
+   "src": "B190:4867",
+   "carry": "exact",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 5166,
+   "budget": 5,
+   "en": "Look",
+   "src": "B190:4876",
+   "carry": "exact"
+  },
+  {
+   "off": 5171,
+   "budget": 3,
+   "en": "St",
+   "src": "B190:4881",
+   "carry": "exact",
+   "long": "Street"
+  },
+  {
+   "off": 5174,
+   "budget": 27,
+   "en": "The town is all Christmas.",
+   "src": "B190:4884",
+   "carry": "exact",
+   "long": "The whole city is ready for￥Christmas."
+  },
+  {
+   "off": 5201,
+   "budget": 55,
+   "en": "There are decorated Christmas trees￥everywhere.",
+   "src": "B190:4911",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5256,
+   "budget": 43,
+   "en": "It really is close now.￥Christmas...",
+   "src": "B190:4964",
+   "carry": "exact",
+   "long": "Christmas really is just around the￥corner."
+  },
+  {
+   "off": 5299,
+   "budget": 41,
+   "en": "What of Christmas,￥Gillian?",
+   "src": "B190:5007",
+   "carry": "exact",
+   "long": "What are your plans for Christmas,￥Gillian?"
+  },
+  {
+   "off": 5340,
+   "budget": 51,
+   "en": "Me? I'll be with Jamie. Well, I'm￥not sure.",
+   "src": "B190:5048",
+   "carry": "exact"
+  },
+  {
+   "off": 5391,
+   "budget": 47,
+   "en": "From the look of it... you haven't￥made any firm plans yet?",
+   "src": "B190:5099",
+   "carry": "candidate_edit",
+   "en_candidate": "So you have not made any firm plans￥yet?",
+   "sim": 0.95,
+   "note": "re-adapted 2026-09-30: new PS1 wording + その様子では"
+  },
+  {
+   "off": 5438,
+   "budget": 9,
+   "en": "No.",
+   "src": "B190:5144",
+   "carry": "exact"
+  },
+  {
+   "off": 5447,
+   "budget": 55,
+   "en": "Don't worry. I won't let you spend￥Christmas alone.",
+   "src": "B190:5153",
+   "carry": "exact"
+  },
+  {
+   "off": 5502,
+   "budget": 61,
+   "en": "Turned down, Gillian?￥Then it's Christmas with me.",
+   "src": "B190:5208",
+   "carry": "candidate_ok",
+   "en_candidate": "Turned down, Gillian?￥Then it's Christmas with me.",
+   "sim": 0.97,
+   "long": "If she turns you down, we can spend￥Christmas together, Gillian."
+  },
+  {
+   "off": 5563,
+   "budget": 11,
+   "en": "With you?",
+   "src": "B190:5267",
+   "carry": "exact"
+  },
+  {
+   "off": 5574,
+   "budget": 33,
+   "en": "It'll be my first Christmas.",
+   "src": "B190:5278",
+   "carry": "exact"
+  },
+  {
+   "off": 5607,
+   "budget": 29,
+   "en": "As a last resort, I mean...",
+   "src": "B190:5311",
+   "carry": "exact",
+   "long": "You can save me as a last resort."
+  },
+  {
+   "off": 5636,
+   "budget": 23,
+   "en": "That is the worst.",
+   "src": "B190:5340",
+   "carry": "exact",
+   "long": "That would be the worst part."
+  },
+  {
+   "off": 5659,
+   "budget": 7,
+   "en": "Neon",
+   "src": "B190:5363",
+   "carry": "exact",
+   "long": "Neon signs"
+  },
+  {
+   "off": 5666,
+   "budget": 45,
+   "en": "There really are a lot of neon￥signs.",
+   "src": "B190:5370",
+   "carry": "exact"
+  },
+  {
+   "off": 5711,
+   "budget": 63,
+   "en": "Oh?￥The 'P' of Pachinko is out,￥leaving a risky word.",
+   "src": "B190:5415",
+   "carry": "rebroken",
+   "long": "Oh! The letters Gr and als in that￥Great Meals sign are out. Now it￥says Eat Me!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5774,
+   "budget": 35,
+   "en": "All sorts, and very pretty.",
+   "src": "B190:5476",
+   "carry": "exact",
+   "long": "So many different signs. They're￥beautiful."
+  },
+  {
+   "off": 5809,
+   "budget": 57,
+   "en": "The neon looks like Christmas￥lights. Very festive.",
+   "src": "B190:5511",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5866,
+   "budget": 17,
+   "en": "Ad display",
+   "src": "B190:5566",
+   "carry": "exact"
+  },
+  {
+   "off": 5883,
+   "budget": 47,
+   "en": "New-year show trailers and￥adverts run.",
+   "src": "B190:5583",
+   "carry": "rebroken",
+   "long": "They're showing ads and previews of￥holiday programs.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5930,
+   "budget": 65,
+   "en": "Lots of people are meeting in front￥of the giant screen.",
+   "src": "B190:5628",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5995,
+   "budget": 7,
+   "en": "Around",
+   "src": "B190:5691",
+   "carry": "exact"
+  },
+  {
+   "off": 6002,
+   "budget": 73,
+   "en": "It really feels like Christmas.￥There's ＠赤Santa Claus＠白!",
+   "src": "B190:5698",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6075,
+   "budget": 43,
+   "en": "I'm glad you got to eat it this￥time.",
+   "src": "B190:5769",
+   "carry": "exact"
+  },
+  {
+   "off": 6118,
+   "budget": 51,
+   "en": "I'm never eating Neo Kobe Yaki￥again.",
+   "src": "B190:5812",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6169,
+   "budget": 13,
+   "en": "Passersby",
+   "src": "B190:5861",
+   "carry": "exact"
+  },
+  {
+   "off": 6182,
+   "budget": 47,
+   "en": "Year's end.￥Everyone hurrying to and fro.",
+   "src": "B190:5874",
+   "carry": "exact",
+   "long": "Everyone's rushing about. It must be￥the end of the year."
+  },
+  {
+   "off": 6229,
+   "budget": 67,
+   "en": "Nobody seems worried about the￥Snatchers at all.",
+   "src": "B190:5921",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6296,
+   "budget": 15,
+   "en": "Santa",
+   "src": "B190:5986",
+   "carry": "exact"
+  },
+  {
+   "off": 6311,
+   "budget": 71,
+   "en": "＠黄Someone dressed as Santa Claus is￥handing out tissues.＠白",
+   "src": "B190:6001",
+   "carry": "exact"
+  },
+  {
+   "off": 6382,
+   "budget": 31,
+   "en": "Hmm? That Santa Claus.",
+   "src": "B190:6072",
+   "carry": "candidate_ok",
+   "en_candidate": "Hmm? That Santa Claus.",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 6413,
+   "budget": 27,
+   "en": "What? Is something wrong?",
+   "src": "B190:6103",
+   "carry": "exact"
+  },
+  {
+   "off": 6440,
+   "budget": 25,
+   "en": "No... my fancy, perhaps?",
+   "src": "B190:6130",
+   "carry": "exact",
+   "long": "No. Maybe it's my imagination."
+  },
+  {
+   "off": 6465,
+   "budget": 17,
+   "en": "Shall I check?",
+   "src": "B190:6155",
+   "carry": "exact",
+   "long": "Shall we take a closer look?"
+  },
+  {
+   "off": 6482,
+   "budget": 59,
+   "en": "At year's end one often sees folk￥dressed as Santa.",
+   "src": "B190:6172",
+   "carry": "rebroken",
+   "long": "You often see people dressed as￥Santa this time of year.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6541,
+   "budget": 45,
+   "en": "I know, but... that Santa Claus...",
+   "src": "B190:6229",
+   "carry": "exact",
+   "long": "True, but there's something about￥that one."
+  },
+  {
+   "off": 6586,
+   "budget": 45,
+   "en": "If it bugs you, let's check?",
+   "src": "B190:6274",
+   "carry": "rebroken",
+   "long": "If you're so curious, why don't we￥take a closer look?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6631,
+   "budget": 7,
+   "en": "Check",
+   "src": "B190:6317",
+   "carry": "exact",
+   "long": "Investigate"
+  },
+  {
+   "off": 6638,
+   "budget": 41,
+   "en": "Boiling over with Christmas￥sales.",
+   "src": "B190:6324",
+   "carry": "exact",
+   "long": "The Christmas sales have everyone￥excited."
+  },
+  {
+   "off": 6679,
+   "budget": 53,
+   "en": "Nobody seems concerned about the￥Snatchers.",
+   "src": "B190:6365",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6732,
+   "budget": 51,
+   "en": "Christmas songs in many tongues￥are playing.",
+   "src": "B190:6416",
+   "carry": "rebroken",
+   "long": "Christmas songs are playing in all￥sorts of languages.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6783,
+   "budget": 47,
+   "en": "Faith or no,￥Christmas is Christmas...",
+   "src": "B190:6465",
+   "carry": "rebroken",
+   "long": "Christmas is Christmas, whatever￥your religion.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6830,
+   "budget": 37,
+   "en": "Neon signs in many tongues.",
+   "src": "B190:6510",
+   "carry": "exact",
+   "long": "There are neon signs in many￥languages."
+  },
+  {
+   "off": 6867,
+   "budget": 51,
+   "en": "Mostly 3D images made to￥look like neon tubes.",
+   "src": "B190:6547",
+   "carry": "rebroken",
+   "long": "Most are 3D projections made to look￥like neon tubes.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6918,
+   "budget": 41,
+   "en": "All sorts of adverts, really.",
+   "src": "B190:6596",
+   "carry": "exact",
+   "long": "They're showing all sorts of￥commercials."
+  },
+  {
+   "off": 6959,
+   "budget": 55,
+   "en": "Seen like this, the ads￥are part of the scenery.",
+   "src": "B190:6637",
+   "carry": "rebroken",
+   "long": "Seen this way, even the commercials￥are part of the city scenery.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7014,
+   "budget": 41,
+   "en": "None of the remaining ads look￥useful.",
+   "src": "B190:6690",
+   "carry": "exact"
+  },
+  {
+   "off": 7055,
+   "budget": 31,
+   "en": "Someone dropped something odd!",
+   "src": "B190:6731",
+   "carry": "exact",
+   "long": "Someone dropped something strange!"
+  },
+  {
+   "off": 7086,
+   "budget": 21,
+   "en": "A cigarette end.",
+   "src": "B190:6762",
+   "carry": "exact",
+   "long": "It's a cigarette butt."
+  },
+  {
+   "off": 7107,
+   "budget": 13,
+   "en": "I see...",
+   "src": "B190:6783",
+   "carry": "exact"
+  },
+  {
+   "off": 7120,
+   "budget": 41,
+   "en": "Let's take a closer look at that￥Santa.",
+   "src": "B190:6796",
+   "carry": "exact"
+  },
+  {
+   "off": 7161,
+   "budget": 19,
+   "en": "Let's go...",
+   "src": "B190:6837",
+   "carry": "exact"
+  },
+  {
+   "off": 7180,
+   "budget": 5,
+   "en": "Item",
+   "src": "B190:6856",
+   "carry": "exact"
+  },
+  {
+   "off": 7185,
+   "budget": 7,
+   "en": "Lookω",
+   "src": "B190:4876",
+   "carry": "candidate_edit",
+   "en_candidate": "Look",
+   "sim": 0.8,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label"
+  },
+  {
+   "off": 7192,
+   "budget": 9,
+   "en": "Investigateω",
+   "src": "B190:6317",
+   "carry": "candidate_edit",
+   "en_candidate": "Check",
+   "sim": 0.86,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label; re-adapted 2026-09-30: PS1 label (long 'Investigate') + ω kept after it"
+  },
+  {
+   "off": 7201,
+   "budget": 15,
+   "en": "Use Metal Gear",
+   "src": "B190:6861",
+   "carry": "exact"
+  },
+  {
+   "off": 7216,
+   "budget": 13,
+   "en": "Videophone",
+   "src": "B190:6876",
+   "carry": "exact"
+  },
+  {
+   "off": 7229,
+   "budget": 11,
+   "en": "Save",
+   "src": "B190:6889",
+   "carry": "exact"
+  },
+  {
+   "off": 7240,
+   "budget": 37,
+   "en": "I'll save our progress so far.",
+   "src": "B190:6900",
+   "carry": "exact"
+  },
+  {
+   "off": 7277,
+   "budget": 35,
+   "en": "I don't see anyone suspicious.",
+   "src": "B190:6937",
+   "carry": "exact"
+  },
+  {
+   "off": 7312,
+   "budget": 51,
+   "en": "Quite ordinary people.￥Nothing suspicious.",
+   "src": "B190:6972",
+   "carry": "exact",
+   "long": "They're ordinary people. Nothing￥suspicious about them."
+  },
+  {
+   "off": 7363,
+   "budget": 59,
+   "en": "But a Snatcher could be hiding among￥them.",
+   "src": "B190:7023",
+   "carry": "exact"
+  },
+  {
+   "off": 7422,
+   "budget": 41,
+   "en": "Think that and you'd￥never go out.",
+   "src": "B190:7082",
+   "carry": "exact",
+   "long": "Think like that and you'll be too￥scared to walk down the street."
+  },
+  {
+   "off": 7463,
+   "budget": 11,
+   "en": "Napoleon",
+   "src": "B190:7123",
+   "carry": "exact"
+  },
+  {
+   "off": 7474,
+   "budget": 45,
+   "en": "A Chinese Santa Claus...￥it doesn't suit.",
+   "src": "B190:7134",
+   "carry": "exact",
+   "long": "A Chinese Santa Claus? It doesn't￥suit you."
+  },
+  {
+   "off": 7519,
+   "budget": 21,
+   "en": "Well, excuse me.",
+   "src": "B190:7179",
+   "carry": "exact"
+  },
+  {
+   "off": 7540,
+   "budget": 67,
+   "en": "It's a disguise! I don't dress like￥this for fun.",
+   "src": "B190:7200",
+   "carry": "exact"
+  },
+  {
+   "off": 7607,
+   "budget": 63,
+   "en": "I'm not wearing this for fun. It's a￥disguise.",
+   "src": "B190:7267",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7670,
+   "budget": 5,
+   "en": "Garb",
+   "src": "B190:7328",
+   "carry": "exact",
+   "long": "Clothes"
+  },
+  {
+   "off": 7675,
+   "budget": 35,
+   "en": "A typical Santa Claus outfit.",
+   "src": "B190:7333",
+   "carry": "exact"
+  },
+  {
+   "off": 7710,
+   "budget": 27,
+   "en": "He bears a large sack.",
+   "src": "B190:7368",
+   "carry": "exact",
+   "long": "He's carrying a large sack on his￥back."
+  },
+  {
+   "off": 7737,
+   "budget": 41,
+   "en": "What's in there? Presents?",
+   "src": "B190:7395",
+   "carry": "exact"
+  },
+  {
+   "off": 7778,
+   "budget": 33,
+   "en": "Want some? It's tissues.",
+   "src": "B190:7436",
+   "carry": "exact"
+  },
+  {
+   "off": 7811,
+   "budget": 25,
+   "en": "No, thanks. No, thanks.",
+   "src": "B190:7469",
+   "carry": "exact"
+  },
+  {
+   "off": 7836,
+   "budget": 33,
+   "en": "Hey! Keep your hands off me!",
+   "src": "B190:7494",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7869,
+   "budget": 35,
+   "en": "Don't pull it! It's borrowed!",
+   "src": "B190:7525",
+   "carry": "rebroken",
+   "long": "Don't pull on the costume! It's￥borrowed!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7904,
+   "budget": 65,
+   "en": "The label says it's made by Rick￥Bakery Studio.",
+   "src": "B190:7558",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7969,
+   "budget": 61,
+   "en": "The make-up studio that makes￥Outer Heaven's masks.",
+   "src": "B190:7621",
+   "carry": "rebroken",
+   "long": "That's the makeup studio that makes￥masks for Outer Heaven.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8030,
+   "budget": 67,
+   "en": "Rick Bakery Studio made, so￥a proper costume indeed.",
+   "src": "B190:7680",
+   "carry": "rebroken",
+   "long": "It's a convincing costume, as you'd￥expect from Rick Bakery Studio.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8097,
+   "budget": 55,
+   "en": "Oh, the place the Joy Division clerk￥recommended?",
+   "src": "B190:7745",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8152,
+   "budget": 5,
+   "en": "Ask",
+   "src": "B190:7798",
+   "carry": "exact"
+  },
+  {
+   "off": 8157,
+   "budget": 15,
+   "en": "About Napoleon",
+   "src": "B190:7803",
+   "carry": "exact"
+  },
+  {
+   "off": 8172,
+   "budget": 47,
+   "en": "Time you told me who you are?",
+   "src": "B190:7818",
+   "carry": "rebroken",
+   "long": "Isn't it time you told me who you￥really are?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8219,
+   "budget": 51,
+   "en": "An informant's best left￥a mystery.",
+   "src": "B190:7863",
+   "carry": "rebroken",
+   "long": "An informant is easier to deal with￥when he stays a mystery.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8270,
+   "budget": 33,
+   "en": "In time you'll come to know.",
+   "src": "B190:7912",
+   "carry": "exact",
+   "long": "You will find out sooner or later."
+  },
+  {
+   "off": 8303,
+   "budget": 29,
+   "en": "Maybe. Someday.",
+   "src": "B190:7945",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 8332,
+   "budget": 15,
+   "en": "Black clinic",
+   "src": "B190:7976",
+   "carry": "exact",
+   "long": "Illegal hospital"
+  },
+  {
+   "off": 8347,
+   "budget": 35,
+   "en": "Tell me about the black clinics.",
+   "src": "B190:7991",
+   "carry": "exact",
+   "long": "I need information about underground￥hospitals."
+  },
+  {
+   "off": 8382,
+   "budget": 105,
+   "en": "Besides the registered hospitals￥the city has countless black￥ones. Knowing them all is beyond me.",
+   "src": "B190:8026",
+   "carry": "candidate_ok",
+   "en_candidate": "Besides the registered hospitals￥the city has countless black￥ones. Knowing them all is beyond me.",
+   "sim": 0.95,
+   "long": "Besides the registered hospitals,￥the city has countless illegal ones.￥Nobody could keep track of them all."
+  },
+  {
+   "off": 8487,
+   "budget": 87,
+   "en": "No, wait...￥if it's a black practice...￥the drug route might tell.",
+   "src": "B190:8131",
+   "carry": "rebroken",
+   "long": "Wait. You might be able to trace￥those illegal clinics through their￥medical supplies.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8574,
+   "budget": 61,
+   "en": "Nearly all city medicines￥are made on the island.",
+   "src": "B190:8216",
+   "carry": "rebroken",
+   "long": "Most of the city's medical drugs are￥made here on the island.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8635,
+   "budget": 81,
+   "en": "Right. All island drugs pass￥through ＠赤Kobe Pharmaceutical＠白.",
+   "src": "B190:8275",
+   "carry": "rebroken",
+   "long": "That's right. All drugs on the￥island are distributed through the￥＠赤Kobe Pharmaceutical Research￥Institute＠白.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 8716,
+   "budget": 37,
+   "en": "Jamie is looking into it now.",
+   "src": "B190:8352",
+   "carry": "exact"
+  },
+  {
+   "off": 8753,
+   "budget": 63,
+   "en": "'Kobe Pharmaceutical'...?￥That's it, Jamie works there!￥",
+   "src": "B190:8389",
+   "carry": "exact",
+   "long": "The Kobe Pharmaceutical Research￥Institute? Of course! Jamie works￥there!"
+  },
+  {
+   "off": 8816,
+   "budget": 89,
+   "en": "Jamie should be overseeing drug￥shipments on the island. She might￥know something.",
+   "src": "B190:8452",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8905,
+   "budget": 69,
+   "en": "That's right! ＠黄Let's call Jamie later￥and ask her.",
+   "src": "B190:8539",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8974,
+   "budget": 57,
+   "en": "Better to ask an expert in that￥line than me.",
+   "src": "B190:8606",
+   "carry": "exact",
+   "long": "You'll have better luck asking an￥expert in the field than me."
+  },
+  {
+   "off": 9031,
+   "budget": 11,
+   "en": "OLEEN",
+   "src": "B190:8663",
+   "carry": "exact"
+  },
+  {
+   "off": 9042,
+   "budget": 93,
+   "en": "It may not be the one you're after,￥but I know a place called ＠赤Oleen￥Hospital＠白.",
+   "src": "B190:8674",
+   "carry": "candidate_ok",
+   "en_candidate": "It may not be the one you're after,￥but I know a place called ＠赤Oleen￥Hospital＠白.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 9135,
+   "budget": 49,
+   "en": "Only that 'Oleen Hospital'￥comes to mind...",
+   "src": "B190:8769",
+   "carry": "rebroken",
+   "long": "Oleen Hospital is the only one that￥comes to mind.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9184,
+   "budget": 31,
+   "en": "First, let's see my payment.",
+   "src": "B190:8816",
+   "carry": "exact"
+  },
+  {
+   "off": 9215,
+   "budget": 13,
+   "en": "Oleen Hosp.",
+   "src": "B190:8847",
+   "carry": "exact",
+   "long": "Oleen Hospital"
+  },
+  {
+   "off": 9228,
+   "budget": 59,
+   "en": "....No details, but a mean place￥in the RF district.",
+   "src": "B190:8860",
+   "carry": "rebroken",
+   "long": "I don't know much about it. It's a￥shabby little hospital in the RF￥district.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9287,
+   "budget": 31,
+   "en": "Why not check it out?",
+   "src": "B190:8917",
+   "carry": "exact"
+  },
+  {
+   "off": 9318,
+   "budget": 59,
+   "en": "That's all I know. You'll have to￥see for yourself.",
+   "src": "B190:8948",
+   "carry": "exact"
+  },
+  {
+   "off": 9377,
+   "budget": 79,
+   "en": "This is my trade.￥You understand? A little more￥generosity, please...",
+   "src": "B190:9007",
+   "carry": "rebroken",
+   "long": "This is a business, you understand?￥You'll have to be a little more￥generous.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9456,
+   "budget": 11,
+   "en": "Snow cedar",
+   "src": "B190:9084",
+   "carry": "exact"
+  },
+  {
+   "off": 9467,
+   "budget": 87,
+   "en": "A subspecies the army bred long￥ago, they say.￥A barrier weapon for bases.",
+   "src": "B190:9095",
+   "carry": "rebroken",
+   "long": "It's supposedly a subspecies the￥military engineered long ago to form￥defensive barriers around bases and￥the like.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9554,
+   "budget": 47,
+   "en": "But wasn't it all destroyed years￥ago?",
+   "src": "B190:9180",
+   "carry": "exact"
+  },
+  {
+   "off": 9601,
+   "budget": 61,
+   "en": "But they say it's breeding￥somewhere, these three years.",
+   "src": "B190:9227",
+   "carry": "rebroken",
+   "long": "They say it's been growing somewhere￥again for about three years.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9662,
+   "budget": 47,
+   "en": "Three years?￥That matches the Snatchers.",
+   "src": "B190:9286",
+   "carry": "exact",
+   "long": "Three years? That's when the￥Snatchers appeared."
+  },
+  {
+   "off": 9709,
+   "budget": 117,
+   "en": "Clear it and it breeds again.￥The breeding grounds are off￥limits, but the wind carries￥it to town.",
+   "src": "B190:9333",
+   "carry": "candidate_ok",
+   "en_candidate": "Clear it and it breeds again.￥The breeding grounds are off￥limits, but the wind carries￥it to town.",
+   "sim": 0.98,
+   "long": "It grows right back even if they￥remove it. The affected areas are￥off-limits, but the wind carries the￥pollen into town."
+  },
+  {
+   "off": 9826,
+   "budget": 7,
+   "en": "Show",
+   "src": "B190:9448",
+   "carry": "exact"
+  },
+  {
+   "off": 9833,
+   "budget": 15,
+   "en": "JUNKER ID",
+   "src": "B190:9455",
+   "carry": "exact"
+  },
+  {
+   "off": 9848,
+   "budget": 57,
+   "en": "For your own sake, don't flash that￥around here.",
+   "src": "B190:9470",
+   "carry": "exact"
+  },
+  {
+   "off": 9905,
+   "budget": 45,
+   "en": "I get it already! You're a JUNKER!",
+   "src": "B190:9527",
+   "carry": "exact"
+  },
+  {
+   "off": 9950,
+   "budget": 7,
+   "en": "Funds",
+   "src": "B190:9572",
+   "carry": "exact"
+  },
+  {
+   "off": 9957,
+   "budget": 35,
+   "en": "Cheapskate. Just showing it off?",
+   "src": "B190:9579",
+   "carry": "exact"
+  },
+  {
+   "off": 9992,
+   "budget": 43,
+   "en": "Oh? You've got quite a bit there.",
+   "src": "B190:9614",
+   "carry": "exact"
+  },
+  {
+   "off": 10035,
+   "budget": 25,
+   "en": "So, what do you want??",
+   "src": "B190:9657",
+   "carry": "exact",
+   "long": "So, what do you want to know?"
+  },
+  {
+   "off": 10060,
+   "budget": 5,
+   "en": "Drop",
+   "src": "B190:9682",
+   "carry": "exact",
+   "long": "Candy"
+  },
+  {
+   "off": 10065,
+   "budget": 29,
+   "en": "That's Gibson's candy.",
+   "src": "B190:9687",
+   "carry": "exact"
+  },
+  {
+   "off": 10094,
+   "budget": 35,
+   "en": "He always carried it with him.",
+   "src": "B190:9716",
+   "carry": "exact"
+  },
+  {
+   "off": 10129,
+   "budget": 11,
+   "en": "Chess man",
+   "src": "B190:9751",
+   "carry": "exact",
+   "long": "Chess piece"
+  },
+  {
+   "off": 10140,
+   "budget": 41,
+   "en": "Still no idea what this piece￥means.",
+   "src": "B190:9762",
+   "carry": "exact",
+   "long": "I still don't know what this chess￥piece means."
+  },
+  {
+   "off": 10181,
+   "budget": 25,
+   "en": "What could it be?",
+   "src": "B190:9803",
+   "carry": "exact"
+  },
+  {
+   "off": 10206,
+   "budget": 13,
+   "en": "Video memory",
+   "src": "B190:9828",
+   "carry": "exact"
+  },
+  {
+   "off": 10219,
+   "budget": 13,
+   "en": "Little John",
+   "src": "B190:9841",
+   "carry": "exact"
+  },
+  {
+   "off": 10232,
+   "budget": 57,
+   "en": "HOSPITAL OLEEN? What language is￥that?",
+   "src": "B190:9854",
+   "carry": "exact"
+  },
+  {
+   "off": 10289,
+   "budget": 33,
+   "en": "Where's that?￥Never seen it.",
+   "src": "B190:9911",
+   "carry": "exact",
+   "long": "Where could it be? I've never seen￥it."
+  },
+  {
+   "off": 10322,
+   "budget": 5,
+   "en": "Use",
+   "src": "B190:9944",
+   "carry": "exact"
+  },
+  {
+   "off": 10327,
+   "budget": 41,
+   "en": "Greedy as ever. Take it!",
+   "src": "B190:9949",
+   "carry": "exact"
+  },
+  {
+   "off": 10368,
+   "budget": 21,
+   "en": "Heh, much obliged.",
+   "src": "B190:9990",
+   "carry": "exact",
+   "long": "Heh. Always a pleasure."
+  },
+  {
+   "off": 10389,
+   "budget": 63,
+   "en": "Waste it for nothing and they￥call it wasted tax again!",
+   "src": "B190:10011",
+   "carry": "rebroken",
+   "long": "Keep throwing money away and people￥will accuse us of wasting taxes￥again!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10452,
+   "budget": 21,
+   "en": "Damn it. Keep it!",
+   "src": "B190:10072",
+   "carry": "exact"
+  },
+  {
+   "off": 10473,
+   "budget": 27,
+   "en": "Heh. Much appreciated.",
+   "src": "B190:10093",
+   "carry": "exact"
+  },
+  {
+   "off": 10500,
+   "budget": 73,
+   "en": "With these things, timing the￥payment is all.￥Or you get bled.",
+   "src": "B190:10120",
+   "carry": "rebroken",
+   "long": "Timing is everything when you offer￥money. Otherwise he'll just keep￥taking it.",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 10573,
+   "budget": 51,
+   "en": "Calling me out, then the￥videophone. Rude.",
+   "src": "B190:10195",
+   "carry": "rebroken",
+   "long": "You call me out here, then use the￥videophone? That's rude.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10624,
+   "budget": 31,
+   "en": "Use the videophone later.",
+   "src": "B190:10244",
+   "carry": "exact"
+  },
+  {
+   "off": 10655,
+   "budget": 29,
+   "en": "Business? Be quick.",
+   "src": "B190:10275",
+   "carry": "exact",
+   "long": "If you want something, make it￥quick."
+  },
+  {
+   "off": 10684,
+   "budget": 21,
+   "en": "A cold, Napoleon?",
+   "src": "B190:10304",
+   "carry": "exact",
+   "long": "Caught a cold, Napoleon?"
+  },
+  {
+   "off": 10705,
+   "budget": 15,
+   "en": "Allergies.",
+   "src": "B190:10325",
+   "carry": "exact"
+  },
+  {
+   "off": 10720,
+   "budget": 81,
+   "en": "There's a ragweed sort that￥blooms in winter...￥its pollen, it seems.",
+   "src": "B190:10340",
+   "carry": "rebroken",
+   "long": "Apparently some kind of ragweed￥blooms in winter. Its pollen must be￥causing this.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10801,
+   "budget": 73,
+   "en": "It blooms in midwinter and its￥pollen causes allergies. Snow￥Cedar?!",
+   "src": "B190:10419",
+   "carry": "exact"
+  },
+  {
+   "off": 10874,
+   "budget": 55,
+   "en": "Snatchers always bring a Snow Cedar￥response.",
+   "src": "B190:10492",
+   "carry": "rebroken",
+   "long": "We always detect Snow Cedar when a￥Snatcher appears.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10929,
+   "budget": 49,
+   "en": "I can't stop sneezing.",
+   "src": "B190:10545",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10978,
+   "budget": 21,
+   "en": "You've got it bad.",
+   "src": "B190:10592",
+   "carry": "exact"
+  },
+  {
+   "off": 10999,
+   "budget": 31,
+   "en": "Let's look for Catherine.",
+   "src": "B190:10613",
+   "carry": "exact"
+  },
+  {
+   "off": 11030,
+   "budget": 57,
+   "en": "Catherine did say she comes here￥often.",
+   "src": "B190:10644",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11087,
+   "budget": 51,
+   "en": "Catherine isn't here.￥Let's search elsewhere!",
+   "src": "B190:10699",
+   "carry": "exact",
+   "long": "Catherine doesn't seem to be here.￥Let's look elsewhere!"
+  },
+  {
+   "off": 11138,
+   "budget": 53,
+   "en": "Catherine hasn't come here.￥Let's look elsewhere.",
+   "src": "B190:10750",
+   "carry": "exact",
+   "long": "It doesn't look like Catherine came￥here. Let's try somewhere else."
+  },
+  {
+   "off": 11191,
+   "budget": 21,
+   "en": "Try elsewhere, then.",
+   "src": "B190:10803",
+   "carry": "exact",
+   "long": "Let's try somewhere else."
+  },
+  {
+   "off": 11212,
+   "budget": 37,
+   "en": "Shall we trust the fortune teller?",
+   "src": "B190:10824",
+   "carry": "exact"
+  },
+  {
+   "off": 11249,
+   "budget": 57,
+   "en": "It's even more crowded and festive￥than last time.",
+   "src": "B190:10861",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11306,
+   "budget": 55,
+   "en": "Even if Catherine's here,￥finding her is a job.",
+   "src": "B190:10916",
+   "carry": "rebroken",
+   "long": "Even if Catherine is here, finding￥her will be difficult.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11361,
+   "budget": 17,
+   "en": "Shop window",
+   "src": "B190:10969",
+   "carry": "exact"
+  },
+  {
+   "off": 11378,
+   "budget": 59,
+   "en": "Christmas and end-of-year￥merchandise is on display.",
+   "src": "B190:10986",
+   "carry": "rebroken",
+   "long": "The displays are full of Christmas￥and year-end merchandise.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11437,
+   "budget": 51,
+   "en": "Many clothes Catherine would like￥are out too.",
+   "src": "B190:11043",
+   "carry": "rebroken",
+   "long": "There are lots of clothes Catherine￥would like.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11488,
+   "budget": 31,
+   "en": "Catherine isn't here.",
+   "src": "B190:11092",
+   "carry": "exact"
+  },
+  {
+   "off": 11519,
+   "budget": 57,
+   "en": "Couples and families enjoy the￥Christmas air.",
+   "src": "B190:11123",
+   "carry": "exact",
+   "long": "Couples and families are enjoying￥the Christmas atmosphere."
+  },
+  {
+   "off": 11576,
+   "budget": 21,
+   "en": "Oh! Over there!",
+   "src": "B190:11180",
+   "carry": "exact"
+  },
+  {
+   "off": 11597,
+   "budget": 21,
+   "en": "Was that Catherine?",
+   "src": "B190:11201",
+   "carry": "exact",
+   "long": "Did you find Catherine?"
+  },
+  {
+   "off": 11618,
+   "budget": 25,
+   "en": "No, wrong person...",
+   "src": "B190:11222",
+   "carry": "exact",
+   "long": "No, I mistook someone else for her."
+  },
+  {
+   "off": 11643,
+   "budget": 25,
+   "en": "It wasn't her after all.",
+   "src": "B190:11247",
+   "carry": "exact"
+  },
+  {
+   "off": 11668,
+   "budget": 31,
+   "en": "I don't see Catherine.",
+   "src": "B190:11272",
+   "carry": "exact"
+  },
+  {
+   "off": 11699,
+   "budget": 41,
+   "en": "The town is decorated more￥each day.",
+   "src": "B190:11303",
+   "carry": "exact",
+   "long": "The city gets more decorations every￥day."
+  },
+  {
+   "off": 11740,
+   "budget": 33,
+   "en": "Ah, tissues lie there.",
+   "src": "B190:11344",
+   "carry": "exact",
+   "long": "Oh, there's a pack of tissues on the￥ground."
+  },
+  {
+   "off": 11773,
+   "budget": 37,
+   "en": "The kind Napoleon was handing out.",
+   "src": "B190:11377",
+   "carry": "exact"
+  },
+  {
+   "off": 11810,
+   "budget": 31,
+   "en": "These seem to be different.",
+   "src": "B190:11414",
+   "carry": "exact"
+  },
+  {
+   "off": 11841,
+   "budget": 51,
+   "en": "Catherine isn't near the shop￥windows.",
+   "src": "B190:11445",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11892,
+   "budget": 31,
+   "en": "No sign of Catherine.",
+   "src": "B190:11494",
+   "carry": "exact",
+   "long": "I can't see Catherine anywhere."
+  },
+  {
+   "off": 11923,
+   "budget": 55,
+   "en": "Finding Catherine in this crowd will￥be difficult.",
+   "src": "B190:11525",
+   "carry": "exact"
+  },
+  {
+   "off": 11978,
+   "budget": 11,
+   "en": "Tissues",
+   "src": "B190:11580",
+   "carry": "exact"
+  },
+  {
+   "off": 11989,
+   "budget": 79,
+   "en": "There's an ad on it. Cupid's Love￥Videophone.",
+   "src": "B190:11591",
+   "carry": "exact"
+  },
+  {
+   "off": 12068,
+   "budget": 19,
+   "en": "A dial Q2, that.",
+   "src": "B190:11670",
+   "carry": "exact",
+   "long": "A Q2 phone service."
+  },
+  {
+   "off": 12087,
+   "budget": 83,
+   "en": "It seems so.￥Let's see, the number for men is￥＠赤39-0911＠白.",
+   "src": "B190:11689",
+   "carry": "candidate_edit",
+   "en_candidate": "It seems so. The number for men is￥＠赤39-0910＠白.",
+   "sim": 0.97,
+   "note": "re-adapted 2026-09-30: own number kept; new PS1 wording"
+  },
+  {
+   "off": 12170,
+   "budget": 55,
+   "en": "＠赤39-0911＠白. Got it.",
+   "src": "B190:11772",
+   "carry": "candidate_edit",
+   "en_candidate": "＠赤39-0910＠白. Got it.",
+   "sim": 0.96,
+   "note": "re-adapted 2026-09-30: own number kept"
+  },
+  {
+   "off": 12225,
+   "budget": 33,
+   "en": "Surely... you mean to call?",
+   "src": "B190:11827",
+   "carry": "exact",
+   "long": "You're not planning to call, are￥you?"
+  },
+  {
+   "off": 12258,
+   "budget": 19,
+   "en": "Who knows?",
+   "src": "B190:11860",
+   "carry": "exact"
+  },
+  {
+   "off": 12277,
+   "budget": 15,
+   "en": "Find Catherine",
+   "src": "B190:11879",
+   "carry": "exact"
+  },
+  {
+   "off": 12292,
+   "budget": 53,
+   "en": "Catherine! Catherine! Answer me if￥you're here!",
+   "src": "B190:11894",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12345,
+   "budget": 41,
+   "en": "In such a crowd￥she can't hear.",
+   "src": "B190:11945",
+   "carry": "exact",
+   "long": "She won't hear you in this crowd,￥Gillian."
+  },
+  {
+   "off": 12386,
+   "budget": 59,
+   "en": "Right, try the busy quarter!￥Metal, don't miss her!",
+   "src": "B190:11986",
+   "carry": "exact",
+   "long": "Let's search the shopping district!￥Keep your eyes open, Metal!"
+  },
+  {
+   "off": 12445,
+   "budget": 47,
+   "en": "Understood. I won't miss Catherine!",
+   "src": "B190:12045",
+   "carry": "exact"
+  },
+  {
+   "off": 12492,
+   "budget": 27,
+   "en": "No good. Not a sign.",
+   "src": "B190:12092",
+   "carry": "rebroken",
+   "long": "No luck. She's nowhere in sight.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12519,
+   "budget": 19,
+   "en": "She's not here.",
+   "src": "B190:12117",
+   "carry": "exact",
+   "long": "She doesn't seem to be here."
+  },
+  {
+   "off": 12538,
+   "budget": 35,
+   "en": "Let's split up! I'll go here!",
+   "src": "B190:12136",
+   "carry": "rebroken",
+   "long": "Let's split up! I'll go this way!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12573,
+   "budget": 29,
+   "en": "Then I'll search over here.",
+   "src": "B190:12169",
+   "carry": "exact"
+  },
+  {
+   "off": 12602,
+   "budget": 9,
+   "en": "Found?",
+   "src": "B190:12198",
+   "carry": "exact",
+   "long": "Did you find her?"
+  },
+  {
+   "off": 12611,
+   "budget": 27,
+   "en": "No, I can't find her!",
+   "src": "B190:12207",
+   "carry": "exact"
+  },
+  {
+   "off": 12638,
+   "budget": 29,
+   "en": "Let's look over there.",
+   "src": "B190:12234",
+   "carry": "exact"
+  },
+  {
+   "off": 12667,
+   "budget": 25,
+   "en": "No good, not a sign.",
+   "src": "B190:12263",
+   "carry": "exact",
+   "long": "No luck. She's nowhere in sight."
+  },
+  {
+   "off": 12692,
+   "budget": 53,
+   "en": "Still searching? I don't think she's￥here.",
+   "src": "B190:12288",
+   "carry": "exact"
+  },
+  {
+   "off": 12745,
+   "budget": 29,
+   "en": "Ah, that fortune teller!!",
+   "src": "B190:12341",
+   "carry": "exact",
+   "long": "Oh, there's that fortune teller!"
+  },
+  {
+   "off": 12774,
+   "budget": 21,
+   "en": "That fraud?!",
+   "src": "B190:12370",
+   "carry": "exact"
+  },
+  {
+   "off": 12795,
+   "budget": 87,
+   "en": "Don't get so angry. We could ask her￥to tell us where Catherine is.",
+   "src": "B190:12391",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12882,
+   "budget": 45,
+   "en": "She won't know. She's a fake.",
+   "src": "B190:12476",
+   "carry": "exact"
+  },
+  {
+   "off": 12927,
+   "budget": 83,
+   "en": "She has an excellent network of￥contacts. She might know something.",
+   "src": "B190:12521",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13010,
+   "budget": 15,
+   "en": "More than us?",
+   "src": "B190:12602",
+   "carry": "exact",
+   "long": "Better than ours?"
+  },
+  {
+   "off": 13025,
+   "budget": 13,
+   "en": "Divine",
+   "src": "B190:12617",
+   "carry": "exact",
+   "long": "Get a reading"
+  },
+  {
+   "off": 13038,
+   "budget": 73,
+   "en": "The ID card proving all JUNKER￥authority. Keep it safe.",
+   "src": "B190:12630",
+   "carry": "rebroken",
+   "long": "This ID card certifies all your￥authority as a JUNKER. Take good￥care of it.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 13111,
+   "budget": 35,
+   "en": "It's the money JUNKER provided.",
+   "src": "B190:12699",
+   "carry": "exact"
+  },
+  {
+   "off": 13146,
+   "budget": 35,
+   "en": "It's the candy from Jean's pocket.",
+   "src": "B190:12734",
+   "carry": "exact"
+  },
+  {
+   "off": 13181,
+   "budget": 7,
+   "en": "Proof",
+   "src": "B190:12769",
+   "carry": "exact",
+   "long": "Evidence"
+  },
+  {
+   "off": 13188,
+   "budget": 3,
+   "en": "Pc",
+   "src": "B190:12776",
+   "carry": "exact",
+   "long": "Chess piece"
+  },
+  {
+   "off": 13191,
+   "budget": 69,
+   "en": "It's Gibson's chess piece, the clue￥to Queen Hospital's name.",
+   "src": "B190:12779",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13260,
+   "budget": 37,
+   "en": "A chess piece Gibson carried.",
+   "src": "B190:12846",
+   "carry": "exact",
+   "long": "It's the chess piece Gibson was￥carrying."
+  },
+  {
+   "off": 13297,
+   "budget": 7,
+   "en": "Chart",
+   "src": "B190:12883",
+   "carry": "exact",
+   "long": "Medical chart"
+  },
+  {
+   "off": 13304,
+   "budget": 41,
+   "en": "A chart with a Snatcher's￥name on it.",
+   "src": "B190:12890",
+   "carry": "exact",
+   "long": "It's the medical record with a￥Snatcher's name on it."
+  },
+  {
+   "off": 13345,
+   "budget": 37,
+   "en": "Found on a desk at￥Queen Hospital.",
+   "src": "B190:12931",
+   "carry": "exact",
+   "long": "We found it in the desk at Queen￥Hospital."
+  },
+  {
+   "off": 13382,
+   "budget": 7,
+   "en": "Match",
+   "src": "B190:12968",
+   "carry": "exact",
+   "long": "Matches"
+  },
+  {
+   "off": 13389,
+   "budget": 45,
+   "en": "Old-fashioned matches from￥Queen Hosp.",
+   "src": "B190:12975",
+   "carry": "rebroken",
+   "long": "They're the old-fashioned matches￥from Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13434,
+   "budget": 9,
+   "en": "Memo",
+   "src": "B190:13018",
+   "carry": "exact"
+  },
+  {
+   "off": 13443,
+   "budget": 31,
+   "en": "A memo in Harry's hand.",
+   "src": "B190:13027",
+   "carry": "exact",
+   "long": "It's the note Harry apparently￥wrote."
+  },
+  {
+   "off": 13474,
+   "budget": 45,
+   "en": "A memo left in the mechanic room.",
+   "src": "B190:13058",
+   "carry": "rebroken",
+   "long": "It's the note we found in the￥Mechanic room.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13519,
+   "budget": 49,
+   "en": "Footage left in Little John's￥memory.",
+   "src": "B190:13101",
+   "carry": "rebroken",
+   "long": "It's the image recovered from Little￥John's memory.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13568,
+   "budget": 9,
+   "en": "Red Sq.",
+   "src": "B190:13148",
+   "carry": "exact",
+   "long": "Red Square"
+  },
+  {
+   "off": 13577,
+   "budget": 41,
+   "en": "A still photo hidden in￥the Chief's rm",
+   "src": "B190:13157",
+   "carry": "exact",
+   "long": "It's the photograph hidden in the￥Chief's office."
+  },
+  {
+   "off": 13618,
+   "budget": 5,
+   "en": "Hall",
+   "src": "B190:13198",
+   "carry": "exact",
+   "long": "Temple"
+  },
+  {
+   "off": 13623,
+   "budget": 49,
+   "en": "Temple painting from a￥Queen Hospital room.",
+   "src": "B190:13203",
+   "carry": "rebroken",
+   "long": "It's the picture of a temple that￥was hanging in Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13672,
+   "budget": 67,
+   "en": "It has a built-in chip containing￥all your records, Gillian.",
+   "src": "B190:13250",
+   "carry": "exact"
+  },
+  {
+   "off": 13739,
+   "budget": 51,
+   "en": "Case expenses are covered￥as work requires.",
+   "src": "B190:13317",
+   "carry": "rebroken",
+   "long": "In principle, there's no limit on￥reimbursement for necessary￥investigation expenses.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13790,
+   "budget": 47,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "src": "B190:13366",
+   "carry": "rebroken",
+   "long": "It's the candy Jean used to give the￥children at the orphanage.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13837,
+   "budget": 59,
+   "en": "So the piece pointed to the name￥of Queen Hospital.",
+   "src": "B190:13411",
+   "carry": "rebroken",
+   "long": "This piece was apparently meant to￥tell us the name Queen Hospital.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13896,
+   "budget": 57,
+   "en": "It's a wooden chess piece. The￥queen.",
+   "src": "B190:13468",
+   "carry": "exact"
+  },
+  {
+   "off": 13953,
+   "budget": 85,
+   "en": "It's a code using Chinese chemical￥element symbols. Decoded, it reads￥BENSON.",
+   "src": "B190:13525",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14038,
+   "budget": 65,
+   "en": "It seems to be part of a medical￥record, but what does it say?",
+   "src": "B190:13608",
+   "carry": "exact"
+  },
+  {
+   "off": 14103,
+   "budget": 73,
+   "en": "Matches from 'Outer Heaven'.￥A gift for the regulars,￥no doubt.",
+   "src": "B160:8083",
+   "carry": "exact",
+   "long": "They're matches from Outer Heaven.￥Probably free gifts for regular￥customers.",
+   "note": "from B160"
+  },
+  {
+   "off": 14176,
+   "budget": 61,
+   "en": "\"Face to Face\"￥This note reveals the secret of the￥optical illusion.",
+   "src": "B190:13746",
+   "carry": "candidate_edit",
+   "en_candidate": "'face to face'￥A memo on the illusion￥picture's secret.",
+   "sim": 0.93,
+   "note": "re-adapted 2026-09-30: new PS1 long, Saturn capitals"
+  },
+  {
+   "off": 14237,
+   "budget": 79,
+   "en": "\"Face to Face\"￥It's Harry's handwriting, but what￥does it mean?",
+   "src": "B190:13807",
+   "carry": "candidate_edit",
+   "en_candidate": "\"Face to face.\" It's Harry's￥handwriting, but what does it mean?",
+   "sim": 0.95,
+   "note": "re-adapted 2026-09-30: new PS1 wording, Saturn capitals"
+  },
+  {
+   "off": 14316,
+   "budget": 55,
+   "en": "It's an image of Queen Hospital's￥neon sign.",
+   "src": "B190:13884",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14371,
+   "budget": 69,
+   "en": "It reads \"Hospital OLEEN.\" It must￥be a hospital's neon sign.",
+   "src": "B190:13937",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14440,
+   "budget": 65,
+   "en": "A still photo of Red Square￥in Moscow, before the Catastrophe.",
+   "src": "B190:14004",
+   "carry": "exact",
+   "long": "It's a photograph of Red Square in￥Moscow before the Catastrophe."
+  },
+  {
+   "off": 14505,
+   "budget": 69,
+   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "src": "B190:14069",
+   "carry": "rebroken",
+   "long": "It's St. Basil's Cathedral, a famous￥landmark in Moscow before the￥Catastrophe.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14574,
+   "budget": 19,
+   "en": "Money's no worry.",
+   "src": "B190:14136",
+   "carry": "exact",
+   "long": "Money won't be a problem."
+  },
+  {
+   "off": 14593,
+   "budget": 41,
+   "en": "Look flush and they'll￥fleece you.",
+   "src": "B190:14155",
+   "carry": "exact",
+   "long": "If they think you have an endless￥supply, they'll overcharge you."
+  },
+  {
+   "off": 14634,
+   "budget": 35,
+   "en": "The neon can't be seen from here.",
+   "src": "B190:14196",
+   "carry": "exact",
+   "long": "I can't see that neon sign from￥here."
+  },
+  {
+   "off": 14669,
+   "budget": 45,
+   "en": "That hospital isn't in Altamira.",
+   "src": "B190:14231",
+   "carry": "rebroken",
+   "long": "That hospital doesn't seem to be in￥Altamira.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14716,
+   "budget": 3,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

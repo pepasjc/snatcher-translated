@@ -1,0 +1,178 @@
+{
+ "60": {
+  "speaker": "Metal Gear",
+  "en": "An emergency call from headquarters. I'll put it through.",
+  "ps1": [
+   "B170_f14_0"
+  ],
+  "cards": [
+   "An emergency call|from headquarters.|I'll put it through."
+  ]
+ },
+ "61": {
+  "speaker": "Mika",
+  "en": "Gillian, I finally reached you! Catherine called a little while ago. She said she has something to give you.",
+  "ps1": [
+   "B170_f15_0",
+   "B170_f15_0b",
+   "B170_f15_0c"
+  ],
+  "cards": [
+   "Gillian, I finally|reached you!",
+   "Catherine called a little|while ago.",
+   "She said she has|something to give you."
+  ],
+  "layout": "plain",
+  "turns": [
+   2.62,
+   4.88
+  ]
+ },
+ "62": {
+  "speaker": "Gillian",
+  "en": "Something for me? What could it be?",
+  "ps1": [
+   "B170_f16_0"
+  ],
+  "cards": [
+   "Something for me?|What could it be?"
+  ]
+ },
+ "63": {
+  "speaker": "Mika",
+  "en": "She sounded terrified. She said Alice was barking.",
+  "ps1": [
+   "B170_f17_0"
+  ],
+  "cards": [
+   "She sounded terrified.|She said Alice was barking."
+  ],
+  "layout": "plain"
+ },
+ "64": {
+  "speaker": "Gillian",
+  "en": "When was this?!",
+  "ps1": [
+   "B170_f18_0"
+  ],
+  "cards": [
+   "When was this?!"
+  ]
+ },
+ "65": {
+  "speaker": "Mika",
+  "en": "About thirty minutes ago.",
+  "ps1": [
+   "B170_f19_0"
+  ],
+  "cards": [
+   "About thirty minutes ago."
+  ],
+  "layout": "plain"
+ },
+ "66": {
+  "speaker": "Gillian",
+  "en": "Damn it!",
+  "ps1": [],
+  "cards": [
+   "Damn it!"
+  ]
+ },
+ "67": {
+  "speaker": "Metal Gear",
+  "en": "Gillian, we have to hurry!",
+  "ps1": [
+   "B170_f21_0"
+  ],
+  "cards": [
+   "Gillian, we have to|hurry!"
+  ]
+ },
+ "68": {
+  "speaker": "Gillian",
+  "en": "Catherine's in danger!",
+  "ps1": [
+   "B170_f22_0"
+  ],
+  "cards": [
+   "Catherine's in|danger!"
+  ]
+ },
+ "d7": {
+  "speaker": "Jamie",
+  "en": "Surprised? This is a recording.",
+  "ps1": [
+   "B060_002"
+  ],
+  "cards": [
+   "Surprised? This is a|recording."
+  ],
+  "layout": "plain"
+ },
+ "da": {
+  "speaker": "Jamie",
+  "en": "I'm out at the moment. You can reach me at Neo Kobe Pharmaceutical Lab, 39-1009. Sorry for the surprise. Bye!",
+  "ps1": [
+   "B060_003",
+   "B060_003b",
+   "B060_003c",
+   "B060_003d"
+  ],
+  "cards": [
+   "I'm out at the moment.",
+   "You can reach me at Neo|Kobe Pharmaceutical Lab, 39-1009.",
+   "Sorry for the surprise.|Bye!"
+  ],
+  "layout": "plain",
+  "turns": [
+   3.1,
+   10.92
+  ]
+ },
+ "db": {
+  "speaker": "Jamie",
+  "en": "Hello, Neo Kobe Pharma- Oh, Gillian! What's wrong?",
+  "ps1": [
+   "B060_004"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Hello, Neo Kobe Pharma-|Oh, Gillian! What's wrong?"
+  ]
+ },
+ "dc": {
+  "speaker": "Jamie",
+  "en": "Hello, Neo Kobe Pharmaceutical Lab. Oh, it's you, Gillian.",
+  "ps1": [
+   "B060_005",
+   "B060_005b"
+  ],
+  "cards": [
+   "Hello, Neo Kobe|Pharmaceutical Lab.",
+   "Oh, it's you, Gillian."
+  ],
+  "layout": "plain",
+  "turns": [
+   5.52
+  ]
+ },
+ "f8": {
+  "speaker": "Voice",
+  "en": "The number you have dialed is not in service. Please check the number and try again.",
+  "ps1": [
+   "B060_007",
+   "B060_007b"
+  ],
+  "layout": "plain",
+  "cards": [
+   "The number you have|dialed is not in service.",
+   "Please check the number|and try again."
+  ],
+  "turns": [
+   8.34
+  ]
+ },
+ "_unmatched": {
+  "d6": "0.05 XAS_M000.XA[722]"
+ }
+}

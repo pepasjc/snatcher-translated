@@ -1,0 +1,12 @@
+{
+ "scene": "B0D0",
+ "note": "Fresh boot from the B0D0 scene save: Napoleon comes on the crowd search, let him go, search the crowd again until Get fortune told appears, then the fortune teller.",
+ "actions": [
+  {"sweep": ["Look", "Investigate"], "rounds": 2},
+  {"path": ["Let him go"], "optional": true, "patience": 3000},
+  {"sweep": ["Look", "Investigate"], "rounds": 10},
+  {"save": "B0D0_fortune_ready"},
+  {"path": ["Get fortune told"], "patience": 3000},
+  {"idle": 6000}
+ ]
+}

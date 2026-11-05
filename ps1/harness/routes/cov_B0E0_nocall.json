@@ -1,0 +1,54 @@
+{
+ "scene": "B0D0",
+ "note": "Coverage: B0E0_103 (Gillian at Joy Division's street: 'where's that store?', M000 ch1 f19) - hypothesis: plays when Gillian rides there without having phoned Joy Division (69-1170) for the store's location. From wg/wg06_B0D0 (after Napoleon), skipping the call (whole_game.route.json 112-118).",
+ "actions": [
+  {
+   "path": [
+    "Move",
+    "Board Tricycle"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Board Tricycle"
+   ],
+   "patience": 1500,
+   "optional": true
+  },
+  {
+   "path": [
+    "Joy Division"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "idle": 600
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Move",
+    "Enter shop"
+   ],
+   "optional": true
+  },
+  {
+   "idle": 2000
+  }
+ ]
+}

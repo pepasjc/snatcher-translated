@@ -1,0 +1,7 @@
+{"scene":"B0D0","note":"Altamira (guides/ps1.txt ALTON PLAZA): everything is sweeps - look/check x6, show ID, talk about Gibson, ask about the restaurant, cash, Outer Heaven, Joy Division. The Kobe-yaki stand is somewhere in here (Item > Use > Cash at the stand?).",
+ "actions":[
+  {"save":"B0D0_start"},
+  {"sweep":["Look","Investigate","Talk","Ask","Item","Listen"],"rounds":3},
+  {"save":"B0D0_swept"},
+  {"sweep":["Move"],"each":["Look","Investigate","Talk","Ask","Item","Listen"],"each_rounds":2,"rounds":2}
+ ]}

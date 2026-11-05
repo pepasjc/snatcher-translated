@@ -1,0 +1,39 @@
+{
+ "scene": "B120",
+ "note": "Coverage: Freddy's apartment with Lisa inside (bookmark cov_B120_bath: the whole-game run's state at the bathroom, copied from its states/), back to the living room and Lisa investigated again and again until she throws Gillian out (B120_000..002) - Catherine does the same in B0C0 on the sixth Investigate.",
+ "actions": [
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "path": [
+    "To living room"
+   ],
+   "optional": true
+  },
+  {
+   "wait_menu": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Investigate",
+    "Lisa"
+   ],
+   "reps": 10,
+   "optional": true
+  },
+  {
+   "path": [
+    "Look",
+    "Lisa"
+   ],
+   "reps": 6,
+   "optional": true
+  },
+  {
+   "idle": 600
+  }
+ ]
+}

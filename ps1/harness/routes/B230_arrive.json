@@ -1,0 +1,28 @@
+{
+ "scene": "B230",
+ "note": "From the B230_arrive bookmark (JUNKER HQ front after the taxi, PILOT_OK=cross): Look/Investigate everything until Open shutter appears, open it - Mika in the booth (f20-f42), then the hallway: Harry's death reel (S000 ch1 f2, B230_h_*). GitHub #75.",
+ "actions": [
+  {
+   "path": [
+    "Go inside"
+   ],
+   "patience": 1800
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Use Metal Gear",
+    "Open shutter"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Save",
+    "Quit game"
+   ]
+  },
+  {
+   "idle": 6000
+  }
+ ]
+}

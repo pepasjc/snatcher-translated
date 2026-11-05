@@ -1,0 +1,8 @@
+# Building the patches (build.py). Versions are the ones the releases were built with.
+numpy==1.26.4
+Pillow==11.1.0
+# the Saturn build assembles SH-2 stubs and checks them with a disassembly
+capstone==5.0.7
+# the PS1 intro movie's first build only (ps1/tools/fmvtext.py repaints the frames)
+opencv-python-headless==4.11.0.86
+scipy==1.12.0

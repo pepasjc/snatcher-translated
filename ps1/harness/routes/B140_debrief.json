@@ -1,0 +1,11 @@
+{"scene": "B140", "note": "Act 2 start from Luiz's card (act2-start-dev save 1): the Chief's debrief montage plays on load (76 cards), then HQ (B150): bookmark, and call Jamie (39-3444) for BUG-039 (#17) - she is out, her recorded message plays under B070",
+ "actions": [
+  {"idle": 20000},
+  {"save": "B150_debrief_end"},
+  {"path": ["Use Metal Gear", "Videophone"]},
+  {"path": ["Call"], "optional": true, "patience": 1500},
+  {"dial": "393444"},
+  {"idle": 3000},
+  {"sweep": ["Talk", "Ask"], "rounds": 1},
+  {"idle": 600}
+ ]}

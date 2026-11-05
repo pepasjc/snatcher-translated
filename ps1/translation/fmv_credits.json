@@ -1,0 +1,316 @@
+{
+  "_comment": "English for the burned-in text in the intro FMV (STR/MX2_S000.STR, jPSXdec item 1952). 'lines' map to the text bands the mask finds, top to bottom. Japanese personal names are romanised given-name-first. Two readings are best-effort: the composer credited as 岐田寸 and the producer 北上一三 are pen names.",
+  "segments": [
+    {
+      "name": "fmv-disclaimer",
+      "frames": [
+        2,
+        150
+      ],
+      "rows": [
+        [
+          68,
+          83
+        ],
+        [
+          88,
+          103
+        ],
+        [
+          108,
+          123
+        ],
+        [
+          128,
+          142
+        ],
+        [
+          148,
+          162
+        ]
+      ],
+      "lines": [
+        "This story is fiction. The",
+        "groups, companies and persons",
+        "appearing in it are fictitious,",
+        "and any resemblance to real",
+        "ones is purely coincidental."
+      ],
+      "ink_pct": 60,
+      "static": true,
+      "flat": true,
+      "grow": 3
+    },
+    {
+      "name": "caption-neokobe",
+      "frames": [
+        2330,
+        2660
+      ],
+      "rows": [
+        [
+          122,
+          136
+        ]
+      ],
+      "lines": [
+        "NEO KOBE CITY"
+      ],
+      "ink_pct": 70
+    },
+    {
+      "name": "cast-title",
+      "frames": [
+        2680,
+        2760
+      ],
+      "lines": [
+        "CAST"
+      ],
+      "rows": [
+        [
+          104,
+          122
+        ]
+      ]
+    },
+    {
+      "name": "cast-gillian",
+      "frames": [
+        2790,
+        2872
+      ],
+      "lines": [
+        "GILLIAN SEED",
+        "Yusaku Yara"
+      ]
+    },
+    {
+      "name": "cast-mgmk2",
+      "frames": [
+        2890,
+        2975
+      ],
+      "lines": [
+        "METAL GEAR Mk.II",
+        "Mami Koyama"
+      ]
+    },
+    {
+      "name": "cast-jamie",
+      "frames": [
+        2990,
+        3075
+      ],
+      "lines": [
+        "JAMIE SEED",
+        "Kikuko Inoue"
+      ]
+    },
+    {
+      "name": "cast-random",
+      "frames": [
+        3090,
+        3175
+      ],
+      "lines": [
+        "RANDAM HAJILE",
+        "Kaneto Shiozawa"
+      ]
+    },
+    {
+      "name": "cast-mika",
+      "frames": [
+        3190,
+        3275
+      ],
+      "lines": [
+        "MIKA SLAYTON",
+        "Mina Tominaga"
+      ]
+    },
+    {
+      "name": "cast-harry",
+      "frames": [
+        3290,
+        3375
+      ],
+      "lines": [
+        "HARRY BENSON",
+        "Ryuji Saikachi"
+      ]
+    },
+    {
+      "name": "cast-gibson",
+      "frames": [
+        3390,
+        3475
+      ],
+      "lines": [
+        "JEAN JACK GIBSON",
+        "Isao Inokuchi"
+      ]
+    },
+    {
+      "name": "cast-benson",
+      "frames": [
+        3490,
+        3575
+      ],
+      "lines": [
+        "BENSON CUNNINGHAM",
+        "Goro Naya"
+      ]
+    },
+    {
+      "name": "staff-title",
+      "frames": [
+        3670,
+        3730
+      ],
+      "lines": [
+        "STAFF"
+      ],
+      "rows": [
+        [
+          104,
+          122
+        ]
+      ]
+    },
+    {
+      "name": "staff-story",
+      "frames": [
+        3745,
+        3810
+      ],
+      "lines": [
+        "ORIGINAL STORY & SCRIPT",
+        "Hideo Kojima"
+      ]
+    },
+    {
+      "name": "staff-chara",
+      "frames": [
+        3820,
+        3870
+      ],
+      "lines": [
+        "CHARACTER DESIGN",
+        "Tomiharu Kinoshita"
+      ]
+    },
+    {
+      "name": "staff-gfx1",
+      "frames": [
+        3875,
+        3922
+      ],
+      "lines": [
+        "GRAPHICS",
+        "Shin Toyama    Naoya Hatsumi",
+        "Takayuki Ando    Jun Asami"
+      ],
+      "ink_pct": 70
+    },
+    {
+      "name": "staff-gfx2",
+      "frames": [
+        3928,
+        3975
+      ],
+      "lines": [
+        "GRAPHICS",
+        "Yohei Kiyohara    Rieko Komatsubara",
+        "Yumiko Takahashi"
+      ],
+      "ink_pct": 70
+    },
+    {
+      "name": "staff-prog",
+      "frames": [
+        3990,
+        4040
+      ],
+      "lines": [
+        "PROGRAM",
+        "Masayuki Aizawa    Kazuki Araki",
+        "Hiroyuki Asata    Atsushi Mizutani"
+      ],
+      "ink_pct": 70
+    },
+    {
+      "name": "staff-adapt",
+      "frames": [
+        4050,
+        4095
+      ],
+      "lines": [
+        "SCRIPT ADAPTATION",
+        "Kensuke Yoshitomi",
+        "PUBLICITY",
+        "Taeko Hayasaka"
+      ]
+    },
+    {
+      "name": "staff-sound",
+      "frames": [
+        4110,
+        4160
+      ],
+      "lines": [
+        "SOUND PROGRAM",
+        "Noritada \"NOB\" Matsukawa",
+        "SOUND MIXING",
+        "Gott Adachi"
+      ]
+    },
+    {
+      "name": "staff-music",
+      "frames": [
+        4170,
+        4220
+      ],
+      "lines": [
+        "MUSIC",
+        "Kidasun",
+        "SOUND EFFECTS",
+        "Hiroe Noguchi"
+      ]
+    },
+    {
+      "name": "staff-dir",
+      "frames": [
+        4232,
+        4285
+      ],
+      "lines": [
+        "DIRECTOR",
+        "Masayuki Aizawa"
+      ]
+    },
+    {
+      "name": "staff-prod",
+      "frames": [
+        4295,
+        4345
+      ],
+      "lines": [
+        "PRODUCERS",
+        "Ichizo Kitakami",
+        "Kazuhisa Hashimoto"
+      ]
+    },
+    {
+      "name": "staff-konami",
+      "frames": [
+        4355,
+        4450
+      ],
+      "lines": [
+        "PRODUCED BY",
+        "KONAMI CORPORATION"
+      ]
+    }
+  ]
+}

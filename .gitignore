@@ -1,0 +1,74 @@
+# The repo carries tools and English data only. Game data - disc images,
+# extractions, patched output, Japanese script dumps, the Sega CD corpus,
+# savestates, RAM dumps, memory cards - never enters it.
+
+# Disc images and everything extracted from them (all four platforms)
+discs/
+patched/
+release/
+
+# Reference corpora that are not ours: community JP dumps, the Sega CD
+# script, third-party walkthroughs (routing input for the headless pilot)
+reference/
+guides/
+
+# Scratch: RAM/VRAM dumps, JP reference text (work/ref), per-batch
+# translation scripts (they quote source lines), bookmarks (work/states),
+# the memory-card library (work/saves), harness runs. Real source never
+# lives here any more - it moved to lib/, ps1/, pce/.
+#
+# Except the build's own inputs that are neither game content nor
+# regenerable exactly (2026-09-12, after the junction deletion took them):
+# the pair-glyph table every translation was fitted against (a rebuild
+# can shift pairs and budgets), the disc's file map, the voice census,
+# jPSXdec's index of the original disc and the font's slot table.
+work/*
+!work/pair_table.json
+!work/free_slots.json
+!work/lba_map.json
+!work/master_lines.json
+!work/snatcher_jp.idx
+!work/font_table.txt
+
+# Stale bulk parked during the 2026-09-10 reorganisation (old CHDs and
+# releases, emulator installs, one-off logs). Delete when sure.
+archive/
+
+# Emulators and their state. Third-party binaries are not ours to
+# redistribute, and memory cards / savestates are game data.
+mednafen/
+duckstation/
+NO$PSX.*
+no$psx.*
+MEMCARD/
+memcards/
+savestates/
+*.mcd
+*.sav
+*.exe
+*.dll
+
+__pycache__/
+*.pyc
+*.tmp
+
+# Third-party tools that the build scripts download on demand:
+# jPSXdec (ps1/tools/fmvtext.py), chdman (Convert-To-CHD.bat),
+# xdelta3 (Make-Patch.bat)
+lib/jpsxdec/
+lib/chdman/
+lib/xdelta/
+
+# jPSXdec / emulator droppings (written to the CWD of the run)
+.sentry-native/
+debug00.log
+index.log
+replace.log
+save.log
+
+# Windows fonts a few pictures are rendered in (lib/sysfont.py): copies the
+# builder supplies, never redistributed
+fonts/
+
+# machine-specific dev paths (lib/devpaths.py); local_paths.example.json shows the keys
+local_paths.json

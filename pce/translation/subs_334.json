@@ -1,0 +1,635 @@
+{
+ "51": {
+  "speaker": "Metal Gear",
+  "en": "What?!",
+  "ps1": [
+   "B020_f2_0"
+  ],
+  "cards": [
+   "What?!"
+  ],
+  "layout": "face"
+ },
+ "52": {
+  "speaker": "Gillian",
+  "en": "What was that?",
+  "ps1": [
+   "B020_000"
+  ],
+  "cards": [
+   "What was that?"
+  ],
+  "layout": "face"
+ },
+ "53": {
+  "speaker": "Metal Gear",
+  "en": "A man screamed. Has something happened to Jean?",
+  "ps1": [
+   "B020_001",
+   "B020_001b"
+  ],
+  "cards": [
+   "A man screamed. Has|something happened|to Jean?"
+  ],
+  "layout": "face"
+ },
+ "54": {
+  "speaker": "Metal Gear",
+  "en": "Careful, Gillian. I'm detecting several moving objects. Snatchers or Insectors may be hiding nearby.",
+  "ps1": [
+   "B020_002",
+   "B020_002b",
+   "B020_002c"
+  ],
+  "cards": [
+   "Careful, Gillian.|I'm detecting|several moving|objects.",
+   "Snatchers or|Insectors may be|hiding nearby."
+  ],
+  "layout": "face",
+  "turns": [
+   4.64
+  ]
+ },
+ "55": {
+  "speaker": "Gillian",
+  "en": "What's an Insector?",
+  "ps1": [
+   "B020_003"
+  ],
+  "cards": [
+   "What's an Insector?"
+  ],
+  "layout": "face"
+ },
+ "56": {
+  "speaker": "Metal Gear",
+  "en": "A spider-shaped robot the Snatchers use as a warning sensor. They're small, but they attack with needle guns. Be careful.",
+  "ps1": [
+   "B020_004",
+   "B020_004b",
+   "B020_004c"
+  ],
+  "cards": [
+   "A spider-shaped|robot the Snatchers|use as a warning|sensor.",
+   "They're small, but|they attack with|needle guns. Be|careful."
+  ],
+  "layout": "face",
+  "turns": [
+   4.26
+  ]
+ },
+ "57": {
+  "speaker": "Gillian",
+  "en": "Th-this is...!",
+  "ps1": [],
+  "cards": [
+   "Th-this is...!"
+  ],
+  "layout": "face"
+ },
+ "58": {
+  "speaker": "Metal Gear",
+  "en": "Little John!",
+  "ps1": [
+   "B020_005"
+  ],
+  "cards": [
+   "Little John!"
+  ],
+  "layout": "face"
+ },
+ "59": {
+  "speaker": "Gillian",
+  "en": "Little John?",
+  "ps1": [
+   "B020_006"
+  ],
+  "cards": [
+   "Little John?"
+  ],
+  "layout": "face"
+ },
+ "5a": {
+  "speaker": "Metal Gear",
+  "en": "He's Jean Jack Gibson's personal Navigator.",
+  "ps1": [
+   "B020_007"
+  ],
+  "cards": [
+   "He's Jean Jack|Gibson's personal|Navigator."
+  ],
+  "layout": "face"
+ },
+ "5b": {
+  "speaker": "Gillian",
+  "en": "How's Little John's memory? If it's intact, take it out.",
+  "ps1": [
+   "B020_008",
+   "B020_008b"
+  ],
+  "cards": [
+   "How's Little John's|memory? If it's|intact, take it out."
+  ],
+  "layout": "face"
+ },
+ "5c": {
+  "speaker": "Metal Gear",
+  "en": "Let's recover his memory, just in case.",
+  "ps1": [
+   "B020_009"
+  ],
+  "cards": [
+   "Let's recover his|memory, just in|case."
+  ],
+  "layout": "face"
+ },
+ "5d": {
+  "speaker": "Metal Gear",
+  "en": "I've recovered the memory chip.",
+  "ps1": [
+   "B020_010"
+  ],
+  "cards": [
+   "I've recovered the|memory chip."
+  ],
+  "layout": "face"
+ },
+ "5e": {
+  "speaker": "Gillian",
+  "en": "The bastards. Look what they did.",
+  "ps1": [
+   "B020_011"
+  ],
+  "cards": [
+   "The bastards. Look|what they did."
+  ],
+  "layout": "face"
+ },
+ "60": {
+  "speaker": "Metal Gear",
+  "en": "A scan of Jean's stomach shows damage extending from the submucosa into the muscle layer.",
+  "ps1": [
+   "B020_012",
+   "B020_012b",
+   "B020_012c"
+  ],
+  "cards": [
+   "A scan of Jean's|stomach shows|damage extending",
+   "from the submucosa|into the muscle|layer."
+  ],
+  "layout": "face",
+  "turns": [
+   3.78
+  ]
+ },
+ "61": {
+  "speaker": "Gillian",
+  "en": "Gibson had a stomach ulcer?",
+  "ps1": [
+   "B020_013"
+  ],
+  "cards": [
+   "Gibson had a|stomach ulcer?"
+  ],
+  "layout": "face"
+ },
+ "62": {
+  "speaker": "Metal Gear",
+  "en": "Yes. There are remains in his stomach, too.",
+  "ps1": [
+   "B020_014"
+  ],
+  "cards": [
+   "Yes. There are|remains in his|stomach, too."
+  ],
+  "layout": "face"
+ },
+ "63": {
+  "speaker": "Gillian",
+  "en": "Something left? If we identify it and how far it's digested, we can retrace Gibson's movements.",
+  "ps1": [
+   "B020_015",
+   "B020_015b",
+   "B020_015c"
+  ],
+  "cards": [
+   "Something left?",
+   "If we identify it|and how far it's|digested,",
+   "we can retrace|Gibson's movements."
+  ],
+  "layout": "face",
+  "turns": [
+   2.12,
+   4.9
+  ]
+ },
+ "64": {
+  "speaker": "Metal Gear",
+  "en": "I'll analyze the hair sample now.",
+  "ps1": [
+   "B020_016",
+   "B020_016b"
+  ],
+  "cards": [
+   "I'll analyze the|hair sample now."
+  ],
+  "layout": "face"
+ },
+ "65": {
+  "speaker": "Metal Gear",
+  "en": "Analysis complete. Displaying results.",
+  "ps1": [
+   "B020_017"
+  ],
+  "cards": [
+   "Analysis complete.|Displaying results."
+  ],
+  "layout": "face"
+ },
+ "66": {
+  "speaker": "Metal Gear",
+  "en": "1. Nuclear sex chromatin staining of the root sheath shows 46XY, a male. 2. The hair is brown, with a hair index of 65. It's wavy hair of European ancestry. 3. Attached tissue and thick roots show that the hair was pulled out. 4. An enzyme antibody test gives type A, Rh negative. 5. Cell composition and arrangement indicate artificial protein.",
+  "ps1": [
+   "B020_018",
+   "B020_018b",
+   "B020_018c",
+   "B020_018d",
+   "B020_018e",
+   "B020_018f",
+   "B020_018g",
+   "B020_018h",
+   "B020_018i",
+   "B020_018j"
+  ],
+  "cards": [
+   "1. Nuclear sex|chromatin staining|of the root sheath|shows 46XY, a male.",
+   "2. The hair is|brown, with a hair|index of 65.",
+   "It's wavy hair|of European|ancestry.",
+   "3. Attached tissue|and thick roots|show that the hair|was pulled out.",
+   "4. An enzyme|antibody test gives|type A, Rh|negative.",
+   "5. Cell composition|and arrangement|indicate artificial|protein."
+  ],
+  "layout": "face",
+  "turns": [
+   8.88,
+   16.92,
+   17.32,
+   23.04,
+   27.96
+  ]
+ },
+ "67": {
+  "speaker": "Metal Gear",
+  "en": "The results suggest Jean pulled this hair from the killer's head while they were fighting. The hair probably belongs to the killer: a Snatcher posing as a European male with type A negative blood.",
+  "ps1": [
+   "B020_018k",
+   "B020_018l",
+   "B020_023",
+   "B020_023b",
+   "B020_023c"
+  ],
+  "cards": [
+   "The results suggest|Jean pulled this|hair",
+   "from the killer's|head while they|were fighting.",
+   "The hair probably|belongs to the|killer:",
+   "a Snatcher posing|as a European male|with type A|negative blood."
+  ],
+  "layout": "face",
+  "turns": [
+   3.86,
+   10.02,
+   11.86
+  ]
+ },
+ "68": {
+  "speaker": "Metal Gear",
+  "en": "I'll analyze the skin sample now.",
+  "ps1": [
+   "B020_024",
+   "B020_024b"
+  ],
+  "cards": [
+   "I'll analyze the|skin sample now."
+  ],
+  "layout": "face"
+ },
+ "69": {
+  "speaker": "Metal Gear",
+  "en": "1. An enzyme antibody test gives type O, Rh negative. 2. Sex chromatin staining shows 46XX, a female. 3. Cell composition and arrangement indicate artificial protein. 4. The melanocyte count shows white ancestry.",
+  "ps1": [
+   "B020_025",
+   "B020_025b",
+   "B020_025c",
+   "B020_025d",
+   "B020_025e",
+   "B020_025f",
+   "B020_025g"
+  ],
+  "cards": [
+   "1. An enzyme|antibody test gives|type O, Rh|negative.",
+   "2. Sex chromatin|staining shows|46XX, a female.",
+   "3. Cell composition|and arrangement|indicate artificial|protein.",
+   "4. The melanocyte|count shows white|ancestry."
+  ],
+  "layout": "face",
+  "turns": [
+   7.04,
+   12.82,
+   18.32
+  ]
+ },
+ "6a": {
+  "speaker": "Metal Gear",
+  "en": "The results suggest Jean scratched his attacker during their struggle, leaving skin under his fingernails. The skin probably belongs to the killer: a Snatcher posing as a European female with type O negative blood.",
+  "ps1": [
+   "B020_028",
+   "B020_028b",
+   "B020_028c",
+   "B020_028d",
+   "B020_028db",
+   "B020_028dc"
+  ],
+  "cards": [
+   "The results suggest|Jean scratched his|attacker during|their struggle,",
+   "leaving skin under|his fingernails.",
+   "The skin probably|belongs to the|killer:",
+   "a Snatcher posing|as a European|female with type O|negative blood."
+  ],
+  "layout": "face",
+  "turns": [
+   5.94,
+   9.88,
+   14.54
+  ]
+ },
+ "6b": {
+  "speaker": "Metal Gear",
+  "en": "I'll cut open Jean's stomach and analyze its contents.",
+  "ps1": [
+   "B020_030",
+   "B020_030b"
+  ],
+  "cards": [
+   "I'll cut open|Jean's stomach and|analyze its|contents."
+  ],
+  "layout": "face"
+ },
+ "6c": {
+  "speaker": "Metal Gear",
+  "en": "Based on these results, the food has been digesting for about three hours. The remains are protein. The meat is cetacean.",
+  "ps1": [
+   "B020_031",
+   "B020_031b",
+   "B020_031c",
+   "B020_031c2",
+   "B020_031cb"
+  ],
+  "cards": [
+   "Based on these|results,",
+   "the food has been|digesting for about|three hours.",
+   "The remains are|protein. The meat|is cetacean."
+  ],
+  "layout": "face",
+  "turns": [
+   1.92,
+   5.68
+  ]
+ },
+ "6d": {
+  "speaker": "Gillian",
+  "en": "Cetacean?",
+  "ps1": [
+   "B020_033"
+  ],
+  "cards": [
+   "Cetacean?"
+  ],
+  "layout": "face"
+ },
+ "6e": {
+  "speaker": "Metal Gear",
+  "en": "Whale meat. Gibson must have eaten whale meat somewhere three hours ago.",
+  "ps1": [
+   "B020_034",
+   "B020_034b",
+   "B020_034c"
+  ],
+  "cards": [
+   "Whale meat.",
+   "Gibson must have|eaten whale meat|somewhere three|hours ago."
+  ],
+  "layout": "face",
+  "turns": [
+   1.88
+  ]
+ },
+ "6f": {
+  "speaker": "Metal Gear",
+  "en": "Motion detected!",
+  "ps1": [
+   "B020_035"
+  ],
+  "cards": [
+   "Motion detected!"
+  ],
+  "layout": "face"
+ },
+ "70": {
+  "speaker": "Gillian",
+  "en": "A Snatcher?",
+  "ps1": [
+   "B020_036"
+  ],
+  "cards": [
+   "A Snatcher?"
+  ],
+  "layout": "face"
+ },
+ "71": {
+  "speaker": "Metal Gear",
+  "en": "Let's go and see!",
+  "ps1": [
+   "B020_037"
+  ],
+  "cards": [
+   "Let's go and see!"
+  ],
+  "layout": "face"
+ },
+ "76": {
+  "speaker": "Gillian",
+  "en": "Wh-what's this?!",
+  "ps1": [
+   "B020_038a"
+  ],
+  "layout": "plain",
+  "cards": [
+   "Wh-what's this?!"
+  ]
+ },
+ "77": {
+  "speaker": "Gillian",
+  "en": "A time bomb!",
+  "ps1": [
+   "B220_f52_0"
+  ],
+  "cards": [
+   "A time bomb!"
+  ],
+  "layout": "face"
+ },
+ "78": {
+  "speaker": "Metal Gear",
+  "en": "We have to get out! There's no time!",
+  "ps1": [
+   "B020_038"
+  ],
+  "layout": "plain",
+  "cards": [
+   "We have to get out!|There's no time!"
+  ]
+ },
+ "79": {
+  "speaker": "Gillian",
+  "en": "Let's get outside!",
+  "ps1": [
+   "B020_039"
+  ],
+  "cards": [
+   "Let's get outside!"
+  ],
+  "layout": "face"
+ },
+ "7a": {
+  "speaker": "Metal Gear",
+  "en": "It's no use.",
+  "ps1": [
+   "B020_047a"
+  ],
+  "cards": [
+   "It's no use."
+  ],
+  "layout": "face"
+ },
+ "7b": {
+  "speaker": "Gillian",
+  "en": "What's wrong? Hurry!",
+  "ps1": [
+   "B020_042a"
+  ],
+  "cards": [
+   "What's wrong? Hurry!"
+  ],
+  "layout": "face"
+ },
+ "7c": {
+  "speaker": "Metal Gear",
+  "en": "My legs have given out.",
+  "ps1": [
+   "B020_041"
+  ],
+  "cards": [
+   "My legs have given|out."
+  ],
+  "layout": "face"
+ },
+ "7d": {
+  "speaker": "Gillian",
+  "en": "Stop arguing! Run! It's going to blow!",
+  "ps1": [
+   "B020_042"
+  ],
+  "cards": [
+   "Stop arguing! Run!|It's going to blow!"
+  ],
+  "layout": "face"
+ },
+ "7e": {
+  "speaker": "Metal Gear",
+  "en": "It's no use. I can't move.",
+  "ps1": [
+   "B020_047a"
+  ],
+  "cards": [
+   "It's no use. I|can't move."
+  ],
+  "layout": "face"
+ },
+ "7f": {
+  "speaker": "Gillian",
+  "en": "You're a handful! Here!",
+  "ps1": [
+   "B020_044"
+  ],
+  "cards": [
+   "You're a handful!|Here!"
+  ],
+  "layout": "face"
+ },
+ "81": {
+  "speaker": "Gillian",
+  "en": "Whew, that was a shock! My ears are ringing.",
+  "ps1": [
+   "B020_045"
+  ],
+  "cards": [
+   "Whew, that was a|shock! My ears are|ringing."
+  ],
+  "layout": "face"
+ },
+ "82": {
+  "speaker": "Metal Gear",
+  "en": "You left the volume turned up.",
+  "ps1": [
+   "B020_046"
+  ],
+  "cards": [
+   "You left the volume|turned up."
+  ],
+  "layout": "face"
+ },
+ "83": {
+  "speaker": "Gillian",
+  "en": "Damn those Snatchers!",
+  "ps1": [
+   "B020_047"
+  ],
+  "cards": [
+   "Damn those|Snatchers!"
+  ],
+  "layout": "face"
+ },
+ "84": {
+  "speaker": "Metal Gear",
+  "en": "It's all right. I've recorded all the evidence at the scene. Let's head back to headquarters.",
+  "ps1": [
+   "B020_048",
+   "B020_048b",
+   "B020_048c"
+  ],
+  "cards": [
+   "It's all right.|I've recorded all|the evidence at the|scene.",
+   "Let's head back to|headquarters."
+  ],
+  "layout": "face",
+  "turns": [
+   4.76
+  ]
+ },
+ "86": {
+  "speaker": "Metal Gear",
+  "en": "Promise you'll come back.",
+  "ps1": [
+   "B250_c10f52"
+  ],
+  "cards": [
+   "Promise you'll come|back."
+  ]
+ },
+ "_unmatched": {
+  "50": "0.40 XAS_M000.XA[1031]",
+  "80": "0.00 XAS_S000.XA[9]",
+  "5f": "0.00 XAS_S000.XA[9]",
+  "75": "0.00 XAS_S000.XA[9]"
+ }
+}

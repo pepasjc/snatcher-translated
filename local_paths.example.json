@@ -1,0 +1,9 @@
+{
+ "MISTER_HOST": "root@192.168.1.x",
+ "SNATCHER_CARD": "C:/path/to/duckstation/saves/Snatcher (Japan)_1.mcd",
+ "SNATCHER_RA": "C:/path/to/retroarch",
+ "RETROARCH": "C:/path/to/retroarch/retroarch.exe",
+ "BIOS_DIR": "C:/path/to/bios",
+ "RETRO_CORES": "C:/path/to/retroarch/cores",
+ "DEVTEST_ROMS": "C:/path/to/roms/pcenginecd"
+}

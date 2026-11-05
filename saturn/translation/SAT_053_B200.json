@@ -1,0 +1,2303 @@
+{
+ "file": "DATA.BIN[53]",
+ "entry": 53,
+ "text_base": 4920,
+ "twins": [
+  "B200"
+ ],
+ "strings": [
+  {
+   "off": 4921,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 4925,
+   "budget": 23,
+   "en": "Out into the corridor.",
+   "src": "B200:4893",
+   "carry": "exact",
+   "long": "We're in the hospital corridor."
+  },
+  {
+   "off": 4948,
+   "budget": 33,
+   "en": "They're surprisingly tidy.",
+   "src": "B200:4916",
+   "carry": "exact"
+  },
+  {
+   "off": 4981,
+   "budget": 35,
+   "en": "Nothing like the floor above.",
+   "src": "B200:4949",
+   "carry": "exact",
+   "long": "They clearly take better care of￥this floor than the one above."
+  },
+  {
+   "off": 5016,
+   "budget": 5,
+   "en": "Move",
+   "src": "B200:4984",
+   "carry": "exact"
+  },
+  {
+   "off": 5021,
+   "budget": 5,
+   "en": "Dr 1",
+   "src": "B200:4989",
+   "carry": "exact",
+   "long": "Door 1"
+  },
+  {
+   "off": 5026,
+   "budget": 33,
+   "en": "All right, let's try Room 1.",
+   "src": "B200:4994",
+   "carry": "exact"
+  },
+  {
+   "off": 5059,
+   "budget": 5,
+   "en": "Dr 2",
+   "src": "B200:5027",
+   "carry": "exact",
+   "long": "Door 2"
+  },
+  {
+   "off": 5064,
+   "budget": 35,
+   "en": "Let's try Room 2, then.",
+   "src": "B200:5032",
+   "carry": "exact"
+  },
+  {
+   "off": 5099,
+   "budget": 5,
+   "en": "Dr 3",
+   "src": "B200:5067",
+   "carry": "exact",
+   "long": "Door 3"
+  },
+  {
+   "off": 5104,
+   "budget": 55,
+   "en": "Ready, Randam? Let's enter the last￥room.",
+   "src": "B200:5072",
+   "carry": "exact"
+  },
+  {
+   "off": 5159,
+   "budget": 29,
+   "en": "Take another room first.",
+   "src": "B200:5127",
+   "carry": "exact",
+   "long": "Let's try another room first."
+  },
+  {
+   "off": 5188,
+   "budget": 29,
+   "en": "Gillian, take another room.",
+   "src": "B200:5156",
+   "carry": "exact",
+   "long": "Let's try another room, Gillian."
+  },
+  {
+   "off": 5217,
+   "budget": 5,
+   "en": "Look",
+   "src": "B200:5185",
+   "carry": "exact"
+  },
+  {
+   "off": 5222,
+   "budget": 7,
+   "en": "Around",
+   "src": "B200:5190",
+   "carry": "exact"
+  },
+  {
+   "off": 5229,
+   "budget": 83,
+   "en": "As above, a booth at the centre.￥Three doors beyond.",
+   "src": "B200:5197",
+   "carry": "rebroken",
+   "long": "Just like upstairs, there's a￥reception booth in the center and￥three doors at the back.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5312,
+   "budget": 23,
+   "en": "All the same...",
+   "src": "B200:5278",
+   "carry": "exact"
+  },
+  {
+   "off": 5335,
+   "budget": 33,
+   "en": "Feels like a trip through time.",
+   "src": "B200:5301",
+   "carry": "exact",
+   "long": "Feels like we've traveled through￥time."
+  },
+  {
+   "off": 5368,
+   "budget": 3,
+   "en": "Fl",
+   "src": "B200:5334",
+   "carry": "exact",
+   "long": "Floor"
+  },
+  {
+   "off": 5371,
+   "budget": 57,
+   "en": "Polished bright.￥Nothing like the corridor above.",
+   "src": "B200:5337",
+   "carry": "exact",
+   "long": "It's polished clean. Quite a￥difference from the corridor￥upstairs."
+  },
+  {
+   "off": 5428,
+   "budget": 41,
+   "en": "So the floor was linoleum.",
+   "src": "B200:5394",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 5469,
+   "budget": 5,
+   "en": "Desk",
+   "src": "B200:5437",
+   "carry": "exact",
+   "long": "Reception"
+  },
+  {
+   "off": 5474,
+   "budget": 49,
+   "en": "Monitors and consoles kept up.",
+   "src": "B200:5442",
+   "carry": "candidate_ok",
+   "en_candidate": "Monitors and consoles kept up.",
+   "sim": 0.96,
+   "long": "The monitors and consoles are well￥maintained."
+  },
+  {
+   "off": 5523,
+   "budget": 57,
+   "en": "Which means their security is too.￥Let's be careful.",
+   "src": "B200:5489",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 5580,
+   "budget": 9,
+   "en": "Monitor",
+   "src": "B200:5548",
+   "carry": "exact"
+  },
+  {
+   "off": 5589,
+   "budget": 61,
+   "en": "The monitor is off, but the main￥power light is on.",
+   "src": "B200:5557",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5650,
+   "budget": 7,
+   "en": "Button",
+   "src": "B220:21924",
+   "carry": "exact",
+   "note": "from B220"
+  },
+  {
+   "off": 5657,
+   "budget": 31,
+   "en": "There are two buttons.",
+   "src": "B200:5625",
+   "carry": "candidate_edit",
+   "en_candidate": "There are two buttons.",
+   "sim": 0.8,
+   "note": "re-adapted 2026-09-30: new PS1 wording"
+  },
+  {
+   "off": 5688,
+   "budget": 27,
+   "en": "The buttons are the same as￥upstairs.",
+   "src": "B200:5666",
+   "carry": "candidate_edit",
+   "en_candidate": "The same switches as above.",
+   "sim": 0.84,
+   "note": "re-adapted 2026-09-30: new PS1 long"
+  },
+  {
+   "off": 5715,
+   "budget": 39,
+   "en": "Then￥it should open as above.",
+   "src": "B200:5703",
+   "carry": "rebroken",
+   "long": "Then we should be able to open the￥doors the same way.",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 5754,
+   "budget": 3,
+   "en": "Dr",
+   "src": "B200:5744",
+   "carry": "exact",
+   "long": "Door"
+  },
+  {
+   "off": 5757,
+   "budget": 33,
+   "en": "Door 3 is like the others.",
+   "src": "B200:5747",
+   "carry": "candidate_ok",
+   "en_candidate": "Door 3 is like the others.",
+   "sim": 0.97,
+   "long": "Door 3 is the same as the other￥doors."
+  },
+  {
+   "off": 5790,
+   "budget": 31,
+   "en": "The same as the doors above.",
+   "src": "B200:5778",
+   "carry": "exact",
+   "long": "It's the same as the doors upstairs￥too."
+  },
+  {
+   "off": 5821,
+   "budget": 7,
+   "en": "Check",
+   "src": "B200:5809",
+   "carry": "exact",
+   "long": "Investigate"
+  },
+  {
+   "off": 5828,
+   "budget": 55,
+   "en": "Corridor and rooms match the￥floor above exactly.",
+   "src": "B200:5816",
+   "carry": "rebroken",
+   "long": "The corridor and rooms are built￥exactly like the floor above.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5883,
+   "budget": 51,
+   "en": "No motion detected. We're the only￥ones here.",
+   "src": "B200:5869",
+   "carry": "exact"
+  },
+  {
+   "off": 5934,
+   "budget": 45,
+   "en": "They've even waxed the floor.",
+   "src": "B200:5920",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 5979,
+   "budget": 55,
+   "en": "I can't picture them waxing floors.",
+   "src": "B200:5963",
+   "carry": "candidate_ok",
+   "en_candidate": "I can't picture them waxing floors.",
+   "sim": 0.91
+  },
+  {
+   "off": 6034,
+   "budget": 39,
+   "en": "There are door buttons here too.",
+   "src": "B200:6018",
+   "carry": "candidate_edit",
+   "en_candidate": "There are door switches here too.",
+   "sim": 0.82,
+   "note": "re-adapted 2026-09-30: new PS1 wording, switch -> button (Saturn)"
+  },
+  {
+   "off": 6073,
+   "budget": 33,
+   "en": "The booth matches too.",
+   "src": "B200:6059",
+   "carry": "exact",
+   "long": "The reception desk has the same￥design and controls as upstairs."
+  },
+  {
+   "off": 6106,
+   "budget": 63,
+   "en": "It seems to have been used just now.￥The monitor is warm.",
+   "src": "B200:6092",
+   "carry": "exact"
+  },
+  {
+   "off": 6169,
+   "budget": 59,
+   "en": "Wait! There are only two buttons,￥unlike upstairs.",
+   "src": "B200:6155",
+   "carry": "candidate_ok",
+   "en_candidate": "Wait! There are only two buttons,￥unlike upstairs.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 6228,
+   "budget": 35,
+   "en": "Yes, there are only two buttons.",
+   "src": "B200:6214",
+   "carry": "exact"
+  },
+  {
+   "off": 6263,
+   "budget": 29,
+   "en": "It says \"Morgue.\"",
+   "src": "B200:6249",
+   "carry": "candidate_ok",
+   "en_candidate": "It says \"Morgue.\"",
+   "sim": 0.92,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 6292,
+   "budget": 29,
+   "en": "Morgue?... A body store?",
+   "src": "B200:6274",
+   "carry": "rebroken",
+   "long": "Morgue? Where they keep bodies?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6321,
+   "budget": 53,
+   "en": "There's no doorknob. It can't be￥opened by hand.",
+   "src": "B200:6301",
+   "carry": "exact"
+  },
+  {
+   "off": 6374,
+   "budget": 49,
+   "en": "A heavy door.￥Force alone won't open it.",
+   "src": "B200:6354",
+   "carry": "exact",
+   "long": "It's a heavy door. I don't think we￥can force it open."
+  },
+  {
+   "off": 6423,
+   "budget": 5,
+   "en": "Talk",
+   "src": "B200:6403",
+   "carry": "exact"
+  },
+  {
+   "off": 6428,
+   "budget": 55,
+   "en": "One was in the theatre. Are￥there others?",
+   "src": "B200:6408",
+   "carry": "rebroken",
+   "long": "If there was one in the operating￥room, could there be others?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 6483,
+   "budget": 47,
+   "en": "Who knows? They could be hiding￥somewhere.",
+   "src": "B200:6461",
+   "carry": "exact"
+  },
+  {
+   "off": 6530,
+   "budget": 33,
+   "en": "Few for a hideout....",
+   "src": "B200:6508",
+   "carry": "exact",
+   "long": "There aren't many of them for a￥hideout."
+  },
+  {
+   "off": 6563,
+   "budget": 11,
+   "en": "Press",
+   "src": "B1F0:4293",
+   "carry": "exact",
+   "long": "Press button",
+   "note": "from B1F0"
+  },
+  {
+   "off": 6574,
+   "budget": 9,
+   "en": "Button 1",
+   "src": "B200:6554",
+   "carry": "exact"
+  },
+  {
+   "off": 6583,
+   "budget": 25,
+   "en": "I'll press number 1.",
+   "src": "B200:6563",
+   "carry": "exact"
+  },
+  {
+   "off": 6608,
+   "budget": 31,
+   "en": "Door 1 has closed.",
+   "src": "B1E0:11621",
+   "carry": "exact",
+   "note": "from B1E0"
+  },
+  {
+   "off": 6639,
+   "budget": 29,
+   "en": "Door 1 has opened.",
+   "src": "B200:6588",
+   "carry": "exact"
+  },
+  {
+   "off": 6668,
+   "budget": 9,
+   "en": "Button 2",
+   "src": "B200:6617",
+   "carry": "exact"
+  },
+  {
+   "off": 6677,
+   "budget": 25,
+   "en": "I'll press number 2.",
+   "src": "B200:6626",
+   "carry": "exact"
+  },
+  {
+   "off": 6702,
+   "budget": 31,
+   "en": "Door 2 has closed.",
+   "src": "B200:6651",
+   "carry": "exact"
+  },
+  {
+   "off": 6733,
+   "budget": 29,
+   "en": "Door 2 has opened.",
+   "src": "B200:6682",
+   "carry": "exact"
+  },
+  {
+   "off": 6762,
+   "budget": 13,
+   "en": "1 and 2",
+   "src": "B200:6711",
+   "carry": "exact",
+   "long": "1 and 2 together"
+  },
+  {
+   "off": 6775,
+   "budget": 31,
+   "en": "Door 3 has closed.",
+   "src": "B200:6724",
+   "carry": "exact"
+  },
+  {
+   "off": 6806,
+   "budget": 29,
+   "en": "Door 3 has opened.",
+   "src": "B200:6755",
+   "carry": "exact"
+  },
+  {
+   "off": 6835,
+   "budget": 15,
+   "en": "Use Metal Gear",
+   "src": "B200:6784",
+   "carry": "exact"
+  },
+  {
+   "off": 6850,
+   "budget": 11,
+   "en": "Save",
+   "src": "B200:6799",
+   "carry": "exact"
+  },
+  {
+   "off": 6861,
+   "budget": 37,
+   "en": "I'll save your progress now.",
+   "src": "B200:6810",
+   "carry": "exact"
+  },
+  {
+   "off": 6898,
+   "budget": 55,
+   "en": "Could there be a button somewhere,￥like upstairs?",
+   "src": "B200:6847",
+   "carry": "candidate_edit",
+   "en_candidate": "Could there be a switch somewhere,￥like upstairs?",
+   "sim": 0.87,
+   "note": "re-adapted 2026-09-30: new PS1 wording, switch -> button (Saturn)"
+  },
+  {
+   "off": 6953,
+   "budget": 29,
+   "en": "Find the button, Gillian.",
+   "src": "B200:6902",
+   "carry": "candidate_edit",
+   "en_candidate": "Find the switch, Gillian.",
+   "sim": 0.76,
+   "note": "re-adapted 2026-09-30: new PS1 wording, switch -> button (Saturn)"
+  },
+  {
+   "off": 6982,
+   "budget": 79,
+   "en": "If there are only two buttons, maybe￥we can use both to open it.",
+   "src": "B200:6933",
+   "carry": "candidate_ok",
+   "en_candidate": "If there are only two buttons, maybe￥we can use both to open it.",
+   "sim": 0.97
+  },
+  {
+   "off": 7061,
+   "budget": 39,
+   "en": "How do we open the third door?",
+   "src": "B200:7010",
+   "carry": "candidate_ok",
+   "en_candidate": "How do we open the third door?",
+   "sim": 0.95
+  },
+  {
+   "off": 7100,
+   "budget": 51,
+   "en": "There must be a trick.￥Only two buttons.",
+   "src": "B200:7053",
+   "carry": "candidate_ok",
+   "en_candidate": "There must be a trick.￥Only two buttons.",
+   "sim": 0.92,
+   "long": "There must be a trick to it. There￥are only two buttons."
+  },
+  {
+   "off": 7151,
+   "budget": 53,
+   "en": "Take the other rooms until￥door 3 is clear.",
+   "src": "B200:7104",
+   "carry": "candidate_ok",
+   "en_candidate": "Take the other rooms until￥door 3 is clear.",
+   "sim": 0.98,
+   "long": "Let's search the other rooms until￥we figure out how to open the third￥door."
+  },
+  {
+   "off": 7204,
+   "budget": 77,
+   "en": "There has to be a way to open the￥third door. Let's search this floor￥some more.",
+   "src": "B200:7157",
+   "carry": "candidate_ok",
+   "en_candidate": "There has to be a way to open the￥third door. Let's search this floor￥some more.",
+   "sim": 0.95
+  },
+  {
+   "off": 7281,
+   "budget": 23,
+   "en": "That door is open.",
+   "src": "B200:7242",
+   "carry": "exact"
+  },
+  {
+   "off": 7304,
+   "budget": 25,
+   "en": "That door is closed.",
+   "src": "B200:7265",
+   "carry": "exact"
+  },
+  {
+   "off": 7329,
+   "budget": 21,
+   "en": "We're in Room 1.",
+   "src": "B200:7290",
+   "carry": "exact"
+  },
+  {
+   "off": 7350,
+   "budget": 29,
+   "en": "Unlike above, lights are on.",
+   "src": "B200:7311",
+   "carry": "candidate_ok",
+   "en_candidate": "Unlike above, lights are on.",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing",
+   "long": "The lights are on, unlike upstairs."
+  },
+  {
+   "off": 7379,
+   "budget": 9,
+   "en": "Go out",
+   "src": "B200:7342",
+   "carry": "exact"
+  },
+  {
+   "off": 7388,
+   "budget": 21,
+   "en": "...To the corridor.",
+   "src": "B200:7351",
+   "carry": "exact",
+   "long": "Let's go into the corridor."
+  },
+  {
+   "off": 7409,
+   "budget": 49,
+   "en": "Others could be lurking￥like that one...",
+   "src": "B200:7372",
+   "carry": "candidate_ok",
+   "en_candidate": "Others could be lurking￥like that one...",
+   "sim": 0.87,
+   "long": "They could be hiding anywhere, like￥that last one."
+  },
+  {
+   "off": 7458,
+   "budget": 51,
+   "en": "Be ready to draw your Blaster.",
+   "src": "B200:7419",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7509,
+   "budget": 5,
+   "en": "Room",
+   "src": "B200:7468",
+   "carry": "exact",
+   "long": "Inside"
+  },
+  {
+   "off": 7514,
+   "budget": 59,
+   "en": "A table at the centre.￥The true consulting room.",
+   "src": "B200:7473",
+   "carry": "exact",
+   "long": "There's an operating table in the￥center. This seems to be the real￥examination room."
+  },
+  {
+   "off": 7573,
+   "budget": 33,
+   "en": "With lights it looks a hospital.",
+   "src": "B200:7532",
+   "carry": "exact",
+   "long": "With the lights on, it looks like a￥hospital."
+  },
+  {
+   "off": 7606,
+   "budget": 5,
+   "en": "Roof",
+   "src": "B200:7565",
+   "carry": "exact"
+  },
+  {
+   "off": 7611,
+   "budget": 41,
+   "en": "A radiation set in the ceiling.",
+   "src": "B200:7570",
+   "carry": "candidate_ok",
+   "en_candidate": "A radiation set in the ceiling.",
+   "sim": 0.98,
+   "long": "There's a radiation device built￥into the ceiling."
+  },
+  {
+   "off": 7652,
+   "budget": 41,
+   "en": "Medical monitors, still new.",
+   "src": "B200:7613",
+   "carry": "exact",
+   "long": "These are various medical monitors,￥all still brand-new."
+  },
+  {
+   "off": 7693,
+   "budget": 7,
+   "en": "Table",
+   "src": "B200:7654",
+   "carry": "exact",
+   "long": "Operating table"
+  },
+  {
+   "off": 7700,
+   "budget": 73,
+   "en": "A quite ordinary table.￥Cables run to the gear around.",
+   "src": "B200:7661",
+   "carry": "exact",
+   "long": "It's an ordinary operating table.￥Cables connect it to the equipment￥around it."
+  },
+  {
+   "off": 7773,
+   "budget": 5,
+   "en": "Bone",
+   "src": "B200:7734",
+   "carry": "exact",
+   "long": "Skeleton"
+  },
+  {
+   "off": 7778,
+   "budget": 29,
+   "en": "A medical skeleton model.",
+   "src": "B200:7739",
+   "carry": "exact",
+   "long": "It's a model human skeleton for￥medical use."
+  },
+  {
+   "off": 7807,
+   "budget": 13,
+   "en": "Snatchers",
+   "src": "B200:7768",
+   "carry": "exact"
+  },
+  {
+   "off": 7820,
+   "budget": 25,
+   "en": "The wreck lies there.",
+   "src": "B200:7781",
+   "carry": "exact",
+   "long": "Its remains are lying on the floor."
+  },
+  {
+   "off": 7845,
+   "budget": 39,
+   "en": "Nothing odd but medical gear.",
+   "src": "B200:7806",
+   "carry": "candidate_ok",
+   "en_candidate": "Nothing odd but medical gear.",
+   "sim": 0.82,
+   "long": "There's nothing suspicious besides￥the medical equipment."
+  },
+  {
+   "off": 7884,
+   "budget": 55,
+   "en": "It's a big room. Hard to take it all￥in. Look around.",
+   "src": "B200:7847",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 7939,
+   "budget": 63,
+   "en": "X-ray and gamma, and neutron and￥proton beams besides.",
+   "src": "B200:7904",
+   "carry": "candidate_ok",
+   "en_candidate": "X-ray and gamma, and neutron and￥proton beams besides.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "It can emit X-rays and gamma rays,￥as well as neutron and proton beams."
+  },
+  {
+   "off": 8002,
+   "budget": 59,
+   "en": "It's probably used to treat cancer￥with radiation.",
+   "src": "B200:7967",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8061,
+   "budget": 35,
+   "en": "The lens is carefully polished.",
+   "src": "B200:8024",
+   "carry": "exact",
+   "long": "The lenses have been carefully￥polished too."
+  },
+  {
+   "off": 8096,
+   "budget": 85,
+   "en": "Monitors for ultrasound and￥electronic endoscopes.￥Already wired to the gear.",
+   "src": "B200:8059",
+   "carry": "rebroken",
+   "long": "These monitors are for ultrasound￥and electronic endoscopes. They're￥already connected to the equipment.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8181,
+   "budget": 51,
+   "en": "The internal power is on. It's in￥standby mode.",
+   "src": "B200:8142",
+   "carry": "exact"
+  },
+  {
+   "off": 8232,
+   "budget": 33,
+   "en": "There's nothing unusual.",
+   "src": "B200:8193",
+   "carry": "exact"
+  },
+  {
+   "off": 8265,
+   "budget": 79,
+   "en": "The bed's surface is warm. Was￥someone lying here just now?",
+   "src": "B200:8226",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8344,
+   "budget": 9,
+   "en": "Motion",
+   "src": "B200:8303",
+   "carry": "exact",
+   "long": "Motion detector"
+  },
+  {
+   "off": 8353,
+   "budget": 57,
+   "en": "No motion readings now.￥...Nothing here.",
+   "src": "B200:8312",
+   "carry": "exact",
+   "long": "No more motion readings. There￥doesn't seem to be anything here."
+  },
+  {
+   "off": 8410,
+   "budget": 77,
+   "en": "No motion detected. Wait, I picked￥something up, but it's gone.",
+   "src": "B200:8369",
+   "carry": "exact"
+  },
+  {
+   "off": 8487,
+   "budget": 91,
+   "en": "Something is odd...￥The reading comes and goes.￥A sensor fault, likely.",
+   "src": "B200:8446",
+   "carry": "exact",
+   "long": "Something's wrong. The reading keeps￥appearing and disappearing. Probably￥a faulty sensor."
+  },
+  {
+   "off": 8578,
+   "budget": 89,
+   "en": "Unpleasant. A bit misshapen.￥Not accurate for a skeleton model.",
+   "src": "B200:8537",
+   "carry": "rebroken",
+   "long": "It's creepy. The shape is a little￥distorted. Not very accurate for a￥skeleton model.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8667,
+   "budget": 63,
+   "en": "Humans and Snatchers don't look very￥different like this.",
+   "src": "B200:8624",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8730,
+   "budget": 51,
+   "en": "It's completely shut down. It won't￥move again.",
+   "src": "B200:8685",
+   "carry": "exact"
+  },
+  {
+   "off": 8781,
+   "budget": 7,
+   "en": "Survey",
+   "src": "B200:8736",
+   "carry": "exact",
+   "long": "Look around"
+  },
+  {
+   "off": 8788,
+   "budget": 27,
+   "en": "I'll look around the room.",
+   "src": "B200:8743",
+   "carry": "exact"
+  },
+  {
+   "off": 8815,
+   "budget": 35,
+   "en": "Huh? The skeleton's gone!",
+   "src": "B200:8770",
+   "carry": "candidate_ok",
+   "en_candidate": "Huh? The skeleton's gone!",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 8850,
+   "budget": 25,
+   "en": "It was definitely there.",
+   "src": "B200:8805",
+   "carry": "exact"
+  },
+  {
+   "off": 8875,
+   "budget": 45,
+   "en": "Motion detected! It's in this room!＠Ｃ",
+   "src": "B200:8830",
+   "carry": "exact"
+  },
+  {
+   "off": 8920,
+   "budget": 27,
+   "en": "Gillian, it's coming!!＠Ｃ",
+   "src": "B200:8875",
+   "carry": "exact",
+   "long": "Here it comes, Gillian!＠Ｃ"
+  },
+  {
+   "off": 8947,
+   "budget": 33,
+   "en": "There's a skeleton model.",
+   "src": "B200:8902",
+   "carry": "exact"
+  },
+  {
+   "off": 8980,
+   "budget": 19,
+   "en": "It's a Snatcher!",
+   "src": "B200:8935",
+   "carry": "exact"
+  },
+  {
+   "off": 8999,
+   "budget": 37,
+   "en": "Don't scare me! It's just a model!",
+   "src": "B200:8954",
+   "carry": "candidate_ok",
+   "en_candidate": "Don't scare me! It's just a model!",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 9036,
+   "budget": 23,
+   "en": "It's a skeleton model.",
+   "src": "B200:8991",
+   "carry": "exact"
+  },
+  {
+   "off": 9059,
+   "budget": 43,
+   "en": "So this is where they get treated.",
+   "src": "B200:9014",
+   "carry": "exact"
+  },
+  {
+   "off": 9102,
+   "budget": 31,
+   "en": "The proof's lying right there.",
+   "src": "B200:9057",
+   "carry": "exact"
+  },
+  {
+   "off": 9133,
+   "budget": 47,
+   "en": "Stay alert. There could be more of￥them.",
+   "src": "B200:9088",
+   "carry": "exact"
+  },
+  {
+   "off": 9180,
+   "budget": 35,
+   "en": "Do they get treated here?",
+   "src": "B200:9135",
+   "carry": "exact"
+  },
+  {
+   "off": 9215,
+   "budget": 33,
+   "en": "Looks that way.",
+   "src": "B200:9170",
+   "carry": "exact"
+  },
+  {
+   "off": 9248,
+   "budget": 31,
+   "en": "Decided.￥Finish this place.",
+   "src": "B200:9203",
+   "carry": "exact",
+   "long": "That settles it. Let's destroy this￥place."
+  },
+  {
+   "off": 9279,
+   "budget": 47,
+   "en": "No mistake.￥Their nest.￥Finish it.",
+   "src": "B200:9234",
+   "carry": "exact",
+   "long": "No doubt about it. This is their￥nest. Let's destroy it."
+  },
+  {
+   "off": 9326,
+   "budget": 55,
+   "en": "Don't rush...￥Let's search the other rooms.",
+   "src": "B200:9281",
+   "carry": "exact",
+   "long": "Don't rush. Let's check the other￥rooms a little more."
+  },
+  {
+   "off": 9381,
+   "budget": 57,
+   "en": "What's the hurry? This is fun. Let's￥try the next room.",
+   "src": "B200:9336",
+   "carry": "exact"
+  },
+  {
+   "off": 9438,
+   "budget": 11,
+   "en": "Smell",
+   "src": "B200:9393",
+   "carry": "exact"
+  },
+  {
+   "off": 9449,
+   "budget": 31,
+   "en": "Smells like burned machinery.",
+   "src": "B200:9404",
+   "carry": "exact"
+  },
+  {
+   "off": 9480,
+   "budget": 39,
+   "en": "The Snatcher wreck still reeks.",
+   "src": "B200:9435",
+   "carry": "candidate_ok",
+   "en_candidate": "The Snatcher wreck still reeks.",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing",
+   "long": "The smell of the Snatcher's remains￥is still hanging in the air."
+  },
+  {
+   "off": 9519,
+   "budget": 35,
+   "en": "Ugh! The drug smell is fierce...",
+   "src": "B200:9476",
+   "carry": "candidate_ok",
+   "en_candidate": "Ugh! The drug smell is fierce...",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing",
+   "long": "Ugh! The chemical smell is￥overpowering."
+  },
+  {
+   "off": 9554,
+   "budget": 55,
+   "en": "Definitely smells like a hospital. A￥working one.",
+   "src": "B200:9511",
+   "carry": "exact"
+  },
+  {
+   "off": 9609,
+   "budget": 63,
+   "en": "No sign of moving since.￥It's fine. Really dead.",
+   "src": "B200:9566",
+   "carry": "rebroken",
+   "long": "It hasn't moved since. It's all￥right. It really seems dead.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9672,
+   "budget": 29,
+   "en": "Shoot! Aim for the head!＠Ｃ",
+   "src": "B200:9627",
+   "carry": "candidate_ok",
+   "en_candidate": "Shoot! Aim for the head!＠Ｃ",
+   "sim": 0.96,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 9701,
+   "budget": 39,
+   "en": "The forehead! Aim for the center!＠Ｃ",
+   "src": "B200:9656",
+   "carry": "candidate_ok",
+   "en_candidate": "The forehead! Aim for the center!＠Ｃ",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 9740,
+   "budget": 45,
+   "en": "Really dead this time...￥or just stopped?",
+   "src": "B200:9695",
+   "carry": "exact",
+   "long": "Is it really dead this time? I mean,￥shut down?"
+  },
+  {
+   "off": 9785,
+   "budget": 69,
+   "en": "Yes. It's completely shut down. No￥energy readings.",
+   "src": "B200:9740",
+   "carry": "exact"
+  },
+  {
+   "off": 9854,
+   "budget": 31,
+   "en": "That was too close, Gillian.",
+   "src": "B200:9809",
+   "carry": "exact"
+  },
+  {
+   "off": 9885,
+   "budget": 47,
+   "en": "Five hits. One more would've done￥it.",
+   "src": "B200:9840",
+   "carry": "exact"
+  },
+  {
+   "off": 9932,
+   "budget": 25,
+   "en": "That was close, Gillian.",
+   "src": "B200:9887",
+   "carry": "exact"
+  },
+  {
+   "off": 9957,
+   "budget": 53,
+   "en": "Four hits. I nearly died.",
+   "src": "B200:9912",
+   "carry": "exact"
+  },
+  {
+   "off": 10010,
+   "budget": 25,
+   "en": "That was close, Gillian.",
+   "src": "B200:9965",
+   "carry": "exact"
+  },
+  {
+   "off": 10035,
+   "budget": 27,
+   "en": "Yeah. Three hits.",
+   "src": "B200:9990",
+   "carry": "exact"
+  },
+  {
+   "off": 10062,
+   "budget": 21,
+   "en": "Gillian, all well?",
+   "src": "B200:10017",
+   "carry": "exact",
+   "long": "Are you all right, Gillian?"
+  },
+  {
+   "off": 10083,
+   "budget": 37,
+   "en": "Barely. Only two hits.",
+   "src": "B200:10038",
+   "carry": "exact"
+  },
+  {
+   "off": 10120,
+   "budget": 25,
+   "en": "Were you hit, Gillian?",
+   "src": "B200:10075",
+   "carry": "exact"
+  },
+  {
+   "off": 10145,
+   "budget": 27,
+   "en": "Yeah. Just once.",
+   "src": "B200:10100",
+   "carry": "exact"
+  },
+  {
+   "off": 10172,
+   "budget": 25,
+   "en": "We finally won.",
+   "src": "B200:10127",
+   "carry": "exact"
+  },
+  {
+   "off": 10197,
+   "budget": 29,
+   "en": "Nearly died again.",
+   "src": "B200:10152",
+   "carry": "exact"
+  },
+  {
+   "off": 10226,
+   "budget": 39,
+   "en": "First aid.￥Stopping the bleeding.",
+   "src": "B200:10181",
+   "carry": "rebroken",
+   "long": "I'll give you first aid and stop the￥bleeding, Gillian.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10265,
+   "budget": 21,
+   "en": "Please, Metal.",
+   "src": "B200:10218",
+   "carry": "exact"
+  },
+  {
+   "off": 10286,
+   "budget": 31,
+   "en": "...Bleeding stopped.￥Clean.",
+   "src": "B200:10239",
+   "carry": "exact",
+   "long": "Bleeding stopped. Wounds￥disinfected."
+  },
+  {
+   "off": 10317,
+   "budget": 33,
+   "en": "J Blood and a painkiller.",
+   "src": "B200:10270",
+   "carry": "exact"
+  },
+  {
+   "off": 10350,
+   "budget": 47,
+   "en": "Now I'll inject medical￥nanomachines.",
+   "src": "B200:10303",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10397,
+   "budget": 17,
+   "en": "Ugh!",
+   "src": "B200:10348",
+   "carry": "exact"
+  },
+  {
+   "off": 10414,
+   "budget": 15,
+   "en": "Whew.",
+   "src": "B200:10365",
+   "carry": "exact"
+  },
+  {
+   "off": 10429,
+   "budget": 29,
+   "en": "That will hold for a while.",
+   "src": "B200:10380",
+   "carry": "exact",
+   "long": "You'll be all right for a while."
+  },
+  {
+   "off": 10458,
+   "budget": 31,
+   "en": "That was close. Better be careful.",
+   "src": "B200:10409",
+   "carry": "candidate_ok",
+   "en_candidate": "That was close. Better be careful.",
+   "sim": 0.91,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 10489,
+   "budget": 81,
+   "en": "A stubborn one.￥Tens of thousands of these￥and the Earth is finished.",
+   "src": "B200:10448",
+   "carry": "candidate_ok",
+   "en_candidate": "A stubborn one.￥Tens of thousands of these￥and the Earth is finished.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "That thing was tough. If there were￥tens of thousands of them, Earth￥would be finished."
+  },
+  {
+   "off": 10570,
+   "budget": 41,
+   "en": "Gillian,￥let's press on.",
+   "src": "B200:10525",
+   "carry": "exact",
+   "long": "Let's continue the investigation,￥Gillian."
+  },
+  {
+   "off": 10611,
+   "budget": 29,
+   "en": "Whew. This is a tough job.",
+   "src": "B200:10566",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 10640,
+   "budget": 21,
+   "en": "We're in Room 2.",
+   "src": "B200:10597",
+   "carry": "exact"
+  },
+  {
+   "off": 10661,
+   "budget": 37,
+   "en": "Hey! The lab equipment is running.",
+   "src": "B200:10618",
+   "carry": "candidate_ok",
+   "en_candidate": "Hey! The lab equipment is running.",
+   "sim": 0.97,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 10698,
+   "budget": 31,
+   "en": "That noise gets on my nerves.",
+   "src": "B200:10655",
+   "carry": "exact"
+  },
+  {
+   "off": 10729,
+   "budget": 19,
+   "en": "...Let's go out.",
+   "src": "B200:10686",
+   "carry": "exact",
+   "long": "Let's get out of here."
+  },
+  {
+   "off": 10748,
+   "budget": 27,
+   "en": "Ugh. I feel sick.",
+   "src": "B200:10705",
+   "carry": "exact"
+  },
+  {
+   "off": 10775,
+   "budget": 37,
+   "en": "This is the real biology lab.",
+   "src": "B200:10732",
+   "carry": "exact"
+  },
+  {
+   "off": 10812,
+   "budget": 41,
+   "en": "As if Frankenstein might appear.",
+   "src": "B200:10769",
+   "carry": "exact",
+   "long": "Looks like Frankenstein could show￥up any minute."
+  },
+  {
+   "off": 10853,
+   "budget": 59,
+   "en": "There are micromanipulators and￥various laser devices.",
+   "src": "B200:10810",
+   "carry": "exact"
+  },
+  {
+   "off": 10912,
+   "budget": 47,
+   "en": "A microsurgery system and such.",
+   "src": "B200:10869",
+   "carry": "rebroken",
+   "long": "And microsurgery systems, among￥other things.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10959,
+   "budget": 37,
+   "en": "No cobwebs this time.",
+   "src": "B200:10914",
+   "carry": "exact"
+  },
+  {
+   "off": 10996,
+   "budget": 3,
+   "en": "Sh",
+   "src": "B200:10951",
+   "carry": "exact",
+   "long": "Shelf"
+  },
+  {
+   "off": 10999,
+   "budget": 57,
+   "en": "Formalin jars and other drugs￥stand in a row.",
+   "src": "B200:10954",
+   "carry": "rebroken",
+   "long": "There are jars of specimens in￥formalin and other chemicals.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11056,
+   "budget": 29,
+   "en": "This many is like a museum.",
+   "src": "B200:11009",
+   "carry": "exact",
+   "long": "There are enough to fill a museum."
+  },
+  {
+   "off": 11085,
+   "budget": 7,
+   "en": "Desk",
+   "src": "B200:11038",
+   "carry": "exact"
+  },
+  {
+   "off": 11092,
+   "budget": 69,
+   "en": "Biotech gear of every sort.￥Quite the real thing.",
+   "src": "B200:11045",
+   "carry": "rebroken",
+   "long": "There's all kinds of biotechnology￥equipment. This is a serious￥operation.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11161,
+   "budget": 45,
+   "en": "Proper, costly scopes￥and monitors.",
+   "src": "B200:11112",
+   "carry": "rebroken",
+   "long": "These are all expensive,￥professional microscopes and￥monitors.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11206,
+   "budget": 5,
+   "en": "Jar",
+   "src": "B200:11155",
+   "carry": "exact",
+   "long": "Containers"
+  },
+  {
+   "off": 11211,
+   "budget": 47,
+   "en": "Are they growing skin tissue?",
+   "src": "B200:11160",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11258,
+   "budget": 47,
+   "en": "Mutated tissue and organs.￥I can't look.",
+   "src": "B200:11205",
+   "carry": "exact",
+   "long": "Mutated tissues and organs. I can￥barely look."
+  },
+  {
+   "off": 11305,
+   "budget": 69,
+   "en": "The room is lit with red lights.￥It's creepy.",
+   "src": "B200:11252",
+   "carry": "exact"
+  },
+  {
+   "off": 11374,
+   "budget": 101,
+   "en": "What do they do here...?￥This gear and these samples are￥far beyond treating skin cancer.",
+   "src": "B200:11321",
+   "carry": "rebroken",
+   "long": "What are they doing here? All this￥equipment and these samples can't￥just be for treating skin cancer.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11475,
+   "budget": 53,
+   "en": "Argon lasers and argon dye lasers.",
+   "src": "B200:11420",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11528,
+   "budget": 95,
+   "en": "Surgical gear to kill only certain￥tumours. And a gene gun of the￥newest kind besides.",
+   "src": "B200:11471",
+   "carry": "exact",
+   "long": "Surgical equipment to remove cancer￥cells by targeting specific tumors.￥They even have the latest gene gun."
+  },
+  {
+   "off": 11623,
+   "budget": 33,
+   "en": "Neatly sorted and ordered.",
+   "src": "B200:11566",
+   "carry": "exact",
+   "long": "Everything is neatly sorted and￥organized."
+  },
+  {
+   "off": 11656,
+   "budget": 31,
+   "en": "Monoclonal antibodies.",
+   "src": "B200:11599",
+   "carry": "exact",
+   "long": "There are monoclonal antibodies."
+  },
+  {
+   "off": 11687,
+   "budget": 21,
+   "en": "What are those?",
+   "src": "B200:11630",
+   "carry": "candidate_ok",
+   "en_candidate": "What are those?",
+   "sim": 0.95,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 11708,
+   "budget": 37,
+   "en": "Said to work on￥melanoma.",
+   "src": "B200:11651",
+   "carry": "exact",
+   "long": "Antibodies said to work against￥malignant melanoma."
+  },
+  {
+   "off": 11745,
+   "budget": 69,
+   "en": "Then there's no doubt. This is their￥maintenance hospital!",
+   "src": "B200:11688",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11814,
+   "budget": 95,
+   "en": "Nucleic acid extractor,￥chromatography, DNA synthesiser,￥DNA sequencer, auto dispenser...",
+   "src": "B200:11755",
+   "carry": "candidate_ok",
+   "en_candidate": "Nucleic acid extractor,￥chromatography, DNA synthesiser,￥DNA sequencer, auto dispenser...",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "Nucleic acid extractors,￥chromatography equipment, DNA￥synthesizers, DNA sequencers,￥automatic dispensers."
+  },
+  {
+   "off": 11909,
+   "budget": 73,
+   "en": "And a heavy-ion accelerator.￥All on standby.",
+   "src": "B200:11850",
+   "carry": "rebroken",
+   "long": "And a heavy-ion accelerator to￥produce heavy-ion beams. Everything￥is on standby.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11982,
+   "budget": 83,
+   "en": "So Snatchers not only strip cancer￥cells but regrow artificial skin...",
+   "src": "B200:11921",
+   "carry": "rebroken",
+   "long": "So they don't just remove cancer￥cells. They also regenerate their￥artificial skin.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12065,
+   "budget": 57,
+   "en": "Fine gear. Better stocked than￥some university labs.",
+   "src": "B200:12002",
+   "carry": "rebroken",
+   "long": "Impressive equipment. Better than￥some university research labs.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12122,
+   "budget": 81,
+   "en": "Nuclear magnetic resonance￥microscopes (NMR), scanning￥tunneling microscopes (STM),￥ultrahigh-voltage electron￥microscopes...",
+   "src": "B200:12057",
+   "carry": "candidate_edit",
+   "en_candidate": "NMR, magnetic resonance scope,￥scanning tunnelling scope,￥high-voltage electron scope,￥holography, streak camera...",
+   "sim": 0.79,
+   "note": "part of the PS1 line; the PS1 line's first part; the rest is the next record; re-adapted 2026-09-30: fragment 1/2 of B200:12057"
+  },
+  {
+   "off": 12203,
+   "budget": 55,
+   "en": "Even electron holography and streak￥cameras...",
+   "src": "B200:12057",
+   "carry": "candidate_edit",
+   "en_candidate": "NMR, magnetic resonance scope,￥scanning tunnelling scope,￥high-voltage electron scope,￥holography, streak camera...",
+   "sim": 0.52,
+   "note": "re-adapted 2026-09-30: fragment 2/2 of B200:12057 + まである (even)"
+  },
+  {
+   "off": 12258,
+   "budget": 65,
+   "en": "The Snatchers seem to know more than￥we thought, Gillian.",
+   "src": "B200:12186",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12323,
+   "budget": 47,
+   "en": "But some of the technology seems￥dated.",
+   "src": "B200:12249",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12370,
+   "budget": 31,
+   "en": "Dated? What do you mean?",
+   "src": "B200:12294",
+   "carry": "exact"
+  },
+  {
+   "off": 12401,
+   "budget": 87,
+   "en": "Some of the equipment and techniques￥are no longer used at all.",
+   "src": "B200:12325",
+   "carry": "candidate_edit",
+   "en_candidate": "Some of the equipment and techniques￥are no longer used at all. This￥research doesn't follow current￥international practice.",
+   "sim": 0.69,
+   "note": "the PS1 line's first part; the rest is the next record; re-adapted 2026-09-30: fragment 1/2 of B200:12325"
+  },
+  {
+   "off": 12488,
+   "budget": 51,
+   "en": "This research doesn't follow current￥international practice.",
+   "src": "B200:12325",
+   "carry": "candidate_edit",
+   "en_candidate": "Some of the equipment and techniques￥are no longer used at all. This￥research doesn't follow current￥international practice.",
+   "sim": 0.55,
+   "note": "part of the PS1 line; re-adapted 2026-09-30: fragment 2/2 of B200:12325"
+  },
+  {
+   "off": 12539,
+   "budget": 53,
+   "en": "Roughly 20 to 30 years behind.",
+   "src": "B200:12456",
+   "carry": "rebroken",
+   "long": "At a glance, their methods are￥twenty to thirty years behind.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12592,
+   "budget": 65,
+   "en": "And going by the patchy data,￥research on a personal level.",
+   "src": "B200:12507",
+   "carry": "rebroken",
+   "long": "The gaps in their research knowledge￥also suggest an individual's work.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12657,
+   "budget": 121,
+   "en": "So at least this Snatcher's artificial￥skin was developed by an individual?ω￥Not by a state research institute...",
+   "src": "B200:12570",
+   "carry": "candidate_edit",
+   "en_candidate": "So at least their artificial skin￥was developed by an individual,￥rather than a state research￥institute?",
+   "sim": 0.99,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the question mark as in the jp; re-adapted 2026-09-30: new PS1 wording, ω kept after ?"
+  },
+  {
+   "off": 12778,
+   "budget": 95,
+   "en": "The lab's design ignores biosafety￥standards.",
+   "src": "B200:12691",
+   "carry": "candidate_edit",
+   "en_candidate": "The lab's design ignores biosafety￥standards. It has a safety cabinet,￥but no autoclave for steam￥sterilization or gas sterilizer.",
+   "sim": 0.65,
+   "note": "part of the PS1 line; the PS1 line's first part; the rest is the next record; re-adapted 2026-09-30: fragment 1/2 of B200:12691"
+  },
+  {
+   "off": 12873,
+   "budget": 101,
+   "en": "It has a safety cabinet, but no￥autoclave for steam sterilization or￥gas sterilizer.",
+   "src": "B200:12691",
+   "carry": "candidate_edit",
+   "en_candidate": "The lab's design ignores biosafety￥standards. It has a safety cabinet,￥but no autoclave for steam￥sterilization or gas sterilizer.",
+   "sim": 0.68,
+   "note": "part of the PS1 line; re-adapted 2026-09-30: fragment 2/2 of B200:12691"
+  },
+  {
+   "off": 12974,
+   "budget": 97,
+   "en": "Far from 'P4' level.￥Hardly a state or big organisation's.",
+   "src": "B200:12884",
+   "carry": "rebroken",
+   "long": "It's nowhere near P4 level. I doubt￥this belongs to a government or a￥large research organization.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13071,
+   "budget": 63,
+   "en": "Samples of many creatures and￥tissues... unpleasant.",
+   "src": "B200:12979",
+   "carry": "rebroken",
+   "long": "There are samples of various￥organisms and tissues. It's creepy.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13134,
+   "budget": 49,
+   "en": "By the dates the samples are new.",
+   "src": "B200:13040",
+   "carry": "rebroken",
+   "long": "Judging by the dates, the samples￥are recent.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13183,
+   "budget": 49,
+   "en": "Was that skeleton skinned here?",
+   "src": "B200:13087",
+   "carry": "exact",
+   "long": "Is this where they put skin on￥skeletons like that one?"
+  },
+  {
+   "off": 13232,
+   "budget": 37,
+   "en": "Only skin treatment here, I'd say?",
+   "src": "B200:13136",
+   "carry": "exact",
+   "long": "I think they only treat the skin￥here."
+  },
+  {
+   "off": 13269,
+   "budget": 45,
+   "en": "Well? No doubt this is their base.",
+   "src": "B200:13173",
+   "carry": "exact",
+   "long": "Well? This is definitely their￥hideout, right?"
+  },
+  {
+   "off": 13314,
+   "budget": 25,
+   "en": "Let's see the next room.",
+   "src": "B200:13218",
+   "carry": "exact",
+   "long": "Let's check the next room."
+  },
+  {
+   "off": 13339,
+   "budget": 21,
+   "en": "Their laboratory?",
+   "src": "B200:13243",
+   "carry": "exact",
+   "long": "Is this their laboratory?"
+  },
+  {
+   "off": 13360,
+   "budget": 51,
+   "en": "These samples are their failed￥skins, then.",
+   "src": "B200:13264",
+   "carry": "candidate_ok",
+   "en_candidate": "These samples are their failed￥skins, then.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "These samples must be failed￥attempts at their skin."
+  },
+  {
+   "off": 13411,
+   "budget": 25,
+   "en": "So this is their base...",
+   "src": "B200:13313",
+   "carry": "exact",
+   "long": "So this is their hideout."
+  },
+  {
+   "off": 13436,
+   "budget": 37,
+   "en": "Gillian, check for￥anything missed.",
+   "src": "B200:13338",
+   "carry": "exact",
+   "long": "Let's check that we haven't missed￥anything, Gillian."
+  },
+  {
+   "off": 13473,
+   "budget": 33,
+   "en": "Ugh! What a stench!",
+   "src": "B200:13375",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13506,
+   "budget": 25,
+   "en": "Smells like rotten fish.",
+   "src": "B200:13406",
+   "carry": "exact"
+  },
+  {
+   "off": 13531,
+   "budget": 35,
+   "en": "Probably decomposing protein.",
+   "src": "B200:13431",
+   "carry": "exact"
+  },
+  {
+   "off": 13566,
+   "budget": 55,
+   "en": "The smell of their cancer cells,￥as Gibson wrote?",
+   "src": "B200:13466",
+   "carry": "rebroken",
+   "long": "The smell of their cancerous cells￥that Gibson wrote about?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13621,
+   "budget": 29,
+   "en": "I can't stand this smell.",
+   "src": "B200:13519",
+   "carry": "exact"
+  },
+  {
+   "off": 13650,
+   "budget": 29,
+   "en": "Ugh. I feel sick.",
+   "src": "B200:13548",
+   "carry": "exact"
+  },
+  {
+   "off": 13679,
+   "budget": 57,
+   "en": "A mortuary once, it seems,￥but now a store room.",
+   "src": "B200:13577",
+   "carry": "candidate_ok",
+   "en_candidate": "A mortuary once, it seems,￥but now a store room.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "It seems to have been a morgue, but￥now it's a storeroom."
+  },
+  {
+   "off": 13736,
+   "budget": 37,
+   "en": "A room only for hiding bodies.",
+   "src": "B200:13634",
+   "carry": "exact",
+   "long": "It seems to be used only to hide￥bodies."
+  },
+  {
+   "off": 13773,
+   "budget": 3,
+   "en": "Wl",
+   "src": "B200:13671",
+   "carry": "exact",
+   "long": "Wall"
+  },
+  {
+   "off": 13776,
+   "budget": 33,
+   "en": "An air duct for ventilation.",
+   "src": "B200:13674",
+   "carry": "exact",
+   "long": "There's an air duct for ventilation."
+  },
+  {
+   "off": 13809,
+   "budget": 41,
+   "en": "Nothing but the air duct.",
+   "src": "B200:13707",
+   "carry": "candidate_ok",
+   "en_candidate": "Nothing but the air duct.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "I don't see anything besides the air￥duct."
+  },
+  {
+   "off": 13850,
+   "budget": 5,
+   "en": "Body",
+   "src": "B200:13750",
+   "carry": "exact",
+   "long": "Corpse"
+  },
+  {
+   "off": 13855,
+   "budget": 51,
+   "en": "One is rotting, three are￥nearly skeletons.",
+   "src": "B200:13755",
+   "carry": "exact",
+   "long": "One body is decomposing. The other￥three are almost skeletons."
+  },
+  {
+   "off": 13906,
+   "budget": 47,
+   "en": "From the state of the bodies, they￥seem to have been dumped here.",
+   "src": "B200:13806",
+   "carry": "candidate_edit",
+   "en_candidate": "From how they lie, they￥were thrown in.",
+   "sim": 0.78,
+   "note": "re-adapted 2026-09-30: new PS1 long; 様子 (state) for 位置"
+  },
+  {
+   "off": 13953,
+   "budget": 7,
+   "en": "Duct",
+   "src": "B200:13855",
+   "carry": "exact"
+  },
+  {
+   "off": 13960,
+   "budget": 45,
+   "en": "There's a lid, but rust has￥weakened it.",
+   "src": "B200:13862",
+   "carry": "rebroken",
+   "long": "There's a cover, but oxidation has￥weakened it.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14005,
+   "budget": 53,
+   "en": "The cover is rusted brittle.￥It would come away.",
+   "src": "B200:13905",
+   "carry": "exact",
+   "long": "The cover is brittle with rust. It￥should come off easily."
+  },
+  {
+   "off": 14058,
+   "budget": 55,
+   "en": "Apart from bodies, just rubbish,￥dust and insects.",
+   "src": "B200:13958",
+   "carry": "candidate_ok",
+   "en_candidate": "Apart from bodies, just rubbish,￥dust and insects.",
+   "sim": 0.96,
+   "long": "Apart from the bodies, there's only￥garbage, dust, and insects feeding￥on the remains."
+  },
+  {
+   "off": 14113,
+   "budget": 41,
+   "en": "Rat droppings lie heaped.",
+   "src": "B200:14011",
+   "carry": "exact",
+   "long": "There are piles of droppings from￥rats feeding on the bodies."
+  },
+  {
+   "off": 14154,
+   "budget": 67,
+   "en": "Several kinds of insect swarm it.￥Preserved as badly as can be.",
+   "src": "B200:14052",
+   "carry": "exact",
+   "long": "Several kinds of insects are￥swarming everywhere. The bodies are￥in terrible condition."
+  },
+  {
+   "off": 14221,
+   "budget": 37,
+   "en": "But human remains, certainly.",
+   "src": "B200:14119",
+   "carry": "candidate_ok",
+   "en_candidate": "But human remains, certainly.",
+   "sim": 0.94,
+   "long": "But they're definitely human￥remains."
+  },
+  {
+   "off": 14258,
+   "budget": 13,
+   "en": "Time of dth",
+   "src": "B200:14156",
+   "carry": "exact",
+   "long": "Time of death"
+  },
+  {
+   "off": 14271,
+   "budget": 57,
+   "en": "Insects on a rotting body fall￥into eight broad groups.",
+   "src": "B200:14169",
+   "carry": "exact",
+   "long": "Insects that infest decomposing￥bodies fall into eight broad groups."
+  },
+  {
+   "off": 14328,
+   "budget": 99,
+   "en": "Each takes 15 days over the body,￥so '15 x 8', four months to￥a cycle.",
+   "src": "B200:14226",
+   "carry": "rebroken",
+   "long": "Each group feeds on the body for￥fifteen days. Fifteen times eight￥makes a four-month cycle, which then￥repeats.",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 14427,
+   "budget": 79,
+   "en": "We can identify the group from the￥insects' species, numbers, and size.",
+   "src": "B200:14321",
+   "carry": "exact"
+  },
+  {
+   "off": 14506,
+   "budget": 83,
+   "en": "So the time of death can be told￥without analysing the body itself.￥And?",
+   "src": "B200:14400",
+   "carry": "candidate_ok",
+   "en_candidate": "So the time of death can be told￥without analysing the body itself.￥And?",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "So you can estimate when they died￥without analyzing the bodies￥themselves. Well?"
+  },
+  {
+   "off": 14589,
+   "budget": 105,
+   "en": "Flies laid eggs on this decomposing￥body, and the maggots have developed￥into adult flies, so death was less￥than a month ago.",
+   "src": "B200:14481",
+   "carry": "candidate_edit",
+   "en_candidate": "As for this one, the rotting body,￥flies have laid and maggots hatched,￥so within a month...￥The other three have run a cycle,￥so over four months have passed.",
+   "sim": 0.69,
+   "note": "part of the PS1 line; the PS1 line's first part; the rest is the next record; re-adapted 2026-09-30: fragment 1/2 of B200:14481"
+  },
+  {
+   "off": 14694,
+   "budget": 91,
+   "en": "The other three have gone through a￥full cycle, so at least four months￥have passed.",
+   "src": "B200:14481",
+   "carry": "candidate_edit",
+   "en_candidate": "As for this one, the rotting body,￥flies have laid and maggots hatched,￥so within a month...￥The other three have run a cycle,￥so over four months have passed.",
+   "sim": 0.64,
+   "note": "part of the PS1 line; re-adapted 2026-09-30: fragment 2/2 of B200:14481"
+  },
+  {
+   "off": 14785,
+   "budget": 5,
+   "en": "Why",
+   "src": "B200:14674",
+   "carry": "exact",
+   "long": "Cause of death"
+  },
+  {
+   "off": 14790,
+   "budget": 21,
+   "en": "The cause of death?",
+   "src": "B200:14679",
+   "carry": "exact",
+   "long": "Can you tell what killed them?"
+  },
+  {
+   "off": 14811,
+   "budget": 47,
+   "en": "The damage is too severe￥to judge here.",
+   "src": "B200:14700",
+   "carry": "candidate_ok",
+   "en_candidate": "The damage is too severe￥to judge here.",
+   "sim": 0.96,
+   "long": "The bodies are too badly damaged to￥determine that here."
+  },
+  {
+   "off": 14858,
+   "budget": 5,
+   "en": "Who",
+   "src": "B200:14747",
+   "carry": "exact",
+   "long": "Identity"
+  },
+  {
+   "off": 14863,
+   "budget": 15,
+   "en": "Who were they?",
+   "src": "B200:14752",
+   "carry": "exact",
+   "long": "Can you identify the victims?"
+  },
+  {
+   "off": 14878,
+   "budget": 73,
+   "en": "There's nothing to identify them by.￥No hair, clothing, or even teeth.",
+   "src": "B200:14767",
+   "carry": "exact"
+  },
+  {
+   "off": 14951,
+   "budget": 29,
+   "en": "Let's restore them, Gillian.",
+   "src": "B200:14840",
+   "carry": "exact",
+   "long": "Let's reconstruct them, Gillian."
+  },
+  {
+   "off": 14980,
+   "budget": 45,
+   "en": "Damn Snatchers. They didn't want the￥bodies identified.",
+   "src": "B200:14869",
+   "carry": "candidate_edit",
+   "en_candidate": "Damn Snatchers.￥Afraid of identification. With the￥teeth we might have matched them.",
+   "sim": 0.65,
+   "note": "part of the PS1 line; the PS1 line's first part; the rest is the next record; re-adapted 2026-09-30: fragment 1/2 of B200:14869"
+  },
+  {
+   "off": 15025,
+   "budget": 49,
+   "en": "With dental records, we might have￥found a match.",
+   "src": "B200:14869",
+   "carry": "candidate_edit",
+   "en_candidate": "Damn Snatchers.￥Afraid of identification. With the￥teeth we might have matched them.",
+   "sim": 0.69,
+   "note": "part of the PS1 line; re-adapted 2026-09-30: fragment 2/2 of B200:14869"
+  },
+  {
+   "off": 15074,
+   "budget": 13,
+   "en": "These teeth?",
+   "src": "B200:14960",
+   "carry": "exact",
+   "long": "What about these teeth?"
+  },
+  {
+   "off": 15087,
+   "budget": 45,
+   "en": "Worked on so the teeth can't￥be read.",
+   "src": "B200:14973",
+   "carry": "rebroken",
+   "long": "They've been tampered with to￥prevent identification.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15132,
+   "budget": 17,
+   "en": "All is lost...",
+   "src": "B200:15016",
+   "carry": "exact"
+  },
+  {
+   "off": 15149,
+   "budget": 17,
+   "en": "There is a way.",
+   "src": "B200:15033",
+   "carry": "exact"
+  },
+  {
+   "off": 15166,
+   "budget": 9,
+   "en": "Such as?",
+   "src": "B200:15050",
+   "carry": "exact",
+   "long": "What is it?"
+  },
+  {
+   "off": 15175,
+   "budget": 69,
+   "en": "＠赤Reconstruction＠白. Fortunately, the￥heads are still intact.",
+   "src": "B200:15059",
+   "carry": "candidate_ok",
+   "en_candidate": "＠赤Reconstruction＠白. Fortunately, the￥heads are still intact.",
+   "sim": 0.97
+  },
+  {
+   "off": 15244,
+   "budget": 23,
+   "en": "Restoration, I see...",
+   "src": "B200:15126",
+   "carry": "exact"
+  },
+  {
+   "off": 15267,
+   "budget": 13,
+   "en": "Good idea!",
+   "src": "B200:15149",
+   "carry": "exact"
+  },
+  {
+   "off": 15280,
+   "budget": 61,
+   "en": "Damp air comes from beyond.￥Quite a large vent, it seems.",
+   "src": "B200:15162",
+   "carry": "exact",
+   "long": "Damp air is coming from the other￥side. It seems to be a large￥ventilation duct."
+  },
+  {
+   "off": 15341,
+   "budget": 93,
+   "en": "It joins the underground air.￥It may join the tube liner too.",
+   "src": "B200:15223",
+   "carry": "candidate_ok",
+   "en_candidate": "It joins the underground air.￥It may join the tube liner too.",
+   "sim": 0.98,
+   "long": "It probably connects to the￥underground ventilation system. It￥may reach the Tube Liner too."
+  },
+  {
+   "off": 15434,
+   "budget": 29,
+   "en": "Ugh! The stench of death.",
+   "src": "B200:15312",
+   "carry": "candidate_ok",
+   "en_candidate": "Ugh! The stench of death.",
+   "sim": 0.96,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 15463,
+   "budget": 55,
+   "en": "It's unbearable! Decomposing￥protein.",
+   "src": "B200:15341",
+   "carry": "exact"
+  },
+  {
+   "off": 15518,
+   "budget": 33,
+   "en": "Decomposition is releasing gas.",
+   "src": "B200:15396",
+   "carry": "exact"
+  },
+  {
+   "off": 15551,
+   "budget": 13,
+   "en": "Reconstruct",
+   "src": "B200:15429",
+   "carry": "exact"
+  },
+  {
+   "off": 15564,
+   "budget": 31,
+   "en": "Metal, reconstruct the bodies.",
+   "src": "B200:15442",
+   "carry": "exact"
+  },
+  {
+   "off": 15595,
+   "budget": 41,
+   "en": "Only Room 3 is left, Gillian.",
+   "src": "B200:15473",
+   "carry": "exact"
+  },
+  {
+   "off": 15636,
+   "budget": 25,
+   "en": "Room 3 is the last one.",
+   "src": "B200:15514",
+   "carry": "exact"
+  },
+  {
+   "off": 15661,
+   "budget": 51,
+   "en": "Shh! Gillian, a noise and they hear!",
+   "src": "B200:15539",
+   "carry": "candidate_ok",
+   "en_candidate": "Shh! Gillian, a noise and they hear!",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "Shh! They'll hear you if you make￥noise, Gillian!"
+  },
+  {
+   "off": 15712,
+   "budget": 63,
+   "en": "Foes may lurk anywhere.￥Keep talk to the least.",
+   "src": "B200:15590",
+   "carry": "exact",
+   "long": "They could be hiding anywhere. Let's￥keep the talking to a minimum."
+  },
+  {
+   "off": 15775,
+   "budget": 55,
+   "en": "Quiet, Gillian! Someone will find￥us.",
+   "src": "B200:15653",
+   "carry": "exact"
+  },
+  {
+   "off": 15830,
+   "budget": 35,
+   "en": "Sniff, sniff. Chemicals.",
+   "src": "B200:15708",
+   "carry": "exact"
+  },
+  {
+   "off": 15865,
+   "budget": 51,
+   "en": "Sniff... drugs, is it,￥and oddly nostalgic...",
+   "src": "B200:15743",
+   "carry": "exact",
+   "long": "Chemicals? That smell seems familiar￥for some reason."
+  },
+  {
+   "off": 15916,
+   "budget": 45,
+   "en": "I like the smell of chemicals.",
+   "src": "B200:15794",
+   "carry": "exact"
+  },
+  {
+   "off": 15961,
+   "budget": 13,
+   "en": "Continue",
+   "src": "B200:15839",
+   "carry": "exact"
+  },
+  {
+   "off": 15974,
+   "budget": 31,
+   "en": "Then... we continue the case.",
+   "src": "B200:15852",
+   "carry": "exact",
+   "long": "Let's continue the investigation."
+  },
+  {
+   "off": 16005,
+   "budget": 13,
+   "en": "Quit game",
+   "src": "B200:15883",
+   "carry": "exact"
+  },
+  {
+   "off": 16018,
+   "budget": 33,
+   "en": "Let's end the investigation.",
+   "src": "B200:15896",
+   "carry": "exact"
+  },
+  {
+   "off": 16053,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

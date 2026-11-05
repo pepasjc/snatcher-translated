@@ -1,0 +1,34 @@
+{
+ "scene": "B070",
+ "note": "Coverage: the second call to Jamie and to the lab (their other greetings), and numbers in no table (the two not-in-service messages).",
+ "actions": [
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "phone": "393444"
+  },
+  {
+   "phone": "393444"
+  },
+  {
+   "phone": "391009"
+  },
+  {
+   "phone": "391009"
+  },
+  {
+   "phone": "111111"
+  },
+  {
+   "phone": "777777"
+  },
+  {
+   "phone": "123456"
+  },
+  {
+   "phone": "999999"
+  }
+ ]
+}

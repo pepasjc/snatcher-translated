@@ -1,0 +1,3587 @@
+{
+ "file": "ISZ_B220.BIN",
+ "text_base": 10659,
+ "strings": [
+  {
+   "off": 10660,
+   "budget": 4,
+   "en": ""
+  },
+  {
+   "off": 10664,
+   "budget": 33,
+   "en": "＠水Put the light on?＠白",
+   "long": "＠水Shall I turn on the light?＠白"
+  },
+  {
+   "off": 10697,
+   "budget": 43,
+   "en": "＠水Shall I use my light?＠白"
+  },
+  {
+   "off": 10740,
+   "budget": 5,
+   "en": "Look"
+  },
+  {
+   "off": 10745,
+   "budget": 25,
+   "en": "＠水See anything?＠白",
+   "long": "＠水Can you see anything?＠白"
+  },
+  {
+   "off": 10770,
+   "budget": 7,
+   "en": "Check",
+   "long": "Investigate"
+  },
+  {
+   "off": 10777,
+   "budget": 33,
+   "en": "＠水I'll try feeling around.＠白"
+  },
+  {
+   "off": 10810,
+   "budget": 27,
+   "en": "＠水Any luck?＠白"
+  },
+  {
+   "off": 10837,
+   "budget": 47,
+   "en": "＠水No. I can't make anything out.＠白"
+  },
+  {
+   "off": 10884,
+   "budget": 15,
+   "en": "Use Metal Gear"
+  },
+  {
+   "off": 10899,
+   "budget": 13,
+   "en": "Light on",
+   "long": "Turn on light"
+  },
+  {
+   "off": 10912,
+   "budget": 33,
+   "en": "＠水Metal, light on.＠白",
+   "long": "＠水Turn on the light, Metal.＠白"
+  },
+  {
+   "off": 10945,
+   "budget": 57,
+   "en": "＠水I've waited for this.￥...Then, light on.＠白",
+   "long": "＠水I was waiting for you to ask.￥Turning on the light.＠白"
+  },
+  {
+   "off": 11002,
+   "budget": 11,
+   "en": "Save"
+  },
+  {
+   "off": 11013,
+   "budget": 37,
+   "en": "I'll save your progress now."
+  },
+  {
+   "off": 11050,
+   "budget": 71,
+   "en": "＠水It's a bit dark, but I'll save your￥progress now.＠白"
+  },
+  {
+   "off": 11121,
+   "budget": 63,
+   "en": "＠水...It's complete darkness. The￥camera eye is silent.＠白",
+   "long": "＠水It's completely dark. My camera eyes￥can't see anything.＠白"
+  },
+  {
+   "off": 11184,
+   "budget": 31,
+   "en": "＠水It's too dark to see.＠白"
+  },
+  {
+   "off": 11215,
+   "budget": 43,
+   "en": "＠水Damn, nothing. ...Pitch black.＠白",
+   "long": "＠水Damn it, I can't see a thing. It's￥pitch-black.＠白"
+  },
+  {
+   "off": 11258,
+   "budget": 45,
+   "en": "＠水It's too dark to tell.＠白"
+  },
+  {
+   "off": 11303,
+   "budget": 7,
+   "en": "Ah!"
+  },
+  {
+   "off": 11310,
+   "budget": 15,
+   "en": "A Snatcher!"
+  },
+  {
+   "off": 11325,
+   "budget": 23,
+   "en": "Just the head."
+  },
+  {
+   "off": 11348,
+   "budget": 15,
+   "en": "Startled me.",
+   "long": "Gave me a scare."
+  },
+  {
+   "off": 11363,
+   "budget": 41,
+   "en": "The explosion must have blown it￥here."
+  },
+  {
+   "off": 11404,
+   "budget": 29,
+   "en": "It's completely shut down."
+  },
+  {
+   "off": 11433,
+   "budget": 55,
+   "en": "Serves you right...￥A fine firework, Randam...",
+   "long": "Serves it right. That was quite a￥fireworks show, Randam."
+  },
+  {
+   "off": 11488,
+   "budget": 39,
+   "en": "How's your wounded arm, Gillian?"
+  },
+  {
+   "off": 11527,
+   "budget": 37,
+   "en": "It's...￥my right arm looks done.",
+   "long": "I don't think I can use my right￥arm."
+  },
+  {
+   "off": 11564,
+   "budget": 51,
+   "en": "That wound will take the￥nanomachines a while.",
+   "long": "Even nanomachines will take time to￥treat that wound."
+  },
+  {
+   "off": 11615,
+   "budget": 57,
+   "en": "I'll inject some nanomachines. Hold￥out your arm."
+  },
+  {
+   "off": 11672,
+   "budget": 43,
+   "en": "Nanomachines? Right, Harry's￥invention."
+  },
+  {
+   "off": 11715,
+   "budget": 51,
+   "en": "Ultra-small medical robots Harry￥invented.",
+   "long": "They're the tiny nanoscale medical￥robots Harry invented."
+  },
+  {
+   "off": 11766,
+   "budget": 49,
+   "en": "Every second counts.￥Quick, your arm.",
+   "long": "Every second counts. Hold out your￥arm, quickly."
+  },
+  {
+   "off": 11815,
+   "budget": 9,
+   "en": "This?",
+   "long": "Like this?"
+  },
+  {
+   "off": 11824,
+   "budget": 17,
+   "en": "Ugh!"
+  },
+  {
+   "off": 11841,
+   "budget": 15,
+   "en": "Whew."
+  },
+  {
+   "off": 11856,
+   "budget": 65,
+   "en": "Nanomachine injection done.￥They'll heal the damage within.",
+   "long": "Nanomachine injection complete.￥They'll treat the damage from inside￥your body."
+  },
+  {
+   "off": 11921,
+   "budget": 45,
+   "en": "A wound like that will take time to￥heal."
+  },
+  {
+   "off": 11966,
+   "budget": 93,
+   "en": "No time to wait for healing!￥I can shoot left-handed!￥I was in special forces!",
+   "long": "We can't wait for it to heal! I can￥shoot left-handed! My special forces￥training wasn't for nothing!"
+  },
+  {
+   "off": 12059,
+   "budget": 87,
+   "en": "Gillian, do your best.￥We must stop the Snatchers' summit￥attack, whatever comes!",
+   "long": "Hang in there, Gillian. We have to￥stop the Snatchers' attack on the￥summit, no matter what!"
+  },
+  {
+   "off": 12146,
+   "budget": 65,
+   "en": "I'll make that Snatcher regret￥talking so much!"
+  },
+  {
+   "off": 12211,
+   "budget": 39,
+   "en": "Gillian? Could it be Snow Cedar?"
+  },
+  {
+   "off": 12250,
+   "budget": 35,
+   "en": "Hardly an ordinary vent.",
+   "long": "This doesn't seem to be an ordinary￥air duct."
+  },
+  {
+   "off": 12285,
+   "budget": 41,
+   "en": "The Snatchers' commute route.",
+   "long": "Looks like it was the Snatchers'￥route to work."
+  },
+  {
+   "off": 12326,
+   "budget": 53,
+   "en": "The scratches and the Snow Cedar￥confirm it."
+  },
+  {
+   "off": 12379,
+   "budget": 93,
+   "en": "Good that we checked.￥Run into them unready and I'd￥never have drawn the Blaster.",
+   "long": "Good thing we checked. If they'd￥caught us by surprise, I wouldn't￥even have had time to draw my￥Blaster."
+  },
+  {
+   "off": 12472,
+   "budget": 21,
+   "en": "Thanks, Metal."
+  },
+  {
+   "off": 12493,
+   "budget": 37,
+   "en": "You're embarrassing me."
+  },
+  {
+   "off": 12530,
+   "budget": 49,
+   "en": "I'd rather not meet them in so tight￥a place...",
+   "long": "I wouldn't want to meet them in a￥tight space like this."
+  },
+  {
+   "off": 12579,
+   "budget": 49,
+   "en": "A commute route means an exit￥somewhere.",
+   "long": "If they use it to get to work, there￥must be an exit somewhere."
+  },
+  {
+   "off": 12628,
+   "budget": 9,
+   "en": "Forward"
+  },
+  {
+   "off": 12637,
+   "budget": 21,
+   "en": "Moving forward."
+  },
+  {
+   "off": 12658,
+   "budget": 5,
+   "en": "Move"
+  },
+  {
+   "off": 12663,
+   "budget": 51,
+   "en": "We can't go back. Rubble is blocking￥the way."
+  },
+  {
+   "off": 12714,
+   "budget": 55,
+   "en": "We can go on, but this vent￥bothers me.",
+   "long": "We can go forward, but something￥about this duct bothers me."
+  },
+  {
+   "off": 12769,
+   "budget": 49,
+   "en": "Let's find out what this￥vent is first.",
+   "long": "Let's find out what this duct is￥before we move on."
+  },
+  {
+   "off": 12818,
+   "budget": 23,
+   "en": "Let's get on!",
+   "long": "Let's get moving already!"
+  },
+  {
+   "off": 12841,
+   "budget": 59,
+   "en": "No! I know you're in a hurry, but we￥must be careful."
+  },
+  {
+   "off": 12900,
+   "budget": 51,
+   "en": "My mission now is to get you out￥safely."
+  },
+  {
+   "off": 12951,
+   "budget": 41,
+   "en": "This isn't an ordinary air duct."
+  },
+  {
+   "off": 12992,
+   "budget": 49,
+   "en": "I can't let you go on until we know.",
+   "long": "I can't let you go on until we know￥what it is."
+  },
+  {
+   "off": 13041,
+   "budget": 45,
+   "en": "All right, all right. Don't go on at￥me."
+  },
+  {
+   "off": 13086,
+   "budget": 3,
+   "en": "Wl",
+   "long": "Wall"
+  },
+  {
+   "off": 13089,
+   "budget": 29,
+   "en": "There are scratches here.",
+   "long": "There are scratches from something."
+  },
+  {
+   "off": 13118,
+   "budget": 33,
+   "en": "Scratches? Let's take a look."
+  },
+  {
+   "off": 13151,
+   "budget": 29,
+   "en": "Scratches on both walls.",
+   "long": "Both walls are covered in scratches."
+  },
+  {
+   "off": 13180,
+   "budget": 37,
+   "en": "Marks where Snatchers crawled.",
+   "long": "From Snatchers crawling through￥here."
+  },
+  {
+   "off": 13217,
+   "budget": 5,
+   "en": "Fwd.",
+   "long": "Forward"
+  },
+  {
+   "off": 13222,
+   "budget": 57,
+   "en": "My light isn't strong enough. It￥seems to go farther."
+  },
+  {
+   "off": 13279,
+   "budget": 27,
+   "en": "It goes on a while yet.",
+   "long": "It looks like it continues for quite￥a while."
+  },
+  {
+   "off": 13306,
+   "budget": 5,
+   "en": "Roof"
+  },
+  {
+   "off": 13311,
+   "budget": 61,
+   "en": "Level 4 hardness steel bars run through. It should be firm.",
+   "long": "It's reinforced with level 4￥hardness steel bars. It should be￥sturdy."
+  },
+  {
+   "off": 13372,
+   "budget": 67,
+   "en": "Steel bars in a vent, odd...￥Well, they saved us...",
+   "long": "Steel reinforcement in an air duct?￥Strange. Though it did save us."
+  },
+  {
+   "off": 13439,
+   "budget": 59,
+   "en": "It's been reinforced. They've made￥it very strong."
+  },
+  {
+   "off": 13498,
+   "budget": 29,
+   "en": "Reinforced? What for?"
+  },
+  {
+   "off": 13527,
+   "budget": 47,
+   "en": "It would have to be, if they use it."
+  },
+  {
+   "off": 13574,
+   "budget": 5,
+   "en": "Grnd",
+   "long": "Ground"
+  },
+  {
+   "off": 13579,
+   "budget": 63,
+   "en": "Huh? There's sand here. Where did it￥come from?"
+  },
+  {
+   "off": 13642,
+   "budget": 73,
+   "en": "The floor is hard reinforced￥concrete.￥Not a vent material.",
+   "long": "The floor is strong reinforced￥concrete. That's unusual for an air￥duct."
+  },
+  {
+   "off": 13715,
+   "budget": 49,
+   "en": "There isn't much dust for an air￥duct."
+  },
+  {
+   "off": 13764,
+   "budget": 57,
+   "en": "So someone uses this duct regularly?"
+  },
+  {
+   "off": 13821,
+   "budget": 49,
+   "en": "There's no reason to clean a duct￥like this."
+  },
+  {
+   "off": 13870,
+   "budget": 29,
+   "en": "Reinforced concrete floor.",
+   "long": "The floor is reinforced concrete."
+  },
+  {
+   "off": 13899,
+   "budget": 9,
+   "en": "Motion",
+   "long": "Motion detector"
+  },
+  {
+   "off": 13908,
+   "budget": 21,
+   "en": "Metal, any readings?",
+   "long": "Any motion readings, Metal?"
+  },
+  {
+   "off": 13929,
+   "budget": 53,
+   "en": "The shock just now, maybe.￥It's not working right.",
+   "long": "It's not working properly. Maybe the￥blast affected it."
+  },
+  {
+   "off": 13982,
+   "budget": 13,
+   "en": "Broken?",
+   "long": "Is it broken?"
+  },
+  {
+   "off": 13995,
+   "budget": 47,
+   "en": "No, but its accuracy is off."
+  },
+  {
+   "off": 14042,
+   "budget": 29,
+   "en": "No readings at the moment."
+  },
+  {
+   "off": 14071,
+   "budget": 31,
+   "en": "Nothing on my sensors."
+  },
+  {
+   "off": 14102,
+   "budget": 3,
+   "en": "Sc",
+   "long": "Scratches"
+  },
+  {
+   "off": 14105,
+   "budget": 43,
+   "en": "Scratched by something hard and￥sharp.",
+   "long": "These scratches were made by￥something hard and sharp."
+  },
+  {
+   "off": 14148,
+   "budget": 77,
+   "en": "Snatchers? Maybe they used this as a￥passage."
+  },
+  {
+   "off": 14225,
+   "budget": 73,
+   "en": "Marks of bodies being dragged.￥No flesh-and-blood man did this.",
+   "long": "They seem to be marks from dragging￥their bodies. Human flesh couldn't￥do this."
+  },
+  {
+   "off": 14298,
+   "budget": 41,
+   "en": "The bare Snatcher from the theatre?",
+   "long": "Like the bare Snatcher that attacked￥us in the operating room?"
+  },
+  {
+   "off": 14339,
+   "budget": 61,
+   "en": "Yes. An endoskeleton before the skin￥goes on.",
+   "long": "Yes. An endoskeleton before the￥artificial skin is applied."
+  },
+  {
+   "off": 14400,
+   "budget": 3,
+   "en": "Sa",
+   "long": "Sand"
+  },
+  {
+   "off": 14403,
+   "budget": 33,
+   "en": "I'll analyze this sand."
+  },
+  {
+   "off": 14436,
+   "budget": 71,
+   "en": "High in iron and phosphorus.￥Peculiar to M District here.",
+   "long": "It contains a lot of iron and￥phosphorus. In Neo Kobe, that's￥characteristic of District M."
+  },
+  {
+   "off": 14507,
+   "budget": 57,
+   "en": "M District... the factory ruins?￥But how...",
+   "long": "District M? Around the Factory￥ruins? How did it get here?"
+  },
+  {
+   "off": 14564,
+   "budget": 77,
+   "en": "It's strange to find this sand here.￥Someone must have passed through."
+  },
+  {
+   "off": 14641,
+   "budget": 5,
+   "en": "Poln",
+   "long": "Pollen"
+  },
+  {
+   "off": 14646,
+   "budget": 51,
+   "en": "I'll collect and analyze an air￥sample."
+  },
+  {
+   "off": 14697,
+   "budget": 79,
+   "en": "Just as we suspected, Gillian.￥There's a low concentration of Snow￥Cedar."
+  },
+  {
+   "off": 14776,
+   "budget": 37,
+   "en": "Snow Cedar? Is it safe to breathe?"
+  },
+  {
+   "off": 14813,
+   "budget": 35,
+   "en": "This concentration won't harm you."
+  },
+  {
+   "off": 14848,
+   "budget": 49,
+   "en": "But it may interfere with my save￥function."
+  },
+  {
+   "off": 14897,
+   "budget": 71,
+   "en": "I'll activate shielding as a￥precaution, so save now."
+  },
+  {
+   "off": 14968,
+   "budget": 67,
+   "en": "The reading rises further in.￥It's drifting from deeper in.",
+   "long": "The concentration increases farther￥in. It seems to be drifting in from￥there."
+  },
+  {
+   "off": 15035,
+   "budget": 13,
+   "en": "Videophone"
+  },
+  {
+   "off": 15048,
+   "budget": 57,
+   "en": "Wait! Let's call Mika and tell her￥about the Chief!"
+  },
+  {
+   "off": 15105,
+   "budget": 55,
+   "en": "No good. We're shielded in. I can't￥transmit."
+  },
+  {
+   "off": 15160,
+   "budget": 11,
+   "en": "Damn it!"
+  },
+  {
+   "off": 15171,
+   "budget": 31,
+   "en": "Gillian! The passage splits!"
+  },
+  {
+   "off": 15202,
+   "budget": 33,
+   "en": "What? Which way do we go?"
+  },
+  {
+   "off": 15235,
+   "budget": 35,
+   "en": "Gillian, no time to hesitate.",
+   "long": "There's no time to hesitate,￥Gillian."
+  },
+  {
+   "off": 15270,
+   "budget": 23,
+   "en": "Which direction?"
+  },
+  {
+   "off": 15293,
+   "budget": 9,
+   "en": "Straight",
+   "long": "Go straight"
+  },
+  {
+   "off": 15302,
+   "budget": 15,
+   "en": "Straight on.",
+   "long": "All right, straight ahead."
+  },
+  {
+   "off": 15317,
+   "budget": 23,
+   "en": "Let's go straight.",
+   "long": "Let's keep going straight."
+  },
+  {
+   "off": 15340,
+   "budget": 21,
+   "en": "Then straight on.",
+   "long": "Going straight ahead."
+  },
+  {
+   "off": 15361,
+   "budget": 11,
+   "en": "Turn right"
+  },
+  {
+   "off": 15372,
+   "budget": 21,
+   "en": "Let's turn right!",
+   "long": "Let's try turning right!"
+  },
+  {
+   "off": 15393,
+   "budget": 7,
+   "en": "Right."
+  },
+  {
+   "off": 15400,
+   "budget": 25,
+   "en": "Turning right."
+  },
+  {
+   "off": 15425,
+   "budget": 9,
+   "en": "Back"
+  },
+  {
+   "off": 15434,
+   "budget": 15,
+   "en": "Let's go back."
+  },
+  {
+   "off": 15449,
+   "budget": 65,
+   "en": "There's nothing back there but a￥Snatcher's head and rubble."
+  },
+  {
+   "off": 15514,
+   "budget": 33,
+   "en": "Pull yourself together, Gillian."
+  },
+  {
+   "off": 15547,
+   "budget": 11,
+   "en": "Turn left"
+  },
+  {
+   "off": 15558,
+   "budget": 25,
+   "en": "Turning left."
+  },
+  {
+   "off": 15583,
+   "budget": 21,
+   "en": "Eh, going back?",
+   "long": "What? We're going back?"
+  },
+  {
+   "off": 15604,
+   "budget": 5,
+   "en": "Back"
+  },
+  {
+   "off": 15609,
+   "budget": 15,
+   "en": "Understood."
+  },
+  {
+   "off": 15624,
+   "budget": 29,
+   "en": "Ah, the wall's closed again.",
+   "long": "Oh! The wall has closed again."
+  },
+  {
+   "off": 15653,
+   "budget": 37,
+   "en": "That button closes it too!"
+  },
+  {
+   "off": 15690,
+   "budget": 49,
+   "en": "Let's find the exit and get out,￥Gillian!"
+  },
+  {
+   "off": 15739,
+   "budget": 15,
+   "en": "Oh, not again."
+  },
+  {
+   "off": 15754,
+   "budget": 7,
+   "en": "Huh?"
+  },
+  {
+   "off": 15761,
+   "budget": 65,
+   "en": "Don't just say \"Huh?\" Let's find the￥exit and get out!"
+  },
+  {
+   "off": 15826,
+   "budget": 45,
+   "en": "There's no switch that way, Gillian!"
+  },
+  {
+   "off": 15871,
+   "budget": 33,
+   "en": "Going back the way we came."
+  },
+  {
+   "off": 15904,
+   "budget": 43,
+   "en": "Do you know where we're heading,￥Metal?"
+  },
+  {
+   "off": 15947,
+   "budget": 51,
+   "en": "This should take us to the first￥junction."
+  },
+  {
+   "off": 15998,
+   "budget": 55,
+   "en": "Strange. I thought we'd tried every￥passage."
+  },
+  {
+   "off": 16053,
+   "budget": 41,
+   "en": "This leads to the first junction."
+  },
+  {
+   "off": 16094,
+   "budget": 25,
+   "en": "Let's find the exit.",
+   "long": "Let's hurry and find the exit."
+  },
+  {
+   "off": 16119,
+   "budget": 35,
+   "en": "Go on and it's a crossroad.",
+   "long": "This should lead to the crossroads."
+  },
+  {
+   "off": 16154,
+   "budget": 23,
+   "en": "Metal, the bearing?",
+   "long": "Can you tell which direction we're￥facing, Metal?"
+  },
+  {
+   "off": 16177,
+   "budget": 47,
+   "en": "No. My compass isn't working￥properly."
+  },
+  {
+   "off": 16224,
+   "budget": 53,
+   "en": "...I see. With a bearing I could map￥it.",
+   "long": "I see. We could've made a map if we￥knew the directions."
+  },
+  {
+   "off": 16277,
+   "budget": 19,
+   "en": "I'm sorry."
+  },
+  {
+   "off": 16296,
+   "budget": 51,
+   "en": "It's not your fault. I'll keep track￥in my head."
+  },
+  {
+   "off": 16347,
+   "budget": 53,
+   "en": "Damn. We don't have time to get￥stuck here."
+  },
+  {
+   "off": 16400,
+   "budget": 21,
+   "en": "Don't panic."
+  },
+  {
+   "off": 16421,
+   "budget": 45,
+   "en": "I have feelings.￥I'm not a machine.",
+   "long": "I've got feelings. I can't stay calm￥like a machine."
+  },
+  {
+   "off": 16466,
+   "budget": 23,
+   "en": "How far does this go?"
+  },
+  {
+   "off": 16489,
+   "budget": 53,
+   "en": "It's a Snatcher passage. It should￥lead to an exit.",
+   "long": "The Snatchers use this passage. It￥must lead outside."
+  },
+  {
+   "off": 16542,
+   "budget": 63,
+   "en": "The Snatcher's head! We're back￥where we started."
+  },
+  {
+   "off": 16605,
+   "budget": 11,
+   "en": "Damn it!"
+  },
+  {
+   "off": 16616,
+   "budget": 25,
+   "en": "Back the way we came.",
+   "long": "Let's go back the way we came."
+  },
+  {
+   "off": 16641,
+   "budget": 55,
+   "en": "The Snatcher's head! We've come back￥again."
+  },
+  {
+   "off": 16696,
+   "budget": 11,
+   "en": "Ah..."
+  },
+  {
+   "off": 16707,
+   "budget": 31,
+   "en": "Dammit! We're back here again!",
+   "long": "Damn it! We're back here again!"
+  },
+  {
+   "off": 16738,
+   "budget": 35,
+   "en": "We have to hurry to JUNKER HQ...",
+   "long": "We have to hurry to JUNKER￥headquarters."
+  },
+  {
+   "off": 16773,
+   "budget": 21,
+   "en": "I know! Back we go!",
+   "long": "I know! Let's turn back!"
+  },
+  {
+   "off": 16794,
+   "budget": 13,
+   "en": "......"
+  },
+  {
+   "off": 16807,
+   "budget": 29,
+   "en": "It's the Snatcher's head."
+  },
+  {
+   "off": 16836,
+   "budget": 23,
+   "en": "Really an exit?",
+   "long": "Is there really an exit?"
+  },
+  {
+   "off": 16859,
+   "budget": 69,
+   "en": "The Snatchers use this passage. It￥has to lead somewhere."
+  },
+  {
+   "off": 16928,
+   "budget": 15,
+   "en": "Let's go back."
+  },
+  {
+   "off": 16943,
+   "budget": 33,
+   "en": "Back to the starting point."
+  },
+  {
+   "off": 16976,
+   "budget": 43,
+   "en": "We'd better remember the route as we￥go."
+  },
+  {
+   "off": 17019,
+   "budget": 29,
+   "en": "Damn! Every second counts!",
+   "long": "Damn it! Every second counts!"
+  },
+  {
+   "off": 17048,
+   "budget": 19,
+   "en": "Gillian, be calm.",
+   "long": "Stay calm, Gillian."
+  },
+  {
+   "off": 17067,
+   "budget": 29,
+   "en": "That was a huge spider."
+  },
+  {
+   "off": 17096,
+   "budget": 53,
+   "en": "But real spiders don't shoot needle￥guns."
+  },
+  {
+   "off": 17149,
+   "budget": 27,
+   "en": "True. They're cute.",
+   "long": "Right. They're harmless by￥comparison."
+  },
+  {
+   "off": 17176,
+   "budget": 25,
+   "en": "Poison-thread spiders...",
+   "long": "A spider that spins poisonous webs?"
+  },
+  {
+   "off": 17201,
+   "budget": 35,
+   "en": "There's no such spider in nature."
+  },
+  {
+   "off": 17236,
+   "budget": 17,
+   "en": "It bothers me..."
+  },
+  {
+   "off": 17253,
+   "budget": 33,
+   "en": "Ugh. What a web!"
+  },
+  {
+   "off": 17286,
+   "budget": 67,
+   "en": "But look closely; that may￥be our way out.",
+   "long": "But we should look carefully. There￥might be a way out through there."
+  },
+  {
+   "off": 17353,
+   "budget": 51,
+   "en": "Push through the webs? Not a￥pleasant thought."
+  },
+  {
+   "off": 17404,
+   "budget": 45,
+   "en": "They've built a monster.",
+   "long": "Those bastards created one hell of a￥creature."
+  },
+  {
+   "off": 17449,
+   "budget": 59,
+   "en": "Had it a breeding function we'd be￥in trouble.",
+   "long": "It could have been disastrous if￥they'd perfected its reproductive￥system too."
+  },
+  {
+   "off": 17508,
+   "budget": 29,
+   "en": "Building such horrors.",
+   "long": "They've created a horrible creature."
+  },
+  {
+   "off": 17537,
+   "budget": 57,
+   "en": "Artificial life, so not many, I'd￥think...",
+   "long": "It's an artificial organism, so￥there probably aren't many."
+  },
+  {
+   "off": 17594,
+   "budget": 55,
+   "en": "If they breed and multiply,￥we're in trouble.",
+   "long": "But if it can reproduce and￥multiply, we're in trouble."
+  },
+  {
+   "off": 17649,
+   "budget": 23,
+   "en": "Damn! Hard to walk.",
+   "long": "Damn! It's hard to move in here."
+  },
+  {
+   "off": 17672,
+   "budget": 35,
+   "en": "Rather narrow for you, Gillian.",
+   "long": "It's a bit too narrow for you,￥Gillian."
+  },
+  {
+   "off": 17707,
+   "budget": 35,
+   "en": "The town is in Christmas mood...",
+   "long": "And the city's out celebrating￥Christmas."
+  },
+  {
+   "off": 17742,
+   "budget": 71,
+   "en": "Gillian, unless you press on,￥there'll be no Christmas.",
+   "long": "If you don't keep going, Christmas￥will be the least of our worries,￥Gillian."
+  },
+  {
+   "off": 17813,
+   "budget": 15,
+   "en": "That's right."
+  },
+  {
+   "off": 17828,
+   "budget": 33,
+   "en": "How's your right arm, Gillian?"
+  },
+  {
+   "off": 17861,
+   "budget": 19,
+   "en": "Still no good..."
+  },
+  {
+   "off": 17880,
+   "budget": 23,
+   "en": "Is Mika safe?",
+   "long": "I wonder if Mika and the others are￥safe."
+  },
+  {
+   "off": 17903,
+   "budget": 43,
+   "en": "Harry must know what the Chief is."
+  },
+  {
+   "off": 17946,
+   "budget": 43,
+   "en": "I don't think he'll go down easily."
+  },
+  {
+   "off": 17989,
+   "budget": 17,
+   "en": "I hope so..."
+  },
+  {
+   "off": 18006,
+   "budget": 33,
+   "en": "Cold. My toes are aching.",
+   "long": "It's cold. My toes are starting to￥hurt."
+  },
+  {
+   "off": 18039,
+   "budget": 15,
+   "en": "You alright?",
+   "long": "Are you all right?"
+  },
+  {
+   "off": 18054,
+   "budget": 19,
+   "en": "Aye, somehow.",
+   "long": "Yeah, more or less."
+  },
+  {
+   "off": 18073,
+   "budget": 19,
+   "en": "Snow Cedar?"
+  },
+  {
+   "off": 18092,
+   "budget": 41,
+   "en": "Don't know.￥Cold like this. A chill?",
+   "long": "I don't know. It's freezing. Maybe￥I've caught a cold."
+  },
+  {
+   "off": 18133,
+   "budget": 35,
+   "en": "How's your right arm, Gillian?"
+  },
+  {
+   "off": 18168,
+   "budget": 51,
+   "en": "Better than before, but no￥Blaster...",
+   "long": "Better than before, but I still￥can't fire my Blaster."
+  },
+  {
+   "off": 18219,
+   "budget": 27,
+   "en": "Narrow. I want out.",
+   "long": "It's cramped. I want to get above￥ground."
+  },
+  {
+   "off": 18246,
+   "budget": 29,
+   "en": "It really does look cramped.",
+   "long": "You certainly look uncomfortable."
+  },
+  {
+   "off": 18275,
+   "budget": 21,
+   "en": "My back aches.",
+   "long": "My back's starting to hurt."
+  },
+  {
+   "off": 18296,
+   "budget": 35,
+   "en": "Somehow.￥But this posture hurts.",
+   "long": "I'm managing. But this position￥hurts."
+  },
+  {
+   "off": 18331,
+   "budget": 15,
+   "en": "Out soon...",
+   "long": "I want to get out of here."
+  },
+  {
+   "off": 18346,
+   "budget": 65,
+   "en": "Even this much Snow Cedar harms you￥over long hours.",
+   "long": "Even this much Snow Cedar is￥unhealthy if you breathe it for too￥long."
+  },
+  {
+   "off": 18411,
+   "budget": 19,
+   "en": "Argh! I want out!"
+  },
+  {
+   "off": 18430,
+   "budget": 29,
+   "en": "Calm down, Gillian!"
+  },
+  {
+   "off": 18459,
+   "budget": 29,
+   "en": "Which way was the switch?"
+  },
+  {
+   "off": 18488,
+   "budget": 23,
+   "en": "I'm not sure either."
+  },
+  {
+   "off": 18511,
+   "budget": 47,
+   "en": "Go back and the wall blocks us!",
+   "long": "Even if we go back, the wall is￥closed. We can't get through."
+  },
+  {
+   "off": 18558,
+   "budget": 23,
+   "en": "Get a grip!",
+   "long": "Pull yourself together!"
+  },
+  {
+   "off": 18581,
+   "budget": 29,
+   "en": "Let's turn left, then."
+  },
+  {
+   "off": 18610,
+   "budget": 31,
+   "en": "Let's go straight ahead."
+  },
+  {
+   "off": 18641,
+   "budget": 37,
+   "en": "Go back and you'll fall in again.",
+   "long": "If you go back, you'll just fall in￥the hole again."
+  },
+  {
+   "off": 18678,
+   "budget": 31,
+   "en": "What was that button for?"
+  },
+  {
+   "off": 18709,
+   "budget": 51,
+   "en": "I hope it doesn't hurt anyone."
+  },
+  {
+   "off": 18760,
+   "budget": 27,
+   "en": "What does that button do?"
+  },
+  {
+   "off": 18787,
+   "budget": 47,
+   "en": "Being the Snatchers', it worries me.",
+   "long": "It belongs to the Snatchers. That's￥worrying."
+  },
+  {
+   "off": 18834,
+   "budget": 29,
+   "en": "A switch of some kind.",
+   "long": "It's probably a switch for￥something."
+  },
+  {
+   "off": 18863,
+   "budget": 53,
+   "en": "I think we should check that button￥soon."
+  },
+  {
+   "off": 18916,
+   "budget": 13,
+   "en": "Owww!"
+  },
+  {
+   "off": 18929,
+   "budget": 17,
+   "en": "Not all right!",
+   "long": "No, I'm not all right!"
+  },
+  {
+   "off": 18946,
+   "budget": 31,
+   "en": "It seems to be a dead end."
+  },
+  {
+   "off": 18977,
+   "budget": 7,
+   "en": "..."
+  },
+  {
+   "off": 18984,
+   "budget": 29,
+   "en": "Let's hurry, Gillian!"
+  },
+  {
+   "off": 19013,
+   "budget": 35,
+   "en": "Damn it! I'm covered in cuts!"
+  },
+  {
+   "off": 19048,
+   "budget": 15,
+   "en": "Damn it!"
+  },
+  {
+   "off": 19063,
+   "budget": 23,
+   "en": "Gillian, back we go.",
+   "long": "Let's go back, Gillian."
+  },
+  {
+   "off": 19086,
+   "budget": 39,
+   "en": "My spine went crunch. Crunch!"
+  },
+  {
+   "off": 19125,
+   "budget": 27,
+   "en": "I didn't hear anything."
+  },
+  {
+   "off": 19152,
+   "budget": 49,
+   "en": "Damn Snatchers! What a nasty trap!"
+  },
+  {
+   "off": 19201,
+   "budget": 41,
+   "en": "Only a hole.￥Let's go back, Gillian.",
+   "long": "It's just a hole. Let's go back,￥Gillian."
+  },
+  {
+   "off": 19242,
+   "budget": 31,
+   "en": "How many times will you fall?",
+   "long": "How many times are you going to fall￥in?"
+  },
+  {
+   "off": 19273,
+   "budget": 17,
+   "en": "M-My spine..."
+  },
+  {
+   "off": 19290,
+   "budget": 13,
+   "en": "We go back.",
+   "long": "We're going back."
+  },
+  {
+   "off": 19303,
+   "budget": 13,
+   "en": "Ugh."
+  },
+  {
+   "off": 19316,
+   "budget": 15,
+   "en": "That's odd."
+  },
+  {
+   "off": 19331,
+   "budget": 31,
+   "en": "Hey, not the first fork!",
+   "long": "Hey, this isn't the first junction!"
+  },
+  {
+   "off": 19362,
+   "budget": 51,
+   "en": "It has to be. This is the first￥junction."
+  },
+  {
+   "off": 19413,
+   "budget": 29,
+   "en": "But it wasn't a crossroads!"
+  },
+  {
+   "off": 19442,
+   "budget": 25,
+   "en": "Wait, could it be?"
+  },
+  {
+   "off": 19467,
+   "budget": 31,
+   "en": "That button we pressed?"
+  },
+  {
+   "off": 19498,
+   "budget": 33,
+   "en": "Yes! That must be it!"
+  },
+  {
+   "off": 19531,
+   "budget": 65,
+   "en": "So it was the exit switch.￥Right to press it! Haha!",
+   "long": "It was the exit switch after all!￥Good thing we pressed it! Ha ha!"
+  },
+  {
+   "off": 19596,
+   "budget": 65,
+   "en": "Don't celebrate yet, Gillian. We￥don't know that for sure."
+  },
+  {
+   "off": 19661,
+   "budget": 21,
+   "en": "Right. You're right."
+  },
+  {
+   "off": 19682,
+   "budget": 31,
+   "en": "Which passage just opened?"
+  },
+  {
+   "off": 19713,
+   "budget": 37,
+   "en": "Which way leads to the exit?"
+  },
+  {
+   "off": 19750,
+   "budget": 13,
+   "en": "Understood"
+  },
+  {
+   "off": 19763,
+   "budget": 19,
+   "en": "The path forks.",
+   "long": "The passage splits."
+  },
+  {
+   "off": 19782,
+   "budget": 37,
+   "en": "At least it's not a dead end."
+  },
+  {
+   "off": 19819,
+   "budget": 41,
+   "en": "One of these should lead to the￥exit."
+  },
+  {
+   "off": 19860,
+   "budget": 37,
+   "en": "Another maze? What a drag.",
+   "long": "I'll be sick if there's another maze￥ahead."
+  },
+  {
+   "off": 19897,
+   "budget": 27,
+   "en": "Which direction?"
+  },
+  {
+   "off": 19924,
+   "budget": 65,
+   "en": "Let's go straight ahead. Watch out￥for Insectors!"
+  },
+  {
+   "off": 19989,
+   "budget": 59,
+   "en": "Turning right. Watch out for￥Insectors!"
+  },
+  {
+   "off": 20048,
+   "budget": 21,
+   "en": "The earlier fork.",
+   "long": "It's the junction from before."
+  },
+  {
+   "off": 20069,
+   "budget": 29,
+   "en": "Please let it lead out!",
+   "long": "Please let this lead to the exit!"
+  },
+  {
+   "off": 20098,
+   "budget": 23,
+   "en": "Left, of course?",
+   "long": "We're turning left, of course?"
+  },
+  {
+   "off": 20121,
+   "budget": 13,
+   "en": "Of course!"
+  },
+  {
+   "off": 20134,
+   "budget": 33,
+   "en": "Watch out for Insectors!"
+  },
+  {
+   "off": 20167,
+   "budget": 15,
+   "en": "I don't know."
+  },
+  {
+   "off": 20182,
+   "budget": 37,
+   "en": "I just hope we reach the exit."
+  },
+  {
+   "off": 20219,
+   "budget": 33,
+   "en": "I hope this leads outside."
+  },
+  {
+   "off": 20252,
+   "budget": 61,
+   "en": "Insectors are probably guarding the￥exit too, Gillian."
+  },
+  {
+   "off": 20313,
+   "budget": 27,
+   "en": "Stay alert."
+  },
+  {
+   "off": 20340,
+   "budget": 21,
+   "en": "The passage splits."
+  },
+  {
+   "off": 20361,
+   "budget": 23,
+   "en": "I fear for Mika.",
+   "long": "I'm worried about Mika and Harry."
+  },
+  {
+   "off": 20384,
+   "budget": 15,
+   "en": "Let's hurry!"
+  },
+  {
+   "off": 20399,
+   "budget": 21,
+   "en": "We've lost time.",
+   "long": "This is taking too long."
+  },
+  {
+   "off": 20420,
+   "budget": 23,
+   "en": "To HQ, and quickly!",
+   "long": "We have to get to headquarters!"
+  },
+  {
+   "off": 20443,
+   "budget": 13,
+   "en": "I know!"
+  },
+  {
+   "off": 20456,
+   "budget": 21,
+   "en": "Huh? What's that?"
+  },
+  {
+   "off": 20477,
+   "budget": 25,
+   "en": "It looks like a button."
+  },
+  {
+   "off": 20502,
+   "budget": 65,
+   "en": "Some kind of switch. Were the￥Insectors guarding it?"
+  },
+  {
+   "off": 20567,
+   "budget": 17,
+   "en": "Press it?",
+   "long": "Should we press it?"
+  },
+  {
+   "off": 20584,
+   "budget": 57,
+   "en": "It could be a trap. We need to check￥the area."
+  },
+  {
+   "off": 20641,
+   "budget": 65,
+   "en": "I know you're in a hurry, Gillian,￥but let's be careful."
+  },
+  {
+   "off": 20706,
+   "budget": 57,
+   "en": "The wall switch.￥We've come back to here.",
+   "long": "It's the switch that opens the wall.￥We've come all the way back here."
+  },
+  {
+   "off": 20763,
+   "budget": 55,
+   "en": "It's the button from before. What￥does it control?"
+  },
+  {
+   "off": 20818,
+   "budget": 19,
+   "en": "The wall switch.",
+   "long": "It's the wall switch."
+  },
+  {
+   "off": 20837,
+   "budget": 49,
+   "en": "That button.￥It's suspicious, all right.",
+   "long": "It's that button again. It's￥definitely suspicious."
+  },
+  {
+   "off": 20886,
+   "budget": 15,
+   "en": "Shall we look?",
+   "long": "Let's check it."
+  },
+  {
+   "off": 20901,
+   "budget": 17,
+   "en": "Yes, let's."
+  },
+  {
+   "off": 20918,
+   "budget": 11,
+   "en": "Press",
+   "long": "Press button"
+  },
+  {
+   "off": 20929,
+   "budget": 23,
+   "en": "Let's press it again."
+  },
+  {
+   "off": 20952,
+   "budget": 25,
+   "en": "What? Again?"
+  },
+  {
+   "off": 20977,
+   "budget": 23,
+   "en": "That should open it.",
+   "long": "I think that will open it."
+  },
+  {
+   "off": 21000,
+   "budget": 23,
+   "en": "No trap, it seems.",
+   "long": "It doesn't look like a trap."
+  },
+  {
+   "off": 21023,
+   "budget": 19,
+   "en": "Stay sharp.",
+   "long": "Don't let your guard down."
+  },
+  {
+   "off": 21042,
+   "budget": 67,
+   "en": "They press it all the time. Maybe it￥opens the exit."
+  },
+  {
+   "off": 21109,
+   "budget": 33,
+   "en": "All right. Let's try it."
+  },
+  {
+   "off": 21142,
+   "budget": 11,
+   "en": "Here goes!"
+  },
+  {
+   "off": 21153,
+   "budget": 31,
+   "en": "Nothing's happening."
+  },
+  {
+   "off": 21184,
+   "budget": 47,
+   "en": "What? Then what's this switch for?"
+  },
+  {
+   "off": 21231,
+   "budget": 51,
+   "en": "Something might be happening￥somewhere else."
+  },
+  {
+   "off": 21282,
+   "budget": 19,
+   "en": "Elsewhere..."
+  },
+  {
+   "off": 21301,
+   "budget": 61,
+   "en": "Could it activate something above￥ground?"
+  },
+  {
+   "off": 21362,
+   "budget": 19,
+   "en": "It's possible."
+  },
+  {
+   "off": 21381,
+   "budget": 51,
+   "en": "That's bad. I hope we haven't hurt￥anyone."
+  },
+  {
+   "off": 21432,
+   "budget": 31,
+   "en": "Don't say things like that."
+  },
+  {
+   "off": 21463,
+   "budget": 65,
+   "en": "Only scratches and the button.￥Nothing like a trap.",
+   "long": "There's only the button and the￥scratches. I don't see any traps."
+  },
+  {
+   "off": 21528,
+   "budget": 59,
+   "en": "But the scratches here are￥beyond anything so far.",
+   "long": "But there are far more scratches￥here than anywhere else we've seen."
+  },
+  {
+   "off": 21587,
+   "budget": 31,
+   "en": "They must come here often."
+  },
+  {
+   "off": 21618,
+   "budget": 41,
+   "en": "Nothing odd but the many scratches.",
+   "long": "Nothing suspicious apart from all￥the scratches."
+  },
+  {
+   "off": 21659,
+   "budget": 43,
+   "en": "A firm ceiling. No tricks.",
+   "long": "The ceiling looks sturdy. There￥doesn't seem to be a hidden￥mechanism."
+  },
+  {
+   "off": 21702,
+   "budget": 27,
+   "en": "Nothing odd at all.",
+   "long": "There's nothing suspicious."
+  },
+  {
+   "off": 21729,
+   "budget": 45,
+   "en": "There's no mechanism to lower the￥ceiling."
+  },
+  {
+   "off": 21774,
+   "budget": 3,
+   "en": "Fl",
+   "long": "Floor"
+  },
+  {
+   "off": 21777,
+   "budget": 63,
+   "en": "I've scanned it. There are no traps,￥such as hidden pits."
+  },
+  {
+   "off": 21840,
+   "budget": 37,
+   "en": "Unlike elsewhere, the marks curve.",
+   "long": "Unlike elsewhere, these scratches￥curve."
+  },
+  {
+   "off": 21877,
+   "budget": 47,
+   "en": "They come here, turn around, and go￥back."
+  },
+  {
+   "off": 21924,
+   "budget": 7,
+   "en": "Button"
+  },
+  {
+   "off": 21931,
+   "budget": 33,
+   "en": "It's covered in small scratches."
+  },
+  {
+   "off": 21964,
+   "budget": 37,
+   "en": "So they keep pressing it."
+  },
+  {
+   "off": 22001,
+   "budget": 37,
+   "en": "Lots of marks from hard pressing.",
+   "long": "There are lots of marks from￥something hard pressing it."
+  },
+  {
+   "off": 22038,
+   "budget": 25,
+   "en": "Countless scratches.",
+   "long": "There are countless scratches."
+  },
+  {
+   "off": 22063,
+   "budget": 43,
+   "en": "Oh?￥Marks I've not seen before.",
+   "long": "What's this? These scratches are￥different."
+  },
+  {
+   "off": 22106,
+   "budget": 11,
+   "en": "Of what?",
+   "long": "What made them?"
+  },
+  {
+   "off": 22117,
+   "budget": 71,
+   "en": "They look like Insector tracks.￥There are plenty on the button too."
+  },
+  {
+   "off": 22188,
+   "budget": 41,
+   "en": "So Insectors pressed the button?"
+  },
+  {
+   "off": 22229,
+   "budget": 65,
+   "en": "Dragged Snatcher bodies and Insector￥prints everywhere.",
+   "long": "It's covered in Insector tracks and￥marks from Snatchers dragging￥themselves along."
+  },
+  {
+   "off": 22294,
+   "budget": 21,
+   "en": "Fairly new marks.",
+   "long": "These scratches are fairly recent."
+  },
+  {
+   "off": 22315,
+   "budget": 29,
+   "en": "We're the only ones moving.",
+   "long": "We're the only things moving."
+  },
+  {
+   "off": 22344,
+   "budget": 19,
+   "en": "Let's hurry!"
+  },
+  {
+   "off": 22363,
+   "budget": 55,
+   "en": "This button's very suspicious.￥Let's come back later.",
+   "long": "This button is very suspicious.￥Let's come back later."
+  },
+  {
+   "off": 22418,
+   "budget": 15,
+   "en": "What now?",
+   "long": "What will you do?"
+  },
+  {
+   "off": 22433,
+   "budget": 21,
+   "en": "Ugh! What is this!",
+   "long": "Whoa! What's all this?"
+  },
+  {
+   "off": 22454,
+   "budget": 21,
+   "en": "A mass of cobwebs.",
+   "long": "A mass of spiderwebs."
+  },
+  {
+   "off": 22475,
+   "budget": 13,
+   "en": "Here again?"
+  },
+  {
+   "off": 22488,
+   "budget": 35,
+   "en": "Oh, no. We're back here again!"
+  },
+  {
+   "off": 22523,
+   "budget": 33,
+   "en": "It's creepy. What will you do?"
+  },
+  {
+   "off": 22556,
+   "budget": 63,
+   "en": "The webs are so thick I can't see￥the walls clearly."
+  },
+  {
+   "off": 22619,
+   "budget": 21,
+   "en": "Silk everywhere.",
+   "long": "It's covered in webs."
+  },
+  {
+   "off": 22640,
+   "budget": 57,
+   "en": "It seems to go farther, but the webs￥block the view."
+  },
+  {
+   "off": 22697,
+   "budget": 55,
+   "en": "It doesn't look as if Snatchers pass￥often.",
+   "long": "Doesn't look like the Snatchers use￥this passage often."
+  },
+  {
+   "off": 22752,
+   "budget": 27,
+   "en": "Webs hide the view.",
+   "long": "I can't see through the webs."
+  },
+  {
+   "off": 22779,
+   "budget": 5,
+   "en": "Spid",
+   "long": "Spider"
+  },
+  {
+   "off": 22784,
+   "budget": 49,
+   "en": "It's huge. It could easily eat a￥rat."
+  },
+  {
+   "off": 22833,
+   "budget": 55,
+   "en": "A giant spider...￥never from the capsule machine...",
+   "long": "A giant spider? And I couldn't get￥one from the capsule machine."
+  },
+  {
+   "off": 22888,
+   "budget": 29,
+   "en": "Larger the more I look.",
+   "long": "The more I look, the bigger it￥seems."
+  },
+  {
+   "off": 22917,
+   "budget": 57,
+   "en": "It does seem artificial. It has no￥reproductive system."
+  },
+  {
+   "off": 22974,
+   "budget": 23,
+   "en": "One generation..."
+  },
+  {
+   "off": 22997,
+   "budget": 51,
+   "en": "No metal reading.￥Hard to believe, but living.",
+   "long": "No metal detected. Hard to believe,￥but it's alive."
+  },
+  {
+   "off": 23048,
+   "budget": 49,
+   "en": "No wonder Metal mistook it for an￥Insector.",
+   "long": "No wonder you mistook it for an￥Insector, Metal."
+  },
+  {
+   "off": 23097,
+   "budget": 67,
+   "en": "Perhaps the Insectors were actually￥modeled on this spider."
+  },
+  {
+   "off": 23164,
+   "budget": 27,
+   "en": "One-use artificial spider.",
+   "long": "It's an artificial spider that can't￥reproduce."
+  },
+  {
+   "off": 23191,
+   "budget": 39,
+   "en": "＠赤An Insector!＠Ｃ"
+  },
+  {
+   "off": 23230,
+   "budget": 57,
+   "en": "You're kidding! In this cramped￥space?＠Ｃ"
+  },
+  {
+   "off": 23287,
+   "budget": 33,
+   "en": "Not again!＠Ｃ"
+  },
+  {
+   "off": 23320,
+   "budget": 27,
+   "en": "Damn! It came from above!"
+  },
+  {
+   "off": 23347,
+   "budget": 57,
+   "en": "Wait, Gillian! It's not an Insector!"
+  },
+  {
+   "off": 23404,
+   "budget": 13,
+   "en": "What?!"
+  },
+  {
+   "off": 23417,
+   "budget": 27,
+   "en": "A spider. A real spider.",
+   "long": "It's a spider. A real spider."
+  },
+  {
+   "off": 23444,
+   "budget": 21,
+   "en": "What? That thing?"
+  },
+  {
+   "off": 23465,
+   "budget": 35,
+   "en": "Too big, near 30 centimetres!",
+   "long": "It's too big! Nearly thirty￥centimeters!"
+  },
+  {
+   "off": 23500,
+   "budget": 51,
+   "en": "I have no record of one this large."
+  },
+  {
+   "off": 23551,
+   "budget": 15,
+   "en": "A mutation?"
+  },
+  {
+   "off": 23566,
+   "budget": 57,
+   "en": "Hard to think nature bore a spider￥this size.",
+   "long": "It's hard to imagine a spider this￥large occurring naturally."
+  },
+  {
+   "off": 23623,
+   "budget": 67,
+   "en": "The president of a biotech company￥was snatched before."
+  },
+  {
+   "off": 23690,
+   "budget": 31,
+   "en": "They created this creature?"
+  },
+  {
+   "off": 23721,
+   "budget": 45,
+   "en": "The poison thread came from this￥spider.",
+   "long": "This spider seems to have produced￥the poisonous silk."
+  },
+  {
+   "off": 23766,
+   "budget": 53,
+   "en": "Looks like they created it as a￥biological weapon."
+  },
+  {
+   "off": 23819,
+   "budget": 27,
+   "en": "It certainly is big."
+  },
+  {
+   "off": 23846,
+   "budget": 59,
+   "en": "Rats drawn by the morgue's smell,￥and these eat them...",
+   "long": "These things eat the rats drawn by￥the smell of bodies in the morgue."
+  },
+  {
+   "off": 23905,
+   "budget": 37,
+   "en": "A food chain built by the Snatchers.",
+   "long": "A food chain created by the￥Snatchers."
+  },
+  {
+   "off": 23942,
+   "budget": 27,
+   "en": "Ugh! That's sickening."
+  },
+  {
+   "off": 23969,
+   "budget": 27,
+   "en": "The ceiling is silk too.",
+   "long": "The ceiling is covered in webs too."
+  },
+  {
+   "off": 23996,
+   "budget": 69,
+   "en": "The webs make it hard to tell, but I￥don't see any scratches."
+  },
+  {
+   "off": 24065,
+   "budget": 31,
+   "en": "No Snatchers here?",
+   "long": "The Snatchers haven't been here?"
+  },
+  {
+   "off": 24096,
+   "budget": 61,
+   "en": "Judging by the webs, not recently."
+  },
+  {
+   "off": 24157,
+   "budget": 27,
+   "en": "No scratches, it seems.",
+   "long": "There don't seem to be any￥scratches."
+  },
+  {
+   "off": 24184,
+   "budget": 33,
+   "en": "Many rat bones lie about.",
+   "long": "There are rat bones scattered￥around."
+  },
+  {
+   "off": 24217,
+   "budget": 9,
+   "en": "Rats?"
+  },
+  {
+   "off": 24226,
+   "budget": 43,
+   "en": "Come to eat the hospital dead,￥likely.",
+   "long": "They probably came to feed on the￥bodies in the hospital."
+  },
+  {
+   "off": 24269,
+   "budget": 31,
+   "en": "Why did they die here?"
+  },
+  {
+   "off": 24300,
+   "budget": 33,
+   "en": "Rat bones are everywhere."
+  },
+  {
+   "off": 24333,
+   "budget": 9,
+   "en": "Silk",
+   "long": "Spider silk"
+  },
+  {
+   "off": 24342,
+   "budget": 29,
+   "en": "I'll analyze the silk."
+  },
+  {
+   "off": 24371,
+   "budget": 45,
+   "en": "Don't touch the webs, Gillian!"
+  },
+  {
+   "off": 24416,
+   "budget": 11,
+   "en": "What's up?",
+   "long": "What's wrong?"
+  },
+  {
+   "off": 24427,
+   "budget": 41,
+   "en": "The silk contains cyanide poison!"
+  },
+  {
+   "off": 24468,
+   "budget": 11,
+   "en": "Poison?"
+  },
+  {
+   "off": 24479,
+   "budget": 49,
+   "en": "Skin contact could cause fatal￥shock."
+  },
+  {
+   "off": 24528,
+   "budget": 55,
+   "en": "So this spider was created as a￥biological weapon."
+  },
+  {
+   "off": 24583,
+   "budget": 75,
+   "en": "Good that it can't breed.￥Swarms of these would be unbearable.",
+   "long": "Good thing it can't reproduce. I￥couldn't stand these things￥everywhere."
+  },
+  {
+   "off": 24658,
+   "budget": 49,
+   "en": "I could go farther, but you can't,￥Gillian."
+  },
+  {
+   "off": 24707,
+   "budget": 53,
+   "en": "If I had a flamethrower, I'd burn it￥all."
+  },
+  {
+   "off": 24760,
+   "budget": 57,
+   "en": "It's extremely poisonous. Don't￥touch it."
+  },
+  {
+   "off": 24817,
+   "budget": 9,
+   "en": "Move"
+  },
+  {
+   "off": 24826,
+   "budget": 23,
+   "en": "Let's go back."
+  },
+  {
+   "off": 24849,
+   "budget": 39,
+   "en": "What? The wall's closed!"
+  },
+  {
+   "off": 24888,
+   "budget": 49,
+   "en": "It shuts by itself when￥something passes.",
+   "long": "It seems to close automatically when￥someone passes through."
+  },
+  {
+   "off": 24937,
+   "budget": 45,
+   "en": "What? Are we trapped?"
+  },
+  {
+   "off": 24982,
+   "budget": 15,
+   "en": "Fire Blaster"
+  },
+  {
+   "off": 24997,
+   "budget": 45,
+   "en": "Damn it! I'll blast a hole through￥it!"
+  },
+  {
+   "off": 25042,
+   "budget": 59,
+   "en": "No, Gillian! That wall has a special￥coating!"
+  },
+  {
+   "off": 25101,
+   "budget": 55,
+   "en": "It reflects the beam!￥Do you want to die?",
+   "long": "It will reflect your Blaster's beam!￥Do you want to die?"
+  },
+  {
+   "off": 25156,
+   "budget": 31,
+   "en": "Then what am I supposed to do?"
+  },
+  {
+   "off": 25187,
+   "budget": 9,
+   "en": "Hit wall"
+  },
+  {
+   "off": 25196,
+   "budget": 25,
+   "en": "Then this! Raaah!",
+   "long": "Then there's only one thing left.￥Aaah!"
+  },
+  {
+   "off": 25221,
+   "budget": 53,
+   "en": "Stop, Gillian! You'll break your￥bones!"
+  },
+  {
+   "off": 25274,
+   "budget": 13,
+   "en": "Ram wall"
+  },
+  {
+   "off": 25287,
+   "budget": 27,
+   "en": "I'll ram through it!",
+   "long": "I'll smash through it with my body!"
+  },
+  {
+   "off": 25314,
+   "budget": 21,
+   "en": "Gillian! No use!",
+   "long": "It's no use, Gillian!"
+  },
+  {
+   "off": 25335,
+   "budget": 49,
+   "en": "A human body can't break through￥that wall!"
+  },
+  {
+   "off": 25384,
+   "budget": 57,
+   "en": "It's like everywhere else. Marks￥left by Snatchers."
+  },
+  {
+   "off": 25441,
+   "budget": 67,
+   "en": "The scratches aren't old. Snatchers￥passed through recently."
+  },
+  {
+   "off": 25508,
+   "budget": 55,
+   "en": "Wait. Why would they go through￥their own trap?"
+  },
+  {
+   "off": 25563,
+   "budget": 31,
+   "en": "You're right. That is strange."
+  },
+  {
+   "off": 25594,
+   "budget": 73,
+   "en": "Do they use this passage too? Was I￥too quick to call it a trap?"
+  },
+  {
+   "off": 25667,
+   "budget": 33,
+   "en": "Then why has the wall closed?"
+  },
+  {
+   "off": 25700,
+   "budget": 47,
+   "en": "Maybe it's some kind of security￥system."
+  },
+  {
+   "off": 25747,
+   "budget": 49,
+   "en": "A security system? What would it￥keep out?"
+  },
+  {
+   "off": 25796,
+   "budget": 51,
+   "en": "Intruders from outside, of course.￥Wait!"
+  },
+  {
+   "off": 25847,
+   "budget": 53,
+   "en": "If it keeps intruders out, then up￥ahead"
+  },
+  {
+   "off": 25900,
+   "budget": 13,
+   "en": "The exit!",
+   "long": "there's an exit!"
+  },
+  {
+   "off": 25913,
+   "budget": 15,
+   "en": "Let's go!"
+  },
+  {
+   "off": 25928,
+   "budget": 7,
+   "en": "Front",
+   "long": "Front wall"
+  },
+  {
+   "off": 25935,
+   "budget": 55,
+   "en": "It's extremely strong. We can't￥break through."
+  },
+  {
+   "off": 25990,
+   "budget": 49,
+   "en": "Not to break, not even to move.",
+   "long": "I don't think we can even move it,￥much less break it."
+  },
+  {
+   "off": 26039,
+   "budget": 43,
+   "en": "It won't move easily."
+  },
+  {
+   "off": 26082,
+   "budget": 7,
+   "en": "S.Wall",
+   "long": "Side wall"
+  },
+  {
+   "off": 26089,
+   "budget": 63,
+   "en": "Infrared shines from small holes. So￥it sensed us.",
+   "long": "Infrared rays are coming from a￥small hole. That's how it detected￥us."
+  },
+  {
+   "off": 26152,
+   "budget": 63,
+   "en": "Damn their tricks! Isn't there a￥switch to open the wall?"
+  },
+  {
+   "off": 26215,
+   "budget": 35,
+   "en": "There's nothing like a switch."
+  },
+  {
+   "off": 26250,
+   "budget": 45,
+   "en": "Really nothing? Look carefully￥again!"
+  },
+  {
+   "off": 26295,
+   "budget": 61,
+   "en": "Just the infrared beam and some￥scratches."
+  },
+  {
+   "off": 26356,
+   "budget": 57,
+   "en": "As elsewhere.￥No way out through the ceiling.",
+   "long": "It's like everywhere else. We can't￥get out through the ceiling."
+  },
+  {
+   "off": 26413,
+   "budget": 19,
+   "en": "Bad! Very bad!",
+   "long": "This is bad. Really bad!"
+  },
+  {
+   "off": 26432,
+   "budget": 51,
+   "en": "It's like everywhere else. Very￥sturdy."
+  },
+  {
+   "off": 26483,
+   "budget": 27,
+   "en": "We can't destroy it."
+  },
+  {
+   "off": 26510,
+   "budget": 59,
+   "en": "In short, this wall won't open from￥our side.",
+   "long": "At any rate, we can't seem to open￥the wall from this side."
+  },
+  {
+   "off": 26569,
+   "budget": 43,
+   "en": "Then we are trapped?"
+  },
+  {
+   "off": 26612,
+   "budget": 63,
+   "en": "No, I can't think Snatchers would￥set a capture trap.",
+   "long": "No. I doubt the Snatchers would set￥a trap just to capture someone."
+  },
+  {
+   "off": 26675,
+   "budget": 19,
+   "en": "What do you mean?"
+  },
+  {
+   "off": 26694,
+   "budget": 71,
+   "en": "If the Snatchers set a trap, it￥would simply kill the intruder."
+  },
+  {
+   "off": 26765,
+   "budget": 51,
+   "en": "A security barrier makes more sense."
+  },
+  {
+   "off": 26816,
+   "budget": 63,
+   "en": "A guard against intruders won't￥open from the outside.",
+   "long": "If it's meant to keep intruders out,￥it won't open from the side that￥leads outside."
+  },
+  {
+   "off": 26879,
+   "budget": 45,
+   "en": "So the exit's on this side of the￥wall?"
+  },
+  {
+   "off": 26924,
+   "budget": 15,
+   "en": "Exactly."
+  },
+  {
+   "off": 26939,
+   "budget": 73,
+   "en": "But that's just a theory. What if we￥are trapped?"
+  },
+  {
+   "off": 27012,
+   "budget": 73,
+   "en": "Worrying won't help. The passage￥continues. Let's go!"
+  },
+  {
+   "off": 27085,
+   "budget": 23,
+   "en": "All right! Let's go!"
+  },
+  {
+   "off": 27108,
+   "budget": 27,
+   "en": "Let it be the exit!",
+   "long": "Please let this be the exit!"
+  },
+  {
+   "off": 27135,
+   "budget": 57,
+   "en": "Oh, Gillian! That wall wasn't a trap￥after all!"
+  },
+  {
+   "off": 27192,
+   "budget": 19,
+   "en": "What, suddenly!?",
+   "long": "What? Where did that come from?"
+  },
+  {
+   "off": 27211,
+   "budget": 45,
+   "en": "There were scratches on the wall,￥yes?",
+   "long": "Remember the scratches we found on￥the wall?"
+  },
+  {
+   "off": 27256,
+   "budget": 7,
+   "en": "Yeah."
+  },
+  {
+   "off": 27263,
+   "budget": 57,
+   "en": "That means a Snatcher came through￥here."
+  },
+  {
+   "off": 27320,
+   "budget": 31,
+   "en": "Sure. What's your point?"
+  },
+  {
+   "off": 27351,
+   "budget": 61,
+   "en": "Why would they walk into their own￥trap?"
+  },
+  {
+   "off": 27412,
+   "budget": 27,
+   "en": "I see. Odd, all right.",
+   "long": "You're right. That would be strange."
+  },
+  {
+   "off": 27439,
+   "budget": 33,
+   "en": "Gillian, there is an exit.",
+   "long": "There must be a way out, Gillian."
+  },
+  {
+   "off": 27472,
+   "budget": 29,
+   "en": "Hmm. All right! Let's hurry!"
+  },
+  {
+   "off": 27501,
+   "budget": 37,
+   "en": "We're losing a lot of time, Gillian."
+  },
+  {
+   "off": 27538,
+   "budget": 25,
+   "en": "Mika... Harry..."
+  },
+  {
+   "off": 27563,
+   "budget": 69,
+   "en": "Oh! Rubble is blocking the way. It￥must be from that explosion."
+  },
+  {
+   "off": 27632,
+   "budget": 21,
+   "en": "Damn it."
+  },
+  {
+   "off": 27653,
+   "budget": 33,
+   "en": "Quite a blast it was.",
+   "long": "It must have been a huge explosion."
+  },
+  {
+   "off": 27686,
+   "budget": 35,
+   "en": "We can't get through here."
+  },
+  {
+   "off": 27721,
+   "budget": 65,
+   "en": "The exit was probably past here.￥This wall has marks too.",
+   "long": "This probably led to an exit. There￥are scratches on this wall, too."
+  },
+  {
+   "off": 27786,
+   "budget": 49,
+   "en": "...Turn back.￥Only the other path is left.",
+   "long": "Let's go back. We'll have to take￥the other passage."
+  },
+  {
+   "off": 27835,
+   "budget": 31,
+   "en": "If that fails, we're done...",
+   "long": "If that doesn't work, we're￥finished."
+  },
+  {
+   "off": 27866,
+   "budget": 29,
+   "en": "Cold...￥Fingers numb.",
+   "long": "It's freezing. My fingers are going￥numb."
+  },
+  {
+   "off": 27895,
+   "budget": 81,
+   "en": "＠赤Insectors! Use your Blaster!＠Ｃ"
+  },
+  {
+   "off": 27976,
+   "budget": 39,
+   "en": "These are metal this time, right?＠Ｃ"
+  },
+  {
+   "off": 28015,
+   "budget": 41,
+   "en": "Yes! Definitely!＠Ｃ"
+  },
+  {
+   "off": 28056,
+   "budget": 51,
+   "en": "Damn! I really have to shoot￥left-handed?＠Ｃ"
+  },
+  {
+   "off": 28107,
+   "budget": 23,
+   "en": "Not again!＠Ｃ"
+  },
+  {
+   "off": 28130,
+   "budget": 35,
+   "en": "Come on! More of them?＠Ｃ"
+  },
+  {
+   "off": 28165,
+   "budget": 43,
+   "en": "Can you handle them this time?＠Ｃ"
+  },
+  {
+   "off": 28208,
+   "budget": 23,
+   "en": "Leave it to me!＠Ｃ"
+  },
+  {
+   "off": 28231,
+   "budget": 51,
+   "en": "Are you sure you can handle them￥this time?＠Ｃ"
+  },
+  {
+   "off": 28282,
+   "budget": 23,
+   "en": "Shut up!＠Ｃ"
+  },
+  {
+   "off": 28305,
+   "budget": 29,
+   "en": "No more movement detected."
+  },
+  {
+   "off": 28334,
+   "budget": 35,
+   "en": "That was very close, Gillian."
+  },
+  {
+   "off": 28369,
+   "budget": 45,
+   "en": "Five taken...￥Hard on the nanomachines.",
+   "long": "Five hits. My nanomachines have￥their work cut out for them."
+  },
+  {
+   "off": 28414,
+   "budget": 29,
+   "en": "That was close, Gillian."
+  },
+  {
+   "off": 28443,
+   "budget": 51,
+   "en": "Four hits. I nearly died back there."
+  },
+  {
+   "off": 28494,
+   "budget": 25,
+   "en": "Aye... three rounds.",
+   "long": "Yeah. They got me three times."
+  },
+  {
+   "off": 28519,
+   "budget": 25,
+   "en": "Gillian, you alright?",
+   "long": "Are you all right, Gillian?"
+  },
+  {
+   "off": 28544,
+   "budget": 29,
+   "en": "Somehow. Only two hits."
+  },
+  {
+   "off": 28573,
+   "budget": 45,
+   "en": "Just one hit. A little spit will fix￥that."
+  },
+  {
+   "off": 28618,
+   "budget": 45,
+   "en": "That Insector was the guard here.",
+   "long": "Those Insectors were probably￥guarding this place."
+  },
+  {
+   "off": 28663,
+   "budget": 33,
+   "en": "So something lies beyond.",
+   "long": "Then there must be something up￥ahead."
+  },
+  {
+   "off": 28696,
+   "budget": 27,
+   "en": "Can't relax for a second.",
+   "long": "We can't let our guard down for a￥second."
+  },
+  {
+   "off": 28723,
+   "budget": 63,
+   "en": "How many are there? I thought we got￥them all!"
+  },
+  {
+   "off": 28786,
+   "budget": 51,
+   "en": "A hole in the wall.￥Their nest, surely.",
+   "long": "There are holes in the wall. They￥must nest in them."
+  },
+  {
+   "off": 28837,
+   "budget": 59,
+   "en": "How many of those things are there?￥I've had enough!"
+  },
+  {
+   "off": 28896,
+   "budget": 47,
+   "en": "It appears to be quite a large nest."
+  },
+  {
+   "off": 28943,
+   "budget": 31,
+   "en": "I wish they'd give us a break."
+  },
+  {
+   "off": 28974,
+   "budget": 47,
+   "en": "No more readings. Let's move on."
+  },
+  {
+   "off": 29021,
+   "budget": 23,
+   "en": "No more spiders.",
+   "long": "I've had enough spiders."
+  },
+  {
+   "off": 29044,
+   "budget": 31,
+   "en": "Gillian, marks on the wall.",
+   "long": "Gillian, there are scratches on the￥wall."
+  },
+  {
+   "off": 29075,
+   "budget": 37,
+   "en": "So this passage leads to an exit?"
+  },
+  {
+   "off": 29112,
+   "budget": 85,
+   "en": "Very likely.￥Gillian, how is that arm?￥Insectors will be watching.",
+   "long": "Very likely. How is your arm,￥Gillian? There are bound to be￥Insectors guarding it."
+  },
+  {
+   "off": 29197,
+   "budget": 53,
+   "en": "Right's not healed, but left will do for spiders!",
+   "long": "My right hand's not quite back to￥normal, but my left's good enough￥for spiders!"
+  },
+  {
+   "off": 29250,
+   "budget": 75,
+   "en": "＠赤Insectors! Use your Blaster!＠Ｃ"
+  },
+  {
+   "off": 29325,
+   "budget": 47,
+   "en": "This has to be the way out!＠Ｃ"
+  },
+  {
+   "off": 29372,
+   "budget": 39,
+   "en": "Can you handle them this time?＠Ｃ"
+  },
+  {
+   "off": 29411,
+   "budget": 41,
+   "en": "Phew.... that did it.￥What a swarm.",
+   "long": "Whew. That was rough. There were so￥many!"
+  },
+  {
+   "off": 29452,
+   "budget": 41,
+   "en": "Five taken...￥one more and done for.",
+   "long": "Five hits. One more would've￥finished me."
+  },
+  {
+   "off": 29493,
+   "budget": 41,
+   "en": "Four hits. That was pretty close."
+  },
+  {
+   "off": 29534,
+   "budget": 25,
+   "en": "Damn it! Three hits!"
+  },
+  {
+   "off": 29559,
+   "budget": 21,
+   "en": "Just one hit."
+  },
+  {
+   "off": 29580,
+   "budget": 39,
+   "en": "Gillian,￥about that shut wall...",
+   "long": "Gillian, about that wall that closed￥on us..."
+  },
+  {
+   "off": 29619,
+   "budget": 7,
+   "en": "What?",
+   "long": "What about it?"
+  },
+  {
+   "off": 29626,
+   "budget": 55,
+   "en": "I think the Insectors may have￥served as keys."
+  },
+  {
+   "off": 29681,
+   "budget": 17,
+   "en": "Meaning what?",
+   "long": "What do you mean?"
+  },
+  {
+   "off": 29698,
+   "budget": 57,
+   "en": "When something passes here,￥an Insector registers it.",
+   "long": "When something comes through here,￥the Insectors identify it."
+  },
+  {
+   "off": 29755,
+   "budget": 87,
+   "en": "A Snatcher goes through the nest, presses the switch inside, opens the wall. A man...",
+   "long": "If it's a Snatcher, they go through￥their nest and press the switch￥inside the wall to open it. If it's￥human..."
+  },
+  {
+   "off": 29842,
+   "budget": 29,
+   "en": "gets a needle gun.",
+   "long": "They let them have it with their￥needle guns."
+  },
+  {
+   "off": 29871,
+   "budget": 61,
+   "en": "That explains the Insector￥footprints on the button, too."
+  },
+  {
+   "off": 29932,
+   "budget": 25,
+   "en": "Look! The exit!"
+  },
+  {
+   "off": 29957,
+   "budget": 31,
+   "en": "We're saved, Gillian."
+  },
+  {
+   "off": 29988,
+   "budget": 21,
+   "en": "Stay alert, Metal."
+  },
+  {
+   "off": 30009,
+   "budget": 29,
+   "en": "How far does this go?"
+  },
+  {
+   "off": 30038,
+   "budget": 27,
+   "en": "Are we lost?"
+  },
+  {
+   "off": 30065,
+   "budget": 23,
+   "en": "Where are we now?"
+  },
+  {
+   "off": 30088,
+   "budget": 43,
+   "en": "Metal, can you see what's ahead?"
+  },
+  {
+   "off": 30131,
+   "budget": 47,
+   "en": "The tunnel goes on beyond here too.",
+   "long": "The tunnel appears to go on for￥quite a while."
+  },
+  {
+   "off": 30178,
+   "budget": 31,
+   "en": "The tunnel goes on yet.",
+   "long": "The tunnel seems to keep going."
+  },
+  {
+   "off": 30209,
+   "budget": 23,
+   "en": "Nothing else seen.",
+   "long": "I can't see anything else."
+  },
+  {
+   "off": 30232,
+   "budget": 5,
+   "en": "Rear",
+   "long": "Behind"
+  },
+  {
+   "off": 30237,
+   "budget": 49,
+   "en": "Where we just walked.￥Nothing has changed.",
+   "long": "That's where we just walked. Nothing￥has changed."
+  },
+  {
+   "off": 30286,
+   "budget": 67,
+   "en": "We only just came through there.￥Nothing seems to have changed."
+  },
+  {
+   "off": 30353,
+   "budget": 45,
+   "en": "Such a worrier. Nothing￥will jump out.",
+   "long": "You worry too much, Gillian.￥Nothing's going to jump out at us."
+  },
+  {
+   "off": 30398,
+   "budget": 61,
+   "en": "Gillian! A ghost behind you! Just￥kidding."
+  },
+  {
+   "off": 30459,
+   "budget": 17,
+   "en": "Knock it off!"
+  },
+  {
+   "off": 30476,
+   "budget": 5,
+   "en": "Hear",
+   "long": "Listen"
+  },
+  {
+   "off": 30481,
+   "budget": 33,
+   "en": "All I can hear is our footsteps."
+  },
+  {
+   "off": 30514,
+   "budget": 41,
+   "en": "Metal, do you hear a train coming?"
+  },
+  {
+   "off": 30555,
+   "budget": 101,
+   "en": "What are you talking about? The Tube￥Liner closed down ages ago. That's￥impossible."
+  },
+  {
+   "off": 30656,
+   "budget": 31,
+   "en": "I hear nothing but footsteps."
+  },
+  {
+   "off": 30687,
+   "budget": 31,
+   "en": "I don't hear anything unusual."
+  },
+  {
+   "off": 30718,
+   "budget": 5,
+   "en": "Talk"
+  },
+  {
+   "off": 30723,
+   "budget": 41,
+   "en": "Metal, how far to the nearest￥station?"
+  },
+  {
+   "off": 30764,
+   "budget": 65,
+   "en": "I can't say for sure without knowing￥our exact location."
+  },
+  {
+   "off": 30829,
+   "budget": 71,
+   "en": "Stations are few here, so we must￥walk a while yet...",
+   "long": "There aren't many stations around￥here, so we still have some walking￥to do."
+  },
+  {
+   "off": 30900,
+   "budget": 45,
+   "en": "Under the MR District town, likely.",
+   "long": "I believe we're beneath the built-up￥part of the MR District."
+  },
+  {
+   "off": 30945,
+   "budget": 15,
+   "en": "Hey, Metal."
+  },
+  {
+   "off": 30960,
+   "budget": 21,
+   "en": "What is it, Gillian?"
+  },
+  {
+   "off": 30981,
+   "budget": 25,
+   "en": "Nothing, just calling.",
+   "long": "Nothing. Just saying your name."
+  },
+  {
+   "off": 31006,
+   "budget": 9,
+   "en": "!"
+  },
+  {
+   "off": 31015,
+   "budget": 29,
+   "en": "Is something wrong, Gillian?"
+  },
+  {
+   "off": 31044,
+   "budget": 35,
+   "en": "Releasing the save shield.",
+   "long": "I'll remove the shielding from the￥save function."
+  },
+  {
+   "off": 31079,
+   "budget": 11,
+   "en": "Living rm",
+   "long": "Living room"
+  },
+  {
+   "off": 31090,
+   "budget": 13,
+   "en": "Go below",
+   "long": "Go underground"
+  },
+  {
+   "off": 31103,
+   "budget": 5,
+   "en": "Room",
+   "long": "Inside"
+  },
+  {
+   "off": 31108,
+   "budget": 57,
+   "en": "Freddy's wreck has been handled by￥the JUNK squad.",
+   "long": "The JUNK team appears to have￥removed Freddy's remains."
+  },
+  {
+   "off": 31165,
+   "budget": 71,
+   "en": "The bathroom is cleared, with the￥scene tape still up.",
+   "long": "The bathroom has been cleaned up,￥but the crime scene tape is still in￥place."
+  },
+  {
+   "off": 31236,
+   "budget": 5,
+   "en": "Tub",
+   "long": "Bathtub"
+  },
+  {
+   "off": 31241,
+   "budget": 25,
+   "en": "A ladder to below.",
+   "long": "There's a ladder leading￥underground."
+  },
+  {
+   "off": 31266,
+   "budget": 29,
+   "en": "The ladder we climbed.",
+   "long": "That's the ladder we came up."
+  },
+  {
+   "off": 31295,
+   "budget": 3,
+   "en": "Mr",
+   "long": "Mirror"
+  },
+  {
+   "off": 31298,
+   "budget": 31,
+   "en": "Gillian shows in the mirror.",
+   "long": "I can see your reflection in the￥mirror, Gillian."
+  },
+  {
+   "off": 31329,
+   "budget": 101,
+   "en": "Nothing has changed. The Kobe Police￥and JUNKER have sealed this place￥off."
+  },
+  {
+   "off": 31430,
+   "budget": 43,
+   "en": "Sealed after forensics searched it.",
+   "long": "It was sealed off after the forensic￥investigation."
+  },
+  {
+   "off": 31473,
+   "budget": 57,
+   "en": "The faucet appears to double as a￥hidden switch."
+  },
+  {
+   "off": 31530,
+   "budget": 61,
+   "en": "A simple bath fitting. Careless of￥me to miss it.",
+   "long": "The bathtub's mechanism is simple.￥We should have spotted it."
+  },
+  {
+   "off": 31591,
+   "budget": 41,
+   "en": "It's all right.￥Nobody else shows.",
+   "long": "Don't worry. There's no one else in￥the mirror."
+  },
+  {
+   "off": 31632,
+   "budget": 35,
+   "en": "No more being throttled, thanks.",
+   "long": "I've had enough of being strangled."
+  },
+  {
+   "off": 31667,
+   "budget": 55,
+   "en": "No movement detected. We appear to￥be alone."
+  },
+  {
+   "off": 31722,
+   "budget": 33,
+   "en": "Only we are in this room.",
+   "long": "We're the only ones in this room."
+  },
+  {
+   "off": 31755,
+   "budget": 37,
+   "en": "Tape... this is a laser beam?",
+   "long": "Tape? Those are laser beams, aren't￥they?"
+  },
+  {
+   "off": 31792,
+   "budget": 91,
+   "en": "Don't touch that laser.￥HQ men will come running.￥It's a sensor.",
+   "long": "Don't touch those lasers. They're￥sensors. They'll bring people￥running from headquarters."
+  },
+  {
+   "off": 31883,
+   "budget": 43,
+   "en": "I see. A perfectly preserved crime￥scene."
+  },
+  {
+   "off": 31926,
+   "budget": 21,
+   "en": "Freddy's front room.",
+   "long": "This is Freddy's living room."
+  },
+  {
+   "off": 31947,
+   "budget": 9,
+   "en": "Go out"
+  },
+  {
+   "off": 31956,
+   "budget": 47,
+   "en": "Be careful not to touch the tape."
+  },
+  {
+   "off": 32003,
+   "budget": 35,
+   "en": "Got it. I feel like a burglar."
+  },
+  {
+   "off": 32038,
+   "budget": 43,
+   "en": "...First, doesn't that map￥bother you?",
+   "long": "Before we go, aren't you curious￥about that map?"
+  },
+  {
+   "off": 32081,
+   "budget": 57,
+   "en": "I have a feeling that map means￥something."
+  },
+  {
+   "off": 32138,
+   "budget": 47,
+   "en": "Let's see that map again before we￥go.",
+   "long": "Let's examine that map again before￥we go outside."
+  },
+  {
+   "off": 32185,
+   "budget": 11,
+   "en": "To bath",
+   "long": "Go to bathroom"
+  },
+  {
+   "off": 32196,
+   "budget": 37,
+   "en": "Lisa's wreck is cleared away too.",
+   "long": "Lisa's remains have been removed,￥too."
+  },
+  {
+   "off": 32233,
+   "budget": 41,
+   "en": "There's crime scene tape here, too."
+  },
+  {
+   "off": 32274,
+   "budget": 5,
+   "en": "Map"
+  },
+  {
+   "off": 32279,
+   "budget": 25,
+   "en": "A large map of Moscow.",
+   "long": "It's an enlarged map of Moscow."
+  },
+  {
+   "off": 32304,
+   "budget": 61,
+   "en": "A holographic marker shows where￥Lisa's remains were."
+  },
+  {
+   "off": 32365,
+   "budget": 73,
+   "en": "The scene is kept as it was. No sign￥of anyone entering.",
+   "long": "The scene has been preserved exactly￥as it was. There's no sign of anyone￥breaking in."
+  },
+  {
+   "off": 32438,
+   "budget": 23,
+   "en": "A map of the 20th c.",
+   "long": "It's a map from the late twentieth￥century."
+  },
+  {
+   "off": 32461,
+   "budget": 105,
+   "en": "Moscow...￥Chin Shu Ho's 'Saint Basil's' at￥Queen Hospital, the Chief's hidden￥'Red Square' photo.",
+   "long": "Moscow. Chin Shu Ho had a picture of￥St. Basil's Cathedral at Queen￥Hospital. The chief had a hidden￥photo of Red Square."
+  },
+  {
+   "off": 32566,
+   "budget": 53,
+   "en": "It all comes back to Moscow.￥What can it mean?",
+   "long": "It all leads back to Moscow. What￥the hell does it mean?"
+  },
+  {
+   "off": 32619,
+   "budget": 43,
+   "en": "Moscow seems to hold a clue."
+  },
+  {
+   "off": 32662,
+   "budget": 37,
+   "en": "Moscow?... That man said so too?",
+   "long": "Moscow? Didn't that man mention it,￥too?"
+  },
+  {
+   "off": 32699,
+   "budget": 57,
+   "en": "Chin Shu Ho spoke of 'a restoration￥50 years on'?",
+   "long": "Before the explosion, Chin Shu Ho￥said something about restoring their￥power after fifty years."
+  },
+  {
+   "off": 32756,
+   "budget": 53,
+   "en": "Now you say it, this map is about 50￥years old...",
+   "long": "Come to think of it, this map's￥about fifty years old, too."
+  },
+  {
+   "off": 32809,
+   "budget": 73,
+   "en": "Moscow 50 years ago... the truth of￥the Snatchers lies there.",
+   "long": "Moscow, fifty years ago. That may be￥where we'll find the truth about the￥Snatchers."
+  },
+  {
+   "off": 32882,
+   "budget": 69,
+   "en": "It must mean something.￥They'd hardly admire a 50-year-old￥map.",
+   "long": "It must mean something. I doubt they￥just like looking at fifty-year-old￥maps."
+  },
+  {
+   "off": 32951,
+   "budget": 57,
+   "en": "There's no time!￥Harry and Mika are in danger!",
+   "long": "There's no time for that! Harry and￥Mika are in danger!"
+  },
+  {
+   "off": 33008,
+   "budget": 133,
+   "en": "If we don't stop the Snatcher posing￥as the chief before tomorrow's Kyoto￥Summit, it'll be too late. Hurry￥back to headquarters!"
+  },
+  {
+   "off": 33141,
+   "budget": 19,
+   "en": "Onward it is.",
+   "long": "We can only go forward."
+  },
+  {
+   "off": 33160,
+   "budget": 29,
+   "en": "Out at the Nielsen flat.",
+   "long": "We're outside the Nielsens'￥building."
+  },
+  {
+   "off": 33189,
+   "budget": 39,
+   "en": "...Saved.￥Now, back to HQ.",
+   "long": "We made it. Let's get back to￥headquarters."
+  },
+  {
+   "off": 33228,
+   "budget": 9,
+   "en": "Get in",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 33237,
+   "budget": 73,
+   "en": "How will we get back? We don't have￥the Tricycle. Are we walking?"
+  },
+  {
+   "off": 33310,
+   "budget": 47,
+   "en": "We can't walk back. Let's find￥another way!"
+  },
+  {
+   "off": 33357,
+   "budget": 29,
+   "en": "A taxi or something?",
+   "long": "Isn't there a taxi or something?"
+  },
+  {
+   "off": 33386,
+   "budget": 27,
+   "en": "Let's look around."
+  },
+  {
+   "off": 33413,
+   "budget": 15,
+   "en": "Take a taxi"
+  },
+  {
+   "off": 33428,
+   "budget": 35,
+   "en": "Let's take the taxi, then."
+  },
+  {
+   "off": 33463,
+   "budget": 9,
+   "en": "Go back",
+   "long": "Go back inside"
+  },
+  {
+   "off": 33472,
+   "budget": 5,
+   "en": "Bldg",
+   "long": "Building"
+  },
+  {
+   "off": 33477,
+   "budget": 97,
+   "en": "The flat where Nielsen lived. After￥that affair the other residents seem￥to have moved away.",
+   "long": "This is the Nielsens' apartment￥building. The other residents seem￥to have moved away after the￥incident."
+  },
+  {
+   "off": 33574,
+   "budget": 45,
+   "en": "The building is under state control￥now.",
+   "long": "This building is now under￥government control."
+  },
+  {
+   "off": 33619,
+   "budget": 7,
+   "en": "Around"
+  },
+  {
+   "off": 33626,
+   "budget": 37,
+   "en": "I don't see anyone else around."
+  },
+  {
+   "off": 33663,
+   "budget": 43,
+   "en": "Ah!￥A taxi stands in a good spot.",
+   "long": "Oh! There's a taxi parked just where￥we need one."
+  },
+  {
+   "off": 33706,
+   "budget": 9,
+   "en": "Taxi"
+  },
+  {
+   "off": 33715,
+   "budget": 47,
+   "en": "It's a taxi with a human driver.￥He's inside."
+  },
+  {
+   "off": 33762,
+   "budget": 47,
+   "en": "Illegally parked out front.￥Awaiting a fare.",
+   "long": "It's parked illegally in front of￥the building. He's probably waiting￥for a fare."
+  },
+  {
+   "off": 33809,
+   "budget": 73,
+   "en": "Sealed off against Snatcher￥infection. Nobody lives here now.",
+   "long": "The building is quarantined to￥prevent Snatcher infiltration. No￥one lives here now."
+  },
+  {
+   "off": 33882,
+   "budget": 79,
+   "en": "Sealed with scene tape. No sign of￥anyone but us calling here.",
+   "long": "It's sealed with crime scene tape.￥There's no sign of anyone else￥coming here."
+  },
+  {
+   "off": 33961,
+   "budget": 59,
+   "en": "We're a long way from Queen￥Hospital. It's very quiet."
+  },
+  {
+   "off": 34020,
+   "budget": 43,
+   "en": "Fewer people about than usual today.",
+   "long": "There seem to be fewer people around￥than usual today."
+  },
+  {
+   "off": 34063,
+   "budget": 31,
+   "en": "Empty, it seems.￥Get in?",
+   "long": "It looks available. Shall we get in?"
+  },
+  {
+   "off": 34094,
+   "budget": 57,
+   "en": "A black taxi, but never mind.￥Let's get in.",
+   "long": "It's an unlicensed taxi, but we have￥no choice. Let's get in."
+  },
+  {
+   "off": 34151,
+   "budget": 29,
+   "en": "We're in the taxi."
+  },
+  {
+   "off": 34180,
+   "budget": 69,
+   "en": "Where to? With a human driver, you￥can go anywhere."
+  },
+  {
+   "off": 34249,
+   "budget": 11,
+   "en": "Say where",
+   "long": "Give destination"
+  },
+  {
+   "off": 34260,
+   "budget": 51,
+   "en": "It's urgent. Get me to JUNKER HQ,￥and hurry.",
+   "long": "It's an emergency. Get us to JUNKER￥headquarters, fast."
+  },
+  {
+   "off": 34311,
+   "budget": 73,
+   "en": "What? JUNKER headquarters? You're￥going there? Did something happen?"
+  },
+  {
+   "off": 34384,
+   "budget": 17,
+   "en": "I'm in a hurry!",
+   "long": "We're in a hurry!"
+  },
+  {
+   "off": 34401,
+   "budget": 99,
+   "en": "Don't joke around. This is a taxi￥with a human driver. You can't￥really be going there."
+  },
+  {
+   "off": 34500,
+   "budget": 47,
+   "en": "Metal, we picked a strange taxi."
+  },
+  {
+   "off": 34547,
+   "budget": 51,
+   "en": "I'm a JUNKER. Get us to JUNKER￥headquarters, now!"
+  },
+  {
+   "off": 34598,
+   "budget": 49,
+   "en": "Where you're going is fixed. It￥is...",
+   "long": "Your destination's already decided.￥You're going to..."
+  },
+  {
+   "off": 34647,
+   "budget": 9,
+   "en": "It is?",
+   "long": "To where?"
+  },
+  {
+   "off": 34656,
+   "budget": 15,
+   "en": "Hell!＠Ｃ"
+  },
+  {
+   "off": 34671,
+   "budget": 15,
+   "en": "Chin Shu!!＠Ｃ",
+   "long": "Chin Shu Ho!＠Ｃ"
+  },
+  {
+   "off": 34686,
+   "budget": 5,
+   "en": "Cab",
+   "long": "Interior"
+  },
+  {
+   "off": 34691,
+   "budget": 43,
+   "en": "The car is altered to manual only.",
+   "long": "The car has been modified for manual￥operation only."
+  },
+  {
+   "off": 34734,
+   "budget": 33,
+   "en": "An altered black-taxi car.",
+   "long": "It appears to have been modified for￥use as an unlicensed taxi."
+  },
+  {
+   "off": 34767,
+   "budget": 7,
+   "en": "Driver"
+  },
+  {
+   "off": 34774,
+   "budget": 81,
+   "en": "He won't turn this way.￥A black taxi; bad if his face￥is seen.",
+   "long": "He doesn't want to turn around. As￥an unlicensed driver, he probably￥doesn't want us to see his face."
+  },
+  {
+   "off": 34855,
+   "budget": 33,
+   "en": "Only the back of his head.",
+   "long": "All I can see from here is the back￥of his head."
+  },
+  {
+   "off": 34888,
+   "budget": 37,
+   "en": "No driver's licence displayed.",
+   "long": "There's no driver identification on￥display."
+  },
+  {
+   "off": 34925,
+   "budget": 73,
+   "en": "No guide unit for Alphaville's￥automatic traffic system either.",
+   "long": "It doesn't have a guidance unit for￥Alphaville's automated traffic￥system, either."
+  },
+  {
+   "off": 34998,
+   "budget": 19,
+   "en": "Average build.",
+   "long": "He's a man of average height and￥build."
+  },
+  {
+   "off": 35017,
+   "budget": 45,
+   "en": "He's seated, so I can't reckon his￥height.",
+   "long": "I can't calculate his exact height￥while he's seated."
+  },
+  {
+   "off": 35062,
+   "budget": 61,
+   "en": "This is an unlicensed taxi. Don't￥ask too many questions."
+  },
+  {
+   "off": 35123,
+   "budget": 77,
+   "en": "The rule is simple: passengers and￥drivers mind their own business."
+  },
+  {
+   "off": 35200,
+   "budget": 67,
+   "en": "Please, sir. Stop that. Now, where￥to?"
+  },
+  {
+   "off": 35267,
+   "budget": 13,
+   "en": "Continue"
+  },
+  {
+   "off": 35280,
+   "budget": 31,
+   "en": "Resuming the investigation."
+  },
+  {
+   "off": 35311,
+   "budget": 13,
+   "en": "Quit game"
+  },
+  {
+   "off": 35324,
+   "budget": 33,
+   "en": "Ending the investigation."
+  },
+  {
+   "off": 35359,
+   "budget": 3,
+   "en": ""
+  }
+ ]
+}

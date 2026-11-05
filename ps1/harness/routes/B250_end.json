@@ -1,0 +1,18 @@
+{
+ "scene": "B250",
+ "note": "From the church's last fight prompt (auto-bookmark B250_fight): the super-insector and snatcher-horde fights, then the half-hour ending - Madnar, the Kremlin plant, Metal's sacrifice, Jamie, Mika, Catherine. Fights: ctx+0x1DF5 is the head cell of the snatcher to shoot (2 = top-right, 3 = middle-left, 6 = bottom-left seen), so the default 'body' rule aims right; 'corners' won once by luck and then lost.",
+ "actions": [
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk"
+   ],
+   "rounds": 4,
+   "why": "LOOK at JAMIE, TALK to MIKA x3, CATHERINE x4, JAMIE x2"
+  },
+  {
+   "save": "B250_end"
+  }
+ ]
+}

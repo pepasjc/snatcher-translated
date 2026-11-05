@@ -1,0 +1,139 @@
+{
+ "scene": "B1B0",
+ "note": "From the map after the pet clinic: home to Gillian's flat (B1A0), call Jamie (39-3444, her recorded message), then the Kobe Pharmaceutical lab (39-1009, Act 2's phone bank B070 has it; Act 1's does not) and ask about the UV hospital. Leaving again brings Mika's emergency call about Catherine and Gibson's house (B1C0).",
+ "source": "guides/ps1.txt Act 2 OLEEN HOSPITAL (tail)",
+ "actions": [
+  {
+   "path": [
+    "Home"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Move",
+    "Go inside"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Go inside"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B1A0_home"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Use Metal Gear",
+    "Videophone"
+   ]
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "dial": "393444"
+  },
+  {
+   "sweep": [
+    "Talk",
+    "Ask"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Hang up"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "dial": "391009"
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Hang up"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "path": [
+    "Don't call"
+   ],
+   "optional": true,
+   "patience": 600
+  },
+  {
+   "save": "B1A0_called"
+  },
+  {
+   "path": [
+    "Move",
+    "Board Tricycle|Go out"
+   ],
+   "patience": 6000
+  },
+  {
+   "save": "B1C0_summons"
+  },
+  {
+   "path": [
+    "Move",
+    "Board Tricycle"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Gibson's"
+   ],
+   "optional": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true
+  },
+  {
+   "save": "B1C0_arrive"
+  }
+ ]
+}

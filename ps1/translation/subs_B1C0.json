@@ -1,0 +1,155 @@
+{
+ "scene": "B1C0",
+ "options": {
+  "menu_word": 784,
+  "rows": 3,
+  "faceleft": true,
+  "cols": 12
+ },
+ "cues": [
+  {
+   "id": "B1C0_f23_0",
+   "file": 23,
+   "chan": 5,
+   "start": 12893,
+   "end": 13565,
+   "dur": 4.5,
+   "speaker": "Metal Gear",
+   "en": "Gillian, I'm detecting movement! Be careful! It's outside the window!",
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f24_0",
+   "file": 24,
+   "chan": 5,
+   "start": 13581,
+   "end": 13645,
+   "dur": 0.4,
+   "speaker": "Gillian",
+   "en": "Alice!",
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f25_0",
+   "file": 25,
+   "chan": 5,
+   "start": 13661,
+   "end": 14125,
+   "dur": 3.1,
+   "speaker": "Metal Gear",
+   "en": "She's been torn to pieces. We can't save her!",
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f26_0",
+   "file": 26,
+   "chan": 5,
+   "start": 14141,
+   "end": 14349,
+   "dur": 1.4,
+   "speaker": "Metal Gear",
+   "en": "Could a Snatcher have done this?",
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f27_0",
+   "file": 27,
+   "chan": 5,
+   "start": 14365,
+   "end": 15069,
+   "dur": 4.7,
+   "speaker": "Gillian",
+   "en": "What a horrible thing to do! Where's Catherine?",
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f28_0",
+   "file": 28,
+   "chan": 5,
+   "start": 15085,
+   "end": 15709,
+   "dur": 8.4,
+   "speaker": "Metal Gear",
+   "en": "We'll leave the scene to the junk squad. Let's find Catherine.",
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f29_0",
+   "file": 29,
+   "chan": 5,
+   "start": 15725,
+   "end": 16025,
+   "dur": 2.0,
+   "speaker": "Gillian",
+   "en": "Judging by the state of this room,",
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f29_0b",
+   "file": 29,
+   "chan": 5,
+   "start": 16025,
+   "end": 16397,
+   "dur": 2.48,
+   "speaker": "Gillian",
+   "en": "the Snatchers haven't found what they want.",
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f30_0",
+   "file": 30,
+   "chan": 5,
+   "start": 16413,
+   "end": 16909,
+   "dur": 3.3,
+   "speaker": "Metal Gear",
+   "en": "So Catherine is still safe?",
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f31_0",
+   "file": 31,
+   "chan": 5,
+   "start": 16925,
+   "end": 17309,
+   "dur": 2.6,
+   "speaker": "Gillian",
+   "en": "Had they caught Catherine, they wouldn't have trashed the room.",
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f32_0",
+   "file": 32,
+   "chan": 5,
+   "start": 17325,
+   "end": 17821,
+   "dur": 3.3,
+   "speaker": "Metal Gear",
+   "en": "I see. Catherine escaped with what they want.",
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f33_0",
+   "file": 33,
+   "chan": 5,
+   "start": 17837,
+   "end": 18497,
+   "dur": 4.4,
+   "speaker": "Gillian",
+   "en": "Right. Metal, let's find Catherine before they do.",
+   "enabled": true
+  },
+  {
+   "id": "B1C0_f33_0b",
+   "file": 33,
+   "chan": 5,
+   "start": 18497,
+   "end": 18717,
+   "dur": 1.47,
+   "speaker": "Gillian",
+   "en": "Back to the Tricycle first.",
+   "enabled": true,
+   "last": true
+  }
+ ]
+}

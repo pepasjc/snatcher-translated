@@ -1,0 +1,127 @@
+{
+ "69": {
+  "speaker": "Metal Gear",
+  "en": "Gillian, I'm detecting movement! Be careful! It's outside the window!",
+  "ps1": [
+   "B1C0_f23_0",
+   "B1C0_f23_0b"
+  ],
+  "cards": [
+   "Gillian, I'm|detecting movement!|Be careful! It's|outside the window!"
+  ]
+ },
+ "6a": {
+  "speaker": "Gillian",
+  "en": "Alice!",
+  "ps1": [
+   "B1C0_f24_0"
+  ],
+  "cards": [
+   "Alice!"
+  ],
+  "layout": "plain"
+ },
+ "6b": {
+  "speaker": "Metal Gear",
+  "en": "She's been torn to pieces. We can't save her!",
+  "ps1": [
+   "B1C0_f25_0"
+  ],
+  "cards": [
+   "She's been torn to|pieces. We can't|save her!"
+  ]
+ },
+ "6c": {
+  "speaker": "Metal Gear",
+  "en": "Could a Snatcher have done this?",
+  "ps1": [
+   "B1C0_f26_0"
+  ],
+  "cards": [
+   "Could a Snatcher|have done this?"
+  ]
+ },
+ "6d": {
+  "speaker": "Gillian",
+  "en": "What a horrible thing to do! Where's Catherine?",
+  "ps1": [
+   "B1C0_f27_0"
+  ],
+  "cards": [
+   "What a horrible|thing to do!|Where's Catherine?"
+  ]
+ },
+ "6e": {
+  "speaker": "Metal Gear",
+  "en": "We'll leave the scene to the junk squad. Let's find Catherine.",
+  "ps1": [
+   "B1C0_f28_0",
+   "B1C0_f28_0b"
+  ],
+  "cards": [
+   "We'll leave the|scene to the junk|squad. Let's find|Catherine."
+  ]
+ },
+ "6f": {
+  "speaker": "Gillian",
+  "en": "Judging by the state of this room, the Snatchers haven't found what they want.",
+  "ps1": [
+   "B1C0_f29_0",
+   "B1C0_f29_0b"
+  ],
+  "cards": [
+   "Judging by the|state of this room,",
+   "the Snatchers|haven't found what|they want."
+  ],
+  "turns": [
+   2.6
+  ]
+ },
+ "70": {
+  "speaker": "Metal Gear",
+  "en": "So Catherine is still safe?",
+  "ps1": [
+   "B1C0_f30_0"
+  ],
+  "cards": [
+   "So Catherine is|still safe?"
+  ]
+ },
+ "71": {
+  "speaker": "Gillian",
+  "en": "Had they caught Catherine, they wouldn't have trashed the room.",
+  "ps1": [
+   "B1C0_f31_0",
+   "B1C0_f31_0b"
+  ],
+  "cards": [
+   "Had they caught|Catherine, they|wouldn't have|trashed the room."
+  ]
+ },
+ "72": {
+  "speaker": "Metal Gear",
+  "en": "I see. Catherine escaped with what they want.",
+  "ps1": [
+   "B1C0_f32_0"
+  ],
+  "cards": [
+   "I see. Catherine|escaped with what|they want."
+  ]
+ },
+ "73": {
+  "speaker": "Gillian",
+  "en": "Right. Metal, let's find Catherine before they do. Back to the Tricycle first.",
+  "ps1": [
+   "B1C0_f33_0",
+   "B1C0_f33_0b"
+  ],
+  "cards": [
+   "Right. Metal, let's|find Catherine|before they do.",
+   "Back to the|Tricycle first."
+  ],
+  "turns": [
+   4.8
+  ]
+ },
+ "_unmatched": {}
+}

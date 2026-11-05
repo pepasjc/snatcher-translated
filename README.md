@@ -1,14 +1,22 @@
-# Snatcher: English Translation (Sega Saturn and PlayStation)
+# Snatcher: English Translation (Sega Saturn, PlayStation and PC Engine CD)
 
-**Version 1.0.1**, 2026-10-01, by pepa
+**Version 1.5**, 2026, by pepa
 
 Snatcher is Hideo Kojima's cyberpunk adventure: in Neo Kobe City, Gillian
 Seed, a detective with no memory of his past, joins the JUNKER unit to hunt
 the Snatchers, machines that kill people and take their place. Konami
-released it in Japan only on the Sega Saturn (T-9508G, 1996) and the
-PlayStation (SLPS-00154, 1996), both with voice acting throughout. This
-project translates both into English: the same translation, one patch for
-each console.
+released it in Japan only on the PC Engine Super CD-ROM² as *Snatcher
+CD-ROMantic* (1992), then on the Sega Saturn (T-9508G, 1996) and the
+PlayStation (SLPS-00154, 1996), all three with voice acting. This project
+translates all three into English: the same translation, one patch for each
+console.
+
+**Contents:** [Which version?](#which-version) ·
+[Saturn](#the-saturn-version) · [PlayStation](#the-playstation-version) ·
+[PC Engine](#the-pc-engine-version) · [How it was translated](#how-it-was-translated) ·
+[How it works](#how-it-works) · [Documentation](#documentation) ·
+[Building from source](#building-from-source) · [Changelog](#changelog) ·
+[Reporting bugs](#reporting-bugs) · [License](#license-and-reuse) · [Credits](#credits)
 
 ## Which version?
 
@@ -21,6 +29,11 @@ falling from the window so the body lands with its back to the camera,
 where the PC Engine version shows its wounds. Play the Saturn version if
 you can.
 
+The PC Engine version is the original CD release, the first with the whole
+story to its end. The 1996 ports added scenes to it and redrew some
+pictures; the PC Engine keeps Konami's first take, the dog scene uncut
+included.
+
 The PlayStation patch comes in two variants: translation only, with the
 PlayStation's art as shipped, and uncensored, which restores the pictures
 the PlayStation port greys out or mosaics. The dog scene stays as the
@@ -28,15 +41,17 @@ PlayStation has it.
 
 | | Download | Patches |
 |---|---|---|
-| Sega Saturn | `Snatcher-Saturn-English-v1.0.1.zip` | track 1 + track 2 |
-| PlayStation | `Snatcher-PS1-English-v1.0.zip` | translation only, or uncensored |
+| Sega Saturn | `Snatcher-Saturn-English-v1.5.zip` | track 1 + track 2 |
+| PlayStation | `Snatcher-PS1-English-v1.5.zip` | translation only, or uncensored |
+| PC Engine CD | `Snatcher-PCE-English-v1.5.zip` | the whole disc |
 
 Downloads: <https://github.com/pepasjc/snatcher-translated/releases>.
 
-Saturn 1.0.1 fixes a softlock in 1.0: after Metal Gear's introduction at
-JUNKER HQ, Harry's last subtitle stayed on screen over the menu. If you are
-playing 1.0, patch your original tracks again with 1.0.1; your saves carry
-over.
+Version 1.5 is the first release of the PC Engine patch. The PlayStation
+and Saturn patches move to 1.5 with it, so all three share one version
+number; their changes since 1.0 are fixes (see the changelogs). If you are
+playing an earlier version, patch your original dump again; your saves
+carry over.
 
 ## The Saturn version
 
@@ -88,8 +103,8 @@ SHA1   a3ebab5b07a2b9a17aa68554072585be8839aba3
 (README.txt in the zip lists all three tracks.) Two patches are in the zip,
 one for track 1 and one for track 2; track 3 (the CD audio) is not changed.
 
-- `Snatcher (Japan) (Track 1) [T-En by pepa v1.0.1].xdelta`
-- `Snatcher (Japan) (Track 2) [T-En by pepa v1.0.1].xdelta`
+- `Snatcher (Japan) (Track 1) [T-En by pepa v1.5].xdelta`
+- `Snatcher (Japan) (Track 2) [T-En by pepa v1.5].xdelta`
 
 The easy way: put your three original track files in the folder you
 unzipped and run `apply.bat` (Windows, double-click) or `apply.sh` (Linux
@@ -101,28 +116,28 @@ is missing; on Linux and macOS install it first (`apt install xdelta3`,
 By hand:
 
 ```
-xdelta3 -d -s "Snatcher (Japan) (Track 1).bin" "Snatcher (Japan) (Track 1) [T-En by pepa v1.0.1].xdelta" "Snatcher (Japan) [T-En by pepa v1.0.1] (Track 1).bin"
-xdelta3 -d -s "Snatcher (Japan) (Track 2).bin" "Snatcher (Japan) (Track 2) [T-En by pepa v1.0.1].xdelta" "Snatcher (Japan) [T-En by pepa v1.0.1] (Track 2).bin"
+xdelta3 -d -s "Snatcher (Japan) (Track 1).bin" "Snatcher (Japan) (Track 1) [T-En by pepa v1.5].xdelta" "Snatcher (Japan) [T-En by pepa v1.5] (Track 1).bin"
+xdelta3 -d -s "Snatcher (Japan) (Track 2).bin" "Snatcher (Japan) (Track 2) [T-En by pepa v1.5].xdelta" "Snatcher (Japan) [T-En by pepa v1.5] (Track 2).bin"
 ```
 
 Delta Patcher (Windows) or MultiPatch (macOS) do the same with a window.
-Put `Snatcher (Japan) [T-En by pepa v1.0.1].cue` from the zip next to the two
+Put `Snatcher (Japan) [T-En by pepa v1.5].cue` from the zip next to the two
 new files and your original `Snatcher (Japan) (Track 3).bin`, and load the
 .cue. The new track 1 is larger than the original; that is expected. The
 results should hash:
 
 ```
-Snatcher (Japan) [T-En by pepa v1.0.1] (Track 1).bin
-Size   479711568
-CRC32  3c4bfeac
-MD5    f0885e32a22448f1301e69ed4b4ac522
-SHA1   68813581415ad00ea7acb99d3bc7c5fa6deaa0a3
+Snatcher (Japan) [T-En by pepa v1.5] (Track 1).bin
+Size   479709216
+CRC32  6071e290
+MD5    f5a2c950294b4608ccb7e34d8f16ff95
+SHA1   9124fc2a7277f712fa532fe8b1f4750aecd0afc8
 
-Snatcher (Japan) [T-En by pepa v1.0.1] (Track 2).bin
+Snatcher (Japan) [T-En by pepa v1.5] (Track 2).bin
 Size   58576560
-CRC32  eb6d51c3
-MD5    0eb71c69d0236e6b872905d008f6e087
-SHA1   1d73a5b5f83eb455562c5bec9dba791d593fd57d
+CRC32  4ddc9b55
+MD5    28ed4cbbb658d448ac8e5aa38e106a6e
+SHA1   a7c4e8b4825092324fe3429b85ee4496f73d1654
 ```
 
 ### Compatibility
@@ -198,9 +213,9 @@ SHA1   e6cd330feb594b3951089da866db1a400f0173f6
 
 Two patches are in the zip. Pick one:
 
-- `Snatcher (Japan) [T-En by pepa v1.0].xdelta`: the translation, with
+- `Snatcher (Japan) [T-En by pepa v1.5].xdelta`: the translation, with
   the game's artwork untouched.
-- `Snatcher (Japan) [T-En by pepa v1.0] (Uncensored).xdelta`: the same
+- `Snatcher (Japan) [T-En by pepa v1.5] (Uncensored).xdelta`: the same
   translation, with the PlayStation-only censorship undone.
 
 The easy way: put your `Snatcher (Japan).bin` in the folder you unzipped
@@ -214,13 +229,13 @@ By hand: apply it with xdelta3, Delta Patcher (Windows), MultiPatch
 (macOS) or any xdelta front-end:
 
 ```
-xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v1.0].xdelta" "Snatcher (Japan) [T-En by pepa v1.0].bin"
+xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v1.5].xdelta" "Snatcher (Japan) [T-En by pepa v1.5].bin"
 ```
 
 or
 
 ```
-xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v1.0] (Uncensored).xdelta" "Snatcher (Japan) [T-En by pepa v1.0] (Uncensored).bin"
+xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v1.5] (Uncensored).xdelta" "Snatcher (Japan) [T-En by pepa v1.5] (Uncensored).bin"
 ```
 
 Put the `.cue` of the same name next to the output `.bin`. The patched
@@ -228,19 +243,19 @@ image is larger than the original (relocated data is appended past the
 original end); that is expected. Expected results:
 
 ```
-Snatcher (Japan) [T-En by pepa v1.0].bin
-Size   575675520
-CRC32  8385d077
-MD5    72f5dbe88854823ddc365c5087cb6a34
-SHA1   9b7a6e812fb60c91e9daa8a47446ce6b14001ceb
+Snatcher (Japan) [T-En by pepa v1.5].bin
+Size   575687280
+CRC32  64cf727e
+MD5    cef411db00abbe4154e0fb5aa0081960
+SHA1   b97d508befdfcb460afd7658b015e0649e94af2c
 ```
 
 ```
-Snatcher (Japan) [T-En by pepa v1.0] (Uncensored).bin
-Size   575694336
-CRC32  0f06d4b0
-MD5    2e0e412e40d63ed7de2968f8af092b63
-SHA1   d8a4294608aef1b934e9a8cd9511735803a6a454
+Snatcher (Japan) [T-En by pepa v1.5] (Uncensored).bin
+Size   575706096
+CRC32  554e3c8b
+MD5    911fb1e599dd4a4eb884e3739f678935
+SHA1   8e19777b5d665e793ad5bdc708ac2f08d7107c22
 ```
 
 Do not apply the patch to a `.iso` (2048-byte sectors) or a `.chd`;
@@ -253,6 +268,100 @@ Tested on real hardware, PS3, MiSTer, DuckStation and Beetle PSX /
 Beetle PSX HW (RetroArch) and PSP. The image is a plain Mode 2 BIN/CUE and
 converts to CHD with `chdman createcd`. Save files from the Japanese
 game are compatible.
+
+## The PC Engine version
+
+### What is translated
+
+The whole game, from New Game to the ending.
+
+- Every line of the script: conversations, descriptions, Gaudi's database,
+  the videophone, the shop and the quiz. Nothing is cut to fit the
+  Japanese text boxes.
+- The voice acting, with subtitles timed to the voices, both the voice
+  clips and the dialogue on the CD audio tracks, the opening's narration
+  included. The speaker's portrait sits on the left of the box; a line
+  with no portrait on screen shows the speaker's name instead.
+- Every menu, verb, item and location label, and the speaker names.
+- The keyboard and the typed puzzles. The keys show Latin letters, and
+  Gaudi's name search takes English names.
+- The graphics with writing in them: the title menu and the load screen,
+  the opening's cards, captions and credits, Gibson's memo pages and his
+  note, the videophone cards, the JUNKER poster, the epilogue card and the
+  ending's credit roll. A translation card and a short disclaimer about the
+  translation play before the Konami logo.
+
+Names follow the Japanese original, so the subtitles match what the voice
+actors say: Randam Hajile, Dr. Madnar, Catherine Gibson, Gaudi.
+
+Left in Japanese on purpose: the opening newspaper's date line and
+vertical columns (only its boxed headline is in English) and background
+signage.
+
+### How to apply
+
+You need your own dump of *Snatcher CD-ROMantic (Japan)* in the
+redump.org BIN/CUE layout: 24 track files, `Snatcher CD-ROMantic (Japan)
+(Track 01).bin` to `(Track 24).bin`. The patch applies to the whole disc
+as one file, the 24 tracks joined in order. That file must hash:
+
+```
+Snatcher CD-ROMantic (Japan).bin
+Size   632974944
+SHA1   db254c2e2d888d042cb9df8dc55599feb4d1132d
+```
+
+A single BIN written by `chdman extractcd` from the redump CHD is the same
+file.
+
+The easy way: put the 24 track files in the folder you unzipped and run
+`apply.bat` (Windows, double-click) or `apply.sh` (Linux and macOS:
+`sh apply.sh`). It joins the tracks, checks your dump, applies the patch
+and checks the result. The Windows script downloads xdelta3 by itself if
+it is missing; on Linux and macOS install it first (`apt install
+xdelta3`, `brew install xdelta`).
+
+By hand:
+
+```
+copy /b "Snatcher CD-ROMantic (Japan) (Track 01).bin" + ... + "Snatcher CD-ROMantic (Japan) (Track 24).bin" "Snatcher CD-ROMantic (Japan).bin"
+xdelta3 -d -B 1073741824 -s "Snatcher CD-ROMantic (Japan).bin" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5].xdelta" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5].bin"
+```
+
+(On Linux and macOS, `cat "Snatcher CD-ROMantic (Japan) (Track "*").bin >
+"Snatcher CD-ROMantic (Japan).bin"` joins the tracks.) Put `Snatcher
+CD-ROMantic (Japan) [T-En by pepa v1.5].cue` from the zip next to the new
+file and load the .cue. Track 2 is longer than the original, so the cue's
+track times differ from the redump cue; use the one in the zip. The
+result should hash:
+
+```
+Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5].bin
+Size   634386144
+CRC32  1a22aeb4
+MD5    401e44ccb2044fa11ec5636c1d74a6d4
+SHA1   205aafe8009656751e293f3a79ee2d22cb0bc4ae
+```
+
+### Compatibility
+
+The game needs the Super System Card 3.0 BIOS (`syscard3.pce`), as the
+original does. Tested in Beetle PCE (RetroArch / Mednafen) and on a
+MiSTer. The patched image is plain BIN/CUE and converts to CHD with
+`chdman createcd`.
+
+### Known issues
+
+Open on the tracker at release time (PC Engine label):
+
+- #94: after saving, quitting and starting a New Game, the opening can
+  play black under its subtitles.
+- #86: the subtitles in Randam's scene at the end of Act 1 can run out of
+  step with the voices.
+- #78: at Gibson's house, the diary's spoken lines draw their subtitle
+  under the computer screen.
+- #58: at the start of Act 2 the game can freeze in the Chief's room with
+  the recap's last subtitle on screen.
 
 ## How it was translated
 
@@ -274,7 +383,9 @@ actors say.
 The Saturn release uses the same translation. Its script follows the
 PlayStation's almost line for line; where its Japanese differs (its own
 phone numbers, a different quiz answer, lines split differently, the lines
-only the Saturn has), the English follows the Saturn.
+only the Saturn has), the English follows the Saturn. The PC Engine script
+is the same story with fewer scenes; it reuses the English wherever its
+Japanese matches, and the rest was translated from its own Japanese.
 
 The review is done in a tool built for it: every line of a scene on one
 row, with the speaker, the Japanese with furigana, the English, and a
@@ -286,69 +397,67 @@ it checks.
 
 Corrections are welcome: open an issue with the line and the scene.
 
-## Technical Details
+## How it works
 
-### PlayStation
+None of the three games was built to be translated: the text is not
+Shift-JIS, strings sit at fixed offsets with no room to grow, and the voiced
+scenes were never meant to show text. Each patch therefore changes the game
+itself, not just its script.
 
-Most of the work in this project is not translation. It is reverse
-engineering: the game's text encoding, font, dialogue box, CD streaming and
-graphics containers all had to be taken apart before a single English line
-could go in. That work is done, and it is what makes the game fully
-playable in English for everyone.
+- **PlayStation.** English letters are packed two to a glyph in unused kanji
+  slots of the game's font, so an English line costs what the Japanese did;
+  lines that need more room are moved to a per-scene file loaded into free
+  RAM and redirected by a small stub in the executable. Subtitles come from
+  a payload that watches the CD drive's position in the voice stream and
+  hands each line to the game's own dialogue box. Grown files are appended
+  past the end of the disc with fresh sector headers and error correction.
+- **Saturn.** The same script and design on a different engine: the scene
+  banks live in one packed data file that the build re-lays, the executable
+  is patched with SH-2 routines, the pair glyphs extend the font in video
+  memory, and subtitles follow the decoded bytes of each voice clip.
+- **PC Engine.** The text is drawn from the System Card's built-in font, so
+  the glyph fetch is hooked and each scene module carries its own small
+  English font; long lines are read from a block loaded beside the scene,
+  and subtitles cover both the ADPCM voice clips and the dialogue on the CD
+  audio tracks.
 
-**Text.** The script is not Shift-JIS. Each character is a two-byte index
-into the game's font, and every string is referenced by its byte offset,
-so a string cannot grow in place. Japanese is dense: one kanji carries
-what takes several English letters. So unused kanji slots in the font are
-redrawn to hold two Latin letters each, and two letters then cost the same
-two bytes as one kanji. A line that still needs more room than the
-Japanese took is moved to a separate file per scene, loaded into free RAM
-alongside it, and a small patch in the executable redirects the original
-string to it at runtime. No line has to be cut to fit.
+## Documentation
 
-**Extraction.** A tool walks the disc image, pulls the 39 scene files,
-decodes every string with its byte budget, and writes them out as JSON.
-The English goes back the same way: encoded with the new font, checked
-against the budget, and patched in place. A build verifies every string,
-every name and every redrawn glyph before it writes a disc.
+| Document | What it covers |
+|---|---|
+| [docs/ps1.md](docs/ps1.md) | The PlayStation game and the patch: disc and file tables, text encoding and storage, the pair-glyph font, word wrap, menus and keyboard, voice subtitles, graphics, uncensoring, build order, engine reference |
+| [docs/saturn.md](docs/saturn.md) | The Saturn port: tracks and DATA.BIN, the carried PS1 English, long strings and SH-2 stubs, font, subtitles on ADPCM lines and reels, graphics, build order, engine reference |
+| [docs/pce.md](docs/pce.md) | The PC Engine port: the disc and its file table, script modules, the hooked font, long strings, voice and CD-audio subtitles, graphics, build order, engine reference |
+| [ps1/translation/README.md](ps1/translation/README.md) | Every PlayStation data file and field: script strings, subtitle cues, pictures, credits |
+| [saturn/translation/README.md](saturn/translation/README.md) | Every Saturn data file and field |
+| [pce/translation/README.md](pce/translation/README.md) | Every PC Engine data file and field, including the dialogue keys and the portrait signatures |
+| [BUILDING.md](BUILDING.md) | Building any of the three patches from your own discs, with or without Docker |
+| [docs/review-tool.md](docs/review-tool.md) | The tool the translation is reviewed in |
 
-**Subtitles.** The PS1 voices were never subtitled; the game just plays the
-audio. This patch adds a small subtitle payload per scene, loaded into
-spare RAM after the scene file. Every frame it reads where the CD drive is
-in the voice stream, and when a known line starts it hands the English to
-the game's own dialogue box (the same routine that draws the script), so
-subtitles look and behave like the rest of the game's text. In voiced
-scenes the game draws the characters' portraits in that same box, so the
-payload also moves them: only the speaker's portrait stays, at the left,
-and the subtitle sits beside it. Cue timings come from speech recognition
-over the extracted Japanese audio, then checked by hand.
+## Building from source
 
-**Graphics.** The memo pages, the New Game disclaimer, the credit roll, the
-keyboard, the opening's title cards and the intro movie's burned-in text
-are all baked images. Each lives in Konami's own compression format, which
-was decoded and re-encoded so the pictures could be redrawn in English and
-put back at the same size.
+Every tool used to make these patches is in this repository, with the
+English data. Supply your own disc dumps and run:
 
-**Disc.** The patched files are written back at their original positions;
-anything that grew is appended past the end of the original image, with
-fresh sector headers and error correction, so the result is a valid disc
-that boots on real hardware.
+```
+pip install -r requirements.txt
+python build.py discs /path/to/your/dumps
+python build.py all --release
+```
 
-### Saturn
+or use the Dockerfile. [BUILDING.md](BUILDING.md) has the details: which
+discs each port needs, the fonts, and what ends up in `patched/` and
+`release/`.
 
-The Saturn port reuses the PlayStation translation and its tools, on a
-different engine. The script sits in the same scene banks as on the
-PlayStation, inside one data file of 639 compressed chunks; the build
-rebuilds that file from the chunk list and writes a new disc image, whose
-data track grows to hold the longer English. The executable is patched
-with small SH-2 routines placed in unused space: long lines are appended
-to each scene's text and remapped at runtime, a line too long for the box
-pages instead of scrolling, the font is extended in video RAM for the
-two-letter glyphs, and a subtitle payload stored with each scene draws the
-voice subtitles and moves the speaker's portrait to the left, the same
-design as the PlayStation's. The keyboard, the memo pages, the diary, the
-opening's captions and credit roll, and the option menu's WALLPAPERS
-screen are redrawn in the game's own formats.
+## Repository layout
+
+| Folder | Contents |
+|---|---|
+| `build.py`, `Dockerfile` | the build, all ports |
+| `lib/` | shared code: text codec, LZSS, card planner, fonts, release helpers, emulator host |
+| `ps1/`, `saturn/`, `pce/` | per port: `tools/` (the build chain), `translation/` (the English data), `harness/` (headless play-testing), `build/` (Windows batch files); PS1 and Saturn also `subs/` (subtitle cue tools), PS1 `review/` (the review tool) |
+| `docs/` | the architecture documents above |
+| `work/` | build scratch; six committed build inputs (the pair table and its free slots, the PS1 file map, the voice census, jPSXdec's index, the font table) |
 
 ## About me
 
@@ -358,6 +467,7 @@ is still a work in progress.
 
 ## Changelog
 
+- PC Engine: 1.5 is its first release.
 - Saturn: [CHANGELOG-Saturn.md](CHANGELOG-Saturn.md)
 - PlayStation: [CHANGELOG.md](CHANGELOG.md)
 
@@ -367,7 +477,8 @@ Older releases: <https://github.com/pepasjc/snatcher-translated/releases>.
 
 Open an issue at <https://github.com/pepasjc/snatcher-translated/issues>.
 Please include the scene or location, what was on screen (a screenshot
-helps), and a save (memory card or Saturn backup memory) if you can. Text
+helps), and a save (memory card, Saturn backup memory or PC Engine save)
+if you can. Text
 that overflows its box, a subtitle that lags or leads its voice or names
 the wrong speaker, or any freeze: all wanted. Load the game from a save,
 not a save state made on an earlier version: a save state carries the old
@@ -375,13 +486,37 @@ version's text and glyphs and shows the old bugs.
 
 Downloads: <https://github.com/pepasjc/snatcher-translated/releases>.
 
+## License and reuse
+
+- **Source code** (`build.py`, `lib/`, and each port's `tools/`, `subs/`,
+  `harness/`, `review/` and `build/` folders): [MIT](LICENSE). Use it for
+  anything, other games included; keep the copyright notice.
+- **Translation and documentation** (the `translation/` folders, `docs/`, and
+  the README, BUILDING and CHANGELOG files):
+  [CC BY-NC-SA 4.0](LICENSE-DATA). You may adapt them, including into
+  another language, as long as you credit this project, do not sell the
+  result, and share it under the same license.
+- **Snatcher** - its Japanese script, graphics, music and voices - is
+  (c) Konami. Nothing from the game is in this repository or licensed by it.
+
+If you translate the game into another language starting from this work,
+please credit it like this:
+
+> Based on the Snatcher English translation by pepa -
+> https://github.com/pepasjc/snatcher-translated
+
+Third-party material: the X11 "fixed" fonts in `lib/fonts` are public domain;
+Tamzen keeps its own license (`lib/fonts/LICENSE-Tamzen.txt`). jPSXdec,
+xdelta3, chdman and the Windows fonts some pictures are rendered in are not
+included; the build fetches or asks for them.
+
 ## Credits
 
 - Translation, tools and hacking: pepa
 - Terminology reference: the 1994 Sega CD localization (Konami)
 - English text: the X11 "fixed" fonts (public domain), and Tamzen for the
   PlayStation opening's JUNKER HQ caption
-- Tools used: jPSXdec, DuckStation, Beetle PSX, Beetle Saturn,
+- Tools used: jPSXdec, DuckStation, Beetle PSX, Beetle Saturn, Beetle PCE,
   PCSX-Redux, faster-whisper, capstone, xdelta3, chdman
 
 This is a fan translation. It is free, and it must not be sold or bundled

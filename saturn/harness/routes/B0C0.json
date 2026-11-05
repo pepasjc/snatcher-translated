@@ -1,0 +1,88 @@
+{
+ "scene": "B0C0",
+ "note": "Gibson's house from the B0A0_auto bookmark (the tricycle at HQ, its destination list):  Gibson's home, Check the building, Knock, Talk, Show the JUNKER ID; Catherine's questions need the numeric pad (no driver yet), so the route stops at the door.",
+ "actions": [
+  {
+   "path": [
+    "Gibson's home"
+   ],
+   "patience": 4000
+  },
+  {
+   "idle": 600
+  },
+  {
+   "wait_menu": true,
+   "patience": 12000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true,
+   "patience": 3000
+  },
+  {
+   "wait_menu": true,
+   "patience": 12000
+  },
+  {
+   "save": "B0C0_start"
+  },
+  {
+   "path": [
+    "Investigate",
+    "Building|Home|House"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "reps": 2,
+   "optional": true
+  },
+  {
+   "path": [
+    "Knock"
+   ],
+   "reps": 2,
+   "optional": true
+  },
+  {
+   "path": [
+    "Talk"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Item",
+    "Show",
+    "JUNKER ID"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Ask",
+    "Item"
+   ],
+   "rounds": 2
+  },
+  {
+   "save": "B0C0_door"
+  }
+ ]
+}

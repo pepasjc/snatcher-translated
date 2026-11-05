@@ -1,0 +1,14 @@
+{
+ "scene": "B220",
+ "note": "In the black taxi: Say where x3, then the driver turns - one shot to the face.",
+ "fight": "cell5",
+ "actions": [
+  {"path": ["Give destination"], "patience": 900},
+  {"path": ["Give destination"], "optional": true, "patience": 900},
+  {"path": ["Give destination"], "optional": true, "patience": 900},
+  {"path": ["Give destination"], "optional": true, "patience": 900},
+  {"save": "B220_driver"},
+  {"sweep": ["Look", "Investigate", "Talk", "Give destination", "Use Metal Gear", "Move"], "each": ["Look", "Investigate"], "rounds": 2},
+  {"save": "B220_taxi_end"}
+ ]
+}

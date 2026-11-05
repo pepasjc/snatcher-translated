@@ -1,0 +1,126 @@
+[
+  {
+    "choose": "Use Metal Gear"
+  },
+  {
+    "choose": "Analysis"
+  },
+  {
+    "choose": "L. John's memory"
+  },
+  {
+    "read": 6000
+  },
+  {
+    "choose": "Use Metal Gear"
+  },
+  {
+    "choose": "Analysis"
+  },
+  {
+    "choose": "Hair"
+  },
+  {
+    "read": 6000
+  },
+  {
+    "choose": "Use Metal Gear"
+  },
+  {
+    "choose": "Analysis"
+  },
+  {
+    "choose": "Skin tissue"
+  },
+  {
+    "read": 6000
+  },
+  {
+    "choose": "Use Metal Gear"
+  },
+  {
+    "choose": "Analysis"
+  },
+  {
+    "choose": "Residue"
+  },
+  {
+    "read": 6000
+  },
+  {
+    "choose": "Move"
+  },
+  {
+    "choose": "Forward"
+  },
+  {
+    "read": 8000
+  },
+  {
+    "save": "fac_front"
+  },
+  {
+    "sweep": "Listen",
+    "rounds": 1
+  },
+  {
+    "read": 3000
+  },
+  {
+    "sweep": "Look",
+    "rounds": 2
+  },
+  {
+    "read": 3000
+  },
+  {
+    "sweep": "Investigate",
+    "rounds": 2
+  },
+  {
+    "read": 3000
+  },
+  {
+    "choose": "Back"
+  },
+  {
+    "read": 4000
+  },
+  {
+    "repeat": [
+      {
+        "sweep": "Look",
+        "rounds": 1
+      },
+      {
+        "read": 3000
+      },
+      {
+        "choose": "Move"
+      },
+      {
+        "choose": "Back"
+      },
+      {
+        "read": 8000
+      }
+    ],
+    "until": "fought",
+    "max": 6
+  },
+  {
+    "save": "fac_won"
+  },
+  {
+    "choose": "Move"
+  },
+  {
+    "choose": "Go out"
+  },
+  {
+    "read": 12000
+  },
+  {
+    "save": "hq2"
+  }
+]

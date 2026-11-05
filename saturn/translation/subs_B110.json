@@ -1,0 +1,1058 @@
+{
+ "scene": "B110",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B110_d0",
+   "line": 141,
+   "act": 1,
+   "sector": 2739,
+   "offset": 1977,
+   "size": 6988,
+   "b0": 0,
+   "b1": 6988,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Is he dead?",
+   "rows": [
+    "Is he dead?"
+   ],
+   "rows_plain": [
+    "Is he dead?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_d1",
+   "line": 142,
+   "act": 1,
+   "sector": 2742,
+   "offset": 1993,
+   "size": 58761,
+   "b0": 0,
+   "b1": 58761,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "He's only unconscious. An excellent shot, right in the hand.",
+   "rows": [
+    "He's only unconscious. An",
+    "excellent shot, right in the",
+    "hand."
+   ],
+   "rows_plain": [
+    "He's only unconscious. An excellent",
+    "shot, right in the hand."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_d2",
+   "line": 143,
+   "act": 1,
+   "sector": 2768,
+   "offset": 330,
+   "size": 23365,
+   "b0": 0,
+   "b1": 23365,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That's not where I was aiming.",
+   "rows": [
+    "That's not where I was",
+    "aiming."
+   ],
+   "rows_plain": [
+    "That's not where I was aiming."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_d3",
+   "line": 144,
+   "act": 1,
+   "sector": 2778,
+   "offset": 455,
+   "size": 27451,
+   "b0": 0,
+   "b1": 27451,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Hey! How long are you going to sleep?",
+   "rows": [
+    "Hey! How long are you going",
+    "to sleep?"
+   ],
+   "rows_plain": [
+    "Hey! How long are you going to",
+    "sleep?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B110_d4",
+   "line": 145,
+   "act": 1,
+   "sector": 2790,
+   "offset": 18,
+   "size": 19565,
+   "b0": 0,
+   "b1": 19565,
+   "speaker": "Ivan",
+   "colour": 2,
+   "en": "Help! Somebody help me!",
+   "rows": [
+    "Help! Somebody help me!"
+   ],
+   "rows_plain": [
+    "Help! Somebody help me!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B110_000",
+   "line": 146,
+   "act": 1,
+   "sector": 2798,
+   "offset": 991,
+   "size": 123982,
+   "b0": 0,
+   "b1": 20295,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian, you mustn't kill him.",
+   "rows": [
+    "Gillian, you mustn't kill",
+    "him."
+   ],
+   "rows_plain": [
+    "Gillian, you mustn't kill him."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_000b",
+   "line": 146,
+   "act": 1,
+   "sector": 2798,
+   "offset": 991,
+   "size": 123982,
+   "b0": 20295,
+   "b1": 55571,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "That violates the second of JUNKER's five rules.",
+   "rows": [
+    "That violates the second of",
+    "JUNKER's five rules."
+   ],
+   "rows_plain": [
+    "That violates the second of JUNKER's",
+    "five rules."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_000c",
+   "line": 146,
+   "act": 1,
+   "sector": 2798,
+   "offset": 991,
+   "size": 123982,
+   "b0": 55571,
+   "b1": 86049,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "We need evidence that Ivan is a Snatcher.",
+   "rows": [
+    "We need evidence that Ivan",
+    "is a Snatcher."
+   ],
+   "rows_plain": [
+    "We need evidence that Ivan is a",
+    "Snatcher."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_000d",
+   "line": 146,
+   "act": 1,
+   "sector": 2798,
+   "offset": 991,
+   "size": 123982,
+   "b0": 86049,
+   "b1": 123982,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The shooting just now counts as self-defense, but...",
+   "rows": [
+    "The shooting just now counts",
+    "as self-defense, but..."
+   ],
+   "rows_plain": [
+    "The shooting just now counts as",
+    "self-defense, but..."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_001",
+   "line": 147,
+   "act": 1,
+   "sector": 2851,
+   "offset": 1801,
+   "size": 10276,
+   "b0": 0,
+   "b1": 10276,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Damn it!",
+   "rows": [
+    "Damn it!"
+   ],
+   "rows_plain": [
+    "Damn it!"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": 151
+  },
+  {
+   "id": "B110_002",
+   "line": 148,
+   "act": 1,
+   "sector": 2856,
+   "offset": 457,
+   "size": 52734,
+   "b0": 0,
+   "b1": 52734,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's check the bathroom. We might find that sunscreen.",
+   "rows": [
+    "Let's check the bathroom. We",
+    "might find that sunscreen."
+   ],
+   "rows_plain": [
+    "Let's check the bathroom. We might",
+    "find that sunscreen."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_003",
+   "line": 149,
+   "act": 1,
+   "sector": 2878,
+   "offset": 2063,
+   "size": 9013,
+   "b0": 0,
+   "b1": 9013,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Good idea.",
+   "rows": [
+    "Good idea."
+   ],
+   "rows_plain": [
+    "Good idea."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": 151
+  },
+  {
+   "id": "B110_004",
+   "line": 150,
+   "act": 1,
+   "sector": 2882,
+   "offset": 1780,
+   "size": 18542,
+   "b0": 0,
+   "b1": 18542,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's go to the bathroom, then.",
+   "rows": [
+    "Let's go to the bathroom,",
+    "then."
+   ],
+   "rows_plain": [
+    "Let's go to the bathroom, then."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f1_0",
+   "line": 151,
+   "act": 1,
+   "sector": 2890,
+   "offset": 1730,
+   "size": 13766,
+   "b0": 0,
+   "b1": 13766,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "That's what it looks like.",
+   "rows": [
+    "That's what it looks like."
+   ],
+   "rows_plain": [
+    "That's what it looks like."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f2_0",
+   "line": 152,
+   "act": 1,
+   "sector": 2896,
+   "offset": 1552,
+   "size": 65990,
+   "b0": 0,
+   "b1": 65990,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "So Ivan's just a drug dealer. That's what he was hiding.",
+   "rows": [
+    "So Ivan's just a drug",
+    "dealer. That's what he was",
+    "hiding."
+   ],
+   "rows_plain": [
+    "So Ivan's just a drug dealer. That's",
+    "what he was hiding."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f3_0",
+   "line": 153,
+   "act": 1,
+   "sector": 2925,
+   "offset": 146,
+   "size": 62830,
+   "b0": 0,
+   "b1": 62830,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Ivan was using tanning oil, not sunscreen, when he went aero-surfing.",
+   "rows": [
+    "Ivan was using tanning oil,",
+    "not sunscreen, when he went",
+    "aero-surfing."
+   ],
+   "rows_plain": [
+    "Ivan was using tanning oil, not",
+    "sunscreen, when he went",
+    "aero-surfing."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f4_0",
+   "line": 154,
+   "act": 1,
+   "sector": 2952,
+   "offset": 228,
+   "size": 49898,
+   "b0": 0,
+   "b1": 49898,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "He got that deep tan from ultraviolet rays, the very thing Snatchers fear most.",
+   "rows": [
+    "He got that deep tan from",
+    "ultraviolet rays, the very",
+    "thing Snatchers fear most."
+   ],
+   "rows_plain": [
+    "He got that deep tan from",
+    "ultraviolet rays, the very thing",
+    "Snatchers fear most."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f5_0",
+   "line": 155,
+   "act": 1,
+   "sector": 2973,
+   "offset": 1322,
+   "size": 55462,
+   "b0": 0,
+   "b1": 55462,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Yet there was nothing wrong with his skin. I can't believe it's artificial.",
+   "rows": [
+    "Yet there was nothing wrong",
+    "with his skin. I can't",
+    "believe it's artificial."
+   ],
+   "rows_plain": [
+    "Yet there was nothing wrong with his",
+    "skin. I can't believe it's",
+    "artificial."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f6_0",
+   "line": 156,
+   "act": 1,
+   "sector": 2997,
+   "offset": 1008,
+   "size": 25285,
+   "b0": 0,
+   "b1": 25285,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "It seems Ivan isn't a Snatcher.",
+   "rows": [
+    "It seems Ivan isn't a",
+    "Snatcher."
+   ],
+   "rows_plain": [
+    "It seems Ivan isn't a Snatcher."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f7_0",
+   "line": 157,
+   "act": 1,
+   "sector": 3008,
+   "offset": 729,
+   "size": 10738,
+   "b0": 0,
+   "b1": 10738,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Hey! Wake up!",
+   "rows": [
+    "Hey! Wake up!"
+   ],
+   "rows_plain": [
+    "Hey! Wake up!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B110_f8_0",
+   "line": 158,
+   "act": 1,
+   "sector": 3012,
+   "offset": 2171,
+   "size": 87769,
+   "b0": 0,
+   "b1": 64983,
+   "speaker": "Ivan",
+   "colour": 2,
+   "en": "I'm just a dealer. I only handle Liquid Sky. Give me a break.",
+   "rows": [
+    "I'm just a dealer. I only",
+    "handle Liquid Sky. Give me a",
+    "break."
+   ],
+   "rows_plain": [
+    "I'm just a dealer. I only handle",
+    "Liquid Sky. Give me a break."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B110_f8_0b",
+   "line": 158,
+   "act": 1,
+   "sector": 3012,
+   "offset": 2171,
+   "size": 87769,
+   "b0": 64983,
+   "b1": 87769,
+   "speaker": "Ivan",
+   "colour": 2,
+   "en": "Hurry and call an ambulance!",
+   "rows": [
+    "Hurry and call an ambulance!"
+   ],
+   "rows_plain": [
+    "Hurry and call an ambulance!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B110_f9_0",
+   "line": 159,
+   "act": 1,
+   "sector": 3050,
+   "offset": 1628,
+   "size": 85868,
+   "b0": 0,
+   "b1": 59181,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I'm not a cop. I'm a JUNKER! I don't care if you're a dealer!",
+   "rows": [
+    "I'm not a cop. I'm a JUNKER!",
+    "I don't care if you're a",
+    "dealer!"
+   ],
+   "rows_plain": [
+    "I'm not a cop. I'm a JUNKER! I don't",
+    "care if you're a dealer!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B110_f9_0b",
+   "line": 159,
+   "act": 1,
+   "sector": 3050,
+   "offset": 1628,
+   "size": 85868,
+   "b0": 59181,
+   "b1": 85868,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I want to know if you're human or a Snatcher!",
+   "rows": [
+    "I want to know if you're",
+    "human or a Snatcher!"
+   ],
+   "rows_plain": [
+    "I want to know if you're human or a",
+    "Snatcher!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B110_f10_0",
+   "line": 160,
+   "act": 1,
+   "sector": 3087,
+   "offset": 1508,
+   "size": 79932,
+   "b0": 0,
+   "b1": 79932,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian, Ivan's skin is normal. With that tan and no melanoma, he's in the clear.",
+   "rows": [
+    "Gillian, Ivan's skin is",
+    "normal. With that tan and no",
+    "melanoma, he's in the clear."
+   ],
+   "rows_plain": [
+    "Gillian, Ivan's skin is normal. With",
+    "that tan and no melanoma, he's in",
+    "the clear."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f11_0",
+   "line": 161,
+   "act": 1,
+   "sector": 3122,
+   "offset": 100,
+   "size": 122845,
+   "b0": 0,
+   "b1": 42154,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "HQ just sent us a scanning warrant.",
+   "rows": [
+    "HQ just sent us a scanning",
+    "warrant."
+   ],
+   "rows_plain": [
+    "HQ just sent us a scanning warrant."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B110_f11_0b",
+   "line": 161,
+   "act": 1,
+   "sector": 3122,
+   "offset": 100,
+   "size": 122845,
+   "b0": 42154,
+   "b1": 68510,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Under Article 18 of the Civil Code,",
+   "rows": [
+    "Under Article 18 of the",
+    "Civil Code,"
+   ],
+   "rows_plain": [
+    "Under Article 18 of the Civil Code,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B110_f11_0c",
+   "line": 161,
+   "act": 1,
+   "sector": 3122,
+   "offset": 100,
+   "size": 122845,
+   "b0": 68510,
+   "b1": 122845,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "the Human Rights Protection Ordinance on Snatchers, I will now scan Ivan.",
+   "rows": [
+    "the Human Rights Protection",
+    "Ordinance on Snatchers, I",
+    "will now scan Ivan."
+   ],
+   "rows_plain": [
+    "the Human Rights Protection",
+    "Ordinance on Snatchers, I will now",
+    "scan Ivan."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B110_f12_0",
+   "line": 162,
+   "act": 1,
+   "sector": 3174,
+   "offset": 2097,
+   "size": 65015,
+   "b0": 0,
+   "b1": 65015,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The scan is complete. Ivan Rodriguez is entirely Homo sapiens.",
+   "rows": [
+    "The scan is complete. Ivan",
+    "Rodriguez is entirely Homo",
+    "sapiens."
+   ],
+   "rows_plain": [
+    "The scan is complete. Ivan Rodriguez",
+    "is entirely Homo sapiens."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f13_0",
+   "line": 163,
+   "act": 1,
+   "sector": 3202,
+   "offset": 2040,
+   "size": 63664,
+   "b0": 0,
+   "b1": 43401,
+   "speaker": "Ivan",
+   "colour": 2,
+   "en": "That's what I've been telling you! I'm no Snatcher!",
+   "rows": [
+    "That's what I've been",
+    "telling you! I'm no",
+    "Snatcher!"
+   ],
+   "rows_plain": [
+    "That's what I've been telling you!",
+    "I'm no Snatcher!"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f13_0b",
+   "line": 163,
+   "act": 1,
+   "sector": 3202,
+   "offset": 2040,
+   "size": 63664,
+   "b0": 43401,
+   "b1": 63664,
+   "speaker": "Ivan",
+   "colour": 2,
+   "en": "Get me a doctor, quick!",
+   "rows": [
+    "Get me a doctor, quick!"
+   ],
+   "rows_plain": [
+    "Get me a doctor, quick!"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f14_0",
+   "line": 164,
+   "act": 1,
+   "sector": 3230,
+   "offset": 632,
+   "size": 18250,
+   "b0": 0,
+   "b1": 18250,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Try packing the wound with your drugs.",
+   "rows": [
+    "Try packing the wound with",
+    "your drugs."
+   ],
+   "rows_plain": [
+    "Try packing the wound with your",
+    "drugs."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f15_0",
+   "line": 165,
+   "act": 1,
+   "sector": 3238,
+   "offset": 290,
+   "size": 21320,
+   "b0": 0,
+   "b1": 21320,
+   "speaker": "Ivan",
+   "colour": 2,
+   "en": "What did I ever do to you?",
+   "rows": [
+    "What did I ever do to you?"
+   ],
+   "rows_plain": [
+    "What did I ever do to you?"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f16_0",
+   "line": 166,
+   "act": 1,
+   "sector": 3247,
+   "offset": 694,
+   "size": 38540,
+   "b0": 0,
+   "b1": 38540,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The nice men from Narcotics are coming. They will be here soon. Go cry to them.",
+   "rows": [
+    "The nice men from Narcotics",
+    "are coming. They will be",
+    "here soon. Go cry to them."
+   ],
+   "rows_plain": [
+    "The nice men from Narcotics are",
+    "coming. They will be here soon. Go",
+    "cry to them."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f17_0",
+   "line": 167,
+   "act": 1,
+   "sector": 3263,
+   "offset": 2050,
+   "size": 106960,
+   "b0": 0,
+   "b1": 58159,
+   "speaker": "Ivan",
+   "colour": 2,
+   "en": "Hey! Help me! What did I do? I just love aero-surfing!",
+   "rows": [
+    "Hey! Help me! What did I do?",
+    "I just love aero-surfing!"
+   ],
+   "rows_plain": [
+    "Hey! Help me! What did I do? I just",
+    "love aero-surfing!"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f17_0b",
+   "line": 167,
+   "act": 1,
+   "sector": 3263,
+   "offset": 2050,
+   "size": 106960,
+   "b0": 58159,
+   "b1": 106960,
+   "speaker": "Ivan",
+   "colour": 2,
+   "en": "I only wanted to win the championship! I needed money!",
+   "rows": [
+    "I only wanted to win the",
+    "championship! I needed",
+    "money!"
+   ],
+   "rows_plain": [
+    "I only wanted to win the",
+    "championship! I needed money!"
+   ],
+   "enabled": true,
+   "face": [
+    6,
+    6,
+    12
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f18_0",
+   "line": 168,
+   "act": 1,
+   "sector": 3309,
+   "offset": 2106,
+   "size": 47535,
+   "b0": 0,
+   "b1": 47535,
+   "speaker": "Ivan",
+   "colour": 2,
+   "en": "They're only drugs! Even kids have them!",
+   "rows": [
+    "They're only drugs! Even",
+    "kids have them!"
+   ],
+   "rows_plain": [
+    "They're only drugs! Even kids have",
+    "them!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B110_f19_0",
+   "line": 169,
+   "act": 1,
+   "sector": 3330,
+   "offset": 837,
+   "size": 29324,
+   "b0": 0,
+   "b1": 29324,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "So Ivan Rodriguez wasn't a Snatcher at all.",
+   "rows": [
+    "So Ivan Rodriguez wasn't a",
+    "Snatcher at all."
+   ],
+   "rows_plain": [
+    "So Ivan Rodriguez wasn't a Snatcher",
+    "at all."
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_f20_0",
+   "line": 170,
+   "act": 1,
+   "sector": 3342,
+   "offset": 2273,
+   "size": 74754,
+   "b0": 0,
+   "b1": 74754,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Unlucky for him. His face just happened to match. That leaves Freddy Nielsen.",
+   "rows": [
+    "Unlucky for him. His face",
+    "just happened to match. That",
+    "leaves Freddy Nielsen."
+   ],
+   "rows_plain": [
+    "Unlucky for him. His face just",
+    "happened to match. That leaves",
+    "Freddy Nielsen."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B110_c4f22",
+   "line": 254,
+   "act": 1,
+   "sector": 4838,
+   "offset": 957,
+   "size": 10635,
+   "b0": 0,
+   "b1": 10635,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Ow!",
+   "rows": [
+    "Ow!"
+   ],
+   "rows_plain": [
+    "Ow!"
+   ],
+   "enabled": true,
+   "note": "line 254 (Gillian's cry after Ivan's attack) plays here too: found uncarded by the regression (satsubcheck UNCARDED); B120_c4f22 is the same line"
+  }
+ ]
+}

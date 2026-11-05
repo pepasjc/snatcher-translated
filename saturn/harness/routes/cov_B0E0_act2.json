@@ -1,0 +1,89 @@
+{
+ "scene": "B0E0",
+ "note": "Coverage: Joy Division at Christmas (Act 2, from the B190 Altamira scene save): ride there, go in, look around the shop until the videotape on the floor turns up, then Metal plays it (B0E0_001..020: Item > Use > Videotape) - the tape is an Act 2 find (the capsule machine and Santa costume lines sit beside it in the bank).",
+ "actions": [
+  {
+   "wait_menu": true,
+   "patience": 8000
+  },
+  {
+   "path": [
+    "Board Tricycle"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Joy Division"
+   ],
+   "optional": true,
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true,
+   "patience": 6000
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Sniff"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Move",
+    "Enter shop"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Ask",
+    "Buy something"
+   ],
+   "rounds": 4
+  },
+  {
+   "path": [
+    "Investigate",
+    "Videotape"
+   ],
+   "optional": true,
+   "reps": 2
+  },
+  {
+   "path": [
+    "Item",
+    "Use",
+    "Videotape"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Item",
+    "Look",
+    "Videotape"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Ask"
+   ],
+   "rounds": 2
+  },
+  {
+   "idle": 600
+  }
+ ]
+}

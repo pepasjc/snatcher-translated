@@ -1,0 +1,705 @@
+{
+ "scene": "B130",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B130_r_00",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 54,
+   "b1": 518646,
+   "size": 17178858,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "That was close. You were nearly a dead man.",
+   "rows": [
+    "That was close. You were",
+    "nearly a dead man."
+   ],
+   "rows_plain": [
+    "That was close. You were nearly a",
+    "dead man."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B130_r_01",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 518646,
+   "b1": 691510,
+   "size": 17178858,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Who are you?",
+   "rows": [
+    "Who are you?"
+   ],
+   "rows_plain": [
+    "Who are you?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B130_r_02",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 691510,
+   "b1": 1300538,
+   "size": 17178858,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Me? Randam Hajile. Bounty hunter.",
+   "rows": [
+    "Me? Randam Hajile. Bounty",
+    "hunter."
+   ],
+   "rows_plain": [
+    "Me? Randam Hajile. Bounty hunter."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B130_r_03",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 1300538,
+   "b1": 1550230,
+   "size": 17178858,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Bounty hunter?",
+   "rows": [
+    "Bounty hunter?"
+   ],
+   "rows_plain": [
+    "Bounty hunter?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B130_r_04",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 1550230,
+   "b1": 1971986,
+   "size": 17178858,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "A civilian who hunts for rewards. JUNKER work is dangerous.",
+   "rows": [
+    "A civilian who hunts for",
+    "rewards. JUNKER work is",
+    "dangerous."
+   ],
+   "rows_plain": [
+    "A civilian who hunts for rewards.",
+    "JUNKER work is dangerous."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B130_r_04b",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 1971986,
+   "b1": 2424154,
+   "size": 17178858,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Their numbers fall every year.",
+   "rows": [
+    "Their numbers fall every",
+    "year."
+   ],
+   "rows_plain": [
+    "Their numbers fall every year."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B130_r_04c",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 2424154,
+   "b1": 2777086,
+   "size": 17178858,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "So the government put bounties on Snatchers to enlist public help.",
+   "rows": [
+    "So the government put",
+    "bounties on Snatchers to",
+    "enlist public help."
+   ],
+   "rows_plain": [
+    "So the government put bounties on",
+    "Snatchers to enlist public help."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B130_r_04d",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 2777086,
+   "b1": 3347698,
+   "size": 17178858,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Of course, hunters must register first.",
+   "rows": [
+    "Of course, hunters must",
+    "register first."
+   ],
+   "rows_plain": [
+    "Of course, hunters must register",
+    "first."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B130_r_06",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 3347698,
+   "b1": 3758250,
+   "size": 17178858,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Randam, was it? Were you following me?",
+   "rows": [
+    "Randam, was it? Were you",
+    "following me?"
+   ],
+   "rows_plain": [
+    "Randam, was it? Were you following",
+    "me?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B130_r_07",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 3758250,
+   "b1": 4591362,
+   "size": 17178858,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Detective work isn't my style. You find them. I take them out.",
+   "rows": [
+    "Detective work isn't my",
+    "style. You find them. I take",
+    "them out."
+   ],
+   "rows_plain": [
+    "Detective work isn't my style. You",
+    "find them. I take them out."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B130_r_08",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 4591362,
+   "b1": 5237202,
+   "size": 17178858,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Regulations require your bounty hunter registration number. I'll verify it.",
+   "rows": [
+    "Regulations require your",
+    "bounty hunter registration",
+    "number. I'll verify it."
+   ],
+   "rows_plain": [
+    "Regulations require your bounty",
+    "hunter registration number. I'll",
+    "verify it."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B130_r_09",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 5237202,
+   "b1": 6312002,
+   "size": 17178858,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "BH-75001. Randam Hajile. R-A-N-D-A-M H-A-J-I-L-E.",
+   "rows": [
+    "BH-75001. Randam Hajile.",
+    "R-A-N-D-A-M H-A-J-I-L-E."
+   ],
+   "rows_plain": [
+    "BH-75001. Randam Hajile.",
+    "R-A-N-D-A-M H-A-J-I-L-E."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B130_r_10",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 6312002,
+   "b1": 7414014,
+   "size": 17178858,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "BH-75001, Randam Hajile. Confirmed. You are a bounty hunter.",
+   "rows": [
+    "BH-75001, Randam Hajile.",
+    "Confirmed. You are a bounty",
+    "hunter."
+   ],
+   "rows_plain": [
+    "BH-75001, Randam Hajile. Confirmed.",
+    "You are a bounty hunter."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B130_r_10b",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 7414014,
+   "b1": 8395178,
+   "size": 17178858,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Gillian, he's already disposed of three Snatchers. Freddy makes four.",
+   "rows": [
+    "Gillian, he's already",
+    "disposed of three Snatchers.",
+    "Freddy makes four."
+   ],
+   "rows_plain": [
+    "Gillian, he's already disposed of",
+    "three Snatchers. Freddy makes four."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B130_r_12",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 8395178,
+   "b1": 8584850,
+   "size": 17178858,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Four?",
+   "rows": [
+    "Four?"
+   ],
+   "rows_plain": [
+    "Four?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B130_r_13",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 8584850,
+   "b1": 9019410,
+   "size": 17178858,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "I've been at this longer than you. Don't rush it, rookie.",
+   "rows": [
+    "I've been at this longer",
+    "than you. Don't rush it,",
+    "rookie."
+   ],
+   "rows_plain": [
+    "I've been at this longer than you.",
+    "Don't rush it, rookie."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B130_r_13b",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 9019410,
+   "b1": 9453974,
+   "size": 17178858,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Here's a tip for you, Mr. JUNKER.",
+   "rows": [
+    "Here's a tip for you, Mr.",
+    "JUNKER."
+   ],
+   "rows_plain": [
+    "Here's a tip for you, Mr. JUNKER."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B130_r_13c",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 9453974,
+   "b1": 10139830,
+   "size": 17178858,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "You might already know this, but their artificial skin is their weak point.",
+   "rows": [
+    "You might already know this,",
+    "but their artificial skin is",
+    "their weak point."
+   ],
+   "rows_plain": [
+    "You might already know this, but",
+    "their artificial skin is their weak",
+    "point."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B130_r_13d",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 10139830,
+   "b1": 10712842,
+   "size": 17178858,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Ultraviolet light apparently makes their skin cancerous.",
+   "rows": [
+    "Ultraviolet light apparently",
+    "makes their skin cancerous."
+   ],
+   "rows_plain": [
+    "Ultraviolet light apparently makes",
+    "their skin cancerous."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B130_r_13e",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 10712842,
+   "b1": 11253842,
+   "size": 17178858,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "So they've secured a hospital to maintain it.",
+   "rows": [
+    "So they've secured a",
+    "hospital to maintain it."
+   ],
+   "rows_plain": [
+    "So they've secured a hospital to",
+    "maintain it."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B130_r_13f",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 11253842,
+   "b1": 11700410,
+   "size": 17178858,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Hit that hospital and you can wipe them all out.",
+   "rows": [
+    "Hit that hospital and you",
+    "can wipe them all out."
+   ],
+   "rows_plain": [
+    "Hit that hospital and you can wipe",
+    "them all out."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B130_r_17",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 11700410,
+   "b1": 12367058,
+   "size": 17178858,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "How do you know? I get it. You stole Gibson's information.",
+   "rows": [
+    "How do you know? I get it.",
+    "You stole Gibson's",
+    "information."
+   ],
+   "rows_plain": [
+    "How do you know? I get it. You stole",
+    "Gibson's information."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B130_r_18",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 12367058,
+   "b1": 13303406,
+   "size": 17178858,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Never mind that. With Gibson gone, I'll need you to do the work. That's how it is.",
+   "rows": [
+    "Never mind that. With Gibson",
+    "gone, I'll need you to do",
+    "the work. That's how it is."
+   ],
+   "rows_plain": [
+    "Never mind that. With Gibson gone,",
+    "I'll need you to do the work. That's",
+    "how it is."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B130_r_18b",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 13303406,
+   "b1": 13775582,
+   "size": 17178858,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "You're the JUNKER. Anyway, Gibson seems to have found that hospital.",
+   "rows": [
+    "You're the JUNKER. Anyway,",
+    "Gibson seems to have found",
+    "that hospital."
+   ],
+   "rows_plain": [
+    "You're the JUNKER. Anyway, Gibson",
+    "seems to have found that hospital."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B130_r_18c",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 13775582,
+   "b1": 14097302,
+   "size": 17178858,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "He must have left some kind of clue.",
+   "rows": [
+    "He must have left some kind",
+    "of clue."
+   ],
+   "rows_plain": [
+    "He must have left some kind of clue."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B130_r_21",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 14097302,
+   "b1": 14505454,
+   "size": 17178858,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Seems to? You don't know a thing, do you, Randam?",
+   "rows": [
+    "Seems to? You don't know a",
+    "thing, do you, Randam?"
+   ],
+   "rows_plain": [
+    "Seems to? You don't know a thing, do",
+    "you, Randam?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B130_r_22",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 14505454,
+   "b1": 15571450,
+   "size": 17178858,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Finding out is your job.",
+   "rows": [
+    "Finding out is your job."
+   ],
+   "rows_plain": [
+    "Finding out is your job."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B130_r_23",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 15571450,
+   "b1": 15789934,
+   "size": 17178858,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "I owe you one, Randam.",
+   "rows": [
+    "I owe you one, Randam."
+   ],
+   "rows_plain": [
+    "I owe you one, Randam."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B130_r_24",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 15789934,
+   "b1": 16737486,
+   "size": 17178858,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "You can pay me back someday. See you, JUNKER.",
+   "rows": [
+    "You can pay me back someday.",
+    "See you, JUNKER."
+   ],
+   "rows_plain": [
+    "You can pay me back someday. See",
+    "you, JUNKER."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B130_r_26",
+   "reel": 145,
+   "sdaif": "SDAIF_E5.AIF",
+   "rate": 30000,
+   "frames": 4294701,
+   "b0": 16737486,
+   "b1": 17178858,
+   "size": 17178858,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "He's a Snatcher hunter, all right. There's a Snatcher in him.",
+   "rows": [
+    "He's a Snatcher hunter, all",
+    "right. There's a Snatcher in",
+    "him."
+   ],
+   "rows_plain": [
+    "He's a Snatcher hunter, all right.",
+    "There's a Snatcher in him."
+   ],
+   "enabled": true,
+   "face_char": 5
+  }
+ ]
+}

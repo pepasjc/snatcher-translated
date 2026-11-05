@@ -1,0 +1,420 @@
+[
+{
+"choose": "JUNKER HQ"
+},
+{
+"read": 8000
+},
+{
+"choose": "Exit Tricycle"
+},
+{
+"read": 8000
+},
+{
+"save": "hq5"
+},
+{
+"items": 1
+},
+{
+"sweep": "Talk",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Ask",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"choose": "Item"
+},
+{
+"choose": "Show"
+},
+{
+"items": 1
+},
+{
+"maybe": "Evidence"
+},
+{
+"maybe": "Medical chart"
+},
+{
+"read": 8000
+},
+{
+"sweep": "Talk",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"sweep": "Ask",
+"rounds": 2
+},
+{
+"read": 3000
+},
+{
+"save": "hq5_front"
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Mechanic room"
+},
+{
+"read": 6000
+},
+{
+"items": 1
+},
+{
+"choose": "Look"
+},
+{
+"choose": ["On the desk", "Desk"]
+},
+{
+"read": 6000
+},
+{
+"choose": "Look"
+},
+{
+"choose": "Matches"
+},
+{
+"read": 6000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Matches"
+},
+{
+"read": 6000
+},
+{
+"choose": "Look"
+},
+{
+"choose": "Memo"
+},
+{
+"read": 6000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Memo"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"save": "hq5_mech"
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Chief's room"
+},
+{
+"read": 6000
+},
+{
+"items": 1
+},
+{
+"choose": "Look"
+},
+{
+"choose": "Picture"
+},
+{
+"read": 6000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Picture"
+},
+{
+"read": 6000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Picture"
+},
+{
+"read": 6000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Photo"
+},
+{
+"read": 6000
+},
+{
+"choose": "Look"
+},
+{
+"choose": "Photo"
+},
+{
+"read": 6000
+},
+{
+"choose": "Investigate"
+},
+{
+"choose": "Photo"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"save": "hq5_chief"
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Computer room"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Squad room"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Shooting range"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Look",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Investigate",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Front desk"
+},
+{
+"read": 6000
+},
+{
+"sweep": "Talk",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"sweep": "Ask",
+"rounds": 1
+},
+{
+"read": 3000
+},
+{
+"save": "hq5_done"
+},
+{
+"choose": "Move"
+},
+{
+"choose": "Board Tricycle"
+},
+{
+"read": 6000
+},
+{
+"read": 15000
+},
+{
+"items": 1
+},
+{
+"save": "hq5_trike"
+},
+{
+"choose": [
+"Queen Hospital",
+"Exit Tricycle"
+]
+},
+{
+"read": 15000
+},
+{
+"items": 1
+},
+{
+"save": "crash"
+},
+{
+"repeat": [
+{
+"maybe": "Pull the lever"
+},
+{
+"read": 8000
+},
+{
+"maybe": "Jump off"
+},
+{
+"read": 8000
+},
+{
+"maybe": "Give up"
+},
+{
+"read": 8000
+},
+{
+"maybe": "Hit the cliff"
+},
+{
+"read": 8000
+},
+{
+"maybe": "Drive into sand"
+},
+{
+"read": 8000
+},
+{
+"maybe": "Press button"
+},
+{
+"read": 8000
+},
+{
+"maybe": "Stick feet out"
+},
+{
+"read": 8000
+},
+{
+"maybe": "Pray to God"
+},
+{
+"read": 8000
+},
+{
+"items": 1
+}
+],
+"until": "Move",
+"max": 6
+},
+{
+"read": 20000
+},
+{
+"items": 1
+},
+{
+"save": "act2_f_end"
+}
+]

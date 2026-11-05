@@ -1,0 +1,155 @@
+{
+ "scene": "B230",
+ "fight": "corners",
+ "note": "Coverage (B_hq): from the B230_arrive bookmark (HQ front after the taxi, PILOT_OK=cross) - the booth (Look/Investigate until Open shutter: Mika, f20-f42), the hallway with Harry's death reel (S000 ch1 f2, B230_h_*), then B230.json: every room, the Chief's office desk/stain, Search > Ceiling (the one-shot ceiling fight, lights out, the blood trail f43-f52), every room again, Hallway, Front (f53-f69, the final Act 2 fight), stopping at the B240 handover.",
+ "actions": [
+  {
+   "path": [
+    "Go inside"
+   ],
+   "patience": 1800
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Use Metal Gear",
+    "Open shutter"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Save",
+    "Quit game"
+   ]
+  },
+  {
+   "save": "cov_B230_hall"
+  },
+  {
+   "save": "cov_B230_start"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Search",
+    "Motion detector"
+   ],
+   "rounds": 1
+  },
+  {
+   "sweep": [
+    "Move"
+   ],
+   "each": [
+    "Look",
+    "Investigate",
+    "Search",
+    "Motion detector"
+   ],
+   "each_rounds": 1,
+   "rounds": 1,
+   "avoid": [
+    "Hallway"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Chief's room"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Look",
+    "Desk"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Look",
+    "Stain"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Investigate",
+    "Stain"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Search",
+    "Ceiling"
+   ],
+   "optional": true
+  },
+  {
+   "save": "cov_B230_ceiling"
+  },
+  {
+   "sweep": [
+    "Move"
+   ],
+   "each": [
+    "Look",
+    "Search",
+    "Motion detector"
+   ],
+   "each_rounds": 1,
+   "rounds": 1,
+   "avoid": [
+    "Chief's room",
+    "Chief's room"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Hallway"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Move",
+    "Front desk"
+   ],
+   "optional": true
+  },
+  {
+   "save": "cov_B230_front"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Search",
+    "Motion detector",
+    "Ask",
+    "Talk"
+   ],
+   "rounds": 2
+  },
+  {
+   "path": [
+    "Continue"
+   ],
+   "optional": true
+  },
+  {
+   "save": "cov_B240_start"
+  }
+ ]
+}

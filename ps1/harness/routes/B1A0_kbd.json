@@ -1,0 +1,2 @@
+{"scene":"B1A0","note":"The hospital-name keyboard: Search list, then type QUEEN and submit.",
+ "actions":[{"path":["Check the list"],"patience":600},{"type":"QUEEN","then":"start"},{"save":"B1A0_queen"},{"sweep":["Investigate","Look","Ask","Talk"],"rounds":2,"avoid":["Go out"]},{"save":"B1A0_after"}]}

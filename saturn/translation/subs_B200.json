@@ -1,0 +1,1278 @@
+{
+ "scene": "B200",
+ "options": {
+  "layout": "band",
+  "cols": 14,
+  "rows": 3,
+  "col0": 6,
+  "plain_cols": 18,
+  "plain_rows": 3,
+  "bytes_per_s": 11025
+ },
+ "cues": [
+  {
+   "id": "B200_f78_0",
+   "line": 478,
+   "act": 2,
+   "sector": 3754,
+   "offset": 1832,
+   "size": 17663,
+   "b0": 0,
+   "b1": 17663,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Huh? What's this?",
+   "rows": [
+    "Huh? What's this?"
+   ],
+   "rows_plain": [
+    "Huh? What's this?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B200_f79_0",
+   "line": 479,
+   "act": 2,
+   "sector": 3762,
+   "offset": 903,
+   "size": 23099,
+   "b0": 0,
+   "b1": 23099,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Isn't this the hospital corridor?",
+   "rows": [
+    "Isn't this the hospital",
+    "corridor?"
+   ],
+   "rows_plain": [
+    "Isn't this the hospital corridor?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_f80_0",
+   "line": 480,
+   "act": 2,
+   "sector": 3772,
+   "offset": 762,
+   "size": 50824,
+   "b0": 0,
+   "b1": 50824,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "It looks the same, but this isn't the ground floor.",
+   "rows": [
+    "It looks the same, but this",
+    "isn't the ground floor."
+   ],
+   "rows_plain": [
+    "It looks the same, but this isn't",
+    "the ground floor."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_f81_0",
+   "line": 481,
+   "act": 2,
+   "sector": 3794,
+   "offset": 458,
+   "size": 14586,
+   "b0": 0,
+   "b1": 14586,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What's going on?",
+   "rows": [
+    "What's going on?"
+   ],
+   "rows_plain": [
+    "What's going on?"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_f82_0",
+   "line": 482,
+   "act": 2,
+   "sector": 3800,
+   "offset": 1100,
+   "size": 50206,
+   "b0": 0,
+   "b1": 50206,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "A whole floor of Queen Hospital is duplicated underground.",
+   "rows": [
+    "A whole floor of Queen",
+    "Hospital is duplicated",
+    "underground."
+   ],
+   "rows_plain": [
+    "A whole floor of Queen Hospital is",
+    "duplicated underground."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_f83_0",
+   "line": 483,
+   "act": 2,
+   "sector": 3822,
+   "offset": 178,
+   "size": 37159,
+   "b0": 0,
+   "b1": 37159,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "So there are identical floors above and below ground.",
+   "rows": [
+    "So there are identical",
+    "floors above and below",
+    "ground."
+   ],
+   "rows_plain": [
+    "So there are identical floors above",
+    "and below ground."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_f84_0",
+   "line": 484,
+   "act": 2,
+   "sector": 3838,
+   "offset": 153,
+   "size": 122284,
+   "b0": 0,
+   "b1": 59510,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "The run-down ground floor is a decoy to hide this level.",
+   "rows": [
+    "The run-down ground floor is",
+    "a decoy to hide this level."
+   ],
+   "rows_plain": [
+    "The run-down ground floor is a decoy",
+    "to hide this level."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_f84_1",
+   "line": 484,
+   "act": 2,
+   "sector": 3838,
+   "offset": 153,
+   "size": 122284,
+   "b0": 59510,
+   "b1": 122284,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "They made it look abandoned, while working around the clock underground.",
+   "rows": [
+    "They made it look abandoned,",
+    "while working around the",
+    "clock underground."
+   ],
+   "rows_plain": [
+    "They made it look abandoned, while",
+    "working around the clock",
+    "underground."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_f85_0",
+   "line": 485,
+   "act": 2,
+   "sector": 3890,
+   "offset": 1589,
+   "size": 68251,
+   "b0": 0,
+   "b1": 45525,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "That means we're already inside the Snatchers' base, Gillian.",
+   "rows": [
+    "That means we're already",
+    "inside the Snatchers' base,",
+    "Gillian."
+   ],
+   "rows_plain": [
+    "That means we're already inside the",
+    "Snatchers' base, Gillian."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_f85_0b",
+   "line": 485,
+   "act": 2,
+   "sector": 3890,
+   "offset": 1589,
+   "size": 68251,
+   "b0": 45525,
+   "b1": 68251,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's proceed carefully.",
+   "rows": [
+    "Let's proceed carefully."
+   ],
+   "rows_plain": [
+    "Let's proceed carefully."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_f86_0",
+   "line": 486,
+   "act": 2,
+   "sector": 3920,
+   "offset": 120,
+   "size": 30321,
+   "b0": 0,
+   "b1": 30321,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Let's try pressing both buttons at once.",
+   "rows": [
+    "Let's try pressing both",
+    "buttons at once."
+   ],
+   "rows_plain": [
+    "Let's try pressing both buttons at",
+    "once."
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B200_c7f1_0",
+   "line": 487,
+   "act": 2,
+   "sector": 3933,
+   "offset": 229,
+   "size": 72362,
+   "b0": 0,
+   "b1": 51009,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "They're too far apart for one person to press both.",
+   "rows": [
+    "They're too far apart for",
+    "one person to press both."
+   ],
+   "rows_plain": [
+    "They're too far apart for one person",
+    "to press both."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f1_0b",
+   "line": 487,
+   "act": 2,
+   "sector": 3933,
+   "offset": 229,
+   "size": 72362,
+   "b0": 51009,
+   "b1": 72362,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "But two people might manage it.",
+   "rows": [
+    "But two people might manage",
+    "it."
+   ],
+   "rows_plain": [
+    "But two people might manage it."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f2_0",
+   "line": 488,
+   "act": 2,
+   "sector": 3964,
+   "offset": 547,
+   "size": 80706,
+   "b0": 0,
+   "b1": 47919,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "That's it, Gillian. A popular method in the late twentieth century.",
+   "rows": [
+    "That's it, Gillian. A",
+    "popular method in the late",
+    "twentieth century."
+   ],
+   "rows_plain": [
+    "That's it, Gillian. A popular method",
+    "in the late twentieth century."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f2_0b",
+   "line": 488,
+   "act": 2,
+   "sector": 3964,
+   "offset": 547,
+   "size": 80706,
+   "b0": 47919,
+   "b1": 80706,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Nuclear silos used it to prevent unauthorized launches.",
+   "rows": [
+    "Nuclear silos used it to",
+    "prevent unauthorized",
+    "launches."
+   ],
+   "rows_plain": [
+    "Nuclear silos used it to prevent",
+    "unauthorized launches."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f3_0",
+   "line": 489,
+   "act": 2,
+   "sector": 3998,
+   "offset": 2237,
+   "size": 100588,
+   "b0": 0,
+   "b1": 82245,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Hard to say for sure. Let's try it anyway. I'll press number 1.",
+   "rows": [
+    "Hard to say for sure. Let's",
+    "try it anyway. I'll press",
+    "number 1."
+   ],
+   "rows_plain": [
+    "Hard to say for sure. Let's try it",
+    "anyway. I'll press number 1."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f3_0b",
+   "line": 489,
+   "act": 2,
+   "sector": 3998,
+   "offset": 2237,
+   "size": 100588,
+   "b0": 82245,
+   "b1": 100588,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Randam, you press number 2.",
+   "rows": [
+    "Randam, you press number 2."
+   ],
+   "rows_plain": [
+    "Randam, you press number 2."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f4_0",
+   "line": 490,
+   "act": 2,
+   "sector": 4042,
+   "offset": 569,
+   "size": 16686,
+   "b0": 0,
+   "b1": 16686,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Ready? Now!",
+   "rows": [
+    "Ready? Now!"
+   ],
+   "rows_plain": [
+    "Ready? Now!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f5_0",
+   "line": 491,
+   "act": 2,
+   "sector": 4049,
+   "offset": 987,
+   "size": 5165,
+   "b0": 0,
+   "b1": 5165,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Now!",
+   "rows": [
+    "Now!"
+   ],
+   "rows_plain": [
+    "Now!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f6_0",
+   "line": 492,
+   "act": 2,
+   "sector": 4051,
+   "offset": 1504,
+   "size": 34757,
+   "b0": 0,
+   "b1": 34757,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "It worked! Door 3 is open!",
+   "rows": [
+    "It worked! Door 3 is open!"
+   ],
+   "rows_plain": [
+    "It worked! Door 3 is open!"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f7_0",
+   "line": 493,
+   "act": 2,
+   "sector": 4066,
+   "offset": 1401,
+   "size": 36642,
+   "b0": 0,
+   "b1": 36642,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Must be a pretty important room.",
+   "rows": [
+    "Must be a pretty important",
+    "room."
+   ],
+   "rows_plain": [
+    "Must be a pretty important room."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f8_0",
+   "line": 494,
+   "act": 2,
+   "sector": 4082,
+   "offset": 859,
+   "size": 5289,
+   "b0": 0,
+   "b1": 5289,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Did we get it?",
+   "rows": [
+    "Did we get it?"
+   ],
+   "rows_plain": [
+    "Did we get it?"
+   ],
+   "enabled": true,
+   "face": [
+    4,
+    4,
+    4
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B200_c7f9_0",
+   "line": 495,
+   "act": 2,
+   "sector": 4084,
+   "offset": 1500,
+   "size": 17789,
+   "b0": 0,
+   "b1": 17789,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The Snatcher has shut down.",
+   "rows": [
+    "The Snatcher has shut down."
+   ],
+   "rows_plain": [
+    "The Snatcher has shut down."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f10_0",
+   "line": 496,
+   "act": 2,
+   "sector": 4092,
+   "offset": 697,
+   "size": 99425,
+   "b0": 0,
+   "b1": 43868,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "So this really is their maintenance hospital.",
+   "rows": [
+    "So this really is their",
+    "maintenance hospital."
+   ],
+   "rows_plain": [
+    "So this really is their maintenance",
+    "hospital."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f10_0b",
+   "line": 496,
+   "act": 2,
+   "sector": 4092,
+   "offset": 697,
+   "size": 99425,
+   "b0": 43868,
+   "b1": 99425,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "This Snatcher probably hadn't been covered with artificial skin yet.",
+   "rows": [
+    "This Snatcher probably",
+    "hadn't been covered with",
+    "artificial skin yet."
+   ],
+   "rows_plain": [
+    "This Snatcher probably hadn't been",
+    "covered with artificial skin yet."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f11_0",
+   "line": 497,
+   "act": 2,
+   "sector": 4135,
+   "offset": 190,
+   "size": 22026,
+   "b0": 0,
+   "b1": 22026,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "So this is what a Snatcher really looks like.",
+   "rows": [
+    "So this is what a Snatcher",
+    "really looks like."
+   ],
+   "rows_plain": [
+    "So this is what a Snatcher really",
+    "looks like."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f12_0",
+   "line": 498,
+   "act": 2,
+   "sector": 4144,
+   "offset": 1300,
+   "size": 128242,
+   "b0": 0,
+   "b1": 60150,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "This must be their original form. An endoskeleton.",
+   "rows": [
+    "This must be their original",
+    "form. An endoskeleton."
+   ],
+   "rows_plain": [
+    "This must be their original form. An",
+    "endoskeleton."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f12_0b",
+   "line": 498,
+   "act": 2,
+   "sector": 4144,
+   "offset": 1300,
+   "size": 128242,
+   "b0": 60150,
+   "b1": 128242,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "They snatch people and put on false skin, adjusting their bodies to fit.",
+   "rows": [
+    "They snatch people and put",
+    "on false skin, adjusting",
+    "their bodies to fit."
+   ],
+   "rows_plain": [
+    "They snatch people and put on false",
+    "skin, adjusting their bodies to fit."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f13_0",
+   "line": 499,
+   "act": 2,
+   "sector": 4199,
+   "offset": 1722,
+   "size": 70680,
+   "b0": 0,
+   "b1": 27683,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "What's truly frightening is that once covered in skin,",
+   "rows": [
+    "What's truly frightening is",
+    "that once covered in skin,"
+   ],
+   "rows_plain": [
+    "What's truly frightening is that",
+    "once covered in skin,"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f13_0b",
+   "line": 499,
+   "act": 2,
+   "sector": 4199,
+   "offset": 1722,
+   "size": 70680,
+   "b0": 27683,
+   "b1": 70680,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "they're indistinguishable from humans.",
+   "rows": [
+    "they're indistinguishable",
+    "from humans."
+   ],
+   "rows_plain": [
+    "they're indistinguishable from",
+    "humans."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f14_0",
+   "line": 500,
+   "act": 2,
+   "sector": 4230,
+   "offset": 358,
+   "size": 53111,
+   "b0": 0,
+   "b1": 53111,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Human or Snatcher? Human weakness leads to mistakes.",
+   "rows": [
+    "Human or Snatcher? Human",
+    "weakness leads to mistakes."
+   ],
+   "rows_plain": [
+    "Human or Snatcher? Human weakness",
+    "leads to mistakes."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f15_0",
+   "line": 501,
+   "act": 2,
+   "sector": 4253,
+   "offset": 17,
+   "size": 33485,
+   "b0": 0,
+   "b1": 33485,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "And they take advantage of that weakness.",
+   "rows": [
+    "And they take advantage of",
+    "that weakness."
+   ],
+   "rows_plain": [
+    "And they take advantage of that",
+    "weakness."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f16_0",
+   "line": 502,
+   "act": 2,
+   "sector": 4267,
+   "offset": 966,
+   "size": 65721,
+   "b0": 0,
+   "b1": 43764,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Let's go, Metal, Randam. HQ's junk squad can handle this.",
+   "rows": [
+    "Let's go, Metal, Randam.",
+    "HQ's junk squad can handle",
+    "this."
+   ],
+   "rows_plain": [
+    "Let's go, Metal, Randam. HQ's junk",
+    "squad can handle this."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f16_0b",
+   "line": 502,
+   "act": 2,
+   "sector": 4267,
+   "offset": 966,
+   "size": 65721,
+   "b0": 43764,
+   "b1": 65721,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "We have an investigation to finish.",
+   "rows": [
+    "We have an investigation to",
+    "finish."
+   ],
+   "rows_plain": [
+    "We have an investigation to finish."
+   ],
+   "enabled": true
+  },
+  {
+   "id": "B200_c7f17_0",
+   "line": 503,
+   "act": 2,
+   "sector": 4295,
+   "offset": 1615,
+   "size": 13346,
+   "b0": 0,
+   "b1": 13346,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Behind you, Gillian!",
+   "rows": [
+    "Behind you, Gillian!"
+   ],
+   "rows_plain": [
+    "Behind you, Gillian!"
+   ],
+   "enabled": true,
+   "face": [
+    5,
+    5,
+    8
+   ],
+   "face_src": "own"
+  },
+  {
+   "id": "B200_m_pre",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 864282,
+   "b1": 1144358,
+   "size": 11951426,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "What the hell?",
+   "rows": [
+    "What the hell?"
+   ],
+   "rows_plain": [
+    "What the hell?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_m_00",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 1144358,
+   "b1": 1521258,
+   "size": 11951426,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Four skeletal bodies.",
+   "rows": [
+    "Four skeletal bodies."
+   ],
+   "rows_plain": [
+    "Four skeletal bodies."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B200_m_01",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 1521258,
+   "b1": 1718110,
+   "size": 11951426,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "It's a morgue, all right.",
+   "rows": [
+    "It's a morgue, all right."
+   ],
+   "rows_plain": [
+    "It's a morgue, all right."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_m_02",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 1718110,
+   "b1": 1962978,
+   "size": 11951426,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "Could they be Snatcher victims?",
+   "rows": [
+    "Could they be Snatcher",
+    "victims?"
+   ],
+   "rows_plain": [
+    "Could they be Snatcher victims?"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B200_m_03",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 1962978,
+   "b1": 2730382,
+   "size": 11951426,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "These guys sure aren't resting in peace.",
+   "rows": [
+    "These guys sure aren't",
+    "resting in peace."
+   ],
+   "rows_plain": [
+    "These guys sure aren't resting in",
+    "peace."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_m_04",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 2730382,
+   "b1": 3025662,
+   "size": 11951426,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "So they are Snatcher victims?",
+   "rows": [
+    "So they are Snatcher",
+    "victims?"
+   ],
+   "rows_plain": [
+    "So they are Snatcher victims?"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_m_05",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 3025662,
+   "b1": 3824274,
+   "size": 11951426,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "The Snatchers chose their victims at places like Outer Heaven, then killed them.",
+   "rows": [
+    "The Snatchers chose their",
+    "victims at places like Outer",
+    "Heaven, then killed them."
+   ],
+   "rows_plain": [
+    "The Snatchers chose their victims at",
+    "places like Outer Heaven, then",
+    "killed them."
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B200_m_05b",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 3824274,
+   "b1": 4458046,
+   "size": 11951426,
+   "speaker": "Metal Gear",
+   "colour": 1,
+   "en": "After taking their places, they hid the originals' bodies here?",
+   "rows": [
+    "After taking their places,",
+    "they hid the originals'",
+    "bodies here?"
+   ],
+   "rows_plain": [
+    "After taking their places, they hid",
+    "the originals' bodies here?"
+   ],
+   "enabled": true,
+   "face_char": 5
+  },
+  {
+   "id": "B200_m_09",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 4458046,
+   "b1": 4842353,
+   "size": 11951426,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "They chose Outer Heaven to find targets",
+   "rows": [
+    "They chose Outer Heaven to",
+    "find targets"
+   ],
+   "rows_plain": [
+    "They chose Outer Heaven to find",
+    "targets"
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_m_09b",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 4842353,
+   "b1": 5347845,
+   "size": 11951426,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "because VIPs from all walks of life gather there.",
+   "rows": [
+    "because VIPs from all walks",
+    "of life gather there."
+   ],
+   "rows_plain": [
+    "because VIPs from all walks of life",
+    "gather there."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_m_09bx",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 5347845,
+   "b1": 5840014,
+   "size": 11951426,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "And costume time lets them hide their faces.",
+   "rows": [
+    "And costume time lets them",
+    "hide their faces."
+   ],
+   "rows_plain": [
+    "And costume time lets them hide",
+    "their faces."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_m_11",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 5840014,
+   "b1": 6569810,
+   "size": 11951426,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Their link to Outer Heaven was Freddy, the taxi driver.",
+   "rows": [
+    "Their link to Outer Heaven",
+    "was Freddy, the taxi driver."
+   ],
+   "rows_plain": [
+    "Their link to Outer Heaven was",
+    "Freddy, the taxi driver."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_m_11b",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 6569810,
+   "b1": 7294006,
+   "size": 11951426,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "They didn't snatch him for who he was. They wanted to use his taxi.",
+   "rows": [
+    "They didn't snatch him for",
+    "who he was. They wanted to",
+    "use his taxi."
+   ],
+   "rows_plain": [
+    "They didn't snatch him for who he",
+    "was. They wanted to use his taxi."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_m_11c",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 7294006,
+   "b1": 7644498,
+   "size": 11951426,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "It brought them into contact with plenty of customers.",
+   "rows": [
+    "It brought them into contact",
+    "with plenty of customers."
+   ],
+   "rows_plain": [
+    "It brought them into contact with",
+    "plenty of customers."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_m_11d",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 7644498,
+   "b1": 8258262,
+   "size": 11951426,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "That's how they learned about Outer Heaven and Joy Division.",
+   "rows": [
+    "That's how they learned",
+    "about Outer Heaven and Joy",
+    "Division."
+   ],
+   "rows_plain": [
+    "That's how they learned about Outer",
+    "Heaven and Joy Division."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_m_14",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 8258262,
+   "b1": 8908838,
+   "size": 11951426,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Until now, we didn't know how they disposed of their victims' bodies.",
+   "rows": [
+    "Until now, we didn't know",
+    "how they disposed of their",
+    "victims' bodies."
+   ],
+   "rows_plain": [
+    "Until now, we didn't know how they",
+    "disposed of their victims' bodies."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_m_15",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 8908838,
+   "b1": 9784270,
+   "size": 11951426,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "Hide a needle in a pincushion, and a body in a morgue.",
+   "rows": [
+    "Hide a needle in a",
+    "pincushion, and a body in a",
+    "morgue."
+   ],
+   "rows_plain": [
+    "Hide a needle in a pincushion, and a",
+    "body in a morgue."
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_m_16",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 9784270,
+   "b1": 10420442,
+   "size": 11951426,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "Finding the bodies would expose them.",
+   "rows": [
+    "Finding the bodies would",
+    "expose them."
+   ],
+   "rows_plain": [
+    "Finding the bodies would expose",
+    "them."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_m_16b",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 10420442,
+   "b1": 11049410,
+   "size": 11951426,
+   "speaker": "Gillian",
+   "colour": 4,
+   "en": "If someone known to be dead walks around, anyone could see what they really are.",
+   "rows": [
+    "If someone known to be dead",
+    "walks around, anyone could",
+    "see what they really are."
+   ],
+   "rows_plain": [
+    "If someone known to be dead walks",
+    "around, anyone could see what they",
+    "really are."
+   ],
+   "enabled": true,
+   "face_char": 1
+  },
+  {
+   "id": "B200_m_18",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 11049410,
+   "b1": 11500730,
+   "size": 11951426,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "So if we identify these four bodies,",
+   "rows": [
+    "So if we identify these four",
+    "bodies,"
+   ],
+   "rows_plain": [
+    "So if we identify these four bodies,"
+   ],
+   "enabled": true,
+   "face_char": 7
+  },
+  {
+   "id": "B200_m_18b",
+   "reel": 166,
+   "sdaif": "SDAIF_G6.AIF",
+   "rate": 30000,
+   "frames": 2987843,
+   "b0": 11500730,
+   "b1": 11951426,
+   "size": 11951426,
+   "speaker": "Randam",
+   "colour": 3,
+   "en": "we'll know which four people the Snatchers have replaced.",
+   "rows": [
+    "we'll know which four people",
+    "the Snatchers have replaced."
+   ],
+   "rows_plain": [
+    "we'll know which four people the",
+    "Snatchers have replaced."
+   ],
+   "enabled": true,
+   "face_char": 7
+  }
+ ]
+}

@@ -1,0 +1,2820 @@
+{
+ "file": "DATA.BIN[23]",
+ "entry": 23,
+ "text_base": 7731,
+ "twins": [
+  "B020"
+ ],
+ "strings": [
+  {
+   "off": 7732,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  },
+  {
+   "off": 7736,
+   "budget": 27,
+   "en": "Please check the memory.",
+   "src": "B020:7592",
+   "carry": "exact"
+  },
+  {
+   "off": 7763,
+   "budget": 59,
+   "en": "Debug: In factory area 3, you died.￥You're dead.",
+   "src": "B020:7619",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 7822,
+   "budget": 39,
+   "en": "After Gibson checks, figure appears.",
+   "src": "B020:7676",
+   "carry": "exact",
+   "long": "A figure appears after you finish￥examining Gibson."
+  },
+  {
+   "off": 7861,
+   "budget": 37,
+   "en": "The factory ruins.￥What now?",
+   "src": "B020:7715",
+   "carry": "candidate_ok",
+   "en_candidate": "The factory ruins.￥What now?",
+   "sim": 0.94,
+   "long": "We've arrived at the factory ruins.￥What would you like to do?"
+  },
+  {
+   "off": 7898,
+   "budget": 11,
+   "en": "Get out",
+   "src": "B020:7752",
+   "carry": "exact",
+   "long": "Exit Tricycle"
+  },
+  {
+   "off": 7909,
+   "budget": 17,
+   "en": "JUNKER HQ",
+   "src": "B020:7763",
+   "carry": "exact"
+  },
+  {
+   "off": 7926,
+   "budget": 25,
+   "en": "Maybe head back to HQ?",
+   "src": "B020:7780",
+   "carry": "exact",
+   "long": "On second thought, shall we go back￥to HQ?"
+  },
+  {
+   "off": 7951,
+   "budget": 11,
+   "en": "Gillian's",
+   "src": "B020:7805",
+   "carry": "exact",
+   "long": "Gillian's home"
+  },
+  {
+   "off": 7962,
+   "budget": 39,
+   "en": "Jean is waiting. Let's hurry!",
+   "src": "B020:7816",
+   "carry": "exact"
+  },
+  {
+   "off": 8001,
+   "budget": 37,
+   "en": "Let's get to the scene, Gillian!",
+   "src": "B020:7855",
+   "carry": "exact"
+  },
+  {
+   "off": 8038,
+   "budget": 57,
+   "en": "The factory ruins.￥This is where Jean called from.",
+   "src": "B020:7892",
+   "carry": "exact",
+   "long": "We've arrived at the factory ruins.￥This is where Jean called from."
+  },
+  {
+   "off": 8095,
+   "budget": 65,
+   "en": "Gillian, that scream worries me.￥Let's get inside the plant.",
+   "src": "B020:7949",
+   "carry": "exact",
+   "long": "I'm worried about that scream,￥Gillian. Let's get inside the￥factory."
+  },
+  {
+   "off": 8160,
+   "budget": 41,
+   "en": "I'm worried about Jean. Let's hurry!",
+   "src": "B020:8014",
+   "carry": "exact"
+  },
+  {
+   "off": 8201,
+   "budget": 9,
+   "en": "Go in",
+   "src": "B020:8055",
+   "carry": "exact",
+   "long": "Go inside"
+  },
+  {
+   "off": 8210,
+   "budget": 73,
+   "en": "We're going in. Be ready to draw￥your Blaster at any moment!",
+   "src": "B020:8064",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8283,
+   "budget": 57,
+   "en": "Press START to draw your Blaster.",
+   "src": "B020:8135",
+   "carry": "candidate_edit",
+   "en_candidate": "Press SELECT on the controller or￥the right mouse button to draw your￥Blaster.",
+   "sim": 0.62,
+   "note": "re-adapted 2026-09-30: Saturn's START; new PS1 wording"
+  },
+  {
+   "off": 8340,
+   "budget": 89,
+   "en": "＠黄We don't know what's ahead. Save￥your progress in case something￥happens.",
+   "src": "B020:8228",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 8429,
+   "budget": 9,
+   "en": "Get in",
+   "src": "B020:8313",
+   "carry": "exact",
+   "long": "Board Tricycle"
+  },
+  {
+   "off": 8438,
+   "budget": 25,
+   "en": "Dangerous. Head back?",
+   "src": "B020:8322",
+   "carry": "exact",
+   "long": "Looks dangerous. Shall we go home?"
+  },
+  {
+   "off": 8463,
+   "budget": 59,
+   "en": "No! Jean should be waiting for us.￥Let's get moving.",
+   "src": "B020:8347",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 8522,
+   "budget": 35,
+   "en": "Looks too scary. Shall we go home?",
+   "src": "B020:8402",
+   "carry": "exact",
+   "long": "It does look scary. Shall we go home￥after all?"
+  },
+  {
+   "off": 8557,
+   "budget": 61,
+   "en": "You're a JUNKER now. Pull yourself￥together!",
+   "src": "B020:8437",
+   "carry": "exact"
+  },
+  {
+   "off": 8618,
+   "budget": 25,
+   "en": "Are we really going in?",
+   "src": "B020:8498",
+   "carry": "exact"
+  },
+  {
+   "off": 8643,
+   "budget": 21,
+   "en": "Please, be brave!",
+   "src": "B020:8523",
+   "carry": "exact"
+  },
+  {
+   "off": 8664,
+   "budget": 5,
+   "en": "Look",
+   "src": "B020:8544",
+   "carry": "exact"
+  },
+  {
+   "off": 8669,
+   "budget": 5,
+   "en": "Bldg",
+   "src": "B020:8549",
+   "carry": "exact",
+   "long": "Building"
+  },
+  {
+   "off": 8674,
+   "budget": 91,
+   "en": "An old plant, built back in the￥manned-factory era.￥Abandoned now, it seems.",
+   "src": "B020:8554",
+   "carry": "rebroken",
+   "long": "An old factory. Judging by the￥design, it dates from when factories￥still had human workers. It appears￥to be abandoned."
+  },
+  {
+   "off": 8765,
+   "budget": 25,
+   "en": "It's eerie here.",
+   "src": "B020:8645",
+   "carry": "exact"
+  },
+  {
+   "off": 8790,
+   "budget": 3,
+   "en": "Sk",
+   "src": "B020:8670",
+   "carry": "exact",
+   "long": "Sky"
+  },
+  {
+   "off": 8793,
+   "budget": 39,
+   "en": "Storm clouds rushing past.",
+   "src": "B020:8673",
+   "carry": "rebroken",
+   "long": "The clouds are moving. It looks like￥a storm is coming.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8832,
+   "budget": 49,
+   "en": "Stare away. Nothing's￥falling on us yet.",
+   "src": "B020:8710",
+   "carry": "rebroken",
+   "long": "Nothing will fall out of the sky, no￥matter how long you stare at it.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 8881,
+   "budget": 7,
+   "en": "Around",
+   "src": "B020:8757",
+   "carry": "exact"
+  },
+  {
+   "off": 8888,
+   "budget": 47,
+   "en": "A desolate place.￥Not a soul in sight.",
+   "src": "B020:8764",
+   "carry": "exact",
+   "long": "This place is run-down. There's no￥one in sight."
+  },
+  {
+   "off": 8935,
+   "budget": 7,
+   "en": "Check",
+   "src": "B020:8811",
+   "carry": "exact",
+   "long": "Investigate"
+  },
+  {
+   "off": 8942,
+   "budget": 63,
+   "en": "It's badly decayed. Probably￥abandoned since last century.",
+   "src": "B020:8818",
+   "carry": "candidate_ok",
+   "en_candidate": "It's badly decayed. Probably￥abandoned since last century.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "It's badly run-down. It was probably￥abandoned in the last century."
+  },
+  {
+   "off": 9005,
+   "budget": 27,
+   "en": "Nothing suspicious.",
+   "src": "B020:8881",
+   "carry": "exact"
+  },
+  {
+   "off": 9032,
+   "budget": 33,
+   "en": "No suspicious figures around.",
+   "src": "B020:8908",
+   "carry": "exact",
+   "long": "I don't see anyone suspicious￥nearby."
+  },
+  {
+   "off": 9065,
+   "budget": 29,
+   "en": "Jean is inside after all.",
+   "src": "B020:8941",
+   "carry": "exact"
+  },
+  {
+   "off": 9094,
+   "budget": 55,
+   "en": "Jean isn't out here. He must be￥inside.",
+   "src": "B020:8970",
+   "carry": "exact"
+  },
+  {
+   "off": 9149,
+   "budget": 9,
+   "en": "Motion",
+   "src": "B020:9025",
+   "carry": "exact",
+   "long": "Motion detector"
+  },
+  {
+   "off": 9158,
+   "budget": 31,
+   "en": "Metal... any readings?",
+   "src": "B020:9034",
+   "carry": "exact",
+   "long": "Metal, are you picking up anything?"
+  },
+  {
+   "off": 9189,
+   "budget": 41,
+   "en": "Multiple signals inside￥the building.",
+   "src": "B020:9065",
+   "carry": "exact",
+   "long": "I'm detecting several moving objects￥inside the building."
+  },
+  {
+   "off": 9230,
+   "budget": 35,
+   "en": "I can't say more from out here...",
+   "src": "B020:9106",
+   "carry": "exact",
+   "long": "We'll have to go inside to find out￥more."
+  },
+  {
+   "off": 9265,
+   "budget": 57,
+   "en": "I can't tell much from here. We'll￥have to go inside.",
+   "src": "B020:9141",
+   "carry": "exact"
+  },
+  {
+   "off": 9322,
+   "budget": 37,
+   "en": "I can't tell without going in.",
+   "src": "B020:9198",
+   "carry": "exact",
+   "long": "We won't know much until we go￥inside."
+  },
+  {
+   "off": 9359,
+   "budget": 5,
+   "en": "Item",
+   "src": "B020:9235",
+   "carry": "exact"
+  },
+  {
+   "off": 9364,
+   "budget": 7,
+   "en": "Lookω",
+   "src": "B020:8544",
+   "carry": "candidate_edit",
+   "en_candidate": "Look",
+   "sim": 0.8,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label"
+  },
+  {
+   "off": 9371,
+   "budget": 9,
+   "en": "Investigateω",
+   "src": "B020:8811",
+   "carry": "candidate_edit",
+   "en_candidate": "Check",
+   "sim": 0.86,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the label; re-adapted 2026-09-30: PS1 label (long 'Investigate') + ω kept after it"
+  },
+  {
+   "off": 9380,
+   "budget": 15,
+   "en": "Use Metal Gear",
+   "src": "B020:9240",
+   "carry": "exact"
+  },
+  {
+   "off": 9395,
+   "budget": 13,
+   "en": "Videophone",
+   "src": "B020:9255",
+   "carry": "exact"
+  },
+  {
+   "off": 9408,
+   "budget": 11,
+   "en": "Save",
+   "src": "B020:9268",
+   "carry": "exact"
+  },
+  {
+   "off": 9419,
+   "budget": 37,
+   "en": "I'll save your progress now.",
+   "src": "B020:9279",
+   "carry": "exact"
+  },
+  {
+   "off": 9456,
+   "budget": 27,
+   "en": "We're inside the factory.",
+   "src": "B020:9316",
+   "carry": "exact"
+  },
+  {
+   "off": 9483,
+   "budget": 49,
+   "en": "The place from Gibson's￥videophone call!",
+   "src": "B020:9343",
+   "carry": "rebroken",
+   "long": "This is the place we saw on Gibson's￥videophone call!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9532,
+   "budget": 5,
+   "en": "Move",
+   "src": "B020:9390",
+   "carry": "exact"
+  },
+  {
+   "off": 9537,
+   "budget": 9,
+   "en": "Forward",
+   "src": "B020:9395",
+   "carry": "exact"
+  },
+  {
+   "off": 9546,
+   "budget": 9,
+   "en": "Go out",
+   "src": "B020:9404",
+   "carry": "exact"
+  },
+  {
+   "off": 9555,
+   "budget": 35,
+   "en": "The search isn't finished...",
+   "src": "B020:9413",
+   "carry": "exact",
+   "long": "We haven't finished investigating￥yet."
+  },
+  {
+   "off": 9590,
+   "budget": 29,
+   "en": "Let's search a bit longer.",
+   "src": "B020:9448",
+   "carry": "exact",
+   "long": "Let's keep investigating a little￥longer."
+  },
+  {
+   "off": 9619,
+   "budget": 41,
+   "en": "Leaving already?￥The case isn't done.",
+   "src": "B020:9477",
+   "carry": "exact",
+   "long": "Leaving already? We haven't finished￥the investigation."
+  },
+  {
+   "off": 9660,
+   "budget": 5,
+   "en": "Feet",
+   "src": "B020:9518",
+   "carry": "exact"
+  },
+  {
+   "off": 9665,
+   "budget": 53,
+   "en": "There's debris everywhere. Watch￥your step.",
+   "src": "B020:9523",
+   "carry": "exact"
+  },
+  {
+   "off": 9718,
+   "budget": 3,
+   "en": "Wl",
+   "src": "B020:9576",
+   "carry": "exact",
+   "long": "Wall"
+  },
+  {
+   "off": 9721,
+   "budget": 35,
+   "en": "Pipes running in every direction.",
+   "src": "B020:9579",
+   "carry": "exact",
+   "long": "Pipes of some kind run all through￥here."
+  },
+  {
+   "off": 9756,
+   "budget": 5,
+   "en": "Roof",
+   "src": "B020:9614",
+   "carry": "exact"
+  },
+  {
+   "off": 9761,
+   "budget": 33,
+   "en": "The ceiling looks fragile too.",
+   "src": "B020:9619",
+   "carry": "exact"
+  },
+  {
+   "off": 9794,
+   "budget": 37,
+   "en": "Terribly run down.￥A total ruin.",
+   "src": "B020:9652",
+   "carry": "rebroken",
+   "long": "It's badly damaged. A complete ruin.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 9831,
+   "budget": 7,
+   "en": "Pipes",
+   "src": "B020:9687",
+   "carry": "exact"
+  },
+  {
+   "off": 9838,
+   "budget": 29,
+   "en": "Rusted through in places.",
+   "src": "B020:9694",
+   "carry": "exact",
+   "long": "Rust has weakened it in places."
+  },
+  {
+   "off": 9867,
+   "budget": 41,
+   "en": "None of my sensors can find￥anything.",
+   "src": "B020:9723",
+   "carry": "exact"
+  },
+  {
+   "off": 9908,
+   "budget": 29,
+   "en": "Nothing of note here.",
+   "src": "B020:9764",
+   "carry": "exact",
+   "long": "There's nothing of interest in￥sight."
+  },
+  {
+   "off": 9937,
+   "budget": 41,
+   "en": "The concrete is at the￥end of its life.",
+   "src": "B020:9793",
+   "carry": "exact",
+   "long": "The concrete seems to be at the end￥of its life."
+  },
+  {
+   "off": 9978,
+   "budget": 43,
+   "en": "It may collapse any moment.￥Be careful.",
+   "src": "B020:9834",
+   "carry": "exact",
+   "long": "It could collapse at any moment. Be￥careful."
+  },
+  {
+   "off": 10021,
+   "budget": 23,
+   "en": "Nothing suspicious.",
+   "src": "B020:9877",
+   "carry": "exact",
+   "long": "There's nothing suspicious."
+  },
+  {
+   "off": 10044,
+   "budget": 29,
+   "en": "Where did the Snatcher go?",
+   "src": "B020:9900",
+   "carry": "exact"
+  },
+  {
+   "off": 10073,
+   "budget": 25,
+   "en": "Where's Gibson?",
+   "src": "B020:9929",
+   "carry": "exact"
+  },
+  {
+   "off": 10098,
+   "budget": 39,
+   "en": "＠赤Ow!＠白 I burned myself!",
+   "src": "B020:9954",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10137,
+   "budget": 53,
+   "en": "Careful, please.￥The steam makes the surface hot.",
+   "src": "B020:9991",
+   "carry": "exact",
+   "long": "Be careful. The steam has made the￥surface very hot."
+  },
+  {
+   "off": 10190,
+   "budget": 45,
+   "en": "Steam is still coming out. Don't￥touch it.",
+   "src": "B020:10044",
+   "carry": "exact"
+  },
+  {
+   "off": 10235,
+   "budget": 33,
+   "en": "Hey Metal. Any readings?",
+   "src": "B020:10089",
+   "carry": "rebroken",
+   "long": "Metal, are you picking up anything?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10268,
+   "budget": 51,
+   "en": "No. We seem to be the only things￥moving.",
+   "src": "B020:10120",
+   "carry": "exact"
+  },
+  {
+   "off": 10319,
+   "budget": 61,
+   "en": "Nothing is moving. That's strange.￥Where's Jean?",
+   "src": "B020:10171",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10380,
+   "budget": 29,
+   "en": "Nothing so far.",
+   "src": "B020:10230",
+   "carry": "exact"
+  },
+  {
+   "off": 10409,
+   "budget": 17,
+   "en": "No readings.",
+   "src": "B020:10259",
+   "carry": "exact"
+  },
+  {
+   "off": 10426,
+   "budget": 15,
+   "en": "Huh?",
+   "src": "B020:10276",
+   "carry": "exact"
+  },
+  {
+   "off": 10441,
+   "budget": 67,
+   "en": "Wait. Something's moving! It's￥coming this way!",
+   "src": "B020:10291",
+   "carry": "exact"
+  },
+  {
+   "off": 10508,
+   "budget": 23,
+   "en": "What? Where?",
+   "src": "B020:10358",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10531,
+   "budget": 45,
+   "en": "Straight ahead. Ten meters. Nine.￥Eight.",
+   "src": "B020:10379",
+   "carry": "candidate_ok",
+   "en_candidate": "Straight ahead. Ten meters. Nine.￥Eight.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 10576,
+   "budget": 23,
+   "en": "...7... 6...",
+   "src": "B020:10422",
+   "carry": "candidate_ok",
+   "en_candidate": "...7... 6...",
+   "sim": 0.95,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 10599,
+   "budget": 33,
+   "en": "Impossible! I see nothing!",
+   "src": "B020:10443",
+   "carry": "rebroken",
+   "long": "That's impossible! I can't see￥anything!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10632,
+   "budget": 35,
+   "en": "Five. Four. Three.",
+   "src": "B020:10474",
+   "carry": "candidate_ok",
+   "en_candidate": "Five. Four. Three.",
+   "sim": 0.94,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 10667,
+   "budget": 39,
+   "en": "I've identified it. It's just a fly.",
+   "src": "B020:10505",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 10706,
+   "budget": 5,
+   "en": "Hear",
+   "src": "B020:10542",
+   "carry": "exact",
+   "long": "Listen"
+  },
+  {
+   "off": 10711,
+   "budget": 27,
+   "en": "All I can hear is thunder.",
+   "src": "B020:10547",
+   "carry": "exact"
+  },
+  {
+   "off": 10738,
+   "budget": 31,
+   "en": "Nothing but the thunder.",
+   "src": "B020:10574",
+   "carry": "exact",
+   "long": "I can't hear anything besides￥thunder."
+  },
+  {
+   "off": 10769,
+   "budget": 13,
+   "en": "Analysis",
+   "src": "B020:10605",
+   "carry": "exact"
+  },
+  {
+   "off": 10782,
+   "budget": 91,
+   "en": "＠赤Insectors! Fight back with your￥Blaster!＠Ｃ",
+   "src": "B020:10618",
+   "carry": "exact"
+  },
+  {
+   "off": 10873,
+   "budget": 23,
+   "en": "Motion signal... gone.",
+   "src": "B020:10709",
+   "carry": "exact",
+   "long": "The motion readings are gone."
+  },
+  {
+   "off": 10896,
+   "budget": 59,
+   "en": "Press START to draw your Blaster.＠Ｃ",
+   "src": "B020:10732",
+   "carry": "candidate_edit",
+   "en_candidate": "Press SELECT on the controller or￥the right mouse button to draw your￥Blaster.",
+   "sim": 0.59,
+   "note": "re-adapted 2026-09-30: Saturn's START + ＠Ｃ; new PS1 wording"
+  },
+  {
+   "off": 10955,
+   "budget": 59,
+   "en": "This isn't training.＠Ｃ",
+   "src": "B020:10825",
+   "carry": "exact"
+  },
+  {
+   "off": 11014,
+   "budget": 73,
+   "en": "I know. I've practiced in the￥Shooting range.＠Ｃ",
+   "src": "B020:10884",
+   "carry": "exact"
+  },
+  {
+   "off": 11087,
+   "budget": 29,
+   "en": "That was close, Gillian.",
+   "src": "B020:10957",
+   "carry": "exact"
+  },
+  {
+   "off": 11116,
+   "budget": 35,
+   "en": "Yeah. I took five hits.",
+   "src": "B020:10986",
+   "carry": "exact"
+  },
+  {
+   "off": 11151,
+   "budget": 29,
+   "en": "Damn. I took four hits.",
+   "src": "B020:11021",
+   "carry": "exact"
+  },
+  {
+   "off": 11180,
+   "budget": 29,
+   "en": "Damn. I took three hits.",
+   "src": "B020:11050",
+   "carry": "exact"
+  },
+  {
+   "off": 11209,
+   "budget": 25,
+   "en": "Gillian, you alright?",
+   "src": "B020:11079",
+   "carry": "exact",
+   "long": "Gillian, are you all right?"
+  },
+  {
+   "off": 11234,
+   "budget": 27,
+   "en": "Damn. I took two hits.",
+   "src": "B020:11104",
+   "carry": "exact"
+  },
+  {
+   "off": 11261,
+   "budget": 27,
+   "en": "Damn. I took a hit.",
+   "src": "B020:11131",
+   "carry": "exact"
+  },
+  {
+   "off": 11288,
+   "budget": 39,
+   "en": "First aid.￥Stopping the bleeding.",
+   "src": "B020:11158",
+   "carry": "rebroken",
+   "long": "I'll give you first aid, Gillian.￥First, I'll stop the bleeding.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11327,
+   "budget": 21,
+   "en": "Please, Metal.",
+   "src": "B020:11195",
+   "carry": "exact"
+  },
+  {
+   "off": 11348,
+   "budget": 31,
+   "en": "...Bleeding stopped.￥Clean.",
+   "src": "B020:11216",
+   "carry": "exact",
+   "long": "The bleeding has stopped. I've￥disinfected the wound."
+  },
+  {
+   "off": 11379,
+   "budget": 33,
+   "en": "Junker's Blood and a painkiller.",
+   "src": "B020:11247",
+   "carry": "exact",
+   "long": "Now I'll give you Junker's Blood and￥a painkiller."
+  },
+  {
+   "off": 11412,
+   "budget": 47,
+   "en": "Now I'll inject the medical￥nanomachines.",
+   "src": "B020:11280",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11459,
+   "budget": 17,
+   "en": "Ugh!",
+   "src": "B020:11325",
+   "carry": "exact"
+  },
+  {
+   "off": 11476,
+   "budget": 15,
+   "en": "Whew.",
+   "src": "B020:11342",
+   "carry": "exact"
+  },
+  {
+   "off": 11491,
+   "budget": 29,
+   "en": "That will hold for a while.",
+   "src": "B020:11357",
+   "carry": "exact",
+   "long": "You should be all right for a while￥now."
+  },
+  {
+   "off": 11520,
+   "budget": 33,
+   "en": "Close one... stay sharp.",
+   "src": "B020:11386",
+   "carry": "exact",
+   "long": "That was close. I'd better be￥careful."
+  },
+  {
+   "off": 11553,
+   "budget": 31,
+   "en": "Stopping the bleeding again.",
+   "src": "B020:11419",
+   "carry": "exact",
+   "long": "Gillian, I'll stop the bleeding￥again."
+  },
+  {
+   "off": 11584,
+   "budget": 17,
+   "en": "Whew!",
+   "src": "B020:11450",
+   "carry": "exact"
+  },
+  {
+   "off": 11601,
+   "budget": 49,
+   "en": "The nanomachines still work￥inside you.",
+   "src": "B020:11467",
+   "carry": "rebroken",
+   "long": "The nanomachines I injected are￥still treating you from inside.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11650,
+   "budget": 25,
+   "en": "You're fine for now.",
+   "src": "B020:11514",
+   "carry": "exact",
+   "long": "You're all right for now."
+  },
+  {
+   "off": 11675,
+   "budget": 25,
+   "en": "The danger isn't over.",
+   "src": "B020:11539",
+   "carry": "exact",
+   "long": "We're not out of danger yet."
+  },
+  {
+   "off": 11700,
+   "budget": 95,
+   "en": "＠赤Insectors! Fight back with your￥Blaster!＠Ｃ",
+   "src": "B020:11564",
+   "carry": "exact"
+  },
+  {
+   "off": 11795,
+   "budget": 65,
+   "en": "What's this? I'm picking up￥something near Little John.",
+   "src": "B020:11659",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11860,
+   "budget": 59,
+   "en": "I thought Little John had shut down￥completely.",
+   "src": "B020:11722",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 11919,
+   "budget": 37,
+   "en": "Gibson worries me.￥Let's push on!",
+   "src": "B020:11779",
+   "carry": "exact",
+   "long": "I'm worried about Gibson. Let's keep￥moving!"
+  },
+  {
+   "off": 11956,
+   "budget": 67,
+   "en": "We don't know what's ahead. Proceed￥carefully.",
+   "src": "B020:11816",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12023,
+   "budget": 9,
+   "en": "Back",
+   "src": "B020:11881",
+   "carry": "exact"
+  },
+  {
+   "off": 12032,
+   "budget": 53,
+   "en": "Ceiling panels fell. Wiring￥hangs exposed.",
+   "src": "B020:11890",
+   "carry": "rebroken",
+   "long": "The ceiling panels have fallen,￥exposing the wiring.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12085,
+   "budget": 39,
+   "en": "There's a time bomb on Little John.",
+   "src": "B020:11941",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 12124,
+   "budget": 61,
+   "en": "Little John's wreckage everywhere.￥It's terrible...",
+   "src": "B020:11982",
+   "carry": "exact",
+   "long": "Little John's remains are scattered￥everywhere. It's awful."
+  },
+  {
+   "off": 12185,
+   "budget": 53,
+   "en": "There's nothing unusual besides￥Little John.",
+   "src": "B020:12043",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12238,
+   "budget": 47,
+   "en": "The time bomb appears to be the only￥trap.",
+   "src": "B020:12094",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12285,
+   "budget": 59,
+   "en": "There's rubble everywhere. Nothing￥unusual in sight.",
+   "src": "B020:12139",
+   "carry": "exact"
+  },
+  {
+   "off": 12344,
+   "budget": 15,
+   "en": "Little John",
+   "src": "B020:12198",
+   "carry": "exact"
+  },
+  {
+   "off": 12359,
+   "budget": 73,
+   "en": "＠黄Just to be safe, save frequently￥from now on.＠白",
+   "src": "B020:12213",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12432,
+   "budget": 87,
+   "en": "＠黄Anything could happen. Save￥frequently from now on.＠白",
+   "src": "B020:12284",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12519,
+   "budget": 65,
+   "en": "Come to think of it, I haven't￥saved since we arrived.",
+   "src": "B020:12369",
+   "carry": "rebroken",
+   "long": "Come to think of it, I haven't saved￥once since we got to the factory￥ruins.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12584,
+   "budget": 31,
+   "en": "It's a time bomb! Run!",
+   "src": "B020:12432",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12615,
+   "budget": 75,
+   "en": "Oh, Little John. He's wrecked.￥There's no way to repair this.",
+   "src": "B020:12461",
+   "carry": "exact"
+  },
+  {
+   "off": 12690,
+   "budget": 21,
+   "en": "Little John...",
+   "src": "B020:12536",
+   "carry": "exact"
+  },
+  {
+   "off": 12711,
+   "budget": 21,
+   "en": "They tore him apart.",
+   "src": "B020:12557",
+   "carry": "exact",
+   "long": "They really tore him apart."
+  },
+  {
+   "off": 12732,
+   "budget": 41,
+   "en": "Water is dripping from the￥sprinkler.",
+   "src": "B020:12578",
+   "carry": "exact"
+  },
+  {
+   "off": 12773,
+   "budget": 29,
+   "en": "...The drips echo oddly.",
+   "src": "B020:12619",
+   "carry": "exact",
+   "long": "The dripping water makes a strange￥echo."
+  },
+  {
+   "off": 12802,
+   "budget": 37,
+   "en": "Nothing usable as evidence.",
+   "src": "B020:12648",
+   "carry": "exact",
+   "long": "I don't see anything we could use as￥evidence."
+  },
+  {
+   "off": 12839,
+   "budget": 47,
+   "en": "I can't find any of Little John's￥parts.",
+   "src": "B020:12685",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12886,
+   "budget": 35,
+   "en": "We seem to be the only ones here.",
+   "src": "B020:12730",
+   "carry": "exact"
+  },
+  {
+   "off": 12921,
+   "budget": 55,
+   "en": "I hope we can recover Little John's￥memory.",
+   "src": "B020:12765",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 12976,
+   "budget": 73,
+   "en": "Laser cannon scars.￥Most circuits burned through.",
+   "src": "B020:12818",
+   "carry": "exact",
+   "long": "There are signs of laser cannon￥fire. Most of his circuits are￥burned out."
+  },
+  {
+   "off": 13049,
+   "budget": 29,
+   "en": "He's shut down completely.",
+   "src": "B020:12891",
+   "carry": "exact"
+  },
+  {
+   "off": 13078,
+   "budget": 75,
+   "en": "But his ＠赤memory＠白 might still be￥intact.",
+   "src": "B020:12920",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13153,
+   "budget": 51,
+   "en": "With Gibson gone, that memory￥is all we have.",
+   "src": "B020:12993",
+   "carry": "rebroken",
+   "long": "With Gibson dead, that memory is all￥we have to go on.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13204,
+   "budget": 63,
+   "en": "A navigator wouldn't leave its￥Runner for no good reason...",
+   "src": "B020:13042",
+   "carry": "rebroken",
+   "long": "A Navigator wouldn't leave his￥Runner without a very good reason.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13267,
+   "budget": 29,
+   "en": "Hurry, or Gibson's done for.",
+   "src": "B020:13103",
+   "carry": "exact",
+   "long": "Gibson's in danger. We have to￥hurry."
+  },
+  {
+   "off": 13296,
+   "budget": 27,
+   "en": "That figure inside. No...",
+   "src": "B020:13132",
+   "carry": "exact",
+   "long": "That figure back there. Could it be?"
+  },
+  {
+   "off": 13323,
+   "budget": 19,
+   "en": "Let's go and see.",
+   "src": "B020:13159",
+   "carry": "exact",
+   "long": "Let's go and check."
+  },
+  {
+   "off": 13342,
+   "budget": 9,
+   "en": "Memory",
+   "src": "B020:13178",
+   "carry": "exact"
+  },
+  {
+   "off": 13351,
+   "budget": 9,
+   "en": "Bomb",
+   "src": "B020:13187",
+   "carry": "exact",
+   "long": "Time bomb"
+  },
+  {
+   "off": 13360,
+   "budget": 63,
+   "en": "I can't defuse it! We need a bomb￥disposal team.",
+   "src": "B020:13196",
+   "carry": "exact"
+  },
+  {
+   "off": 13423,
+   "budget": 21,
+   "en": "Let's get out, fast.",
+   "src": "B020:13259",
+   "carry": "exact",
+   "long": "Let's get out of here, quickly!"
+  },
+  {
+   "off": 13444,
+   "budget": 41,
+   "en": "All I can hear is the bomb's timer.",
+   "src": "B020:13280",
+   "carry": "exact"
+  },
+  {
+   "off": 13485,
+   "budget": 47,
+   "en": "It's coming from Little John.",
+   "src": "B020:13321",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13532,
+   "budget": 33,
+   "en": "Let's look at Little John.",
+   "src": "B020:13366",
+   "carry": "exact",
+   "long": "Let's take a look at Little John."
+  },
+  {
+   "off": 13565,
+   "budget": 37,
+   "en": "I hear something like a timer.",
+   "src": "B020:13399",
+   "carry": "exact",
+   "long": "I can hear something that sounds￥like a timer."
+  },
+  {
+   "off": 13602,
+   "budget": 57,
+   "en": "Only the drips and Little John's￥shorting circuits.",
+   "src": "B020:13436",
+   "carry": "exact",
+   "long": "All I can hear is dripping water and￥Little John's circuits shorting out."
+  },
+  {
+   "off": 13659,
+   "budget": 45,
+   "en": "Quiet.￥Nothing but dripping water.",
+   "src": "B020:13493",
+   "carry": "exact",
+   "long": "It's quiet. Not a sound except￥dripping water."
+  },
+  {
+   "off": 13704,
+   "budget": 29,
+   "en": "There's nothing unusual.",
+   "src": "B020:13538",
+   "carry": "exact"
+  },
+  {
+   "off": 13733,
+   "budget": 63,
+   "en": "Abandoned a long time.￥They should demolish it.",
+   "src": "B020:13567",
+   "carry": "rebroken",
+   "long": "It seems to have been abandoned for￥a long time. They should tear it￥down soon.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13796,
+   "budget": 33,
+   "en": "Even the graffiti is ancient.",
+   "src": "B020:13628",
+   "carry": "exact",
+   "long": "Even the graffiti on the walls is￥very old."
+  },
+  {
+   "off": 13829,
+   "budget": 41,
+   "en": "We're the only ones￥in this area.",
+   "src": "B020:13661",
+   "carry": "exact",
+   "long": "We seem to be the only ones in this￥area."
+  },
+  {
+   "off": 13870,
+   "budget": 27,
+   "en": "Ah! Someone's down!",
+   "src": "B020:13702",
+   "carry": "rebroken",
+   "long": "Look! Someone's lying on the ground.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 13897,
+   "budget": 17,
+   "en": "It's a dead end.",
+   "src": "B020:13727",
+   "carry": "exact"
+  },
+  {
+   "off": 13914,
+   "budget": 47,
+   "en": "A dead end? Then where did the￥Snatcher go?",
+   "src": "B020:13744",
+   "carry": "exact"
+  },
+  {
+   "off": 13961,
+   "budget": 27,
+   "en": "We can't get out this way!",
+   "src": "B020:13791",
+   "carry": "exact"
+  },
+  {
+   "off": 13988,
+   "budget": 19,
+   "en": "Only way is back.",
+   "src": "B020:13818",
+   "carry": "exact",
+   "long": "We'll have to go back."
+  },
+  {
+   "off": 14007,
+   "budget": 21,
+   "en": "Let's head back to the entrance.",
+   "src": "B020:13837",
+   "carry": "candidate_edit",
+   "en_candidate": "Back to the entrance.",
+   "sim": 0.95,
+   "note": "re-adapted 2026-09-30: new PS1 long"
+  },
+  {
+   "off": 14028,
+   "budget": 45,
+   "en": "No time.￥Let's get out of here!",
+   "src": "B020:13860",
+   "carry": "exact",
+   "long": "There's no time. We need to get out￥of here!"
+  },
+  {
+   "off": 14073,
+   "budget": 47,
+   "en": "Gillian! It's going to blow.￥Fall back!!",
+   "src": "B020:13905",
+   "carry": "rebroken",
+   "long": "Gillian! It's going to explode! Get￥out of here!",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14120,
+   "budget": 63,
+   "en": "We'll be dead if we waste any more￥time. Get out, Gillian!",
+   "src": "B020:13950",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14183,
+   "budget": 87,
+   "en": "I hear something like a timer. Turn￥your TV volume all the way up.",
+   "src": "B020:14011",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 14270,
+   "budget": 75,
+   "en": "Turn the TV volume to max.￥Something ticking, like a clock.",
+   "src": "B020:14094",
+   "carry": "rebroken",
+   "long": "Turn your TV volume all the way up.￥There's a sound like a clock￥ticking.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14345,
+   "budget": 25,
+   "en": "I can hear something.",
+   "src": "B020:14167",
+   "carry": "exact"
+  },
+  {
+   "off": 14370,
+   "budget": 23,
+   "en": "I hear nothing...",
+   "src": "B020:14192",
+   "carry": "exact"
+  },
+  {
+   "off": 14393,
+   "budget": 57,
+   "en": "＠黄Try turning up your TV volume.＠白",
+   "src": "B020:14215",
+   "carry": "candidate_ok",
+   "en_candidate": "＠黄Try turning up your TV volume.＠白",
+   "sim": 0.94
+  },
+  {
+   "off": 14450,
+   "budget": 23,
+   "en": "I hear nothing...",
+   "src": "B020:14268",
+   "carry": "exact"
+  },
+  {
+   "off": 14473,
+   "budget": 29,
+   "en": "Shh! There, you hear it?",
+   "src": "B020:14291",
+   "carry": "rebroken",
+   "long": "Shh! Listen. Can you hear it?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14502,
+   "budget": 31,
+   "en": "Something crossed the passage!",
+   "src": "B020:14318",
+   "carry": "exact",
+   "long": "Something just crossed the passage￥up ahead!"
+  },
+  {
+   "off": 14533,
+   "budget": 29,
+   "en": "What on earth happened here?",
+   "src": "B020:14349",
+   "carry": "exact"
+  },
+  {
+   "off": 14562,
+   "budget": 61,
+   "en": "Let's examine Little John.￥He must have recorded something.",
+   "src": "B020:14378",
+   "carry": "exact",
+   "long": "Shall we examine Little John? He￥must have recorded something."
+  },
+  {
+   "off": 14623,
+   "budget": 25,
+   "en": "That navigator, then.",
+   "src": "B020:14439",
+   "carry": "exact",
+   "long": "That Navigator we saw earlier?"
+  },
+  {
+   "off": 14648,
+   "budget": 35,
+   "en": "Let's check Jean's belongings too.",
+   "src": "B020:14464",
+   "carry": "exact"
+  },
+  {
+   "off": 14683,
+   "budget": 43,
+   "en": "Right. There might be a clue.",
+   "src": "B020:14499",
+   "carry": "exact"
+  },
+  {
+   "off": 14726,
+   "budget": 45,
+   "en": "Gillian! Hurry! Let's follow that￥figure!",
+   "src": "B020:14542",
+   "carry": "exact"
+  },
+  {
+   "off": 14771,
+   "budget": 71,
+   "en": "Where are you going?￥The Snatcher-like shadow went￥the other way.",
+   "src": "B020:14587",
+   "carry": "rebroken",
+   "long": "Where are you going? That figure we￥thought was a Snatcher went the￥other way.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14842,
+   "budget": 31,
+   "en": "Running away, Gillian??",
+   "src": "B020:14656",
+   "carry": "rebroken",
+   "long": "Are you running away, Gillian?",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14873,
+   "budget": 5,
+   "en": "Body",
+   "src": "B020:14685",
+   "carry": "exact",
+   "long": "Corpse"
+  },
+  {
+   "off": 14878,
+   "budget": 55,
+   "en": "Gibson... the ace of aces,￥taken this easily...",
+   "src": "B020:14690",
+   "carry": "candidate_ok",
+   "en_candidate": "Gibson... the ace of aces,￥taken this easily...",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing",
+   "long": "Gibson. Everyone said he was one of￥the best. How could they kill him so￥easily?"
+  },
+  {
+   "off": 14933,
+   "budget": 47,
+   "en": "The enemy could still be hiding￥nearby.",
+   "src": "B020:14745",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 14980,
+   "budget": 37,
+   "en": "I never thought we'd meet like this.",
+   "src": "B020:14790",
+   "carry": "exact"
+  },
+  {
+   "off": 15017,
+   "budget": 29,
+   "en": "For Jean to be killed...",
+   "src": "B020:14827",
+   "carry": "exact",
+   "long": "I can't believe they got Jean."
+  },
+  {
+   "off": 15046,
+   "budget": 3,
+   "en": "Pp",
+   "src": "B020:14856",
+   "carry": "exact",
+   "long": "The man"
+  },
+  {
+   "off": 15049,
+   "budget": 15,
+   "en": "Jean!",
+   "src": "B020:14859",
+   "carry": "exact"
+  },
+  {
+   "off": 15064,
+   "budget": 69,
+   "en": "Jean? Th-this is Gibson?! His head's￥been twisted off.",
+   "src": "B020:14874",
+   "carry": "rebroken",
+   "note": "Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 15133,
+   "budget": 5,
+   "en": "Grnd",
+   "src": "B020:14939",
+   "carry": "exact",
+   "long": "Ground"
+  },
+  {
+   "off": 15138,
+   "budget": 37,
+   "en": "Oh!￥A Blaster on the ground.",
+   "src": "B020:14944",
+   "carry": "exact",
+   "long": "Look! There's a Blaster on the￥ground."
+  },
+  {
+   "off": 15175,
+   "budget": 31,
+   "en": "I don't see anything else.",
+   "src": "B020:14981",
+   "carry": "exact"
+  },
+  {
+   "off": 15206,
+   "budget": 47,
+   "en": "Signs of a struggle, but￥hard to make out.",
+   "src": "B020:15012",
+   "carry": "rebroken",
+   "long": "There are signs of a struggle on the￥ground, but I can't make them out.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15253,
+   "budget": 11,
+   "en": "Blaster",
+   "src": "B020:15057",
+   "carry": "exact"
+  },
+  {
+   "off": 15264,
+   "budget": 47,
+   "en": "It's been crushed flat.￥Tremendous force.",
+   "src": "B020:15068",
+   "carry": "exact",
+   "long": "It's been crushed flat. That took￥incredible strength."
+  },
+  {
+   "off": 15311,
+   "budget": 41,
+   "en": "The Blaster's been bent like taffy.",
+   "src": "B020:15115",
+   "carry": "candidate_ok",
+   "en_candidate": "The Blaster's been bent like taffy.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 15352,
+   "budget": 5,
+   "en": "Key",
+   "src": "B020:15158",
+   "carry": "exact"
+  },
+  {
+   "off": 15357,
+   "budget": 33,
+   "en": "That's quite an antique.",
+   "src": "B020:15163",
+   "carry": "exact"
+  },
+  {
+   "off": 15390,
+   "budget": 7,
+   "en": "Scrap",
+   "src": "B020:15196",
+   "carry": "exact",
+   "long": "Scrap of paper"
+  },
+  {
+   "off": 15397,
+   "budget": 57,
+   "en": "What does ＠赤\"Search the house!\"＠白 mean?",
+   "src": "B020:15203",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15454,
+   "budget": 9,
+   "en": "Gibson",
+   "src": "B020:15258",
+   "carry": "exact"
+  },
+  {
+   "off": 15463,
+   "budget": 49,
+   "en": "I examined the whole body￥and recorded it all.",
+   "src": "B020:15267",
+   "carry": "exact",
+   "long": "I've examined the whole body and￥recorded everything on video."
+  },
+  {
+   "off": 15512,
+   "budget": 55,
+   "en": "Look! Jean's holding something in￥his ＠赤right hand＠白.",
+   "src": "B020:15316",
+   "carry": "candidate_ok",
+   "en_candidate": "Look, something in Jean's￥＠赤right hand＠白.",
+   "sim": 0.98,
+   "note": "the PS1 line is part of this one; re-adapted 2026-09-30: new PS1 long"
+  },
+  {
+   "off": 15567,
+   "budget": 17,
+   "en": "He's still warm.",
+   "src": "B020:15367",
+   "carry": "exact"
+  },
+  {
+   "off": 15584,
+   "budget": 33,
+   "en": "That scream must have been him.",
+   "src": "B020:15384",
+   "carry": "exact",
+   "long": "That scream we heard must have been￥his."
+  },
+  {
+   "off": 15617,
+   "budget": 59,
+   "en": "Neck wrung through.￥Instant death. Terrible force...",
+   "src": "B020:15417",
+   "carry": "exact",
+   "long": "His head's been twisted off. He￥probably died instantly. That took￥incredible strength."
+  },
+  {
+   "off": 15676,
+   "budget": 5,
+   "en": "Wear",
+   "src": "B020:15476",
+   "carry": "exact",
+   "long": "Clothes"
+  },
+  {
+   "off": 15681,
+   "budget": 55,
+   "en": "Oh?￥Candy, from his pocket.￥What's this?",
+   "src": "B020:15481",
+   "carry": "exact",
+   "long": "Oh? There's candy in his pocket.￥What's it doing here?"
+  },
+  {
+   "off": 15736,
+   "budget": 47,
+   "en": ".....￥For the children at￥the orphanage.",
+   "src": "B020:15536",
+   "carry": "exact",
+   "long": "He was going to give it to the￥children at the orphanage."
+  },
+  {
+   "off": 15783,
+   "budget": 21,
+   "en": "...What shall we do?",
+   "src": "B020:15583",
+   "carry": "exact",
+   "long": "What should we do with it?"
+  },
+  {
+   "off": 15804,
+   "budget": 29,
+   "en": "We'll keep it.￥A memento.",
+   "src": "B020:15604",
+   "carry": "exact",
+   "long": "Let's keep it. Something to remember￥him by."
+  },
+  {
+   "off": 15833,
+   "budget": 47,
+   "en": "There's no more evidence in his￥clothes.",
+   "src": "B020:15633",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 15880,
+   "budget": 49,
+   "en": "Oh? A ＠赤paper scrap＠白￥in his inner pocket.",
+   "src": "B020:15678",
+   "carry": "exact",
+   "long": "Oh? There's a ＠赤piece of paper＠白 in his￥inside pocket."
+  },
+  {
+   "off": 15929,
+   "budget": 41,
+   "en": "There's a ＠赤key＠白 in his pocket.",
+   "src": "B020:15727",
+   "carry": "exact"
+  },
+  {
+   "off": 15970,
+   "budget": 5,
+   "en": "Hand",
+   "src": "B020:15768",
+   "carry": "exact",
+   "long": "Right hand"
+  },
+  {
+   "off": 15975,
+   "budget": 49,
+   "en": "＠赤Hair＠白. He's holding several strands.",
+   "src": "B020:15773",
+   "carry": "exact"
+  },
+  {
+   "off": 16024,
+   "budget": 73,
+   "en": "...And under the nails, ＠赤skin￥tissue＠白, likely the killer's.",
+   "src": "B020:15822",
+   "carry": "rebroken",
+   "long": "There's also ＠赤skin tissue＠白 under his￥fingernails. It probably belongs to￥the killer.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16097,
+   "budget": 5,
+   "en": "Hair",
+   "src": "B020:15893",
+   "carry": "exact"
+  },
+  {
+   "off": 16102,
+   "budget": 31,
+   "en": "That hair is already analyzed.",
+   "src": "B020:15898",
+   "carry": "exact",
+   "long": "I've already analyzed that hair."
+  },
+  {
+   "off": 16133,
+   "budget": 9,
+   "en": "Skin",
+   "src": "B020:15929",
+   "carry": "exact",
+   "long": "Skin tissue"
+  },
+  {
+   "off": 16142,
+   "budget": 35,
+   "en": "That tissue is already analyzed.",
+   "src": "B020:15938",
+   "carry": "exact",
+   "long": "I've already analyzed that skin￥tissue."
+  },
+  {
+   "off": 16177,
+   "budget": 57,
+   "en": "It's an old Blaster. It's definitely￥Jean's.",
+   "src": "B020:15973",
+   "carry": "exact"
+  },
+  {
+   "off": 16234,
+   "budget": 49,
+   "en": "It's still warm. Looks like he fired￥a few shots.",
+   "src": "B020:16030",
+   "carry": "candidate_ok",
+   "en_candidate": "It's still warm. Looks like he fired￥a few shots.",
+   "sim": 0.98,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 16283,
+   "budget": 7,
+   "en": "Waste",
+   "src": "B020:16081",
+   "carry": "exact",
+   "long": "Residue"
+  },
+  {
+   "off": 16290,
+   "budget": 33,
+   "en": "That waste is already analyzed.",
+   "src": "B020:16088",
+   "carry": "exact",
+   "long": "I've already analyzed that residue."
+  },
+  {
+   "off": 16323,
+   "budget": 81,
+   "en": "What's this key for? Does anyone￥still use keys like this?",
+   "src": "B020:16121",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16404,
+   "budget": 27,
+   "en": "Written on plain paper.",
+   "src": "B020:16200",
+   "carry": "exact",
+   "long": "It's written on ordinary paper."
+  },
+  {
+   "off": 16431,
+   "budget": 27,
+   "en": "...There's no reading now.",
+   "src": "B020:16227",
+   "carry": "exact",
+   "long": "I'm not picking up anything now."
+  },
+  {
+   "off": 16458,
+   "budget": 19,
+   "en": "What was that?",
+   "src": "B020:16254",
+   "carry": "exact",
+   "long": "What was that earlier?"
+  },
+  {
+   "off": 16477,
+   "budget": 31,
+   "en": "A reading, I'm certain...",
+   "src": "B020:16273",
+   "carry": "candidate_ok",
+   "en_candidate": "A reading, I'm certain...",
+   "sim": 0.93,
+   "long": "I definitely picked up something."
+  },
+  {
+   "off": 16508,
+   "budget": 29,
+   "en": "...The signal's gone silent.",
+   "src": "B020:16304",
+   "carry": "exact",
+   "long": "I'm not getting a reading now."
+  },
+  {
+   "off": 16537,
+   "budget": 21,
+   "en": "Shall we check?",
+   "src": "B020:16333",
+   "carry": "exact"
+  },
+  {
+   "off": 16558,
+   "budget": 93,
+   "en": "Was there more than one killer?ω￥Gibson said he'd cornered a male￥Snatcher.",
+   "src": "B020:16354",
+   "carry": "candidate_edit",
+   "en_candidate": "Was there more than one killer?￥Gibson said he'd cornered a male￥Snatcher.",
+   "sim": 0.99,
+   "note": "the PS1 line plus the Saturn-only code ω (0x7d2a); Saturn-only code ω kept after the question mark as in the jp; re-adapted 2026-09-30: new PS1 wording, ω kept after ?"
+  },
+  {
+   "off": 16651,
+   "budget": 63,
+   "en": "Bending a Blaster like this takes￥more than human strength.",
+   "src": "B020:16443",
+   "carry": "rebroken"
+  },
+  {
+   "off": 16714,
+   "budget": 29,
+   "en": "It's a Snatcher after all.",
+   "src": "B020:16506",
+   "carry": "exact",
+   "long": "It must have been a Snatcher."
+  },
+  {
+   "off": 16743,
+   "budget": 49,
+   "en": "Metal, let's keep this key as￥evidence.",
+   "src": "B020:16535",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 16792,
+   "budget": 31,
+   "en": "All right. I'll keep the key.",
+   "src": "B020:16582",
+   "carry": "exact"
+  },
+  {
+   "off": 16823,
+   "budget": 63,
+   "en": "It might be some kind of code.￥Let's keep this note as evidence.",
+   "src": "B020:16666",
+   "carry": "candidate_edit",
+   "en_candidate": "Metal, let's keep this note as￥evidence.",
+   "sim": 0.72,
+   "note": "re-adapted 2026-09-30: extra clause translated; no 'Metal' in Saturn"
+  },
+  {
+   "off": 16886,
+   "budget": 33,
+   "en": "I'll keep the paper scrap, then.",
+   "src": "B020:16713",
+   "carry": "exact",
+   "long": "All right. I'll keep the piece of￥paper."
+  },
+  {
+   "off": 16919,
+   "budget": 5,
+   "en": "Fwd.",
+   "src": "B020:16746",
+   "carry": "exact",
+   "long": "Forward"
+  },
+  {
+   "off": 16924,
+   "budget": 45,
+   "en": "Blocked by rubble.￥We can't go further.",
+   "src": "B020:16751",
+   "carry": "exact",
+   "long": "It's blocked by rubble. We can't go￥any farther."
+  },
+  {
+   "off": 16969,
+   "budget": 5,
+   "en": "Dirt",
+   "src": "B020:16796",
+   "carry": "exact"
+  },
+  {
+   "off": 16974,
+   "budget": 25,
+   "en": "Tens of tons of it.",
+   "src": "B020:16801",
+   "carry": "exact",
+   "long": "There must be tens of tons of it."
+  },
+  {
+   "off": 16999,
+   "budget": 41,
+   "en": "Seems it's been this way￥for ages.",
+   "src": "B020:16826",
+   "carry": "exact",
+   "long": "It looks like it's been this way for￥a long time."
+  },
+  {
+   "off": 17040,
+   "budget": 31,
+   "en": "I don't see an exit anywhere.",
+   "src": "B020:16867",
+   "carry": "exact"
+  },
+  {
+   "off": 17071,
+   "budget": 41,
+   "en": "No gap a person could￥pass through.",
+   "src": "B020:16898",
+   "carry": "exact",
+   "long": "I don't see any gap big enough for a￥person to get through."
+  },
+  {
+   "off": 17112,
+   "budget": 31,
+   "en": "There's no way we can move it.",
+   "src": "B020:16939",
+   "carry": "exact",
+   "long": "There's no way we could move it."
+  },
+  {
+   "off": 17143,
+   "budget": 37,
+   "en": "Strange... where'd the￥Snatcher go?",
+   "src": "B020:16970",
+   "carry": "exact",
+   "long": "This is strange. Where did the￥Snatcher go?"
+  },
+  {
+   "off": 17180,
+   "budget": 33,
+   "en": "It fled in here, right?",
+   "src": "B020:17007",
+   "carry": "exact",
+   "long": "It definitely came this way, didn't￥it?"
+  },
+  {
+   "off": 17213,
+   "budget": 5,
+   "en": "Exit",
+   "src": "B020:17040",
+   "carry": "exact"
+  },
+  {
+   "off": 17218,
+   "budget": 61,
+   "en": "No exit at all. Unless the￥enemy turned liquid...",
+   "src": "B020:17045",
+   "carry": "rebroken",
+   "long": "I still don't see a way out. Unless￥the enemy's made of liquid.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 17279,
+   "budget": 53,
+   "en": "The sensor won't work through this￥much rubble.",
+   "src": "B020:17104",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 17332,
+   "budget": 31,
+   "en": "Gillian, are you all right?",
+   "src": "B020:17155",
+   "carry": "exact"
+  },
+  {
+   "off": 17363,
+   "budget": 15,
+   "en": "You alright?",
+   "src": "B020:17186",
+   "carry": "exact",
+   "long": "Are you all right?"
+  },
+  {
+   "off": 17378,
+   "budget": 15,
+   "en": "Take care...",
+   "src": "B020:17201",
+   "carry": "exact"
+  },
+  {
+   "off": 17393,
+   "budget": 57,
+   "en": "What's wrong with me? I was fine a￥moment ago.",
+   "src": "B020:17216",
+   "carry": "exact"
+  },
+  {
+   "off": 17450,
+   "budget": 39,
+   "en": "Odd?￥Did I catch a chill...",
+   "src": "B020:17273",
+   "carry": "exact",
+   "long": "That's strange. Did I get a chill in￥my sleep?"
+  },
+  {
+   "off": 17489,
+   "budget": 27,
+   "en": "...Caught a cold, maybe?",
+   "src": "B020:17312",
+   "carry": "exact",
+   "long": "Am I coming down with a cold?"
+  },
+  {
+   "off": 17516,
+   "budget": 17,
+   "en": "Quiet, please.",
+   "src": "B020:17339",
+   "carry": "exact"
+  },
+  {
+   "off": 17533,
+   "budget": 23,
+   "en": "What's wrong, Metal?",
+   "src": "B020:17356",
+   "carry": "exact"
+  },
+  {
+   "off": 17556,
+   "budget": 73,
+   "en": "Are my sensors malfunctioning? I can￥hear something in the distance.",
+   "src": "B020:17379",
+   "carry": "exact"
+  },
+  {
+   "off": 17629,
+   "budget": 25,
+   "en": "Gillian, you hear it?",
+   "src": "B020:17452",
+   "carry": "exact",
+   "long": "Gillian, can you hear it?"
+  },
+  {
+   "off": 17654,
+   "budget": 43,
+   "en": "Odd. My ears just cut out!",
+   "src": "B020:17477",
+   "carry": "exact",
+   "long": "Something's wrong. Suddenly I can't￥hear!"
+  },
+  {
+   "off": 17697,
+   "budget": 31,
+   "en": "A pressure change, perhaps?",
+   "src": "B020:17520",
+   "carry": "exact",
+   "long": "Could it be a change in air￥pressure?"
+  },
+  {
+   "off": 17728,
+   "budget": 21,
+   "en": "Forward, then.",
+   "src": "B020:17551",
+   "carry": "exact",
+   "long": "Moving forward, then."
+  },
+  {
+   "off": 17749,
+   "budget": 21,
+   "en": "Moving back, then.",
+   "src": "B020:17572",
+   "carry": "exact"
+  },
+  {
+   "off": 17770,
+   "budget": 31,
+   "en": "Hey Metal, any readings?",
+   "src": "B020:17593",
+   "carry": "exact",
+   "long": "Metal, are you picking up anything?"
+  },
+  {
+   "off": 17801,
+   "budget": 27,
+   "en": "Metal, sensor readings?",
+   "src": "B020:17624",
+   "carry": "exact",
+   "long": "Metal, anything on your sensors?"
+  },
+  {
+   "off": 17828,
+   "budget": 29,
+   "en": "No... nothing's registering.",
+   "src": "B020:17651",
+   "carry": "exact",
+   "long": "No, I'm not picking up anything."
+  },
+  {
+   "off": 17857,
+   "budget": 41,
+   "en": "Listen. There's a sound like a￥timer.",
+   "src": "B020:17680",
+   "carry": "exact"
+  },
+  {
+   "off": 17898,
+   "budget": 33,
+   "en": "It's eerily quiet.",
+   "src": "B020:17721",
+   "carry": "exact"
+  },
+  {
+   "off": 17931,
+   "budget": 25,
+   "en": "I can't hear anything.",
+   "src": "B020:17754",
+   "carry": "exact"
+  },
+  {
+   "off": 17956,
+   "budget": 45,
+   "en": "Sorry, Gillian.￥The signal is unstable.",
+   "src": "B020:17779",
+   "carry": "exact",
+   "long": "Sorry, Gillian. I can't get a stable￥signal."
+  },
+  {
+   "off": 18001,
+   "budget": 21,
+   "en": "Why not, Metal?",
+   "src": "B020:17824",
+   "carry": "exact"
+  },
+  {
+   "off": 18022,
+   "budget": 49,
+   "en": "I suspect it's the ＠黄Snow Cedar＠白￥effect.",
+   "src": "B020:17845",
+   "carry": "exact"
+  },
+  {
+   "off": 18071,
+   "budget": 15,
+   "en": "Snow Cedar?",
+   "src": "B020:17894",
+   "carry": "exact"
+  },
+  {
+   "off": 18086,
+   "budget": 37,
+   "en": "A new pollen that jams￥radio waves.",
+   "src": "B020:17909",
+   "carry": "exact",
+   "long": "It's a new type of pollen that￥interferes with radio signals."
+  },
+  {
+   "off": 18123,
+   "budget": 35,
+   "en": "I can't transmit from this area.",
+   "src": "B020:17946",
+   "carry": "exact"
+  },
+  {
+   "off": 18158,
+   "budget": 51,
+   "en": "No videophone here,￥thanks to the snow cedar.",
+   "src": "B020:17981",
+   "carry": "rebroken",
+   "long": "The Snow Cedar effect is blocking￥the videophone.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18209,
+   "budget": 39,
+   "en": "Then how was Gibson able to call us?",
+   "src": "B020:18030",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 fewer break"
+  },
+  {
+   "off": 18248,
+   "budget": 57,
+   "en": "The pollen density must have￥risen since then.",
+   "src": "B020:18071",
+   "carry": "rebroken",
+   "long": "The concentration of Snow Cedar￥pollen must have risen since then.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18305,
+   "budget": 69,
+   "en": "The Snatchers may be spreading Snow￥Cedar pollen.",
+   "src": "B020:18126",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18374,
+   "budget": 15,
+   "en": "JUNKER ID",
+   "src": "B020:18193",
+   "carry": "exact"
+  },
+  {
+   "off": 18389,
+   "budget": 73,
+   "en": "The ID card proving all JUNKER￥authority. Keep it safe.",
+   "src": "B110:19602",
+   "carry": "rebroken",
+   "long": "This ID card certifies all your￥authority as a JUNKER. Take good￥care of it.",
+   "note": "from B110; Saturn jp has 2 more breaks"
+  },
+  {
+   "off": 18462,
+   "budget": 7,
+   "en": "Funds",
+   "src": "B020:18279",
+   "carry": "exact"
+  },
+  {
+   "off": 18469,
+   "budget": 35,
+   "en": "It's the money JUNKER gave you.",
+   "src": "B020:18286",
+   "carry": "exact"
+  },
+  {
+   "off": 18504,
+   "budget": 5,
+   "en": "Cndy",
+   "src": "B020:18321",
+   "carry": "exact",
+   "long": "Candy"
+  },
+  {
+   "off": 18509,
+   "budget": 35,
+   "en": "It's the candy from Jean's pocket.",
+   "src": "B020:18326",
+   "carry": "exact"
+  },
+  {
+   "off": 18544,
+   "budget": 7,
+   "en": "Proof",
+   "src": "B020:18361",
+   "carry": "exact",
+   "long": "Evidence"
+  },
+  {
+   "off": 18551,
+   "budget": 49,
+   "en": "\"Search the house!\" What does that￥mean?",
+   "src": "B020:18368",
+   "carry": "candidate_ok",
+   "en_candidate": "\"Search the house!\" What does that￥mean?",
+   "sim": 0.95,
+   "note": "differs only in punctuation/spacing"
+  },
+  {
+   "off": 18600,
+   "budget": 67,
+   "en": "It has a built-in chip containing￥all your data, Gillian.",
+   "src": "B020:18413",
+   "carry": "exact"
+  },
+  {
+   "off": 18667,
+   "budget": 51,
+   "en": "Expenses are covered as￥the case requires.",
+   "src": "B020:18480",
+   "carry": "rebroken",
+   "long": "As a rule, JUNKER covers all￥necessary investigation expenses,￥with no spending limit.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18718,
+   "budget": 47,
+   "en": "The candy Jean handed out￥to the orphans.",
+   "src": "B020:18529",
+   "carry": "rebroken",
+   "long": "It's the candy Jean gave to children￥at the orphanage.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18765,
+   "budget": 57,
+   "en": "Plain paper. It's certainly￥Jean's handwriting.",
+   "src": "B020:18574",
+   "carry": "rebroken",
+   "long": "It's written on ordinary paper.￥That's definitely Jean's￥handwriting.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18822,
+   "budget": 87,
+   "en": "What's this key for? Does anyone￥still use keys like this?",
+   "src": "B020:18629",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18909,
+   "budget": 47,
+   "en": "Well, I don't think you'll need it￥here.",
+   "src": "B020:18714",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 18956,
+   "budget": 23,
+   "en": "What could it mean?",
+   "src": "B020:18759",
+   "carry": "exact"
+  },
+  {
+   "off": 18979,
+   "budget": 69,
+   "en": "Jean liked riddles. There must be￥some meaning behind it.",
+   "src": "B020:18782",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19048,
+   "budget": 21,
+   "en": "A message?",
+   "src": "B020:18849",
+   "carry": "exact"
+  },
+  {
+   "off": 19069,
+   "budget": 25,
+   "en": "I wonder what it opens.",
+   "src": "B020:18870",
+   "carry": "exact"
+  },
+  {
+   "off": 19094,
+   "budget": 61,
+   "en": "Public facilities don't use keys￥like this anymore.",
+   "src": "B020:18895",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19155,
+   "budget": 41,
+   "en": "Then it must be Gibson's personal￥key?",
+   "src": "B020:18954",
+   "carry": "exact"
+  },
+  {
+   "off": 19196,
+   "budget": 51,
+   "en": "Looking into Jean's life may￥tell us something.",
+   "src": "B020:18995",
+   "carry": "rebroken",
+   "long": "We might learn something by looking￥into Jean's personal life.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19247,
+   "budget": 17,
+   "en": "L.J. memory",
+   "src": "B020:19044",
+   "carry": "exact",
+   "long": "Little John's memory"
+  },
+  {
+   "off": 19264,
+   "budget": 45,
+   "en": "I can't analyze the memory.",
+   "src": "B020:19061",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19309,
+   "budget": 97,
+   "en": "We must play it back at HQ to know.￥Let's hope something survived￥in there.",
+   "src": "B020:19104",
+   "carry": "exact",
+   "long": "We'll have to play it back at￥headquarters to find out what's on￥it. Let's hope something survived."
+  },
+  {
+   "off": 19406,
+   "budget": 51,
+   "en": "I've analyzed the hair found in￥Jean's hand.",
+   "src": "B020:19201",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19457,
+   "budget": 89,
+   "en": "appears to belong to a Snatcher of￥European descent, male, blood type￥A, Rh negative.",
+   "src": "B020:19250",
+   "carry": "candidate_ok",
+   "en_candidate": "appears to belong to a Snatcher of￥European descent, male, blood type￥A, Rh negative.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "It probably came from a Snatcher￥posing as a European male with type￥A negative blood."
+  },
+  {
+   "off": 19546,
+   "budget": 55,
+   "en": "The tissue under Jean's nails.￥Analysis says...",
+   "src": "B020:19339",
+   "carry": "rebroken",
+   "long": "I've analyzed the skin found under￥Jean's fingernails.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19601,
+   "budget": 89,
+   "en": "European female.￥Blood type O, Rh negative.￥A Snatcher's, most likely.",
+   "src": "B020:19392",
+   "carry": "candidate_ok",
+   "en_candidate": "European female.￥Blood type O, Rh negative.￥A Snatcher's, most likely.",
+   "sim": 0.99,
+   "note": "differs only in punctuation/spacing",
+   "long": "It probably came from a Snatcher￥posing as a European female with￥type O negative blood."
+  },
+  {
+   "off": 19690,
+   "budget": 53,
+   "en": "Jean's stomach contents.￥Analysis says...",
+   "src": "B020:19481",
+   "carry": "rebroken",
+   "long": "I've analyzed the residue found in￥Jean's stomach.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19743,
+   "budget": 49,
+   "en": "Whale meat, eaten about￥three hours before.",
+   "src": "B020:19532",
+   "carry": "rebroken",
+   "long": "It was probably whale meat, eaten￥about three hours earlier.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19792,
+   "budget": 81,
+   "en": "That means Jean ate whale meat￥somewhere three hours before he was￥killed.",
+   "src": "B020:19579",
+   "carry": "exact"
+  },
+  {
+   "off": 19873,
+   "budget": 11,
+   "en": "Metal?!",
+   "src": "B020:19660",
+   "carry": "exact"
+  },
+  {
+   "off": 19884,
+   "budget": 19,
+   "en": "Answer me!",
+   "src": "B020:19671",
+   "carry": "exact"
+  },
+  {
+   "off": 19903,
+   "budget": 21,
+   "en": "Where are you?!",
+   "src": "B020:19690",
+   "carry": "exact",
+   "long": "Metal, where are you?"
+  },
+  {
+   "off": 19924,
+   "budget": 17,
+   "en": "I'm right here.",
+   "src": "B020:19711",
+   "carry": "exact"
+  },
+  {
+   "off": 19941,
+   "budget": 25,
+   "en": "What's going on?",
+   "src": "B020:19728",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 19966,
+   "budget": 27,
+   "en": "You died on duty.",
+   "src": "B020:19751",
+   "carry": "exact",
+   "long": "You were killed in the line of duty."
+  },
+  {
+   "off": 19993,
+   "budget": 17,
+   "en": "That's absurd!?",
+   "src": "B020:19778",
+   "carry": "exact",
+   "long": "That's impossible!"
+  },
+  {
+   "off": 20010,
+   "budget": 21,
+   "en": "Am I really dead?",
+   "src": "B020:19795",
+   "carry": "exact"
+  },
+  {
+   "off": 20031,
+   "budget": 27,
+   "en": "Yes. You really are.",
+   "src": "B020:19816",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20058,
+   "budget": 45,
+   "en": "No. I can't die here.",
+   "src": "B020:19841",
+   "carry": "rebroken",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20103,
+   "budget": 13,
+   "en": "......",
+   "src": "B020:19884",
+   "carry": "exact"
+  },
+  {
+   "off": 20116,
+   "budget": 9,
+   "en": "Metal?",
+   "src": "B020:19897",
+   "carry": "exact"
+  },
+  {
+   "off": 20125,
+   "budget": 19,
+   "en": ".........",
+   "src": "B020:19906",
+   "carry": "exact"
+  },
+  {
+   "off": 20144,
+   "budget": 21,
+   "en": "All right.",
+   "src": "B020:19925",
+   "carry": "exact"
+  },
+  {
+   "off": 20165,
+   "budget": 21,
+   "en": "So, I'm saved?",
+   "src": "B020:19946",
+   "carry": "exact",
+   "long": "Then you can save me?"
+  },
+  {
+   "off": 20186,
+   "budget": 17,
+   "en": "Just this once.",
+   "src": "B020:19967",
+   "carry": "exact"
+  },
+  {
+   "off": 20203,
+   "budget": 23,
+   "en": "I owe you one, Metal!",
+   "src": "B020:19984",
+   "carry": "exact"
+  },
+  {
+   "off": 20226,
+   "budget": 41,
+   "en": "Honestly. You haven't even saved.",
+   "src": "B020:20007",
+   "carry": "exact"
+  },
+  {
+   "off": 20267,
+   "budget": 33,
+   "en": "I saved outside the factory.",
+   "src": "B020:20048",
+   "carry": "exact"
+  },
+  {
+   "off": 20300,
+   "budget": 47,
+   "en": "That won't do.￥Anything can happen, any time.",
+   "src": "B020:20081",
+   "carry": "exact",
+   "long": "That's not enough. You never know￥what might happen."
+  },
+  {
+   "off": 20347,
+   "budget": 29,
+   "en": "You need to save regularly.",
+   "src": "B020:20128",
+   "carry": "exact"
+  },
+  {
+   "off": 20376,
+   "budget": 31,
+   "en": "The case had all my attention.",
+   "src": "B020:20157",
+   "carry": "exact",
+   "long": "I get caught up in the￥investigation."
+  },
+  {
+   "off": 20407,
+   "budget": 59,
+   "en": "From now on, save properly so this￥doesn't repeat.",
+   "src": "B020:20188",
+   "carry": "rebroken",
+   "long": "Save properly from now on so this￥doesn't happen again.",
+   "note": "Saturn jp has 1 more break"
+  },
+  {
+   "off": 20466,
+   "budget": 11,
+   "en": "All right.",
+   "src": "B020:20245",
+   "carry": "exact"
+  },
+  {
+   "off": 20477,
+   "budget": 27,
+   "en": "So now I've died once too.",
+   "src": "B020:20256",
+   "carry": "exact",
+   "long": "Now I can say I've had a near-death￥experience."
+  },
+  {
+   "off": 20504,
+   "budget": 27,
+   "en": "Let's go back, then.",
+   "src": "B020:20283",
+   "carry": "exact"
+  },
+  {
+   "off": 20531,
+   "budget": 13,
+   "en": "Continue",
+   "src": "B020:20310",
+   "carry": "exact"
+  },
+  {
+   "off": 20544,
+   "budget": 31,
+   "en": "Then... we continue the case.",
+   "src": "B020:20323",
+   "carry": "exact",
+   "long": "Let's continue the investigation."
+  },
+  {
+   "off": 20575,
+   "budget": 13,
+   "en": "Quit game",
+   "src": "B020:20354",
+   "carry": "exact"
+  },
+  {
+   "off": 20588,
+   "budget": 33,
+   "en": "Let's end the investigation.",
+   "src": "B020:20367",
+   "carry": "exact"
+  },
+  {
+   "off": 20623,
+   "budget": 4,
+   "en": "",
+   "carry": "control"
+  }
+ ]
+}

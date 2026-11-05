@@ -1,0 +1,22 @@
+[
+ {"sweep": "Ask", "rounds": 1},
+ {"choose": "Go inside"},
+ {"read": 3000},
+ {"choose": "Chief's room"},
+ {"sweep": "Ask", "rounds": 2},
+ {"read": 4000},
+ {"sweep": "Ask", "rounds": 1},
+ {"save": "chief_done"},
+ {"choose": "Go out"},
+ {"read": 3000},
+ {"choose": "Mechanic room"},
+ {"read": 3000},
+ {"sweep": "Ask", "rounds": 2},
+ {"read": 4000},
+ {"sweep": "Look", "rounds": 1},
+ {"read": 3000},
+ {"save": "mechanic_done"},
+ {"choose": "Go out"},
+ {"read": 3000},
+ {"save": "hall"}
+]

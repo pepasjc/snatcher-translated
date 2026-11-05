@@ -1,0 +1,980 @@
+{
+ "scene": "B1E0",
+ "note": "Coverage (D_act2): Outer Heaven in Act 2 from its arrival. From the whole-game state wg/wg16_B1E0 (outside Queen Hospital, first visit): whole_game.route.json 377..454 (switches, Door 3, the light grid, the drawer's paper), then Napoleon's number five times with Ask Metal between calls (the chain's three plain calls never opened Outer Heaven on the map), the tricycle to Outer Heaven, and 473..485 (Talk, Press him, Give proof, Sneeze, the chart, the cipher, BENSON): B1D0_c5f78..f8.",
+ "actions": [
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Board Tricycle"
+   ]
+  },
+  {
+   "path": [
+    "Move",
+    "Go inside"
+   ],
+   "patience": 900
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "sweep": [
+    "Press switch"
+   ],
+   "rounds": 1
+  },
+  {
+   "path": [
+    "Move",
+    "Dr 3|Door 3"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Use Metal Gear",
+    "Turn on light"
+   ],
+   "patience": 900
+  },
+  {
+   "idle": 200
+  },
+  {
+   "light_at": [
+    120,
+    60
+   ]
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "reps": 1
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "reps": 1
+  },
+  {
+   "path": [
+    "Go out"
+   ],
+   "patience": 900
+  },
+  {
+   "path": [
+    "Move",
+    "Dr 3|Door 3"
+   ],
+   "patience": 900
+  },
+  {
+   "path": [
+    "Use Metal Gear",
+    "Turn on light"
+   ],
+   "patience": 900
+  },
+  {
+   "idle": 200
+  },
+  {
+   "light_at": [
+    144,
+    84
+   ]
+  },
+  {
+   "path": [
+    "Investigate"
+   ],
+   "reps": 1
+  },
+  {
+   "path": [
+    "Look"
+   ],
+   "reps": 1
+  },
+  {
+   "idle": 400
+  },
+  {
+   "light": [
+    [
+     "left",
+     220
+    ],
+    [
+     "up",
+     200
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "left",
+     260
+    ],
+    [
+     "down",
+     45
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "left",
+     260
+    ],
+    [
+     "down",
+     45
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "left",
+     260
+    ],
+    [
+     "down",
+     45
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "left",
+     260
+    ],
+    [
+     "down",
+     45
+    ]
+   ]
+  },
+  {
+   "path": [
+    "Go out"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "path": [
+    "Move",
+    "Go out"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "save": "cov_B1E0_prephone"
+  },
+  {
+   "path": [
+    "Item",
+    "Look"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Use Metal Gear",
+    "Videophone"
+   ],
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "patience": 1500
+  },
+  {
+   "dial": "395644"
+  },
+  {
+   "path": [
+    "Hang up"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "sweep": [
+    "Ask Metal"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Call",
+    "Don't call"
+   ]
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "patience": 1500
+  },
+  {
+   "dial": "395644"
+  },
+  {
+   "path": [
+    "Hang up"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "sweep": [
+    "Ask Metal"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Call",
+    "Don't call"
+   ]
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "patience": 1500
+  },
+  {
+   "dial": "395644"
+  },
+  {
+   "path": [
+    "Hang up"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "sweep": [
+    "Ask Metal"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Call",
+    "Don't call"
+   ]
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "patience": 1500
+  },
+  {
+   "dial": "395644"
+  },
+  {
+   "path": [
+    "Hang up"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "sweep": [
+    "Ask Metal"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Call",
+    "Don't call"
+   ]
+  },
+  {
+   "path": [
+    "Call"
+   ],
+   "patience": 1500
+  },
+  {
+   "dial": "395644"
+  },
+  {
+   "path": [
+    "Hang up"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "sweep": [
+    "Ask Metal"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Call",
+    "Don't call"
+   ]
+  },
+  {
+   "path": [
+    "Don't call"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Move",
+    "Go out"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "path": [
+    "Move",
+    "Board Tricycle"
+   ],
+   "optional": true,
+   "patience": 900
+  },
+  {
+   "path": [
+    "Move",
+    "Board Tricycle"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Board Tricycle"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "path": [
+    "Outer Heaven"
+   ],
+   "patience": 6000
+  },
+  {
+   "path": [
+    "Exit Tricycle"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "save": "cov_B1D0_arrive"
+  },
+  {
+   "sweep": [
+    "Look",
+    "Investigate",
+    "Talk",
+    "Press him",
+    "Give proof",
+    "Ask"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out",
+    "Save",
+    "Deduce"
+   ]
+  },
+  {
+   "path": [
+    "Talk"
+   ],
+   "reps": 2,
+   "optional": true
+  },
+  {
+   "path": [
+    "Press him"
+   ],
+   "reps": 2,
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Give proof"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Sneeze"
+   ]
+  },
+  {
+   "path": [
+    "Give proof",
+    "Sneeze"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Talk",
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out",
+    "Save",
+    "Deduce"
+   ]
+  },
+  {
+   "path": [
+    "Item",
+    "Show",
+    "Medical chart"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Ask",
+    "Meaning of code"
+   ],
+   "optional": true
+  },
+  {
+   "path": [
+    "Ask",
+    "Element symbols"
+   ],
+   "optional": true
+  },
+  {
+   "sweep": [
+    "Ask"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Deduce"
+   ]
+  },
+  {
+   "path": [
+    "Deduce"
+   ],
+   "optional": true,
+   "patience": 1500
+  },
+  {
+   "type": "BENSON"
+  },
+  {
+   "sweep": [
+    "Ask",
+    "Talk",
+    "Look",
+    "Investigate"
+   ],
+   "rounds": 2,
+   "avoid": [
+    "Go out",
+    "Save"
+   ]
+  }
+ ]
+}

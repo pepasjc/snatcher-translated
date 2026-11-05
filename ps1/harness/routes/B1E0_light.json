@@ -1,0 +1,541 @@
+{
+ "scene": "B1E0",
+ "note": "Door 3 in the dark: sweep Metal's light over a 7x4 grid (cancel + direction moves it, ~1 px/frame after a 15-frame delay) and Check/Look at each cell - the drawer, the matchbook and the St Basil portrait.",
+ "actions": [
+  {
+   "light": [
+    [
+     "left",
+     220
+    ],
+    [
+     "up",
+     200
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "left",
+     260
+    ],
+    [
+     "down",
+     45
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "left",
+     260
+    ],
+    [
+     "down",
+     45
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "left",
+     260
+    ],
+    [
+     "down",
+     45
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "right",
+     40
+    ]
+   ]
+  },
+  {
+   "sweep": [
+    "Investigate",
+    "Look"
+   ],
+   "rounds": 1,
+   "avoid": [
+    "Go out"
+   ]
+  },
+  {
+   "light": [
+    [
+     "left",
+     260
+    ],
+    [
+     "down",
+     45
+    ]
+   ]
+  },
+  {
+   "save": "B1E0_scanned"
+  }
+ ]
+}
