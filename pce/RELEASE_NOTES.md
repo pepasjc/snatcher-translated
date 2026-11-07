@@ -1,6 +1,6 @@
 # Snatcher CD-ROMantic (PC Engine CD): English Translation Patch
 
-**Version 1.5**, 2026, by pepa
+**Version 1.5.1**, 2026, by pepa
 
 Snatcher is Hideo Kojima's cyberpunk adventure: in Neo Kobe City, Gillian
 Seed, a detective with no memory of his past, joins the JUNKER unit to hunt
@@ -9,7 +9,7 @@ the Snatchers, machines that kill people and take their place.
 Engine Super CD-ROM², Japan only. This patch puts it into English.
 
 This is the first public release of the PC Engine patch. Its version
-number matches the PlayStation and Saturn patches (1.5), which share one
+number matches the PlayStation and Saturn patches (1.5.1), which share one
 translation with it: the PC Engine script is the same story with fewer
 scenes, and where its Japanese differs, the English follows it.
 
@@ -67,22 +67,22 @@ By hand:
 
 ```
 copy /b "Snatcher CD-ROMantic (Japan) (Track 01).bin" + ... + "Snatcher CD-ROMantic (Japan) (Track 24).bin" "Snatcher CD-ROMantic (Japan).bin"
-xdelta3 -d -B 1073741824 -s "Snatcher CD-ROMantic (Japan).bin" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5].xdelta" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5].bin"
+xdelta3 -d -B 1073741824 -s "Snatcher CD-ROMantic (Japan).bin" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.1].xdelta" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.1].bin"
 ```
 
 (On Linux and macOS, `cat "Snatcher CD-ROMantic (Japan) (Track "*").bin >
 "Snatcher CD-ROMantic (Japan).bin"` joins the tracks.) Put `Snatcher
-CD-ROMantic (Japan) [T-En by pepa v1.5].cue` from the zip next to the new
+CD-ROMantic (Japan) [T-En by pepa v1.5.1].cue` from the zip next to the new
 file and load the .cue. Track 2 is longer than the original, so the cue's
 track times differ from the redump cue; use the one in the zip. The
 result should hash:
 
 ```
-Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5].bin
+Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.1].bin
 Size   634386144
-CRC32  1a22aeb4
-MD5    401e44ccb2044fa11ec5636c1d74a6d4
-SHA1   205aafe8009656751e293f3a79ee2d22cb0bc4ae
+CRC32  9be8d350
+MD5    87a5b52dcb2560e8f3ee7c57b4243799
+SHA1   c2ec76875670506edff7b3bb290f6abf007f4300
 ```
 
 ## Compatibility
@@ -108,6 +108,13 @@ Open on the tracker at release time (PC Engine label):
   portrait, which is wider than the others and covers the first word.
 
 ## Changelog
+
+### 1.5.1 (2026-11-07)
+
+- Gaudi's entry on Napoleon names the Hundred Days' Reign, the answer to
+  the videophone password (#102). It read "the Hundred Days".
+
+### 1.5 (2026-11-07)
 
 1.5 is the first release of the PC Engine patch. Changes since the last
 test builds:

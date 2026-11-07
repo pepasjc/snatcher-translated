@@ -1,6 +1,6 @@
 # Snatcher: English Translation (Sega Saturn, PlayStation and PC Engine CD)
 
-**Version 1.5**, 2026, by pepa
+**Version 1.5.1**, 2026, by pepa
 
 Snatcher is Hideo Kojima's cyberpunk adventure: in Neo Kobe City, Gillian
 Seed, a detective with no memory of his past, joins the JUNKER unit to hunt
@@ -41,9 +41,9 @@ PlayStation has it.
 
 | | Download | Patches |
 |---|---|---|
-| Sega Saturn | `Snatcher-Saturn-English-v1.5.zip` | track 1 + track 2 |
-| PlayStation | `Snatcher-PS1-English-v1.5.zip` | translation only, or uncensored |
-| PC Engine CD | `Snatcher-PCE-English-v1.5.zip` | the whole disc |
+| Sega Saturn | `Snatcher-Saturn-English-v1.5.1.zip` | track 1 + track 2 |
+| PlayStation | `Snatcher-PS1-English-v1.5.1.zip` | translation only, or uncensored |
+| PC Engine CD | `Snatcher-PCE-English-v1.5.1.zip` | the whole disc |
 
 Downloads: <https://github.com/pepasjc/snatcher-translated/releases>.
 
@@ -103,8 +103,8 @@ SHA1   a3ebab5b07a2b9a17aa68554072585be8839aba3
 (README.txt in the zip lists all three tracks.) Two patches are in the zip,
 one for track 1 and one for track 2; track 3 (the CD audio) is not changed.
 
-- `Snatcher (Japan) (Track 1) [T-En by pepa v1.5].xdelta`
-- `Snatcher (Japan) (Track 2) [T-En by pepa v1.5].xdelta`
+- `Snatcher (Japan) (Track 1) [T-En by pepa v1.5.1].xdelta`
+- `Snatcher (Japan) (Track 2) [T-En by pepa v1.5.1].xdelta`
 
 The easy way: put your three original track files in the folder you
 unzipped and run `apply.bat` (Windows, double-click) or `apply.sh` (Linux
@@ -116,24 +116,24 @@ is missing; on Linux and macOS install it first (`apt install xdelta3`,
 By hand:
 
 ```
-xdelta3 -d -s "Snatcher (Japan) (Track 1).bin" "Snatcher (Japan) (Track 1) [T-En by pepa v1.5].xdelta" "Snatcher (Japan) [T-En by pepa v1.5] (Track 1).bin"
-xdelta3 -d -s "Snatcher (Japan) (Track 2).bin" "Snatcher (Japan) (Track 2) [T-En by pepa v1.5].xdelta" "Snatcher (Japan) [T-En by pepa v1.5] (Track 2).bin"
+xdelta3 -d -s "Snatcher (Japan) (Track 1).bin" "Snatcher (Japan) (Track 1) [T-En by pepa v1.5.1].xdelta" "Snatcher (Japan) [T-En by pepa v1.5.1] (Track 1).bin"
+xdelta3 -d -s "Snatcher (Japan) (Track 2).bin" "Snatcher (Japan) (Track 2) [T-En by pepa v1.5.1].xdelta" "Snatcher (Japan) [T-En by pepa v1.5.1] (Track 2).bin"
 ```
 
 Delta Patcher (Windows) or MultiPatch (macOS) do the same with a window.
-Put `Snatcher (Japan) [T-En by pepa v1.5].cue` from the zip next to the two
+Put `Snatcher (Japan) [T-En by pepa v1.5.1].cue` from the zip next to the two
 new files and your original `Snatcher (Japan) (Track 3).bin`, and load the
 .cue. The new track 1 is larger than the original; that is expected. The
 results should hash:
 
 ```
-Snatcher (Japan) [T-En by pepa v1.5] (Track 1).bin
+Snatcher (Japan) [T-En by pepa v1.5.1] (Track 1).bin
 Size   479709216
-CRC32  6071e290
-MD5    f5a2c950294b4608ccb7e34d8f16ff95
-SHA1   9124fc2a7277f712fa532fe8b1f4750aecd0afc8
+CRC32  ad81e397
+MD5    e06f7639310a4aa140d5369952201189
+SHA1   23a6c177c4acfd1fe607cc98d34adc6d588e919f
 
-Snatcher (Japan) [T-En by pepa v1.5] (Track 2).bin
+Snatcher (Japan) [T-En by pepa v1.5.1] (Track 2).bin
 Size   58576560
 CRC32  4ddc9b55
 MD5    28ed4cbbb658d448ac8e5aa38e106a6e
@@ -213,9 +213,9 @@ SHA1   e6cd330feb594b3951089da866db1a400f0173f6
 
 Two patches are in the zip. Pick one:
 
-- `Snatcher (Japan) [T-En by pepa v1.5].xdelta`: the translation, with
+- `Snatcher (Japan) [T-En by pepa v1.5.1].xdelta`: the translation, with
   the game's artwork untouched.
-- `Snatcher (Japan) [T-En by pepa v1.5] (Uncensored).xdelta`: the same
+- `Snatcher (Japan) [T-En by pepa v1.5.1] (Uncensored).xdelta`: the same
   translation, with the PlayStation-only censorship undone.
 
 The easy way: put your `Snatcher (Japan).bin` in the folder you unzipped
@@ -229,13 +229,13 @@ By hand: apply it with xdelta3, Delta Patcher (Windows), MultiPatch
 (macOS) or any xdelta front-end:
 
 ```
-xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v1.5].xdelta" "Snatcher (Japan) [T-En by pepa v1.5].bin"
+xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v1.5.1].xdelta" "Snatcher (Japan) [T-En by pepa v1.5.1].bin"
 ```
 
 or
 
 ```
-xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v1.5] (Uncensored).xdelta" "Snatcher (Japan) [T-En by pepa v1.5] (Uncensored).bin"
+xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v1.5.1] (Uncensored).xdelta" "Snatcher (Japan) [T-En by pepa v1.5.1] (Uncensored).bin"
 ```
 
 Put the `.cue` of the same name next to the output `.bin`. The patched
@@ -243,19 +243,19 @@ image is larger than the original (relocated data is appended past the
 original end); that is expected. Expected results:
 
 ```
-Snatcher (Japan) [T-En by pepa v1.5].bin
+Snatcher (Japan) [T-En by pepa v1.5.1].bin
 Size   575687280
-CRC32  64cf727e
-MD5    cef411db00abbe4154e0fb5aa0081960
-SHA1   b97d508befdfcb460afd7658b015e0649e94af2c
+CRC32  ee7dbbe6
+MD5    c489d1722e4cb4022ae3d44a6733c980
+SHA1   7e9ff5b367ae425ba94ba50fe81d00ba1fe6d56f
 ```
 
 ```
-Snatcher (Japan) [T-En by pepa v1.5] (Uncensored).bin
+Snatcher (Japan) [T-En by pepa v1.5.1] (Uncensored).bin
 Size   575706096
-CRC32  554e3c8b
-MD5    911fb1e599dd4a4eb884e3739f678935
-SHA1   8e19777b5d665e793ad5bdc708ac2f08d7107c22
+CRC32  5338f74a
+MD5    4e617d715f0d1a99460e12472b8978c9
+SHA1   d4fe8a0d90cdff44349e9cfa26c64470098a8850
 ```
 
 Do not apply the patch to a `.iso` (2048-byte sectors) or a `.chd`;
@@ -325,22 +325,22 @@ By hand:
 
 ```
 copy /b "Snatcher CD-ROMantic (Japan) (Track 01).bin" + ... + "Snatcher CD-ROMantic (Japan) (Track 24).bin" "Snatcher CD-ROMantic (Japan).bin"
-xdelta3 -d -B 1073741824 -s "Snatcher CD-ROMantic (Japan).bin" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5].xdelta" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5].bin"
+xdelta3 -d -B 1073741824 -s "Snatcher CD-ROMantic (Japan).bin" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.1].xdelta" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.1].bin"
 ```
 
 (On Linux and macOS, `cat "Snatcher CD-ROMantic (Japan) (Track "*").bin >
 "Snatcher CD-ROMantic (Japan).bin"` joins the tracks.) Put `Snatcher
-CD-ROMantic (Japan) [T-En by pepa v1.5].cue` from the zip next to the new
+CD-ROMantic (Japan) [T-En by pepa v1.5.1].cue` from the zip next to the new
 file and load the .cue. Track 2 is longer than the original, so the cue's
 track times differ from the redump cue; use the one in the zip. The
 result should hash:
 
 ```
-Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5].bin
+Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.1].bin
 Size   634386144
-CRC32  1a22aeb4
-MD5    401e44ccb2044fa11ec5636c1d74a6d4
-SHA1   205aafe8009656751e293f3a79ee2d22cb0bc4ae
+CRC32  9be8d350
+MD5    87a5b52dcb2560e8f3ee7c57b4243799
+SHA1   c2ec76875670506edff7b3bb290f6abf007f4300
 ```
 
 ### Compatibility
@@ -467,7 +467,8 @@ is still a work in progress.
 
 ## Changelog
 
-- PC Engine: 1.5 is its first release.
+- PC Engine: 1.5 is its first release; 1.5.1 corrects Gaudi's entry on
+  Napoleon (#102), as on the other two ports.
 - Saturn: [CHANGELOG-Saturn.md](CHANGELOG-Saturn.md)
 - PlayStation: [CHANGELOG.md](CHANGELOG.md)
 

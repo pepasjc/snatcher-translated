@@ -1,6 +1,11 @@
 # Changelog (Sega Saturn)
 
-## 1.5 (unreleased)
+## 1.5.1 (2026-11-07)
+
+- Gaudi's entry on Napoleon names the Hundred Days' Reign, the answer to
+  the videophone password (#102). It read "the Hundred Days".
+
+## 1.5 (2026-11-07)
 
 Released together with the first PC Engine CD patch; all three ports now
 share one version number and one source tree.

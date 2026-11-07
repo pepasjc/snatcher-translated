@@ -1,6 +1,6 @@
 # Snatcher (Sega Saturn): English Translation Patch
 
-**Version 1.5**, 2026, by pepa
+**Version 1.5.1**, 2026, by pepa
 
 Snatcher is Hideo Kojima's cyberpunk adventure: in Neo Kobe City, Gillian
 Seed, a detective with no memory of his past, joins the JUNKER unit to hunt
@@ -16,6 +16,8 @@ patch came first, and the two share one translation.
 Version 1.5 fixes a freeze on Jamie's answering machine, two subtitle
 problems and a memory conflict behind garbled text late in the game, and
 redraws in English the small labels left in pictures (see the changelog).
+Version 1.5.1 corrects Gaudi's entry on Napoleon, which now names the
+Hundred Days' Reign, the videophone password's answer.
 If you are playing an earlier version, patch your original tracks again;
 your saves carry over.
 
@@ -67,8 +69,8 @@ SHA1   a3ebab5b07a2b9a17aa68554072585be8839aba3
 (README.txt in the zip lists all three tracks.) Two patches are in the zip,
 one for track 1 and one for track 2; track 3 (the CD audio) is not changed.
 
-- `Snatcher (Japan) (Track 1) [T-En by pepa v1.5].xdelta`
-- `Snatcher (Japan) (Track 2) [T-En by pepa v1.5].xdelta`
+- `Snatcher (Japan) (Track 1) [T-En by pepa v1.5.1].xdelta`
+- `Snatcher (Japan) (Track 2) [T-En by pepa v1.5.1].xdelta`
 
 The easy way: put your three original track files in the folder you
 unzipped and run `apply.bat` (Windows, double-click) or `apply.sh` (Linux
@@ -80,24 +82,24 @@ is missing; on Linux and macOS install it first (`apt install xdelta3`,
 By hand:
 
 ```
-xdelta3 -d -s "Snatcher (Japan) (Track 1).bin" "Snatcher (Japan) (Track 1) [T-En by pepa v1.5].xdelta" "Snatcher (Japan) [T-En by pepa v1.5] (Track 1).bin"
-xdelta3 -d -s "Snatcher (Japan) (Track 2).bin" "Snatcher (Japan) (Track 2) [T-En by pepa v1.5].xdelta" "Snatcher (Japan) [T-En by pepa v1.5] (Track 2).bin"
+xdelta3 -d -s "Snatcher (Japan) (Track 1).bin" "Snatcher (Japan) (Track 1) [T-En by pepa v1.5.1].xdelta" "Snatcher (Japan) [T-En by pepa v1.5.1] (Track 1).bin"
+xdelta3 -d -s "Snatcher (Japan) (Track 2).bin" "Snatcher (Japan) (Track 2) [T-En by pepa v1.5.1].xdelta" "Snatcher (Japan) [T-En by pepa v1.5.1] (Track 2).bin"
 ```
 
 Delta Patcher (Windows) or MultiPatch (macOS) do the same with a window.
-Put `Snatcher (Japan) [T-En by pepa v1.5].cue` from the zip next to the two
+Put `Snatcher (Japan) [T-En by pepa v1.5.1].cue` from the zip next to the two
 new files and your original `Snatcher (Japan) (Track 3).bin`, and load the
 .cue. The new track 1 is larger than the original; that is expected. The
 results should hash:
 
 ```
-Snatcher (Japan) [T-En by pepa v1.5] (Track 1).bin
+Snatcher (Japan) [T-En by pepa v1.5.1] (Track 1).bin
 Size   479709216
-CRC32  6071e290
-MD5    f5a2c950294b4608ccb7e34d8f16ff95
-SHA1   9124fc2a7277f712fa532fe8b1f4750aecd0afc8
+CRC32  ad81e397
+MD5    e06f7639310a4aa140d5369952201189
+SHA1   23a6c177c4acfd1fe607cc98d34adc6d588e919f
 
-Snatcher (Japan) [T-En by pepa v1.5] (Track 2).bin
+Snatcher (Japan) [T-En by pepa v1.5.1] (Track 2).bin
 Size   58576560
 CRC32  4ddc9b55
 MD5    28ed4cbbb658d448ac8e5aa38e106a6e

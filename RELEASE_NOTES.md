@@ -1,6 +1,6 @@
 # Snatcher (PlayStation): English Translation Patch
 
-**Version 1.5**, 2026, by pepa
+**Version 1.5.1**, 2026, by pepa
 
 Snatcher is Hideo Kojima's cyberpunk adventure: in Neo Kobe City, Gillian
 Seed, a detective with no memory of his past, joins the JUNKER unit to hunt
@@ -58,9 +58,9 @@ SHA1   e6cd330feb594b3951089da866db1a400f0173f6
 
 Two patches are in the zip. Pick one:
 
-- `Snatcher (Japan) [T-En by pepa v1.5].xdelta`: the translation, with
+- `Snatcher (Japan) [T-En by pepa v1.5.1].xdelta`: the translation, with
   the game's artwork untouched.
-- `Snatcher (Japan) [T-En by pepa v1.5] (Uncensored).xdelta`: the same
+- `Snatcher (Japan) [T-En by pepa v1.5.1] (Uncensored).xdelta`: the same
   translation, with the PlayStation-only censorship undone.
 
 The easy way: put your `Snatcher (Japan).bin` in the folder you unzipped
@@ -74,13 +74,13 @@ By hand: apply it with xdelta3, Delta Patcher (Windows), MultiPatch
 (macOS) or any xdelta front-end:
 
 ```
-xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v1.5].xdelta" "Snatcher (Japan) [T-En by pepa v1.5].bin"
+xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v1.5.1].xdelta" "Snatcher (Japan) [T-En by pepa v1.5.1].bin"
 ```
 
 or
 
 ```
-xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v1.5] (Uncensored).xdelta" "Snatcher (Japan) [T-En by pepa v1.5] (Uncensored).bin"
+xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-En by pepa v1.5.1] (Uncensored).xdelta" "Snatcher (Japan) [T-En by pepa v1.5.1] (Uncensored).bin"
 ```
 
 Put the `.cue` of the same name next to the output `.bin`. The patched
@@ -88,19 +88,19 @@ image is larger than the original (relocated data is appended past the
 original end); that is expected. Expected results:
 
 ```
-Snatcher (Japan) [T-En by pepa v1.5].bin
+Snatcher (Japan) [T-En by pepa v1.5.1].bin
 Size   575687280
-CRC32  64cf727e
-MD5    cef411db00abbe4154e0fb5aa0081960
-SHA1   b97d508befdfcb460afd7658b015e0649e94af2c
+CRC32  ee7dbbe6
+MD5    c489d1722e4cb4022ae3d44a6733c980
+SHA1   7e9ff5b367ae425ba94ba50fe81d00ba1fe6d56f
 ```
 
 ```
-Snatcher (Japan) [T-En by pepa v1.5] (Uncensored).bin
+Snatcher (Japan) [T-En by pepa v1.5.1] (Uncensored).bin
 Size   575706096
-CRC32  554e3c8b
-MD5    911fb1e599dd4a4eb884e3739f678935
-SHA1   8e19777b5d665e793ad5bdc708ac2f08d7107c22
+CRC32  5338f74a
+MD5    4e617d715f0d1a99460e12472b8978c9
+SHA1   d4fe8a0d90cdff44349e9cfa26c64470098a8850
 ```
 
 Do not apply the patch to a `.iso` (2048-byte sectors) or a `.chd`;
