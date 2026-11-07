@@ -157,7 +157,7 @@ def hooked(track1):
 
 
 def version():
-    """The Saturn patch's version: saturn/VERSION (the root VERSION is the PS1 patch's)."""
+    """The Saturn patch's version: saturn/VERSION (ps1/VERSION is the PS1 patch's)."""
     return open(os.path.join(ROOT, "saturn", "VERSION")).read().strip()
 
 

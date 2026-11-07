@@ -6,7 +6,7 @@ Python, so it runs on Linux and in the Docker image too.
 
 Inputs: discs/iso_ps1_jp/Snatcher (Japan).bin (pristine), patched/Snatcher
 (Japan) [censored].bin and patched/Snatcher (Japan).bin (the two variants),
-VERSION, RELEASE_NOTES.md (must name both patches and both result SHA1s:
+ps1/VERSION, ps1/RELEASE_NOTES.md (must name both patches and both result SHA1s:
 lib/stamp_notes.py stamps the hashes). Each patch is verified by decoding it
 against the pristine image. xdelta3: lib/xdelta/xdelta3.exe on Windows, else
 PATH.
@@ -54,7 +54,7 @@ def make(xd, dst, out, label):
 
 
 def main():
-    ver = open(os.path.join(ROOT, "VERSION")).read().strip()
+    ver = open(os.path.join(ROOT, "ps1", "VERSION")).read().strip()
     name = f"Snatcher (Japan) [T-En by pepa v{ver}]"
     name_unc = name + " (Uncensored)"
     out = os.path.join(OUTDIR, name + ".xdelta")
@@ -69,7 +69,7 @@ def main():
     print("Writing cue and README...")
     rc = R.readme(ver, SRC, DST, out, os.path.join(OUTDIR, "README.txt"), DST_UNC, out_unc)
     if rc:
-        sys.exit("ERROR: RELEASE_NOTES.md is stale (see above)")
+        sys.exit("ERROR: ps1/RELEASE_NOTES.md is stale (see above)")
     zpath = os.path.join(OUTDIR, f"Snatcher-PS1-English-v{ver}.zip")
     if os.path.exists(zpath):
         os.remove(zpath)

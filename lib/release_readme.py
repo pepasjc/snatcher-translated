@@ -161,7 +161,7 @@ def check_notes(patch_name, dst_hashes):
     out telling players to run the v0.5.2 command). README.txt is generated,
     so it cannot drift; this is the guard for the one that can."""
     notes = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-                         "RELEASE_NOTES.md")
+                         "ps1", "RELEASE_NOTES.md")
     if not os.path.exists(notes):
         return 0
     text = open(notes, encoding="utf-8").read()
@@ -171,7 +171,7 @@ def check_notes(patch_name, dst_hashes):
     if dst_hashes["SHA1"] not in text:
         bad.append(f"the expected-result SHA1 is not {dst_hashes['SHA1']}")
     if bad:
-        print("ERROR: RELEASE_NOTES.md is stale -")
+        print("ERROR: ps1/RELEASE_NOTES.md is stale -")
         for b in bad:
             print("   -", b)
         print("   update its 'How to apply' block, then re-run Make-Patch.")

@@ -134,9 +134,9 @@ FILE "Snatcher.bin" BINARY
 
 ## Changelog
 
-See <https://github.com/pepasjc/snatcher-translated/blob/main/CHANGELOG-Saturn.md>.
+See <https://github.com/pepasjc/snatcher-translated/blob/main/saturn/CHANGELOG.md>.
 The script is shared with the PlayStation translation, whose full history
-is at <https://github.com/pepasjc/snatcher-translated/blob/main/CHANGELOG.md>.
+is at <https://github.com/pepasjc/snatcher-translated/blob/main/ps1/CHANGELOG.md>.
 
 ## Credits
 

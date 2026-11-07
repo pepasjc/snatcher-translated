@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-"""Stamp the built images' hashes into RELEASE_NOTES.md.
+"""Stamp the built images' hashes into ps1/RELEASE_NOTES.md.
 
-Make-Patch.bat refuses to finish while RELEASE_NOTES.md names the wrong
+Make-Patch.bat refuses to finish while ps1/RELEASE_NOTES.md names the wrong
 patch files or the wrong result hashes (release_readme.check_notes), because
 0.6 once shipped telling players to run the 0.5.2 command. The filename half
 of that check is worth keeping manual - it is the half that catches a
@@ -26,14 +26,14 @@ WORK = os.path.join(ROOT, "work")
 sys.path[:0] = [os.path.join(ROOT, d) for d in ('lib', 'lib/asr', 'ps1/tools', 'ps1/subs', 'ps1/harness', 'pce/tools')]
 from release_readme import hashes
 
-NOTES = os.path.join(ROOT, 'RELEASE_NOTES.md')
+NOTES = os.path.join(ROOT, 'ps1', 'RELEASE_NOTES.md')
 # the .bin a patch produces -> the image it is built from
 VARIANTS = [('', 'Snatcher (Japan) [censored].bin'),
             (' (Uncensored)', 'Snatcher (Japan).bin')]
 
 
 def version():
-    return open(os.path.join(ROOT, 'VERSION'), encoding='utf-8').read().strip()
+    return open(os.path.join(ROOT, 'ps1', 'VERSION'), encoding='utf-8').read().strip()
 
 
 def block(h):

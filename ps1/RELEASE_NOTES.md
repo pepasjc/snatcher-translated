@@ -42,7 +42,7 @@ differently, so it was translated from the Japanese.
 
 ## Changelog
 
-See <https://github.com/pepasjc/snatcher-translated/blob/main/CHANGELOG.md>.
+See <https://github.com/pepasjc/snatcher-translated/blob/main/ps1/CHANGELOG.md>.
 
 ## How to apply
 

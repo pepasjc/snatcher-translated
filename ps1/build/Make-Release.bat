@@ -54,7 +54,7 @@ python ps1\tools\check_variant.py uncensored || goto :fail
 
 echo.
 echo === Release notes ===
-rem The result hashes change on every rebuild; stamp them into RELEASE_NOTES.md
+rem The result hashes change on every rebuild; stamp them into ps1\RELEASE_NOTES.md
 rem so Make-Patch's staleness guard is left to catch the half that matters,
 rem the patch FILENAMES (0.6 shipped naming 0.5.2's file).
 python lib\stamp_notes.py || goto :fail

@@ -469,8 +469,8 @@ is still a work in progress.
 
 - PC Engine: 1.5 is its first release; 1.5.1 corrects Gaudi's entry on
   Napoleon (#102), as on the other two ports.
-- Saturn: [CHANGELOG-Saturn.md](CHANGELOG-Saturn.md)
-- PlayStation: [CHANGELOG.md](CHANGELOG.md)
+- Saturn: [saturn/CHANGELOG.md](saturn/CHANGELOG.md)
+- PlayStation: [ps1/CHANGELOG.md](ps1/CHANGELOG.md)
 
 Older releases: <https://github.com/pepasjc/snatcher-translated/releases>.
 

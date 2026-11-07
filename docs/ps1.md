@@ -856,7 +856,7 @@ Per variant, starting from a deleted image:
 | 20 | `fmvtext.py apply` (first variant) / `fmvtext.py mirror` (second) | edits the image, so it comes after `patch_disc` |
 
 With `--release`, `check_variant.py` checks both images, `lib/stamp_notes.py`
-stamps the result hashes into `RELEASE_NOTES.md`, and `ps1release.py` writes
+stamps the result hashes into `ps1/RELEASE_NOTES.md`, and `ps1release.py` writes
 the two xdelta patches (pristine → each image), their cues, `README.txt`, the
 apply scripts and the zip. Each patch is verified by applying it. The patch
 is around 21 MB, most of it the re-encoded intro movie.
