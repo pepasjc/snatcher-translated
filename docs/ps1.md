@@ -8,7 +8,7 @@ it to another language, or carry the method to another game.
 Related documents:
 
 - [BUILDING.md](../BUILDING.md): building the images and patches from your own dumps.
-- [ps1/translation/README.md](../ps1/translation/README.md): the data files
+- [ps1/README.md](../ps1/README.md): the data files
   a translator edits (bank strings, cue files, picture texts) and their fields.
 - [docs/review-tool.md](review-tool.md): the local web page used to review the
   script against the Japanese and the voices.
@@ -648,7 +648,7 @@ restores them before `GAME_INIT`.
 ### Cue data and cards
 
 Cue files are described field by field in
-[ps1/translation/README.md](../ps1/translation/README.md). In short, a cue is
+[ps1/README.md](../ps1/README.md). In short, a cue is
 `{id, file, chan, start, end, dur, speaker, en, enabled, last?, cols?,
 anchor?, by_ear?, y?, noband?}`, with `options` holding `rows`, `cols`,
 `menu_word` (the scene's verb-menu window word; `mode` is derived from it),

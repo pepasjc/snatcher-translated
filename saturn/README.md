@@ -1,6 +1,6 @@
 # saturn/translation - the English data of the Sega Saturn port
 
-This folder holds every piece of English the Saturn build writes into the
+`saturn/translation/` holds every piece of English the Saturn build writes into the
 game: the scene-bank text (`SAT_NNN_Bxxx.json`), the voice subtitles
 (`subs_*.json`), the speaker names, the opening's credit roll and caption,
 small picture labels, and the map that ties the Saturn's voice lines to the
@@ -32,13 +32,13 @@ String conventions (shared with the PS1 data):
   Japanese (`見るω`); it draws the blank glyph. It is kept where the Japanese
   has it (`Lookω`). What the engine uses it for is not established.
 
-**No Japanese script lives here.** The Japanese stays in the game: the build
+**No Japanese script lives in `saturn/translation/`.** The Japanese stays in the game: the build
 extracts `DATA.BIN` from the user's own disc and `satapply.py` overwrites
 strings in place, so a string with an empty `en` simply keeps its Japanese.
 For review tools, `build.py` dumps the banks to `work/saturn/ref/SAT_NNN_Bxxx.json`
 (`satdata.py script`: `{off, budget, jp}` per string, same order as the files
 here) and `work/saturn/carry/` (the carry records with the Saturn and PS1
-Japanese side by side). The only Japanese in this folder: colour codes inside
+Japanese side by side). The only Japanese in `saturn/translation/`: colour codes inside
 English lines, the original speaker names in `names.json` (`jp`), and a few
 staff names quoted in `staff_roll.json`'s comment.
 

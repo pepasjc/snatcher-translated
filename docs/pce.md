@@ -8,7 +8,7 @@ card-cutting rules, the label edit operations), and this document points there
 instead of restating them. Building from your own dumps is in
 [BUILDING.md](../BUILDING.md) (`python build.py pce [--release]`); the formats of
 the files under `pce/translation/` are in
-[pce/translation/README.md](../pce/translation/README.md).
+[pce/README.md](../pce/README.md).
 
 Every tool named here lives in `pce/tools/` unless another path is given, and
 nearly every one is `python pce/tools/<tool>.py apply` in the build plus a
@@ -546,7 +546,7 @@ region whose mouth sprite changes most during a line as the speaker's, and
 `pce/translation/subs_<rec>.json` maps a voice key (NN in hex) to
 `{speaker, en, ps1, layout, cards}`. `cdda_<rec>.json` lists
 `{track, start, end (seconds), speaker, en, layout, cards, ...}`. The schema is in
-[pce/translation/README.md](../pce/translation/README.md). How the drafts are made:
+[pce/README.md](../pce/README.md). How the drafts are made:
 
 - `pceasr.py` transcribes every line (faster-whisper, Japanese) into
   `work/pce/asr_cache.json`.

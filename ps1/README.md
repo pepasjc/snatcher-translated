@@ -1,6 +1,6 @@
 # ps1/translation - the English data of the PlayStation port
 
-This folder holds every piece of English that the PlayStation build writes
+`ps1/translation/` holds every piece of English that the PlayStation build writes
 into the game: the script of the 39 scene banks, the voice-line subtitles,
 and the text baked into a few pictures and the intro movie. None of these
 files contains the Japanese source. The build reads the Japanese from your

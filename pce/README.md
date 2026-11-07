@@ -1,7 +1,7 @@
 # pce/translation - English data for the PC Engine CD port
 
-This folder holds the English for *Snatcher CD-ROMantic* (PC Engine Super CD-ROM2).
-Nothing here is code and nothing here is Japanese text: the Japanese is read from
+`pce/translation/` holds the English for *Snatcher CD-ROMantic* (PC Engine Super CD-ROM2).
+Nothing there is code and nothing there is Japanese text: the Japanese is read from
 your own disc image at build time (`python build.py pce` joins the tracks in
 `discs/iso_pcecd_jp/` into `work/pce/snatcher_pce.bin`; `pce/tools/pcescript.py dump`
 decodes every module's script into `work/pce/script/<rec>.json`). Where a file

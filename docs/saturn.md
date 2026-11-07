@@ -6,7 +6,7 @@ step changes. It is written for programmers. To build the patch, read
 [BUILDING.md](../BUILDING.md). The PlayStation port has its own document,
 [docs/ps1.md](ps1.md). The Saturn port reuses much of that design, and this
 document links there for it instead of repeating it. The subtitle cue format
-is documented in [saturn/translation/README.md](../saturn/translation/README.md).
+is documented in [saturn/README.md](../saturn/README.md).
 
 All addresses are SH-2 addresses in the running game unless a file offset is
 given. `MAIN_L.BIN` loads at `0x060B0000`, so its file offset = address -
@@ -513,7 +513,7 @@ or the engine's own text does. Without it a 0.4-second line such as B020's
 Banks that play a line differently from the PS1 are handled in
 `gen_subs.LINE_HOME` and `CHAINS`. The cue JSON is the shipped data; hand
 edits live there. Its fields are documented in
-[saturn/translation/README.md](../saturn/translation/README.md).
+[saturn/README.md](../saturn/README.md).
 
 ### Card cutting
 

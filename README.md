@@ -428,9 +428,9 @@ itself, not just its script.
 | [docs/ps1.md](docs/ps1.md) | The PlayStation game and the patch: disc and file tables, text encoding and storage, the pair-glyph font, word wrap, menus and keyboard, voice subtitles, graphics, uncensoring, build order, engine reference |
 | [docs/saturn.md](docs/saturn.md) | The Saturn port: tracks and DATA.BIN, the carried PS1 English, long strings and SH-2 stubs, font, subtitles on ADPCM lines and reels, graphics, build order, engine reference |
 | [docs/pce.md](docs/pce.md) | The PC Engine port: the disc and its file table, script modules, the hooked font, long strings, voice and CD-audio subtitles, graphics, build order, engine reference |
-| [ps1/translation/README.md](ps1/translation/README.md) | Every PlayStation data file and field: script strings, subtitle cues, pictures, credits |
-| [saturn/translation/README.md](saturn/translation/README.md) | Every Saturn data file and field |
-| [pce/translation/README.md](pce/translation/README.md) | Every PC Engine data file and field, including the dialogue keys and the portrait signatures |
+| [ps1/README.md](ps1/README.md) | Every PlayStation data file and field: script strings, subtitle cues, pictures, credits |
+| [saturn/README.md](saturn/README.md) | Every Saturn data file and field |
+| [pce/README.md](pce/README.md) | Every PC Engine data file and field, including the dialogue keys and the portrait signatures |
 | [BUILDING.md](BUILDING.md) | Building any of the three patches from your own discs, with or without Docker |
 | [docs/review-tool.md](docs/review-tool.md) | The tool the translation is reviewed in |
 

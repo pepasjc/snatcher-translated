@@ -140,4 +140,4 @@ work/           scratch; only six committed build inputs (pair table, free slots
 How each port works - disc, text, font, subtitles, graphics, build order,
 engine addresses - is in [`docs/ps1.md`](docs/ps1.md),
 [`docs/saturn.md`](docs/saturn.md) and [`docs/pce.md`](docs/pce.md); every
-data file is described in its folder's `translation/README.md`.
+data file is described in its port's `README.md` (`ps1/`, `saturn/`, `pce/`).
