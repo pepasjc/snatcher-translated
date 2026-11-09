@@ -279,7 +279,13 @@ OVERFLOW = [478]             # modules whose whole table goes to the voice bank 
 CD_OVERFLOW = [670]          # modules whose CD-DA cues alone go there (the ending's 23 KB of lines fill it)
 OVERFLOW_REC = (54, 24)
 ACT_RECS = [(86, 3), (90, 3), (94, 3), (98, 3), (102, 3), (106, 3)]
-OVERFLOW_RUNS = [(0x940, 0x1000, True), (0x1800, 0x1F30, False)]     # (start, end, in the act files too)
+OVERFLOW_RUNS = [(0x940, 0x1000, True), (0x1800, 0x1F2E, False)]     # (start, end, in the act files too)
+# The stub's test that rec 54 is in: "CK" in the run's last two bytes (CDTAIL), the last the
+# bank's last sector writes before the game's table. The BIOS copies a sector byte by byte
+# with the vblank running, so the signature at the head of the clock's block (cdsig) passed
+# while the keeper behind it was still the opening's scratch: START in the opening loads
+# rec 110 and rec 54 together, the stub called into the half-copied sector and hung (#108)
+CDTAIL = 0x1F2E
 # 0x1F30-0x1FFF is NOT free: the game copies a 208-byte table there (the same bytes in the
 # opening's scratch and after rec 54's load) - no layout reached it before the cards of
 # 2026-10-15, whose keeper there hung the start of Act 1 (a black screen, the vblank running).
@@ -943,7 +949,7 @@ rowx:
                  ("HOLDCHK", HOLDCHK if resident else "")):
         out = out.replace("{" + k + "}", v)
     for k in ("CDSCAN", "CDWAS", "CDTBL", "CDOK", "CDMAG", "CDMODE", "CDCUR", "CDSIG", "FHOLD", "VFIX", "KEEP", "CDINI2"):
-        out = out.replace("{" + k + "}", str(tl[k.lower()]))
+        out = out.replace("{" + k + "}", str(VOICE_WIN + CDTAIL if k == "CDSIG" else tl[k.lower()]))
     return out
 
 
@@ -2311,9 +2317,7 @@ rbit0:
   ORA occ
   STA occ
   PLA
-  BNE rknown
-  LDX tmp
-  STZ present,X
+  BNE rknown             ; (present stays set for an unknown face: fsprite hides its region)
   JMP rgnext
 rknown:
   LDA tmp2
@@ -2608,8 +2612,10 @@ mdirect:
 ; window band (y from 0xC0 with the table's 64 offset: a face's top cells sit above its
 ; object's y) a sprite drawing from the speaker's region moves left with its face (its
 ; region's left edge onto FACE_X, the same column for every face), one drawing from any
-; other region (0-7, patterns 0x200-0x3FF: the portraits' 4-7, the ending's 0-3; the
-; picture's pieces sit lower) is taken off (x 0). The game's own tables are never touched: its script reads them and took other
+; other region (0-7, patterns 0x200-0x3FF: the portraits' 4-7, the ending's 0-3 - in 0-3
+; only one a face object on the band draws from (present): a picture piece may reach the band,
+; #107) is
+; taken off (x 0). The game's own tables are never touched: its script reads them and took other
 ; paths when they were (the faces moved off the screen, the ruins' end skipped its wait for
 ; the CD track and opened the menu into our rows; hidden by the object flag, the act-2 recap
 ; never asked for its second track, and Metal Gear hidden was no Use Metal Gear on the verb
@@ -2708,6 +2714,12 @@ fsb:
   LSR
   ORA tmp
   STA tmp
+  CMP #4                 ; regions 0-3 hold picture pieces too: one goes only when the last
+  BCS fsrecap            ; scan saw a face object on the band draw from it (present, known or
+  TAY                    ; not, on screen or still sliding in). Chin's mugshot (574, the
+  LDA present,Y          ; hospital list's QUEEN), an object above the band, draws from region
+  BEQ fsn0               ; 1 down to line 152 and lost its lower cells here (#107)
+fsrecap:
   LDA 0x351D             ; recap page borders also use sprites below the picture
   CMP #5
   BNE fsregion
@@ -3467,8 +3479,9 @@ CD_SOURCE = """
 FETCH = {FETCH}
 MAGIC = {MAGIC}
 FACE = {FACE}
-cdsig:  .byte 0x43, 0x4B         ; "CK": the block is in (the opening overwrites the voice bank, and
-                                 ; rec 110 - the stub - comes back before rec 54 does)
+cdsig:  .byte 0x43, 0x4B         ; "CK" (no longer the stub's test: CDTAIL, the run's end, is - #108;
+                                 ; the opening overwrites the voice bank, and rec 110 - the stub -
+                                 ; comes back before rec 54 does)
 ; (the clock's variables before its code: a label used before it is defined assembles as
 ; a zero-page operand and the addresses shift)
 cdstat: .byte 0
@@ -3691,15 +3704,23 @@ TRAMP_SOURCE = """
 ; then the stub - the one in the resident file (rec 110's first bank at MPR5) when that is
 ; in, else one at $9000 in a bank at MPR4: the module's fourth (the ending, which runs
 ; without rec 110), then $6C (the opening's blocks, pceopening). Two bytes of each
-; signature; AD_STAT is the stub's to read. 76 bytes, the gap's all: EOR keeps the carry,
-; so the ADC of the resident's bank leaves it clear into the loop, the loop's ADC clear into
-; SBC, and the SBC's own (set: no borrow) into the second ADC - 0x19, then 3 + C = 4.
+; signature; AD_STAT is the stub's to read. EOR keeps the carry, so the ADC of the
+; resident's bank leaves it clear into the loop, the loop's ADC clear into SBC, and the SBC's
+; own (set: no borrow) into the second ADC - 0x19, then 3 + C = 4. MPR4/MPR5 are not saved
+; here: the handler's exit ($42D8-$42E2) restores MPR3-6, and nothing between this RTS and
+; there maps anything.
+; The CD service runs under the game's guard ($30 = 2: a nested vblank takes the short path).
+; The handler cleared $30 before this part, so a vblank arriving mid-service ran the main
+; part nested - the script, which polls CD_SUBQ while it waits for a track's end - and a BIOS
+; CD call nested in the service's own sub-Q read wedged the SCSI handshake for good (#109: the
+; Act 2 recap's track 5 -> 6 on Mesen). The game's main part is short enough that its service
+; ends well before the next vblank; ours (the walker hook, the faces, the renderer under a
+; page) put the service late in the frame, ~210 lines down at the recap's track end.
 tstat:
+  LDA #2
+  STA 0x30
   JSR 0x6021             ; the CD service (the text bank is at MPR3 here)
-  TMA #0x20
-  PHA
-  TMA #0x10
-  PHA
+  STZ 0x30               ; (the stub expects $30 clear, as the handler leaves it here)
   LDA #{BANK}
   CLC
   ADC 0x3F80
@@ -3732,10 +3753,6 @@ tnext:
   TAY
   BCS tm1
 tdone:
-  PLA
-  TAM #0x10
-  PLA
-  TAM #0x20
   RTS
 """
 
@@ -4848,6 +4865,7 @@ def overflow_tables(magics=None):
     code, _ = vfix_block(VOICE_WIN, fhold=fh, klost=kl)      # (#91) its own run
     place("vfixcode", None, code)
     out["vfixcode"] = (out["vfixcode"][0], vfix_block(VOICE_WIN + out["vfixcode"][0] - 0x8000, fhold=fh, klost=kl)[0], out["vfixcode"][2])
+    out["cdtail"] = (0x8000 + CDTAIL, b"CK", False)          # last: the stub's test that rec 54 is in
     return out
 
 
@@ -4891,7 +4909,7 @@ def apply(out_path=P.OUT):
             obase = (S.T2 + r) * P.DATA
             assert bytes(img.data[obase + at:obase + at + len(t)]) == bytes([0xFF]) * len(t), f"rec {r} at {at:#x} is not pristine"
             img.write(obase + at, t)
-        what = {"sigs": "the face signatures", "cdcode": "the CD-DA clock", "vfixcode": "the window's keeper (#91)", "klostcode": "the borrowed region's clear"}.get(rec) or f"rec {rec}'s {'cues' if str(rec).startswith('cd') else 'table'}"
+        what = {"sigs": "the face signatures", "cdcode": "the CD-DA clock", "vfixcode": "the window's keeper (#91)", "klostcode": "the borrowed region's clear", "cdtail": "the stub's signature (#108)"}.get(rec) or f"rec {rec}'s {'cues' if str(rec).startswith('cd') else 'table'}"
         print(f"voice bank: {what}, {len(t)} B at {at:#06x}{' of rec 54 and the six act files' if shared else ' of rec 54'}")
     ps = patches()
     for at, old, new in ps:

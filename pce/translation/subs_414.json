@@ -242,8 +242,10 @@
    "B0E0_002b"
   ],
   "cards": [
-   "You certainly like|your entertainment,|sir. Thank you!"
-  ]
+   "You certainly like|your entertainment, sir.",
+   "Thank you!"
+  ],
+  "layout": "plain"
  },
  "96": {
   "speaker": "Gillian",

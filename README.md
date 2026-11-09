@@ -1,6 +1,6 @@
 # Snatcher: English Translation (Sega Saturn, PlayStation and PC Engine CD)
 
-**Version 1.5.1**, 2026, by pepa
+**Version 1.5.1** (PC Engine 1.5.2), 2026, by pepa
 
 Snatcher is Hideo Kojima's cyberpunk adventure: in Neo Kobe City, Gillian
 Seed, a detective with no memory of his past, joins the JUNKER unit to hunt
@@ -43,7 +43,7 @@ PlayStation has it.
 |---|---|---|
 | Sega Saturn | `Snatcher-Saturn-English-v1.5.1.zip` | track 1 + track 2 |
 | PlayStation | `Snatcher-PS1-English-v1.5.1.zip` | translation only, or uncensored |
-| PC Engine CD | `Snatcher-PCE-English-v1.5.1.zip` | the whole disc |
+| PC Engine CD | `Snatcher-PCE-English-v1.5.2.zip` | the whole disc |
 
 Downloads: <https://github.com/pepasjc/snatcher-translated/releases>.
 
@@ -325,7 +325,7 @@ By hand:
 
 ```
 copy /b "Snatcher CD-ROMantic (Japan) (Track 01).bin" + ... + "Snatcher CD-ROMantic (Japan) (Track 24).bin" "Snatcher CD-ROMantic (Japan).bin"
-xdelta3 -d -B 1073741824 -s "Snatcher CD-ROMantic (Japan).bin" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.1].xdelta" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.1].bin"
+xdelta3 -d -B 1073741824 -s "Snatcher CD-ROMantic (Japan).bin" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.2].xdelta" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.2].bin"
 ```
 
 (On Linux and macOS, `cat "Snatcher CD-ROMantic (Japan) (Track "*").bin >
@@ -336,11 +336,11 @@ track times differ from the redump cue; use the one in the zip. The
 result should hash:
 
 ```
-Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.1].bin
+Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.2].bin
 Size   634386144
-CRC32  9be8d350
-MD5    87a5b52dcb2560e8f3ee7c57b4243799
-SHA1   c2ec76875670506edff7b3bb290f6abf007f4300
+CRC32  510c5477
+MD5    f1788e6f18a343f6e5b808129f55ecb6
+SHA1   03701bfd7ad942a8a1357cc8bf1045d391814d65
 ```
 
 ### Compatibility
@@ -354,14 +354,8 @@ MiSTer. The patched image is plain BIN/CUE and converts to CHD with
 
 Open on the tracker at release time (PC Engine label):
 
-- #94: after saving, quitting and starting a New Game, the opening can
-  play black under its subtitles.
 - #86: the subtitles in Randam's scene at the end of Act 1 can run out of
   step with the voices.
-- #78: at Gibson's house, the diary's spoken lines draw their subtitle
-  under the computer screen.
-- #58: at the start of Act 2 the game can freeze in the Chief's room with
-  the recap's last subtitle on screen.
 
 ## How it was translated
 
@@ -468,7 +462,10 @@ is still a work in progress.
 ## Changelog
 
 - PC Engine: 1.5 is its first release; 1.5.1 corrects Gaudi's entry on
-  Napoleon (#102), as on the other two ports.
+  Napoleon (#102), as on the other two ports; 1.5.2 fixes two freezes
+  (skipping the opening, the Act 2 opening) and four picture and subtitle
+  bugs (#106-#111, #58). Details in
+  [pce/RELEASE_NOTES.md](pce/RELEASE_NOTES.md).
 - Saturn: [saturn/CHANGELOG.md](saturn/CHANGELOG.md)
 - PlayStation: [ps1/CHANGELOG.md](ps1/CHANGELOG.md)
 

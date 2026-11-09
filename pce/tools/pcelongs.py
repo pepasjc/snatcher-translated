@@ -57,8 +57,12 @@ PLACE = {318: (0x6B, 0x0000, 0x1CD0), 350: (0x6C, 0x1758, 0x04A8), 478: (0x6C, 0
 # runs of a place the module's own scenes read (offsets in the bank): the blob carries 750's
 # bytes there unchanged and the strings go round them. 478's mechanic room draws Harry and the
 # monitor's picture from S5's second half - the blob over it took Harry off the screen for
-# whole lines (2026-10-15; never-written is not unused, again)
-HOLES = {478: [(0x1200, 0x1758)]}
+# whole lines (2026-10-15; never-written is not unused, again). S5's stream ends at 0x11E9:
+# from there to 0x1758 lie the frame table every item close-up shares (`frames` = $6C:11E9 in
+# all 18 records) and the anim tables. The hole once started at 0x1200 and the blob's strings
+# zeroed frames 0-11 - items 0-6 (the chess piece, the Oleen picture, Chin's mugshot...) drew
+# garbage or stray sprites in every module after 478 until the next 750 read (#106, #107)
+HOLES = {478: [(0x11E9, 0x1758)]}
 
 
 def holes(rec):

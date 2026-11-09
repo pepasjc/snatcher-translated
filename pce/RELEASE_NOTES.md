@@ -1,16 +1,17 @@
 # Snatcher CD-ROMantic (PC Engine CD): English Translation Patch
 
-**Version 1.5.1**, 2026, by pepa
+**Version 1.5.2**, 2026, by pepa
 
 Snatcher is Hideo Kojima's cyberpunk adventure: in Neo Kobe City, Gillian
 Seed, a detective with no memory of his past, joins the JUNKER unit to hunt
 the Snatchers, machines that kill people and take their place.
-*Snatcher CD-ROMantic* (Konami, 1992) is the original release, on the PC
+*Snatcher CD-ROMantic* (Konami, 1992) is the CD-ROM remake of the 1988
+original and the first version with the whole story to its end, on the PC
 Engine Super CD-ROM², Japan only. This patch puts it into English.
 
-This is the first public release of the PC Engine patch. Its version
-number matches the PlayStation and Saturn patches (1.5.1), which share one
-translation with it: the PC Engine script is the same story with fewer
+1.5.2 fixes six bugs players reported in the first release. The
+PlayStation and Saturn patches stay at 1.5.1; all three share one
+translation: the PC Engine script is the same story with fewer
 scenes, and where its Japanese differs, the English follows it.
 
 ## What is translated
@@ -67,22 +68,22 @@ By hand:
 
 ```
 copy /b "Snatcher CD-ROMantic (Japan) (Track 01).bin" + ... + "Snatcher CD-ROMantic (Japan) (Track 24).bin" "Snatcher CD-ROMantic (Japan).bin"
-xdelta3 -d -B 1073741824 -s "Snatcher CD-ROMantic (Japan).bin" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.1].xdelta" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.1].bin"
+xdelta3 -d -B 1073741824 -s "Snatcher CD-ROMantic (Japan).bin" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.2].xdelta" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.2].bin"
 ```
 
 (On Linux and macOS, `cat "Snatcher CD-ROMantic (Japan) (Track "*").bin >
 "Snatcher CD-ROMantic (Japan).bin"` joins the tracks.) Put `Snatcher
-CD-ROMantic (Japan) [T-En by pepa v1.5.1].cue` from the zip next to the new
+CD-ROMantic (Japan) [T-En by pepa v1.5.2].cue` from the zip next to the new
 file and load the .cue. Track 2 is longer than the original, so the cue's
 track times differ from the redump cue; use the one in the zip. The
 result should hash:
 
 ```
-Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.1].bin
+Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.2].bin
 Size   634386144
-CRC32  9be8d350
-MD5    87a5b52dcb2560e8f3ee7c57b4243799
-SHA1   c2ec76875670506edff7b3bb290f6abf007f4300
+CRC32  510c5477
+MD5    f1788e6f18a343f6e5b808129f55ecb6
+SHA1   03701bfd7ad942a8a1357cc8bf1045d391814d65
 ```
 
 ## Compatibility
@@ -96,18 +97,28 @@ MiSTer. The patched image is plain BIN/CUE and converts to CHD with
 
 Open on the tracker at release time (PC Engine label):
 
-- #94: after saving, quitting and starting a New Game, the opening can
-  play black under its subtitles.
 - #86: the subtitles in Randam's scene at the end of Act 1 can run out of
   step with the voices.
-- #78: at Gibson's house, the diary's spoken lines draw their subtitle
-  under the computer screen.
-- #58: at the start of Act 2 the game can freeze in the Chief's room with
-  the recap's last subtitle on screen.
 - In the factory ruins, Gillian's "A time bomb!" sits beside her screaming
   portrait, which is wider than the others and covers the first word.
 
 ## Changelog
+
+### 1.5.2 (2026-11-09)
+
+- Pressing START to skip the opening no longer freezes the game on a
+  black screen (#108).
+- The Act 2 opening no longer freezes on the Outer Heaven picture when the
+  music changes, or on the Chief's room after the recap (#109, #58). This
+  showed on Mesen.
+- After the Act 2 visit to JUNKER HQ, the item close-ups (the Hospital
+  Oleen sign, the chess piece) draw whole again instead of as scrambled
+  tiles or a black hole (#106).
+- Chin Shu Ho's mugshot after the QUEEN deduction is whole again (#107).
+- Gillian's bowed head at the end of the Neo Kobe-yaki scene no longer
+  shows a black hole where his mouth was (#110).
+- Every line of the video scene inside Joy Division has its subtitle, with
+  Gillian's portrait beside his lines (#111).
 
 ### 1.5.1 (2026-11-07)
 
