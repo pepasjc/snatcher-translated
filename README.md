@@ -1,6 +1,6 @@
 # Snatcher: English Translation (Sega Saturn, PlayStation and PC Engine CD)
 
-**Version 1.5.1** (PC Engine 1.5.2), 2026, by pepa
+**Version 1.5.1** (PC Engine 1.5.3), 2026, by pepa
 
 Snatcher is Hideo Kojima's cyberpunk adventure: in Neo Kobe City, Gillian
 Seed, a detective with no memory of his past, joins the JUNKER unit to hunt
@@ -43,7 +43,7 @@ PlayStation has it.
 |---|---|---|
 | Sega Saturn | `Snatcher-Saturn-English-v1.5.1.zip` | track 1 + track 2 |
 | PlayStation | `Snatcher-PS1-English-v1.5.1.zip` | translation only, or uncensored |
-| PC Engine CD | `Snatcher-PCE-English-v1.5.2.zip` | the whole disc |
+| PC Engine CD | `Snatcher-PCE-English-v1.5.3.zip` | the whole disc |
 
 Downloads: <https://github.com/pepasjc/snatcher-translated/releases>.
 
@@ -325,22 +325,22 @@ By hand:
 
 ```
 copy /b "Snatcher CD-ROMantic (Japan) (Track 01).bin" + ... + "Snatcher CD-ROMantic (Japan) (Track 24).bin" "Snatcher CD-ROMantic (Japan).bin"
-xdelta3 -d -B 1073741824 -s "Snatcher CD-ROMantic (Japan).bin" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.2].xdelta" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.2].bin"
+xdelta3 -d -B 1073741824 -s "Snatcher CD-ROMantic (Japan).bin" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.3].xdelta" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.3].bin"
 ```
 
 (On Linux and macOS, `cat "Snatcher CD-ROMantic (Japan) (Track "*").bin >
 "Snatcher CD-ROMantic (Japan).bin"` joins the tracks.) Put `Snatcher
-CD-ROMantic (Japan) [T-En by pepa v1.5.1].cue` from the zip next to the new
+CD-ROMantic (Japan) [T-En by pepa v1.5.3].cue` from the zip next to the new
 file and load the .cue. Track 2 is longer than the original, so the cue's
 track times differ from the redump cue; use the one in the zip. The
 result should hash:
 
 ```
-Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.2].bin
+Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.3].bin
 Size   634386144
-CRC32  510c5477
-MD5    f1788e6f18a343f6e5b808129f55ecb6
-SHA1   03701bfd7ad942a8a1357cc8bf1045d391814d65
+CRC32  bdb43c63
+MD5    bcb315c1fc4f1f64fe0def19bdb2ab67
+SHA1   d5b9a7698543eb465693bb7d73574cf92ee74f1f
 ```
 
 ### Compatibility
@@ -356,6 +356,8 @@ Open on the tracker at release time (PC Engine label):
 
 - #86: the subtitles in Randam's scene at the end of Act 1 can run out of
   step with the voices.
+- In about nine lines of the ending, Dr. Madnar's portrait on the right
+  covers the last words of a long subtitle row.
 
 ## How it was translated
 
@@ -464,7 +466,8 @@ is still a work in progress.
 - PC Engine: 1.5 is its first release; 1.5.1 corrects Gaudi's entry on
   Napoleon (#102), as on the other two ports; 1.5.2 fixes two freezes
   (skipping the opening, the Act 2 opening) and four picture and subtitle
-  bugs (#106-#111, #58). Details in
+  bugs (#106-#111, #58); 1.5.3 fixes the ending's subtitles (#112)
+  and the bathroom pictures (#113). Details in
   [pce/RELEASE_NOTES.md](pce/RELEASE_NOTES.md).
 - Saturn: [saturn/CHANGELOG.md](saturn/CHANGELOG.md)
 - PlayStation: [ps1/CHANGELOG.md](ps1/CHANGELOG.md)

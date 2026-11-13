@@ -583,10 +583,6 @@ def apply(img, only=None):
                         raise OverflowError(f"rec {rec}: the subtitle table ends at {at + len(subs):#06x}, into the module's stub")
                     code, _ = pcesubs.stub(pcesubs.MODULE_STUB)
                     new[pcesubs.MODULE_STUB_OFF:pcesubs.MODULE_STUB_OFF + len(code)] = code
-                    # its load takes the resident stub's signature away (pcelongs.unsign): its
-                    # own stub, not the resident one, draws the table it was planned for
-                    import pcelongs
-                    new[pcelongs.DESC:pcelongs.DESC + 9] = pcelongs.unsign(rec)
             new[pcepair.FONT_OFF:pcepair.FONT_OFF + len(font)] = font
             # the pair table: the credit roll's rows (rec 130, pceending) are drawn with this
             # module's table, so they take their slots here; after the subtitle table, clear

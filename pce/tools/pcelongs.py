@@ -294,22 +294,6 @@ def descriptor(lrec, nbytes, rec):
                   lrec >> 16, (lrec >> 8) & 0xFF, lrec & 0xFF, 0, bank])
 
 
-def unsign(src_rec):
-    """DESC for a NO_RESIDENT module (the ending, 670): three bytes of `src_rec` (its pristine
-    record, bytecode - never "SB3") read over the resident stub's signature in rec 110's first
-    bank. rec 110 is still in for the ending's first two thirds; with its signature there the
-    trampoline ran the resident stub on the ending's table, planned for the module stub (rows
-    of 12 cells, no window section of its own): the rows overflowed the resident's 10-cell
-    face rows - the cards garbled - and Madnar's throne scenes, with no window, showed none
-    (2026-11-06). Without it the trampoline takes the module's own stub, and the walker hook,
-    which also needs it, leaves the game's faces alone. A file read puts it back."""
-    import pcesubs
-    sig = pcesubs.stub()[1]["sig"]                     # at MPR5 ($A000-$BFFF)
-    dst = 0xC000 + (sig - 0xA000)                      # the bank at MPR6 for the read
-    bank = 0x68 + pcesubs.FACE_BANK
-    return bytes([3, 0, dst & 0xFF, dst >> 8, src_rec >> 16, (src_rec >> 8) & 0xFF, src_rec & 0xFF, 0, bank])
-
-
 def restore():
     """REST: 750's first four sectors ($6B) in mode 4."""
     return bytes([4, 0, 0x6B, 0, R750 >> 16, (R750 >> 8) & 0xFF, R750 & 0xFF, 4])

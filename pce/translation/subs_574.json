@@ -139,7 +139,8 @@
   "cards": [
    "Whoaaaaa!"
   ],
-  "layout": "plain"
+  "layout": "plain",
+  "game_slots": true
  },
  "81": {
   "speaker": "Woman",
@@ -150,7 +151,8 @@
   "cards": [
    "Eeek! Pervert!"
   ],
-  "layout": "plain"
+  "layout": "plain",
+  "game_slots": true
  },
  "82": {
   "speaker": "Woman",
@@ -161,7 +163,8 @@
   "cards": [
    "Get out of here, now!"
   ],
-  "layout": "plain"
+  "layout": "plain",
+  "game_slots": true
  },
  "83": {
   "speaker": "Metal Gear",

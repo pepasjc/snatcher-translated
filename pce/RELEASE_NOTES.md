@@ -1,6 +1,6 @@
 # Snatcher CD-ROMantic (PC Engine CD): English Translation Patch
 
-**Version 1.5.2**, 2026, by pepa
+**Version 1.5.3**, 2026, by pepa
 
 Snatcher is Hideo Kojima's cyberpunk adventure: in Neo Kobe City, Gillian
 Seed, a detective with no memory of his past, joins the JUNKER unit to hunt
@@ -9,8 +9,8 @@ the Snatchers, machines that kill people and take their place.
 original and the first version with the whole story to its end, on the PC
 Engine Super CD-ROM², Japan only. This patch puts it into English.
 
-1.5.2 fixes six bugs players reported in the first release. The
-PlayStation and Saturn patches stay at 1.5.1; all three share one
+1.5.2 and 1.5.3 fix eight bugs players reported in the first release.
+The PlayStation and Saturn patches stay at 1.5.1; all three share one
 translation: the PC Engine script is the same story with fewer
 scenes, and where its Japanese differs, the English follows it.
 
@@ -68,22 +68,22 @@ By hand:
 
 ```
 copy /b "Snatcher CD-ROMantic (Japan) (Track 01).bin" + ... + "Snatcher CD-ROMantic (Japan) (Track 24).bin" "Snatcher CD-ROMantic (Japan).bin"
-xdelta3 -d -B 1073741824 -s "Snatcher CD-ROMantic (Japan).bin" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.2].xdelta" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.2].bin"
+xdelta3 -d -B 1073741824 -s "Snatcher CD-ROMantic (Japan).bin" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.3].xdelta" "Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.3].bin"
 ```
 
 (On Linux and macOS, `cat "Snatcher CD-ROMantic (Japan) (Track "*").bin >
 "Snatcher CD-ROMantic (Japan).bin"` joins the tracks.) Put `Snatcher
-CD-ROMantic (Japan) [T-En by pepa v1.5.2].cue` from the zip next to the new
+CD-ROMantic (Japan) [T-En by pepa v1.5.3].cue` from the zip next to the new
 file and load the .cue. Track 2 is longer than the original, so the cue's
 track times differ from the redump cue; use the one in the zip. The
 result should hash:
 
 ```
-Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.2].bin
+Snatcher CD-ROMantic (Japan) [T-En by pepa v1.5.3].bin
 Size   634386144
-CRC32  510c5477
-MD5    f1788e6f18a343f6e5b808129f55ecb6
-SHA1   03701bfd7ad942a8a1357cc8bf1045d391814d65
+CRC32  bdb43c63
+MD5    bcb315c1fc4f1f64fe0def19bdb2ab67
+SHA1   d5b9a7698543eb465693bb7d73574cf92ee74f1f
 ```
 
 ## Compatibility
@@ -99,10 +99,21 @@ Open on the tracker at release time (PC Engine label):
 
 - #86: the subtitles in Randam's scene at the end of Act 1 can run out of
   step with the voices.
+- In about nine lines of the ending, Dr. Madnar's portrait on the right
+  covers the last words of a long subtitle row.
 - In the factory ruins, Gillian's "A time bomb!" sits beside her screaming
   portrait, which is wider than the others and covers the first word.
 
 ## Changelog
+
+### 1.5.3 (2026-11-13)
+
+- The ending's voiced lines are white and readable again, with the
+  portraits out of the way; the second row no longer turns red and Metal
+  Gear's face no longer scrambles (#112).
+- In Catherine's bathroom the pictures of Gillian crouching and of her
+  scream no longer show stray tiles or go missing under the subtitles
+  (#113).
 
 ### 1.5.2 (2026-11-09)
 

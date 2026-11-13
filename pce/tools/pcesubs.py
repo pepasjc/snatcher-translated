@@ -25,8 +25,10 @@ $5E/$5F ($8000 + (NN - 1) * 8; $8800 on are the effects').
 
 **The stub** (SOURCE, in rec 110's free tail after the face block - a
 module carries only its table, which may run to the halfwidth font at
-TABLE_END; the ending, 670, runs without rec 110 and carries the same
-stub itself at MODULE_STUB_OFF, which the trampoline tries second, with
+TABLE_END; the ending, 670, loses rec 110 to the epilogue's scene block
+and carries the same stub itself at MODULE_STUB_OFF - rec 110's is used
+while it is in, through the ending's voiced lines and their portraits
+(#112) -, which the trampoline tries second, with
 the module's fourth bank at MPR4; third, bank $6C at MPR4, where the
 opening's two blocks carry a stub of their own - pceopening.py, the
 newsreel and Gillian's profile, CD-DA with no ADPCM line) finds the line in the loaded module's table (SUBS_PTR at
@@ -170,8 +172,8 @@ next line of a conversation goes on in the same window instead of the
 band blinking off and on between every two lines. All of that is the FACE
 block: code and the names in the resident file rec 110's free tail
 ($6FC4-$7FFF of its first bank, mapped at MPR5 while the stub runs;
-absent in the opening and the ending, which have no faces - the stub
-checks its signature and does without).
+absent in the opening and the ending's epilogue - the stub checks its
+signature and does without).
 
 A line is a run of word chunks `[cells | colour << 5][pair codes]`; the
 stub word-wraps them into rows of the width in force, two rows a page,
@@ -187,7 +189,8 @@ mapping and the shown window are left to it.
 
 The module's table (in the module's window, or - OVERFLOW - in rec 54's
 first bank behind the act's voice table): `[names offset u16]`, then entries `[NN][sector u16]
-[len u16][fpc u16][char][chunks...]` with a 0 after the last - the sector
+[len u16][fpc u16][char][chunks...]` with a 0 after the last (fpc's bit 0 is GAME_SLOTS,
+every other entry's fpc even) - the sector
 (the record's bytes 3-4) tells apart the same NN in two acts' tables (the
 ending plays c8-d8 of acts 4 and 5; such keys are "c8.5" in the JSON) -,
 then the names block
@@ -265,7 +268,8 @@ MODULE_FACE_OFF = 0x6800     # module-relative: such a module's own face block, 
 MODULE_FACE = 0x8000 + MODULE_FACE_OFF - 0x6000
 MODULE_BANK3 = 0x19          # + [$3F80]: the module window's fourth bank
 OPEN_BANK = 0x04             # + [$3F80]: $6C, where the opening's blocks carry their stub (pceopening)
-NO_RESIDENT = {670}          # modules that run without rec 110 (the ending): the stub goes in the module
+NO_RESIDENT = {670}          # modules that may run without rec 110 (the ending: rec 110 is in through its voiced lines and
+                             # the resident stub draws them; the epilogue's scene block takes it): the stub goes in the module too
 # A module whose window has no room for its table (478, the Mechanic room's chip scene: 1 KB
 # free, a 1.4 KB table) keeps it in the voice bank instead (0x82: rec 54's first bank, loaded
 # once; the act's own table - group 3, recs 86-106, three sectors - loads over its head at
@@ -677,7 +681,12 @@ gwsame:""" if resident else ""
 ; put back as found, these run inside guarded callers too)
 gwget:
   JSR gwin
-  LDA a:{GWROTE}
+  LDA fpc                ; bit 0 of the line's fpc (GAME_SLOTS): the game's own pictures sit in
+  LSR                    ; slots 4 and 5 while it plays - decoded ahead by the record handler
+  LDA a:{GWROTE}         ; the logger cannot read (#113: the bath's crouching and screaming
+  BCC gwg1               ; frames in 574) - so the rows keep out of both
+  ORA #0x30
+gwg1:
   STA gw
   JSR gwout
   LDA gw
@@ -942,6 +951,15 @@ rowx:
   TAX""")
     out = out.replace("{MSGADDR}", str(int(os.environ.get("SUBS_MSGRES", "0"), 0) or MSG_RES if resident else MSG))
     out = out.replace("{ROWVARS}", ROWVARS if resident else "")
+    if not resident:
+        # the module stub's row colour: the epilogue's white (3, EPI_COLOURS) for a CD-DA cue -
+        # its cues are built in those colours - but the game's white (1) for a voiced line,
+        # whose chunks carry the plain colours: 3 is red in the scenes' own palette, and every
+        # row after the first came up red in the ending's voiced lines (#112)
+        a = out.index("  LDA #{ROWCOL}")
+        b = out.index("\n", a)
+        out = (out[:a] + "  LDA cdmode             ; the row's colour: 1, or 3 for a CD-DA cue (the epilogue's white)\n"
+               "  BEQ rcol1\n  LDA #2\nrcol1:\n  INC" + out[b:])
     for k, v in (("EPION", "  JSR epion" if not resident else ""), ("EPIOFF", "  JSR epioff" if not resident else ""),
                  ("EPITICK", "  JSR epitick" if not resident else ""), ("EPI", EPI_SOURCE if not resident else ""),
                  ("ROWCOL", str(EPI_COLOURS.get(TEXT_COLOUR, TEXT_COLOUR) if not resident else TEXT_COLOUR)),
@@ -3768,6 +3786,16 @@ def char_code(speaker):
 
 
 PLAIN = 0x80                 # the entry's character byte: bit 7 = the line is a plain card
+# A voice line's `"game_slots": true` (subs_<rec>.json) sets bit 0 of its entry's fpc (every other
+# fpc is even, 1/256 of a frame a cell off): while it plays the resident stub's gwget counts face
+# slots 4 and 5 as the game's, so its rows go to 6/7 (borrowed if need be) - for the lines the
+# game plays over pictures it decoded ahead into 4/5 through the generic record handler, which
+# the logger there cannot see (it reads the record's vram after the handler has mapped the
+# record's bank over the list). #113: 574's bath, 80-82 - the crouching and screaming frames
+# sit in 2-5 from just before 80 until the scene ends; rows in 4 wrote over them (stray tiles
+# on the scream, the spray gone). Reading that vram right (logging every such decode) reserved
+# 4/5 in scenes whose decodes there are long dead and lost CD-DA cues in 462, 622 and 238.
+GAME_SLOTS = 1
 
 
 def line_char(speaker, layout="face"):
@@ -4437,7 +4465,7 @@ def _table(rec):
         body = b"".join((bytes([0, 0x20, c[1]]) if isinstance(c, tuple) else bytes([0, c])) if t is None
                         else chunk(t, c) for t, c in ch)
         fpc = int(round(fpc_frames * 256)) if fpc_frames else int(round(duration_frames(rec, key) * 256 / max(1, total)))
-        fpc = max(1, min(0xFFFF, fpc))
+        fpc = max(2, min(0xFFFE, fpc)) & ~GAME_SLOTS | (GAME_SLOTS if spec.get("game_slots") else 0)
         for text, colour in ch:
             if text is None:
                 continue
@@ -4471,7 +4499,7 @@ def _table(rec):
         # the words come up at the voice's pace: start..reveal_end (the last word said, from the
         # track's word stamps - pcecdreveal), the page then held to the cue's end
         r = int(round(c.get("reveal_end", c["end"]) * CDDA_FPS))
-        fpc = max(1, min(0xFFFF, int(round((min(e, max(s + 1, r)) - s) * 256 / max(1, total)))))
+        fpc = max(2, min(0xFFFE, int(round((min(e, max(s + 1, r)) - s) * 256 / max(1, total))))) & ~GAME_SLOTS
         for text, colour in ch:
             if text is None:
                 continue

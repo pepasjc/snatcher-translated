@@ -328,15 +328,18 @@ class Pilot:
 
     def subpage(self, r, track):
         """Log each new page of the subtitle stub's buffer (the resident stub's at MSG_RES; the
-        ending's module stub draws through the game's MSG) once it has held for 4 frames - the
+        ending's module stub draws its epilogue cues - CD-DA, after rec 110 is gone - through the
+        game's MSG; its voiced lines are the resident's since #112) once it has held for 4 frames - the
         stub lays a page out over more than one frame - as `subpage mod R line NN|cd TT rows
         [...] issues [...]` for subtext.py to judge against the English."""
         import subtext
         m = r[MSG_RES - BASE:MSG_RES - BASE + 136]
+        module_stub = False
         if not (m[0] == 0xFC and m[1] == 0 and 0xF8 in (m[2], m[4])):   # `fc 00 [f9 01] f8 lo hi`
-            if self.last_mod != 670:
+            if self.last_mod != 670 or not track:
                 return
             m = r[MSG - BASE:MSG - BASE + 96]
+            module_stub = True
             if not (m[0] == 0xFC and (self.cur_nn or track)):
                 return
         end = m.find(0xFF, 3)
@@ -362,8 +365,9 @@ class Pilot:
         what = f"cd {track:02x}" if track else (f"line {self.cur_nn:02x}" if self.cur_nn else "-")
         print(f"{self.frame}: subpage mod {self.cur_mod} {what} rows {rows!r}"
               + (f" issues {issues!r}" if issues else ""), flush=True)
-        if not issues and isinstance(self.cur_mod, int) and self.cur_mod != 670:
-            # (the ending's pictures fill the screen; its epilogue overwrites the module's head: "?")
+        if not issues and isinstance(self.cur_mod, int) and not module_stub:
+            # (the epilogue's module-stub pages are not judged: its scene block overwrites the
+            # module's head, "?"; the ending's voiced lines are the resident's and are read, #112)
             self._scr = {"rows": rows, "frame": self.frame, "what": what, "mod": self.cur_mod}
 
     _scr = None
